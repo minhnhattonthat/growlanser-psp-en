@@ -82,6 +82,39 @@ def decode(b):
     return np.vstack([np.hstack(tiles[r * tw:(r + 1) * tw]) for r in range(th)]), pal, u
 
 
+def rle(u):
+    """Byte RLE as unrle reads it: runs of >= 3 as (count, byte), everything else as literal blocks."""
+    out, lit, p, n = bytearray(), bytearray(), 0, len(u)
+    while p < n:
+        q = p
+        while q < n and q - p < 0x7F and u[q] == u[p]:
+            q += 1
+        if q - p >= 3:
+            while lit:
+                out += bytes([0x80 + min(len(lit), 0x7F)]) + lit[:0x7F]
+                del lit[:0x7F]
+            out += bytes([q - p, u[p]])
+            p = q
+        else:
+            lit.append(u[p])
+            p += 1
+    while lit:
+        out += bytes([0x80 + min(len(lit), 0x7F)]) + lit[:0x7F]
+        del lit[:0x7F]
+    return bytes(out)
+
+
+def encode(pix, pal):
+    """Inverse of decode: indices (H x W, multiples of TILE) + palette -> GLB image entry bytes."""
+    th, tw = pix.shape[0] // TILE, pix.shape[1] // TILE
+    u = bytearray(PAL) + np.asarray(pal, "<u2").tobytes()
+    for r in range(th):
+        for c in range(tw):
+            t = np.ascontiguousarray(pix[r * TILE:(r + 1) * TILE, c * TILE:(c + 1) * TILE], np.uint8)
+            u += t.reshape(TILE // 8, 8, TILE // 16, 16).transpose(0, 2, 1, 3).tobytes()
+    return bytes([0x82, tw, th]) + rle(bytes(u))
+
+
 def rgb(pix, pal):
     p = pal.astype(np.uint32)
     lut = np.stack([(p & 31) << 3, (p >> 5 & 31) << 3, (p >> 10 & 31) << 3], -1).astype(np.uint8)

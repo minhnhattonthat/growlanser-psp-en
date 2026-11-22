@@ -116,6 +116,9 @@ def main():
         rows = Path(args.qa_file).read_text(encoding="utf-8").splitlines()
         overrides.update(r.split("\t", 1) for r in rows if r.strip())
     flat, edits = insert.patched(args.mode, overrides)
+    if args.mode == "en":
+        import gfx
+        gfx.apply(flat, edits)
     out = Path(args.out) if args.out else \
         ROOT / ("build/growlanser_en.iso" if args.mode == "en" else f"build/growlanser_{args.mode}.iso")
     files = {**patches(edits), **flat}
