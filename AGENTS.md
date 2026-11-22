@@ -7,7 +7,8 @@ Reference: the finished PS1 translation of the same game at `../growlanser-en` (
 - Build:    `python -X utf8 build.py` -> build/growlanser_en.iso (checks the dump against `rom.sha1` first) (phase 3+)
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/growlanser_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke --sheet` (original: `"rom/Growlanser (Japan).iso"`; boot.txt reaches the first dialogue box, ~2000 frames, 17 s)
-- Warp:     `python -X utf8 tools/debug/warp.py --scene <name> --out work/qa/warp` (scenes: `tools/debug/scenes.txt`; PPSSPP has no Lua: RAM pokes over the WebSocket via `$SKILL/scripts/psp.py`; never ask the user to play to a scene) (phase 2)
+- Warp:     `python -X utf8 tools/debug/warp.py --scene <name> --out work/qa/warp` (scenes: `tools/debug/scenes.txt`; `--all` regenerates every entry + `work/states/<name>.ppst`; PPSSPP has no Lua: RAM pokes over the WebSocket via `$SKILL/scripts/psp.py`; never ask the user to play to a scene; notes `docs/re/debug.md`)
+- Saves:    `python -X utf8 tools/debug/save.py make work/saves/<name> --warp <scene> --set money=N` / `save.py check work/saves/<name> --expect ...` (saves are encrypted: edits go through RAM and an in-game save; use with `--sav work/saves/<name>`)
 - Release:  `python -X utf8 tools/release.py` (xdelta3 -B + verify; never publish without the user) (phase 9)
 - Clean:    `python -X utf8 tools/clean.py`
 

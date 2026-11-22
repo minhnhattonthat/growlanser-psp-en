@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 2. Debug tool next (phase 1 recon done session 3, 2026-11-22). No build yet.
+- **Phase:** 3. Identity build next (phase 2 debug tool done session 4, 2026-11-22). No build yet.
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -22,9 +22,17 @@ Updated at the end of every session. Keep it to what the next session needs; his
   over GLB maps and MAP.DAT; new P13 = MAP.DAT 1325 PS1-style credits + kana atlas ("プレイヤー／"); GLB maps,
   rest of MAP.DAT, MAGD/NEFF (= PS1 files), .ani, the 30 MAP.DAT kana runs: clean. UPD.UPD compressed: re-check on
   screen in phase 8 (graphics.md "Re-check on screen").
-- **Next (phase 2):** debug tool: PPSSPP has no Lua, poke RAM over the WebSocket with tools/pspdbg.py; port the PS1
-  scene ids (PSP scene N = SCEN entry N+380, PS1 warp notes ../growlanser-en/docs/re/debug.md). Scene list should
-  include the credits (to settle P5 vs P13 with gedump.py), title, game over, appendix room, tutorial (P11).
+  Session 4 (phase 2, docs/re/debug.md): `tools/debug/warp.py` (RAM pokes over the WebSocket: New Game code patched,
+  scene request held, landing asserted on the save block; `jump 0xOFF` sets the event VM at a breakpoint; `kill F`)
+  + `tools/debug/scenes.txt` (80 entries: title/config/load/appendix, new game, dev check menu + its 15 items, 15
+  story points, 16 event quick checks, 14 event battles, 5 dungeons, ending, credits, tutorial status P11, field
+  menu + gear screens): `warp.py --all --out work/qa/warp` = 80/80 land (work/qa/warp/summary.tsv, finals*.png
+  checked by eye), states in work/states/<name>.ppst. `tools/debug/save.py` (saves are encrypted: RAM edits +
+  in-game save; make + check round trip verified for money/LV/HP, work/saves/edit1). No disc 2 on PSP.
+- **Next (phase 3):** identity build: unpack ISO, repack with no edits, byte-identical test (`build.py`).
+  Phase 8 warp additions still open: game over (docs/re/debug.md "Game over"), clear-save fixture for APPENDIX,
+  shops, stress saves (inventory lists, other unit records). Credits: cast pages with Japanese names at f21000-23400
+  of the `credits` warp (settle P5 vs P13 there).
 - **Open bugs:** none.
 - **Waiting on the user:** (non-blocking) face-plate art spells ELIOTTE/RUISE/RICHART (DATA.DAT chr_face*.bmp);
   default = redraw to the glossary spellings (Elliot, Luise, Richard) per D9.

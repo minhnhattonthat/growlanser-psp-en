@@ -37,3 +37,18 @@ def test_textfind_row_of_glyphs():
         a[20:30, 10 + i * 13:20 + i * 13:2] = 255
         a[24, 10 + i * 13:20 + i * 13] = 255
     assert score(a, 5)[0] >= 5
+
+
+def test_warp_scene_list_parses():
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools" / "debug"))
+    import warp
+    scenes = warp.load_scenes()
+    assert scenes["dbgmenu"]["scene"] == 18 and (scenes["dbgmenu"]["area"], scenes["dbgmenu"]["sub"]) == (2, 1)
+    assert scenes["tut_status"]["jump"] == 0x20BA
+    for name, spec in scenes.items():  # every route expands; scene ids fit the 380 scenes
+        warp.expand(spec["route"] or "")
+        assert spec["kind"] == "title" or 0 <= spec["scene"] < 380, name
+    assert warp.expand("pick 2;6 circle*2/10") == [(6, {"down"}), (24, set())] * 2 + [(6, {"circle"}), (120, set()),
+                                                   (6, {"circle"}), (10, set()), (6, {"circle"}), (10, set())]
+    patch = dict(warp.new_game_patch(81, 0))
+    assert patch[0x08806300] == 0x24020000 + 81 and patch[0x08806320] == 0

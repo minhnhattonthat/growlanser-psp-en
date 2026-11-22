@@ -1,0 +1,114 @@
+# Debug warp scene list (tools/debug/warp.py, docs/re/debug.md). One per line:
+#   name  title|scene N [area A sub S] [frames F] [then ROUTE]
+# scene N = scene id 0-379 (SCEN.DAT entry N+380; PS1 ids 0-279 are the same scenes). area/sub = map (default 2/5,
+# New Game's). frames = run length (default 4500). ROUTE runs after landing: "FRAMES KEYS" steps split by ";",
+# "6 circle*20" repeats (press + 30 idle), "6 circle*20/60" (60 idle), "pick N" = cursor down N then Circle.
+# Scene 18 is the developers' leftover check menu ("dbg" below), as on PS1, with 3 more items (15, wraps):
+#   0 Luise magic+M2 gear, 1 encounters off, 2 misc check, 3 full check (story points), 4 FC check, 5 dungeons,
+#   6 event battles, 7 event quick check, 8 face graphics, 9 units, 10 parameters, 11 name/territory change,
+#   12 追加コマンドテスト (added-command test), 13 石原チェック用 (Ishihara's check), 14 ＳＥチェック (sound effects).
+# Circle confirms, cross cancels. The title cursor starts on LOAD (no save) and warp.py moves it to START.
+
+# front end
+title            title frames 900
+# the title takes input from ~f700 ("title" lands at f600). APPENDIX reads clear data from the memory stick: with
+# none it shows the system "no save data" dialog (a clear save is a phase 8 fixture)
+title_load       title frames 1300 then 120 -;6 circle;400 -
+title_config     title frames 1400 then 120 -;6 down;60 -;6 circle;400 -
+title_appendix   title frames 1500 then 120 -;6 down;60 -;6 down;60 -;6 circle;400 -
+newgame          scene 0 frames 3000 then 6 circle*20
+newgame_home     scene 0 frames 14000 then 6 circle*350
+
+# the developers' check menu (scene 18) and its screens
+dbgmenu          scene 18 area 2 sub 1 frames 1400 then 300 -
+dbg_misc         scene 18 area 2 sub 1 frames 2400 then 300 -;pick 2;300 -
+dbg_fc           scene 18 area 2 sub 1 frames 2400 then 300 -;pick 4;300 -
+dbg_face         scene 18 area 2 sub 1 frames 2400 then 300 -;pick 8;300 -
+dbg_units        scene 18 area 2 sub 1 frames 2400 then 300 -;pick 9;300 -
+dbg_params       scene 18 area 2 sub 1 frames 2400 then 300 -;pick 10;300 -
+dbg_addcmd       scene 18 area 2 sub 1 frames 2400 then 300 -;pick 12;300 -
+dbg_ishihara     scene 18 area 2 sub 1 frames 2400 then 300 -;pick 13;300 -
+dbg_se           scene 18 area 2 sub 1 frames 2400 then 300 -;pick 14;300 -
+name_entry       scene 18 area 2 sub 1 frames 3000 then 300 -;pick 11;6 circle*10
+
+# story points, entered the way the debug menu does it (flags set, then the scene loads): dbg 3 -> list
+st_shikan        scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 0;6 circle*100
+st_vac01         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 1;6 circle*100
+st_vac02         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 2;6 circle*100
+st_vac03         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 3;6 circle*100
+st_vac04         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 4;6 circle*100
+st_vac05         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 5;6 circle*100
+st_vac06         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 6;6 circle*100
+st_vac07         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 7;6 circle*100
+st_vac08         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 8;6 circle*120
+st_vac09         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 9;6 circle*120
+st_vac10         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 10;6 circle*120
+st_vac11         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 11;6 circle*120
+st_gevel         scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 12;6 circle*120
+st_after_gevel   scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 13;6 circle*120
+st_party_feather scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 14;pick 0;6 circle*120
+st_party_stone   scene 18 area 2 sub 1 frames 6000 then 300 -;pick 3;pick 14;pick 1;6 circle*120
+# ending (scene 11 = ティピの日記 epilogue, area 81) and the staff roll after it (PS1: CAST ~f12000, staff to f28800)
+ending           scene 11 area 81 sub 0 frames 12000 then 6 circle*1600
+credits          scene 11 area 81 sub 0 frames 30000 then 6 circle*3000
+
+# event quick check: dbg 7 -> list
+ev_charamake     scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 0;6 circle*60
+ev_charamake_end scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 1;6 circle*60
+ev_cape          scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 2;6 circle*60
+ev_battle001     scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 3;6 circle*60
+ev_luise_joins   scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 4;6 circle*60
+ev_delis         scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 5;6 circle*60
+ev_wallace_joins scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 6;6 circle*60
+ev_battle002     scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 7;6 circle*60
+ev_feast_julian  scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 8;6 circle*60
+ev_teleport      scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 9;6 circle*60
+ev_battle003     scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 10;6 circle*60
+ev_mother        scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 11;6 circle*60
+ev_academy       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 12;6 circle*60
+ev_featherland   scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 13;6 circle*60
+ev_colosseum     scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 14;6 circle*60
+ev_ranzak        scene 18 area 2 sub 1 frames 5000 then 300 -;pick 7;pick 15;6 circle*60
+
+# event battles: dbg 6 -> list
+bt_tutorial      scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 0;6 circle*60
+bt_oswald1       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 1;6 circle*60
+bt_bandits       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 2;6 circle*60
+bt_oswald2       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 3;6 circle*60
+bt_sandra        scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 4;6 circle*60
+bt_dekagel       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 5;6 circle*60
+bt_queengel      scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 6;6 circle*60
+bt_convoy        scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 7;6 circle*60
+bt_elliot        scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 8;6 circle*60
+bt_forest        scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 9;6 circle*60
+bt_glengar       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 10;6 circle*60
+bt_medis         scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 11;6 circle*60
+bt_fake_brother  scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 12;6 circle*60
+bt_bernard       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 6;pick 13;6 circle*60
+
+# dungeons: dbg 5 -> list
+dn_mystery       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 5;pick 0;6 circle*60
+dn_glocian       scene 18 area 2 sub 1 frames 5000 then 300 -;pick 5;pick 1;6 circle*60
+dn_featherian    scene 18 area 2 sub 1 frames 5000 then 300 -;pick 5;pick 2;6 circle*60
+dn_forest_ruins  scene 18 area 2 sub 1 frames 5000 then 300 -;pick 5;pick 3;6 circle*60
+dn_waterfall     scene 18 area 2 sub 1 frames 5000 then 300 -;pick 5;pick 4;6 circle*60
+
+# "jump 0xOFF": after landing, warp.py points the event VM at that offset of the scene's entry N+380 (one handler, e.g.
+# an NPC's, without walking there). Rosaria's magic class (scene 1, op 76 -> area 85 sub 6): the tutorial status
+# picture (P11) and the lesson text.
+tut_status       scene 1 jump 0x20BA frames 4000 then 6 circle*80
+# Game over: not reached yet. "kill F" holds hero HP 1 and AT 0 from frame F (warp.py, verified on the battle HUD),
+# but the tutorial battle (dbg 6 -> 0) still ended in a win or stalled on Tippi's dialogue; try a later battle (phase 8).
+
+# field menu (from the end of character creation, ev_charamake_end), each top-level item
+menu             scene 18 area 2 sub 1 frames 5200 then 300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -
+menu_0           scene 18 area 2 sub 1 frames 5400 then 300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 0;150 -
+menu_1           scene 18 area 2 sub 1 frames 5400 then 300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 1;150 -
+menu_2           scene 18 area 2 sub 1 frames 5400 then 300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 2;150 -
+menu_3           scene 18 area 2 sub 1 frames 5400 then 300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 3;150 -
+menu_4           scene 18 area 2 sub 1 frames 5400 then 300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 4;150 -
+menu_5           scene 18 area 2 sub 1 frames 5400 then 300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 5;150 -
+# gear: check-menu item 0 (Luise learns magic + everyone gets M2 gear; then "teleport?" -> yes) fills the lists
+gear_items       scene 18 area 2 sub 1 frames 6400 then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 1;150 -
+gear_equip       scene 18 area 2 sub 1 frames 6400 then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 2;150 -
+gear_status      scene 18 area 2 sub 1 frames 6400 then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 3;150 -
