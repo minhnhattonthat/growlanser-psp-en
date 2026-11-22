@@ -4,6 +4,7 @@
                                                                       -> fix -> merge
     python -X utf8 tools/tl_run.py synopsis [-j 6]                    scene summaries -> docs/synopsis.md draft
     python -X utf8 tools/tl_run.py psp-scenes sNNN .. [-j 6]          PSP-only scene summaries -> synopsis section
+    python -X utf8 tools/tl_run.py pairs bNNN ..                      reviewer pairs file work/tl/pairs/bNNN.txt
     python -X utf8 tools/tl_run.py status                             per-batch state
 
 Per batch (work/tl/): bNNN.out.tsv (passing English), bNNN.report.txt (translator report), reviews/bNNN.md
@@ -271,6 +272,11 @@ def main(argv):
         names = [p.stem for p in batches.existing()]
     if argv[:1] == ["synopsis"]:
         return synopsis(jobs)
+    if argv[:1] == ["pairs"]:  # reviewer input for subagent review (D13): work/tl/pairs/bNNN.txt
+        (TL / "pairs").mkdir(exist_ok=True)
+        for b in names:
+            (TL / f"pairs/{b}.txt").write_text(pairs(b) + "\n", encoding="utf-8", newline="\n")
+        return 0
     if argv[:1] == ["psp-scenes"]:
         return psp_scenes([a for a in argv[1:] if re.fullmatch(r"s\d{3}", a)], jobs)
     if argv[:1] == ["status"]:

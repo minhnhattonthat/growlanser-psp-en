@@ -258,6 +258,18 @@ alternatives); an Avoid spelling fails.
 | モンスター使い | Monster Tamer | | | monster handler |
 - 目 as `{s:0127}` (names-table kanji, renders "Eye"): English drops the code and writes the word (`batches.GLYPH_VARS`).
 
+## PSP-only terms (terms pass 2026-11-22, tools/termscan.py; agent picks under D9, romanisation rule above)
+| JP | EN | max | notes | Avoid |
+|---|---|---|---|---|
+| メルフィ | Melfie | | PSP-only character (hospitalised, later released; works with Luise against Dunkels) | Melfi / Merfie |
+| アメリア | Amelia | | PSP-only, Magic Academy researcher | |
+| ジャスティン | Justin | | PSP-only | |
+| デュンケルス | Dunkels | | the Darkness entity (闇); German dunkel | Dunkelz |
+| ラミィ | Lamie | | PSP bonus fairy chat partner, airy drawn-out speech (～です～), calls the hero ご主人様 "Master" | Lamy / Rami |
+| ユリィ | Yurie | | PSP bonus fairy chat partner | Yuri / Yuly |
+| コリン | Colin | | PSP bonus fairy chat partner | Corin |
+| るいせちゃんのお部屋 | Luise-chan's Room | | door plate in child's hiragana: keep the childish feel | |
+
 ## Decisions from earlier batches
 - 秘石 (in dialogue) = Power Stone, like パワーストーン; the item 秘石制御装置 stays "Gem Control Unit" (96 px item cap).
 - Case-only variants (Magic Crystal / magic crystal, Multipurpose Hall) follow normal English capitalisation: proper

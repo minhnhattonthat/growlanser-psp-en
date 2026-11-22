@@ -16,6 +16,10 @@ an ancient threat. Tone: earnest fantasy drama with comic banter (mostly Tippi).
    approved English (a reworded line): reuse its wording wherever the Japanese is unchanged and change only what
    differs. `ctx <id>` lines are the already-translated neighbours of a run of batch lines: continue them in voice
    and wording.
+5. For a PSP-only scene with little context, read its `script/scen/sNNN.json` (the id's `scenNNN` part): every line
+   in order, with `en` where it is already translated.
+
+Read every file in parts (offset/limit, ~150 lines a call): whole-file reads above ~4 KB come back as a stub.
 
 ## Input: `work/tl/<batch>.tsv`
 `id<TAB>speaker<TAB>form<TAB>limit<TAB>Japanese`. form: dlg (dialogue box), choice (a choice line, starts with ・),
