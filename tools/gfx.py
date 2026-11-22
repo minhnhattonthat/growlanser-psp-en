@@ -219,6 +219,75 @@ def binder(data):
     return bmp_edit(data, fn)
 
 
+PLATE_SRC = {  # letter: (plate row k in chr_face.bmp column 0, first ink column, ink end); copied as [s, e + 1)
+    "E": (2, 44, 52), "L": (0, 22, 29), "I": (2, 31, 34), "O": (6, 42, 50), "T": (1, 43, 51), "U": (2, 22, 29),
+    "S": (2, 35, 43), "J": (8, 13, 21), "A": (4, 46, 55), "N": (6, 32, 41), "R": (2, 13, 21), "C": (12, 40, 49),
+    "H": (4, 37, 45), "M": (4, 13, 23), "Y": (0, 39, 48),
+}
+PLATE_D = ["111111344", "111111134", "113443113", "113443113", "113443113", "113443113", "111111123", "111111233"]
+PLATE_BG = np.array([4] * 6 + [3] * 2, np.uint8)[:, None]  # plate rows 1-8: gradient body (index 4, lower rows 3)
+PLATES = {  # file: [(plate x, plate y, new name)] (plates found by their top row; see docs/re/graphics.md P7)
+    "chr_face.bmp": [(0, 92, "ELLIOT"), (80, 92, "ELLIOT"), (0, 104, "LUISE"), (80, 104, "LUISE"),
+                     (0, 176, "JULIAN"), (80, 176, "JULIAN"), (0, 200, "RICHARD"), (80, 196, "RICHARD"),
+                     (0, 212, "DUMMY")],
+    "chr_face_frd.bmp": [(72, 92, "ELLIOT"), (72, 104, "LUISE"), (72, 176, "JULIAN"), (72, 196, "RICHARD")],
+}
+
+
+def plate_glyphs(face):
+    """The face plates' bold 8-row letters, cut from the original chr_face.bmp plates (D drawn: no D on the sheet)."""
+    a = np.array(Image.open(io.BytesIO(face)))
+    g = {ch: a[80 + 12 * k + 1:80 + 12 * k + 9, s:e + 1].copy() for ch, (k, s, e) in PLATE_SRC.items()}
+    g["Y"][6, 0] = 3  # PLAYER's A leg touches the Y cell
+    g["D"] = np.array([[int(c) for c in r] for r in PLATE_D], np.uint8)
+    return g
+
+
+CELL_FONT = {  # 5x7, 1 px strokes like the cells' kana
+    "D": ["####.", "#...#", "#...#", "#...#", "#...#", "#...#", "####."],
+    "U": ["#...#", "#...#", "#...#", "#...#", "#...#", "#...#", ".###."],
+    "M": ["#...#", "##.##", "#.#.#", "#.#.#", "#...#", "#...#", "#...#"],
+    "Y": ["#...#", "#...#", ".#.#.", "..#..", "..#..", "..#..", "..#.."],
+}
+
+
+def face_plates(name, data, face):
+    """P7: DATA.DAT / DATA_BOOT.DAT chr_face.bmp, chr_face_frd.bmp: the status-screen face plates (72x12, pencil icon
+    then bold letters from x+13) spelled ELIOTTE RUISE JURIAN RICHART and one "だみー 3" -> glossary names (D9); the
+    placeholder portrait cells (40 px grid from (0,80), white "ダミー" over a flat colour; mostly under the plates) ->
+    "DUMMY" where the whole word shows."""
+    g = plate_glyphs(face)
+
+    def fn(a):
+        cells = 0
+        for i in range(4):
+            for j in range(6):
+                y0, x0 = 82 + 40 * i, 2 + 40 * j
+                box = a[y0 + 6:y0 + 17, x0 + 5:x0 + 33]
+                vals = np.unique(box[box > 5])  # 0-5 = a plate on top
+                if len(vals) != 2 or vals[1] != 253 or (box == 253).sum() < 40:
+                    continue  # covered by a plate (a few kana pixels peek out under N.P.C.)
+                box[box == 253] = vals[0]
+                for k, ch in enumerate("DUMMY"):
+                    for r, row in enumerate(CELL_FONT[ch]):
+                        for c, v in enumerate(row):
+                            if v == "#" and a[y0 + 8 + r, x0 + 3 + 6 * k + c] == vals[0]:  # not over a plate
+                                a[y0 + 8 + r, x0 + 3 + 6 * k + c] = 253
+                cells += 1
+        assert cells == {"chr_face.bmp": 8, "chr_face_frd.bmp": 16}[name], (name, cells)
+        for x, y, text in PLATES[name]:
+            assert (a[y, x:x + 10] == [5] * 6 + [4] * 4).all() and a[y + 9, x] == 2, (name, x, y)
+            t = a[y + 1:y + 9, x + 12:x + 72]
+            t[:] = PLATE_BG
+            cx = 1
+            for ch in text:
+                w = min(g[ch].shape[1], t.shape[1] - cx)  # RICHARD fills the plate: its D loses the edge column
+                assert not np.isin(g[ch][:, w:], (1, 2)).any(), (name, text)
+                t[:, cx:cx + w] = g[ch][:, :w]
+                cx += w
+    return bmp_edit(data, fn)
+
+
 def png_bytes(im, size=None):
     """PNG bytes; with size, padded to exactly size bytes by a tEXt chunk before IEND. DATA.DAT and DATA_BOOT.DAT
     must keep their entry sizes: with a shorter save icon in DATA.DAT the ending's staff roll stayed black (the game
@@ -288,6 +357,7 @@ def apply(flat, edits):
             "GR_SAVE_ICON0.PNG": icon0(datadat.get(d, "GR_SAVE_ICON0.PNG")),
             "GR_SAVE_PIC1.PNG": pic1(datadat.get(d, "GR_SAVE_PIC1.PNG")),
             "MESWDA3E.bmp": labels_bmp(datadat.get(d, "MESWDA3E.bmp")),
+            **{n: face_plates(n, datadat.get(d, n), datadat.get(d, "chr_face.bmp")) for n in PLATES},
         })
     import credits  # P5: the staff roll
     d = orig(G + "DATA.DAT")
@@ -304,6 +374,8 @@ def apply(flat, edits):
         U + "GR_SAVE_PIC1.PNG": pic1(orig(U + "GR_SAVE_PIC1.PNG")),
         "/PSP_GAME/PARAM.SFO": sfo_title(orig("/PSP_GAME/PARAM.SFO")),
     })
+    # P9 (tools/pmflogo.py) stays out: its movies decode clean in ffmpeg but PPSSPP's attract movie corrupts from
+    # the first edited GOP and aborts (work/qa/pmf_idle vs pmf_idle_jp, f6300-f6600); see docs/status.md
     return flat, edits
 
 

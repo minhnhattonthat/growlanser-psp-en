@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator in progress (session 14: graphics text P1-P6, P8, P10-P12 done; P7 face
-  plates, P9 movies, inkbox, stress saves left; see "Phase 8 progress" below).
+- **Phase:** 8. QA in the emulator in progress (session 15: P7 face plates done; P9 movie tool built but off
+  (PPSSPP playback breaks); inkbox, stress saves, cold-boot P-row shots left; see "Phase 8 progress" below).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -128,13 +128,25 @@ Updated at the end of every session. Keep it to what the next session needs; his
     2e1da691: title (work/qa/g1 smoke), gear_status grid (work/qa/gfx_status), tut_status (work/qa/gfx_tut f001800),
     credits roll English (work/qa/gfx_cred f018600-f025000), smoke ok. Not yet seen in game: appendix room (OMAKE),
     card binder, XMB/save icons (save screen at the end of the credits warp shows GR_SAVE_PIC1?).
+  - **Session 15.** P7 done: `gfx.face_plates` (chr_face.bmp + chr_face_frd.bmp, DATA.DAT and DATA_BOOT.DAT): the
+    13 misspelt plates -> ELLIOT/LUISE/JULIAN/RICHARD/DUMMY with letters cut from the sheet's own plates (D drawn),
+    the 24 visible ダミー portrait cells -> DUMMY (5x7). Preview checked; in game the status header draws the edited
+    sheet (work/qa/p7_plates/final.png, PLAYER plate; the renamed plates need those party members: check in the
+    stress saves). Build 34fa210e, check ok.
+    P9: `tools/pmflogo.py build` -> work/pmf/en/op{1,2}.pmf: fmvlogo.py mask/fill ported, the logo GOPs re-encoded
+    with x264 (CQP per GOP) and their slices put back into the original AUs (slice headers rewritten for the GOP's
+    own SPS/PPS: pic_init_qp changes per GOP; AU bytes pooled per GOP, only PTS packets pin an AU start; filler
+    NAL padding). ffmpeg decodes both with 0 errors, same frame count, frames outside the 14 edited GOPs identical,
+    subtitle gone in every sampled frame (work/pmf/en/*.png). **But PPSSPP's attract movie (idle at the title ~f3400)
+    corrupts from the first edited GOP (~f6300) and returns to the title at f6600** (work/qa/pmf_idle vs
+    pmf_idle_jp, --shots 6150..6650). So `gfx.apply` does not ship it. Suspects: PPSSPP/sceMpeg wants each AU at its
+    original size/position (try: per-AU sizes kept, only GOPs where x264 fits every AU, or freeze frames), or the
+    filler NAL / zero padding, or x264 SPS-independent features (check with a GOP re-encoded from unedited frames).
 - **Next (phase 8, QA in the emulator):**
-  1. Graphics left: P7 face plates (DATA.DAT + DATA_BOOT.DAT chr_face.bmp / chr_face_frd.bmp, 72x11 plates at
-     (0|80, 81+12k), 8bpp, gradient bg: ELIOTTE->ELLIOT, RUISE->LUISE, JURIAN->JULIAN, RICHART->RICHARD (no D on
-     the sheet: build from P/O), ダミー 3 plate and the ダミー NN cells -> DUMMY; the plate shows on the status screen
-     header); P9 movies op1/op2.pmf subtitle (H.264 PSMF: re-encode the logo frames, or a ruling to keep); UPD.UPD
-     re-check on screen; then a zoomed cold-boot shot of every P row (appendix room warp title_appendix, binder,
-     save screen) and a fresh `qa_gate init` + verdicts for the changed screens.
+  1. Graphics left: P9 (above: debug in PPSSPP, or put "keep the movie subtitle" under Waiting on the user if it
+     can't be made safe); UPD.UPD re-check on screen; then a zoomed cold-boot shot of every P row (appendix room
+     warp title_appendix, binder, save screen, status plates) and a fresh `qa_gate init` + verdicts for the
+     changed screens.
   2. inkbox on centred boxes: port ../growlanser-en/tools/inkqa.py + inkcheck.py (colours/positions for PSP: field
      bubbles, place popup, captions; choice boxes are left-aligned like the JP: not targets).
   3. Stress saves (references/emulator-qa.md §Stress saves) with `tools/debug/save.py`: longest item names, full
@@ -144,5 +156,5 @@ Updated at the end of every session. Keep it to what the next session needs; his
      clear-save fixture. Raw `warp.py --scene "scene 186"` lands on a black map (original too).
   5. After any text/code change: rebuild, re-tour changed screens, `qa_gate init` + verdicts, cover.py rerun.
 - **Open bugs:** Signed EBOOT untested on real hardware (tag 0 instead of the original key).
-- **Waiting on the user:** (non-blocking) face-plate art spells ELIOTTE/RUISE/RICHART (DATA.DAT chr_face*.bmp);
-  default = redraw to the glossary spellings (Elliot, Luise, Richard) per D9.
+- **Waiting on the user:** (non-blocking) face-plate art spelled ELIOTTE/RUISE/RICHART: redrawn to the glossary
+  spellings (Elliot, Luise, Richard) per D9 (session 15); say if the original art spellings should stay.

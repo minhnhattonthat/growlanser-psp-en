@@ -23,7 +23,11 @@ by offset), `tools/gfxsweep.py` (sector archive -> deduped sheets; from the PS1 
 | P10 | XMB and save icons: logo with the subtitle グローランサー (+ tiny English blurb) | `PSP_GAME/ICON0.PNG`, `PIC0.PNG`, `USRDIR/GR_SAVE_ICON0.PNG`, `GR_SAVE_PIC1.PNG` (+ the GR_SAVE_* copies in DATA.DAT and DATA_BOOT.DAT); PARAM.SFO title グローランサー (text, `sfo.py`) | PNG | - |
 
 P7 spellings conflict with the glossary (Elliot, Luise, Richard: PS1 D9); redrawing them to glossary spellings is the
-default (non-blocking question in status.md).
+default (non-blocking question in status.md). Done in `gfx.face_plates` (session 15): plates are 72x12 (top row
+5/4, text rows 1-8 on a 4/3 gradient, ink 1, antialias 2/3), found by their top row; chr_face.bmp col 0 at (0, 80+12k),
+col 1 at x 80 (AMELIA/RICHART/N.P.C. at y 186/196/208), chr_face_frd.bmp at x 72.
+P9: `tools/pmflogo.py` re-encodes the logo GOPs (op1 1468-1639 + 2995-3131, op2 1478-1666 + 3011-3188); clean in
+ffmpeg, broken in PPSSPP playback, so not in the build yet (status.md).
 
 ## Swept, no Japanese (all static sources covered)
 - DATA.DAT BMPs: MESWDA0a, STICN02a, autoall, spot, test_gr256, visual1-5 (gallery thumbnails), yuko00-02,
