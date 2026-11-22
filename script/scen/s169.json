@@ -71,7 +71,7 @@
   {
    "id": "scen169.0009",
    "jp": "ジャスティン",
-   "en": "",
+   "en": "Justin",
    "term": "null"
   },
   {
@@ -84,85 +84,85 @@
   {
    "id": "scen169.0011",
    "jp": "‥‥人がいない‥‥。{n}{FFFB}アタシたち、{n}ヴァルミエを救ってあげられなかったんだね。",
-   "en": "",
+   "en": "...There's nobody here... {FFFB}We couldn't save Valmier,{n}could we?",
    "term": "end"
   },
   {
    "id": "scen169.0012",
    "jp": "うわ、早くしないとヤバイよ！",
-   "en": "",
+   "en": "Whoa, we'd better hurry or we're toast!",
    "term": "end"
   },
   {
    "id": "scen169.0013",
    "jp": "それじゃあ、携帯集魔柱を立てられそうな{n}場所を早く見つけましょう！",
-   "en": "",
+   "en": "Then let's quickly find a spot where we can set up the{n}Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen169.0014",
    "jp": "この辺りなら大丈夫ね。{n}ここに立てましょう。",
-   "en": "",
+   "en": "This spot should be fine. Let's set it up here.",
    "term": "end"
   },
   {
    "id": "scen169.0015",
    "jp": "立てられそうな場所がないか、{n}アタシが見てくるね。{n}えーと、ちょっと待ってて。",
-   "en": "",
+   "en": "I'll go look for somewhere we can set it up. Um, wait{n}here a sec.",
    "term": "end"
   },
   {
    "id": "scen169.0016",
    "jp": "上から見るとこのへんがいい感じね。{n}このあたりに設置すればいいんじゃない？",
-   "en": "",
+   "en": "From up above, this area looks pretty good. Why don't{n}we set it up around here?",
    "term": "end"
   },
   {
    "id": "scen169.0017",
    "jp": "ティピちゃんが言ったように、{n}下にある橋の辺りがいいと思うわ。",
-   "en": "",
+   "en": "Like Tippi-chan said, I think the area by the bridge{n}down below would be good.",
    "term": "end"
   },
   {
    "id": "scen169.0018",
    "jp": "ここは立てるのに適してないわね。{n}他の場所にしましょう。",
-   "en": "",
+   "en": "This isn't a good spot to set it up. Let's try{n}somewhere else.",
    "term": "end"
   },
   {
    "id": "scen169.0019",
    "jp": "　{n}　　　　　　携帯集魔柱を設置した！",
-   "en": "",
+   "en": "　{n}　　　　　　Set up a Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen169.0020",
    "jp": "どうやら間に合ったようだな。",
-   "en": "",
+   "en": "Looks like we made it in time.",
    "term": "end"
   },
   {
    "id": "scen169.0021",
    "jp": "けど、ジャスティンはすぐに{n}次のターゲットを定めてるはずよ。{n}{FFFB}急いで魔法学院に戻りましょう！",
-   "en": "",
+   "en": "But Justin must already be setting his sights on the{n}next target. {FFFB}Let's hurry back to the Magic Academy!",
    "term": "end"
   },
   {
    "id": "scen169.0022",
    "jp": "ヴァルミエは助かったみたいね。",
-   "en": "",
+   "en": "Looks like Valmier was saved.",
    "term": "end"
   },
   {
    "id": "scen169.0023",
    "jp": "人の気配がしない‥‥。{n}ここには、もう誰もいないようだ。",
-   "en": "",
+   "en": "There's no sign of anyone... It seems no one is left{n}here anymore.",
    "term": "end"
   },
   {
    "id": "scen169.0024",
    "jp": "人の気配がしない‥‥。{n}ここから先は、もう誰もいないようだ。",
-   "en": "",
+   "en": "There's no sign of anyone... It seems no one is left{n}beyond this point.",
    "term": "end"
   },
   {
@@ -189,7 +189,7 @@
   {
    "id": "scen169.0028",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
@@ -202,13 +202,13 @@
   {
    "id": "scen169.0030",
    "jp": "生まれたときからこの街に住んでいるが、{n}こんな事態は初めてだよ。",
-   "en": "",
+   "en": "I've lived in this town since the day I was born, but I've{n}never seen anything like this.",
    "term": "end"
   },
   {
    "id": "scen169.0031",
    "jp": "アンタたちのおかげで助かったみたいだな。{n}ありがとう！",
-   "en": "",
+   "en": "Looks like we were saved thanks to you folks. Thanks!",
    "term": "end"
   },
   {
@@ -221,43 +221,43 @@
   {
    "id": "scen169.0033",
    "jp": "こんなに暗くちゃ、仕事に行けないよ。",
-   "en": "",
+   "en": "I can't go to work when it's this dark.",
    "term": "end"
   },
   {
    "id": "scen169.0034",
    "jp": "ただの悪天候だと思ってたら、{n}あれが闇落としとかいうやつだったのか！{p}もう少しで、ここもブローニュ村と{n}同じ状態になるところだったんだな‥‥。",
-   "en": "",
+   "en": "I thought it was just bad weather, but that was the{n}so-called Darkfall?!{p}This place came this close to ending up just like{n}Boulogne Village...",
    "term": "end"
   },
   {
    "id": "scen169.0035",
    "jp": "‥‥はぁ。{n}寝ては夢、醒めてはうつつ‥‥。{p}調査団の中にいた、{n}あの学院長の秘書さん、綺麗だったなぁ‥‥。{p}おかげで仕事が手につかないよ‥‥。",
-   "en": "",
+   "en": "...*sigh* Asleep or awake, I can't stop thinking of her...{p}The Headmaster's secretary, the one with the survey{n}team, was so beautiful...{p}I can't get any work done...",
    "term": "end"
   },
   {
    "id": "scen169.0036",
    "jp": "こ、こういう時は落ち着かなきゃ‥‥！{p}えーと‥‥、{n}押さない・駆けない・喋らないだよな。{n}{FFFB}あれ、それは火事だったっけ‥‥！？",
-   "en": "",
+   "en": "I-I have to stay calm at a time like this...!{p}Um... Don't push, don't run, don't talk, right? {FFFB}Wait, or was{n}that for fires...?!",
    "term": "end"
   },
   {
    "id": "scen169.0037",
    "jp": "こんなに恐い思いをしたのは、{n}生まれて初めてだよ‥‥。{p}助けてくれた君たちには、心から感謝している。{n}どうもありがとう！",
-   "en": "",
+   "en": "I've never been so scared in my whole life...{p}You saved us, and I'm grateful from the bottom of my{n}heart. Thank you so much!",
    "term": "end"
   },
   {
    "id": "scen169.0038",
    "jp": "人の気配がしない‥‥。{n}ここには誰も住んでいないようだ。",
-   "en": "",
+   "en": "There's no sign of anyone... It seems no one lives here.",
    "term": "end"
   },
   {
    "id": "scen169.0039",
    "jp": "ここでじっとしてても、{n}助かるわけないよな‥‥。{n}{FFFB}けど、このまま死にたくないよ‥‥。",
-   "en": "",
+   "en": "Just sitting here isn't gonna save me... {FFFB}But I don't{n}wanna die like this...",
    "term": "end"
   },
   {
@@ -270,7 +270,7 @@
   {
    "id": "scen169.0041",
    "jp": "ついに、ヴァルミエも闇落としの{n}標的になってしまったのかい‥‥。",
-   "en": "",
+   "en": "So Valmier has finally become a target of the{n}Darkfall too...",
    "term": "end"
   },
   {
@@ -290,13 +290,13 @@
   {
    "id": "scen169.0044",
    "jp": "ただ今、何故か街全体が{n}暗闇に覆われている状況でして‥‥。{p}いやー、不思議な現象があるもんですよねぇ。",
-   "en": "",
+   "en": "For some reason, the whole town is currently covered{n}in darkness...{p}My, what strange things happen in this world, eh?",
    "term": "end"
   },
   {
    "id": "scen169.0045",
    "jp": "あの暗闇って、{n}例のバケモノになるやつだったんですね[01BE]{n}{FFFB}何も知らなかった自分が恥ずかしい‥‥。",
-   "en": "",
+   "en": "So that darkness was the thing that turns people into{n}monsters[01BE] {FFFB}I'm ashamed I didn't know a thing...",
    "term": "end"
   },
   {
@@ -604,49 +604,49 @@
   {
    "id": "scen169.0088",
    "jp": "まだ、集魔柱の設置が終わってないわ！{n}急ぎましょう！",
-   "en": "",
+   "en": "We haven't finished setting up the mana collection pillar{n}yet! Let's hurry!",
    "term": "end"
   },
   {
    "id": "scen169.0089",
    "jp": "よし、これで無事に終わったみたいだね！",
-   "en": "",
+   "en": "All right, looks like that went off without a hitch!",
    "term": "end"
   },
   {
    "id": "scen169.0090",
    "jp": "お、お兄ちゃん、闇が濃くなってきたよ！{n}急いで携帯集魔柱から離れないと！",
-   "en": "",
+   "en": "B-Big Brother, the darkness is getting thicker! We have{n}to get away from the Portable Mana Pillar, quick!",
    "term": "end"
   },
   {
    "id": "scen169.0091",
    "jp": "うわ、早くしないとヤバイよ！{n}急いで携帯集魔柱を立てなきゃ！",
-   "en": "",
+   "en": "Whoa, we'd better hurry or we're toast! We've gotta{n}set up the Portable Mana Pillar, quick!",
    "term": "end"
   },
   {
    "id": "scen169.0092",
    "jp": "アンタ、最初に私が見つけた場所を{n}忘れちゃったの？",
-   "en": "",
+   "en": "Hey, you! Did you forget the spot I found first?",
    "term": "end"
   },
   {
    "id": "scen169.0093",
    "jp": "場所的に、この橋の辺りが適してるよ。{n}ほら、早く立てないと！",
-   "en": "",
+   "en": "Location-wise, the area around this bridge is perfect.{n}Come on, set it up already!",
    "term": "end"
   },
   {
    "id": "scen169.0094",
    "jp": "それじゃ、携帯集魔柱を設置しましょ！",
-   "en": "",
+   "en": "Okay, let's set up the Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen169.0095",
    "jp": "お、お兄ちゃん、闇が濃くなってきたよ！{n}急いで離れないと！",
-   "en": "",
+   "en": "B-Big Brother, the darkness is getting thicker! We have{n}to get away, quick!",
    "term": "end"
   },
   {
@@ -659,211 +659,211 @@
   {
    "id": "scen169.0097",
    "jp": "‥‥どうやら間に合ったようだな。",
-   "en": "",
+   "en": "...Looks like we made it in time.",
    "term": "end"
   },
   {
    "id": "scen169.0098",
    "jp": "なんとかヴァルミエを救えたね。{n}この調子でガンバろ！",
-   "en": "",
+   "en": "We managed to save Valmier! Let's keep it up!",
    "term": "end"
   },
   {
    "id": "scen169.0099",
    "jp": "よし、一度魔法学院に戻って{n}状況を確認しようぜ！",
-   "en": "",
+   "en": "All right, let's head back to the Magic Academy once and{n}check on the situation!",
    "term": "end"
   },
   {
    "id": "scen169.0100",
    "jp": "ヴァルミエの街は構造が段々になってるけど、{n}どこに集魔柱を立てればいいのかな？",
-   "en": "",
+   "en": "The town of Valmier is built in tiers, so where should{n}we set up the mana collection pillar?",
    "term": "end"
   },
   {
    "id": "scen169.0101",
    "jp": "えーと、ちょっと待ってて。",
-   "en": "",
+   "en": "Um, wait here a sec.",
    "term": "end"
   },
   {
    "id": "scen169.0102",
    "jp": "急がないとマズイわね。{n}どんどん闇が濃くなってきてるわ！",
-   "en": "",
+   "en": "We'd better hurry. The darkness is getting thicker{n}and thicker!",
    "term": "end"
   },
   {
    "id": "scen169.0103",
    "jp": "大丈夫！{n}携帯集魔柱さえ立てちゃえば、こっちのもんよ！",
-   "en": "",
+   "en": "It's fine! Once we set up the Portable Mana Pillar,{n}we've got this in the bag!",
    "term": "end"
   },
   {
    "id": "scen169.0104",
    "jp": "　　{FFF0}なるほど‥‥。{n}　　バーンシュタイン王都が滅ばなかったのは、{n}　　お前たちのせいだったのか‥‥。{FFF1}",
-   "en": "",
+   "en": "　　{FFF0}I see... So you are the reason the royal capital of{n}Burnstein was not destroyed...{FFF1}",
    "term": "end"
   },
   {
    "id": "scen169.0105",
    "jp": "‥‥あっ、この声は！",
-   "en": "",
+   "en": "...Ah, that voice!",
    "term": "end"
   },
   {
    "id": "scen169.0106",
    "jp": "ジャスティン‥‥。{n}{FFFB}時空制御塔の機能を使って、{n}私たちの脳内にメッセージを送ってるんだわ。",
-   "en": "",
+   "en": "Justin... {FFFB}He's using the Space-Time Control Tower to{n}send messages into our minds.",
    "term": "end"
   },
   {
    "id": "scen169.0107",
    "jp": "　　{FFF0}携帯集魔柱を使うとは、{n}　　よく思いついたものだな。{n}　　{FFFB}‥‥さすがはアメリアだ。{p}　　だが、優秀なキミが我々を裏切って、{n}　　そちらの味方についてしまうとはね‥‥。{n}　　{FFFB}とても残念でならないよ。{p}　　‥‥だが、今なら許してやろう。{n}　　我々の故郷を救う為に、こちらへ戻ってこい。{FFF1}",
-   "en": "",
+   "en": "　　{FFF0}Using Portable Mana Pillars... What a clever idea.{n}{FFFB}...As expected of Amelia.{p}But to think that one as talented as you would betray{n}us and take their side... {FFFB}It is truly regrettable.{p}...Still, I will forgive you if you come now. Return to us,{n}to save our homeland.{FFF1}",
    "term": "end"
   },
   {
    "id": "scen169.0108",
    "jp": "絶対にイヤよ！{p}ジャスティンこそ、{n}この世界を滅ぼすだなんて馬鹿げた考えは{n}もうやめてちょうだい！",
-   "en": "",
+   "en": "Absolutely not!{p}Justin, you're the one who needs to give up this{n}absurd idea of destroying this world!",
    "term": "end"
   },
   {
    "id": "scen169.0109",
    "jp": "　　{FFF0}‥‥くくくっ‥‥。{n}　　{FE14}そうか‥‥残念だよ‥‥。{p}　　ならば、この世界の人間どもと{n}　　仲良く死んでもらうしかない！{FFF1}",
-   "en": "",
+   "en": "　　{FFF0}...Heh heh heh... {FE14}I see... What a pity...{p}Then you will simply have to die, side by side with the{n}humans of this world!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen169.0110",
    "jp": "{FFF6}フン、お約束どおりの演出だな。{p}{FFF7}‥‥下らない。{n}{FFFB}{FC02}こんなもの、捻りつぶしてくれる！",
-   "en": "",
+   "en": "{FFF6}Hmph, right on cue, just like a cheap play.{p}{FFF7}...Pathetic. {FFFB}{FC02}I'll crush this thing!",
    "term": "end"
   },
   {
    "id": "scen169.0111",
    "jp": "闇落としが始まる前に、{n}絶対に携帯集魔柱を立てるのよ！",
-   "en": "",
+   "en": "We have to set up the Portable Mana Pillar before the{n}Darkfall begins, no matter what!",
    "term": "end"
   },
   {
    "id": "scen169.0112",
    "jp": "アンタ、どこ行く気よ！{n}まだ携帯集魔柱を設置してないでしょーが！",
-   "en": "",
+   "en": "Hey, you! Where do you think you're going?! We haven't{n}set up the Portable Mana Pillar yet!",
    "term": "end"
   },
   {
    "id": "scen169.0113",
    "jp": "あっ、ちょっと待ってくれ！",
-   "en": "",
+   "en": "Ah, wait a moment!",
    "term": "end"
   },
   {
    "id": "scen169.0114",
    "jp": "キミたちのおかげで、{n}ヴァルミエの住人は全員無事だったよ！{p}本当にどうもありがとう、{n}感謝してもしきれないくらいだ。{n}{FFFB}これはほんのお礼だよ、受け取ってくれ。",
-   "en": "",
+   "en": "Thanks to you, every last resident of Valmier is safe!{p}Thank you so much. I can't thank you enough. {FFFB}This is{n}just a small token of thanks. Please take it.",
    "term": "end"
   },
   {
    "id": "scen169.0115",
    "jp": "　{n}　　　　　『{FFEF}槍部品・柄{FFF1}』を受け取った！",
-   "en": "",
+   "en": "　{n}　　　　　Received '{FFEF}Spear Part: Shaft{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen169.0116",
    "jp": "なにコレ？{n}ガラクタにしか見えないんだけど。",
-   "en": "",
+   "en": "What's this? It just looks like junk to me.",
    "term": "end"
   },
   {
    "id": "scen169.0117",
    "jp": "確かにガラクタにしか見えないかもしれないが、{n}これは鉱山から見つかった、錆びない貴金属だよ。{p}単品では役に立たないかもしれないが、{n}パーツを集めれば武器になるだろう。{n}ぜひ持っていってくれ。",
-   "en": "",
+   "en": "It might look like junk, but this is a rustproof precious{n}metal found in the mine.{p}It might not be much use on its own, but if you collect{n}the parts, they should make a weapon. Please, take it.",
    "term": "end"
   },
   {
    "id": "scen169.0118",
    "jp": "突然、辺りが暗くなってきたんだが‥‥。{n}いったい、どうなっているんだ？",
-   "en": "",
+   "en": "It suddenly started getting dark around here... What{n}on earth is going on?",
    "term": "end"
   },
   {
    "id": "scen169.0119",
    "jp": "いやだ、化け物にはなりたくないよ[01BE]",
-   "en": "",
+   "en": "No, I don't wanna turn into a monster[01BE]",
    "term": "end"
   },
   {
    "id": "scen169.0120",
    "jp": "危うく、化け物になるところだったよ[01BE]",
-   "en": "",
+   "en": "I almost turned into a monster[01BE]",
    "term": "end"
   },
   {
    "id": "scen169.0121",
    "jp": "空に雲はないはずなのに、{n}どうしてこんなに暗いんだ‥‥。",
-   "en": "",
+   "en": "There shouldn't be a cloud in the sky, so why is it{n}so dark...?",
    "term": "end"
   },
   {
    "id": "scen169.0122",
    "jp": "誰でもいいから助けてくれ！",
-   "en": "",
+   "en": "Somebody, anybody, help me!",
    "term": "end"
   },
   {
    "id": "scen169.0123",
    "jp": "キミたちは英雄だよ！{n}本当にありがとう。",
-   "en": "",
+   "en": "You guys are heroes! Thank you so much.",
    "term": "end"
   },
   {
    "id": "scen169.0124",
    "jp": "嫌な予感がするな‥‥。{n}早く、はぐれた嫁と子供を捜さないと。",
-   "en": "",
+   "en": "I've got a bad feeling about this... I have to find my{n}wife and kid, quick. We got separated.",
    "term": "end"
   },
   {
    "id": "scen169.0125",
    "jp": "嫁と子供を捜しているんだ！{n}早く見つけないと、闇が落ちてきちまう[01BE]",
-   "en": "",
+   "en": "I'm looking for my wife and kid! If I don't find 'em soon,{n}the darkness is gonna fall[01BE]",
    "term": "end"
   },
   {
    "id": "scen169.0126",
    "jp": "こんな恐ろしいことが、{n}大陸中で起こってるだなんて‥‥。",
-   "en": "",
+   "en": "To think something this horrifying is happening all over{n}the continent...",
    "term": "end"
   },
   {
    "id": "scen169.0127",
    "jp": "街中がパニックですよ[01BE]",
-   "en": "",
+   "en": "The whole town's in a panic[01BE]",
    "term": "end"
   },
   {
    "id": "scen169.0128",
    "jp": "助けていただいて、{n}どうもありがとうございました。",
-   "en": "",
+   "en": "Thank you very much for saving us.",
    "term": "end"
   },
   {
    "id": "scen169.0129",
    "jp": "　{n}　　　　　　扉は堅く閉ざされている。",
-   "en": "",
+   "en": "　{n}　　　　　　The door is shut tight.",
    "term": "end"
   },
   {
    "id": "scen169.0130",
    "jp": "テレポートを唱えてる間に、{n}闇が落ちてきちゃうよ。{n}今は、早く携帯集魔柱から離れよう？",
-   "en": "",
+   "en": "The darkness will fall on us while I'm casting Teleport.{n}For now, let's get away from the Portable Mana Pillar,{n}quick, okay?",
    "term": "end"
   },
   {
    "id": "scen169.0131",
    "jp": "ダメだよ、お兄ちゃん！{n}今は急いで携帯集魔柱を立てなきゃ！",
-   "en": "",
+   "en": "No, Big Brother! Right now we have to hurry and set up{n}the Portable Mana Pillar!",
    "term": "end"
   }
  ]

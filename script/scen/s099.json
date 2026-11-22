@@ -330,7 +330,7 @@
   {
    "id": "scen099.0046",
    "jp": "　{FFF0}東　　：シュッツベルグ{n}　{FFF1}西　　：オリビエ湖方面{FFF1}",
-   "en": "",
+   "en": "　{FFF0}East: Schutzberg{n}{FFF1}West: Toward Lake Olivier{FFF1}",
    "term": "end"
   },
   {
@@ -427,7 +427,7 @@
   {
    "id": "scen099.0060",
    "jp": "{v:002B}お前は騙されてる、ゼノス。{p}{v:002C}ガムランの事なら誰より俺が知っている。{n}奴は頭の切れる奴だった。{n}だがまっとうな奴じゃない。{p}{v:002D}自分の欲しい物を得るためなら、用意周到に仕組み、{n}どんな悪どいことだってやってのける、そんな奴だ。{p}{v:002E}奴はお前が負けたことをこいつらのせいだと{n}吹き込んだようだが、{n}おそらく毒を盛ったのはガムランの手の者だ。{p}{v:002F}ひょっとするとカレンに怪我を負わせたのだって‥‥。",
-   "en": "",
+   "en": "{v:002B}You've been fooled, Xenos.{p}{v:002C}I know Gamlan better than anyone. He always had a{n}sharp mind. But he isn't an honest man.{p}{v:002D}He plans every last detail and will stoop to anything to{n}get what he wants. That's the sort of man he is.{p}{v:002E}Sounds like he convinced you these kids were to blame{n}for your defeat. But it was probably one of Gamlan's{n}men who poisoned you.{p}{v:002F}He might even have been behind Karen's injury...",
    "term": "end"
   },
   {

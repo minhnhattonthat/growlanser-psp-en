@@ -71,7 +71,7 @@
   {
    "id": "scen161.0009",
    "jp": "　{n}　　　　　手入れの行き届いた墓石だ。",
-   "en": "",
+   "en": "　{n}　　　　　The gravestone is carefully tended.",
    "term": "end"
   },
   {
@@ -91,7 +91,7 @@
   {
    "id": "scen161.0012",
    "jp": "僕の家に何か用事かい？{n}悪いが、また今度にしてもらえるかな？",
-   "en": "",
+   "en": "You need something at my house? Sorry, but could you{n}come back another time?",
    "term": "end"
   },
   {
@@ -104,55 +104,55 @@
   {
    "id": "scen161.0014",
    "jp": "戦争がやっと終わったべ！{n}それもこれも、あんたらのおかげなんだってな。{n}いやぁ、ほんとに感謝してるだよ。",
-   "en": "",
+   "en": "The war's finally over! And I hear it's all thanks to you{n}folks. Well, we sure are grateful, I tell ya.",
    "term": "end"
   },
   {
    "id": "scen161.0015",
    "jp": "ランザック城が消えたってのは、本当だべか？{n}おっかなくて、村の外に出られねぇべさ‥‥。",
-   "en": "",
+   "en": "Is it true Ranzak Castle up and vanished? It's so scary,{n}I can't set foot outside the village...",
    "term": "end"
   },
   {
    "id": "scen161.0016",
    "jp": "はぁ‥‥まいっただよ。{n}闇のせいで、おちおち畑も耕してられねぇだ。{p}せっかく、この村の発展に力を入れようと思ってたのに。{n}仕方ねぇ、今は大人しくしてるべ‥‥。",
-   "en": "",
+   "en": "Haah... I'm at my wits' end. With this darkness about, a{n}fella can't even plough his fields in peace.{p}And here I was all set to put my back into buildin' up{n}this village. Can't be helped. I'll just lie low for now...",
    "term": "end"
   },
   {
    "id": "scen161.0017",
    "jp": "最近は天気がいいから、農作物もよく育ってるさ！{n}収穫できたら、あんた達も食べてくれよな。",
-   "en": "",
+   "en": "Weather's been fine lately, so the crops are growin'{n}real well! Once we harvest 'em, you folks come and{n}have some, y'hear?",
    "term": "end"
   },
   {
    "id": "scen161.0018",
    "jp": "南で大爆発があったらしいべな‥‥。{n}{FFFB}こんな時こそ、野菜を食べるさ！{n}野菜を食べれば元気１００倍だべ！",
-   "en": "",
+   "en": "Sounds like there was a big explosion down south...{n}{FFFB}Times like these, ya gotta eat your veggies! Eat your{n}veggies and you'll be a hundred times stronger!",
    "term": "end"
   },
   {
    "id": "scen161.0019",
    "jp": "最近、野菜たちの元気がねぇみたいなんだべ。{n}なにか、嫌な予感がするだよ‥‥。",
-   "en": "",
+   "en": "Lately the veggies don't look so lively. I got me a bad{n}feelin' about this...",
    "term": "end"
   },
   {
    "id": "scen161.0020",
    "jp": "おお、あんた達か。{n}何もない村だけど、ゆっくりしてくといいさ。",
-   "en": "",
+   "en": "Oh, it's you folks. Ain't much to this village, but make{n}yourselves at home.",
    "term": "end"
   },
   {
    "id": "scen161.0021",
    "jp": "ああ、あんた達！{n}よかった、無事だったみたいだべな。{p}人を化け物にするっちゅう、恐ろしい闇があるんだろ？{n}恐ろしいったらありゃしないべ。",
-   "en": "",
+   "en": "Oh, you folks! Thank goodness, looks like you're all safe.{p}There's some awful darkness that turns folks into{n}monsters, ain't there? Scary as all get-out, it is.",
    "term": "end"
   },
   {
    "id": "scen161.0022",
    "jp": "アリオストさんに教わった通りにしたら、{n}年に２回収穫できるようになっただよ。{n}さすがはアリオストさんだべ！",
-   "en": "",
+   "en": "I did just like Ariost-san taught me, and now we get two{n}harvests a year. That Ariost-san sure is somethin'!",
    "term": "end"
   },
   {
@@ -186,79 +186,79 @@
   {
    "id": "scen161.0027",
    "jp": "最近、どうも作物の調子が悪くてな。{n}前はすくすく育ってたのに‥‥なんでだべ？",
-   "en": "",
+   "en": "The crops ain't been doin' too well lately. They used to{n}grow up so nice and quick... What's goin' on?",
    "term": "end"
   },
   {
    "id": "scen161.0028",
    "jp": "もしかしたら、{n}例の闇が影響してるのかもしれないな‥‥。",
-   "en": "",
+   "en": "Maybe that darkness is having an effect on them...",
    "term": "end"
   },
   {
    "id": "scen161.0029",
    "jp": "そっか‥‥。{n}でも、きっとまた元気な野菜がとれるべさ！",
-   "en": "",
+   "en": "I see... But I just know we'll be growin' healthy{n}veggies again!",
    "term": "end"
   },
   {
    "id": "scen161.0030",
    "jp": "ええ、もちろんですよ。{n}今は辛いかもしれませんが、がんばりましょう！",
-   "en": "",
+   "en": "Yes, of course. Things may be hard right now, but let's{n}do our best!",
    "term": "end"
   },
   {
    "id": "scen161.0031",
    "jp": "オラたちは前向きにがんばっていくべさ。{n}だから、あんた達もくじけちゃダメだべ。",
-   "en": "",
+   "en": "We're gonna keep our chins up and keep at it. So don't{n}you folks lose heart neither.",
    "term": "end"
   },
   {
    "id": "scen161.0032",
    "jp": "あら、アリオストさんじゃないの。{n}戦争も終わったんだし、{n}たまにはゆっくり村に戻ってきたら？",
-   "en": "",
+   "en": "Oh my, if it isn't Ariost-san. The war's over now, so{n}why not come home to the village and relax once in{n}a while?",
    "term": "end"
   },
   {
    "id": "scen161.0033",
    "jp": "なかなか時間がなくて‥‥。{n}研究が一段落ついたら、また来ますよ。",
-   "en": "",
+   "en": "I just never seem to have the time... I'll come again once{n}my research settles down.",
    "term": "end"
   },
   {
    "id": "scen161.0034",
    "jp": "ここは相変わらず何もない村ですけど、{n}村人達はみんな、のどかで気に入ってるのよ。",
-   "en": "",
+   "en": "It's still a village with nothing in it, but everyone here{n}loves how peaceful it is.",
    "term": "end"
   },
   {
    "id": "scen161.0035",
    "jp": "ゲヴェルって、１体だけじゃなかったんですね。{n}あんなの、何体もいなくていいのに！",
-   "en": "",
+   "en": "So there was more than one Gevel... Nobody needs a{n}bunch of those things!",
    "term": "end"
   },
   {
    "id": "scen161.0036",
    "jp": "ああ、アリオストさん！{n}最近、物騒なことが起こってるみたいだけど‥‥。{n}また平和な世の中になるわよね‥‥？",
-   "en": "",
+   "en": "Oh, Ariost-san! It seems like terrible things have been{n}happening lately... Peace will come back again, won't it...?",
    "term": "end"
   },
   {
    "id": "scen161.0037",
    "jp": "はい、きっと何とかしてみせます。{n}ですが、危険を感じたらすぐに避難してください。",
-   "en": "",
+   "en": "Yes, I'll find a way somehow, I promise. But if you{n}sense danger, please evacuate right away.",
    "term": "end"
   },
   {
    "id": "scen161.0038",
    "jp": "わかったわ‥‥。{n}あなた達もどうか気をつけて。",
-   "en": "",
+   "en": "All right... You all take care too, please.",
    "term": "end"
   },
   {
    "id": "scen161.0039",
    "jp": "最近、物騒で怖いわ‥‥。{n}これからどうなってしまうのかしら？",
-   "en": "",
+   "en": "It's so dangerous lately, I'm scared... What's going to{n}become of us, I wonder?",
    "term": "end"
   },
   {
@@ -292,37 +292,37 @@
   {
    "id": "scen161.0044",
    "jp": "今年は豊作だべ！{n}それもこれも、アリオストさんのおかげさ！",
-   "en": "",
+   "en": "It's a bumper crop this year! And it's all thanks{n}to Ariost-san!",
    "term": "end"
   },
   {
    "id": "scen161.0045",
    "jp": "そんな、僕はなにもしてませんよ。",
-   "en": "",
+   "en": "Oh no, I haven't done anything.",
    "term": "end"
   },
   {
    "id": "scen161.0046",
    "jp": "なに言ってんだべ！{n}アリオストさんの知識がなかったら、{n}こうはいかなかったさ！",
-   "en": "",
+   "en": "What're you talkin' about! If it weren't for your{n}know-how, Ariost-san, things never would've turned out{n}like this!",
    "term": "end"
   },
   {
    "id": "scen161.0047",
    "jp": "あなたが毎日、がんばって畑を耕したからですよ。{n}これからも、がんばってくださいね。",
-   "en": "",
+   "en": "It's because you worked so hard ploughing your fields{n}every day. Keep up the good work.",
    "term": "end"
   },
   {
    "id": "scen161.0048",
    "jp": "前に、南の森でフェザリアンの女の子を見たんだべ。{p}ランザック城が崩壊した時、{n}フェザリアンがいたって噂だべが‥‥。{n}まさか、その子じゃないべな？",
-   "en": "",
+   "en": "A while back, I saw a Featherian girl in the forest to{n}the south.{p}They say there was a Featherian there when Ranzak{n}Castle came down... It weren't that girl, was it?",
    "term": "end"
   },
   {
    "id": "scen161.0049",
    "jp": "ん？あんたら疲れた顔してるべな！{n}こういう時こそ、採れたての野菜を食べるといいさ！{n}きっと元気が出るだよ。",
-   "en": "",
+   "en": "Hm? You folks look plumb tuckered out! Times like these,{n}you oughta eat some fresh-picked veggies! That'll perk{n}ya right up.",
    "term": "end"
   },
   {
@@ -349,61 +349,61 @@
   {
    "id": "scen161.0053",
    "jp": "最近、よくないことばかりが{n}起こってますねぇ‥‥。",
-   "en": "",
+   "en": "Nothing but bad things happening lately, isn't it...",
    "term": "end"
   },
   {
    "id": "scen161.0054",
    "jp": "悲しいものじゃのぉ‥‥。",
-   "en": "",
+   "en": "It's a sad state of affairs, eh...",
    "term": "end"
   },
   {
    "id": "scen161.0055",
    "jp": "大丈夫ですよ、きっとまた平和な世界に{n}なるはずですから‥‥。",
-   "en": "",
+   "en": "It'll be all right. I'm sure the world will be at{n}peace again...",
    "term": "end"
   },
   {
    "id": "scen161.0056",
    "jp": "ああ、ワシもそう信じておるぞい。",
-   "en": "",
+   "en": "Aye, I believe so too, I do.",
    "term": "end"
   },
   {
    "id": "scen161.0057",
    "jp": "アリオストさんみたいになりたくて、{n}勉強を頑張ってるんだ！",
-   "en": "",
+   "en": "I want to be like Ariost-san, so I'm studying really hard!",
    "term": "end"
   },
   {
    "id": "scen161.0058",
    "jp": "それは偉いな。{n}これからも、努力を怠らないことが大事だよ。",
-   "en": "",
+   "en": "Good for you. It's important to never slack off in{n}your efforts.",
    "term": "end"
   },
   {
    "id": "scen161.0059",
    "jp": "うん、がんばる！",
-   "en": "",
+   "en": "Okay, I'll do my best!",
    "term": "end"
   },
   {
    "id": "scen161.0060",
    "jp": "へー。それじゃ、９×７は？",
-   "en": "",
+   "en": "Huh. Then what's 9 times 7?",
    "term": "end"
   },
   {
    "id": "scen161.0061",
    "jp": "えっ！？{n}えーと、え～とね‥‥‥‥。",
-   "en": "",
+   "en": "What?! Um, uhhh, let me see......",
    "term": "end"
   },
   {
    "id": "scen161.0062",
    "jp": "この調子じゃ、アリオストさんみたくなるには{n}あと何十年もかかるわね。",
-   "en": "",
+   "en": "At this rate, it'll take you decades to become{n}like Ariost-san.",
    "term": "end"
   },
   {
@@ -416,25 +416,25 @@
   {
    "id": "scen161.0064",
    "jp": "私も、前より勉強するようにしたの。{n}誰かさんには、負けてられないからね。",
-   "en": "",
+   "en": "I've started studying harder than before too. I can't{n}lose to a certain someone, after all.",
    "term": "end"
   },
   {
    "id": "scen161.0065",
    "jp": "むっ！{n}こっちだって負けるものか！",
-   "en": "",
+   "en": "Hmph! Like I'd ever lose to you!",
    "term": "end"
   },
   {
    "id": "scen161.0066",
    "jp": "ははは。お互い良いライバルができたね。{n}２人とも頑張るんだよ。{n}分からないことがあったら、聞きにおいで。",
-   "en": "",
+   "en": "Hahaha. Looks like you've both found a good rival. Keep{n}at it, you two. If there's anything you don't{n}understand, come ask me.",
    "term": "end"
   },
   {
    "id": "scen161.0067",
    "jp": "アリオストさん、相変わらず素敵‥‥。",
-   "en": "",
+   "en": "Ariost-san is as wonderful as ever...",
    "term": "end"
   },
   {
@@ -542,91 +542,91 @@
   {
    "id": "scen161.0082",
    "jp": "くっ‥‥。{n}まさか、こんなことになってたなんて‥‥。",
-   "en": "",
+   "en": "Ngh... I never imagined it had come to this...",
    "term": "end"
   },
   {
    "id": "scen161.0083",
    "jp": "うわぁぁあぁぁん！",
-   "en": "",
+   "en": "Waaaaahhh!",
    "term": "end"
   },
   {
    "id": "scen161.0084",
    "jp": "ひぃぃっ、つ‥‥強すぎる！",
-   "en": "",
+   "en": "Eeeek, i-it's too strong!",
    "term": "end"
   },
   {
    "id": "scen161.0085",
    "jp": "ＧＹＡＡＡＡ！！！",
-   "en": "",
+   "en": "GYAAAA!!!",
    "term": "end"
   },
   {
    "id": "scen161.0086",
    "jp": "くっ‥‥。{p}やっぱり２人を庇いながらはキツイか‥‥。{n}隙をみて、この子と警備兵を逃がせれば‥‥。",
-   "en": "",
+   "en": "Ngh...{p}Protecting the two of them really is tough after all... If{n}I can find an opening and get this kid and the{n}guard away...",
    "term": "end"
   },
   {
    "id": "scen161.0087",
    "jp": "ねぇ、あそこにいるのって、もしかして‥‥。",
-   "en": "",
+   "en": "Hey, could that be...?",
    "term": "end"
   },
   {
    "id": "scen161.0088",
    "jp": "ああっ、アメリアさん！？",
-   "en": "",
+   "en": "Ah, Amelia-san?!",
    "term": "end"
   },
   {
    "id": "scen161.0089",
    "jp": "なんだと！？{n}あいつがいるのか？",
-   "en": "",
+   "en": "What?! She's here?",
    "term": "end"
   },
   {
    "id": "scen161.0090",
    "jp": "あ、あなたたち‥‥どうしてここに！？",
-   "en": "",
+   "en": "Y-you... What are you doing here?!",
    "term": "end"
   },
   {
    "id": "scen161.0091",
    "jp": "お前が、この村に闇落としをしたのか！",
-   "en": "",
+   "en": "So you're the one who brought the Darkfall down on{n}this village!",
    "term": "end"
   },
   {
    "id": "scen161.0092",
    "jp": "ち、違うわ！{n}私じゃ‥‥。",
-   "en": "",
+   "en": "N-no! It wasn't me...",
    "term": "end"
   },
   {
    "id": "scen161.0093",
    "jp": "ＧＲＲＲＲＲＲＲ！！！！",
-   "en": "",
+   "en": "GRRRRRRR!!!!",
    "term": "end"
   },
   {
    "id": "scen161.0094",
    "jp": "きゃああああっ！",
-   "en": "",
+   "en": "Kyaaaaah!",
    "term": "end"
   },
   {
    "id": "scen161.0095",
    "jp": "アメリアさんが！",
-   "en": "",
+   "en": "Amelia-san!",
    "term": "end"
   },
   {
    "id": "scen161.0096",
    "jp": "くそっ、今はこっちが先だな。{p}俺たちは化け物の相手をする。{n}そこの警備兵は、子供を連れて避難しろ！",
-   "en": "",
+   "en": "Damn it, this comes first.{p}We'll take care of the monster. You, guard, take the kid{n}and get to safety!",
    "term": "end"
   },
   {
@@ -639,62 +639,62 @@
   {
    "id": "scen161.0098",
    "jp": "私も一緒に戦わせて！",
-   "en": "",
+   "en": "Let me fight with you too!",
    "term": "end"
   },
   {
    "id": "scen161.0099",
    "jp": "無理です、ケガしてるのに！",
-   "en": "",
+   "en": "You can't, you're hurt!",
    "term": "end"
   },
   {
    "id": "scen161.0100",
    "jp": "大丈夫よ、そんなヤワじゃないわ。{n}それに、指をくわえて見てるなんて出来ないの！",
-   "en": "",
+   "en": "I'm fine, I'm not that fragile. Besides, I can't just stand{n}by and watch!",
    "term": "end"
   },
   {
    "id": "scen161.0101",
    "jp": "ＧＹＡＡＡＡＡ！！！",
-   "en": "",
+   "en": "GYAAAAA!!!",
    "term": "end"
   },
   {
    "id": "scen161.0102",
    "jp": "あっ、来るよ！",
-   "en": "",
+   "en": "Look out, here it comes!",
    "term": "end"
   },
   {
    "id": "scen161.0103",
    "jp": "一応、無事に片付いたみたいだが‥‥。{n}まだ気になることがあるな。",
-   "en": "",
+   "en": "Looks like we've dealt with it, for now... But something's{n}still bugging me.",
    "term": "end"
   },
   {
    "id": "scen161.0104",
    "jp": "さっき、この村に闇落としをしたのは{n}お前じゃないと言っていたが、{n}それは本当なんだな？",
-   "en": "",
+   "en": "Earlier, you said you weren't the one who brought the{n}Darkfall on this village. Is that true?",
    "term": "end"
   },
   {
    "id": "scen161.0105",
    "jp": "ええ、本当に私じゃないわ。信じて。",
-   "en": "",
+   "en": "Yes, it really wasn't me. Believe me.",
    "term": "end"
   },
   {
    "id": "scen161.0106",
    "jp": "・どうも信じられない",
-   "en": "",
+   "en": "・I just can't believe her",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen161.0107",
    "jp": "・アメリアを信じる",
-   "en": "",
+   "en": "・Believe Amelia",
    "term": "end",
    "unref": true
   },
@@ -709,319 +709,319 @@
   {
    "id": "scen161.0109",
    "jp": "{FFF6}そうよね‥‥。{n}いきなり信じろって言うほうが無理よね。",
-   "en": "",
+   "en": "{FFF6}No, of course... It's too much to ask you to trust me{n}out of nowhere.",
    "term": "end"
   },
   {
    "id": "scen161.0110",
    "jp": "えっ‥‥？{n}{FFFB}私のこと、本当に信じてくれるの？",
-   "en": "",
+   "en": "Huh...? {FFFB}You really believe me?",
    "term": "end"
   },
   {
    "id": "scen161.0111",
    "jp": "そうよね‥‥。{n}いきなり信じろって言うほうが無理よね。",
-   "en": "",
+   "en": "No, of course... It's too much to ask you to trust me{n}out of nowhere.",
    "term": "end"
   },
   {
    "id": "scen161.0112",
    "jp": "おーーい！",
-   "en": "",
+   "en": "Hey, over heeere!",
    "term": "end"
   },
   {
    "id": "scen161.0113",
    "jp": "き、君たち、大丈夫か！？",
-   "en": "",
+   "en": "A-are you all right?!",
    "term": "end"
   },
   {
    "id": "scen161.0114",
    "jp": "はい、モンスターはもういません。{n}安心してください。",
-   "en": "",
+   "en": "Yes, the monsters are gone. You can relax.",
    "term": "end"
   },
   {
    "id": "scen161.0115",
    "jp": "そ、そうか。助かった‥‥。",
-   "en": "",
+   "en": "I-I see. Thank goodness...",
    "term": "end"
   },
   {
    "id": "scen161.0116",
    "jp": "‥‥ここにもいないよぉ‥‥。{n}ねぇ、ボクのパパとママ‥どこ？",
-   "en": "",
+   "en": "...They're not here either... Hey, where are my mommy{n}and daddy?",
    "term": "end"
   },
   {
    "id": "scen161.0117",
    "jp": "だから、それは‥‥[01BE]",
-   "en": "",
+   "en": "Like I said, that's...[01BE]",
    "term": "end"
   },
   {
    "id": "scen161.0118",
    "jp": "‥‥ごめんね‥‥。{FFFB}{FFF6}本当にゴメンね‥‥‥。",
-   "en": "",
+   "en": "...I'm sorry... {FFFB}{FFF6}I'm so, so sorry...",
    "term": "end"
   },
   {
    "id": "scen161.0119",
    "jp": "どうしてお姉ちゃんが謝るの？{n}だってお姉ちゃんは、{n}化け物をやっつけてくれたよ？",
-   "en": "",
+   "en": "Why are you saying sorry, lady? You beat the monster{n}for us, didn't you?",
    "term": "end"
   },
   {
    "id": "scen161.0120",
    "jp": "キミみたいな思いは、もう絶対に誰にもさせない‥‥。{n}約束するから‥‥。{n}{FFF6}だから‥ゴメンね‥‥。",
-   "en": "",
+   "en": "I'll never let anyone go through what you have ever{n}again... I promise... {FFF6}So... I'm sorry...",
    "term": "end"
   },
   {
    "id": "scen161.0121",
    "jp": "そうだ、言い忘れてたけど‥‥。{p}{FFF6}さっき、私のこと信じるって言ってくれて、{n}‥‥あ、ありがとうね‥‥。",
-   "en": "",
+   "en": "Oh, right, I forgot to say...{p}{FFF6}Earlier, when you said you believed me... th-thank you...",
    "term": "end"
   },
   {
    "id": "scen161.0122",
    "jp": "すごく‥‥うれしかった‥‥。",
-   "en": "",
+   "en": "It made me... really happy...",
    "term": "end"
   },
   {
    "id": "scen161.0123",
    "jp": "あっ、アメリアさん！",
-   "en": "",
+   "en": "Ah, Amelia-san!",
    "term": "end"
   },
   {
    "id": "scen161.0124",
    "jp": "あのお姉ちゃん、どうしたんだろう？{n}すごく悲しそうな顔してたよ。",
-   "en": "",
+   "en": "What's wrong with that lady? She looked really sad.",
    "term": "end"
   },
   {
    "id": "scen161.0125",
    "jp": "‥‥‥‥。{p}さ、キミ。一緒に避難所へ行こう。{n}パパとママは、こんな危険な場所にいないって{n}分かっただろう？",
-   "en": "",
+   "en": "......{p}Come on, kiddo. Let's go to the shelter together. You{n}understand now that your mommy and daddy aren't in{n}a dangerous place like this, right?",
    "term": "end"
   },
   {
    "id": "scen161.0126",
    "jp": "‥‥うん‥‥。{n}お兄ちゃんたち、バイバイ。",
-   "en": "",
+   "en": "...Okay... Bye-bye, everybody.",
    "term": "end"
   },
   {
    "id": "scen161.0127",
    "jp": "どうも様子がおかしいな。{n}あいつはジャスティンの仲間じゃなかったのか？",
-   "en": "",
+   "en": "Something's off here. Wasn't she one of Justin's lot?",
    "term": "end"
   },
   {
    "id": "scen161.0128",
    "jp": "でも、そうは見えなかったよ。{n}さっきだって、必死で子供を助けようとしてたし‥‥。",
-   "en": "",
+   "en": "But she didn't seem like it. Just now, she was trying so{n}hard to save that kid...",
    "term": "end"
   },
   {
    "id": "scen161.0129",
    "jp": "‥‥もしかしたら、なにか事情があるのかもしれん。{n}だが、油断はするなよ。{n}何を考えてるか、分からないからな。",
-   "en": "",
+   "en": "...Maybe she's got her reasons. But don't let your guard{n}down. There's no telling what she's thinking.",
    "term": "end"
   },
   {
    "id": "scen161.0130",
    "jp": "うん、そうだね。{n}それじゃ、アタシたちもそろそろ行きましょ。",
-   "en": "",
+   "en": "Yeah, you're right. Well then, we'd better get{n}going too.",
    "term": "end"
   },
   {
    "id": "scen161.0131",
    "jp": "おい、アイツを放っておいたままで{n}いいのか？",
-   "en": "",
+   "en": "Hey, are we really just gonna leave her be?",
    "term": "end"
   },
   {
    "id": "scen161.0132",
    "jp": "　{n}　　　　　　{FFF0}この先、ブローニュ村{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　{FFF0}Boulogne Village ahead{FFF1}",
    "term": "end"
   },
   {
    "id": "scen161.0133",
    "jp": "ボク、ここは入れないよ。{n}早く避難所に戻りなさい。",
-   "en": "",
+   "en": "Sorry, kid, you can't go in here. Hurry back to{n}the shelter.",
    "term": "end"
   },
   {
    "id": "scen161.0134",
    "jp": "イヤだ、通してよ！{n}ここ、ボクの村なんだぞ！",
-   "en": "",
+   "en": "No! Let me through! This is my village!",
    "term": "end"
   },
   {
    "id": "scen161.0135",
    "jp": "ここに来てもムダだよ。{n}もう村には誰も残っていないんだから。",
-   "en": "",
+   "en": "There's no point coming here. There's nobody left in the{n}village anymore.",
    "term": "end"
   },
   {
    "id": "scen161.0136",
    "jp": "ウソだ！{n}パパとママは、この中にいるんだ！{n}だから、ボクが見つけるんだもん！",
-   "en": "",
+   "en": "Liar! My mommy and daddy are in there! So I'm gonna{n}find them!",
    "term": "end"
   },
   {
    "id": "scen161.0137",
    "jp": "あっ、こらっ！",
-   "en": "",
+   "en": "Ah, hey, you!",
    "term": "end"
   },
   {
    "id": "scen161.0138",
    "jp": "‥‥はぁ、仕方ないか‥‥。{n}あんな子供に、理解しろって方がムリだものな‥‥。",
-   "en": "",
+   "en": "...Sigh, I guess it can't be helped... You can't expect a{n}little kid like that to understand...",
    "term": "end"
   },
   {
    "id": "scen161.0139",
    "jp": "ううう‥‥どうしよう‥‥。{n}まさか、例の怪物が現れるなんて‥‥。",
-   "en": "",
+   "en": "Ugh... What do I do... I never thought that monster{n}would show up...",
    "term": "end"
   },
   {
    "id": "scen161.0140",
    "jp": "ああ、これはこれはサンドラ様の‥‥。",
-   "en": "",
+   "en": "Ah, well, if it isn't Sandra-sama's...",
    "term": "end"
   },
   {
    "id": "scen161.0141",
    "jp": "あの、どうかしたんですか？",
-   "en": "",
+   "en": "Um, is something wrong?",
    "term": "end"
   },
   {
    "id": "scen161.0142",
    "jp": "ええ、まぁ‥‥。{n}実はさっきの子供はですね、{n}先の闇落としで両親を亡くしてしまいまして‥‥。{p}ですが、まだ両親が死んでしまったことを{n}理解できてないんですよ。",
-   "en": "",
+   "en": "Yes, well... The truth is, that child just now lost his{n}parents in the recent Darkfall...{p}But he still doesn't understand that his parents{n}are dead.",
    "term": "end"
   },
   {
    "id": "scen161.0143",
    "jp": "ああ、これはこれはサンドラ様の‥‥。{p}さっきの子供はですね、{n}先の闇落としで両親を亡くしてしまいまして‥‥。{p}ですが、まだ両親が死んでしまったことを{n}理解できてないんですよ。",
-   "en": "",
+   "en": "Ah, well, if it isn't Sandra-sama's...{p}That child just now lost his parents in the{n}recent Darkfall...{p}But he still doesn't understand that his parents{n}are dead.",
    "term": "end"
   },
   {
    "id": "scen161.0144",
    "jp": "それで、１人で村に‥‥。",
-   "en": "",
+   "en": "So that's why he went into the village alone...",
    "term": "end"
   },
   {
    "id": "scen161.0145",
    "jp": "ええ。{n}まだこの村のどこかに、{n}両親がいると思いこんでるみたいでして‥‥。",
-   "en": "",
+   "en": "Yes. He seems convinced his parents are still{n}somewhere in this village...",
    "term": "end"
   },
   {
    "id": "scen161.0146",
    "jp": "そうだったんだ。{n}かわいそうだね‥‥。",
-   "en": "",
+   "en": "So that's what happened. Poor thing...",
    "term": "end"
   },
   {
    "id": "scen161.0147",
    "jp": "私も胸が痛みますよ。{n}でも後は、あの子の気が済むようにさせてあげるしか{n}ないでしょうね‥‥。",
-   "en": "",
+   "en": "It pains me too. But all we can do now is let him keep{n}at it until he's satisfied, I suppose...",
    "term": "end"
   },
   {
    "id": "scen161.0148",
    "jp": "うわああああっ！",
-   "en": "",
+   "en": "Waaaaaah!",
    "term": "end"
   },
   {
    "id": "scen161.0149",
    "jp": "ん、なんだ！？",
-   "en": "",
+   "en": "Hm? What was that?!",
    "term": "end"
   },
   {
    "id": "scen161.0150",
    "jp": "た、大変だ！{n}闇落としの時の化け物が‥‥！",
-   "en": "",
+   "en": "Th-this is bad! The monster from the Darkfall...!",
    "term": "end"
   },
   {
    "id": "scen161.0151",
    "jp": "えええっ！？{n}それじゃ、さっき村に入っていった子供は！？",
-   "en": "",
+   "en": "Whaaat?! Then what about the kid who went into the{n}village just now?!",
    "term": "end"
   },
   {
    "id": "scen161.0152",
    "jp": "子供は、残った仲間たちが何とか守っているが‥‥。{n}とにかく、これ以上は誰も通すな！",
-   "en": "",
+   "en": "The others who stayed behind are protecting the kid{n}somehow, but... Anyway, don't let anyone else through!",
    "term": "end"
   },
   {
    "id": "scen161.0153",
    "jp": "オレは村に戻って、あの化け物を何とかする！",
-   "en": "",
+   "en": "I'm going back to the village to deal with that monster!",
    "term": "end"
   },
   {
    "id": "scen161.0154",
    "jp": "あっ、ちょっと！{n}危ないよ！",
-   "en": "",
+   "en": "Ah, hey, wait! It's dangerous!",
    "term": "end"
   },
   {
    "id": "scen161.0155",
    "jp": "‥‥行っちゃった‥‥。{n}どうしよう？",
-   "en": "",
+   "en": "...He's gone... What do we do?",
    "term": "end"
   },
   {
    "id": "scen161.0156",
    "jp": "闇落としの化け物って、{n}ユングみたいなヤツだよね？",
-   "en": "",
+   "en": "A monster from the Darkfall... That means something like{n}Jung, right?",
    "term": "end"
   },
   {
    "id": "scen161.0157",
    "jp": "ああ。{n}ただの警備兵には荷が重過ぎる相手だぞ。",
-   "en": "",
+   "en": "Yeah. Way too much for an ordinary guard to handle.",
    "term": "end"
   },
   {
    "id": "scen161.0158",
    "jp": "このまま放っておけないよ、お兄ちゃん！",
-   "en": "",
+   "en": "We can't just leave them, Big Brother!",
    "term": "end"
   },
   {
    "id": "scen161.0159",
    "jp": "ねぇ、お兄ちゃん。{n}何があったのか気になるし、{n}話だけでも聞いてみようよ。",
-   "en": "",
+   "en": "Hey, Big Brother. I'm curious about what happened.{n}Let's at least go and hear what they have to say.",
    "term": "end"
   },
   {
    "id": "scen161.0160",
    "jp": "　{n}　　　　　　　{FFF0}ブローニュ村入り口{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　　{FFF0}Boulogne Village Entrance{FFF1}",
    "term": "end"
   },
   {
    "id": "scen161.0161",
    "jp": "　{FFEF}北　　：ラシェル、メディス村方面{n}　{FFF0}西　　：ブローニュ村{n}　{FFEE}東　　：魔法学院方面{FFF1}",
-   "en": "",
+   "en": "　{FFEF}North: To Rachelle, Medis Village{n}{FFF0}West: Boulogne Village{n}{FFEE}East: To the Magic Academy{FFF1}",
    "term": "end"
   }
  ]

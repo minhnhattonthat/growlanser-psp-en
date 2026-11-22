@@ -274,7 +274,7 @@
   {
    "id": "scen095.0038",
    "jp": "{v:001A}物陰になっていて、なかなかいい場所だ。{n}敵が通りかかるまでここで休んで、体力を温存しよう。",
-   "en": "",
+   "en": "{v:001A}Good spot. We've got cover here. Let's rest and save{n}our strength until the enemy comes through.",
    "term": "end"
   },
   {
@@ -1681,13 +1681,13 @@
   {
    "id": "scen095.0237",
    "jp": "{v:00D2}まだレティシア姫を救出してないよ？",
-   "en": "",
+   "en": "{v:00D2}We haven't rescued Princess Leticia yet, have we?",
    "term": "end"
   },
   {
    "id": "scen095.0238",
    "jp": "{v:00D3}ああ。{n}今戻っちまったら、{n}せっかくここまで来たことが無駄になる。",
-   "en": "",
+   "en": "{v:00D3}Yeah. Head back now and we'll have come all this way{n}for nothing.",
    "term": "end"
   },
   {

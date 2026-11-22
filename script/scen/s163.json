@@ -64,49 +64,49 @@
   {
    "id": "scen163.0008",
    "jp": "学生",
-   "en": "",
+   "en": "Student",
    "term": "null"
   },
   {
    "id": "scen163.0009",
    "jp": "どこへ行く気だい？{n}送魔線技師の部屋は６階だ、急いで向かおう。",
-   "en": "",
+   "en": "Where are you off to? The Mana Line Engineer's room{n}is on the 6th floor. Let's hurry there.",
    "term": "end"
   },
   {
    "id": "scen163.0010",
    "jp": "闇が人を化け物に変えてしまうなんて、{n}考えただけでゾッとなります‥‥。",
-   "en": "",
+   "en": "Darkness turning people into monsters... Just thinking{n}about it gives me chills...",
    "term": "end"
   },
   {
    "id": "scen163.0011",
    "jp": "テスト勉強しなくちゃいけないと思いつつ、{n}なぜか机の上の掃除を始めちゃうんですよね‥‥。{n}そういうこと、ありませんか？",
-   "en": "",
+   "en": "I know I have to study for the test, but somehow I{n}always end up cleaning my desk instead... Doesn't that{n}ever happen to you?",
    "term": "end"
   },
   {
    "id": "scen163.0012",
    "jp": "さっき、大きな地震がありましたね。{n}すぐに収まったみたいで良かったです。",
-   "en": "",
+   "en": "There was a big earthquake just now, wasn't there?{n}Good thing it settled down quickly.",
    "term": "end"
   },
   {
    "id": "scen163.0013",
    "jp": "そういえば最近、あの人を見ないなぁ。{n}え～と、ほら‥‥あの方向音痴の人！{n}いつも学院内で迷ってたから、目立ってたんだよね。",
-   "en": "",
+   "en": "Come to think of it, I haven't seen that woman lately.{n}Um, you know... the one with no sense of direction!{p}She was always getting lost in the Academy, so she{n}stood out.",
    "term": "end"
   },
   {
    "id": "scen163.0014",
    "jp": "戦争に気を取られすぎて、{n}試験勉強を全然やってなかった‥‥[01BE]{n}どうしよう、このままじゃ赤点だ～！",
-   "en": "",
+   "en": "I got so caught up in the war that I didn't study for{n}exams at all...[01BE] What do I do? At this rate I'm{n}gonna fail!",
    "term": "end"
   },
   {
    "id": "scen163.0015",
    "jp": "ううう‥‥。{n}赤点も怖いけど、{n}化け物になっちゃう物質も怖いよ‥‥。",
-   "en": "",
+   "en": "Waaah... Failing grades are scary, but a substance that{n}turns you into a monster is scary too...",
    "term": "end"
   },
   {
@@ -342,31 +342,31 @@
   {
    "id": "scen163.0047",
    "jp": "例の闇の話で、{n}生徒たちがひどく動揺してしまっているわ。{n}何とか落ち着かせなければ‥‥。",
-   "en": "",
+   "en": "The students are badly shaken by all this talk of{n}darkness. I must find some way to calm them down...",
    "term": "end"
   },
   {
    "id": "scen163.0048",
    "jp": "あなた、魔法詠唱時間と魔法威力の比例計算式を{n}答えられる？{n}{FFFB}‥‥あら失礼、うちの生徒じゃなかったのね。",
-   "en": "",
+   "en": "Can you tell me the formula for the proportion between{n}spell incantation time and spell power? {FFFB}...Oh, pardon{n}me. You're not one of our students, are you?",
    "term": "end"
   },
   {
    "id": "scen163.0049",
    "jp": "あなた、アメリアさんという女性を{n}学院内で見かけなかったかしら？{p}ちょっと研究で聞きたいことがあったんだけど、{n}最近つかまらなくて‥‥。",
-   "en": "",
+   "en": "Have you seen a woman named Amelia-san around{n}the Academy?{p}I had something I wanted to ask her about my{n}research, but I can never seem to catch her lately...",
    "term": "end"
   },
   {
    "id": "scen163.0050",
    "jp": "傘をさして歩いたら、闇を避けられないかな？{n}‥‥なんてムリですよね、とほほ‥‥。",
-   "en": "",
+   "en": "Do you think I could dodge the darkness if I walked{n}around with an umbrella? ...Yeah, guess not. *sigh*...",
    "term": "end"
   },
   {
    "id": "scen163.0051",
    "jp": "名物のマホガク定食は食べました？{n}美味しいし、疲労回復にも効果抜群なんですよ！{p}え、料理の材料？{n}‥‥うーん、詳しくは誰も知らないんですよねぇ。",
-   "en": "",
+   "en": "Have you tried our famous Academy Special? It's{n}delicious, and it works wonders for fatigue, too!{p}Huh? What's in it? ...Hmm, nobody really knows{n}the details.",
    "term": "end"
   },
   {
@@ -465,13 +465,13 @@
   {
    "id": "scen163.0064",
    "jp": "はぁ、勉強ばかりで平凡な日常だなぁ。{n}刺激が欲しいけど、何もないし‥‥。",
-   "en": "",
+   "en": "Sigh, nothing but studying. Such a boring routine. I{n}want some excitement, but nothing ever happens...",
    "term": "end"
   },
   {
    "id": "scen163.0065",
    "jp": "平凡な日々に飽き飽きしてたけど、{n}今となっては、それが幸せなんだと気づいたよ。",
-   "en": "",
+   "en": "I used to be sick of my boring days, but now I realize{n}that was happiness.",
    "term": "end"
   },
   {
@@ -577,25 +577,25 @@
   {
    "id": "scen163.0079",
    "jp": "故郷の親が、勉強しろってうるさいんだ。{n}もう、放っておいてほしいよ。",
-   "en": "",
+   "en": "My parents back home keep nagging me to study. I{n}wish they'd just leave me alone.",
    "term": "end"
   },
   {
    "id": "scen163.0080",
    "jp": "故郷の両親のことが心配だけど、{n}うかつに外を歩けない状況らしいし‥‥。",
-   "en": "",
+   "en": "I'm worried about my parents back home, but I hear it{n}isn't safe to go walking around outside...",
    "term": "end"
   },
   {
    "id": "scen163.0081",
    "jp": "勉強は好きだけど、テストは苦手だわ。{n}時間を気にせずに、じっくりと考えたいのよ。",
-   "en": "",
+   "en": "I like studying, but I'm bad at tests. I want to think{n}things through properly, without worrying about{n}the time.",
    "term": "end"
   },
   {
    "id": "scen163.0082",
    "jp": "また物騒になってきたみたいね。{n}やっと戦争が終わったと思ってたのに‥‥。",
-   "en": "",
+   "en": "Things seem to be getting dangerous again. Just when{n}I thought the war was finally over...",
    "term": "end"
   },
   {
@@ -608,19 +608,19 @@
   {
    "id": "scen163.0084",
    "jp": "恐ろしい物質が発見されたんだって？{n}なにも、僕が生きてる時代に{n}発見されなくてもいいのに‥‥。",
-   "en": "",
+   "en": "I heard they discovered some terrifying substance?{n}Why did they have to discover it in MY lifetime...?",
    "term": "end"
   },
   {
    "id": "scen163.0085",
    "jp": "ん、なにか質問かね？",
-   "en": "",
+   "en": "Hm, do you have a question?",
    "term": "end"
   },
   {
    "id": "scen163.0086",
    "jp": "ラシェルで確認された物質は、{n}かなり危険なものらしいぞ‥‥。",
-   "en": "",
+   "en": "That substance they found in Rachelle seems to be{n}extremely dangerous...",
    "term": "end"
   },
   {
@@ -726,7 +726,7 @@
   {
    "id": "scen163.0100",
    "jp": "なんかさ、整理整頓されている本を散らかす{n}女の子がいるんだよ。許せないと思わない？",
-   "en": "",
+   "en": "There's this girl who keeps messing up the books after{n}they've been neatly arranged. Isn't that unforgivable?",
    "term": "end"
   },
   {
@@ -739,19 +739,19 @@
   {
    "id": "scen163.0102",
    "jp": "新たに発見された物質について、{n}ヒントになるようなものがないか探してるんです。",
-   "en": "",
+   "en": "I'm looking for anything that could give us a clue about{n}the newly discovered substance.",
    "term": "end"
   },
   {
    "id": "scen163.0103",
    "jp": "生徒たちのためにも、{n}そろそろ新しい文献を入れてもらおうか‥‥。",
-   "en": "",
+   "en": "For the students' sake, perhaps it's time to have some{n}new literature brought in...",
    "term": "end"
   },
   {
    "id": "scen163.0104",
    "jp": "未確認物質は研究対象として興味深いが、{n}そんなこと言ってる場合ではないな。",
-   "en": "",
+   "en": "An unidentified substance is fascinating as a subject of{n}research, but this is no time to be saying that.",
    "term": "end"
   },
   {
@@ -1027,217 +1027,217 @@
   {
    "id": "scen163.0141",
    "jp": "ああ、キミたちか。{n}いつも忙しそうだが、体には気をつけたまえよ。",
-   "en": "",
+   "en": "Ah, it's you all. You always seem so busy, but do take{n}care of yourselves.",
    "term": "end"
   },
   {
    "id": "scen163.0142",
    "jp": "私は師匠と一緒に、携帯集魔柱の作成だ。{n}そっちのことは任せたぞ！",
-   "en": "",
+   "en": "I'm building Portable Mana Pillars with my teacher. I'm{n}leaving things on your end to you!",
    "term": "end"
   },
   {
    "id": "scen163.0143",
    "jp": "師匠、成功をお祈りしています！",
-   "en": "",
+   "en": "Teacher, I'm praying for your success!",
    "term": "end"
   },
   {
    "id": "scen163.0144",
    "jp": "あんなに必死になったのは、いつ以来だろうな。{n}師匠の生き生きとした姿も見れて、嬉しかったよ。",
-   "en": "",
+   "en": "When was the last time I worked that desperately, I{n}wonder? It made me happy to see my teacher so full{n}of life, too.",
    "term": "end"
   },
   {
    "id": "scen163.0145",
    "jp": "薬学の研究が人々の役に立つよう、{n}日々頑張っているよ。",
-   "en": "",
+   "en": "I'm working hard every day so that my pharmacology{n}research can be of use to people.",
    "term": "end"
   },
   {
    "id": "scen163.0146",
    "jp": "失礼します。",
-   "en": "",
+   "en": "Excuse me.",
    "term": "end"
   },
   {
    "id": "scen163.0147",
    "jp": "おお、キミたちか。一体、どうしたね？",
-   "en": "",
+   "en": "Oh, it's you all. What's the matter?",
    "term": "end"
   },
   {
    "id": "scen163.0148",
    "jp": "実は、お願いしたいことがあって来ました。",
-   "en": "",
+   "en": "Actually, we've come because we have a favor to ask.",
    "term": "end"
   },
   {
    "id": "scen163.0149",
    "jp": "結論から言いますと、すぐに立てられる{n}携帯型の集魔柱を作って頂きたいのです。",
-   "en": "",
+   "en": "To get straight to the point, we'd like you to make{n}portable mana collection pillars that can be set up{n}right away.",
    "term": "end"
   },
   {
    "id": "scen163.0150",
    "jp": "ふむ、携帯型の集魔柱か‥‥。{p}それならば、以前に試作で作ったものが{n}１つだけあるぞい。",
-   "en": "",
+   "en": "Hmm, a portable mana collection pillar...{p}Well, I do have exactly one that I made as a prototype{n}a while back.",
    "term": "end"
   },
   {
    "id": "scen163.0151",
    "jp": "えっ、ホントに？",
-   "en": "",
+   "en": "Huh, really?",
    "term": "end"
   },
   {
    "id": "scen163.0152",
    "jp": "よかった、原型はあるんですね。{p}だけど、１つだけでは足りません。{n}緊急に大量生産することは出来ませんか？",
-   "en": "",
+   "en": "Thank goodness, so there's a prototype.{p}But just one won't be enough. Could you mass-produce{n}them, urgently?",
    "term": "end"
   },
   {
    "id": "scen163.0153",
    "jp": "出来なくはないじゃろうが‥‥。{p}しかし、どうしてそんなに大量の携帯集魔柱が{n}緊急で必要なのかね？",
-   "en": "",
+   "en": "It's not impossible, I suppose...{p}But why do you need so many Portable Mana Pillars{n}so urgently?",
    "term": "end"
   },
   {
    "id": "scen163.0154",
    "jp": "はい、実は‥‥‥‥。",
-   "en": "",
+   "en": "Well, the truth is.........",
    "term": "end"
   },
   {
    "id": "scen163.0155",
    "jp": "‥‥という訳なんです。",
-   "en": "",
+   "en": "...And that's the situation.",
    "term": "end"
   },
   {
    "id": "scen163.0156",
    "jp": "なるほど、そういうことならば{n}協力しない訳にはいかんじゃろう！",
-   "en": "",
+   "en": "I see. If that's the case, I can hardly refuse to help!",
    "term": "end"
   },
   {
    "id": "scen163.0157",
    "jp": "うむむ、燃える展開じゃ！{n}ワシの技術が人々を救うワケじゃな！",
-   "en": "",
+   "en": "Mmm, now this is a thrilling turn of events! My skills are{n}going to save people, eh!",
    "term": "end"
   },
   {
    "id": "scen163.0158",
    "jp": "ありがとうございます！{n}どのくらいのペースで作成できますか？",
-   "en": "",
+   "en": "Thank you so much! How quickly can you make them?",
    "term": "end"
   },
   {
    "id": "scen163.0159",
    "jp": "ワシとアリオストくんのそれぞれの試作品で、{n}すぐに１本は作って渡せるが‥‥。{n}{FFFB}あとは、それぞれのパーツが出来次第じゃな‥‥。{p}その時々に渡せる本数は変わると思うが、{n}出来るかぎり急ぐつもりじゃ。",
-   "en": "",
+   "en": "With my prototype and Ariost-kun's, we can make one{n}right away and hand it over... {FFFB}After that, it depends on{n}when each of the parts is ready...{p}The number we can give you each time will probably{n}vary, but I intend to hurry as much as I can.",
    "term": "end"
   },
   {
    "id": "scen163.0160",
    "jp": "こっちも魔導装置の作成を急ぐよ。",
-   "en": "",
+   "en": "I'll hurry with building the magic device on my end, too.",
    "term": "end"
   },
   {
    "id": "scen163.0161",
    "jp": "キミたちは屋上へ戻って、時空制御塔の位置から{n}闇落としのポイントを特定していてくれ！",
-   "en": "",
+   "en": "You all go back up to the roof and pinpoint the Darkfall{n}points from the Space-Time Control Tower's position!",
    "term": "end"
   },
   {
    "id": "scen163.0162",
    "jp": "分かった、そっちはよろしく頼むぞ。",
-   "en": "",
+   "en": "Got it. We'll leave that end to you.",
    "term": "end"
   },
   {
    "id": "scen163.0163",
    "jp": "まずは、その携帯集魔柱を持っていってくれ。{n}その間に、ワシらは次の集魔柱を作っておく！",
-   "en": "",
+   "en": "First, take that Portable Mana Pillar with you. In the{n}meantime, we'll be making the next mana collection pillar!",
    "term": "end"
   },
   {
    "id": "scen163.0164",
    "jp": "すぐに最初の携帯集魔柱を作るから、{n}キミたちは先に屋上へ向かってくれ。",
-   "en": "",
+   "en": "We'll make the first Portable Mana Pillar right away, so{n}you all head up to the roof first.",
    "term": "end"
   },
   {
    "id": "scen163.0165",
    "jp": "今、急ピッチで携帯集魔柱を作成しておる所じゃ！",
-   "en": "",
+   "en": "We're building Portable Mana Pillars at full speed{n}right now!",
    "term": "end"
   },
   {
    "id": "scen163.0166",
    "jp": "新しい携帯集魔柱は出来次第、{n}すぐアリオストくんが持っていく！{p}キミたちは早く屋上へ行って、{n}現状の確認を急いでくれ！",
-   "en": "",
+   "en": "As soon as the new Portable Mana Pillars are ready,{n}Ariost-kun will bring them straight to you!{p}You all hurry up to the roof and check on the situation!",
    "term": "end"
   },
   {
    "id": "scen163.0167",
    "jp": "携帯集魔柱の作成は間に合ったようじゃな。{p}どうじゃ？{n}ワシの腕も、まだまだ捨てたものではないだろう！",
-   "en": "",
+   "en": "Looks like we made the Portable Mana Pillars in time.{p}Well? These old hands of mine still aren't half bad, eh!",
    "term": "end"
   },
   {
    "id": "scen163.0168",
    "jp": "送魔線からデュンケルスを受信できるように、{n}携帯集魔柱の改造をしてるところじゃ！",
-   "en": "",
+   "en": "I'm in the middle of modifying the Portable Mana Pillar so{n}it can receive Dunkels from the mana line!",
    "term": "end"
   },
   {
    "id": "scen163.0169",
    "jp": "久しぶりに良い仕事をさせてもらった。{n}ありがとう、キミたちには感謝しておる。",
-   "en": "",
+   "en": "It's been a long time since I got to do such fine work.{n}Thank you. I'm grateful to you all.",
    "term": "end"
   },
   {
    "id": "scen163.0170",
    "jp": "もうこの地上には送魔線を張る必要のある場所など{n}残っておらんのだよ。",
-   "en": "",
+   "en": "There's no place left on this earth that needs mana{n}lines laid anymore.",
    "term": "end"
   },
   {
    "id": "scen163.0171",
    "jp": "そっちは任せたよ。{n}こっちも装置の作成を急ぐ！",
-   "en": "",
+   "en": "I'm leaving that end to you. I'll hurry with building the{n}device on my end, too!",
    "term": "end"
   },
   {
    "id": "scen163.0172",
    "jp": "僕は先生と一緒に、すぐに最初の１本を作っていく。{n}{FFFB}君たちは、先に屋上へ戻っていてくれ。",
-   "en": "",
+   "en": "My teacher and I will make the first one right away.{n}{FFFB}You all go back up to the roof ahead of us.",
    "term": "end"
   },
   {
    "id": "scen163.0173",
    "jp": "悪いが、まだ次の分を作成している最中だ。{n}{FFFB}とりあえず、今は渡している分の携帯集魔柱を{n}急いで立てて来てくれ！",
-   "en": "",
+   "en": "Sorry, but we're still in the middle of making the next{n}batch. {FFFB}For now, hurry and go set up the Portable Mana{n}Pillars you already have!",
    "term": "end"
   },
   {
    "id": "scen163.0174",
    "jp": "もうすぐ次の分が完成する。{n}すぐに届けるから、{n}キミたちは先に屋上へ行って待っててくれ！",
-   "en": "",
+   "en": "The next batch is almost done. We'll bring it to you right{n}away, so go up to the roof ahead and wait for us!",
    "term": "end"
   },
   {
    "id": "scen163.0175",
    "jp": "念のため、追加の携帯集魔柱を作成しておくよ。{n}キミたちは、ローランディアへ向かってくれ！",
-   "en": "",
+   "en": "I'll make some extra Portable Mana Pillars just in case.{n}You all head for Rolandia!",
    "term": "end"
   },
   {
    "id": "scen163.0176",
    "jp": "アタシはここで、アリオスト先輩の{n}お手伝いをしています。{n}お兄さまたちも、頑張ってください！",
-   "en": "",
+   "en": "I'm staying here to help out Ariost-senpai. You do your{n}best too, Big Brother, everyone!",
    "term": "end"
   },
   {
@@ -1350,7 +1350,7 @@
   {
    "id": "scen163.0191",
    "jp": "学院長は今、屋上の方へ行っております。{n}緊急事態だと言ってましたが‥‥。",
-   "en": "",
+   "en": "The Headmaster has gone up to the roof right now. He{n}said it was an emergency...",
    "term": "end"
   },
   {
@@ -1405,241 +1405,241 @@
   {
    "id": "scen163.0199",
    "jp": "どうかしたのかね？",
-   "en": "",
+   "en": "Is something the matter?",
    "term": "end"
   },
   {
    "id": "scen163.0200",
    "jp": "実は、グローシュとは逆の物質について{n}お話をお聞きしたいのですが‥‥。",
-   "en": "",
+   "en": "Actually, we'd like to ask you about a substance that's{n}the opposite of Grosh...",
    "term": "end"
   },
   {
    "id": "scen163.0201",
    "jp": "グローシュと逆の物質だと？{n}‥‥詳しく説明しなさい‥‥。",
-   "en": "",
+   "en": "A substance that's the opposite of Grosh? ...Explain{n}in detail...",
    "term": "end"
   },
   {
    "id": "scen163.0202",
    "jp": "時空の隙間から流れ込む物質はグローシュの他に{n}デュンケルスという物質があるそうです。{p}それは毒のようなもので、生物がふれると、{n}化け物のようになってしまうそうです。{p}闇の物質と言っていました。",
-   "en": "",
+   "en": "Apparently, besides Grosh, there's another substance{n}that flows in through the gaps in space-time,{n}called Dunkels.{p}It's something like a poison, and when living things touch{n}it, they turn into something like monsters.{p}They called it a dark substance.",
    "term": "end"
   },
   {
    "id": "scen163.0203",
    "jp": "時空の隙間‥‥{FE14}闇の物質‥‥。{n}{FFFB}うむむ、これは‥‥。",
-   "en": "",
+   "en": "Gaps in space-time...{FE14} A dark substance... {FFFB}Hmm, this is...",
    "term": "end"
   },
   {
    "id": "scen163.0204",
    "jp": "何か知っているのか？",
-   "en": "",
+   "en": "You know something?",
    "term": "end"
   },
   {
    "id": "scen163.0205",
    "jp": "実は、屋上に設置してある歪み計が、{n}不思議な観測結果を出しているのだ。{p}普通、時空の歪みが大きくなると、{n}流れ込むグローシュの量も比例して多くなる。{p}だが、その歪みがある一定値に達すると、{n}グローシュの流入が止まるという現象が{n}確認されているのだ。",
-   "en": "",
+   "en": "As it happens, the distortion gauge set up on the roof{n}has been giving strange readings.{p}Normally, as space-time distortion grows, the amount{n}of Grosh flowing in increases in proportion.{p}However, we have confirmed a phenomenon where,{n}once the distortion reaches a certain level, the inflow{n}of Grosh stops.",
    "term": "end"
   },
   {
    "id": "scen163.0206",
    "jp": "グローシュの流入が止まる？{n}そんな‥‥。",
-   "en": "",
+   "en": "The inflow of Grosh stops? No way...",
    "term": "end"
   },
   {
    "id": "scen163.0207",
    "jp": "どうしてそんなことが起こっているのよ？",
-   "en": "",
+   "en": "Why would something like that be happening?!",
    "term": "end"
   },
   {
    "id": "scen163.0208",
    "jp": "それも、歪みの外の世界にグローシュ以外の物が{n}あると仮定すると説明がつくな。",
-   "en": "",
+   "en": "That too can be explained if we assume there is{n}something other than Grosh in the world beyond{n}the distortion.",
    "term": "end"
   },
   {
    "id": "scen163.0209",
    "jp": "それが闇の物質デュンケルス‥‥？",
-   "en": "",
+   "en": "And that's the dark substance, Dunkels...?",
    "term": "end"
   },
   {
    "id": "scen163.0210",
    "jp": "もし、そのデュンケルスという物質の大きさが、{n}グローシュの数倍の大きさを持つならば、{n}それがフタのような役目をして、{n}歪みで出来た穴を塞いでしまうのだろう。",
-   "en": "",
+   "en": "If this substance called Dunkels is several times larger{n}than Grosh, it would act like a lid and plug up the hole{n}made by the distortion.",
    "term": "end"
   },
   {
    "id": "scen163.0211",
    "jp": "その結果、グローシュの流入が{n}止まってしまうのではないだろうか。",
-   "en": "",
+   "en": "As a result, the inflow of Grosh would stop. Or so I{n}would surmise.",
    "term": "end"
   },
   {
    "id": "scen163.0212",
    "jp": "つまり、目詰まりするってことか。{n}じゃ、歪みがもっと大きくなったらどうなるんだ？",
-   "en": "",
+   "en": "So it gets clogged up, huh. Then what happens if the{n}distortion gets even bigger?",
    "term": "end"
   },
   {
    "id": "scen163.0213",
    "jp": "穴の大きさがデュンケルスより大きくなれば、{n}デュンケルスがこちらの世界に流入することに{n}なるだろう。{p}ただ、そのデュンケルスがどのような物質なのか{n}わからないがな。{p}本当に触れるだけで怪物になってしまう物なのか、{n}まったく別の物なのか‥‥。{p}まずは屋上の歪み計のところに{n}行ってみるといいだろう。{n}歪みに関しては私より詳しく教えてもらえるはずだ。",
-   "en": "",
+   "en": "If the hole grows larger than the Dunkels, then the{n}Dunkels would flow into this world.{p}However, I don't know what sort of substance this{n}Dunkels is.{p}Whether it truly turns things into monsters at a mere{n}touch, or whether it is something else entirely...{p}First, I suggest you go to the distortion gauge on the{n}roof. They should be able to tell you more about the{n}distortion than I can.",
    "term": "end"
   },
   {
    "id": "scen163.0214",
    "jp": "はい、ありがとうございました。",
-   "en": "",
+   "en": "Yes, thank you very much.",
    "term": "end"
   },
   {
    "id": "scen163.0215",
    "jp": "屋上の歪み計へ",
-   "en": "",
+   "en": "To the Distortion Gauge on the Roof",
    "term": "end"
   },
   {
    "id": "scen163.0216",
    "jp": "まずは屋上の歪み計のところに{n}行ってみるといいだろう。{n}歪みに関しては私より詳しく教えてもらえるはずだ。",
-   "en": "",
+   "en": "First, I suggest you go to the distortion gauge on the{n}roof. They should be able to tell you more about the{n}distortion than I can.",
    "term": "end"
   },
   {
    "id": "scen163.0217",
    "jp": "耐魔鉱石を持ち帰れ",
-   "en": "",
+   "en": "Bring Back the Antimagic Ore",
    "term": "end"
   },
   {
    "id": "scen163.0218",
    "jp": "最近よく来るな。",
-   "en": "",
+   "en": "You've been coming by a lot lately.",
    "term": "end"
   },
   {
    "id": "scen163.0219",
    "jp": "えーっ？{n}来ちゃダメなの？",
-   "en": "",
+   "en": "Whaaat? We're not allowed to come?",
    "term": "end"
   },
   {
    "id": "scen163.0220",
    "jp": "君たちが頻繁に訪れると言うことは、{n}この世界に良からぬ事が起こってる証拠だからな。",
-   "en": "",
+   "en": "When you visit so often, it's proof that something ill is{n}happening in this world.",
    "term": "end"
   },
   {
    "id": "scen163.0221",
    "jp": "{FB00}あ、あははは‥‥。",
-   "en": "",
+   "en": "{FB00}Ah, ahahaha...",
    "term": "end"
   },
   {
    "id": "scen163.0222",
    "jp": "それで、何の用かな？",
-   "en": "",
+   "en": "So, what can I do for you?",
    "term": "end"
   },
   {
    "id": "scen163.0223",
    "jp": "はい。{n}魔法を妨害する装置を作りたいのですが、{n}学院長は何かご存知ありませんか？",
-   "en": "",
+   "en": "Yes. We want to make a device that blocks magic. Do{n}you know anything about that, Headmaster?",
    "term": "end"
   },
   {
    "id": "scen163.0224",
    "jp": "魔法を妨害する装置？{n}それは何に使うつもりかね？",
-   "en": "",
+   "en": "A device that blocks magic? And what do you intend to{n}use it for?",
    "term": "end"
   },
   {
    "id": "scen163.0225",
    "jp": "捕らえた魔法使いを連れ歩かねばならない。{n}そのために、魔力を妨害する装置が必要だ。",
-   "en": "",
+   "en": "We have to take a captured magician around with us.{n}For that, we need a device that blocks magic power.",
    "term": "end"
   },
   {
    "id": "scen163.0226",
    "jp": "これは私の専門分野だな。{n}身につけた者の魔力を封じる呪いのアイテムを{n}作れば良い。",
-   "en": "",
+   "en": "This is my field of expertise. We need only make a{n}cursed item that seals the magic power of whoever{n}wears it.",
    "term": "end"
   },
   {
    "id": "scen163.0227",
    "jp": "では、早速お願いしたい。",
-   "en": "",
+   "en": "Then we'd like you to get on it right away.",
    "term": "end"
   },
   {
    "id": "scen163.0228",
    "jp": "うむ、材料さえそろえば、すぐにでも作ろう。",
-   "en": "",
+   "en": "Mm, once I have the materials, I'll make it at once.",
    "term": "end"
   },
   {
    "id": "scen163.0229",
    "jp": "って、その言い方からすると、{n}材料が足りないって事なのね‥‥。",
-   "en": "",
+   "en": "Wait, the way you put that... you mean you're short on{n}materials, huh...",
    "term": "end"
   },
   {
    "id": "scen163.0230",
    "jp": "あははは‥‥。{n}まぁ、そうなるな。",
-   "en": "",
+   "en": "Ahahaha... Well, that's about the size of it.",
    "term": "end"
   },
   {
    "id": "scen163.0231",
    "jp": "それはどこにいけば手に入りますか？",
-   "en": "",
+   "en": "Where would we go to get them?",
    "term": "end"
   },
   {
    "id": "scen163.0232",
    "jp": "シュッツベルグの南東に川が流れているのを{n}知っているか？{n}その川の上流には洞窟がある。",
-   "en": "",
+   "en": "Do you know of the river that flows southeast of{n}Schutzberg? There's a cave upstream on that river.",
    "term": "end"
   },
   {
    "id": "scen163.0233",
    "jp": "そこなら行ったことがあるな。",
-   "en": "",
+   "en": "I've been there before.",
    "term": "end"
   },
   {
    "id": "scen163.0234",
    "jp": "そこはただの洞窟ではなくてな。{n}カギとなる宝石をはめ込むことで、{n}行けるようになる隠された場所がある。{p}そこの奥に行って、耐魔鉱石を取ってきてくれ。{n}小石１つ程度で十分だ。",
-   "en": "",
+   "en": "That's no ordinary cave. By setting a gemstone that{n}serves as a key, you can reach a hidden place inside.{p}Go to the far end of it and bring back some Antimagic{n}Ore. A piece the size of a pebble will be plenty.",
    "term": "end"
   },
   {
    "id": "scen163.0235",
    "jp": "耐魔鉱石ですね。{n}わかりました。",
-   "en": "",
+   "en": "Antimagic Ore, then. Understood.",
    "term": "end"
   },
   {
    "id": "scen163.0236",
    "jp": "この宝石で隠された場所に行けるようになる。",
-   "en": "",
+   "en": "This gemstone will let you reach the hidden place.",
    "term": "end"
   },
   {
    "id": "scen163.0237",
    "jp": "　{n}　　　　『{FFEF}エメラルド{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "　{n}　　　　Obtained the '{FFEF}Emerald{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen163.0238",
    "jp": "私は、君たちが戻ってくるまでに{n}下準備をしておこう。",
-   "en": "",
+   "en": "I'll make the preparations while you're away.",
    "term": "end"
   },
   {
@@ -1652,49 +1652,49 @@
   {
    "id": "scen163.0240",
    "jp": "その宝石で隠された場所に行けるようになる。{n}洞窟は、シュッツベルグの南東に流れる{n}川の上流だ。{p}私は、君たちが耐魔鉱石を持って帰って{n}くるまでに下準備をしておこう。",
-   "en": "",
+   "en": "That gemstone will let you reach the hidden place. The{n}cave is upstream on the river that flows southeast{n}of Schutzberg.{p}I'll make the preparations while you're off bringing back{n}the Antimagic Ore.",
    "term": "end"
   },
   {
    "id": "scen163.0241",
    "jp": "耐魔鉱石、取ってきたよ～！",
-   "en": "",
+   "en": "We brought the Antimagic Ooore!",
    "term": "end"
   },
   {
    "id": "scen163.0242",
    "jp": "おお、早かったな。{n}こちらの準備も出来ているぞ。{n}早速作業にかかろう。{p}耐魔鉱石をくれないか。{n}あ、それと、あの洞窟で使ったカギとなる宝石もな。",
-   "en": "",
+   "en": "Oh, that was quick. My preparations are ready too.{n}Let's get to work right away.{p}Hand me the Antimagic Ore, would you? Oh, and the{n}gemstone you used as a key in that cave, too.",
    "term": "end"
   },
   {
    "id": "scen163.0243",
    "jp": "　{n}『{FFEF}エメラルド{FFF1}』と『{FFEF}耐魔鉱石{FFF1}』を渡した！",
-   "en": "",
+   "en": "　{n}Handed over the '{FFEF}Emerald{FFF1}' and the '{FFEF}Antimagic Ore{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen163.0244",
    "jp": "うむ、確かに耐魔鉱石だな。",
-   "en": "",
+   "en": "Mm, this is Antimagic Ore all right.",
    "term": "end"
   },
   {
    "id": "scen163.0245",
    "jp": "ではこれを念を込めてある台座に固定して‥‥。{n}これで腕輪を作り‥‥。{p}最後に腕輪に印を刻めば‥‥よし、完成だ‥‥。",
-   "en": "",
+   "en": "Now, I fix this onto the pedestal imbued with intent...{n}Then I make a bracelet with it...{p}And finally, I engrave a sigil on the bracelet... There,{n}finished...",
    "term": "end"
   },
   {
    "id": "scen163.0246",
    "jp": "よし、これを持って行きなさい。",
-   "en": "",
+   "en": "Right, take this with you.",
    "term": "end"
   },
   {
    "id": "scen163.0247",
    "jp": "　{n}　　　『{FFEF}魔封じの腕輪{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "　{n}　　　Obtained the '{FFEF}Spellseal Bracelet{FFF1}'!",
    "term": "end"
   },
   {
@@ -1707,19 +1707,19 @@
   {
    "id": "scen163.0249",
    "jp": "ご協力、感謝いたします。",
-   "en": "",
+   "en": "We thank you for your cooperation.",
    "term": "end"
   },
   {
    "id": "scen163.0250",
    "jp": "それじゃ、ローランディアに戻ろう！",
-   "en": "",
+   "en": "Okay, let's head back to Rolandia!",
    "term": "end"
   },
   {
    "id": "scen163.0251",
    "jp": "さあ、自分の仕事に戻りなさい。",
-   "en": "",
+   "en": "Now, get back to your own work.",
    "term": "end"
   },
   {
@@ -1732,7 +1732,7 @@
   {
    "id": "scen163.0253",
    "jp": "おい、今は状況を確認した方がいいぞ。",
-   "en": "",
+   "en": "Hey, we'd better check on the situation right now.",
    "term": "end"
   },
   {
@@ -1817,139 +1817,139 @@
   {
    "id": "scen163.0264",
    "jp": "{v:0019}きゃああっ！",
-   "en": "",
+   "en": "{v:0019}Kyaaah!",
    "term": "end"
   },
   {
    "id": "scen163.0265",
    "jp": "{v:001A}くっ！{n}何だ、今の振動は？{n}ただの地震じゃないぞ！",
-   "en": "",
+   "en": "{v:001A}Ngh! What was that tremor just now? That was no{n}ordinary earthquake!",
    "term": "end"
   },
   {
    "id": "scen163.0266",
    "jp": "い、今の揺れは一体なんだ‥‥！？",
-   "en": "",
+   "en": "Wh-what on earth was that shaking just now...?!",
    "term": "end"
   },
   {
    "id": "scen163.0267",
    "jp": "歪みの測定値は、えーと‥‥。",
-   "en": "",
+   "en": "The distortion readings are, um...",
    "term": "end"
   },
   {
    "id": "scen163.0268",
    "jp": "急に空が暗くなったと思ったら、{n}歪みの測定値がすごい数字をたたき出したんだ！{p}かと思ったら、すぐに数値がまた戻って‥‥。{n}一体、どうなってるんだ！？",
-   "en": "",
+   "en": "Just as the sky suddenly went dark, the distortion{n}readings shot up to an incredible number!{p}And then they dropped right back down again... What on{n}earth is going on?!",
    "term": "end"
   },
   {
    "id": "scen163.0269",
    "jp": "大陸全体の時空の歪みが酷くなっている‥‥。{n}{FFFB}キミたちには頼りっぱなしで悪いが、{n}この世界を救ってくれ、頼む！",
-   "en": "",
+   "en": "The space-time distortion across the whole continent{n}is getting severe... {FFFB}I'm sorry we keep relying on you,{n}but please save this world. I'm begging you!",
    "term": "end"
   },
   {
    "id": "scen163.0270",
    "jp": "長年、歪みの計測をしてきたが‥‥。{n}こんな事態は初めてだよ。どうすれば‥‥。",
-   "en": "",
+   "en": "I've been measuring distortion for many years, but...{n}this is the first time I've seen anything like this. What{n}do we do...?",
    "term": "end"
   },
   {
    "id": "scen163.0271",
    "jp": "また、ラシェルの時と同じ現象が起こった。{n}あの異常な歪みの測定値は何なんだ！？",
-   "en": "",
+   "en": "The same phenomenon as in Rachelle happened again.{n}What are those abnormal distortion readings?!",
    "term": "end"
   },
   {
    "id": "scen163.0272",
    "jp": "今日もいい天気ですよ。",
-   "en": "",
+   "en": "It's lovely weather again today.",
    "term": "end"
   },
   {
    "id": "scen163.0273",
    "jp": "あ、あれは何なんだ‥‥！？",
-   "en": "",
+   "en": "Wh-what is that...?!",
    "term": "end"
   },
   {
    "id": "scen163.0274",
    "jp": "闇が落ちる時の、あの光景‥‥。{n}まるで雷みたいで、本当に恐ろしかった‥‥。",
-   "en": "",
+   "en": "That sight when the darkness fell... It was just like{n}lightning. It was truly terrifying...",
    "term": "end"
   },
   {
    "id": "scen163.0275",
    "jp": "今度は、ブローニュ村に闇が‥‥。",
-   "en": "",
+   "en": "And now the darkness has hit Boulogne Village...",
    "term": "end"
   },
   {
    "id": "scen163.0276",
    "jp": "教授と一緒に、歪みの観測をしているの。",
-   "en": "",
+   "en": "I'm observing the distortion together with{n}the Professor.",
    "term": "end"
   },
   {
    "id": "scen163.0277",
    "jp": "嫌な予感がするわ‥‥。怖い‥‥。",
-   "en": "",
+   "en": "I have a bad feeling about this... I'm scared...",
    "term": "end"
   },
   {
    "id": "scen163.0278",
    "jp": "空から落ちてきた、あの謎の物体‥‥。{n}黒くて、とっても不気味だわ。",
-   "en": "",
+   "en": "That mysterious thing that fell from the sky... It was{n}black and so very eerie.",
    "term": "end"
   },
   {
    "id": "scen163.0279",
    "jp": "これほどまでの歪みの測定値は、{n}今まで見たことないわ。",
-   "en": "",
+   "en": "I've never seen distortion readings this high before.",
    "term": "end"
   },
   {
    "id": "scen163.0280",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
    "id": "scen163.0281",
    "jp": "{v:001B}い、今の見たか？",
-   "en": "",
+   "en": "{v:001B}D-did you see that just now?",
    "term": "end"
   },
   {
    "id": "scen163.0282",
    "jp": "{v:001C}見たって何をよ？",
-   "en": "",
+   "en": "{v:001C}See what?",
    "term": "end"
   },
   {
    "id": "scen163.0283",
    "jp": "{v:001D}北の方になにか落ちたんだ！{n}‥‥真っ暗な‥‥そう、闇のようなものが！",
-   "en": "",
+   "en": "{v:001D}Something fell to the north! ...Something pitch-black...{n}Yes, something like darkness!",
    "term": "end"
   },
   {
    "id": "scen163.0284",
    "jp": "{v:001E}闇ぃ！？",
-   "en": "",
+   "en": "{v:001E}Darkness?!",
    "term": "end"
   },
   {
    "id": "scen163.0285",
    "jp": "{v:001F}どこに落ちたんだ？",
-   "en": "",
+   "en": "{v:001F}Where did it fall?",
    "term": "end"
   },
   {
    "id": "scen163.0286",
    "jp": "{v:0020}よくは分からないけど、あの距離と方角からして、{n}ラシェルの近くじゃないかな‥‥？",
-   "en": "",
+   "en": "{v:0020}I can't say for sure, but judging from that distance and{n}direction, somewhere near Rachelle, maybe...?",
    "term": "end"
   },
   {
@@ -1962,33 +1962,33 @@
   {
    "id": "scen163.0288",
    "jp": "・急ごう",
-   "en": "",
+   "en": "・Let's hurry",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen163.0289",
    "jp": "・困ったな",
-   "en": "",
+   "en": "・This is a problem",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen163.0290",
    "jp": "{v:0021}うん！{n}そうしましょ！",
-   "en": "",
+   "en": "{v:0021}Yeah! Let's do that!",
    "term": "end"
   },
   {
    "id": "scen163.0291",
    "jp": "{v:0022}ナニ、落ち着いてんのよ！{n}ほら、急いで行ってみましょ！",
-   "en": "",
+   "en": "{v:0022}What are you so calm for?! Come on, let's hurry{n}over there!",
    "term": "end"
   },
   {
    "id": "scen163.0292",
    "jp": "ラシェルの調査",
-   "en": "",
+   "en": "Investigate Rachelle",
    "term": "end"
   },
   {
@@ -2001,151 +2001,151 @@
   {
    "id": "scen163.0294",
    "jp": "待ってて。{n}今ここの扉を開けるから、{n}あなた達は少し離れてて。",
-   "en": "",
+   "en": "Wait a moment. I'll open this door now, so you all stand{n}back a little.",
    "term": "end"
   },
   {
    "id": "scen163.0295",
    "jp": "チェックはすぐ終わるから、{n}他の人はここで待っててくれる？",
-   "en": "",
+   "en": "The check will be over quickly, so could everyone else{n}wait here?",
    "term": "end"
   },
   {
    "id": "scen163.0296",
    "jp": "彼が終わったら、あなたのもチェックするわね。",
-   "en": "",
+   "en": "Once he's done, I'll check yours too.",
    "term": "end"
   },
   {
    "id": "scen163.0297",
    "jp": "ああ、わかった。",
-   "en": "",
+   "en": "Yes, understood.",
    "term": "end"
   },
   {
    "id": "scen163.0298",
    "jp": "命に関わる大事なことだ。{n}しっかりチェックしてもらえよ。",
-   "en": "",
+   "en": "It's important, it's your life on the line. Make sure she{n}checks it properly.",
    "term": "end"
   },
   {
    "id": "scen163.0299",
    "jp": "無事に終ったのか？{n}なら、次はリシャールの番だな。",
-   "en": "",
+   "en": "All done safely? Then next it's Richard's turn.",
    "term": "end"
   },
   {
    "id": "scen163.0300",
    "jp": "指輪、アメリアさんにちゃんと{n}見てもらってきてね。",
-   "en": "",
+   "en": "Make sure Amelia-san takes a good look at your{n}ring, okay?",
    "term": "end"
   },
   {
    "id": "scen163.0301",
    "jp": "あ。お帰りなさい、お兄ちゃん。{n}指輪、問題なかった？",
-   "en": "",
+   "en": "Oh. Welcome back, Big Brother. Was your ring all right?",
    "term": "end"
   },
   {
    "id": "scen163.0302",
    "jp": "私は後で見てもらうから、{n}{s:0000}は先に行ってくるといい。",
-   "en": "",
+   "en": "I'll have mine looked at later. {s:0000}, you{n}should go first.",
    "term": "end"
   },
   {
    "id": "scen163.0303",
    "jp": "ちょっと待っててね、すぐ準備するから。",
-   "en": "",
+   "en": "Wait just a moment, okay? I'll get ready right away.",
    "term": "end"
   },
   {
    "id": "scen163.0304",
    "jp": "これをこうして‥‥、と。",
-   "en": "",
+   "en": "This goes like this... and there.",
    "term": "end"
   },
   {
    "id": "scen163.0305",
    "jp": "よし、準備完了！{n}それじゃあ、こっちに来て指輪を出してくれる？",
-   "en": "",
+   "en": "Right, all set! Now, could you come over here and take{n}out your ring?",
    "term": "end"
   },
   {
    "id": "scen163.0306",
    "jp": "それじゃ、指輪を出してくれる？",
-   "en": "",
+   "en": "Now, could you take out your ring?",
    "term": "end"
   },
   {
    "id": "scen163.0307",
    "jp": "次はリシャールの番ね。{n}悪いけど、呼んで来てくれるかしら？",
-   "en": "",
+   "en": "Next it's Richard's turn. Sorry, but could you go and{n}call him for me?",
    "term": "end"
   },
   {
    "id": "scen163.0308",
    "jp": "じゃ、始めましょうか。",
-   "en": "",
+   "en": "Well then, shall we begin?",
    "term": "end"
   },
   {
    "id": "scen163.0309",
    "jp": "はい、これでチェックは終了よ。{n}お疲れさま。{p}{FFF6}検査の結果、異常は見当たらなかったわ。",
-   "en": "",
+   "en": "There, that's the end of the check. Thanks for{n}your patience.{p}{FFF6}I didn't find anything wrong in the examination.",
    "term": "end"
   },
   {
    "id": "scen163.0310",
    "jp": "{FB00}はー、チェックって大変なのねぇ。{n}もっと簡単なんだと思ってたよ。",
-   "en": "",
+   "en": "{FB00}Phew, so checks are a lot of work, huh. I thought it'd{n}be way simpler.",
    "term": "end"
   },
   {
    "id": "scen163.0311",
    "jp": "まぁ、様々なパターンを想定して、{n}隅々まで見たからね。",
-   "en": "",
+   "en": "Well, I went over every inch of it, with all sorts of{n}scenarios in mind.",
    "term": "end"
   },
   {
    "id": "scen163.0312",
    "jp": "へー、すごーい。{n}でも、そこまでしなきゃダメなの？",
-   "en": "",
+   "en": "Wow, amaaazing. But do you really have to go that far?",
    "term": "end"
   },
   {
    "id": "scen163.0313",
    "jp": "もし指輪が壊れて水晶が落ちたり、{n}エネルギー波動に異常があったら大変でしょ？{n}だから、チェックしておきたかったのよ。",
-   "en": "",
+   "en": "If the ring broke and the crystal fell out, or something{n}went wrong with its energy waves, that would be{n}terrible, right? That's why I wanted to check it.",
    "term": "end"
   },
   {
    "id": "scen163.0314",
    "jp": "そっか。{n}指輪がないと、コイツ倒れちゃうんだもんね。{n}ホント、アメリアさんのおかげで助かったよ。",
-   "en": "",
+   "en": "Oh, right. Without the ring, this guy would just keel{n}over, huh. Seriously, Amelia-san, you really saved us.",
    "term": "end"
   },
   {
    "id": "scen163.0315",
    "jp": "これくらい何てことないわ。",
-   "en": "",
+   "en": "This is nothing at all.",
    "term": "end"
   },
   {
    "id": "scen163.0316",
    "jp": "それに、彼には色々と助けてもらったから‥‥。{n}{FC04}私だって、その‥‥{FFFB}助けてあげたいのよ。",
-   "en": "",
+   "en": "Besides, he's helped me out in so many ways... {FC04}So I,{n}um... {FFFB}I want to help him too.",
    "term": "end"
   },
   {
    "id": "scen163.0317",
    "jp": "でも、ちょっと気にしすぎじゃない？",
-   "en": "",
+   "en": "But aren't you worrying a little too much?",
    "term": "end"
   },
   {
    "id": "scen163.0318",
    "jp": "そんなことないわよ。{p}この指輪に万が一のことがあったら、{n}彼はまた倒れちゃうわ！{n}そうなったらどうするの？",
-   "en": "",
+   "en": "Not at all.{p}If anything happened to this ring, he'd collapse again!{n}What would we do then?",
    "term": "end"
   },
   {
@@ -2158,173 +2158,173 @@
   {
    "id": "scen163.0320",
    "jp": "・すぐ指輪を作ってもらう",
-   "en": "",
+   "en": "・Have a new ring made right away",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen163.0321",
    "jp": "・またアメリアに介抱してもらう",
-   "en": "",
+   "en": "・Have Amelia nurse me again",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen163.0322",
    "jp": "・心配しすぎだ",
-   "en": "",
+   "en": "・You worry too much",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen163.0323",
    "jp": "・どうしましょう？",
-   "en": "",
+   "en": "・What should we do?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen163.0324",
    "jp": "確かに指輪はまた作れるけど、{n}すぐに作れる状況とは限らない。{n}{FFFB}{FFF6}少なくとも、この戦いが終わるまでは用心しなきゃ。",
-   "en": "",
+   "en": "True, a ring can be made again, but we can't count on{n}being able to make one right away. {FFFB}{FFF6}At least until this{n}fight is over, we have to be careful.",
    "term": "end"
   },
   {
    "id": "scen163.0325",
    "jp": "うう、気が抜けないのねぇ‥‥。",
-   "en": "",
+   "en": "Ugh, so we can't let our guard down, huh...",
    "term": "end"
   },
   {
    "id": "scen163.0326",
    "jp": "それじゃあ、次はあの子の番ね。",
-   "en": "",
+   "en": "Well then, next it's that boy's turn.",
    "term": "end"
   },
   {
    "id": "scen163.0327",
    "jp": "えっ？{n}また私が介抱‥‥？？",
-   "en": "",
+   "en": "Huh? Me, nurse you again...??",
    "term": "end"
   },
   {
    "id": "scen163.0328",
    "jp": "それってもしかして、{n}アンタが洞窟に落ちたときのこと？",
-   "en": "",
+   "en": "Wait, could that be about when you fell into that cave?",
    "term": "end"
   },
   {
    "id": "scen163.0329",
    "jp": "あ、あああっ！",
-   "en": "",
+   "en": "Ah, aaah!",
    "term": "end"
   },
   {
    "id": "scen163.0330",
    "jp": "な、なに言ってるの！{n}{FFFB}あの時のひ‥‥ひざ枕は、{n}緊急事態だったから特別なのっ！",
-   "en": "",
+   "en": "Wh-what are you saying?! {FFFB}That l-lap pillow back then{n}was special, because it was an emergency!",
    "term": "end"
   },
   {
    "id": "scen163.0331",
    "jp": "‥‥まったく、どーしようもない奴ね。{n}アメリアさん、真に受けなくていいよ。",
-   "en": "",
+   "en": "...Honestly, this guy's hopeless. Amelia-san, you don't{n}have to take him seriously.",
    "term": "end"
   },
   {
    "id": "scen163.0332",
    "jp": "でも‥‥、本当に倒れちゃった時は‥‥{p}{FFF6}し、仕方ないから、{n}また介抱してあげなくもないけど‥‥。",
-   "en": "",
+   "en": "But... if you really do collapse...{p}{FFF6}I-I suppose, since it can't be helped, I might nurse{n}you again...",
    "term": "end"
   },
   {
    "id": "scen163.0333",
    "jp": "‥‥ん？{n}アメリアさん、今なにか言った？",
-   "en": "",
+   "en": "...Hm? Amelia-san, did you say something just now?",
    "term": "end"
   },
   {
    "id": "scen163.0334",
    "jp": "{FB00}う、ううん、何も！{n}それじゃあ、次はあの子の番ね。{FFFA}",
-   "en": "",
+   "en": "{FB00}N-no, nothing! Well then, next it's that boy's turn.{FFFA}",
    "term": "end"
   },
   {
    "id": "scen163.0335",
    "jp": "だって、またキミが倒れちゃったら‥って思ったら、{n}なんだか心配になっちゃって‥‥。",
-   "en": "",
+   "en": "Well, when I thought about you collapsing again... I just{n}got so worried...",
    "term": "end"
   },
   {
    "id": "scen163.0336",
    "jp": "アメリアさんって心配性なんだね。",
-   "en": "",
+   "en": "You sure are a worrier, Amelia-san.",
    "term": "end"
   },
   {
    "id": "scen163.0337",
    "jp": "えっ、そう？{p}{FC03}なぜか、彼のコトに関しては{n}心配になっちゃうのよね‥‥。{n}{FFFB}‥‥なんでかしら‥‥？{p}{FC00}まぁ、いいわ。{n}それより、次はあの子の番ね。",
-   "en": "",
+   "en": "Huh, am I?{p}{FC03}For some reason, when it comes to him, I just end up{n}worrying... {FFFB}...I wonder why...?{p}{FC00}Oh well. More importantly, next it's that boy's turn.",
    "term": "end"
   },
   {
    "id": "scen163.0338",
    "jp": "どうしましょうって、アンタねぇ‥‥。",
-   "en": "",
+   "en": "\"What should we do?\" Seriously, you...",
    "term": "end"
   },
   {
    "id": "scen163.0339",
    "jp": "ゲヴェル波動を失った時の苦しさは、{n}キミがよく知ってるでしょう？{p}そうならない為にも、{n}こうやってチェックしてるのよ。",
-   "en": "",
+   "en": "You know better than anyone how painful it is to lose{n}the Gevel waves, don't you?{p}That's exactly why I'm checking it like this, so that{n}never happens again.",
    "term": "end"
   },
   {
    "id": "scen163.0340",
    "jp": "確かにあの時、コイツすごく辛そうだったもんね。",
-   "en": "",
+   "en": "Yeah, this guy really did look like he was suffering{n}back then.",
    "term": "end"
   },
   {
    "id": "scen163.0341",
    "jp": "分かってくれた？{n}それじゃあ、次はあの子の番ね。",
-   "en": "",
+   "en": "Do you understand now? Well then, next it's that{n}boy's turn.",
    "term": "end"
   },
   {
    "id": "scen163.0342",
    "jp": "それじゃ、次はリシャールの指輪を見ないとね。{n}悪いけど、あの子を呼んで来てくれるかしら？",
-   "en": "",
+   "en": "Now then, next I need to look at Richard's ring. Sorry,{n}but could you go and call that boy for me?",
    "term": "end"
   },
   {
    "id": "scen163.0343",
    "jp": "うん、わかった！",
-   "en": "",
+   "en": "Yeah, got it!",
    "term": "end"
   },
   {
    "id": "scen163.0344",
    "jp": "‥‥次は私の番か。",
-   "en": "",
+   "en": "...So it is my turn next.",
    "term": "end"
   },
   {
    "id": "scen163.0345",
    "jp": "みんな、待たせてすまなかったな。",
-   "en": "",
+   "en": "Sorry to keep you all waiting.",
    "term": "end"
   },
   {
    "id": "scen163.0346",
    "jp": "こっちも異常なしだったわ。{n}バッチリよ。",
-   "en": "",
+   "en": "Nothing wrong with his either. All perfect.",
    "term": "end"
   },
   {
    "id": "scen163.0347",
    "jp": "もう用は済んだのか？{n}それじゃ、行くとするか。",
-   "en": "",
+   "en": "All finished here? Then let's get going.",
    "term": "end"
   },
   {
@@ -2409,7 +2409,7 @@
   {
    "id": "scen163.0358",
    "jp": "テレポートの使用を許可されたのは{n}屋上だけだよ、お兄ちゃん‥‥。",
-   "en": "",
+   "en": "We're only allowed to use Teleport on the roof,{n}Big Brother...",
    "term": "end"
   },
   {

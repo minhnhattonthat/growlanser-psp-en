@@ -99,37 +99,37 @@
   {
    "id": "scen167.0013",
    "jp": "おい、ここはグランシルじゃないのか？{p}グランシルは確か、ゼノスの担当だっただろう。{n}しっかりしろ！",
-   "en": "",
+   "en": "Hey, isn't this Grancil?{p}Grancil was Xenos's job, wasn't it? Get it together!",
    "term": "end"
   },
   {
    "id": "scen167.0014",
    "jp": "{v:0000}あ、危ないぞ！{n}怪物が暴れてるんだ！",
-   "en": "",
+   "en": "{v:0000}H-hey, it's dangerous! There's a monster running wild!",
    "term": "end"
   },
   {
    "id": "scen167.0015",
    "jp": "{v:0001}ゲヴェルですね、知っています。{n}どこですか？",
-   "en": "",
+   "en": "{v:0001}A Gevel, right? We know about them. Where is it?",
    "term": "end"
   },
   {
    "id": "scen167.0016",
    "jp": "{v:0002}この先だが‥‥アンタら行く気か？{p}{v:0003}やめておけ、ゼノスさんもやられちまったんだぞ！",
-   "en": "",
+   "en": "{v:0002}Up ahead, but... You lot ain't thinkin' of goin', are ya?{p}{v:0003}Don't! Even Xenos-san got taken down!",
    "term": "end"
   },
   {
    "id": "scen167.0017",
    "jp": "{v:0004}ゼノスさんが！？",
-   "en": "",
+   "en": "{v:0004}Xenos-san did?!",
    "term": "end"
   },
   {
    "id": "scen167.0018",
    "jp": "{v:0005}急ごう！",
-   "en": "",
+   "en": "{v:0005}Let's hurry!",
    "term": "end"
   },
   {
@@ -149,61 +149,61 @@
   {
    "id": "scen167.0021",
    "jp": "あ‥‥、みなさん‥‥。",
-   "en": "",
+   "en": "Ah... Everyone...",
    "term": "end"
   },
   {
    "id": "scen167.0022",
    "jp": "カレンさん、ゼノスは大丈夫！？",
-   "en": "",
+   "en": "Karen-san, is Xenos all right?!",
    "term": "end"
   },
   {
    "id": "scen167.0023",
    "jp": "なんとか致命傷は避けられたのですが、{n}ひどい怪我を負ってしまって‥‥。{p}しばらく、私が兄のそばについて{n}看病をしようと思ってるんです。",
-   "en": "",
+   "en": "He managed to avoid a fatal wound, but he was{n}badly hurt...{p}I'm planning to stay by my brother's side and nurse him{n}for a while.",
    "term": "end"
   },
   {
    "id": "scen167.0024",
    "jp": "早く良くなるといいですね、ゼノスさん。",
-   "en": "",
+   "en": "I hope you get well soon, Xenos-san.",
    "term": "end"
   },
   {
    "id": "scen167.0025",
    "jp": "‥‥はい‥‥。{n}みなさんのお役に立てなくて、ごめんなさい。",
-   "en": "",
+   "en": "...Yes... I'm sorry I can't be of help to you all.",
    "term": "end"
   },
   {
    "id": "scen167.0026",
    "jp": "兄の怪我がよくなるまで、{n}そばに付いていてあげたいんです。{n}‥‥本当にごめんなさい！",
-   "en": "",
+   "en": "I want to stay by my brother's side until his injuries{n}heal. ...I'm truly sorry!",
    "term": "end"
   },
   {
    "id": "scen167.0027",
    "jp": "街が暗いせいで、こけちまった！{n}くっそう、ついてないぜ‥‥。",
-   "en": "",
+   "en": "Tripped 'cause the town's so damn dark! Dammit, just{n}my luck...",
    "term": "end"
   },
   {
    "id": "scen167.0028",
    "jp": "くっそう！{n}やっぱり、フェザリアンってのは{n}いつ見てもむかつく存在だぜ！",
-   "en": "",
+   "en": "Dammit! Featherians really piss me off, every time I{n}see 'em!",
    "term": "end"
   },
   {
    "id": "scen167.0029",
    "jp": "あ、あのフェザリアン、{n}ゲヴェルを連れてきやがった[01BE]{n}なんてことしやがるんだ‥‥。",
-   "en": "",
+   "en": "Th-that Featherian went and brought the Gevels{n}here![01BE] What the hell was she thinkin'...",
    "term": "end"
   },
   {
    "id": "scen167.0030",
    "jp": "この不吉な空気、{n}キミたちも異常だと思わないか‥‥？",
-   "en": "",
+   "en": "This ominous air... Don't you guys think something's{n}wrong, too...?",
    "term": "end"
   },
   {
@@ -216,115 +216,115 @@
   {
    "id": "scen167.0032",
    "jp": "まさか、いきなりゲヴェルが現れるなんて‥‥[01BE]{n}けど、キミたちのおかげで助かったよ。ありがとう。",
-   "en": "",
+   "en": "I never imagined Gevels would suddenly show up...[01BE] But{n}thanks to you guys, we were saved. Thank you.",
    "term": "end"
   },
   {
    "id": "scen167.0033",
    "jp": "ここの家に住んでいるゼノスさん、{n}ゲヴェルに襲われて重傷を負ってしまったの。",
-   "en": "",
+   "en": "Xenos-san, who lives in this house, was attacked by a{n}Gevel and badly wounded.",
    "term": "end"
   },
   {
    "id": "scen167.0034",
    "jp": "ゼノスさん、どこに行ったのかな？{n}こんな時こそ、ゼノスさんが駆けつけて{n}くれたら安心できるのに‥‥。",
-   "en": "",
+   "en": "Where did Xenos-san go, I wonder? At a time like this,{n}I'd feel safe if only he'd come running...",
    "term": "end"
   },
   {
    "id": "scen167.0035",
    "jp": "あのね、ここの家には{n}ゼノスとカレンっていう、{n}とっても仲の良い兄妹が住んでいるのよ。",
-   "en": "",
+   "en": "You know, a brother and sister named Xenos and Karen{n}live here. They're ever so close.",
    "term": "end"
   },
   {
    "id": "scen167.0036",
    "jp": "ここの家に住んでいる兄妹のお兄さんは、{n}この街でもかなり有名な剣士で、{n}ゼノスっていう名前なの。",
-   "en": "",
+   "en": "The older brother who lives here is quite a famous{n}swordsman in this town. His name is Xenos.",
    "term": "end"
   },
   {
    "id": "scen167.0037",
    "jp": "ここの家に住んでいる兄妹の妹さんは、{n}医者顔負けの薬草の知識があるのよ。",
-   "en": "",
+   "en": "The younger sister who lives here knows so much{n}about medicinal herbs, she'd put any doctor to shame.",
    "term": "end"
   },
   {
    "id": "scen167.0038",
    "jp": "念のため釘を刺しておくが、{n}ここには絶対に携帯集魔柱を立てるなよ？",
-   "en": "",
+   "en": "Just to be clear: don't you dare set up a Portable{n}Mana Pillar here, understood?",
    "term": "end"
   },
   {
    "id": "scen167.0039",
    "jp": "　{n}　　　　　　携帯集魔柱を設置した！",
-   "en": "",
+   "en": "　{n}　　　　　　Set up a Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen167.0040",
    "jp": "おい、何をしてるんだ！{n}{FFFB}ここはゼノスに任せた場所だと、{n}さっきも言っただろう？",
-   "en": "",
+   "en": "Hey, what are you doing?! {FFFB}I told you before, didn't I?{n}This area was left to Xenos!",
    "term": "end"
   },
   {
    "id": "scen167.0041",
    "jp": "バカ、前と同じミスを繰り返すな！{n}うっかりにも程があるぞ！",
-   "en": "",
+   "en": "You fool, don't repeat the same mistake! There's a limit{n}to carelessness!",
    "term": "end"
   },
   {
    "id": "scen167.0042",
    "jp": "おい‥‥。{n}{FFFB}まさかお前、真面目にやる気がないのか？",
-   "en": "",
+   "en": "Hey... {FFFB}Don't tell me you're not taking this seriously?",
    "term": "end"
   },
   {
    "id": "scen167.0043",
    "jp": "ちょっと、何を考えてるのよ！{n}みんな真剣に取り組んでるんだから、{n}あなたも真面目にやりなさい！",
-   "en": "",
+   "en": "Honestly, what are you thinking?! Everyone's taking this{n}seriously, so you take it seriously too!",
    "term": "end"
   },
   {
    "id": "scen167.0044",
    "jp": "{FFF6}‥‥私は今まで、{s:0000}のことを{n}買い被りすぎていたのかもしれぬな。",
-   "en": "",
+   "en": "{FFF6}...Perhaps I have overestimated {s:0000} all{n}this time.",
    "term": "end"
   },
   {
    "id": "scen167.0045",
    "jp": "お前ら、どうしてここにいる！？{n}グランシルは俺が行くと言っただろうが！",
-   "en": "",
+   "en": "What are you guys doing here?! I said I'd take Grancil,{n}didn't I?!",
    "term": "end"
   },
   {
    "id": "scen167.0046",
    "jp": "それが、こいつが勝手に暴走しちゃって‥‥！",
-   "en": "",
+   "en": "Well, this guy just went charging off on his own...!",
    "term": "end"
   },
   {
    "id": "scen167.0047",
    "jp": "ちっ、仕方ねぇな。{n}なら、予定変更だ！{p}俺の分を持って、お前らは他の場所へ急げ！",
-   "en": "",
+   "en": "Tch, can't be helped. Change of plans, then!{p}Take my share and hurry to the other places!",
    "term": "end"
   },
   {
    "id": "scen167.0048",
    "jp": "　{n}　　　ゼノスから携帯集魔柱を受け取った。",
-   "en": "",
+   "en": "　{n}　　　Received a Portable Mana Pillar from Xenos.",
    "term": "end"
   },
   {
    "id": "scen167.0049",
    "jp": "俺はグランシルの安全が確認できるまで、{n}ここで待機する！",
-   "en": "",
+   "en": "I'm staying put here until I'm sure Grancil is safe!",
    "term": "end"
   },
   {
    "id": "scen167.0050",
    "jp": "１度、魔法学院に戻って{n}状況を確認した方がよさそうだな。",
-   "en": "",
+   "en": "We'd better head back to the Magic Academy and check{n}on the situation.",
    "term": "end"
   },
   {
@@ -337,13 +337,13 @@
   {
    "id": "scen167.0052",
    "jp": "急に辺りが暗くなり始めたけど、{n}何かあるのかな‥‥？",
-   "en": "",
+   "en": "It's suddenly started getting dark around here... Is{n}something going on...?",
    "term": "end"
   },
   {
    "id": "scen167.0053",
    "jp": "もしあの時、キミたちが来てくれなかったら、{n}被害がもっと出てたな[01BE]",
-   "en": "",
+   "en": "If you guys hadn't come when you did, there would've{n}been even more damage[01BE]",
    "term": "end"
   },
   {
@@ -363,13 +363,13 @@
   {
    "id": "scen167.0056",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
    "id": "scen167.0057",
    "jp": "突然、ゲヴェルが２体も現れた時は{n}さすがにもうダメだと思ったよ‥‥。",
-   "en": "",
+   "en": "When two Gevels suddenly showed up, I really thought{n}it was all over...",
    "term": "end"
   },
   {
@@ -382,25 +382,25 @@
   {
    "id": "scen167.0059",
    "jp": "少し前にブローニュ村の話を聞いたけど、{n}まさかここも‥‥なのか！？",
-   "en": "",
+   "en": "I heard what happened to Boulogne Village a little while{n}ago, but don't tell me here too...?!",
    "term": "end"
   },
   {
    "id": "scen167.0060",
    "jp": "もし、ここもブローニュ村のように{n}なっていたら‥‥ああ、恐ろしい‥‥。",
-   "en": "",
+   "en": "If this place ends up like Boulogne Village... Oh,{n}how terrifying...",
    "term": "end"
   },
   {
    "id": "scen167.0061",
    "jp": "君たちは闘技大会で優勝した兄妹！？{n}{FFFB}お、お願いだ！{n}あの化け物を倒してくれ！！",
-   "en": "",
+   "en": "You're the brother and sister who won the{n}tournament?! {FFFB}P-please! Defeat that monster!!",
    "term": "end"
   },
   {
    "id": "scen167.0062",
    "jp": "この街にいる猛者たちでも、{n}ゲヴェルにはまったく歯が立たなかったんだ[01BE]{n}やっぱり、キミたちは凄いね。",
-   "en": "",
+   "en": "Even the mighty fighters in this town couldn't lay a{n}finger on the Gevels[01BE] You guys really are amazing.",
    "term": "end"
   },
   {
@@ -413,79 +413,79 @@
   {
    "id": "scen167.0064",
    "jp": "ここには猛者が沢山いるけど、{n}こういう時は誰に頼ればいいんだ！？",
-   "en": "",
+   "en": "There are lots of mighty fighters here, but who are we{n}supposed to count on at a time like this?!",
    "term": "end"
   },
   {
    "id": "scen167.0065",
    "jp": "ここから南西の方角に、{n}巨大な建物みたいなのが落ちたんだよ。{p}それにしても、最近はビックリするような{n}ことばっかり起こるなぁ‥‥。",
-   "en": "",
+   "en": "Something like a giant building fell to the southwest{n}of here.{p}Man, nothing but shocking stuff keeps{n}happening lately...",
    "term": "end"
   },
   {
    "id": "scen167.0066",
    "jp": "街に広がってた闇が、{n}急にキレイに引いていったんだけど‥‥。{n}どうしてだろう？",
-   "en": "",
+   "en": "The darkness that spread over the town suddenly{n}cleared away completely... I wonder why?",
    "term": "end"
   },
   {
    "id": "scen167.0067",
    "jp": "に、逃げなきゃって思ってるのに、{n}怖くて動けないの‥‥[01BE]",
-   "en": "",
+   "en": "I-I know I have to run, but I'm too scared to move...[01BE]",
    "term": "end"
   },
   {
    "id": "scen167.0068",
    "jp": "こ、怖かったわ‥‥。",
-   "en": "",
+   "en": "Th-that was so scary...",
    "term": "end"
   },
   {
    "id": "scen167.0069",
    "jp": "‥‥アナタって、すっごく強いのね。{n}ゲヴェルと戦ってる姿、カッコよかったわよ。",
-   "en": "",
+   "en": "...You're really strong, aren't you? You looked so cool{n}fighting that Gevel.",
    "term": "end"
   },
   {
    "id": "scen167.0070",
    "jp": "ああ、ジュリアン様こそ私の理想だわ。{n}うっとり‥‥。",
-   "en": "",
+   "en": "Ah, Julian-sama is everything I've ever dreamed{n}of. *sigh*...",
    "term": "end"
   },
   {
    "id": "scen167.0071",
    "jp": "あっ！？{n}あなたジュリアン様にまぐれで勝っちゃった人ね！{p}言っておきますけどね、この次はないわよ、絶対に！",
-   "en": "",
+   "en": "Oh?! You're the one who beat Julian-sama by{n}sheer luck!{p}I'm warning you, it won't happen again! Absolutely not!",
    "term": "end"
   },
   {
    "id": "scen167.0072",
    "jp": "きゃっ、ジュリアン様だわ{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "Eek! It's Julian-sama{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen167.0073",
    "jp": "こ、恐い‥‥。{n}助けて、ジュリアン様！",
-   "en": "",
+   "en": "S-so scary... Save me, Julian-sama!",
    "term": "end"
   },
   {
    "id": "scen167.0074",
    "jp": "誰がこの街の{n}ピンチを救ってくれたのかしら‥‥？",
-   "en": "",
+   "en": "Who was it that saved this town in its hour of need,{n}I wonder...?",
    "term": "end"
   },
   {
    "id": "scen167.0075",
    "jp": "化け物を退けようと向かったのだが、{n}怖くて逃げてきてしまった‥‥。",
-   "en": "",
+   "en": "I set out to drive the monster off, but I got scared{n}and ran back...",
    "term": "end"
   },
   {
    "id": "scen167.0076",
    "jp": "２体のゲヴェルを見たとき、{n}恐怖で足がすくんでしまったよ。{p}そして、家に帰ると妻が待っている。{n}また、恐怖で足がすくんでしまいそうだ‥‥。",
-   "en": "",
+   "en": "When I saw the two Gevels, my legs froze in terror.{p}And when I get home, my wife will be waiting. I fear my{n}legs will freeze in terror all over again...",
    "term": "end"
   },
   {
@@ -498,13 +498,13 @@
   {
    "id": "scen167.0078",
    "jp": "どうすれば闇から逃れられるのだろう[01BE]",
-   "en": "",
+   "en": "How can we escape this darkness[01BE]",
    "term": "end"
   },
   {
    "id": "scen167.0079",
    "jp": "この世に、妻よりも恐ろしいものが{n}存在してたなんて‥‥。{n}{FFFB}闇なんて、もう二度とゴメンだよ。",
-   "en": "",
+   "en": "To think there was something in this world more{n}terrifying than my wife... {FFFB}I never want to see{n}darkness again.",
    "term": "end"
   },
   {
@@ -750,49 +750,49 @@
   {
    "id": "scen167.0112",
    "jp": "俺はグランシルの安全が確認できるまで、{n}ここで待機する！{n}お前らは他の場所へ急げ！",
-   "en": "",
+   "en": "I'm staying put here until I'm sure Grancil is safe! You{n}guys hurry to the other places!",
    "term": "end"
   },
   {
    "id": "scen167.0113",
    "jp": "おい、ここはグランシルじゃねぇのか？{p}確か、ここはゼノスの担当だっただろう。{n}しっかりしろ！",
-   "en": "",
+   "en": "Hey, ain't this Grancil?{p}This was Xenos's turf, wasn't it? Get it together!",
    "term": "end"
   },
   {
    "id": "scen167.0114",
    "jp": "街１番の剣豪だったゼノスさんが、{n}ゲヴェルたちに簡単に捻り潰されちまった‥‥[01BE]",
-   "en": "",
+   "en": "Xenos-san, the best swordsman in town, got crushed{n}by those Gevels just like that...[01BE]",
    "term": "end"
   },
   {
    "id": "scen167.0115",
    "jp": "南へ行くときは気をつけた方がいいぜ。{n}毒を持ったモンスターが多いからな。",
-   "en": "",
+   "en": "Watch yourself if you're heading south. There are lots{n}of venomous monsters down there.",
    "term": "end"
   },
   {
    "id": "scen167.0116",
    "jp": "‥‥ん、誰だお前たち？{n}辺りが真っ暗で、顔が見えづらいんだ。",
-   "en": "",
+   "en": "...Hm? Who are you people? It's pitch-dark around{n}here, I can hardly see your faces.",
    "term": "end"
   },
   {
    "id": "scen167.0117",
    "jp": "ここのすぐ近くの南西の方に、{n}でっかい塔が墜落したんだ！{p}自分も野次馬で見てきたけど、{n}あんなデカい建物が空に浮いてたなんて{n}信じられないよなぁ‥‥。",
-   "en": "",
+   "en": "A huge tower came crashing down just southwest{n}of here!{p}I went to gawk at it myself. Can you believe a building{n}that big was floating in the sky...?",
    "term": "end"
   },
   {
    "id": "scen167.0118",
    "jp": "闇なんて今まで他人ごとだと思ってたけど、{n}いざ身近で体験してみると恐怖だな‥‥。",
-   "en": "",
+   "en": "I always thought the darkness was somebody else's{n}problem, but now that it's right here, it's terrifying...",
    "term": "end"
   },
   {
    "id": "scen167.0119",
    "jp": "あのフェザリアンの子、前も見たことあるよ。{n}もしかして、ずっとグランシルを狙ってたのか！？",
-   "en": "",
+   "en": "I've seen that Featherian girl before. Don't tell me{n}she's had her eye on Grancil this whole time?!",
    "term": "end"
   },
   {
@@ -805,13 +805,13 @@
   {
    "id": "scen167.0121",
    "jp": "ただの曇りとは少し違う感じだけど‥‥。{n}なんだか不気味だし、怖いなぁ‥‥[01BE]",
-   "en": "",
+   "en": "It feels a bit different from just a cloudy day... It's{n}kinda creepy, and scary...[01BE]",
    "term": "end"
   },
   {
    "id": "scen167.0122",
    "jp": "やっぱり、晴れのほうがいいよな！{n}心も明るくなるしさ。",
-   "en": "",
+   "en": "Sunny weather's the best after all! It brightens up your{n}heart, too.",
    "term": "end"
   },
   {
@@ -914,7 +914,7 @@
   {
    "id": "scen167.0136",
    "jp": "大きなお城みたいなものが空から落ちてきたの！",
-   "en": "",
+   "en": "Something like a big castle fell out of the sky!",
    "term": "end"
   },
   {
@@ -941,7 +941,7 @@
   {
    "id": "scen167.0140",
    "jp": "ゲヴェルを前にして、逃げ出すしかできなかったよ。{n}情けない話だけどね‥‥。",
-   "en": "",
+   "en": "Faced with the Gevels, all I could do was run away.{n}Pathetic, I know...",
    "term": "end"
   },
   {
@@ -954,7 +954,7 @@
   {
    "id": "scen167.0142",
    "jp": "くっ、まだまだ修行が足りんな‥‥。",
-   "en": "",
+   "en": "Ugh... I still need far more training...",
    "term": "end"
   },
   {
@@ -967,7 +967,7 @@
   {
    "id": "scen167.0144",
    "jp": "フェザリアンが、ゲヴェルに人間を襲わせた！？{n}どうしてこんなことになってるのか、{n}さっぱり意味が分からないよ！",
-   "en": "",
+   "en": "A Featherian set the Gevels on humans?! I don't{n}understand at all how it came to this!",
    "term": "end"
   },
   {
@@ -980,19 +980,19 @@
   {
    "id": "scen167.0146",
    "jp": "腕っぷしには自信があるけど、{n}こういう事態には何の役にも立たないな‥‥。",
-   "en": "",
+   "en": "I'm confident in my strength, but it's no use at all in a{n}situation like this...",
    "term": "end"
   },
   {
    "id": "scen167.0147",
    "jp": "ふがいないとは思うが、{n}鍛練ばかり行っていても、{n}どうにも出来ないことがあるんだな‥‥。",
-   "en": "",
+   "en": "It's shameful, but I guess there are some things all the{n}training in the world can't help with...",
    "term": "end"
   },
   {
    "id": "scen167.0148",
    "jp": "まさか、あのゼノスがやられるなんて‥‥。",
-   "en": "",
+   "en": "I can't believe even Xenos got beaten...",
    "term": "end"
   },
   {
@@ -1005,7 +1005,7 @@
   {
    "id": "scen167.0150",
    "jp": "ひぃぃ、マジで死ぬかと思ったよ‥‥。{n}アンタ達が来てくれなかったら、今ごろは‥‥。",
-   "en": "",
+   "en": "Eeek, I seriously thought I was gonna die... If you guys{n}hadn't come, by now I'd be...",
    "term": "end"
   },
   {
@@ -1018,19 +1018,19 @@
   {
    "id": "scen167.0152",
    "jp": "いつの間に辺りが暗くなってたんだ？{n}考え事してたから、気づかなかったよ[01BE]",
-   "en": "",
+   "en": "When did it get so dark around here? I was lost in{n}thought, so I didn't notice[01BE]",
    "term": "end"
   },
   {
    "id": "scen167.0153",
    "jp": "また、いつもの街に戻ったようだね。{n}やっぱグランシルはこうでないと！",
-   "en": "",
+   "en": "Looks like the town's back to its usual self. That's how{n}Grancil should be!",
    "term": "end"
   },
   {
    "id": "scen167.0154",
    "jp": "もし、またゲヴェルが来たら、{n}次は私がぶっ飛ばしてやるんだから！",
-   "en": "",
+   "en": "If another Gevel shows up, I'll knock it flying myself{n}next time!",
    "term": "end"
   },
   {
@@ -1043,13 +1043,13 @@
   {
    "id": "scen167.0156",
    "jp": "私だって、今は普通の女の子だもの。{n}暗いのは苦手よ‥‥。",
-   "en": "",
+   "en": "Even I'm just an ordinary girl right now. I'm not good{n}with the dark...",
    "term": "end"
   },
   {
    "id": "scen167.0157",
    "jp": "もし、あのまま街中が真っ暗になったら{n}どうしようって焦っちゃったわ。",
-   "en": "",
+   "en": "I was panicking, wondering what I'd do if the whole town{n}just stayed pitch-black.",
    "term": "end"
   },
   {
@@ -1190,13 +1190,13 @@
   {
    "id": "scen167.0177",
    "jp": "よう、お前たちか。{n}せっかく来てくれたのに悪いが、{n}しばらく傭兵の仕事が入っててよ。{p}ま、あんな事件があった後だから{n}仕方ねぇんだけどな‥‥。{n}とにかく、力になれなくてすまねぇ。",
-   "en": "",
+   "en": "Hey, it's you guys. Sorry, you came all this way, but I've{n}got mercenary work lined up for a while.{p}Well, after what happened, it can't be helped... Anyway,{n}sorry I can't lend you a hand.",
    "term": "end"
   },
   {
    "id": "scen167.0178",
    "jp": "親父のことはショックだけどよ、{n}それより今はカレンが心配でならねぇんだ。{p}働きづめのカレンが、いつでも家に帰ってこれるよう{n}俺はしばらく家にいるつもりだ。{n}‥‥悪いな。",
-   "en": "",
+   "en": "What happened to my old man was a shock, but right{n}now I'm more worried about Karen.{p}She's been workin' nonstop, so I plan to stay home for{n}a while so she can come back whenever she{n}wants. ...Sorry.",
    "term": "end"
   },
   {
@@ -1223,91 +1223,91 @@
   {
    "id": "scen167.0182",
    "jp": "闇を浄化する方法",
-   "en": "",
+   "en": "A Way to Purge the Darkness",
    "term": "end"
   },
   {
    "id": "scen167.0183",
    "jp": "‥‥もう、立ち向かってくる者はいないの？",
-   "en": "",
+   "en": "...Is there no one left to stand against me?",
    "term": "end"
   },
   {
    "id": "scen167.0184",
    "jp": "う、うわぁ、ゲヴェルが２体もいるよぉぉ！",
-   "en": "",
+   "en": "Wh-whoa, there are two Gevels!",
    "term": "end"
   },
   {
    "id": "scen167.0185",
    "jp": "‥‥くそっ、こいつはヘビーだぜ‥‥。",
-   "en": "",
+   "en": "...Damn, this one's heavy...",
    "term": "end"
   },
   {
    "id": "scen167.0186",
    "jp": "メルフィ、やめなさい！",
-   "en": "",
+   "en": "Melfie, stop this!",
    "term": "end"
   },
   {
    "id": "scen167.0187",
    "jp": "‥‥アメリア！？{n}{FFFB}それに、お前たちは‥‥！",
-   "en": "",
+   "en": "...Amelia?! {FFFB}And you people, too...!",
    "term": "end"
   },
   {
    "id": "scen167.0188",
    "jp": "メルフィさん、やめて！{n}どうしてこんなことするの！？",
-   "en": "",
+   "en": "Melfie-san, stop! Why are you doing this?!",
    "term": "end"
   },
   {
    "id": "scen167.0189",
    "jp": "くっ‥‥。{n}{FFFB}お前たちに、私の気持ちなんて分からないわ。{p}フェザリアンだからという理由だけで、{n}私の両親を殺した身勝手なグローシアンも、{n}醜い争いが絶えないこの世界も‥‥{p}みんな、大嫌い！",
-   "en": "",
+   "en": "Ngh... {FFFB}You people could never understand how I feel.{p}The selfish Growsians who killed my parents just for{n}being Featherians, and this world where the ugly{n}fighting never ends...{p}I hate them all!",
    "term": "end"
   },
   {
    "id": "scen167.0190",
    "jp": "メルフィさん‥‥。",
-   "en": "",
+   "en": "Melfie-san...",
    "term": "end"
   },
   {
    "id": "scen167.0191",
    "jp": "だいたい、なぜアメリアは{n}この世界の人間の味方をしているの？{p}私たちがこの世界の人々から受けた仕打ちを、{n}忘れたわけじゃないでしょう？",
-   "en": "",
+   "en": "Anyway, why are you taking the side of this world's{n}humans, Amelia?{p}You haven't forgotten how the people of this world{n}treated us, have you?",
    "term": "end"
   },
   {
    "id": "scen167.0192",
    "jp": "ジャスティンのやり方には、もうついて行けないわ。{n}{FFFB}ヴェンツェルがいなくなった時点で、{n}とりあえずの危機は去ったはずでしょ？{p}それに、この世界の人間の誰しもが悪じゃない。{n}あなただって、薄々は気づいてるでしょう！？",
-   "en": "",
+   "en": "I can't go along with Justin's methods anymore. {FFFB}Once{n}Wenzel was gone, the immediate danger should have{n}passed, shouldn't it?{p}Besides, not every human in this world is evil. Surely{n}you've half realized that yourself?!",
    "term": "end"
   },
   {
    "id": "scen167.0193",
    "jp": "‥そ‥‥それは‥‥。",
-   "en": "",
+   "en": "...Th... That's...",
    "term": "end"
   },
   {
    "id": "scen167.0194",
    "jp": "だ‥だけど、今後芽吹くかもしれない危険の種は{n}今の内につぶしておかねばならないって、{n}ジャスティンも言っているわ！{p}このまま放っておくということは、{n}私たちの故郷を危機にさらす事になるのよ！",
-   "en": "",
+   "en": "B-but Justin says we have to crush the seeds of{n}danger now, before they can sprout!{p}Leaving things as they are would put our homeland{n}at risk!",
    "term": "end"
   },
   {
    "id": "scen167.0195",
    "jp": "メルフィ‥‥。{n}あなた、ジャスティンに毒されてる‥‥。{p}私たちの故郷を脅かす可能性があるからって、{n}この世界の人たちを全滅させることが{n}本当に正しいと思うの？{p}疑わしきは罰するというジャスティンの思考は、{n}あまりにも危険すぎるわ！",
-   "en": "",
+   "en": "Melfie... Justin has poisoned your mind...{p}Do you truly believe that wiping out the people of this{n}world is right, just because they might threaten{n}our homeland?{p}Justin's idea of punishing anything suspicious is far{n}too dangerous!",
    "term": "end"
   },
   {
    "id": "scen167.0196",
    "jp": "ジャスティンを悪く言わないで！{p}{FC06}アメリアが何と言おうと、{n}私はジャスティンのことを信じる‥‥。{n}{FFFB}{FFF6}だから‥‥だから私がしてることは‥‥。",
-   "en": "",
+   "en": "Don't speak ill of Justin!{p}{FC06}No matter what you say, Amelia, I believe in Justin...{n}{FFFB}{FFF6}So... so what I'm doing is...",
    "term": "end"
   },
   {
@@ -1320,186 +1320,186 @@
   {
    "id": "scen167.0198",
    "jp": "・それは、お前の望みなのか？",
-   "en": "",
+   "en": "・Is this really what you want?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen167.0199",
    "jp": "・自分たちは信じるに値しないのか？",
-   "en": "",
+   "en": "・Are we not worth trusting?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen167.0200",
    "jp": "そ、それは‥‥。",
-   "en": "",
+   "en": "Th-that's...",
    "term": "end"
   },
   {
    "id": "scen167.0201",
    "jp": "わたしたちがいなくなることが、{n}本当にメルフィさんの望みなの‥‥？{n}わたしたち、絶対に分かりあえないの！？",
-   "en": "",
+   "en": "Is it really what you want, Melfie-san, for us to{n}disappear...? Can we really never understand{n}each other?!",
    "term": "end"
   },
   {
    "id": "scen167.0202",
    "jp": "メルフィさんは、本当にわたしたちのことを{n}危険の種だって思ってるの？",
-   "en": "",
+   "en": "Melfie-san, do you really think we're seeds of danger?",
    "term": "end"
   },
   {
    "id": "scen167.0203",
    "jp": "‥‥‥‥‥‥。{p}{FFF6}‥‥こんなことなら、{n}お前たちとなんか、出会わなければよかった‥‥。",
-   "en": "",
+   "en": "......{p}{FFF6}...If it was going to come to this, I wish I'd never met{n}you people...",
    "term": "end"
   },
   {
    "id": "scen167.0204",
    "jp": "もうこれ以上、話すことはないわ‥‥。{n}{FFFB}{FC02}私たちの邪魔をするというなら、{n}お互い戦うしかないのよ！",
-   "en": "",
+   "en": "There's nothing more to say... {FFFB}{FC02}If you're going to stand{n}in our way, we have no choice but to fight!",
    "term": "end"
   },
   {
    "id": "scen167.0205",
    "jp": "‥‥{v:001E}ゲヴェル２体か‥‥。{n}これで生存するゲヴェルは{n}残っていないってことだな。",
-   "en": "",
+   "en": "...{v:001E}Two Gevels, huh... So that means there are no more{n}Gevels left alive.",
    "term": "end"
   },
   {
    "id": "scen167.0206",
    "jp": "{v:001F}バーンシュタインの北にある{n}あのゲヴェルが造った城はどうなんだ？{n}あれも生きてるようだが？",
-   "en": "",
+   "en": "{v:001F}What about that castle the Gevel built north of{n}Burnstein? It seems to be alive too, doesn't it?",
    "term": "end"
   },
   {
    "id": "scen167.0207",
    "jp": "{v:0020}あそこなら大丈夫。{n}ゲヴェル波動は残っているけど、{n}あそこの細胞には他の生物と融合する力はないから。",
-   "en": "",
+   "en": "{v:0020}That place is fine. The Gevel wave lingers there, but its{n}cells have no power to fuse with other living things.",
    "term": "end"
   },
   {
    "id": "scen167.0208",
    "jp": "{v:0021}つまり、これ以上、{n}時空干渉能力を持った人は生まれないってことだね。",
-   "en": "",
+   "en": "{v:0021}So that means no more people with space-time{n}interference will be born, right?",
    "term": "end"
   },
   {
    "id": "scen167.0209",
    "jp": "{v:0022}それにゼノスまで、やられちゃったなんて‥‥。",
-   "en": "",
+   "en": "{v:0022}And on top of that, even Xenos got hurt...",
    "term": "end"
   },
   {
    "id": "scen167.0210",
    "jp": "{v:0023}ここにゲヴェルを誘導したのも、{n}ゼノスを倒す目的があったからだろうな。",
-   "en": "",
+   "en": "{v:0023}They probably lured the Gevels here to take Xenos out.",
    "term": "end"
   },
   {
    "id": "scen167.0211",
    "jp": "‥‥{v:0024}うん、そうだね‥‥。{p}{v:0025}それで、これからどうするの？",
-   "en": "",
+   "en": "...{v:0024}Yeah, you're right...{p}{v:0025}So, what do we do now?",
    "term": "end"
   },
   {
    "id": "scen167.0212",
    "jp": "{v:0026}ジャスティンの次の目標は、{n}ずばり時空分離でしょう。",
-   "en": "",
+   "en": "{v:0026}Justin's next goal is surely the space-time separation.",
    "term": "end"
   },
   {
    "id": "scen167.0213",
    "jp": "{v:0001}できれば待つより、ジャスティンたちが{n}時空分離を始める前に何とかしたいところだな。",
-   "en": "",
+   "en": "{v:0001}Rather than wait, I'd like to do something before Justin{n}and the others start the space-time separation.",
    "term": "end"
   },
   {
    "id": "scen167.0214",
    "jp": "{FFF6}{v:0002}だけど、ジャスティンさんたちは{n}時空制御塔にいるんでしょ？{n}空を飛んでるわけだから、どうすれば‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0002}But Justin-san and the others are in the Space-Time{n}Control Tower, right? It's flying in the sky, so how{n}can we...",
    "term": "end"
   },
   {
    "id": "scen167.0215",
    "jp": "・落とそう",
-   "en": "",
+   "en": "・Let's bring it down",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen167.0216",
    "jp": "・空を飛んで侵入",
-   "en": "",
+   "en": "・Fly up and break in",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen167.0217",
    "jp": "・待つしかない",
-   "en": "",
+   "en": "・We can only wait",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen167.0218",
    "jp": "{v:0003}落とすって、どうすれば‥‥。{n}時空制御塔の浮いてる仕組みを壊すの？",
-   "en": "",
+   "en": "{v:0003}Bring it down? But how... Break whatever keeps the{n}Space-Time Control Tower afloat?",
    "term": "end"
   },
   {
    "id": "scen167.0219",
    "jp": "{FFF6}{v:0004}そういえば、{n}時空制御塔はフェザリアンが造ったはず。",
-   "en": "",
+   "en": "{FFF6}{v:0004}Come to think of it, the Featherians must have built the{n}Space-Time Control Tower.",
    "term": "end"
   },
   {
    "id": "scen167.0220",
    "jp": "{v:0005}そんな、ムリだよ‥‥。{n}わたしたちはフェザリアンじゃないんだから‥‥。",
-   "en": "",
+   "en": "{v:0005}But that's impossible... We're not Featherians...",
    "term": "end"
   },
   {
    "id": "scen167.0221",
    "jp": "{FFF6}{v:0006}フェザリアン‥‥。{n}そういえば、{n}時空制御塔はフェザリアンが造ったはず。",
-   "en": "",
+   "en": "{FFF6}{v:0006}Featherians... Come to think of it, the Featherians must{n}have built the Space-Time Control Tower.",
    "term": "end"
   },
   {
    "id": "scen167.0222",
    "jp": "{v:0007}それでは時間を無駄にするぞ。{n}時空制御塔を造ったヤツから弱点を聞くとか、{n}出来ることがあるはずだ。",
-   "en": "",
+   "en": "{v:0007}That'd just be a waste of time. There must be{n}something we can do, like asking whoever built the{n}Space-Time Control Tower about its weak points.",
    "term": "end"
   },
   {
    "id": "scen167.0223",
    "jp": "{FFF6}{v:0008}そういえば、{n}時空制御塔はフェザリアンが造ったはず。",
-   "en": "",
+   "en": "{FFF6}{v:0008}Come to think of it, the Featherians must have built the{n}Space-Time Control Tower.",
    "term": "end"
   },
   {
    "id": "scen167.0224",
    "jp": "{v:0009}じゃあ、フェザリアンに聞けば、{n}何か出来ることが分かるかもしれないね！",
-   "en": "",
+   "en": "{v:0009}Then if we ask the Featherians, maybe we'll find out{n}something we can do!",
    "term": "end"
   },
   {
    "id": "scen167.0225",
    "jp": "{v:000A}行ってみるか‥‥。",
-   "en": "",
+   "en": "{v:000A}Let's go and see...",
    "term": "end"
   },
   {
    "id": "scen167.0226",
    "jp": "時空制御塔に潜入せよ",
-   "en": "",
+   "en": "Infiltrate the Space-Time Control Tower",
    "term": "end"
   },
   {
    "id": "scen167.0227",
    "jp": "ちょっと、どこへ行く気よ！",
-   "en": "",
+   "en": "Hey, where do you think you're going?!",
    "term": "end"
   }
  ]

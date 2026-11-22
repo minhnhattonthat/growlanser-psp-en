@@ -22,271 +22,271 @@
   {
    "id": "scen158.0002",
    "jp": "{v:0007}あ、お兄ちゃん！",
-   "en": "",
+   "en": "{v:0007}Oh, Big Brother!",
    "term": "end"
   },
   {
    "id": "scen158.0003",
    "jp": "{v:0008}もう大丈夫なのですか？",
-   "en": "",
+   "en": "{v:0008}Are you all right now?",
    "term": "end"
   },
   {
    "id": "scen158.0004",
    "jp": "{v:0009}かなり消耗していたようだからな。{n}無理はするなよ。{p}‥‥{v:000A}といっても、この状況じゃ、{n}安心して休んでもいられないだろうがな‥‥。",
-   "en": "",
+   "en": "{v:0009}You were pretty worn out. Don't push yourself.{p}...{v:000A}Not that anyone can rest easy in a situation{n}like this...",
    "term": "end"
   },
   {
    "id": "scen158.0005",
    "jp": "{v:000B}そうだよね。{n}ここだって、いつブローニュ村みたくなっちゃう{n}かもしれないし‥‥。",
-   "en": "",
+   "en": "{v:000B}Yeah. Who knows when this place might end up like{n}Boulogne Village...",
    "term": "end"
   },
   {
    "id": "scen158.0006",
    "jp": "{v:000C}一応、簡単に状況を説明します。{p}{v:000D}ジャスティンと名乗る男が、{n}ブローニュ村に闇の物質である{n}デュンケルスを降らせました。{p}{v:000E}それは以前、{n}ラシェルで行われた物よりもはるかに強力で、{n}デュンケルス自体が村を破壊したほどです。{p}{FC01}{v:000F}当然、村人の幾人かが、{n}怪物化してしまいましたが‥‥。",
-   "en": "",
+   "en": "{v:000C}Let me briefly explain the situation.{p}{v:000D}A man calling himself Justin rained Dunkels, the dark{n}substance, down on Boulogne Village.{p}{v:000E}It was far more powerful than what was done at{n}Rachelle; the Dunkels itself destroyed the village.{p}{FC01}{v:000F}Naturally, some of the villagers turned into monsters...",
    "term": "end"
   },
   {
    "id": "scen158.0007",
    "jp": "{v:0010}問題は、これを防ぐ手だてがないって事だな。{n}根本的な解決は、闇落としを実行している{n}ジャスティンらを捕らえる、または倒すしかない。",
-   "en": "",
+   "en": "{v:0010}The problem is, there's no way to prevent it. The only{n}real solution is to capture or defeat Justin and{n}whoever's carrying out the Darkfall.",
    "term": "end"
   },
   {
    "id": "scen158.0008",
    "jp": "{v:0011}でも、それって、長期戦になるって事だよね‥‥。{p}{v:0012}ねぇ、どうせ打つ手がないなら、{n}警戒は兵隊さんに任せて、{n}他のことから何とかしようよ。",
-   "en": "",
+   "en": "{v:0011}But that means this is going to be a long fight...{p}{v:0012}Hey, if there's nothing we can do anyway, let's leave{n}the lookout to the soldiers and deal with something{n}else first.",
    "term": "end"
   },
   {
    "id": "scen158.0009",
    "jp": "{v:0013}他の事って？",
-   "en": "",
+   "en": "{v:0013}Something else?",
    "term": "end"
   },
   {
    "id": "scen158.0010",
    "jp": "{v:0014}お兄ちゃんのことだよ！{n}このままじゃ、お兄ちゃん、{n}いつ倒れてもおかしくないんだよ？",
-   "en": "",
+   "en": "{v:0014}I mean Big Brother! At this rate, he could collapse at{n}any moment, you know?",
    "term": "end"
   },
   {
    "id": "scen158.0011",
    "jp": "{v:0015}ルイセちゃん‥‥。",
-   "en": "",
+   "en": "{v:0015}Luise-chan...",
    "term": "end"
   },
   {
    "id": "scen158.0012",
    "jp": "{v:0016}ルイセの言うことも、もっともです。{n}まずはそちらを先に対処しましょう‥‥。",
-   "en": "",
+   "en": "{v:0016}Luise has a point. Let us deal with that matter first...",
    "term": "end"
   },
   {
    "id": "scen158.0013",
    "jp": "{v:0017}しかし、ゲヴェルを倒した今、どうすればいい？",
-   "en": "",
+   "en": "{v:0017}But with the Gevel already beaten, what are we{n}supposed to do?",
    "term": "end"
   },
   {
    "id": "scen158.0014",
    "jp": "・フライシェベルクを調べる",
-   "en": "",
+   "en": "・Investigate Fleischeberg",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen158.0015",
    "jp": "・それよりデュンケルス対策",
-   "en": "",
+   "en": "・Dunkels countermeasures come first",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen158.0016",
    "jp": "‥‥{v:001D}もう一度ゲヴェルのいたところを{n}調べてみるか‥‥。",
-   "en": "",
+   "en": "...{v:001D}Maybe we should take another look at where the{n}Gevel was...",
    "term": "end"
   },
   {
    "id": "scen158.0017",
    "jp": "{v:001E}対策って言っても、デュンケルスに触れたら{n}怪物になっちゃうんでしょ？",
-   "en": "",
+   "en": "{v:001E}Countermeasures? But if you touch Dunkels, you turn{n}into a monster, right?",
    "term": "end"
   },
   {
    "id": "scen158.0018",
    "jp": "・怪物にならない方法を探す",
-   "en": "",
+   "en": "・Find a way not to become a monster",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen158.0019",
    "jp": "・触れなければいい",
-   "en": "",
+   "en": "・Then just don't touch it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen158.0020",
    "jp": "{v:001F}怪物にならない方法なんて、探せるの？",
-   "en": "",
+   "en": "{v:001F}A way not to turn into a monster? Can we even find{n}something like that?",
    "term": "end"
   },
   {
    "id": "scen158.0021",
    "jp": "{v:0020}あれ‥‥？{n}それじゃ触れなかったらいいのかな‥‥？",
-   "en": "",
+   "en": "{v:0020}Huh...? So then, it's fine as long as we don't touch it...?",
    "term": "end"
   },
   {
    "id": "scen158.0022",
    "jp": "{v:0024}触れると‥‥ってことは、{n}触れずに回収する方法があればいいわけか‥‥。",
-   "en": "",
+   "en": "{v:0024}If touching it is the problem... then what we need is a{n}way to collect it without touching it...",
    "term": "end"
   },
   {
    "id": "scen158.0023",
    "jp": "{v:0021}なるほど、デュンケルスに触れずに回収する{n}方法があればいいわけか。",
-   "en": "",
+   "en": "{v:0021}I see. So what we need is a way to collect the Dunkels{n}without touching it.",
    "term": "end"
   },
   {
    "id": "scen158.0024",
    "jp": "{v:0022}それじゃ、その方法も探しましょ！",
-   "en": "",
+   "en": "{v:0022}Then let's look for a way to do that too!",
    "term": "end"
   },
   {
    "id": "scen158.0025",
    "jp": "{v:0018}たしか、バーンシュタインのリシャールも、{n}この子と同じ境遇だったはず。{p}{v:0025}しかも、ゲヴェルとの念が遮断されていた{n}この子よりも、ずっとゲヴェルと同調していた{n}はずです。",
-   "en": "",
+   "en": "{v:0018}If I remember correctly, Richard of Burnstein was in the{n}same circumstances as this child.{p}{v:0025}What is more, this child's mental link to the Gevel was{n}cut off, whereas Richard should have been far more{n}attuned to the Gevel.",
    "term": "end"
   },
   {
    "id": "scen158.0026",
    "jp": "{v:0019}そうか。{n}リシャールさんなら詳しいかもしれないんだ。",
-   "en": "",
+   "en": "{v:0019}I see. Richard-san might know a lot about it.",
    "term": "end"
   },
   {
    "id": "scen158.0027",
    "jp": "{v:001A}確実ではありませんが、{n}今思いつく手がかりといえば、彼くらいしか‥‥。",
-   "en": "",
+   "en": "{v:001A}It is not certain, but he is the only lead I can think of{n}at the moment...",
    "term": "end"
   },
   {
    "id": "scen158.0028",
    "jp": "{v:001B}わかった。{n}試せることは、何でもやってみよう。",
-   "en": "",
+   "en": "{v:001B}Got it. Let's try anything we can.",
    "term": "end"
   },
   {
    "id": "scen158.0029",
    "jp": "{v:001C}うん！",
-   "en": "",
+   "en": "{v:001C}Yeah!",
    "term": "end"
   },
   {
    "id": "scen158.0030",
    "jp": "リシャールに会ってきなさい。{n}少しでも手がかりが見つかれば良いのですが‥‥。",
-   "en": "",
+   "en": "Go and see Richard. I hope you find even the{n}smallest clue...",
    "term": "end"
   },
   {
    "id": "scen158.0031",
    "jp": "あまり無理はしない方がいい。{n}辛かったら、すぐに休め。",
-   "en": "",
+   "en": "Better not push yourself too hard. If it gets rough,{n}rest right away.",
    "term": "end"
   },
   {
    "id": "scen158.0032",
    "jp": "お兄ちゃん‥‥。{n}わたし、お兄ちゃんのことが心配だよ‥‥。",
-   "en": "",
+   "en": "Big Brother... I'm worried about you...",
    "term": "end"
   },
   {
    "id": "scen158.0033",
    "jp": "お兄さま、お体は大丈夫ですか？",
-   "en": "",
+   "en": "Big Brother, are you feeling all right?",
    "term": "end"
   },
   {
    "id": "scen158.0034",
    "jp": "もう起きても平気なのかい？{n}くれぐれも無茶はしないでくれ。",
-   "en": "",
+   "en": "Are you sure you're fine to be up already? Please,{n}don't do anything reckless.",
    "term": "end"
   },
   {
    "id": "scen158.0035",
    "jp": "辛いときは、遠慮なく言ってくれ。{n}少しでも何か力になれるかもしれない。",
-   "en": "",
+   "en": "When things get hard, don't hesitate to tell me. I might{n}be able to help, even a little.",
    "term": "end"
   },
   {
    "id": "scen158.0036",
    "jp": "ちょ、ちょっと！{n}そんな体で、どこへ行こうってのよ？",
-   "en": "",
+   "en": "H-hey, wait! Where do you think you're going in{n}that condition?",
    "term": "end"
   },
   {
    "id": "scen158.0037",
    "jp": "ゲヴェルの波動と生命力",
-   "en": "",
+   "en": "Gevel's Waves and Life Force",
    "term": "end"
   },
   {
    "id": "scen158.0038",
    "jp": "{v:0000}あ、気が付いた？",
-   "en": "",
+   "en": "{v:0000}Oh, you're awake?",
    "term": "end"
   },
   {
    "id": "scen158.0039",
    "jp": "{v:0001}もう、動いて大丈夫なの？",
-   "en": "",
+   "en": "{v:0001}Are you sure you're okay to move already?",
    "term": "end"
   },
   {
    "id": "scen158.0040",
    "jp": "・もう大丈夫",
-   "en": "",
+   "en": "・I'm fine now",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen158.0041",
    "jp": "・今は寝ている暇はない",
-   "en": "",
+   "en": "・No time to lie around",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen158.0042",
    "jp": "‥‥{v:0002}そう。{n}‥‥でも、無理はしないでよね？",
-   "en": "",
+   "en": "...{v:0002}I see. ...But don't push yourself, okay?",
    "term": "end"
   },
   {
    "id": "scen158.0043",
    "jp": "{v:0003}そ、そうだけど‥‥。{n}‥‥でも、無理はしないでよね？",
-   "en": "",
+   "en": "{v:0003}W-well, that's true, but... ...Don't push yourself, okay?",
    "term": "end"
   },
   {
    "id": "scen158.0044",
    "jp": "{v:0004}アンタが寝てる間にね、大きな事件があったんだよ。{p}{v:0005}アリオストさんの故郷のブローニュ村がね‥‥{n}闇落としにあって‥‥。{p}{v:0006}とにかく、詳しいことは下で話そ？{n}みんなも来てるんだよ。",
-   "en": "",
+   "en": "{v:0004}While you were asleep, something big happened.{p}{v:0005}Ariost-san's hometown, Boulogne Village... it got hit by{n}the Darkfall...{p}{v:0006}Anyway, let's talk about the details downstairs, 'kay?{n}Everybody's here.",
    "term": "end"
   },
   {
    "id": "scen158.0045",
    "jp": "　{n}プレートに『{FFEE}るいせちゃんのお部屋{FFF1}』と書いてある。",
-   "en": "",
+   "en": "　{n}The plate on the door reads '{FFEE}Luise-chan's Room{FFF1}'.",
    "term": "end"
   },
   {
@@ -299,7 +299,7 @@
   {
    "id": "scen158.0047",
    "jp": "‥‥やっぱり、体の調子が悪いの？",
-   "en": "",
+   "en": "...Are you still not feeling well after all?",
    "term": "end"
   },
   {
@@ -319,91 +319,91 @@
   {
    "id": "scen158.0050",
    "jp": "ちょっと待ってくれ。{n}ブローニュ村のことなんだが‥‥。",
-   "en": "",
+   "en": "Wait a moment. About Boulogne Village...",
    "term": "end"
   },
   {
    "id": "scen158.0051",
    "jp": "僕も知らせを聞いて、すぐに向かったんだけど、{n}既に村はひどい有様だった。{p}何の罪もない村を襲うなんて‥‥！{n}本当に許せないよ。",
-   "en": "",
+   "en": "As soon as I heard the news, I went straight there,{n}but the village was already in a terrible state.{p}To attack a village that's done nothing wrong...! I'll never{n}forgive them.",
    "term": "end"
   },
   {
    "id": "scen158.0052",
    "jp": "マスターもさっき言ってたけど、{n}相当ひどかったみたいだね。",
-   "en": "",
+   "en": "Master said so earlier too, but it sounds like it was{n}really awful.",
    "term": "end"
   },
   {
    "id": "scen158.0053",
    "jp": "正直、ブローニュ村が今どうなってるのかも{n}気になるところだ。{p}もしできたらでいいんだが、{n}ブローニュ村の様子も見ておかないか？",
-   "en": "",
+   "en": "Honestly, I'm also worried about how Boulogne Village is{n}doing now.{p}Only if you can, but would you go and check on{n}Boulogne Village?",
    "term": "end"
   },
   {
    "id": "scen158.0054",
    "jp": "テレポートなら、すぐに行けるよね。",
-   "en": "",
+   "en": "With Teleport, we could get there right away.",
    "term": "end"
   },
   {
    "id": "scen158.0055",
    "jp": "いや、ブローニュ村にテレポートするのは危険だろう。",
-   "en": "",
+   "en": "No, teleporting into Boulogne Village would{n}be dangerous.",
    "term": "end"
   },
   {
    "id": "scen158.0056",
    "jp": "えっ、どうして？",
-   "en": "",
+   "en": "Huh? Why?",
    "term": "end"
   },
   {
    "id": "scen158.0057",
    "jp": "ブローニュ村は闇落としにあったばかりだ。{n}{FFFB}その時のデュンケルスが、{n}まだ村の中に残留している可能性もある。",
-   "en": "",
+   "en": "Boulogne Village was only just hit by the Darkfall. {FFFB}Some{n}of the Dunkels from that time may still linger inside{n}the village.",
    "term": "end"
   },
   {
    "id": "scen158.0058",
    "jp": "だったら、ブローニュ村の近くの{n}安全な場所にテレポートして、{n}そこから歩いたらいいんじゃないかな。",
-   "en": "",
+   "en": "Then maybe we could teleport somewhere safe near{n}Boulogne Village and walk from there?",
    "term": "end"
   },
   {
    "id": "scen158.0059",
    "jp": "うん、そうだね。{p}リシャールさんにも会わなきゃいけないし、{n}行くなら早くした方がいいかも。",
-   "en": "",
+   "en": "Yeah, that's right.{p}We have to see Richard-san too, so if we're going,{n}maybe we'd better hurry.",
    "term": "end"
   },
   {
    "id": "scen158.0060",
    "jp": "既にティピから話を聞いてるかもしれんが、{n}ブローニュ村が闇落としに遭った。{n}どうやら、被害は相当なものだったらしい。",
-   "en": "",
+   "en": "Tippi may have told you already, but Boulogne Village{n}was hit by the Darkfall. From the sound of it, the{n}damage was severe.",
    "term": "end"
   },
   {
    "id": "scen158.0061",
    "jp": "僕も知らせを聞いて、すぐに向かったんだけど、{n}既に村はひどい有様だった。{p}何の罪もない人たちを襲うなんて‥‥！{n}本当に許せないよ。",
-   "en": "",
+   "en": "As soon as I heard the news, I went straight there,{n}but the village was already in a terrible state.{p}To attack people who've done nothing wrong...! I'll never{n}forgive them.",
    "term": "end"
   },
   {
    "id": "scen158.0062",
    "jp": "何の罪もない人たちを襲うなんて、{n}本当にひどいよね‥‥。",
-   "en": "",
+   "en": "Attacking people who've done nothing wrong... That's{n}just awful...",
    "term": "end"
   },
   {
    "id": "scen158.0063",
    "jp": "うん、そうだね。{n}行くなら早くした方がいいかも。",
-   "en": "",
+   "en": "Yeah, that's right. If we're going, maybe we'd{n}better hurry.",
    "term": "end"
   },
   {
    "id": "scen158.0064",
    "jp": "マスターをどこへ連れて行く気よ！",
-   "en": "",
+   "en": "Where do you think you're taking Master?!",
    "term": "end"
   }
  ]

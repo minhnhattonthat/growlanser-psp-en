@@ -92,7 +92,7 @@
   {
    "id": "scen100.0012",
    "jp": "{s:011E}がお待ちです。",
-   "en": "",
+   "en": "{s:011E} is waiting for you.",
    "term": "end"
   },
   {
@@ -140,25 +140,25 @@
   {
    "id": "scen100.0019",
    "jp": "{v:0006}ところでどうしてこんな所に本陣を{n}設営しているんだ？{n}もっと進んでいてもいいはずだが‥‥。",
-   "en": "",
+   "en": "{v:0006}By the way, why set up headquarters here? You{n}should've been able to advance farther...",
    "term": "end"
   },
   {
    "id": "scen100.0020",
    "jp": "{v:0007}実は、この先の川で{s:00F5}の集団が暴れており、{n}これ以上進めないのだ。",
-   "en": "",
+   "en": "{v:0007}The truth is, {s:00F5} hordes are wreaking{n}havoc at the river ahead. We cannot advance{n}any farther.",
    "term": "end"
   },
   {
    "id": "scen100.0021",
    "jp": "{v:0008}{s:00F5}の集団？",
-   "en": "",
+   "en": "{v:0008}{s:00F5} hordes?",
    "term": "end"
   },
   {
    "id": "scen100.0022",
    "jp": "{v:0009}うむ。{p}{v:000A}だが{s:00F5}が暴れている以上、{n}{s:000A}王の差し向けた軍隊も、{n}こちらに来られないでいる。{p}{v:000B}とにかく今日はここで休んでくれ。",
-   "en": "",
+   "en": "{v:0009}Indeed.{p}{v:000A}However, as long as the {s:00F5} hordes{n}continue their rampage, the army sent by King {s:000A}{n}cannot reach us either.{p}{v:000B}In any case, rest here for today.",
    "term": "end"
   },
   {
@@ -199,13 +199,13 @@
   {
    "id": "scen100.0028",
    "jp": "西　：　シュッツベルグ{n}東　：　{s:0160}王都方面",
-   "en": "",
+   "en": "West: Schutzberg{n}East: Toward the {s:0160} Royal Capital",
    "term": "end"
   },
   {
    "id": "scen100.0029",
    "jp": "　{n}　　　『{FFEF}{s:000E}の可能性６{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "　{n}　　　Obtained '{FFEF}{s:000E}'s Potential 6{FFF1}'!",
    "term": "end"
   },
   {
@@ -239,13 +239,13 @@
   {
    "id": "scen100.0034",
    "jp": "まったく、どうして{s:00F5}が‥‥。",
-   "en": "",
+   "en": "Damn it! Why are there {s:00F5}{n}hordes here...?",
    "term": "end"
   },
   {
    "id": "scen100.0035",
    "jp": "あの{s:00F5}達は、{n}我々を進ませないために、集まっている{n}みたいだったな‥‥。",
-   "en": "",
+   "en": "It looked as though those {s:00F5} hordes{n}had gathered there to stop our advance...",
    "term": "end"
   },
   {
@@ -258,7 +258,7 @@
   {
    "id": "scen100.0037",
    "jp": "{v:0001}この{s:00F5}のせいで先へ進めないんですよ。",
-   "en": "",
+   "en": "{v:0001}These {s:00F5} hordes are keeping us{n}from advancing.",
    "term": "end"
   },
   {
@@ -292,7 +292,7 @@
   {
    "id": "scen100.0042",
    "jp": "{s:00F5}が群れる理由を探索",
-   "en": "",
+   "en": "Investigate why the {s:00F5} hordes{n}are gathering",
    "term": "end"
   },
   {
@@ -312,31 +312,31 @@
   {
    "id": "scen100.0045",
    "jp": "この辺りに町を作りたくて、{n}こんな宿を作ったんだ！{n}この辺りの名物を{s:012A}指すんだ！",
-   "en": "",
+   "en": "I built this inn because I want to start a town around{n}here! I've got my eye on making it the local attraction!",
    "term": "end"
   },
   {
    "id": "scen100.0046",
    "jp": "‥‥ん！？{n}キミ、ずいぶんと可愛い妖精を連れてるね！{p}‥‥妖精‥‥{FE14}ふむ、なるほど‥‥。{n}これは何かひらめきそうだぞ！",
-   "en": "",
+   "en": "...Hm?! Hey, that's a mighty cute fairy you've got{n}with you!{p}...A fairy...{FE14}Hmm, I see... I can feel an idea coming on!",
    "term": "end"
   },
   {
    "id": "scen100.0047",
    "jp": "そうそう、前にキミの連れてる{n}可愛い妖精ホムンクルスを見て、{n}新たなサービスを思いついたんだ！{p}その名もズバリ、『妖精喫茶』！{n}可愛い妖精さんたちが、{n}旅の疲れを癒してくれるよ！",
-   "en": "",
+   "en": "Oh, right! A while back I saw that cute fairy homunculus{n}of yours, and it gave me an idea for a new service!{p}It's called, plain and simple, the 'Fairy Café'! Cute little{n}fairies will soothe away the weariness of{n}your travels!",
    "term": "end"
   },
   {
    "id": "scen100.0048",
    "jp": "妖精喫茶ぁ～！？　何よソレ？",
-   "en": "",
+   "en": "Fairy Caféeee?! What's THAT supposed to be?",
    "term": "end"
   },
   {
    "id": "scen100.0049",
    "jp": "まぁ、入ってみれば分かるよ。{n}興味あったら寄っていってくれ！{p}ちなみに、『妖精喫茶』は入って右だよ。{n}よろしくね！",
-   "en": "",
+   "en": "Well, you'll see once you step inside. Drop by if{n}you're interested!{p}Oh, and the 'Fairy Café' is on the right as you go in.{n}Hope to see you!",
    "term": "end"
   },
   {
@@ -363,7 +363,7 @@
   {
    "id": "scen100.0053",
    "jp": "なるほど。{n}{s:0151}様の突入にあわせるのですね？",
-   "en": "",
+   "en": "I see. We are to time our attack to{n}{s:0151}'s charge?",
    "term": "end"
   },
   {
@@ -476,7 +476,7 @@
   {
    "id": "scen100.0069",
    "jp": "{v:0029}いいえ。{n}{s:000A}のことです。",
-   "en": "",
+   "en": "{v:0029}No. I mean {s:000A}.",
    "term": "end"
   },
   {
@@ -489,37 +489,37 @@
   {
    "id": "scen100.0071",
    "jp": "{v:002B}私はまだ半信半疑なところがあるのです。{n}まさか{s:000A}が、偽者だったとは。",
-   "en": "",
+   "en": "{v:002B}Part of me still cannot believe it. To think that {s:000A}{n}was an impostor...",
    "term": "end"
   },
   {
    "id": "scen100.0072",
    "jp": "{v:002C}{s:014F}様‥‥。",
-   "en": "",
+   "en": "{v:002C}{s:014F}...",
    "term": "end"
   },
   {
    "id": "scen100.0073",
    "jp": "{v:002D}{s:014F}様‥‥。",
-   "en": "",
+   "en": "{v:002D}{s:014F}...",
    "term": "end"
   },
   {
    "id": "scen100.0074",
    "jp": "{v:002E}王位についてからの彼は今までとはまったく{n}変わってしまいました。{p}{v:002F}しかし、それまでの１４年間はまぎれもなく{n}親子だったのです。{p}{v:0030}そこへ本当の息子という{s:0004}が現れ、{n}{s:000A}を倒すべく、{s:011E}と兵を起こした。{n}そして自分もそこに身を置いているなんて‥‥。{p}{v:0031}誰かに騙されているようにも、長くて悪い夢を{n}見ているように思うときもあります。",
-   "en": "",
+   "en": "{v:002E}Since taking the throne, he has become an entirely{n}different person.{p}{v:002F}But for the fourteen years before that, we were truly{n}mother and son.{p}{v:0030}Then {s:0004} appeared, said to be my true{n}son, and raised an army with {s:011E} to{n}defeat {s:000A}.{p}And now I find myself among them...{p}{v:0031}At times, I feel as though someone is deceiving me, or{n}that I am trapped in a long, terrible dream.",
    "term": "end"
   },
   {
    "id": "scen100.0075",
    "jp": "{v:0032}でも、{s:0004}には火傷の跡もあったし、{n}それに{s:0025}さんだって‥‥。",
-   "en": "",
+   "en": "{v:0032}But {s:0004} had the burn scar, and even {s:0025}{n}said...",
    "term": "end"
   },
   {
    "id": "scen100.0076",
    "jp": "{v:0033}{s:000E}。{n}{s:014F}様の気持ちも察してやれ。{p}{v:0034}例えば、{s:0000}がいきなり、{n}俺たちの敵に回ったら、お前はどうするよ？",
-   "en": "",
+   "en": "{v:0033}{s:000E}. Try to understand how {s:014F}{n}feels.{p}{v:0034}Suppose {s:0000} suddenly turned against{n}us. What would you do?",
    "term": "end"
   },
   {
@@ -546,13 +546,13 @@
   {
    "id": "scen100.0080",
    "jp": "{v:0038}それが今の{s:014F}様の心境だ。",
-   "en": "",
+   "en": "{v:0038}That's how {s:014F} feels right now.",
    "term": "end"
   },
   {
    "id": "scen100.0081",
    "jp": "‥‥{v:0039}ご、ごめんなさい、{s:014F}様！",
-   "en": "",
+   "en": "...{v:0039}I-I'm sorry, {s:014F}!",
    "term": "end"
   },
   {
@@ -607,7 +607,7 @@
   {
    "id": "scen100.0089",
    "jp": "{v:0042}忘れもしねぇ、{n}その声は、{s:0020}か‥‥。",
-   "en": "",
+   "en": "{v:0042}I'd never forget that voice. {s:0020}...",
    "term": "end"
   },
   {
@@ -634,7 +634,7 @@
   {
    "id": "scen100.0093",
    "jp": "{v:0048}奴ら{s:014F}様を狙うつもりよ！",
-   "en": "",
+   "en": "{v:0048}They're going after {s:014F}!",
    "term": "end"
   },
   {
@@ -689,7 +689,7 @@
   {
    "id": "scen100.0101",
    "jp": "{v:0069}ふわぁ～、ヒドイ{s:012A}にあったわ。",
-   "en": "",
+   "en": "{v:0069}Whew... I really got put through the wringer!",
    "term": "end"
   },
   {
@@ -730,13 +730,13 @@
   {
    "id": "scen100.0107",
    "jp": "{v:0070}確かにお前たちの言ったとおり、{n}すべては{s:0020}が仕組んだことだった。",
-   "en": "",
+   "en": "{v:0070}You were right. {s:0020} was behind it all.",
    "term": "end"
   },
   {
    "id": "scen100.0108",
    "jp": "{v:0071}やっぱりな。{n}奴はお前の力に{s:012A}を付け、{n}是が非でも自分の手駒にしたかったんだろう。",
-   "en": "",
+   "en": "{v:0071}Figured as much. He had his eye on your strength.{n}Must've been dead set on making you his pawn.",
    "term": "end"
   },
   {
@@ -854,13 +854,13 @@
   {
    "id": "scen100.0125",
    "jp": "{v:0085}{s:011E}‥‥。",
-   "en": "",
+   "en": "{v:0085}{s:011E}...",
    "term": "end"
   },
   {
    "id": "scen100.0126",
    "jp": "{v:0086}くせ者が{s:014F}様の命を狙って現れた。{n}だが、もう心配ない。",
-   "en": "",
+   "en": "{v:0086}An intruder came to take {s:014F}'s life. But{n}there is no cause for concern now.",
    "term": "end"
   },
   {
@@ -887,7 +887,7 @@
   {
    "id": "scen100.0130",
    "jp": "{v:000C}なぁ、川で{s:00F5}が暴れているって{n}言ってたよな？",
-   "en": "",
+   "en": "{v:000C}Hey, didn't they say {s:00F5} hordes were{n}running wild in the river?",
    "term": "end"
   },
   {
@@ -928,13 +928,13 @@
   {
    "id": "scen100.0136",
    "jp": "{v:0013}{s:014F}様‥‥。",
-   "en": "",
+   "en": "{v:0013}{s:014F}...",
    "term": "end"
   },
   {
    "id": "scen100.0137",
    "jp": "{v:0014}えっとね、川で暴れる{s:00F5}について、{n}ちょっと‥‥。{p}{v:0015}{s:014F}様は？",
-   "en": "",
+   "en": "{v:0014}Well, we were just talking about the {s:00F5}{n}hordes running wild in the river...{p}{v:0015}What about you, {s:014F}?",
    "term": "end"
   },
   {
@@ -954,13 +954,13 @@
   {
    "id": "scen100.0140",
    "jp": "{v:0018}あとはアタシたちが何とかしますから、{n}{s:014F}様はお休みになってください。",
-   "en": "",
+   "en": "{v:0018}We'll take care of things from here, so please rest,{n}{s:014F}.",
    "term": "end"
   },
   {
    "id": "scen100.0141",
    "jp": "{v:0019}あとのことは我々に任せて、{n}{s:014F}様はお休みください。",
-   "en": "",
+   "en": "{v:0019}Leave everything else to us, and please rest,{n}{s:014F}.",
    "term": "end"
   },
   {
@@ -1015,7 +1015,7 @@
   {
    "id": "scen100.0149",
    "jp": "念のために言うが、俺たちの受けている任務は、{n}{s:011E}たちの協力をし、{n}速やかに戦争を終わらせることだ。",
-   "en": "",
+   "en": "Just so we're clear, our orders are to help {s:011E}{n}and the others end this war quickly.",
    "term": "end"
   },
   {
@@ -1028,7 +1028,7 @@
   {
    "id": "scen100.0151",
    "jp": "とりあえず、事実を言ったまでだ。{n}どうするかは任せる。{p}１つ忠告があるんだが、{s:0020}の奴、{n}{s:0005}が意のままにならなくなったと知れば、{n}すぐにでも{s:0007}を殺しかねない。{p}{s:0007}を探すなら、あまり時間はないぞ。",
-   "en": "",
+   "en": "I'm just stating the facts. What we do is up to you.{p}One word of warning. If that bastard {s:0020}{n}learns he can't control {s:0005} anymore, he{n}could kill {s:0007} on the spot.{p}If we're going to find {s:0007}, we haven't{n}got much time.",
    "term": "end"
   },
   {
@@ -1048,7 +1048,7 @@
   {
    "id": "scen100.0154",
    "jp": "いつまでもここで足止めをくらっていては、{n}{s:000A}に時間を与えるだけだ‥‥。{p}あの水辺の{s:00F5}は、{n}なぜあんな群れ方をするんだろう？",
-   "en": "",
+   "en": "The longer we remain stranded here, the more time we{n}give {s:000A}...{p}Why do those {s:00F5} hordes gather at the{n}water's edge in such numbers?",
    "term": "end"
   },
   {
@@ -1061,7 +1061,7 @@
   {
    "id": "scen100.0156",
    "jp": "すぐに水中へ逃げられるので、{n}{s:00F5}に致命傷を与えられないのだ。",
-   "en": "",
+   "en": "The {s:00F5} hordes escape into the water{n}so quickly that we cannot strike a fatal blow.",
    "term": "end"
   },
   {
@@ -1116,7 +1116,7 @@
   {
    "id": "scen100.0164",
    "jp": "{v:0025}君たちは確か{s:0166}王国の‥‥。",
-   "en": "",
+   "en": "{v:0025}You are from the Kingdom of {s:0166}, if{n}I recall...",
    "term": "end"
   },
   {
@@ -1129,7 +1129,7 @@
   {
    "id": "scen100.0166",
    "jp": "{v:0027}彼らが{s:0004}を連れてきてくれました。{p}{v:0028}戴冠式の席で、グレッグ卿が{s:000A}に{n}斬りかかったことは、全くの狂言。{n}あの場にいた私が、証人です。{p}{v:0029}{s:0160}も{s:0166}も、{n}本当は戦う必要はないのです。{p}{v:002A}真に倒すべきは{s:000A}と、その背後で糸を引く者。",
-   "en": "",
+   "en": "{v:0027}They brought {s:0004} to us.{p}{v:0028}Lord Greg's attack on {s:000A} at the{n}coronation was entirely staged. I was there, and I can{n}testify to it.{p}{v:0029}There is truly no need for {s:0160} and {s:0166}{n}to fight.{p}{v:002A}The ones we must defeat are {s:000A} and{n}whoever is pulling the strings behind him.",
    "term": "end"
   },
   {
@@ -1149,7 +1149,7 @@
   {
    "id": "scen100.0169",
    "jp": "{s:0151}に質問することはありますか？",
-   "en": "",
+   "en": "Do you have any questions for {s:0151}?",
    "term": "end"
   },
   {
@@ -1163,7 +1163,7 @@
   {
    "id": "scen100.0171",
    "jp": "・{s:0020}という男を知っているか",
-   "en": "",
+   "en": "・Do you know a man called {s:0020}?",
    "term": "end",
    "unref": true
   },
@@ -1178,7 +1178,7 @@
   {
    "id": "scen100.0173",
    "jp": "・{s:0025}を知っているか",
-   "en": "",
+   "en": "・Do you know {s:0025}?",
    "term": "end",
    "unref": true
   },
@@ -1200,7 +1200,7 @@
   {
    "id": "scen100.0176",
    "jp": "{v:002F}{s:0020}？",
-   "en": "",
+   "en": "{v:002F}{s:0020}?",
    "term": "end"
   },
   {
@@ -1248,7 +1248,7 @@
   {
    "id": "scen100.0183",
    "jp": "{v:0038}だけど、{s:0020}についてなら少し助言してあげよう。{p}{v:0039}{s:015C}は知っているね？{n}あそこで何度か見かけたことがあるよ。",
-   "en": "",
+   "en": "{v:0038}But I can offer a little advice concerning{n}{s:0020}.{p}{v:0039}You know {s:015C}, I take it? I have seen him{n}there several times.",
    "term": "end"
   },
   {
@@ -1261,7 +1261,7 @@
   {
    "id": "scen100.0185",
    "jp": "{v:0039}{s:015C}は知っているね？{n}あそこで何度か見かけたことがあるよ。",
-   "en": "",
+   "en": "{v:0039}You know {s:015C}, I take it? I have seen him{n}there several times.",
    "term": "end"
   },
   {
@@ -1288,7 +1288,7 @@
   {
    "id": "scen100.0189",
    "jp": "{v:003F}しっ！{p}{v:0040}それ以上はなしだ。{n}ほら、{s:011E}が怖い顔でにらんでるよ。",
-   "en": "",
+   "en": "{v:003F}Shh!{p}{v:0040}Not another word. Look, {s:011E} is glaring{n}at us.",
    "term": "end"
   },
   {
@@ -1329,7 +1329,7 @@
   {
    "id": "scen100.0195",
    "jp": "{v:0048}それでは、僕は{s:00EA}に事情を話して、{n}これからの行動を{s:011E}と決めなければ{n}ならないから。{p}{v:0049}これで失礼するよ。",
-   "en": "",
+   "en": "{v:0048}Well, I must explain the situation to my {s:00EA}{n}and decide our next course of action with{n}{s:011E}.{p}{v:0049}If you will excuse me.",
    "term": "end"
   },
   {
@@ -1342,7 +1342,7 @@
   {
    "id": "scen100.0197",
    "jp": "{v:004B}あ、それから１つだけ。{p}{v:004C}早く{s:0008}のところに行ってあげた方がいい。{p}{v:004D}あっちには頑固にも{s:000A}の味方をする、{n}{s:0154}‥‥{s:0153}将軍が出撃しているからね。",
-   "en": "",
+   "en": "{v:004B}Oh, one more thing.{p}{v:004C}You should go to {s:0008} as soon as{n}you can.{p}{v:004D}{s:0154}... General {s:0153} has{n}marched out that way. He stubbornly insists on siding{n}with {s:000A}.",
    "term": "end"
   },
   {
@@ -1369,13 +1369,13 @@
   {
    "id": "scen100.0201",
    "jp": "{v:0002}ここに群れていた{s:00F5}に変化が見られたので、{n}すぐに部隊を集結させておいたのだ。{p}{v:0003}すると{s:00F5}は徐々に姿を消したのだが、{n}ここで足止めをくらっていた間に、{n}{s:0160}軍が対岸まで来ていたのだ。",
-   "en": "",
+   "en": "{v:0002}We noticed a change in the {s:00F5} hordes{n}gathered here, so I had the troops assemble at once.{p}{v:0003}The {s:00F5} hordes gradually disappeared,{n}but while we were stranded here, the {s:0160}{n}army had reached the opposite bank.",
    "term": "end"
   },
   {
    "id": "scen100.0202",
    "jp": "{v:0004}{s:011E}！{n}{s:0151}将軍が１人で橋を渡ってきます！",
-   "en": "",
+   "en": "{v:0004}{s:011E}! General {s:0151} is{n}crossing the bridge alone!",
    "term": "end"
   },
   {
@@ -1409,13 +1409,13 @@
   {
    "id": "scen100.0207",
    "jp": "{v:0009}これは{s:011E}。{n}お久しゅうございます。",
-   "en": "",
+   "en": "{v:0009}Ah, {s:011E}. It has been some time.",
    "term": "end"
   },
   {
    "id": "scen100.0208",
    "jp": "{v:000A}挨拶は後にして、手短に用件を済ませようか。{n}{s:00EA}たちが神経質になっているのでな。",
-   "en": "",
+   "en": "{v:000A}Let us save the greetings and keep this brief. Every {s:00EA}{n}of mine is on edge.",
    "term": "end"
   },
   {
@@ -1435,7 +1435,7 @@
   {
    "id": "scen100.0211",
    "jp": "{v:000E}信じていただけませんかな？{p}{v:000F}私はインペリアル・ナイツとして国王陛下の{n}身近にいた者です。{n}しかし最近の陛下は、すっかり変わってしまわれた。{p}{v:0010}そんな折り、あの陛下は真っ赤な偽者であると{n}貴殿らは反乱を起こされた。{p}{v:0011}それだけならまだしも、{n}{s:014F}様までが貴殿らを支持している。",
-   "en": "",
+   "en": "{v:000E}Do you find that hard to believe?{p}{v:000F}As one of the Imperial Knights, I served close to His{n}Majesty the King. Yet of late, His Majesty has{n}changed completely.{p}{v:0010}Then you rose in rebellion, declaring that this king was{n}an outright impostor.{p}{v:0011}That alone might not have swayed me, but even {s:014F}{n}supports your cause.",
    "term": "end"
   },
   {
@@ -1455,13 +1455,13 @@
   {
    "id": "scen100.0214",
    "jp": "{v:0014}{s:014F}様‥‥。",
-   "en": "",
+   "en": "{v:0014}{s:014F}...",
    "term": "end"
   },
   {
    "id": "scen100.0215",
    "jp": "{v:0015}これは{s:014F}様‥‥。{p}{v:0016}失礼を承知で、おうかがいしたいことがございます。",
-   "en": "",
+   "en": "{v:0015}Ah, {s:014F}...{p}{v:0016}Forgive my impertinence, but there is something I{n}must ask.",
    "term": "end"
   },
   {
@@ -1488,19 +1488,19 @@
   {
    "id": "scen100.0219",
    "jp": "{v:001B}先ほどの無礼をお許し下さい。{p}{v:001C}私、{s:001C}。{n}騎士の名に賭けて、忠誠を尽くすのは{n}真の王のみでございます。{p}{v:001D}あなた様の協力をさせていただきたく存じます。",
-   "en": "",
+   "en": "{v:001B}Please forgive my earlier discourtesy.{p}{v:001C}I, {s:001C}, swear upon my honor as a{n}knight that my loyalty belongs only to the true King.{p}{v:001D}I humbly ask that you allow me to assist you.",
    "term": "end"
   },
   {
    "id": "scen100.0220",
    "jp": "{v:001E}{s:011E}。{n}私は彼を信じても良いと思います。",
-   "en": "",
+   "en": "{v:001E}{s:011E}. I believe we may trust him.",
    "term": "end"
   },
   {
    "id": "scen100.0221",
    "jp": "{v:001F}しかし、{s:014F}様‥‥。",
-   "en": "",
+   "en": "{v:001F}But, {s:014F}...",
    "term": "end"
   },
   {
@@ -1534,13 +1534,13 @@
   {
    "id": "scen100.0226",
    "jp": "{s:0151}が我々についてくれるとは‥‥。{n}勝機も見えてきましたね。",
-   "en": "",
+   "en": "To think {s:0151} would join us... Victory is{n}beginning to seem possible.",
    "term": "end"
   },
   {
    "id": "scen100.0227",
    "jp": "あの{s:00F5}に手間取っていた間に{n}{s:000A}がナイツをよこしたのですね‥‥。",
-   "en": "",
+   "en": "So while those {s:00F5} hordes were holding{n}us up, {s:000A} sent his Knights...",
    "term": "end"
   },
   {
@@ -1567,19 +1567,19 @@
   {
    "id": "scen100.0231",
    "jp": "相手は{s:0151}様か‥‥。{n}だが、負けられぬ！",
-   "en": "",
+   "en": "Our opponent is {s:0151}... But we{n}cannot lose!",
    "term": "end"
   },
   {
    "id": "scen100.0232",
    "jp": "{s:0151}様の姿を確認した時、{n}思わず死を覚悟したよ‥‥。",
-   "en": "",
+   "en": "The moment I caught sight of {s:0151}, I{n}couldn't help bracing myself for death...",
    "term": "end"
   },
   {
    "id": "scen100.0233",
    "jp": "{s:014F}様、危険です。{n}ここは我々に任せて、下がって下さい。",
-   "en": "",
+   "en": "{s:014F}, it is dangerous here. Please fall{n}back and leave this to us.",
    "term": "end"
   },
   {
@@ -1613,19 +1613,19 @@
   {
    "id": "scen100.0238",
    "jp": "我々はただ{s:0151}様についていくだけです。",
-   "en": "",
+   "en": "We shall simply follow {s:0151}.",
    "term": "end"
   },
   {
    "id": "scen100.0239",
    "jp": "偽王{s:000A}を討つため、{n}我々も戦います！",
-   "en": "",
+   "en": "We too shall fight to overthrow the false king,{n}{s:000A}!",
    "term": "end"
   },
   {
    "id": "scen100.0240",
    "jp": "ひょっとしてあなた方ですかな？{n}{s:0151}将軍を退けた方は？",
-   "en": "",
+   "en": "Might you be the ones who drove back General{n}{s:0151}?",
    "term": "end"
   },
   {
@@ -1807,7 +1807,7 @@
   {
    "id": "scen100.0265",
    "jp": "申し訳ありません、お客様。{n}妖精が当店を卒業してしまったため、{n}『妖精喫茶』のサービスは終了しました。{p}今までご利用いただき、{n}どうもありがとうございました。",
-   "en": "",
+   "en": "I'm terribly sorry, sir. Our fairy has graduated from{n}our establishment, so the 'Fairy Café' service has come{n}to an end.{p}Thank you very much for your patronage all this time.",
    "term": "end"
   },
   {
@@ -1855,7 +1855,7 @@
   {
    "id": "scen100.0272",
    "jp": "{s:014F}様に誘われているのに、{n}無視したら失礼だよ。",
-   "en": "",
+   "en": "{s:014F} invited us. It'd be rude to{n}ignore her.",
    "term": "end"
   }
  ]

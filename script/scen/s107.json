@@ -505,7 +505,7 @@
   {
    "id": "scen107.0071",
    "jp": "何度も行くのは迷惑でしょ。{n}明日にしなさいよ。",
-   "en": "",
+   "en": "Going over there again and again would just be a{n}bother. Wait till tomorrow, okay?",
    "term": "end"
   },
   {
@@ -713,7 +713,7 @@
   {
    "id": "scen107.0100",
    "jp": "{FFF5}{v:0083}う～‥‥わたしの事を忘れちゃうの‥‥？",
-   "en": "",
+   "en": "{FFF5}{v:0083}Aww... You're going to forget me...?",
    "term": "end"
   },
   {
@@ -740,7 +740,7 @@
   {
    "id": "scen107.0104",
    "jp": "{v:0087}それじゃ、そろそろ遅いからわたし寝るね。{n}お休み、お兄ちゃん、ティピ。",
-   "en": "",
+   "en": "{v:0087}Well, it's getting late, so I'm going to sleep. Good night,{n}Big Brother. Good night, Tippi.",
    "term": "end"
   },
   {
@@ -1380,7 +1380,7 @@
   {
    "id": "scen107.0193",
    "jp": "おい、ヴェンツェルに話を聞きに{n}行くんだろ。{n}城の地下へ行こうぜ。",
-   "en": "",
+   "en": "Hey, we're going to hear what Wenzel has to say,{n}right? Let's head down to the castle basement.",
    "term": "end"
   },
   {

@@ -57,13 +57,13 @@
   {
    "id": "scen171.0007",
    "jp": "{v:0000}ふう、到着。",
-   "en": "",
+   "en": "{v:0000}Whew, we're here.",
    "term": "end"
   },
   {
    "id": "scen171.0008",
    "jp": "{v:0001}まずは城に急ごう。",
-   "en": "",
+   "en": "{v:0001}Let's hurry to the castle first.",
    "term": "end"
   },
   {
@@ -76,19 +76,19 @@
   {
    "id": "scen171.0010",
    "jp": "ようやくランザックも落ち着いてきたのに、{n}今度は何だ！？",
-   "en": "",
+   "en": "Ranzak was finally settling down, and now what?!",
    "term": "end"
   },
   {
    "id": "scen171.0011",
    "jp": "何とかランザックを復興できるよう、がんばるよ。",
-   "en": "",
+   "en": "I'll do my best to help rebuild Ranzak somehow.",
    "term": "end"
   },
   {
    "id": "scen171.0012",
    "jp": "ああ、どうしてこんなことに‥‥。",
-   "en": "",
+   "en": "Oh, how did it come to this...",
    "term": "end"
   },
   {
@@ -136,49 +136,49 @@
   {
    "id": "scen171.0019",
    "jp": "そんな、城下町が滅んじゃってる‥‥。",
-   "en": "",
+   "en": "No... The castle town's been destroyed...",
    "term": "end"
   },
   {
    "id": "scen171.0020",
    "jp": "時空制御塔は、{n}ランザック王都を回って北上したんだわ。{p}{FFF6}残念だけど、ここは間に合わなかったわね‥‥。",
-   "en": "",
+   "en": "The Space-Time Control Tower must have passed by the{n}royal capital of Ranzak and headed north.{p}{FFF6}I'm sorry, but we didn't make it in time here...",
    "term": "end"
   },
   {
    "id": "scen171.0021",
    "jp": "くそっ、判断を誤ったか！{p}となると、ガラシールズはどうなっている！？{n}急いで確認に向かわないとマズいぞ！",
-   "en": "",
+   "en": "Damn, did I misjudge it?!{p}Then what's happening in Galashiels?! We'd better hurry{n}and check, or we're in trouble!",
    "term": "end"
   },
   {
    "id": "scen171.0022",
    "jp": "くそっ、判断を誤ったか！{p}情報が足りない。{n}一度、魔法学院に戻って状況を確認しようぜ！",
-   "en": "",
+   "en": "Damn, did I misjudge it?!{p}We don't have enough information. Let's head back to{n}the Magic Academy once and check on the situation!",
    "term": "end"
   },
   {
    "id": "scen171.0023",
    "jp": "時空制御塔はガラシールズではなく、{n}ランザック王都を先に標的にしたんだわ。{p}{FFF6}残念だけど、ここは間に合わなかったわね‥‥。",
-   "en": "",
+   "en": "The Space-Time Control Tower targeted the royal{n}capital of Ranzak first, not Galashiels.{p}{FFF6}I'm sorry, but we didn't make it in time here...",
    "term": "end"
   },
   {
    "id": "scen171.0024",
    "jp": "くそっ、判断を誤ったか！{p}となると、ラージン砦はどうなっている！？{n}急いで確認に向かわないとマズいぞ！",
-   "en": "",
+   "en": "Damn, did I misjudge it?!{p}Then what's happening at Fort Rajin?! We'd better{n}hurry and check, or we're in trouble!",
    "term": "end"
   },
   {
    "id": "scen171.0025",
    "jp": "‥‥人がいない‥‥。{n}{FFFB}アタシたち、{n}ランザック王都を救ってあげられなかったんだね。",
-   "en": "",
+   "en": "...There's nobody here... {FFFB}We couldn't save the royal{n}capital of Ranzak, could we?",
    "term": "end"
   },
   {
    "id": "scen171.0026",
    "jp": "ここは地形的に入り組んでるから、{n}携帯集魔柱を立てるのに{n}適した場所がないわね‥‥。{p}もう少し奥へ行ってみましょう。",
-   "en": "",
+   "en": "The terrain here is so tangled that there's no good{n}spot to set up the Portable Mana Pillar...{p}Let's try going a little farther in.",
    "term": "end"
   },
   {
@@ -364,121 +364,121 @@
   {
    "id": "scen171.0051",
    "jp": "これ以上、まだ何か災害が起こるの！？",
-   "en": "",
+   "en": "There's going to be even more disasters?!",
    "term": "end"
   },
   {
    "id": "scen171.0052",
    "jp": "いつまでも、クヨクヨしてられないからね。{n}前向きにがんばってみるわ。",
-   "en": "",
+   "en": "I can't keep moping forever. I'll try to stay positive and{n}do my best.",
    "term": "end"
   },
   {
    "id": "scen171.0053",
    "jp": "今はただ、悲しみで胸がいっぱいよ‥‥。",
-   "en": "",
+   "en": "Right now my heart is just so full of grief...",
    "term": "end"
   },
   {
    "id": "scen171.0054",
    "jp": "し、城が‥城がぁ‥‥[01BE]",
-   "en": "",
+   "en": "Th-the castle... the castle's...[01BE]",
    "term": "end"
   },
   {
    "id": "scen171.0055",
    "jp": "これがブローニュ村を襲った{n}闇落としってやつなのか‥‥！？",
-   "en": "",
+   "en": "Is this the so-called Darkfall that hit{n}Boulogne Village...?!",
    "term": "end"
   },
   {
    "id": "scen171.0056",
    "jp": "協力しあって、絶対に国を再建してみせるよ。",
-   "en": "",
+   "en": "We'll work together and rebuild this country, no{n}matter what.",
    "term": "end"
   },
   {
    "id": "scen171.0057",
    "jp": "とつぜん地面が大きく揺れたと思ったら、{n}次の瞬間、城の下からゲヴェルが出てきたんだ！",
-   "en": "",
+   "en": "The ground suddenly started shaking hard, and the{n}next thing I knew, a Gevel came out from under{n}the castle!",
    "term": "end"
   },
   {
    "id": "scen171.0058",
    "jp": "ううぅ‥‥‥。",
-   "en": "",
+   "en": "Uuugh...",
    "term": "end"
   },
   {
    "id": "scen171.0059",
    "jp": "くそ、これしきのことで逃げ出してたまるか！{n}{FFFB}で、でも、今は逃げないとだよな‥‥[01BE]",
-   "en": "",
+   "en": "Damn it, like I'd run away from something like this!{n}{FFFB}B-but I guess I gotta run for now, huh...[01BE]",
    "term": "end"
   },
   {
    "id": "scen171.0060",
    "jp": "ランザックは、{n}こんなことではくじけない強い国さ。{n}だから、あんたたちも負けないでくれよな！",
-   "en": "",
+   "en": "Ranzak's a strong country. It won't give up over{n}something like this. So don't you folks give up{n}either, y'hear!",
    "term": "end"
   },
   {
    "id": "scen171.0061",
    "jp": "国王様、ウェーバー将軍殿‥‥。{n}なんでこんなことに‥‥。",
-   "en": "",
+   "en": "Your Majesty, General Weber... Why did this have{n}to happen...",
    "term": "end"
   },
   {
    "id": "scen171.0062",
    "jp": "し、信じられん‥‥。",
-   "en": "",
+   "en": "I-I can't believe it...",
    "term": "end"
   },
   {
    "id": "scen171.0063",
    "jp": "せっかく立ち直ってきたところなのに、{n}私たち、また襲われるの！？",
-   "en": "",
+   "en": "We were just getting back on our feet, and now we're{n}being attacked again?!",
    "term": "end"
   },
   {
    "id": "scen171.0064",
    "jp": "ありがとう、あなた達はヒーローだわ。",
-   "en": "",
+   "en": "Thank you. You're heroes, all of you.",
    "term": "end"
   },
   {
    "id": "scen171.0065",
    "jp": "少しずつだけど、皆にも笑顔が戻りつつあるわ。{n}やっぱり、皆この国を愛してるのね。",
-   "en": "",
+   "en": "It's slow, but everyone's starting to smile again.{n}Everyone really does love this country, after all.",
    "term": "end"
   },
   {
    "id": "scen171.0066",
    "jp": "頬をつねってみても、夢から覚めないの。{n}やっぱり、これは現実なのね‥‥。{n}これからどうすればいいの‥‥。",
-   "en": "",
+   "en": "I've pinched my cheek, but I won't wake up from this{n}dream. So this really is real... What do I do now...",
    "term": "end"
   },
   {
    "id": "scen171.0067",
    "jp": "お、お城が‥‥。{n}これはきっと悪夢だわ！{n}そうよ、そうに違いないわ！",
-   "en": "",
+   "en": "Th-the castle... This must be a nightmare! Yes, that's it,{n}it has to be!",
    "term": "end"
   },
   {
    "id": "scen171.0068",
    "jp": "誰でもいい、助けてくれ！",
-   "en": "",
+   "en": "Somebody, anybody, help me!",
    "term": "end"
   },
   {
    "id": "scen171.0069",
    "jp": "城がなくなってしまった今、{n}いったい、自分はどこに仕えればいいんだ‥‥。",
-   "en": "",
+   "en": "Now that the castle's gone, who on earth am I{n}supposed to serve...",
    "term": "end"
   },
   {
    "id": "scen171.0070",
    "jp": "ど、どど、どうしよう‥‥。{n}頭が混乱してしまって、{n}考えがまとまらないんだ‥‥[01BE]",
-   "en": "",
+   "en": "Wh-wh-what do I do... My head's such a mess, I can't{n}think straight...[01BE]",
    "term": "end"
   },
   {
@@ -498,37 +498,37 @@
   {
    "id": "scen171.0073",
    "jp": "頑張ってきたけど、{n}ランザック王都もついにここまでか‥‥。",
-   "en": "",
+   "en": "We've held on this long, but is this the end for the{n}royal capital of Ranzak...?",
    "term": "end"
   },
   {
    "id": "scen171.0074",
    "jp": "もうダメだと思ったけど、{n}キミたちのおかげでランザック王都は{n}生き延びられたよ。ありがとう。",
-   "en": "",
+   "en": "I thought it was all over, but thanks to you guys, the{n}royal capital of Ranzak survived. Thank you.",
    "term": "end"
   },
   {
    "id": "scen171.0075",
    "jp": "みんなでランザックを立て直そうって{n}奮起してるんだ。{p}また活気のある国に戻ったら、{n}あんた達も遊びに来てくれよな。待ってるからさ。",
-   "en": "",
+   "en": "Everyone's fired up to rebuild Ranzak together.{p}Once the country's lively again, come visit us, okay?{n}We'll be waiting.",
    "term": "end"
   },
   {
    "id": "scen171.0076",
    "jp": "城の方から凄い音がしたから、外に出たんだ。{n}そ、そしたら‥‥信じられない光景が‥‥。{p}城はなくなってるし、化け物はいるしで、{n}慌てて逃げてきたんだよ。",
-   "en": "",
+   "en": "I heard a huge noise from the castle, so I went{n}outside. A-and then... I saw something unbelievable...{p}The castle was gone, and there was a monster, so I{n}ran here in a panic.",
    "term": "end"
   },
   {
    "id": "scen171.0077",
    "jp": "あわわわわ‥‥[01BE]{p}ば、化け物は‥‥？{n}あの化け物はどこ行った！？",
-   "en": "",
+   "en": "Ah-ah-ah-ah...[01BE]{p}Wh-where's the monster...? Where'd that monster go?!",
    "term": "end"
   },
   {
    "id": "scen171.0078",
    "jp": "人の気配がしない‥‥。{n}ここには、もう誰もいないようだ。",
-   "en": "",
+   "en": "There's no sign of anyone... It seems no one is left{n}here anymore.",
    "term": "end"
   },
   {
@@ -548,67 +548,67 @@
   {
    "id": "scen171.0081",
    "jp": "ここじゃダメね‥‥。{n}もう少し奥へ行きましょう。",
-   "en": "",
+   "en": "This spot's no good... Let's go a little farther in.",
    "term": "end"
   },
   {
    "id": "scen171.0082",
    "jp": "このあたりがいいのかな？{n}早く立てる場所を探しましょ！",
-   "en": "",
+   "en": "Maybe around here? Let's find a spot to set it{n}up, quick!",
    "term": "end"
   },
   {
    "id": "scen171.0083",
    "jp": "うん、この辺ならバッチリよ。",
-   "en": "",
+   "en": "Yes, this area's perfect.",
    "term": "end"
   },
   {
    "id": "scen171.0084",
    "jp": "ここじゃダメね‥‥。{n}別の場所を探しましょう。",
-   "en": "",
+   "en": "This spot's no good... Let's look for somewhere else.",
    "term": "end"
   },
   {
    "id": "scen171.0085",
    "jp": "ねぇ、この辺りとかどうかな？",
-   "en": "",
+   "en": "Hey, how about somewhere around here?",
    "term": "end"
   },
   {
    "id": "scen171.0086",
    "jp": "そうね、そこなら問題ないわ。{n}今、ティピちゃんがいる場所の{n}辺りに立てましょう。",
-   "en": "",
+   "en": "Yes, that spot should be no problem. Let's set it up{n}around where Tippi-chan is now.",
    "term": "end"
   },
   {
    "id": "scen171.0087",
    "jp": "　{n}　　　　　　携帯集魔柱を設置した！",
-   "en": "",
+   "en": "　{n}　　　　　　Set up a Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen171.0088",
    "jp": "き、来たよ！{p}闇落としが来る前に、{n}急いで携帯集魔柱から離れなきゃ！",
-   "en": "",
+   "en": "H-here it comes!{p}We have to get away from the Portable Mana Pillar{n}before the Darkfall hits!",
    "term": "end"
   },
   {
    "id": "scen171.0089",
    "jp": "{FFF6}ふぅ、間一髪と言ったところね‥‥。",
-   "en": "",
+   "en": "{FFF6}Phew, that was a close call...",
    "term": "end"
   },
   {
    "id": "scen171.0090",
    "jp": "どうやら、闇が晴れたようだな。{n}俺の目でも、空が明るくなったのが分かるぜ。",
-   "en": "",
+   "en": "Looks like the darkness has cleared. Even my eyes can{n}tell the sky's gotten brighter.",
    "term": "end"
   },
   {
    "id": "scen171.0091",
    "jp": "それじゃ、急いで次の場所へ向かいましょ！",
-   "en": "",
+   "en": "Okay, let's hurry on to the next spot!",
    "term": "end"
   },
   {
@@ -628,133 +628,133 @@
   {
    "id": "scen171.0094",
    "jp": "{v:0041}‥‥すさまじいな。",
-   "en": "",
+   "en": "{v:0041}...Brutal.",
    "term": "end"
   },
   {
    "id": "scen171.0095",
    "jp": "{v:0002}これって‥‥。",
-   "en": "",
+   "en": "{v:0002}This is...",
    "term": "end"
   },
   {
    "id": "scen171.0096",
    "jp": "{v:0003}お城が‥崩れちゃってる‥‥、{n}いったい何があったのよ？",
-   "en": "",
+   "en": "{v:0003}The castle's... crumbled... What on earth happened here?",
    "term": "end"
   },
   {
    "id": "scen171.0097",
    "jp": "{v:0004}いったい何があったんだ？",
-   "en": "",
+   "en": "{v:0004}What on earth happened?",
    "term": "end"
   },
   {
    "id": "scen171.0098",
    "jp": "{v:0005}怪物だ。{n}ゲヴェルって怪物が城の地下から現れて‥‥。",
-   "en": "",
+   "en": "{v:0005}A monster. A monster called a Gevel came up from under{n}the castle...",
    "term": "end"
   },
   {
    "id": "scen171.0099",
    "jp": "{v:0006}ゲヴェルだと！？",
-   "en": "",
+   "en": "{v:0006}A Gevel?!",
    "term": "end"
   },
   {
    "id": "scen171.0100",
    "jp": "{v:0007}そんな！{n}あれならアタシたちが倒したじゃない！",
-   "en": "",
+   "en": "{v:0007}No way! We already beat that thing!",
    "term": "end"
   },
   {
    "id": "scen171.0101",
    "jp": "{v:0008}でも‥記録にあったゲヴェルは‥‥、{n}１体じゃないし‥‥。",
-   "en": "",
+   "en": "{v:0008}But... the records said... there was more than{n}one Gevel...",
    "term": "end"
   },
   {
    "id": "scen171.0102",
    "jp": "{v:0009}とにかく、ゲヴェルはどこにいったんだ？",
-   "en": "",
+   "en": "{v:0009}Anyway, where did the Gevel go?",
    "term": "end"
   },
   {
    "id": "scen171.0103",
    "jp": "{v:000A}３人組がゲヴェルを倒して、{n}その死体を変な機械で持ち去ったんだ。",
-   "en": "",
+   "en": "{v:000A}A group of three beat the Gevel and carried its body{n}off with some weird machine.",
    "term": "end"
   },
   {
    "id": "scen171.0104",
    "jp": "{v:000B}３人組か‥‥。",
-   "en": "",
+   "en": "{v:000B}A group of three...",
    "term": "end"
   },
   {
    "id": "scen171.0105",
    "jp": "{v:000C}男が１人と、女が２人だった‥‥。{n}そして女の１人はフェザリアンだった‥‥。",
-   "en": "",
+   "en": "{v:000C}There was one man and two women... And one of the{n}women was a Featherian...",
    "term": "end"
   },
   {
    "id": "scen171.0106",
    "jp": "{v:000D}フェザリアン！？{n}そんな！",
-   "en": "",
+   "en": "{v:000D}A Featherian?! No way!",
    "term": "end"
   },
   {
    "id": "scen171.0107",
    "jp": "{v:000E}本当だ！{n}あの翼を見間違うはずないだろう！",
-   "en": "",
+   "en": "{v:000E}It's true! There's no mistaking those wings!",
    "term": "end"
   },
   {
    "id": "scen171.0108",
    "jp": "{v:000F}そう言えば、将軍は？{n}ウェーバー将軍はどうなったんだ？",
-   "en": "",
+   "en": "{v:000F}Come to think of it, what about the general? What{n}happened to General Weber?",
    "term": "end"
   },
   {
    "id": "scen171.0109",
    "jp": "{v:0010}将軍は‥‥くっ！{n}‥‥その３人組がやってくる前に、{n}市民を逃がそうとしてゲヴェルに‥‥。",
-   "en": "",
+   "en": "{v:0010}The general... Ngh! ...Before those three showed up, he{n}was trying to get the citizens out, and the Gevel...",
    "term": "end"
   },
   {
    "id": "scen171.0110",
    "jp": "‥‥{v:0011}ウェーバー‥‥。",
-   "en": "",
+   "en": "...{v:0011}Weber...",
    "term": "end"
   },
   {
    "id": "scen171.0111",
    "jp": "{v:0012}ウォレスさん‥‥。",
-   "en": "",
+   "en": "{v:0012}Wallace-san...",
    "term": "end"
   },
   {
    "id": "scen171.0112",
    "jp": "‥‥{v:0013}大丈夫だ‥‥。{n}それより今はこのことを報告するほうが先決だ。{n}サンドラ様と合流してローランディアへ戻ろう。",
-   "en": "",
+   "en": "...{v:0013}I'm all right... More importantly, we need to report this{n}first. Let's meet up with Sandra-sama and return{n}to Rolandia.",
    "term": "end"
   },
   {
    "id": "scen171.0113",
    "jp": "サンドラに報告",
-   "en": "",
+   "en": "Report to Sandra",
    "term": "end"
   },
   {
    "id": "scen171.0114",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
    "id": "scen171.0115",
    "jp": "ちくしょう‥‥。",
-   "en": "",
+   "en": "Dammit...",
    "term": "end"
   },
   {
@@ -767,7 +767,7 @@
   {
    "id": "scen171.0117",
    "jp": "テレポートを唱えてる間に、{n}闇が落ちてきちゃうよ。{n}今は、早く携帯集魔柱から離れよう？",
-   "en": "",
+   "en": "The darkness will fall on us while I'm casting Teleport.{n}For now, let's get away from the Portable Mana Pillar,{n}quick, okay?",
    "term": "end"
   }
  ]

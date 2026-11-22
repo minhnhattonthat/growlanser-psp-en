@@ -15,7 +15,7 @@
   {
    "id": "scen156.0001",
    "jp": "ローランディア兵士",
-   "en": "",
+   "en": "Rolandia Soldier",
    "term": "null"
   },
   {
@@ -105,25 +105,25 @@
   {
    "id": "scen156.0014",
    "jp": "マスター！{n}携帯集魔柱を持って来たよ！",
-   "en": "",
+   "en": "Master! We brought the Portable Mana Pillars!",
    "term": "end"
   },
   {
    "id": "scen156.0015",
    "jp": "みんな、待っていましたよ。",
-   "en": "",
+   "en": "Everyone, I have been waiting for you.",
    "term": "end"
   },
   {
    "id": "scen156.0016",
    "jp": "ローザリアの他にも、{n}デリス村と『{s:0010}』にも{n}集魔柱を立てる必要がありますね。{p}他へは、この者たちを向かわせましょう。{n}あなたたちが持っている携帯集魔柱を、{n}彼らに渡してください。",
-   "en": "",
+   "en": "Besides Rosaria, we also need to raise mana collection{n}pillars in Delis Village and '{s:0010}'.{p}I will send these people to the other sites. Please hand{n}them the Portable Mana Pillars you are carrying.",
    "term": "end"
   },
   {
    "id": "scen156.0017",
    "jp": "ローザリアの他にも、{n}デリス村と、あなたの領地にも{n}集魔柱を立てる必要がありますね。{p}他へは、この者たちを向かわせましょう。{n}あなたたちが持っている携帯集魔柱を、{n}彼らに渡してください。",
-   "en": "",
+   "en": "Besides Rosaria, we also need to raise mana collection{n}pillars in Delis Village and on your estate.{p}I will send these people to the other sites. Please hand{n}them the Portable Mana Pillars you are carrying.",
    "term": "end"
   },
   {
@@ -136,175 +136,175 @@
   {
    "id": "scen156.0019",
    "jp": "　{n}　　　　　　　携帯集魔柱を託した！",
-   "en": "",
+   "en": "　{n}　　　　　　　Entrusted the Portable Mana Pillars!",
    "term": "end"
   },
   {
    "id": "scen156.0020",
    "jp": "お預かりいたします！",
-   "en": "",
+   "en": "We'll take good care of them!",
    "term": "end"
   },
   {
    "id": "scen156.0021",
    "jp": "どうぞお任せください！",
-   "en": "",
+   "en": "Please leave it to us!",
    "term": "end"
   },
   {
    "id": "scen156.0022",
    "jp": "よろしく頼むね！",
-   "en": "",
+   "en": "We're counting on you!",
    "term": "end"
   },
   {
    "id": "scen156.0023",
    "jp": "『{s:0010}』には、{n}もう集魔柱を立ててきたよ！",
-   "en": "",
+   "en": "We already put up a mana collection pillar in{n}'{s:0010}'!",
    "term": "end"
   },
   {
    "id": "scen156.0024",
    "jp": "こいつの領地には、{n}もう集魔柱を立ててきたよ！",
-   "en": "",
+   "en": "We already put up a mana collection pillar on this{n}guy's estate!",
    "term": "end"
   },
   {
    "id": "scen156.0025",
    "jp": "そうでしたか。{p}では、こちらから兵を派遣するのは{n}デリス村だけで大丈夫ですね。",
-   "en": "",
+   "en": "I see.{p}Then the only place we need to send soldiers is{n}Delis Village.",
    "term": "end"
   },
   {
    "id": "scen156.0026",
    "jp": "それでは、携帯集魔柱を渡します。",
-   "en": "",
+   "en": "Then here are the Portable Mana Pillars.",
    "term": "end"
   },
   {
    "id": "scen156.0027",
    "jp": "デリス村には、{n}もう集魔柱を立ててきたよ！",
-   "en": "",
+   "en": "We already put up a mana collection pillar in Delis Village!",
    "term": "end"
   },
   {
    "id": "scen156.0028",
    "jp": "そうでしたか。{p}では、こちらから兵を派遣するのは{n}『{s:0010}』だけで大丈夫ですね。",
-   "en": "",
+   "en": "I see.{p}Then the only place we need to send soldiers is{n}'{s:0010}'.",
    "term": "end"
   },
   {
    "id": "scen156.0029",
    "jp": "そうでしたか。{p}では、こちらから兵を派遣するのは{n}あなたの領地だけで大丈夫ですね。",
-   "en": "",
+   "en": "I see.{p}Then the only place we need to send soldiers is{n}your estate.",
    "term": "end"
   },
   {
    "id": "scen156.0030",
    "jp": "デリス村と『{s:0010}』には、{n}既に携帯集魔柱が立ててあるよ！{p}あとは、ローザリアに立てるだけ！",
-   "en": "",
+   "en": "Delis Village and '{s:0010}' already have their{n}Portable Mana Pillars up!{p}All that's left is putting one up in Rosaria!",
    "term": "end"
   },
   {
    "id": "scen156.0031",
    "jp": "{FFF6}そうですか、それは迅速な対応でしたね。{n}さすがです。",
-   "en": "",
+   "en": "{FFF6}I see. That was very quick work. I expected no less.",
    "term": "end"
   },
   {
    "id": "scen156.0032",
    "jp": "それじゃあ、設置する場所を探そうぜ。",
-   "en": "",
+   "en": "All right, let's find a spot to set it up.",
    "term": "end"
   },
   {
    "id": "scen156.0033",
    "jp": "ここなら大丈夫そうね。{n}携帯集魔柱を立てましょう！",
-   "en": "",
+   "en": "This spot looks fine. Let's put up the Portable{n}Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen156.0034",
    "jp": "そこはちょっと、適してないわね‥‥。{n}他の場所にしましょう。",
-   "en": "",
+   "en": "That spot isn't really suitable... Let's try{n}somewhere else.",
    "term": "end"
   },
   {
    "id": "scen156.0035",
    "jp": "もう、要領が悪いわねぇ。{n}アタシが探してあげるわ。",
-   "en": "",
+   "en": "Ugh, you're so clueless. Fine, I'll find a spot for you.",
    "term": "end"
   },
   {
    "id": "scen156.0036",
    "jp": "マスター！{n}ここなんてどうでしょうか？",
-   "en": "",
+   "en": "Master! How about right here?",
    "term": "end"
   },
   {
    "id": "scen156.0037",
    "jp": "そうですね、その辺りでいいでしょう。{n}{FFFB}では、携帯集魔柱の設置を頼みますよ。",
-   "en": "",
+   "en": "Yes, that area should do. {FFFB}Now, I will leave the setup of{n}the Portable Mana Pillar to you.",
    "term": "end"
   },
   {
    "id": "scen156.0038",
    "jp": "　{n}　　　　　　携帯集魔柱を設置した！",
-   "en": "",
+   "en": "　{n}　　　　　　Set up the Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen156.0039",
    "jp": "やった、無事に設置完了できたよ！{n}これで全部終ったね。",
-   "en": "",
+   "en": "Yay, we got it set up without a hitch! That's all of{n}them done.",
    "term": "end"
   },
   {
    "id": "scen156.0040",
    "jp": "皆、ご苦労さまでした。{n}これでひとまずは安心ですね。",
-   "en": "",
+   "en": "Thank you for your hard work, everyone. Now we can{n}rest easy, for the time being.",
    "term": "end"
   },
   {
    "id": "scen156.0041",
    "jp": "ええ。{p}{FFF6}ですが、これはあくまで一時しのぎに過ぎません。{n}根本を解決するには、まだ‥‥。",
-   "en": "",
+   "en": "Yes.{p}{FFF6}But this is only a stopgap. To solve the root of the{n}problem, we still...",
    "term": "end"
   },
   {
    "id": "scen156.0042",
    "jp": "それでも、充分な時間は稼げたのです。{n}そう悲観することはありません。",
-   "en": "",
+   "en": "Even so, we have bought ourselves enough time. There{n}is no need to be so pessimistic.",
    "term": "end"
   },
   {
    "id": "scen156.0043",
    "jp": "そうですよ、アメリアさん！{p}この間に、時空制御塔をなんとかする{n}方法を探せばいいんですよ！",
-   "en": "",
+   "en": "That's right, Amelia-san!{p}We can use this time to find a way to deal with the{n}Space-Time Control Tower!",
    "term": "end"
   },
   {
    "id": "scen156.0044",
    "jp": "{FFF6}‥‥うん、{FE14}そうよね。{n}{FFFB}{FC05}{FFF6}ありがとう、ルイセちゃん。",
-   "en": "",
+   "en": "{FFF6}...Yes, {FE14}you're right. {FFFB}{FC05}{FFF6}Thank you, Luise-chan.",
    "term": "end"
   },
   {
    "id": "scen156.0045",
    "jp": "それじゃ、協力してくれた魔法学院に{n}集魔柱設置完了の報告をしに行くか。{p}現在の歪みの値も確認しておきたいしな。",
-   "en": "",
+   "en": "Well then, let's go tell the Magic Academy the pillars are{n}in place. They helped us out.{p}I want to check the current distortion readings, too.",
    "term": "end"
   },
   {
    "id": "scen156.0046",
    "jp": "みんな、頼みましたよ。",
-   "en": "",
+   "en": "I am counting on you all.",
    "term": "end"
   },
   {
    "id": "scen156.0047",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
@@ -338,37 +338,37 @@
   {
    "id": "scen156.0052",
    "jp": "やぁ、キミたち。{n}あのゲヴェルを倒したんだってね、すばらしいよ！",
-   "en": "",
+   "en": "Hey there, you guys. I hear you defeated that Gevel.{n}That's amazing!",
    "term": "end"
   },
   {
    "id": "scen156.0053",
    "jp": "ランザック城が崩壊したって、本当かい！？{n}突然のことすぎて、なんだか信じられないよ。",
-   "en": "",
+   "en": "Is it true Ranzak Castle collapsed?! It's all so sudden, I{n}can hardly believe it.",
    "term": "end"
   },
   {
    "id": "scen156.0054",
    "jp": "ラシェルの保養施設が襲われたらしいね。{n}誰が何の目的で、こんなことを‥‥。",
-   "en": "",
+   "en": "I hear the sanatorium in Rachelle was attacked. Who{n}would do such a thing, and why...?",
    "term": "end"
   },
   {
    "id": "scen156.0055",
    "jp": "平和な世界で、のほほんと暮らしたいよ‥‥。",
-   "en": "",
+   "en": "I just wanna live a carefree life in a peaceful world...",
    "term": "end"
   },
   {
    "id": "scen156.0056",
    "jp": "つ、ついにローザリアにまで{n}闇が迫ってきたのか‥‥！？",
-   "en": "",
+   "en": "D-don't tell me the darkness has finally{n}reached Rosaria...?!",
    "term": "end"
   },
   {
    "id": "scen156.0057",
    "jp": "ローザリアの闇を払ってくれたのは、{n}キミたちなんだってね。ありがとう！",
-   "en": "",
+   "en": "I hear you're the ones who drove the darkness out of{n}Rosaria. Thank you!",
    "term": "end"
   },
   {
@@ -388,91 +388,91 @@
   {
    "id": "scen156.0060",
    "jp": "ゲヴェルが死んで、やっと平穏な日々が取り戻せる。{n}キミたちには感謝してるよ、ありがとう！",
-   "en": "",
+   "en": "With Gevel dead, we can finally get our peaceful days{n}back. I'm grateful to you guys. Thank you!",
    "term": "end"
   },
   {
    "id": "scen156.0061",
    "jp": "あわわわ、ゲヴェルが他にもいたなんて！{n}また、新たに出てくるんじゃないだろうな！？",
-   "en": "",
+   "en": "Eek, there were other Gevels?! Don't tell me another{n}new one's gonna show up?!",
    "term": "end"
   },
   {
    "id": "scen156.0062",
    "jp": "なぁ、ラシェルの話は本当かい？{n}ほら、人が化け物になるって‥‥。{p}いくらなんでも、冗談だよな？{n}は‥ははは‥‥。",
-   "en": "",
+   "en": "Hey, is that story about Rachelle true? You know, the{n}one about people turning into monsters...{p}C'mon, that's gotta be a joke, right? Ha... haha...",
    "term": "end"
   },
   {
    "id": "scen156.0063",
    "jp": "この大陸には今、{n}安全な場所なんてどこにもないのか‥‥。",
-   "en": "",
+   "en": "Is there nowhere safe left on this continent...?",
    "term": "end"
   },
   {
    "id": "scen156.0064",
    "jp": "急いで携帯集魔柱を設置するのです。",
-   "en": "",
+   "en": "Hurry and set up the Portable Mana Pillar.",
    "term": "end"
   },
   {
    "id": "scen156.0065",
    "jp": "人をバケモノに変えてしまう闇と{n}向き合うには、かなりの覚悟がいりますね‥‥。{p}みなさんの勇気ある態度には、{n}ただただ尊敬するばかりです。",
-   "en": "",
+   "en": "It must take real resolve to face a darkness that{n}turns people into monsters...{p}I have nothing but respect for your courage.",
    "term": "end"
   },
   {
    "id": "scen156.0066",
    "jp": "サンドラ様がお待ちですよ。",
-   "en": "",
+   "en": "Sandra-sama is waiting for you.",
    "term": "end"
   },
   {
    "id": "scen156.0067",
    "jp": "いざという時は{n}私が集魔柱を立てに行く予定でしたが、{n}まさか既に先回りされてたとは‥‥。{p}いやはや、皆様には感服いたしました。",
-   "en": "",
+   "en": "I had planned to go raise the mana collection pillar{n}myself if it came to that, but to think you had already{n}beaten me to it...{p}My, my, I am truly impressed with you all.",
    "term": "end"
   },
   {
    "id": "scen156.0068",
    "jp": "お疲れ様です。",
-   "en": "",
+   "en": "Thank you for your hard work.",
    "term": "end"
   },
   {
    "id": "scen156.0069",
    "jp": "ふふふ、いいお天気♪{n}やっぱり平和だと、心もはずむわね～。",
-   "en": "",
+   "en": "Hehe, what lovely weather♪ Peace really does lift{n}the spirits.",
    "term": "end"
   },
   {
    "id": "scen156.0070",
    "jp": "ランザック城が崩壊したって、本当！？{n}また不穏な空気になってきたわね‥‥。",
-   "en": "",
+   "en": "Is it true Ranzak Castle collapsed?! Things are getting{n}unsettling again...",
    "term": "end"
   },
   {
    "id": "scen156.0071",
    "jp": "やっと平和になったと思ったのに‥‥。{n}いつになったら、安心して暮らせるのかしら？",
-   "en": "",
+   "en": "And here I thought peace had finally come... When will{n}we ever be able to live without worry?",
    "term": "end"
   },
   {
    "id": "scen156.0072",
    "jp": "大変だと思うけど、頑張ってね。{n}私には応援することしか出来ないけど‥‥。",
-   "en": "",
+   "en": "I know it's hard, but do your best. All I can do is cheer{n}you on, though...",
    "term": "end"
   },
   {
    "id": "scen156.0073",
    "jp": "このまま私も、{n}バケモノになっちゃうのかしら‥‥？",
-   "en": "",
+   "en": "Am I going to turn into a monster too...?",
    "term": "end"
   },
   {
    "id": "scen156.0074",
    "jp": "あなた達のおかげで、{n}ローザリアを覆っていた闇が消えたわ。{n}本当にありがとう。",
-   "en": "",
+   "en": "Thanks to you, the darkness that covered Rosaria is{n}gone. Thank you so much.",
    "term": "end"
   },
   {
@@ -548,61 +548,61 @@
   {
    "id": "scen156.0085",
    "jp": "自分の国が滅びるかもしれないって時に、{n}アンタって人はナニ考えてるのよ！{n}もっとマジメにやりなさい！",
-   "en": "",
+   "en": "Our own country might be wiped out, and what are YOU{n}thinking about?! Take this seriously!",
    "term": "end"
   },
   {
    "id": "scen156.0086",
    "jp": "オイラ、すっごい科学者になるんだ！",
-   "en": "",
+   "en": "I'm gonna be an amazing scientist!",
    "term": "end"
   },
   {
    "id": "scen156.0087",
    "jp": "こいつ、またホラ吹いてるよ。{p}この前まで、魔法使いになるって言ってたのにさ。",
-   "en": "",
+   "en": "He's telling tall tales again.{p}Just the other day, he was saying he'd be a magician.",
    "term": "end"
   },
   {
    "id": "scen156.0088",
    "jp": "だって、科学者もカッコいいんだもん。{n}どっちにしようか、悩むなぁ～‥‥。",
-   "en": "",
+   "en": "But scientists are cool too. Which one should I be? It's{n}so hard to choose...",
    "term": "end"
   },
   {
    "id": "scen156.0089",
    "jp": "オイラがすっごい科学者だったら、{n}こんな黒いモヤなんて消し去るのになぁ。",
-   "en": "",
+   "en": "If I were an amazing scientist, I'd make this black{n}fog disappear.",
    "term": "end"
   },
   {
    "id": "scen156.0090",
    "jp": "そんなの、お前にできるわけないだろ。",
-   "en": "",
+   "en": "No way you could do that.",
    "term": "end"
   },
   {
    "id": "scen156.0091",
    "jp": "そんなことないもん！{n}オイラだって、やればできるよ！",
-   "en": "",
+   "en": "Could too! I can do it if I try!",
    "term": "end"
   },
   {
    "id": "scen156.0092",
    "jp": "オイラ、あの黒いモヤを消した人の{n}弟子になるって決めたんだ！",
-   "en": "",
+   "en": "I've decided! I'm gonna be the apprentice of whoever{n}cleared away that black fog!",
    "term": "end"
   },
   {
    "id": "scen156.0093",
    "jp": "そんな凄い人の弟子になんか、{n}簡単になれるわけないだろ。",
-   "en": "",
+   "en": "Like you could just become the apprentice of someone{n}that amazing.",
    "term": "end"
   },
   {
    "id": "scen156.0094",
    "jp": "絶対になってみせるもん！{n}モヤを消した人を探しだして、{n}弟子にしてもらうんだい！",
-   "en": "",
+   "en": "I'll do it, you'll see! I'm gonna find whoever cleared the{n}fog and get 'em to take me on!",
    "term": "end"
   },
   {
@@ -636,37 +636,37 @@
   {
    "id": "scen156.0099",
    "jp": "妖精ちゃんは、いつも元気ね。{n}見てるこっちも元気になれるわ、ふふふ。",
-   "en": "",
+   "en": "That little fairy is always so lively. Just watching her{n}cheers me up, hehe.",
    "term": "end"
   },
   {
    "id": "scen156.0100",
    "jp": "こんにちは。{n}最近いろいろ物騒みたいだけど、{n}アナタたちは平気？",
-   "en": "",
+   "en": "Hello. Things seem so dangerous lately. Are you all right?",
    "term": "end"
   },
   {
    "id": "scen156.0101",
    "jp": "ブローニュ村が被害にあったとか。{n}すごく心配だわ‥‥。",
-   "en": "",
+   "en": "I hear Boulogne Village was attacked. I'm so worried...",
    "term": "end"
   },
   {
    "id": "scen156.0102",
    "jp": "やだ、ここもブローニュ村みたいに{n}なっちゃうの！？",
-   "en": "",
+   "en": "Oh no, is this place going to end up like{n}Boulogne Village?!",
    "term": "end"
   },
   {
    "id": "scen156.0103",
    "jp": "よかった、妖精ちゃん達も無事だったのね。",
-   "en": "",
+   "en": "Thank goodness, you and the little fairy are safe too.",
    "term": "end"
   },
   {
    "id": "scen156.0104",
    "jp": "こんな時こそ、前向きにならなきゃね。{n}妖精ちゃんの元気を見習わなくっちゃ！",
-   "en": "",
+   "en": "Times like these call for a positive attitude. I should{n}learn from that little fairy's energy!",
    "term": "end"
   },
   {
@@ -813,7 +813,7 @@
   {
    "id": "scen156.0124",
    "jp": "この異様な空気は何だ‥‥！？",
-   "en": "",
+   "en": "What is this eerie atmosphere...?!",
    "term": "end"
   },
   {
@@ -840,13 +840,13 @@
   {
    "id": "scen156.0128",
    "jp": "どう見ても、普通じゃない天気よね。{n}あなた達も早く、{n}屋内に避難した方がいいわよ[01BE]",
-   "en": "",
+   "en": "This weather's anything but normal. You'd better get{n}indoors quickly too[01BE]",
    "term": "end"
   },
   {
    "id": "scen156.0129",
    "jp": "またいつもの天気に戻ったみたいね。{n}よかった♪",
-   "en": "",
+   "en": "Looks like the weather's back to normal. Thank{n}goodness♪",
    "term": "end"
   },
   {
@@ -859,13 +859,13 @@
   {
    "id": "scen156.0131",
    "jp": "天変地異の前触れかしら‥‥？",
-   "en": "",
+   "en": "Could this be an omen of some great cataclysm...?",
    "term": "end"
   },
   {
    "id": "scen156.0132",
    "jp": "人間の力ではどうしても太刀打ち{n}できないものって、恐ろしいわね‥‥。",
-   "en": "",
+   "en": "Things that human strength just can't stand up to are{n}frightening, aren't they...",
    "term": "end"
   },
   {
@@ -878,13 +878,13 @@
   {
    "id": "scen156.0134",
    "jp": "暗くなってきたし、{n}ボクもお家に帰ったほうがいいのかなぁ？",
-   "en": "",
+   "en": "It's getting dark... Maybe I should go home too?",
    "term": "end"
   },
   {
    "id": "scen156.0135",
    "jp": "オニから隠れてるんだ。{n}でも、そろそろ飽きてきちゃったなぁ‥‥。",
-   "en": "",
+   "en": "I'm hiding from the kid who's it. But I'm kinda{n}getting bored...",
    "term": "end"
   },
   {
@@ -925,13 +925,13 @@
   {
    "id": "scen156.0141",
    "jp": "こんな状態じゃ、{n}買い物も楽しめないよ‥‥。",
-   "en": "",
+   "en": "I can't enjoy shopping like this...",
    "term": "end"
   },
   {
    "id": "scen156.0142",
    "jp": "やっと闇が晴れたぜ！{n}よかった、これで買い物が続行できるな！",
-   "en": "",
+   "en": "The darkness is finally gone! Great, now I can get back{n}to shopping!",
    "term": "end"
   },
   {
@@ -944,19 +944,19 @@
   {
    "id": "scen156.0144",
    "jp": "せっかく買い物にきたのに、{n}これじゃ暗くて品物が見づらいわ‥‥。",
-   "en": "",
+   "en": "I came all the way here to shop, but it's so dark I can{n}hardly see the goods...",
    "term": "end"
   },
   {
    "id": "scen156.0145",
    "jp": "うふふ、やーっと買い物の続きが出来るわ♪",
-   "en": "",
+   "en": "Hehe, I can fiiinally get back to my shopping♪",
    "term": "end"
   },
   {
    "id": "scen156.0146",
    "jp": "よく来てくれたね。こういう時こそ、{n}危険に備えてお店で休んでいって頂戴。{p}この扉の奥よ！",
-   "en": "",
+   "en": "How nice of you to come. At times like these, do rest at{n}the shop and be ready for danger.{p}It's through this door!",
    "term": "end"
   },
   {
@@ -1036,67 +1036,67 @@
   {
    "id": "scen156.0157",
    "jp": "少しずつだけど、ここも賑わってきたようね。",
-   "en": "",
+   "en": "Little by little, this place is getting livelier.",
    "term": "end"
   },
   {
    "id": "scen156.0158",
    "jp": "また物騒になってきたせいか、{n}武器を買う人が一気に増えたみたいよ。",
-   "en": "",
+   "en": "Maybe because things are getting dangerous again, a{n}lot more people are buying weapons all of a sudden.",
    "term": "end"
   },
   {
    "id": "scen156.0159",
    "jp": "非常事態に備えて武器を買っていても、{n}闇が相手じゃ役に立ちそうもないわね[01BE]",
-   "en": "",
+   "en": "Buying weapons for an emergency won't help much{n}against darkness, will it[01BE]",
    "term": "end"
   },
   {
    "id": "scen156.0160",
    "jp": "とりあえずの危機は去ったみたいだけど、{n}この先また何があるか分からないし、{n}まだ安心は出来ないわよね。",
-   "en": "",
+   "en": "The immediate crisis seems to have passed, but who{n}knows what's coming next. We can't relax just yet.",
    "term": "end"
   },
   {
    "id": "scen156.0161",
    "jp": "やあ、こんにちは。{n}キミたちには期待してるよ。",
-   "en": "",
+   "en": "Why, hello. We're counting on you.",
    "term": "end"
   },
   {
    "id": "scen156.0162",
    "jp": "キミたちは負けないと、信じてるよ！",
-   "en": "",
+   "en": "I believe you won't lose!",
    "term": "end"
   },
   {
    "id": "scen156.0163",
    "jp": "ラシェルの保養施設で、事件があったんだって？{n}腰痛で、近々行く予定だったのになぁ‥‥。",
-   "en": "",
+   "en": "Something happened at the sanatorium in Rachelle? I{n}was planning to go soon for my back pain...",
    "term": "end"
   },
   {
    "id": "scen156.0164",
    "jp": "自分の身は、自分で守らないとな！{n}そう思って、さっそく自分も剣を買ってみたよ。{p}だけど腰痛がひどくて、剣が振れないんだ‥‥。{n}あいたたた‥‥[01BE]",
-   "en": "",
+   "en": "You've gotta protect yourself! So I went right out and{n}bought a sword.{p}But my back's so bad I can't swing it... Ow, ow, ow...[01BE]",
    "term": "end"
   },
   {
    "id": "scen156.0165",
    "jp": "ランザックの件は驚いたよ‥‥。{n}いくら他国の話といえども、恐ろしいね。",
-   "en": "",
+   "en": "That business in Ranzak was a shock... Even if it's{n}another country, it's frightening.",
    "term": "end"
   },
   {
    "id": "scen156.0166",
    "jp": "お兄ちゃん、一緒に遊ぼうよ～。{n}ぼく、もう１人遊び飽きちゃった‥‥。",
-   "en": "",
+   "en": "Hey, mister, come play with me! I'm tired of playing all{n}by myself...",
    "term": "end"
   },
   {
    "id": "scen156.0167",
    "jp": "あんまり外に出ちゃ駄目だって、ママが言うんだ。{n}外にいると怪物になっちゃうって、本当なの？",
-   "en": "",
+   "en": "Mama says I'm not allowed to go outside much. Is it{n}true you turn into a monster if you stay outside?",
    "term": "end"
   },
   {
@@ -1123,37 +1123,37 @@
   {
    "id": "scen156.0171",
    "jp": "何度でも俺は言うぞ～！{p}誰か、俺に魔法を教えてくれぇ～！{n}しかも親切で分かりやすくないと嫌だ～！",
-   "en": "",
+   "en": "I'll say it as many times as it takes!{p}Somebody teach me magic, pleeease! And it's gotta be{n}friendly and easy to understand!",
    "term": "end"
   },
   {
    "id": "scen156.0172",
    "jp": "ヤバイよ、闇に触れたら怪物になっちまう[01BE]{p}というわけで、そうならないように誰か、{n}俺に魔法を教えてくれぇ～！{n}しかも親切で分かりやすくないと嫌だ～！",
-   "en": "",
+   "en": "This is bad, if the darkness touches me I'll turn into{n}a monster[01BE]{p}So, to keep that from happening, somebody teach me{n}magic, pleeease! And it's gotta be friendly and easy{n}to understand!",
    "term": "end"
   },
   {
    "id": "scen156.0173",
    "jp": "いよいよ実技の試験が迫ってきたわ。{n}ついに私の実力が、思う存分に発揮できるのね。",
-   "en": "",
+   "en": "The practical exam is finally coming up. At last I can{n}show off what I'm really capable of.",
    "term": "end"
   },
   {
    "id": "scen156.0174",
    "jp": "実施されるはずだった実技の試験、{n}例の闇事件の影響で延期になったわ。{n}せっかく予習してたけど、仕方ないわね‥‥。",
-   "en": "",
+   "en": "The practical exam that was supposed to be held got{n}postponed because of that darkness incident. I'd{n}studied ahead and everything, but oh well...",
    "term": "end"
   },
   {
    "id": "scen156.0175",
    "jp": "闇は発見されて日が浅いから、{n}参考文献もまだ出回ってないの。{n}{FFFB}困ったわ‥‥。",
-   "en": "",
+   "en": "The darkness was only discovered recently, so there{n}aren't any reference books on it out yet. {FFFB}What{n}a bother...",
    "term": "end"
   },
   {
    "id": "scen156.0176",
    "jp": "私、実技の試験が済んだら{n}闇について研究してみようと思うの。{n}そのためにも、日々精進が必要よね。",
-   "en": "",
+   "en": "Once my practical exam is over, I think I'll try{n}researching the darkness. That's why I need to keep{n}working hard every day.",
    "term": "end"
   },
   {
@@ -1215,49 +1215,49 @@
   {
    "id": "scen156.0185",
    "jp": "マスターをどこへ連れて行く気よ！",
-   "en": "",
+   "en": "Where do you think you're taking Master?!",
    "term": "end"
   },
   {
    "id": "scen156.0186",
    "jp": "岬へ行かれるのですか？{n}道中、お気をつけください。",
-   "en": "",
+   "en": "Are you heading to the cape? Please take care on{n}the way.",
    "term": "end"
   },
   {
    "id": "scen156.0187",
    "jp": "{v:0002}まずは国王に報告します。{n}このまま謁見の間へ向かいましょう。",
-   "en": "",
+   "en": "{v:0002}First, we report to the King. Let us head straight to{n}the audience chamber.",
    "term": "end"
   },
   {
    "id": "scen156.0188",
    "jp": "今のところ、異常はないようです。",
-   "en": "",
+   "en": "Everything seems to be normal for now.",
    "term": "end"
   },
   {
    "id": "scen156.0189",
    "jp": "闇落とし事件により、ただいま特別警戒中です。{n}いつ、なにが起こるか分かりませんので。",
-   "en": "",
+   "en": "Due to the Darkfall incidents, we are currently on{n}special alert. There's no telling when or what{n}might happen.",
    "term": "end"
   },
   {
    "id": "scen156.0190",
    "jp": "頑張って下さい！",
-   "en": "",
+   "en": "Keep up the good work!",
    "term": "end"
   },
   {
    "id": "scen156.0191",
    "jp": "緊急事態です！{n}闇が、ついにローザリアを覆い始めました[01BE]",
-   "en": "",
+   "en": "It's an emergency! The darkness has finally begun to{n}cover Rosaria[01BE]",
    "term": "end"
   },
   {
    "id": "scen156.0192",
    "jp": "皆さんのこと、応援しています。{n}頑張ってください！",
-   "en": "",
+   "en": "We're all rooting for you. Do your best!",
    "term": "end"
   },
   {
@@ -1277,31 +1277,31 @@
   {
    "id": "scen156.0195",
    "jp": "おつかれさまであります！",
-   "en": "",
+   "en": "Thank you for your hard work, sir!",
    "term": "end"
   },
   {
    "id": "scen156.0196",
    "jp": "闇の被害が各地で報告されていますが、{n}正直、どうやって闇に対抗すればいいのか‥‥。",
-   "en": "",
+   "en": "Damage from the darkness is being reported all over,{n}but honestly, how are we supposed to fight it...?",
    "term": "end"
   },
   {
    "id": "scen156.0197",
    "jp": "ラシェルでの一件は、{n}ローランディア王国にもすぐ情報が入ってきましたよ。{p}恐ろしい事件ですね、本当に‥‥。",
-   "en": "",
+   "en": "News of the incident in Rachelle reached the Kingdom{n}of Rolandia right away.{p}What a terrible incident, truly...",
    "term": "end"
   },
   {
    "id": "scen156.0198",
    "jp": "これが闇落としというやつですか！？{n}ど、どのように対処すればいいのでしょう[01BE]",
-   "en": "",
+   "en": "So this is the Darkfall?! H-how are we supposed to{n}deal with it[01BE]",
    "term": "end"
   },
   {
    "id": "scen156.0199",
    "jp": "もし、闇が大陸中に落ちたら‥‥。{p}考えただけでもゾッとしてしまいますが、{n}我々は皆さんのことを信じています！",
-   "en": "",
+   "en": "If the darkness were to fall across the{n}whole continent...{p}Just thinking about it sends a shiver down my spine,{n}but we believe in you all!",
    "term": "end"
   },
   {
@@ -1314,121 +1314,121 @@
   {
    "id": "scen156.0201",
    "jp": "‥‥{v:001D}逃げられたか‥‥。{p}{v:001E}とりあえず、ヴェンツェルは捕らえたんだ。{n}一度サンドラ様のところに戻ろうぜ。",
-   "en": "",
+   "en": "...{v:001D}He got away...{p}{v:001E}Well, at least we caught Wenzel. Let's head back to{n}Sandra-sama for now.",
    "term": "end"
   },
   {
    "id": "scen156.0202",
    "jp": "‥‥{v:0003}く、くそ‥‥{n}この程度の距離しか移動できぬとは。",
-   "en": "",
+   "en": "...{v:0003}D-damn it... To think I can only move this short{n}a distance.",
    "term": "end"
   },
   {
    "id": "scen156.0203",
    "jp": "{v:0004}衰えたものだな、ヴェンツェル。{n}かつての王が、なんと情けない‥‥。",
-   "en": "",
+   "en": "{v:0004}How you have declined, Wenzel. To think a former king{n}could be so pathetic...",
    "term": "end"
   },
   {
    "id": "scen156.0204",
    "jp": "{v:0005}むぅぅ‥‥。",
-   "en": "",
+   "en": "{v:0005}Mmmgh...",
    "term": "end"
   },
   {
    "id": "scen156.0205",
    "jp": "{v:0006}そして他人のグローシュをつかって、{n}またかつての力を取り戻す気だったとはね‥‥。{n}本当にどうしようもない奴だ‥‥。",
-   "en": "",
+   "en": "{v:0006}And you meant to use other people's Grosh to regain{n}your former power... You really are beyond help...",
    "term": "end"
   },
   {
    "id": "scen156.0206",
    "jp": "{v:0007}お前のせいで、私の両親は‥‥許せない‥‥。{n}ここで死になさい。",
-   "en": "",
+   "en": "{v:0007}Because of you, my parents... I will never forgive you...{n}Die here.",
    "term": "end"
   },
   {
    "id": "scen156.0207",
    "jp": "‥‥{v:0008}うぅ‥‥。",
-   "en": "",
+   "en": "...{v:0008}Ugh...",
    "term": "end"
   },
   {
    "id": "scen156.0208",
    "jp": "{v:0009}えっ、あの人たちは‥‥。{n}ジャスティンさんに、アメリアさん！？",
-   "en": "",
+   "en": "{v:0009}Huh? Those people... Justin-san and Amelia-san?!",
    "term": "end"
   },
   {
    "id": "scen156.0209",
    "jp": "{v:000A}はっ‥‥！？",
-   "en": "",
+   "en": "{v:000A}Ah...?!",
    "term": "end"
   },
   {
    "id": "scen156.0210",
    "jp": "{v:000B}アメリア。{n}お前はグローシュを持って先に行け。",
-   "en": "",
+   "en": "{v:000B}Amelia. Take the Grosh and go on ahead.",
    "term": "end"
   },
   {
    "id": "scen156.0211",
    "jp": "{v:000C}わ、わかったわ、ジャスティン。{n}だけど、あなたたちは‥‥。",
-   "en": "",
+   "en": "{v:000C}O-okay, Justin. But what about you...?",
    "term": "end"
   },
   {
    "id": "scen156.0212",
    "jp": "{v:000D}オレたちは計画通り、{n}ヴェンツェルを殺してから脱出する。",
-   "en": "",
+   "en": "{v:000D}We'll stick to the plan. We kill Wenzel, then get out.",
    "term": "end"
   },
   {
    "id": "scen156.0213",
    "jp": "{v:000E}おい、いまヴェンツェルを殺されたら、{n}ルイセを治す方法が聞き出せねぇぞ！",
-   "en": "",
+   "en": "{v:000E}Hey, if you kill Wenzel now, we can't get him to tell us{n}how to cure Luise!",
    "term": "end"
   },
   {
    "id": "scen156.0214",
    "jp": "{v:000F}そ、それは困るよ！{n}ほら、何とかして！",
-   "en": "",
+   "en": "{v:000F}Th-that'd be bad! C'mon, do something!",
    "term": "end"
   },
   {
    "id": "scen156.0215",
    "jp": "いったい、どこに行ったの！？",
-   "en": "",
+   "en": "Where on earth did he go?!",
    "term": "end"
   },
   {
    "id": "scen156.0216",
    "jp": "おい、白い服を着た老人が{n}ここを通らなかったか？",
-   "en": "",
+   "en": "Hey, did an old man in white clothes come{n}through here?",
    "term": "end"
   },
   {
    "id": "scen156.0217",
    "jp": "は、はい。{n}その方なら、東門の方へ{n}走って行きましたが‥‥？",
-   "en": "",
+   "en": "Y-yes. He ran off toward the East Gate...?",
    "term": "end"
   },
   {
    "id": "scen156.0218",
    "jp": "それだわ！",
-   "en": "",
+   "en": "That's him!",
    "term": "end"
   },
   {
    "id": "scen156.0219",
    "jp": "東の広場だって！{n}みんな、急いで向かいましょ！",
-   "en": "",
+   "en": "The east plaza, he says! Everyone, let's hurry{n}over there!",
    "term": "end"
   },
   {
    "id": "scen156.0220",
    "jp": "白い服を着た老人でしたら、{n}東の広場の方へ走って行きましたよ。",
-   "en": "",
+   "en": "If you mean an old man in white clothes, he ran off{n}toward the east plaza.",
    "term": "end"
   },
   {
@@ -1441,25 +1441,25 @@
   {
    "id": "scen156.0222",
    "jp": "さっき、凄い形相で走ってくおじいさんを{n}見たんだけど‥‥なんだろアレ？{n}俺の幻覚かな？",
-   "en": "",
+   "en": "Just now I saw an old man run past with a terrifying{n}look on his face... What was that? Was I seeing things?",
    "term": "end"
   },
   {
    "id": "scen156.0223",
    "jp": "今はそれどころじゃないでしょ！{n}急いでヴェンツェルを追わなくちゃ！",
-   "en": "",
+   "en": "This is no time for that! We've gotta hurry{n}after Wenzel!",
    "term": "end"
   },
   {
    "id": "scen156.0224",
    "jp": "東門で、何かあったのかしら？{n}騒ぎ声が聞こえるのよ[01BE]",
-   "en": "",
+   "en": "Did something happen at the East Gate? I can hear{n}a commotion[01BE]",
    "term": "end"
   },
   {
    "id": "scen156.0225",
    "jp": "ちょっと、どこへ行こうとしてんのよ！？{n}こっちは西門でしょーが！",
-   "en": "",
+   "en": "Hey, where do you think you're going?! This is the{n}WEST Gate!",
    "term": "end"
   },
   {

@@ -380,7 +380,7 @@
   {
    "id": "scen120.0052",
    "jp": "　{n}　　　　　　　{FFEF}装置は稼動している！{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　　{FFEF}The device is running!{FFF1}",
    "term": "end"
   },
   {
@@ -1056,7 +1056,7 @@
   {
    "id": "scen120.0147",
    "jp": "{v:000A}で、でも、そんな装置、{n}ここに来るまでなかったよ！？",
-   "en": "",
+   "en": "{v:000A}B-but we didn't see any device like that on the{n}way here?!",
    "term": "end"
   },
   {
@@ -1132,7 +1132,7 @@
   {
    "id": "scen120.0158",
    "jp": "{v:0019}承知した。{n}最後まで諦めず、なすべき事をなすまでだな！",
-   "en": "",
+   "en": "{v:0019}Understood. We must see our duty through to the end,{n}without giving up!",
    "term": "end"
   },
   {

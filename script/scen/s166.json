@@ -57,61 +57,61 @@
   {
    "id": "scen166.0007",
    "jp": "すみません、父のことが心配なので、{n}しばらく保養所にいるつもりです‥‥。",
-   "en": "",
+   "en": "I'm sorry. I'm worried about my father, so I plan to{n}stay at the sanatorium for a while...",
    "term": "end"
   },
   {
    "id": "scen166.0008",
    "jp": "やっと父と再会できたと思ったのに、{n}こんな別れをしなければならないなんて‥‥。{n}{FFFB}まだ、これを現実として受け入れられません。",
-   "en": "",
+   "en": "I'd finally found my father again, and now we have to{n}part like this... {FFFB}I still can't accept that it's real.",
    "term": "end"
   },
   {
    "id": "scen166.0009",
    "jp": "{s:0007}さん‥‥。",
-   "en": "",
+   "en": "{s:0007}...",
    "term": "end"
   },
   {
    "id": "scen166.0010",
    "jp": "ようやく隊長と再会できたと思ったのに、{n}俺は隊長を守りきれなかった。{n}‥‥本当にすまない。",
-   "en": "",
+   "en": "I'd finally found the Captain again, and I couldn't{n}protect him. ...I'm truly sorry.",
    "term": "end"
   },
   {
    "id": "scen166.0011",
    "jp": "そんな‥‥、{s:0002}さんに責任はありません。{n}{FFFB}今はただ、悲しみで胸がいっぱいで‥‥。{n}ごめんなさい‥‥。",
-   "en": "",
+   "en": "No... It's not your fault, {s:0002}. {FFFB}Right now{n}my heart is just so full of grief... I'm sorry...",
    "term": "end"
   },
   {
    "id": "scen166.0012",
    "jp": "今はただ、悲しみで胸がいっぱいで‥‥。{n}ごめんなさい‥‥。",
-   "en": "",
+   "en": "Right now my heart is just so full of grief... I'm sorry...",
    "term": "end"
   },
   {
    "id": "scen166.0013",
    "jp": "各地で、闇の被害が出てるようですね‥‥。{p}闇から逃げる為にパ{s:011B}になった人たちが、{n}大ケガをしてここに運ばれることが{n}最近は多いんです。{p}私はここに残って、１人でも多くの人を{n}救えるように努めようと思います。",
-   "en": "",
+   "en": "The darkness seems to be causing harm everywhere...{p}Lately, lots of people who fled the darkness in a panic{n}have been brought here badly injured.{p}I intend to stay here and do all I can to save as many{n}people as possible.",
    "term": "end"
   },
   {
    "id": "scen166.0014",
    "jp": "私はここに残って、１人でも多くの人を{n}救えるように努めようと思います。",
-   "en": "",
+   "en": "I intend to stay here and do all I can to save as many{n}people as possible.",
    "term": "end"
   },
   {
    "id": "scen166.0015",
    "jp": "ラシェルを闇から守ることが出来て、{n}本当によかったです。{p}{FC03}けど、まだ全てが片付いたわけではないんですよね。{n}早く安心して暮らせる世界に戻ってほしいです。",
-   "en": "",
+   "en": "I'm so glad we were able to protect Rachelle from{n}the darkness.{p}{FC03}But it isn't all settled yet, is it? I hope the world soon{n}becomes a place where people can live in peace again.",
    "term": "end"
   },
   {
    "id": "scen166.0016",
    "jp": "ここ以外にも、いつ近隣の村や町が{n}襲われるか分からない‥‥。{p}親父の死を無駄にしない為にも、{n}俺は俺なりのやり方で皆を守ってみせる！",
-   "en": "",
+   "en": "Nearby villages and towns, not just this one, could be{n}attacked at any time...{p}So my old man's death won't be for nothing, I'll protect{n}everyone my own way!",
    "term": "end"
   },
   {
@@ -124,7 +124,7 @@
   {
    "id": "scen166.0018",
    "jp": "保養所を襲ったあの男は、以前ここに{n}フェザリアンの子を連れてきた人だね。{p}好青年だと思っていたのに、{n}こんなことになって残念だよ。",
-   "en": "",
+   "en": "The man who attacked the sanatorium was the one{n}who brought that Featherian child here before,{n}wasn't he?{p}I thought he was a fine young man. It's a shame things{n}turned out like this.",
    "term": "end"
   },
   {
@@ -137,13 +137,13 @@
   {
    "id": "scen166.0020",
    "jp": "{s:003C}さんのためにも、休んでるわけにはいきません。",
-   "en": "",
+   "en": "I can't afford to rest, for the sake of every {s:003C}{n}here.",
    "term": "end"
   },
   {
    "id": "scen166.0021",
    "jp": "え？{n}{s:0018}さんが元気になっただって？{n}そうか‥‥良かったね。{p}{s:0018}さんには、{n}ここに来てからお世話になりっぱなしだったからね。{p}彼女には‥‥、{n}ミラの分まで、幸せになって貰いたいからね。",
-   "en": "",
+   "en": "What? {s:0018} has recovered? I see...{n}That's wonderful.{p}{s:0018} has done so much for me ever{n}since I came here.{p}I want her to find happiness... for Mira's sake, too.",
    "term": "end"
   },
   {
@@ -170,25 +170,25 @@
   {
    "id": "scen166.0025",
    "jp": "そうか、あの{s:003C}さんは{s:0007}さんの{s:002B}だったのか。{n}かなりの重傷らしく、面会も出来んのじゃ‥‥。",
-   "en": "",
+   "en": "So that {s:003C} was {s:0007}'s{n}{s:002B}, eh? His wounds are so serious,{n}they won't even let him have visitors...",
    "term": "end"
   },
   {
    "id": "scen166.0026",
    "jp": "あの{s:003C}さん、自らの危険をかえりみずに{n}保養所のみんなを誘導してくれたんじゃよ。{n}本当に立派な人じゃった‥‥。",
-   "en": "",
+   "en": "That {s:003C} led everyone at the{n}sanatorium to safety with no thought for his own life,{n}you know. A truly fine man, he was...",
    "term": "end"
   },
   {
    "id": "scen166.0027",
    "jp": "あの、記憶を無くした{s:003C}さんが{n}薪を割っているところを見たんじゃが‥‥。{p}それはもう、見事な手つきじゃった。",
-   "en": "",
+   "en": "I saw that {s:003C} who lost his memory{n}chopping firewood...{p}Quite a skilled hand he had, too.",
    "term": "end"
   },
   {
    "id": "scen166.0028",
    "jp": "怖かったわ‥‥[01BE]{n}けど、弱音を吐いてる暇なんてないわね。",
-   "en": "",
+   "en": "That was so scary...[01BE] But there's no time for whining,{n}is there?",
    "term": "end"
   },
   {
@@ -215,7 +215,7 @@
   {
    "id": "scen166.0032",
    "jp": "あの記憶喪失の{s:003C}さん、{n}{s:0007}さんのお父さんだったんだって！",
-   "en": "",
+   "en": "They say that {s:003C} with amnesia was{n}{s:0007}'s father!",
    "term": "end"
   },
   {
@@ -228,13 +228,13 @@
   {
    "id": "scen166.0034",
    "jp": "{s:0007}さんのお父さん、{n}保養所の人たちをかばって‥‥‥。",
-   "en": "",
+   "en": "{s:0007}'s father shielded the people of the{n}sanatorium and...",
    "term": "end"
   },
   {
    "id": "scen166.0035",
    "jp": "本当に立派な方だったわね‥‥。{n}このご恩は、絶対に忘れないようにしないと。",
-   "en": "",
+   "en": "He was truly a fine man, wasn't he... We must never{n}forget what we owe him.",
    "term": "end"
   },
   {
@@ -282,7 +282,7 @@
   {
    "id": "scen166.0042",
    "jp": "ここにある薬品は、{n}西にある{s:015B}村で採れた薬草から{n}調合しているんですよ。",
-   "en": "",
+   "en": "The medicines here are made from herbs gathered in {s:015B}{n}Village, to the west.",
    "term": "end"
   },
   {
@@ -309,7 +309,7 @@
   {
    "id": "scen166.0046",
    "jp": "つらい事件でしたけど、{n}それは顔に出さないよう努めているんです。{n}{FFFB}{s:003C}さんまで落ち込んじゃいますからね。",
-   "en": "",
+   "en": "It was a painful incident, but I try not to let it show on{n}my face. {FFFB}Otherwise it would bring down the spirits of{n}every {s:003C} here, too.",
    "term": "end"
   },
   {
@@ -322,7 +322,7 @@
   {
    "id": "scen166.0048",
    "jp": "大変な仕事だけど、{n}{s:003C}さんが快復していくのを見ると嬉しくなるわ。",
-   "en": "",
+   "en": "It's hard work, but seeing each {s:003C}{n}recover makes me happy.",
    "term": "end"
   },
   {
@@ -335,7 +335,7 @@
   {
    "id": "scen166.0050",
    "jp": "もし、あの人が闇に襲われてたら‥‥。{n}早く帰ってきて、安心させてほしいわ。",
-   "en": "",
+   "en": "What if he was attacked by the darkness... I wish he'd{n}hurry home and put my mind at ease.",
    "term": "end"
   }
  ]

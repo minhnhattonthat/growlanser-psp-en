@@ -274,7 +274,7 @@
   {
    "id": "scen094.0038",
    "jp": "{v:002E}えぇっ？{n}アタシってスパイさんにみえるの？{p}{FC03}{v:002F}ねぇ、ルイセちゃん、アタシってスパイさん？{n}そんな‥‥。",
-   "en": "",
+   "en": "{v:002E}Whaaat? Do I look like a spy?{p}{FC03}{v:002F}Hey, Luise-chan, am I a spy? Oh, no...",
    "term": "end"
   },
   {
@@ -287,7 +287,7 @@
   {
    "id": "scen094.0040",
    "jp": "{v:0031}お兄ちゃん、わたしって、そんなに怪しく見えるの？{n}スパイさんに見えるのかなぁ？",
-   "en": "",
+   "en": "{v:0031}Big Brother, do I really look that suspicious? Do I look{n}like a spy?",
    "term": "end"
   },
   {

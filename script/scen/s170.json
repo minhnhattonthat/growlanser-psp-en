@@ -64,19 +64,19 @@
   {
    "id": "scen170.0008",
    "jp": "おい、この先は危ないぞ！{n}今、街を濃い闇が覆っているんだ！",
-   "en": "",
+   "en": "Hey, it's dangerous up ahead! Thick darkness is covering{n}the town right now!",
    "term": "end"
   },
   {
    "id": "scen170.0009",
    "jp": "君たちがガラシールズを救ってくれたんだね、{n}どうもありがとう。",
-   "en": "",
+   "en": "So you're the ones who saved Galashiels. Thank you{n}so much.",
    "term": "end"
   },
   {
    "id": "scen170.0010",
    "jp": "ああ、お前たちか。{n}こんな時に、ガラシールズになにか用か？",
-   "en": "",
+   "en": "Oh, it's you lot. What business do you have in Galashiels{n}at a time like this?",
    "term": "end"
   },
   {
@@ -89,19 +89,19 @@
   {
    "id": "scen170.0012",
    "jp": "くそっ、また事件か‥‥。",
-   "en": "",
+   "en": "Damn, another incident...",
    "term": "end"
   },
   {
    "id": "scen170.0013",
    "jp": "おかげ様で難は逃れたようだけど、{n}これも一時的なものだろうな‥‥。",
-   "en": "",
+   "en": "Thanks to you, it seems we escaped disaster, but this{n}is probably only temporary...",
    "term": "end"
   },
   {
    "id": "scen170.0014",
    "jp": "この先はガラシールズだ。{n}ランザック城の崩壊で、今はごたついてるがな‥‥。",
-   "en": "",
+   "en": "Galashiels is up ahead. Things are a mess there right{n}now, what with Ranzak Castle collapsing...",
    "term": "end"
   },
   {
@@ -114,19 +114,19 @@
   {
    "id": "scen170.0016",
    "jp": "今度は闇落としか！？{n}どうやって対処しろって言うんだよ！",
-   "en": "",
+   "en": "The Darkfall this time?! How are we supposed to deal{n}with that?!",
    "term": "end"
   },
   {
    "id": "scen170.0017",
    "jp": "ありがとう、君たちは{n}ガラシールズを救ってくれた恩人だ！",
-   "en": "",
+   "en": "Thank you. You're the ones who saved Galashiels!",
    "term": "end"
   },
   {
    "id": "scen170.0018",
    "jp": "まさかランザック王やウェーバー将軍が、{n}城の崩壊に巻き込まれるなんて‥‥。",
-   "en": "",
+   "en": "I can't believe King Ranzak and General Weber got{n}caught in the castle's collapse...",
    "term": "end"
   },
   {
@@ -139,121 +139,121 @@
   {
    "id": "scen170.0020",
    "jp": "そ、そんなぁ‥‥。",
-   "en": "",
+   "en": "N-no way...",
    "term": "end"
   },
   {
    "id": "scen170.0021",
    "jp": "時空制御塔は、{n}ガラシールズを回って北上したんだわ。{n}残念だけど、ここは間に合わなかったわね‥‥。",
-   "en": "",
+   "en": "The Space-Time Control Tower must have passed by{n}Galashiels and headed north. I'm sorry, but we didn't{n}make it in time here...",
    "term": "end"
   },
   {
    "id": "scen170.0022",
    "jp": "くそっ、判断を誤ったか！{p}情報が足りない。{n}一度、魔法学院に戻って状況を確認しようぜ！",
-   "en": "",
+   "en": "Damn, did I misjudge it?!{p}We don't have enough information. Let's head back to{n}the Magic Academy once and check on the situation!",
    "term": "end"
   },
   {
    "id": "scen170.0023",
    "jp": "‥‥人がいない‥‥。{n}{FFFB}アタシたち、{n}ガラシールズを救ってあげられなかったんだね。",
-   "en": "",
+   "en": "...There's nobody here... {FFFB}We couldn't save Galashiels,{n}could we?",
    "term": "end"
   },
   {
    "id": "scen170.0024",
    "jp": "急いで携帯集魔柱を立てよう、お兄ちゃん！",
-   "en": "",
+   "en": "Let's hurry and set up the Portable Mana Pillar,{n}Big Brother!",
    "term": "end"
   },
   {
    "id": "scen170.0025",
    "jp": "この辺りなら良さそうよ。",
-   "en": "",
+   "en": "This spot looks good.",
    "term": "end"
   },
   {
    "id": "scen170.0026",
    "jp": "うーん‥‥。{n}ここは、立てるのに向いてないわね。",
-   "en": "",
+   "en": "Hmm... This isn't a good spot to set it up.",
    "term": "end"
   },
   {
    "id": "scen170.0027",
    "jp": "ねぇ、この辺りとかいいんじゃない？",
-   "en": "",
+   "en": "Hey, how about somewhere around here?",
    "term": "end"
   },
   {
    "id": "scen170.0028",
    "jp": "そうね、そこなら問題ないわ。",
-   "en": "",
+   "en": "Yes, that spot should be no problem.",
    "term": "end"
   },
   {
    "id": "scen170.0029",
    "jp": "　{n}　　　　　　携帯集魔柱を設置した！",
-   "en": "",
+   "en": "　{n}　　　　　　Set up a Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen170.0030",
    "jp": "すぐに闇が落ちてくるぞ！{n}全員、急いでこの場から離れろ！",
-   "en": "",
+   "en": "The darkness is about to fall! Everyone, get away from{n}here, quick!",
    "term": "end"
   },
   {
    "id": "scen170.0031",
    "jp": "やった、やった！{n}闇が晴れていくよ！",
-   "en": "",
+   "en": "Yay, yay! The darkness is clearing!",
    "term": "end"
   },
   {
    "id": "scen170.0032",
    "jp": "{FFF6}ふぅ‥‥、成功したわね。{p}{FFF7}{FC02}けど、休んでる暇はないわ。{n}すぐ次のポイントへ移動しましょう！",
-   "en": "",
+   "en": "{FFF6}Phew... It worked.{p}{FFF7}{FC02}But there's no time to rest. Let's move on to the next{n}point right away!",
    "term": "end"
   },
   {
    "id": "scen170.0033",
    "jp": "間に合ったようだな。",
-   "en": "",
+   "en": "Looks like we made it in time.",
    "term": "end"
   },
   {
    "id": "scen170.0034",
    "jp": "人の気配がしない‥‥。{n}ここから先は、もう誰もいないようだ。",
-   "en": "",
+   "en": "There's no sign of anyone... It seems no one is left{n}beyond this point.",
    "term": "end"
   },
   {
    "id": "scen170.0035",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
    "id": "scen170.0036",
    "jp": "ど、ど、どうすれば‥‥！",
-   "en": "",
+   "en": "Wh-wh-what do I do...!",
    "term": "end"
   },
   {
    "id": "scen170.0037",
    "jp": "今でも震えが止まらないよ‥‥。",
-   "en": "",
+   "en": "I still can't stop shaking...",
    "term": "end"
   },
   {
    "id": "scen170.0038",
    "jp": "城が突然崩壊した件で、{n}ランザック王国内は騒然としてる状態だ。{n}もちろん、ここガラシールズも同じだよ。",
-   "en": "",
+   "en": "The whole Kingdom of Ranzak is in an uproar over the{n}castle's sudden collapse. And of course, it's the same{n}here in Galashiels.",
    "term": "end"
   },
   {
    "id": "scen170.0039",
    "jp": "少しずつだが、ランザック王国にも{n}活気が戻りつつあるようだ。",
-   "en": "",
+   "en": "Little by little, it seems life is returning to the Kingdom{n}of Ranzak too.",
    "term": "end"
   },
   {
@@ -266,25 +266,25 @@
   {
    "id": "scen170.0041",
    "jp": "平和に暮らしたいだけなのに、{n}勘弁してくれよぉ～[01BE]",
-   "en": "",
+   "en": "All I want is to live in peace. Gimme a breeeak[01BE]",
    "term": "end"
   },
   {
    "id": "scen170.0042",
    "jp": "キミたちのおかげで助かったんだね‥‥。{n}感謝しても、しきれないよ。",
-   "en": "",
+   "en": "So we were saved thanks to you guys... I can't thank{n}you enough.",
    "term": "end"
   },
   {
    "id": "scen170.0043",
    "jp": "大変だろうけど、頑張ってくれよ。{n}‥‥俺たちも頑張ってるからさ。",
-   "en": "",
+   "en": "I know it's tough, but hang in there. ...We're doing our{n}best too, y'know.",
    "term": "end"
   },
   {
    "id": "scen170.0044",
    "jp": "こんな状況じゃ、のんびり休んでも{n}いられなくなったなぁ‥‥。",
-   "en": "",
+   "en": "With things like this, I can't exactly sit back and{n}relax anymore...",
    "term": "end"
   },
   {
@@ -353,13 +353,13 @@
   {
    "id": "scen170.0054",
    "jp": "ランザック王都の人たちが、{n}国の復興に乗り出そうと頑張ってるようなの。{n}私も、前向きな気持ちになってきたわ。",
-   "en": "",
+   "en": "The people of the royal capital of Ranzak are working{n}hard to rebuild the country. It's made me start feeling{n}positive too.",
    "term": "end"
   },
   {
    "id": "scen170.0055",
    "jp": "あんな形で国王様が亡くなるなんて‥‥。{n}{FFFB}これからどうすればいいのか、{n}ランザック国民として不安で仕方ないわ。",
-   "en": "",
+   "en": "To think His Majesty would die like that... {FFFB}As a citizen of{n}Ranzak, I can't help worrying about what we'll do now.",
    "term": "end"
   },
   {
@@ -527,25 +527,25 @@
   {
    "id": "scen170.0078",
    "jp": "ついに、この時が来たか‥‥。",
-   "en": "",
+   "en": "So the time has finally come...",
    "term": "end"
   },
   {
    "id": "scen170.0079",
    "jp": "覚悟を決めてたが、{n}お前さんたちのおかげで{n}助かったようだな。",
-   "en": "",
+   "en": "I'd made my peace with it, but it seems you folks have{n}saved us.",
    "term": "end"
   },
   {
    "id": "scen170.0080",
    "jp": "こういう時こそ、{n}国民が一丸とならなきゃいかんな。",
-   "en": "",
+   "en": "It's times like these that the people have to pull{n}together as one.",
    "term": "end"
   },
   {
    "id": "scen170.0081",
    "jp": "もし、ガラシールズにも{n}突然ゲヴェルが現れたら‥‥。{n}{FFFB}うう‥‥恐ろしいな‥‥。",
-   "en": "",
+   "en": "What if Gevels suddenly showed up in Galashiels too...{n}{FFFB}Ugh... That's a frightening thought...",
    "term": "end"
   },
   {
@@ -558,31 +558,31 @@
   {
    "id": "scen170.0083",
    "jp": "人の気配がしない‥‥。{n}ここには、もう誰もいないようだ。",
-   "en": "",
+   "en": "There's no sign of anyone... It seems no one is left{n}here anymore.",
    "term": "end"
   },
   {
    "id": "scen170.0084",
    "jp": "このまま、みんな死んじゃうのか！？",
-   "en": "",
+   "en": "Are we all just gonna die like this?!",
    "term": "end"
   },
   {
    "id": "scen170.0085",
    "jp": "君たちって凄いんだね、憧れちゃうよ！",
-   "en": "",
+   "en": "You guys are amazing! I really look up to you!",
    "term": "end"
   },
   {
    "id": "scen170.0086",
    "jp": "まだ全ての問題が解決したわけじゃないけど、{n}ちょっとずつ前に進んでいこうって{n}みんな頑張ってるよ。",
-   "en": "",
+   "en": "Not every problem's been solved yet, but everyone's{n}working hard to move forward a little at a time.",
    "term": "end"
   },
   {
    "id": "scen170.0087",
    "jp": "はぁ‥‥。{n}これからこの国は、{n}どうなっちゃうんだろうな‥‥。",
-   "en": "",
+   "en": "*sigh*... What's going to become of this country now...?",
    "term": "end"
   },
   {
@@ -644,7 +644,7 @@
   {
    "id": "scen170.0096",
    "jp": "みんなパニックになっているが、{n}こういう時こそ落ち着かなければ‥‥。{n}{FFFB}‥‥あわわわわ、どうすればいいんだ[01BE]",
-   "en": "",
+   "en": "Everyone's panicking, but times like this are exactly{n}when we need to stay calm... {FFFB}...Ah-ah-ah-ah, what do{n}I do[01BE]",
    "term": "end"
   },
   {
@@ -706,7 +706,7 @@
   {
    "id": "scen170.0105",
    "jp": "テレポートを唱えてる間に、{n}闇が落ちてきちゃうよ。{n}今は、早く携帯集魔柱から離れよう？",
-   "en": "",
+   "en": "The darkness will fall on us while I'm casting Teleport.{n}For now, let's get away from the Portable Mana Pillar,{n}quick, okay?",
    "term": "end"
   }
  ]

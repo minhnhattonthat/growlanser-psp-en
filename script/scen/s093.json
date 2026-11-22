@@ -50,7 +50,7 @@
   {
    "id": "scen093.0006",
    "jp": "　　　　　　　　　{FFF0}熱烈歓迎{FFF1}{n}　　　　　　グランシル市　　観光協会",
-   "en": "",
+   "en": "　　　　　　　　　{FFF0}A Warm Welcome!{FFF1}{n}Grancil City Tourism Association",
    "term": "end"
   },
   {
@@ -857,7 +857,7 @@
   {
    "id": "scen093.0120",
    "jp": "{FFF5}{v:0020}お願い‥生きて‥お兄ちゃん‥‥。{FFF9}{FFFB}{n}{v:0021}わたし、お兄ちゃんのためなら、何だって出来るよ。{FFF9}{FFFB}{n}{v:0022}だから‥‥。",
-   "en": "",
+   "en": "{FFF5}{v:0020}Please... live... Big Brother...{FFF9}{FFFB} {v:0021}I'd do anything for you, Big{n}Brother.{FFF9}{FFFB} {v:0022}So please...",
    "term": "end"
   },
   {
@@ -1973,7 +1973,7 @@
   {
    "id": "scen093.0275",
    "jp": "古い墓が並んでいる。{n}どうやら、同時期に建てられたものらしい。",
-   "en": "",
+   "en": "Old graves stand in a row. They seem to have been{n}built around the same time.",
    "term": "end"
   },
   {

@@ -35,6 +35,7 @@ DICT = re.compile(r"\{F4([0-9A-F]{2})\}")  # dictionary words: shown expanded to
 VARIABLE = r"\{s:[0-9A-F]{4}\}"  # a name the game draws: no suffix glued on
 GLYPH_VARS = {"{s:0127}", "{s:012A}"}  # 目 drawn from the names table (PS1 0127, PSP 012A), a kanji: English spells the word
 GLYPH_VARS |= {"{s:012E}", "{s:0047}"}  # PSP: 爪 ("Claw") in 爪か髪の毛, 教授 in 学院教授会 (faculty council)
+GLYPH_VARS |= {"{s:011B}"}  # "Nick" as the ニック of パニック (its only use, scen166.0013): English writes "panic"
 GLYPH_VARS |= {"[028B]", "[028C]", "[028D]", "[028E]"}  # ペンダント squeezed into 4 font cells: English spells "Pendant"
 GLYPH_VARS |= {"[0793]"}  # blank glyph in ＤＡＴＡ[0793]ＢＡＮＫ: its cell holds asm/vwf.asm now, English writes a space
 LF = "{lf}"  # a raw newline (boot.save) as translators see and write it; check_batch turns it back into "\n"

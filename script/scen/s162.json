@@ -22,7 +22,7 @@
   {
    "id": "scen162.0002",
    "jp": "アメリア",
-   "en": "",
+   "en": "Amelia",
    "term": "null"
   },
   {
@@ -77,220 +77,220 @@
   {
    "id": "scen162.0010",
    "jp": "{v:0000}ついたね！{n}で、どこに行くの？",
-   "en": "",
+   "en": "{v:0000}We're here! So, where to?",
    "term": "end"
   },
   {
    "id": "scen162.0011",
    "jp": "{v:002D}ふむ、魔法学院で協力者を探すのか。",
-   "en": "",
+   "en": "{v:002D}Hm, so we're looking for someone to help us at the{n}Magic Academy.",
    "term": "end"
   },
   {
    "id": "scen162.0012",
    "jp": "{v:002B}まずは学院長かな。{n}そうすれば、担当の人を教えてくれると思うよ。",
-   "en": "",
+   "en": "{v:002B}The Headmaster first, I suppose. Then he can tell us{n}who to talk to.",
    "term": "end"
   },
   {
    "id": "scen162.0013",
    "jp": "{v:002C}それじゃ、行きましょ！",
-   "en": "",
+   "en": "{v:002C}Then let's go!",
    "term": "end"
   },
   {
    "id": "scen162.0014",
    "jp": "ふぅ、無事に学院に戻ってこれたわい。",
-   "en": "",
+   "en": "Whew, made it back to the Academy safe and sound.",
    "term": "end"
   },
   {
    "id": "scen162.0015",
    "jp": "いやぁ、久しぶりに良い仕事が出来て{n}ワシも燃えてしまったのう。",
-   "en": "",
+   "en": "Ah, it's been a long while since I got to do such good{n}work. Got me all fired up, it did!",
    "term": "end"
   },
   {
    "id": "scen162.0016",
    "jp": "あの、ちょっといいでしょうか？",
-   "en": "",
+   "en": "Um, may I have a moment?",
    "term": "end"
   },
   {
    "id": "scen162.0017",
    "jp": "‥‥ん？　なんじゃね？",
-   "en": "",
+   "en": "...Hm? What is it, eh?",
    "term": "end"
   },
   {
    "id": "scen162.0018",
    "jp": "今回の各地の闇落としで、{n}時空の歪みは大きくなっているはずです。{p}自然と時空の狭間からデュンケルスは流入し、{n}いずれは今までとは比にならない量の{n}デュンケルスが入ってくるでしょう。",
-   "en": "",
+   "en": "With all the Darkfalls around the land this time, the{n}space-time distortion must have grown much larger.{p}Dunkels will flow in naturally from the rifts in{n}space-time, and sooner or later an amount of Dunkels{n}beyond anything we've seen will pour in.",
    "term": "end"
   },
   {
    "id": "scen162.0019",
    "jp": "うぬぬ‥‥、そいつはまずいな。{p}携帯集魔柱が容量オーバーを起こして、{n}デュンケルスが外部へ漏れ出してしまう。",
-   "en": "",
+   "en": "Grr... That's bad news.{p}The Portable Mana Pillars will overflow their capacity,{n}and the Dunkels will leak out.",
    "term": "end"
   },
   {
    "id": "scen162.0020",
    "jp": "それじゃ、もっとたくさん{n}携帯集魔柱を立てればいいんじゃない？",
-   "en": "",
+   "en": "Then why not just set up a lot more Portable{n}Mana Pillars?",
    "term": "end"
   },
   {
    "id": "scen162.0021",
    "jp": "{FFF6}それは現実的じゃないわ。{p}{FFF7}効率が悪いし、デュンケルスに対して{n}相殺するためのグローシュ量が追いつかないはず。",
-   "en": "",
+   "en": "{FFF6}That's not realistic.{p}{FFF7}It's inefficient, and the amount of Grosh needed to{n}cancel out the Dunkels couldn't keep up.",
    "term": "end"
   },
   {
    "id": "scen162.0022",
    "jp": "それじゃ、どうするっていうの～！？",
-   "en": "",
+   "en": "Then what are we supposed to dooo?!",
    "term": "end"
   },
   {
    "id": "scen162.0023",
    "jp": "大丈夫、既に打開策は考えてあるわ！{p}今度は地上に立っている集魔柱を使って、{n}そこにデュンケルスを集めるのよ！",
-   "en": "",
+   "en": "Don't worry, I've already thought of a way out!{p}This time, we'll use the mana collection pillars standing{n}on the ground and gather the Dunkels there!",
    "term": "end"
   },
   {
    "id": "scen162.0024",
    "jp": "ふむ、なるほど‥‥。{p}それは可能じゃが、{n}集めたデュンケルスはどうする？{n}地上の集魔柱にも容量の限界はあるぞい。",
-   "en": "",
+   "en": "Hmm, I see...{p}That can be done, but what'll you do with the Dunkels{n}you gather? The mana collection pillars on the ground{n}have their limits too, you know.",
    "term": "end"
   },
   {
    "id": "scen162.0025",
    "jp": "{FFF6}闇であるデュンケルスは、{n}光であるグローシュと相殺して消えるけど、{n}それ以外にも別の消し方があります。{p}{FFF7}それは、ゲヴェル細胞を使うこと。{n}ゲヴェル細胞はデュンケルスを吸収して、{n}エネルギーに変換する働きがあるの。",
-   "en": "",
+   "en": "{FFF6}Dunkels, being darkness, vanishes when it cancels out{n}against Grosh, which is light. But there's another way{n}to get rid of it.{p}{FFF7}That is, using Gevel cells. Gevel cells absorb Dunkels and{n}convert it into energy.",
    "term": "end"
   },
   {
    "id": "scen162.0026",
    "jp": "おい、まさか‥‥。",
-   "en": "",
+   "en": "Hey, you don't mean...",
    "term": "end"
   },
   {
    "id": "scen162.0027",
    "jp": "{FFF6}そう、ここに３つあるものを使って{n}処理すればいいのよ。",
-   "en": "",
+   "en": "{FFF6}That's right. We just have to process it with the three{n}we have right here.",
    "term": "end"
   },
   {
    "id": "scen162.0028",
    "jp": "・送魔線だ",
-   "en": "",
+   "en": "・The mana lines",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0029",
    "jp": "・自分たちの体だ",
-   "en": "",
+   "en": "・Our own bodies",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0030",
    "jp": "・何のことだか分からない",
-   "en": "",
+   "en": "・I have no idea what she means",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0031",
    "jp": "{FFF6}確かに送魔線も使うことになるけど、{n}デュンケルスの処理をするのは{n}もっと別のものよ。",
-   "en": "",
+   "en": "{FFF6}We will use the mana lines too, but what processes the{n}Dunkels is something else.",
    "term": "end"
   },
   {
    "id": "scen162.0032",
    "jp": "正解！{p}つまり、集めたデュンケルスは{n}ゲヴェル細胞が存在する私たち３人の{n}体の中に取り込んで、浄化すればいいのよ。",
-   "en": "",
+   "en": "Correct!{p}In other words, we take the gathered Dunkels into the{n}bodies of the three of us, who carry Gevel cells, and{n}purify it.",
    "term": "end"
   },
   {
    "id": "scen162.0033",
    "jp": "もう、もったいぶらないで教えてよ！",
-   "en": "",
+   "en": "Come on, quit stalling and just tell us!",
    "term": "end"
   },
   {
    "id": "scen162.0034",
    "jp": "つまり、集めたデュンケルスは{n}ゲヴェル細胞が存在する私たち３人の{n}体の中に取り込んで、浄化すればいいのよ。",
-   "en": "",
+   "en": "In other words, we take the gathered Dunkels into the{n}bodies of the three of us, who carry Gevel cells, and{n}purify it.",
    "term": "end"
   },
   {
    "id": "scen162.0035",
    "jp": "ちょ、ちょっとぉ～、{n}そんなことして大丈夫なの？",
-   "en": "",
+   "en": "H-hey, waaait! Is it really safe to do something{n}like that?",
    "term": "end"
   },
   {
    "id": "scen162.0036",
    "jp": "{FFF6}大丈夫よ、理論上は。",
-   "en": "",
+   "en": "{FFF6}It's safe. In theory.",
    "term": "end"
   },
   {
    "id": "scen162.0037",
    "jp": "{FB00}り、理論上って‥‥。",
-   "en": "",
+   "en": "{FB00}I-in theory...?",
    "term": "end"
   },
   {
    "id": "scen162.0038",
    "jp": "‥‥という訳ですので、送魔線を使って{n}集めたデュンケルスを我々の元に送るように{n}していただけますか。",
-   "en": "",
+   "en": "...And so, could you arrange for the gathered Dunkels to{n}be sent to us through the mana lines?",
    "term": "end"
   },
   {
    "id": "scen162.0039",
    "jp": "さすがはアメリアくん、{n}考えることが大胆じゃの！{p}では携帯集魔柱を更に改造して、{n}デュンケルスをどこでも{n}受け取れるようにしておこう！",
-   "en": "",
+   "en": "That's Amelia-kun for you, such bold thinking!{p}Then I'll modify the Portable Mana Pillars further so{n}they can receive Dunkels anywhere!",
    "term": "end"
   },
   {
    "id": "scen162.0040",
    "jp": "うわ～。おじちゃん、すごい！",
-   "en": "",
+   "en": "Wow! Mister, you're amazing!",
    "term": "end"
   },
   {
    "id": "scen162.0041",
    "jp": "ハッハッハッ、これくらい朝飯前じゃ！{n}ワシに任せておけ！",
-   "en": "",
+   "en": "Ha ha ha! That's child's play for me! Leave it to me!",
    "term": "end"
   },
   {
    "id": "scen162.0042",
    "jp": "今度こそ、これで大丈夫なんだな？",
-   "en": "",
+   "en": "This time, we're really in the clear, right?",
    "term": "end"
   },
   {
    "id": "scen162.0043",
    "jp": "あっ、そうだ！{n}もう１つだけいいかしら？",
-   "en": "",
+   "en": "Oh, that's right! May I ask just one more thing?",
    "term": "end"
   },
   {
    "id": "scen162.0044",
    "jp": "まだ何かあるの？",
-   "en": "",
+   "en": "There's more?",
    "term": "end"
   },
   {
    "id": "scen162.0045",
    "jp": "実は、確かめておきたいことがあるの。{n}{FFFB}私が作ったゲヴェル波動の指輪なんだけど、{n}性能に異常がないかチェックしておきたいのよ。{p}ここならちゃんとした設備が整ってるから、{n}ちょうどいいと思うの。",
-   "en": "",
+   "en": "There's actually something I want to make sure of. {FFFB}It's{n}the Gevel Wave Ring I made. I'd like to check that it's{n}working properly.{p}This place has proper facilities, so I think it's{n}just right.",
    "term": "end"
   },
   {
@@ -303,285 +303,285 @@
   {
    "id": "scen162.0047",
    "jp": "・チェックを受ける",
-   "en": "",
+   "en": "・Get checked",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0048",
    "jp": "・チェックは必要ない",
-   "en": "",
+   "en": "・No need for a check",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0049",
    "jp": "それじゃ、ブラッドレー学院長にお願いして{n}設備を使わせてもらいましょう。",
-   "en": "",
+   "en": "Then let's ask Headmaster Bradley if we can use{n}the facilities.",
    "term": "end"
   },
   {
    "id": "scen162.0050",
    "jp": "ええっ！？{n}でも、もしもの時を考えたら‥‥。",
-   "en": "",
+   "en": "What?! But if you think about what might happen...",
    "term": "end"
   },
   {
    "id": "scen162.0051",
    "jp": "コイツがそう言うなら、大丈夫じゃない？{n}それに、時間もあまりないしさ。",
-   "en": "",
+   "en": "If this guy says so, it's probably fine, right? Besides,{n}we don't have much time.",
    "term": "end"
   },
   {
    "id": "scen162.0052",
    "jp": "そう‥‥、分かったわ。{n}{FFFB}{FC02}でも身体になにか異常を感じたら、すぐに言ってね？",
-   "en": "",
+   "en": "I see... All right. {FFFB}{FC02}But if you feel anything strange in your{n}body, tell me right away, okay?",
    "term": "end"
   },
   {
    "id": "scen162.0053",
    "jp": "それにしてもジャスティンのやつ、{n}時空制御塔から攻撃してくるなんてムカつくなぁ！{p}おかげでこっちは、{n}あちこち走りまわされて大変だったわよ！",
-   "en": "",
+   "en": "Still, that Justin, attacking us from the Space-Time{n}Control Tower... It makes me so mad!{p}Thanks to him, we got run ragged all over the place!",
    "term": "end"
   },
   {
    "id": "scen162.0054",
    "jp": "あっ、ちょっと待って！",
-   "en": "",
+   "en": "Ah, hold on!",
    "term": "end"
   },
   {
    "id": "scen162.0055",
    "jp": "何、マスター？{n}{FFFB}‥うん‥{FE14}うん‥‥{FE14}えぇぇぇぇ！{p}うん、わかった！急ぎます！",
-   "en": "",
+   "en": "What is it, Master? {FFFB}...Uh-huh... {FE14}Uh-huh... {FE14}Whaaaaat?!{p}Okay, got it! We'll hurry!",
    "term": "end"
   },
   {
    "id": "scen162.0056",
    "jp": "どうしたの、ティピ？",
-   "en": "",
+   "en": "What's wrong, Tippi?",
    "term": "end"
   },
   {
    "id": "scen162.0057",
    "jp": "ローランディア国内にゲヴェルが出たって！{n}{FFFB}それも２体よ！",
-   "en": "",
+   "en": "She says Gevels have appeared in Rolandia! {FFFB}And there{n}are two of them!",
    "term": "end"
   },
   {
    "id": "scen162.0058",
    "jp": "なんですって！？",
-   "en": "",
+   "en": "What did you say?!",
    "term": "end"
   },
   {
    "id": "scen162.0059",
    "jp": "そんなもん、{n}いつ、どこから現れやがったんだ！",
-   "en": "",
+   "en": "When the hell did those things show up, and{n}from where?!",
    "term": "end"
   },
   {
    "id": "scen162.0060",
    "jp": "どうやら、ローランディア国内の山林で{n}大きな崖崩れがあったみたい。{n}{FFFB}たぶん、マスターはそこじゃないかって。{p}でね、アタシ達がフェザーランドに行ってる間に{n}ゲヴェルはグランシルに向かって移動してたみたい！",
-   "en": "",
+   "en": "Apparently there was a big landslide in the mountain{n}forests in Rolandia. {FFFB}Master thinks that's probably{n}where they came from.{p}And while we were off in Featherland, the Gevels were{n}heading toward Grancil!",
    "term": "end"
   },
   {
    "id": "scen162.0061",
    "jp": "時空制御塔が不自然に停滞していた理由が、{n}やっとわかったな‥‥。",
-   "en": "",
+   "en": "So that's why the Space-Time Control Tower was{n}hanging around so oddly...",
    "term": "end"
   },
   {
    "id": "scen162.0062",
    "jp": "時空制御塔が停滞していた理由は‥‥",
-   "en": "",
+   "en": "The reason the Space-Time Control Tower stayed{n}put was...",
    "term": "end"
   },
   {
    "id": "scen162.0063",
    "jp": "・封印されていたゲヴェルの復活",
-   "en": "",
+   "en": "・To revive the sealed Gevels",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0064",
    "jp": "・フェザーランドの闇落とし準備",
-   "en": "",
+   "en": "・To prepare a Darkfall on Featherland",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0065",
    "jp": "・ちょっと休憩",
-   "en": "",
+   "en": "・Take a short break",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0066",
    "jp": "ええ、そうでしょうね。{p}時空制御塔で大陸中を移動していたのも、{n}闇落とし以外に、封印されたゲヴェルの{n}在り処を探っていたんだと思うわ。",
-   "en": "",
+   "en": "Yes, that must be it.{p}I think he was moving the Space-Time Control Tower all{n}over the continent not just for the Darkfalls, but to{n}find where the sealed Gevels were.",
    "term": "end"
   },
   {
    "id": "scen162.0067",
    "jp": "{FFF6}それもあると思うけど‥‥。{p}{FFF7}時空制御塔で大陸中を移動していたのは、{n}封印されたゲヴェルの在り処を{n}探るためでもあったのよ。",
-   "en": "",
+   "en": "{FFF6}That may be part of it, but...{p}{FFF7}He was also moving the Space-Time Control Tower all{n}over the continent to find where the sealed{n}Gevels were.",
    "term": "end"
   },
   {
    "id": "scen162.0068",
    "jp": "{FFF6}こんな状況でボケられるなんて、{n}羨ましいわね‥‥。",
-   "en": "",
+   "en": "{FFF6}Cracking jokes in a situation like this... I envy you...",
    "term": "end"
   },
   {
    "id": "scen162.0069",
    "jp": "コイツの場合、{n}マジで言ってる可能性もあるけどね‥‥。",
-   "en": "",
+   "en": "With this guy, he might actually be serious, though...",
    "term": "end"
   },
   {
    "id": "scen162.0070",
    "jp": "とにかく、{n}今はふざけてる場合じゃないわ。{p}時空制御塔で大陸中を移動していたのは、{n}封印されたゲヴェルの在り処を{n}探るためでもあったのよ。",
-   "en": "",
+   "en": "Anyway, this is no time for fooling around.{p}He was also moving the Space-Time Control Tower all{n}over the continent to find where the sealed{n}Gevels were.",
    "term": "end"
   },
   {
    "id": "scen162.0071",
    "jp": "なるほどな。{p}俺たちがフェザーランドに向かってる{n}隙を狙ってたって訳か！",
-   "en": "",
+   "en": "I see.{p}So he was waiting for his chance while we were headed{n}to Featherland!",
    "term": "end"
   },
   {
    "id": "scen162.0072",
    "jp": "彼の最終目的は時空の完全分離を行い、{n}故郷の世界に戻ることだけど、{n}その前に実行することがあるのよ。{p}それは、この世界から{n}時空干渉能力を消し去ること‥‥。",
-   "en": "",
+   "en": "His final goal is to completely separate space-time and{n}return to his home world, but there's something he'll do{n}before that.{p}And that is to wipe out space-time interference from{n}this world...",
    "term": "end"
   },
   {
    "id": "scen162.0073",
    "jp": "そのために、{n}ゲヴェルを殺そうとしてるんですか？",
-   "en": "",
+   "en": "Is that why he's trying to kill the Gevels?",
    "term": "end"
   },
   {
    "id": "scen162.0074",
    "jp": "ええ、そうよ。{p}人間と融合するゲヴェル細胞を{n}すべて始末しなければ、{n}時空干渉能力を消し去ることはできない。{p}{FFF6}まぁ細胞というか、{n}残っているゲヴェルそのものね。",
-   "en": "",
+   "en": "Yes, that's right.{p}Unless every Gevel cell that fuses with humans is{n}disposed of, space-time interference can't be{n}wiped out.{p}{FFF6}Well, rather than cells, I mean the remaining{n}Gevels themselves.",
    "term": "end"
   },
   {
    "id": "scen162.0075",
    "jp": "うわ‥‥。{n}やっぱりゲヴェルっていっぱいいるんだ‥‥。",
-   "en": "",
+   "en": "Ugh... So there really are lots of Gevels...",
    "term": "end"
   },
   {
    "id": "scen162.0076",
    "jp": "この間、ランザックに現れたゲヴェルは{n}私たちが倒しちゃったけど、{n}記録によるとあと３体封じられているんだって。{p}そのうち１体は、{n}調査の結果、水晶の中で完全に死滅していたわ。{n}{FFFB}つまり、残りは２体。",
-   "en": "",
+   "en": "We beat the Gevel that showed up in Ranzak the other{n}day, but according to the records, there are three{n}more sealed away.{p}One of them, the investigation found, had died off{n}completely inside its crystal. {FFFB}So that leaves two.",
    "term": "end"
   },
   {
    "id": "scen162.0077",
    "jp": "最後の２体が、{n}ついに目覚めたという訳だな。",
-   "en": "",
+   "en": "And those last two have finally woken up.",
    "term": "end"
   },
   {
    "id": "scen162.0078",
    "jp": "あ、あとね‥‥。{p}１人のフェザリアンが、{n}その近辺を飛んでいたのも目撃されてるって‥‥。",
-   "en": "",
+   "en": "Oh, and also...{p}Someone saw a Featherian flying around near{n}there, too...",
    "term": "end"
   },
   {
    "id": "scen162.0079",
    "jp": "えっ‥‥。{n}それって、もしかして‥‥。",
-   "en": "",
+   "en": "Huh... Could that be...",
    "term": "end"
   },
   {
    "id": "scen162.0080",
    "jp": "・メルフィだ",
-   "en": "",
+   "en": "・Melfie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0081",
    "jp": "・女王様だ",
-   "en": "",
+   "en": "・The Queen",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0082",
    "jp": "・ジーナだ",
-   "en": "",
+   "en": "・Gina",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0083",
    "jp": "{FFF6}‥‥ええ、きっとあの子だわ。",
-   "en": "",
+   "en": "{FFF6}...Yes, it must be her.",
    "term": "end"
   },
   {
    "id": "scen162.0084",
    "jp": "フェザリアンの女王様が、{n}そんな所に用事なんてないと思うけど‥‥。",
-   "en": "",
+   "en": "I don't think the Featherian Queen would have any{n}business in a place like that...",
    "term": "end"
   },
   {
    "id": "scen162.0085",
    "jp": "‥‥メルフィだわ。",
-   "en": "",
+   "en": "...It's Melfie.",
    "term": "end"
   },
   {
    "id": "scen162.0086",
    "jp": "ジーナさんは、反省室にいるんだよ。{n}自由に外には出られないと思うけど‥‥",
-   "en": "",
+   "en": "Gina-san's in the Reflection Room. I don't think she can{n}go out whenever she wants...",
    "term": "end"
   },
   {
    "id": "scen162.0087",
    "jp": "やっぱりメルフィさんも、{n}この世界を滅ぼしたいって思ってるの？",
-   "en": "",
+   "en": "Does Melfie-san want to destroy this world too,{n}after all?",
    "term": "end"
   },
   {
    "id": "scen162.0088",
    "jp": "メルフィは、そんなこと望むような子じゃ{n}ないって私は信じてるわ。{p}{FFF6}‥‥こちらの世界に来る前まで、{n}メルフィは誰にも優しく接する女の子だった。{p}あっちの世界では、{n}人間もフェザリアンも仲が良かったの。{p}{FFF7}だから、こちらの世界の人たちが{n}いがみ合っているなんて{n}メルフィは夢にも思わなかったのね。",
-   "en": "",
+   "en": "I believe Melfie isn't the kind of girl who'd wish{n}for that.{p}{FFF6}...Until she came to this world, Melfie was a girl who was{n}kind to everyone.{p}In that world, humans and Featherians got along well.{p}{FFF7}So Melfie never dreamed that the people of this world{n}would be at each other's throats.",
    "term": "end"
   },
   {
    "id": "scen162.0089",
    "jp": "その上、自分の両親が{n}グローシアンに殺されたとなればな‥‥。",
-   "en": "",
+   "en": "And on top of that, her own parents were killed{n}by Growsians...",
    "term": "end"
   },
   {
    "id": "scen162.0090",
    "jp": "その親を殺したグローシアンに頼らなければ、{n}私たちは生きていくことは出来なかったわ。{p}そんな苦しみの日々を送っている中で、{n}メルフィの心は完全に閉ざされてしまったのよ。",
-   "en": "",
+   "en": "We couldn't have survived without relying on the very{n}Growsians who killed her parents.{p}Living through those days of suffering, Melfie closed{n}her heart off completely.",
    "term": "end"
   },
   {
    "id": "scen162.0091",
    "jp": "どうすれば、メルフィさんの心を{n}悲しみから解放してあげられるんだろう‥‥。",
-   "en": "",
+   "en": "How can we free Melfie-san's heart from her sorrow...?",
    "term": "end"
   },
   {
    "id": "scen162.0092",
    "jp": "今の私たちが出来ることは、{n}ジャスティン達を止めることだけよ。{p}{FC03}もし全てが終わってメルフィを助けられたら‥‥、{n}その時は、彼女を受け入れてあげて。お願いよ。",
-   "en": "",
+   "en": "All we can do now is stop Justin and the others.{p}{FC03}If this all ends and we're able to save Melfie... please,{n}accept her when that time comes. I'm begging you.",
    "term": "end"
   },
   {
@@ -602,104 +602,104 @@
   {
    "id": "scen162.0095",
    "jp": "・わかった",
-   "en": "",
+   "en": "・All right",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen162.0096",
    "jp": "ティピちゃん、きーーっく！",
-   "en": "",
+   "en": "Tippi-chan... KIIICK!",
    "term": "end"
   },
   {
    "id": "scen162.0097",
    "jp": "もう、このおバカはぁ！{n}なんでそーいうこと言えるのかしら？",
-   "en": "",
+   "en": "Geez, you big dummy! How can you even say something{n}like that?!",
    "term": "end"
   },
   {
    "id": "scen162.0098",
    "jp": "ともかく、今はグランシルに向かわないとな。{n}急がないとマズいぞ！",
-   "en": "",
+   "en": "Anyway, we need to head for Grancil now. We'd{n}better hurry!",
    "term": "end"
   },
   {
    "id": "scen162.0099",
    "jp": "うん、そうだね！",
-   "en": "",
+   "en": "Yeah, right!",
    "term": "end"
   },
   {
    "id": "scen162.0100",
    "jp": "ありがとう！",
-   "en": "",
+   "en": "Thank you!",
    "term": "end"
   },
   {
    "id": "scen162.0101",
    "jp": "それじゃ、急いでグランシルに行きましょう！",
-   "en": "",
+   "en": "Then let's hurry to Grancil!",
    "term": "end"
   },
   {
    "id": "scen162.0102",
    "jp": "戦争がようやく終わったと思ったら、{n}すぐ学科試験が待ってたよ。{n}ああ、こっちはこっちで戦争だぁ～！",
-   "en": "",
+   "en": "Just when I thought the war was finally over, written{n}exams were waiting for me. Ugh, it's a whole other war{n}over here!",
    "term": "end"
   },
   {
    "id": "scen162.0103",
    "jp": "日ごろから、復習をしておかないとダメよ。{n}こうやって慌てることになるんですもの。",
-   "en": "",
+   "en": "You have to review every day, you know. Otherwise{n}you end up panicking like this.",
    "term": "end"
   },
   {
    "id": "scen162.0104",
    "jp": "うう、反論できない‥‥[01BE]",
-   "en": "",
+   "en": "Ugh, I can't argue with that...[01BE]",
    "term": "end"
   },
   {
    "id": "scen162.0105",
    "jp": "学院に新しく来た女の人、すごく優秀なんだって？{n}ああ、俺に勉強を教えてくれないかなぁ‥‥。",
-   "en": "",
+   "en": "I hear the new woman at the Academy is super{n}brilliant? Ahh, I wish she'd tutor me...",
    "term": "end"
   },
   {
    "id": "scen162.0106",
    "jp": "最近、例の優秀な女の人を見かけないけど、{n}忙しいのかなぁ？{n}勉強を教えてもらおうと思ってたのに‥‥。",
-   "en": "",
+   "en": "I haven't seen that brilliant woman around lately. Is{n}she busy, I wonder? I was hoping she'd help{n}me study...",
    "term": "end"
   },
   {
    "id": "scen162.0107",
    "jp": "例の闇事件の影響で、試験が順延になったよ。{n}けど、素直によろこべない状況だし‥‥。",
-   "en": "",
+   "en": "The exams got postponed because of that darkness{n}incident. But with things the way they are, I can't{n}exactly be happy about it...",
    "term": "end"
   },
   {
    "id": "scen162.0108",
    "jp": "魔法って人を殺す武器にもなるけど、{n}大事なものを守る楯にもなるのよね‥‥。{p}今回の戦争で、{n}改めて魔法の使い方を考えさせられたわ。",
-   "en": "",
+   "en": "Magic can be a weapon that kills people, but it can also{n}be a shield that protects what matters...{p}This war really made me think again about how magic{n}should be used.",
    "term": "end"
   },
   {
    "id": "scen162.0109",
    "jp": "学院に優秀な人が来るのは、うれしいことだわ。{n}だって、色々な知識を学べるもの。",
-   "en": "",
+   "en": "I'm glad when talented people come to the Academy.{n}After all, it means we get to learn all sorts of things.",
    "term": "end"
   },
   {
    "id": "scen162.0110",
    "jp": "アメリアさん、どうしたのかな？{n}あんなに研究熱心な人が、{n}いきなり学院に来なくなるなんて‥‥心配だわ。",
-   "en": "",
+   "en": "What happened to Amelia-san, I wonder? For someone{n}so devoted to her research to suddenly stop coming{n}to the Academy... I'm worried.",
    "term": "end"
   },
   {
    "id": "scen162.0111",
    "jp": "悔しいけどさ、私たちの知らないことって{n}まだたくさんあるんでしょうね‥‥。",
-   "en": "",
+   "en": "It's frustrating, but I guess there's still so much we{n}don't know...",
    "term": "end"
   },
   {
@@ -712,67 +712,67 @@
   {
    "id": "scen162.0113",
    "jp": "なぁなぁ。{n}新しく学院に来たアメリアさん、イイと思わないか？{p}知的な大人の女性って感じだよな！{n}ああ、これは新たな青春の予感～{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "Hey, hey. Don't you think Amelia-san, the new one at the{n}Academy, is great?{p}She's got that smart, grown-up woman vibe! Ahh, I{n}sense a new springtime of youth coming{FFF0}♥{FFF1}",
    "term": "end"
   },
   {
    "id": "scen162.0114",
    "jp": "アメリアさんをデートに誘おうと思ってたのに、{n}ここの所、学院に来てないみたいでさ‥‥。{n}ううう、どこに行っちゃったんだろ‥‥。",
-   "en": "",
+   "en": "I was gonna ask Amelia-san out on a date, but she{n}hasn't been coming to the Academy lately... Waaah,{n}where did she go...?",
    "term": "end"
   },
   {
    "id": "scen162.0115",
    "jp": "世界は今、大変な状況だけど‥‥。{n}アメリアさんは無事だろうか‥‥。",
-   "en": "",
+   "en": "The world's in a terrible state right now... I hope{n}Amelia-san is safe...",
    "term": "end"
   },
   {
    "id": "scen162.0116",
    "jp": "はっ‥‥！{n}ア、アメリアさん‥‥！！",
-   "en": "",
+   "en": "Ah...! A-Amelia-san...!!",
    "term": "end"
   },
   {
    "id": "scen162.0117",
    "jp": "なにかしら？",
-   "en": "",
+   "en": "What is it?",
    "term": "end"
   },
   {
    "id": "scen162.0118",
    "jp": "あの‥‥その‥‥えーと‥‥{FFFB}{n}な、なんでもないです‥‥。",
-   "en": "",
+   "en": "Um... well... er...{FFFB} N-nothing...",
    "term": "end"
   },
   {
    "id": "scen162.0119",
    "jp": "うう‥‥俺のいくじなし‥‥[01BE]",
-   "en": "",
+   "en": "Ugh... I'm such a coward...[01BE]",
    "term": "end"
   },
   {
    "id": "scen162.0120",
    "jp": "キミたちのこと、応援してるよ。",
-   "en": "",
+   "en": "I'm rooting for you guys.",
    "term": "end"
   },
   {
    "id": "scen162.0121",
    "jp": "ねぇ、ランザック城が崩壊したってホント？{n}いつの間にそんな事件が起こってたの？",
-   "en": "",
+   "en": "Hey, is it true Ranzak Castle collapsed? When did{n}that happen?",
    "term": "end"
   },
   {
    "id": "scen162.0122",
    "jp": "キミ、ローランディアの騎士なんだってね。{n}すごいなぁ、応援してるよ。",
-   "en": "",
+   "en": "So you're a knight of Rolandia, huh? That's amazing. I'm{n}rooting for you.",
    "term": "end"
   },
   {
    "id": "scen162.0123",
    "jp": "今こそ、ここで学んできた知識を生かして、{n}困ってる人を助けなくちゃだよな。{p}俺だって魔法学院の生徒なんだし、がんばってみるよ。",
-   "en": "",
+   "en": "Now's the time to use what we've learned here to help{n}people in trouble.{p}I'm a Magic Academy student too, so I'll give it{n}my best.",
    "term": "end"
   },
   {
@@ -785,7 +785,7 @@
   {
    "id": "scen162.0125",
    "jp": "さっきの地震、ビックリした～[01BE]{p}変な揺れ方だったような気もするけど、{n}何事もなかったみたいだし、一安心かな？",
-   "en": "",
+   "en": "That earthquake just now really startled me[01BE]{p}The shaking felt kinda weird, but it looks like nothing{n}happened, so I guess that's a relief?",
    "term": "end"
   },
   {
@@ -798,7 +798,7 @@
   {
    "id": "scen162.0127",
    "jp": "さっき空が暗くなった気がするけど、{n}これから雨でも降るのかなぁ？",
-   "en": "",
+   "en": "I thought the sky got dark a moment ago. Is it going{n}to rain?",
    "term": "end"
   },
   {
@@ -811,19 +811,19 @@
   {
    "id": "scen162.0129",
    "jp": "キミたちのこと、応援してるよ。{n}頑張ってくれ！",
-   "en": "",
+   "en": "I'm rooting for you guys. Good luck!",
    "term": "end"
   },
   {
    "id": "scen162.0130",
    "jp": "今、この大陸で何が起こってるんだ？{n}ああ、魔法学院の外に出るのが恐いよ‥‥。",
-   "en": "",
+   "en": "What's happening on this continent right now? Ahh, I'm{n}scared to set foot outside the Magic Academy...",
    "term": "end"
   },
   {
    "id": "scen162.0131",
    "jp": "なんか空の様子がおかしくなかったか？{n}俺の見間違いかなぁ‥‥？",
-   "en": "",
+   "en": "Didn't the sky look weird just now? Or was I{n}seeing things...?",
    "term": "end"
   },
   {
@@ -836,19 +836,19 @@
   {
    "id": "scen162.0133",
    "jp": "こんにちは。魔法学院にご用ですか？",
-   "en": "",
+   "en": "Hello. Do you have business at the Magic Academy?",
    "term": "end"
   },
   {
    "id": "scen162.0134",
    "jp": "私たち、これからどうなるのかしら‥‥？",
-   "en": "",
+   "en": "I wonder what's going to happen to us now...?",
    "term": "end"
   },
   {
    "id": "scen162.0135",
    "jp": "私は貴重な装備品を扱う行商人なんだが、{n}ここに避難させてもらっているよ。{p}せっかくだから商品をみていくかね？",
-   "en": "",
+   "en": "I'm a peddler who deals in rare equipment. They've let{n}me take shelter here.{p}Since you're here, care to have a look at my wares?",
    "term": "end"
   },
   {
@@ -907,7 +907,7 @@
   {
    "id": "scen162.0143",
    "jp": "グランシルにゲヴェルが！",
-   "en": "",
+   "en": "Gevel, in Grancil!",
    "term": "end"
   },
   {
@@ -934,13 +934,13 @@
   {
    "id": "scen162.0147",
    "jp": "{v:000C}時空制御塔‥‥。",
-   "en": "",
+   "en": "{v:000C}The Space-Time Control Tower...",
    "term": "end"
   },
   {
    "id": "scen162.0148",
    "jp": "{v:000D}グローシアン支配時代に、{n}彼らが力の象徴としていた、空飛ぶ城‥‥。",
-   "en": "",
+   "en": "{v:000D}The flying castle the Growsians held up as the symbol{n}of their power in the age of their rule...",
    "term": "end"
   },
   {
@@ -1051,13 +1051,13 @@
   {
    "id": "scen162.0164",
    "jp": "{v:0035}けして諦めない、前向きな姿。{n}私があの人を愛した理由。",
-   "en": "",
+   "en": "{v:0035}Always looking ahead, never giving up. That is why I{n}fell in love with him.",
    "term": "end"
   },
   {
    "id": "scen162.0165",
    "jp": "{v:0036}どうやら我々は理解しようともせずに、{n}相容れない存在と見ていたようだ。{p}{v:0037}しかしジーナが、そしてそなたらが、{n}我々の目を開かせてくれたのだ。{n}人間からは、多くの学ぶべき事があるとな。{p}{v:0038}今までの我々は、ただ何もせず運命を受け入れる{n}だけの種族であった。",
-   "en": "",
+   "en": "{v:0036}It seems we deemed humans incompatible with us{n}without even trying to understand them.{p}{v:0037}But Gina, and all of you, opened our eyes. There is much{n}we can learn from humanity.{p}{v:0038}Until now, we were a race that did nothing but accept{n}its fate.",
    "term": "end"
   },
   {
@@ -1098,127 +1098,127 @@
   {
    "id": "scen162.0171",
    "jp": "時空制御塔内へ",
-   "en": "",
+   "en": "Into the Space-Time Control Tower",
    "term": "end"
   },
   {
    "id": "scen162.0172",
    "jp": "おお、いたいた。",
-   "en": "",
+   "en": "Oho, there you are.",
    "term": "end"
   },
   {
    "id": "scen162.0173",
    "jp": "あれ？{n}送魔線技師のおじちゃん？",
-   "en": "",
+   "en": "Huh? Mister Mana Line Engineer?",
    "term": "end"
   },
   {
    "id": "scen162.0174",
    "jp": "約束の携帯用集魔柱をもってきたぞ！{n}これで、どこでもデュンケルスの受信が可能になる！",
-   "en": "",
+   "en": "I've brought the Portable Mana Pillar I promised! With{n}this, you can receive Dunkels anywhere!",
    "term": "end"
   },
   {
    "id": "scen162.0175",
    "jp": "おおっ、それが改造された携帯集魔柱ね！？{p}すばらしい技術だわ。{n}{FFFB}内部の仕組みはどうなってるのかしら‥‥？",
-   "en": "",
+   "en": "Ooh, so that's the modified Portable Mana Pillar?!{p}What marvelous technology. {FFFB}I wonder how it{n}works inside...?",
    "term": "end"
   },
   {
    "id": "scen162.0176",
    "jp": "{FB00}ちょ、ちょっとアメリアさん！{n}今はそんなことしてる場合じゃないでしょ！{FFFA}",
-   "en": "",
+   "en": "{FB00}H-hey, Amelia-san! This is no time for that!{FFFA}",
    "term": "end"
   },
   {
    "id": "scen162.0177",
    "jp": "{FB00}あはは‥‥ごめん。{n}つい、いつものクセが‥‥。{FFFA}",
-   "en": "",
+   "en": "{FB00}Ahaha... sorry. Force of habit...{FFFA}",
    "term": "end"
   },
   {
    "id": "scen162.0178",
    "jp": "　{n}　　　　　『{FFEF}携帯集魔柱{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "　{n}　　　　　Obtained the '{FFEF}Portable Mana Pillar{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen162.0179",
    "jp": "それにしても、こんな短期間でよく作れましたね。",
-   "en": "",
+   "en": "Still, you managed to build it in such a short time.",
    "term": "end"
   },
   {
    "id": "scen162.0180",
    "jp": "それなら、アリオストと{n}ミーシャ君のおかげじゃよ。{p}あの後もみんなの力になりたいと、{n}ワシの作業を手伝ってくれていたのじゃ！{n}{FFFB}おかげで、携帯集魔柱の改造が間に合ったわい。",
-   "en": "",
+   "en": "That's thanks to Ariost and Misha-kun.{p}They wanted to help you all, so they've been assisting{n}me with my work ever since! {FFFB}Thanks to them, the{n}Portable Mana Pillar was modified just in time!",
    "term": "end"
   },
   {
    "id": "scen162.0181",
    "jp": "そうだったんですか。{n}ありがとう、アリオストさん、ミーシャ。",
-   "en": "",
+   "en": "Is that so? Thank you, Ariost-san, Misha.",
    "term": "end"
   },
   {
    "id": "scen162.0182",
    "jp": "えへへ。{n}アタシだって、やれば出来るもんね★",
-   "en": "",
+   "en": "Ehehe. See? I can do it when I try!",
    "term": "end"
   },
   {
    "id": "scen162.0183",
    "jp": "君たちの役に立てたなら、何よりだよ。",
-   "en": "",
+   "en": "If we've been of use to you, nothing could make{n}me happier.",
    "term": "end"
   },
   {
    "id": "scen162.0184",
    "jp": "では、彼らの功績を称えて、{n}落ち着いたら、ゆっっっくりと皆に{n}この携帯集魔柱の仕組みを説明してあげよう。",
-   "en": "",
+   "en": "Then, in honor of their achievement, once things settle{n}down I'll explain to everyone, sloooowly and in detail,{n}how this Portable Mana Pillar works.",
    "term": "end"
   },
   {
    "id": "scen162.0185",
    "jp": "うげっ‥‥。{n}それ、アタシはパスだわ‥‥[01BE]",
-   "en": "",
+   "en": "Ugh... I'll pass on that one...[01BE]",
    "term": "end"
   },
   {
    "id": "scen162.0186",
    "jp": "とにかく、デュンケルスを処理しきれなくなったら{n}送魔線でこれに送る。そのときは頼むぞ。",
-   "en": "",
+   "en": "Anyway, once we can't handle all the Dunkels, we'll send{n}them to this through the mana line. We're counting on{n}you then.",
    "term": "end"
   },
   {
    "id": "scen162.0187",
    "jp": "ありがと、おじちゃん！",
-   "en": "",
+   "en": "Thanks, Mister!",
    "term": "end"
   },
   {
    "id": "scen162.0188",
    "jp": "ワシにできるのはここまでじゃ。{n}では、後のことは頼んだぞ！",
-   "en": "",
+   "en": "This is as far as I can help. Now, I leave the rest{n}to you!",
    "term": "end"
   },
   {
    "id": "scen162.0189",
    "jp": "いよいよだ‥‥。{n}この戦い、絶対に負けるわけにはいかない。",
-   "en": "",
+   "en": "This is it... We absolutely cannot lose this battle.",
    "term": "end"
   },
   {
    "id": "scen162.0190",
    "jp": "フェザリアンも協力してくれたんだもん。{n}絶対に勝てるって、アタシ信じてます！",
-   "en": "",
+   "en": "Even the Featherians are helping us. I just know we're{n}gonna win!",
    "term": "end"
   },
   {
    "id": "scen162.0191",
    "jp": "おまえにも、彼らの強い思いが伝わっただろう。{n}あとは我々が、それに応じ報いるだけだ。",
-   "en": "",
+   "en": "You felt their strong will too, didn't you? Now all that's{n}left is for us to live up to it.",
    "term": "end"
   },
   {
@@ -1245,7 +1245,7 @@
   {
    "id": "scen162.0195",
    "jp": "時空制御塔が落ちたのは、{n}どうやらグランシル辺りのようだな。{n}‥‥みんな、がんばってくれよ！",
-   "en": "",
+   "en": "Looks like the Space-Time Control Tower came down{n}somewhere around Grancil. ...Do your best, everyone!",
    "term": "end"
   },
   {
@@ -1381,73 +1381,73 @@
   {
    "id": "scen162.0214",
    "jp": "私はフライシュベルグの前で待ってるわ。{n}状況がどうなるか分からないから、{n}早く戻って来てね。",
-   "en": "",
+   "en": "I'll be waiting in front of Fleischeberg. There's no telling{n}how things will turn out, so come back quickly.",
    "term": "end"
   },
   {
    "id": "scen162.0215",
    "jp": "いくら自分が教授で、強い魔法が使えても、{n}どうにも出来ない問題に直面した時は{n}己の無力さを知るな‥‥。",
-   "en": "",
+   "en": "Even as a professor who can wield powerful magic,{n}when you face a problem you can do nothing about,{n}you learn how powerless you are...",
    "term": "end"
   },
   {
    "id": "scen162.0216",
    "jp": "先刻、遠くの空から不気味な黒い物質が{n}地上へ流れ落ちるのを目撃したんだが‥‥。{n}{FFFB}一体、なんだったんだろうか？",
-   "en": "",
+   "en": "A while ago, I saw some eerie black substance pouring{n}down to the ground from the distant sky... {FFFB}What on{n}earth was it?",
    "term": "end"
   },
   {
    "id": "scen162.0217",
    "jp": "詳細はまだ知らないが、{n}どうやらランザックで大きな事件があった{n}ようだな‥‥。",
-   "en": "",
+   "en": "I don't know the details yet, but it seems something{n}major happened in Ranzak...",
    "term": "end"
   },
   {
    "id": "scen162.0218",
    "jp": "キミはよくココに来ているね。{n}いっそのこと学院の生徒になって、{n}魔法の勉強をしてみる気はないかい？",
-   "en": "",
+   "en": "You come here often, don't you? Why not become a{n}student at the Academy and try studying magic?",
    "term": "end"
   },
   {
    "id": "scen162.0219",
    "jp": "闇が落ちてくるとか、信じられないよね[01BE]{n}他人事じゃないけど、実感がわかなくてさ‥‥。",
-   "en": "",
+   "en": "Darkness falling from the sky? It's hard to believe[01BE]{n}It's not like it doesn't concern me, but it just doesn't{n}feel real...",
    "term": "end"
   },
   {
    "id": "scen162.0220",
    "jp": "最近、地震が多いと思ってたら、{n}今日はいきなり空が暗くなったね。{n}大陸が不安定なのかな‥‥？",
-   "en": "",
+   "en": "There've been a lot of earthquakes lately, and today{n}the sky suddenly went dark. Is the continent{n}becoming unstable...?",
    "term": "end"
   },
   {
    "id": "scen162.0221",
    "jp": "ランザックでは悲惨な事件が起こったというのに、{n}僕はのほほんと勉強なんかしててもいいのかな‥‥。",
-   "en": "",
+   "en": "Something terrible happened in Ranzak, and here I am,{n}studying without a care... Is that really okay?",
    "term": "end"
   },
   {
    "id": "scen162.0222",
    "jp": "毎日、試験勉強で疲れちゃったよ‥‥。{n}試験が簡単にクリアできる魔法って、ないのかな？",
-   "en": "",
+   "en": "I'm worn out from studying for exams every day...{n}Isn't there some magic that makes exams easy{n}to pass?",
    "term": "end"
   },
   {
    "id": "scen162.0223",
    "jp": "戦争の次は、人を蝕む物質‥‥。{n}この大陸は、これからどうなっちゃうの？",
-   "en": "",
+   "en": "First the war, now a substance that eats away at{n}people... What's going to happen to this continent?",
    "term": "end"
   },
   {
    "id": "scen162.0224",
    "jp": "お城が崩壊するなんて‥‥。{n}ランザックの人たちが可哀そうね‥‥。",
-   "en": "",
+   "en": "A whole castle collapsing... I feel so sorry for the{n}people of Ranzak...",
    "term": "end"
   },
   {
    "id": "scen162.0225",
    "jp": "こんにちは。{n}よく学院にいらっしゃいますね。",
-   "en": "",
+   "en": "Hello. You visit the Academy quite often, don't you?",
    "term": "end"
   },
   {
@@ -1460,7 +1460,7 @@
   {
    "id": "scen162.0227",
    "jp": "うーん、毎日マホガク定食ばかりだと{n}さすがに飽きるのよね‥‥。",
-   "en": "",
+   "en": "Hmm, eating nothing but the Academy Special every day{n}really gets old, you know...",
    "term": "end"
   },
   {
@@ -1473,31 +1473,31 @@
   {
    "id": "scen162.0229",
    "jp": "今日のお昼は、なにを食べようかな？",
-   "en": "",
+   "en": "What should I have for lunch today?",
    "term": "end"
   },
   {
    "id": "scen162.0230",
    "jp": "お願い、誰か平和な世界に戻して！",
-   "en": "",
+   "en": "Please, someone bring back a peaceful world!",
    "term": "end"
   },
   {
    "id": "scen162.0231",
    "jp": "たまには羽を伸ばして、{n}ゆっくり外でご飯でも食べたいわ。",
-   "en": "",
+   "en": "Once in a while, I'd like to spread my wings and enjoy a{n}nice, relaxed meal outside.",
    "term": "end"
   },
   {
    "id": "scen162.0232",
    "jp": "お兄さまたちに負けないように、{n}アタシも頑張りますね★",
-   "en": "",
+   "en": "I'll do my best too, so I don't fall behind you,{n}Big Brother!",
    "term": "end"
   },
   {
    "id": "scen162.0233",
    "jp": "お兄さま、頑張ってください！{n}アタシ、信じて待ってますから。",
-   "en": "",
+   "en": "Do your best, Big Brother! I'll believe in you and wait.",
    "term": "end"
   },
   {
@@ -1531,7 +1531,7 @@
   {
    "id": "scen162.0238",
    "jp": "アリオストさんって、若いのに凄いですよね。{n}僕も含めて、尊敬してる学生は多いんですよ。",
-   "en": "",
+   "en": "Ariost-san is amazing for someone so young, isn't he?{n}Lots of students respect him, me included.",
    "term": "end"
   },
   {
@@ -1544,13 +1544,13 @@
   {
    "id": "scen162.0240",
    "jp": "別行動をしていても、僕たちの向かう先は同じだ。{n}お互い頑張ろう。",
-   "en": "",
+   "en": "Even if we act separately, we're all headed for the same{n}place. Let's both do our best.",
    "term": "end"
   },
   {
    "id": "scen162.0241",
    "jp": "‥希望の光は、必ずこの空にあふれる。{n}僕はそう信じているよ。",
-   "en": "",
+   "en": "...The light of hope will surely fill this sky. I{n}believe that.",
    "term": "end"
   },
   {

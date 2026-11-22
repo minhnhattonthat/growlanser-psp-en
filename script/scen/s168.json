@@ -92,13 +92,13 @@
   {
    "id": "scen168.0012",
    "jp": "おい、コムスプリングスに来てどうする！{n}ここは、リーヴスに任せた場所だろう。{p}それとも、ここに何か用でもあるのか？{n}今はそんな余裕などないはずだぞ！？",
-   "en": "",
+   "en": "Hey, what are we doing in Comsprings?! This place was{n}left to Reeves.{p}Or do you have some business here? We don't have{n}time for that right now!",
    "term": "end"
   },
   {
    "id": "scen168.0013",
    "jp": "今日は、あいにくの天気ですね。{n}さっきまでは晴れてたんですが‥‥。",
-   "en": "",
+   "en": "The weather's turned out rather unfortunate today.{n}It was sunny until just a little while ago...",
    "term": "end"
   },
   {
@@ -118,13 +118,13 @@
   {
    "id": "scen168.0016",
    "jp": "なんで空がこんなに暗いのかしら？{n}こんなのって初めてだわ。",
-   "en": "",
+   "en": "Why is the sky so dark, I wonder? I've never seen{n}anything like it.",
    "term": "end"
   },
   {
    "id": "scen168.0017",
    "jp": "あんな変な天気、初めてだったわ。{n}{FFFB}‥‥けど、また晴れてくれたし、いっか♪",
-   "en": "",
+   "en": "I'd never seen weather that strange before. {FFFB}...But it's{n}sunny again, so whatever♪",
    "term": "end"
   },
   {
@@ -144,13 +144,13 @@
   {
    "id": "scen168.0020",
    "jp": "今のこの状況って、絶対に危険だよね。{n}けど、みんな気楽に構えすぎだよなぁ‥‥。{p}退屈で変化にトボしいつまらない場所だから、{n}みんなこうなっちゃったんだよね。",
-   "en": "",
+   "en": "This situation is definitely dangerous. But everybody's{n}way too relaxed about it...{p}It's because this place is so boring and nothing ever{n}changes. That's what made everyone like this.",
    "term": "end"
   },
   {
    "id": "scen168.0021",
    "jp": "やっぱり、{n}ここの人たちは相変わらずお気楽だよなぁ‥‥。{p}知らぬが仏っていうけど、{n}ボクも気づかなかったら幸せだったのかなぁ？",
-   "en": "",
+   "en": "Yep, the people here are as carefree as ever...{p}They say ignorance is bliss. Would I be happier if I{n}hadn't noticed either?",
    "term": "end"
   },
   {
@@ -163,13 +163,13 @@
   {
    "id": "scen168.0023",
    "jp": "嫌な空気が流れているね‥‥。{n}さっきから、妙な胸騒ぎがするんだ。",
-   "en": "",
+   "en": "There's an unpleasant air about... I've had a strange{n}sense of foreboding for a while now.",
    "term": "end"
   },
   {
    "id": "scen168.0024",
    "jp": "青い空が、こんなにも素晴らしいものだなんて{n}今まで気づかなかったよ。",
-   "en": "",
+   "en": "I never realized until now how wonderful a blue sky{n}could be.",
    "term": "end"
   },
   {
@@ -362,13 +362,13 @@
   {
    "id": "scen168.0050",
    "jp": "なんだなんだ？{n}今、なにが起こってるんだ？",
-   "en": "",
+   "en": "What the--? What's going on right now?",
    "term": "end"
   },
   {
    "id": "scen168.0051",
    "jp": "コムスプリングスに何もなくて、ホッとしたよ。",
-   "en": "",
+   "en": "I'm relieved nothing happened to Comsprings.",
    "term": "end"
   },
   {
@@ -388,13 +388,13 @@
   {
    "id": "scen168.0054",
    "jp": "やだ、雨でも降るのかしら？{n}早く洗濯物を取り込まなくちゃ[01BE]",
-   "en": "",
+   "en": "Oh no, is it going to rain? I have to bring the laundry{n}in, quick[01BE]",
    "term": "end"
   },
   {
    "id": "scen168.0055",
    "jp": "雨が降るかと思ったのに、{n}また急に晴れてきて‥‥。変な天気ねぇ。",
-   "en": "",
+   "en": "I thought it was going to rain, but then it suddenly{n}cleared up again... What strange weather.",
    "term": "end"
   },
   {
@@ -421,19 +421,19 @@
   {
    "id": "scen168.0059",
    "jp": "空が暗くなったわね‥‥。",
-   "en": "",
+   "en": "The sky's gotten dark, hasn't it...",
    "term": "end"
   },
   {
    "id": "scen168.0060",
    "jp": "どんな時でも、２人は一緒よ‥‥。",
-   "en": "",
+   "en": "No matter what happens, we two will be together...",
    "term": "end"
   },
   {
    "id": "scen168.0061",
    "jp": "空が晴れたわね‥‥。",
-   "en": "",
+   "en": "The sky's cleared up, hasn't it...",
    "term": "end"
   },
   {
@@ -446,79 +446,79 @@
   {
    "id": "scen168.0063",
    "jp": "まさかお前、{n}ここに集魔柱を立てようなどという{n}馬鹿な考えはしてないだろうな！？",
-   "en": "",
+   "en": "Don't tell me you're thinking something as stupid as{n}setting up a mana collection pillar here?!",
    "term": "end"
   },
   {
    "id": "scen168.0064",
    "jp": "　{n}　　　　　　携帯集魔柱を設置した！",
-   "en": "",
+   "en": "　{n}　　　　　　Set up a Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen168.0065",
    "jp": "バカ、何をしている！",
-   "en": "",
+   "en": "You fool, what are you doing?!",
    "term": "end"
   },
   {
    "id": "scen168.0066",
    "jp": "我々がここに立ててしまったら、{n}リーヴスに向かってもらった意味が{n}無くなるだろう！",
-   "en": "",
+   "en": "If we set one up here, there'd be no point in having{n}sent Reeves!",
    "term": "end"
   },
   {
    "id": "scen168.0067",
    "jp": "おい、人の話を聞いていたのか！？{n}それとも、その耳はただの飾りだったのか？",
-   "en": "",
+   "en": "Hey, were you even listening?! Or are those ears just{n}for decoration?",
    "term": "end"
   },
   {
    "id": "scen168.0068",
    "jp": "皆さん、なぜここに‥‥！？",
-   "en": "",
+   "en": "Everyone, why are you here...?!",
    "term": "end"
   },
   {
    "id": "scen168.0069",
    "jp": "ここは僕の管轄だったと思うのですが、{n}突然の計画変更でもあったのでしょうか？",
-   "en": "",
+   "en": "I believe this area was my responsibility. Was there{n}some sudden change of plans?",
    "term": "end"
   },
   {
    "id": "scen168.0070",
    "jp": "ち、違うの！{n}このバカが、勝手にココに立てちゃって‥‥。",
-   "en": "",
+   "en": "N-no, that's not it! This idiot just went and set it up{n}here on his own...",
    "term": "end"
   },
   {
    "id": "scen168.0071",
    "jp": "{FFF6}‥‥そうでしたか。{n}{FFFB}{FFF7}ですが、やってしまったことを{n}責めても仕方ありません。{p}皆さんは僕の分の携帯集魔柱を持って、{n}他の場所へ急いでください。",
-   "en": "",
+   "en": "{FFF6}...I see. {FFFB}{FFF7}But there's no point blaming anyone for what's{n}already done.{p}Please take my Portable Mana Pillar and hurry to the{n}other places.",
    "term": "end"
   },
   {
    "id": "scen168.0072",
    "jp": "　{n}　　　リーヴスから携帯集魔柱を受け取った。",
-   "en": "",
+   "en": "　{n}　　　Received a Portable Mana Pillar from Reeves.",
    "term": "end"
   },
   {
    "id": "scen168.0073",
    "jp": "僕は、コムスプリングスの安全を確認してから{n}バーンシュタインに戻ります。",
-   "en": "",
+   "en": "I'll make sure Comsprings is safe, then return{n}to Burnstein.",
    "term": "end"
   },
   {
    "id": "scen168.0074",
    "jp": "１度、魔法学院に戻って{n}状況を確認した方がよさそうだな。",
-   "en": "",
+   "en": "We'd better head back to the Magic Academy and check{n}on the situation.",
    "term": "end"
   },
   {
    "id": "scen168.0075",
    "jp": "今、人が化け物になる現象が起こってるって、{n}本当の話なのか？{p}ここが平和すぎるせいか、{n}外の情報にうとくなってきたよ‥‥[01BE]",
-   "en": "",
+   "en": "Is it true that people are turning into monsters{n}right now?{p}Maybe it's because it's so peaceful here, but I'm{n}getting out of touch with what's going on outside...[01BE]",
    "term": "end"
   },
   {
@@ -531,19 +531,19 @@
   {
    "id": "scen168.0077",
    "jp": "うーん‥‥。{n}こう天気が悪いと、{n}お客の入りも悪いんだよなぁ～。",
-   "en": "",
+   "en": "Hmmm... When the weather's this bad, business is{n}bad tooooo.",
    "term": "end"
   },
   {
    "id": "scen168.0078",
    "jp": "僕は、コムスプリングスの安全を確認してから{n}バーンシュタインに戻ります。{n}{FFFB}皆さんは、他の場所へ急いで！",
-   "en": "",
+   "en": "I'll make sure Comsprings is safe, then return to{n}Burnstein. {FFFB}Everyone, hurry to the other places!",
    "term": "end"
   },
   {
    "id": "scen168.0079",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
@@ -584,7 +584,7 @@
   {
    "id": "scen168.0085",
    "jp": "　{n}　　　　　　鍵がかかっている。",
-   "en": "",
+   "en": "　{n}　　　　　　It's locked.",
    "term": "end"
   },
   {
@@ -653,7 +653,7 @@
   {
    "id": "scen168.0095",
    "jp": "もしかして、これが噂に聞く闇なのか‥‥？{n}{FFFB}いやいや、まさかそんなわけ‥‥{n}{FE0A}‥‥ないよな？",
-   "en": "",
+   "en": "Could this be the darkness I've heard rumors about...?{n}{FFFB}No, no, there's no way... {FE0A}...Right?",
    "term": "end"
   },
   {
@@ -743,55 +743,55 @@
   {
    "id": "scen168.0108",
    "jp": "こんにちは～！",
-   "en": "",
+   "en": "Hellooo!",
    "term": "end"
   },
   {
    "id": "scen168.0109",
    "jp": "どなたかな？{p}あぁ、君たちか。{n}今日は何の用だい？",
-   "en": "",
+   "en": "Who is it?{p}Ah, it's you. What can I do for you today?",
    "term": "end"
   },
   {
    "id": "scen168.0110",
    "jp": "すみません。{n}特に用事はないんですけど、近くまで来たもので。",
-   "en": "",
+   "en": "Sorry. Nothing in particular. We just happened to{n}be nearby.",
    "term": "end"
   },
   {
    "id": "scen168.0111",
    "jp": "ああ、それはどうも。{p}そういえば、最近よく地上でフェザリアンを{n}目撃したという話を聞くんだが‥‥。{n}キミたちも見たことはあるかね？",
-   "en": "",
+   "en": "Ah, how kind of you.{p}Come to think of it, I keep hearing that people have{n}been seeing Featherians on the surface lately... Have{n}you seen any yourselves?",
    "term": "end"
   },
   {
    "id": "scen168.0112",
    "jp": "えっ？{n}‥‥あ、はい。",
-   "en": "",
+   "en": "Huh? ...Ah, yes.",
    "term": "end"
   },
   {
    "id": "scen168.0113",
    "jp": "ふむ、そうか。{p}フェザリアンが長期で地上にいるなんて、{n}非常に珍しいことなんだよ。{p}いったい、何の事情でそうしているのか{n}興味をそそられるな‥‥。",
-   "en": "",
+   "en": "Hmm, I see.{p}It's extremely rare for Featherians to stay on the{n}surface for long, you know.{p}It does make one curious what circumstances could{n}have led to it...",
    "term": "end"
   },
   {
    "id": "scen168.0114",
    "jp": "おっと、すまない。{n}論文を書き上げねばならないんだった。",
-   "en": "",
+   "en": "Oops, forgive me. I have a paper I need to finish.",
    "term": "end"
   },
   {
    "id": "scen168.0115",
    "jp": "あ、お邪魔してごめんなさい。",
-   "en": "",
+   "en": "Oh, I'm sorry for bothering you.",
    "term": "end"
   },
   {
    "id": "scen168.0116",
    "jp": "すまないね、それじゃ。",
-   "en": "",
+   "en": "Sorry about that. Well, goodbye.",
    "term": "end"
   },
   {

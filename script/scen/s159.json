@@ -22,160 +22,160 @@
   {
    "id": "scen159.0002",
    "jp": "ヴェンツェルを連れ出す装置",
-   "en": "",
+   "en": "A Device for Taking Wenzel Out",
    "term": "end"
   },
   {
    "id": "scen159.0003",
    "jp": "{v:001B}マスター、マスター！{n}さっき伝えた通りなんだけどぉ～。",
-   "en": "",
+   "en": "{v:001B}Master, Master! It's about what I told you earlieeer.",
    "term": "end"
   },
   {
    "id": "scen159.0004",
    "jp": "{v:001C}はい、ヴェンツェルを連れだす件ですね。",
-   "en": "",
+   "en": "{v:001C}Yes, the matter of taking Wenzel out.",
    "term": "end"
   },
   {
    "id": "scen159.0005",
    "jp": "{v:001D}ヤツがウソをついている可能性は{n}否定できませんが、今はヤツの情報に{n}頼るしかないでしょう。",
-   "en": "",
+   "en": "{v:001D}We can't rule out that he's lying, but right now, his{n}information's all we've got to go on.",
    "term": "end"
   },
   {
    "id": "scen159.0006",
    "jp": "{v:001E}そうですね。{n}しかしお師様の魔力は甘く見てはいられません。{p}{v:002E}逃げられないように、{n}きちんと対策を取る必要があります。",
-   "en": "",
+   "en": "{v:001E}Indeed. However, we cannot underestimate my{n}teacher's magic power.{p}{v:002E}We must take proper measures so that he{n}cannot escape.",
    "term": "end"
   },
   {
    "id": "scen159.0007",
    "jp": "{v:001F}どうすればいいの？",
-   "en": "",
+   "en": "{v:001F}What should we do?",
    "term": "end"
   },
   {
    "id": "scen159.0008",
    "jp": "{v:0020}城には魔法を妨害する仕掛けがしてあります。{n}これで罪人が牢から逃げられないようにするのです。{p}{v:0021}これと同じ様な仕掛けを作り、{n}お師様につけてしまえば、{n}強力な魔法は使えなくなります。",
-   "en": "",
+   "en": "{v:0020}The castle is fitted with a mechanism that interferes{n}with magic. It keeps prisoners from escaping{n}their cells.{p}{v:0021}If we make a similar device and fit it on my teacher, he{n}will be unable to use powerful magic.",
    "term": "end"
   },
   {
    "id": "scen159.0009",
    "jp": "{v:0022}そうやって弱らせた状態で連れ歩くのか。",
-   "en": "",
+   "en": "{v:0022}So we take him along while he's weakened like that.",
    "term": "end"
   },
   {
    "id": "scen159.0010",
    "jp": "{v:0023}それでも一般の兵士には無理です。{n}お前たちだからこそ出来るのです。",
-   "en": "",
+   "en": "{v:0023}Even so, it would be beyond ordinary soldiers. Only you{n}can do this.",
    "term": "end"
   },
   {
    "id": "scen159.0011",
    "jp": "・わかった",
-   "en": "",
+   "en": "・Understood",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen159.0012",
    "jp": "・面倒だ",
-   "en": "",
+   "en": "・What a pain",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen159.0013",
    "jp": "・その装置は？",
-   "en": "",
+   "en": "・What about this device?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen159.0014",
    "jp": "{v:0024}そうだね、お兄ちゃん。",
-   "en": "",
+   "en": "{v:0024}Right, Big Brother.",
    "term": "end"
   },
   {
    "id": "scen159.0015",
    "jp": "{v:0025}ティピちゃん、きーーっく！",
-   "en": "",
+   "en": "{v:0025}Tippi-chan... KIIICK!",
    "term": "end"
   },
   {
    "id": "scen159.0016",
    "jp": "{v:0026}アンタ、冗談は状況を見ていいなさいよね！",
-   "en": "",
+   "en": "{v:0026}Hey, you! Read the room before you crack jokes!",
    "term": "end"
   },
   {
    "id": "scen159.0017",
    "jp": "{v:0027}それで、その装置はどこに？",
-   "en": "",
+   "en": "{v:0027}So, where is this device?",
    "term": "end"
   },
   {
    "id": "scen159.0018",
    "jp": "{v:0028}それは作る必要があります。{n}協力者を探して、完成させなさい。{n}何か私の必要があれば、ティピを通じて連絡を。",
-   "en": "",
+   "en": "{v:0028}It has to be made. Find someone to help you and{n}complete it. If you need anything from me, contact me{n}through Tippi.",
    "term": "end"
   },
   {
    "id": "scen159.0019",
    "jp": "{v:0029}協力してくれる人は、自分たちで探すんだね。{n}それじゃ、行ってきます。",
-   "en": "",
+   "en": "{v:0029}So we find our own helpers, huh. Okay then, we're off!",
    "term": "end"
   },
   {
    "id": "scen159.0020",
    "jp": "私のほうでも、魔力を封じる装置の{n}作成方法を探ってみます。{p}もしかすると、魔力を封じるためには{n}呪いの力を利用する必要があるかも{n}しれません。{p}呪いは私の専門外の分野なので、{n}少し時間がかかる恐れがあります。{n}{FFFB}誰か詳しい人がいればいいのですが‥‥。",
-   "en": "",
+   "en": "I will look into how to make a device that seals magic{n}power on my end as well.{p}It may be that sealing magic power requires using the{n}power of a curse.{p}Curses are outside my field, so I fear it may take{n}some time. {FFFB}If only there were someone well versed{n}in them...",
    "term": "end"
   },
   {
    "id": "scen159.0021",
    "jp": "ヴェンツェルを時空制御塔へ",
-   "en": "",
+   "en": "Take Wenzel to the Space-Time Control Tower",
    "term": "end"
   },
   {
    "id": "scen159.0022",
    "jp": "{v:0000}戻ってきましたね。",
-   "en": "",
+   "en": "{v:0000}You have returned.",
    "term": "end"
   },
   {
    "id": "scen159.0023",
    "jp": "{v:0001}魔法を封じる腕輪を作ってもらったよ！",
-   "en": "",
+   "en": "{v:0001}We got a bracelet made that seals magic!",
    "term": "end"
   },
   {
    "id": "scen159.0024",
    "jp": "{v:0002}早速ですが、ヴェンツェルを連れ出す手続きを{n}お願いします。",
-   "en": "",
+   "en": "{v:0002}I know it's sudden, but please start the arrangements{n}for taking Wenzel out.",
    "term": "end"
   },
   {
    "id": "scen159.0025",
    "jp": "{v:0003}わかりました。{n}では、城のホールで待っていてください。",
-   "en": "",
+   "en": "{v:0003}Understood. Then please wait in the castle hall.",
    "term": "end"
   },
   {
    "id": "scen159.0026",
    "jp": "また、あなたたちに苦労をかけますね。{n}がんばるのですよ。",
-   "en": "",
+   "en": "I am putting you through hardship once again. Do{n}your best.",
    "term": "end"
   },
   {
    "id": "scen159.0027",
    "jp": "フェザリアンにも、{n}早く話を聞きに行ったほうがいいな‥‥。{p}ここらで１回、{n}フェザーランドへ行ってみないか？",
-   "en": "",
+   "en": "We should go hear what the Featherians have to say{n}soon, too...{p}How about we pay Featherland a visit about now?",
    "term": "end"
   },
   {
