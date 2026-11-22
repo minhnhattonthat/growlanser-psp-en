@@ -22,6 +22,30 @@ def entry(data, i):
     return data[start * SECTOR:(start + n) * SECTOR]
 
 
+def pack(orig, repl):
+    """Rebuild orig with entry i replaced by repl[i] (bytes, zero-padded to whole sectors).
+
+    Entries that sit in sequence are laid out again back to back; out-of-sequence empty ones (MAP.DAT's trailing
+    (0, 0) records) keep their original record. The header area (up to the first sector in use) is kept as is,
+    so pack(orig, {}) == orig."""
+    es = entries(orig)
+    head = min(s for s, n in es if n) * SECTOR
+    out = bytearray(orig[:head])
+    pos = opos = head // SECTOR
+    for i, (s, n) in enumerate(es):
+        if s != opos:
+            assert n == 0 and i not in repl, f"entry {i} out of sequence"
+            continue
+        b = repl.get(i, orig[s * SECTOR:(s + n) * SECTOR])
+        b = b + bytes(-len(b) % SECTOR)
+        assert pos < 0x10000 and len(b) // SECTOR < 0x10000, "sector field overflow"
+        struct.pack_into("<HH", out, 4 + 4 * i, pos, len(b) // SECTOR)
+        out += b
+        pos += len(b) // SECTOR
+        opos = s + n
+    return bytes(out)
+
+
 if __name__ == "__main__":
     data = open(sys.argv[1], "rb").read()
     if len(sys.argv) > 3:

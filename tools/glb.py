@@ -38,6 +38,17 @@ def entries(d):
     return [tuple(e) for e in out]
 
 
+def pack(d, repl):
+    """Rebuild d with {name: bytes} swapped in: directory block kept, offsets rewritten, payloads back to back."""
+    es = entries(d)
+    out = bytearray(d[:es[0][1]])
+    for k, (n, o, s) in enumerate(es):
+        struct.pack_into(">I", out, k * 14 + 10, len(out))
+        out += repl.get(n, d[o:o + s])
+    assert not set(repl) - {n for n, _, _ in es}, "unknown names"
+    return bytes(out)
+
+
 def unrle(b):
     out, p = bytearray(), 3
     while p < len(b):

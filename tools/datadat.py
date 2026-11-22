@@ -28,6 +28,18 @@ def entries(d):
     return [tuple(e) for e in out]
 
 
+def pack(d, repl):
+    """Rebuild d with {name: bytes} swapped in. Payloads stay back to back with no alignment (as in the original);
+    the directory block (up to the first payload, with its 0xCD filler) is kept, only the offsets are rewritten."""
+    es = entries(d)
+    out = bytearray(d[:es[0][1]])
+    for k, (n, o, s) in enumerate(es):
+        struct.pack_into(">I", out, k * 0x20 + 0x1C, len(out))
+        out += repl.get(n, d[o:o + s])
+    assert not set(repl) - {n for n, _, _ in es}, "unknown names"
+    return bytes(out)
+
+
 def get(d, name):
     for n, o, s in entries(d):
         if n == name:

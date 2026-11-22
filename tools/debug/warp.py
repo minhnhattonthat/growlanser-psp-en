@@ -3,7 +3,8 @@
     python -X utf8 tools/debug/warp.py --scene dbgmenu --out work/qa/warp            one entry, shots + sheet
     python -X utf8 tools/debug/warp.py --scene "scene 42 area 3 sub 0" --out DIR       a raw scene id 0-379
     python -X utf8 tools/debug/warp.py --all --out work/qa/warp [--only a,b]          every entry: DIR/<name>/,
-        state work/states/<name>.ppst (asserted landed first), DIR/summary.tsv; exit 1 if any entry failed
+        state work/states/<name>.ppst (DIR/<name>/state.ppst with --iso), asserted landed first, DIR/summary.tsv;
+        exit 1 if any entry failed
 
 How (PPSSPP has no Lua; RAM pokes over the debugger WebSocket, debug only, never in a build): the New Game branch at
 0x088062E4 stores area 2 / sub 5 into the save block and zeroes the two scene-request halfwords, then the field
@@ -260,7 +261,8 @@ def main():
         for name in names:
             t0 = time.time()
             out = Path(a.out) / name
-            st = ROOT / "work" / "states" / f"{name}.ppst"
+            # work/states holds original-ISO states only; a run on another image keeps its states in its out dir
+            st = ROOT / "work" / "states" / f"{name}.ppst" if Path(a.iso).resolve() == Path(ISO).resolve() else out / "state.ppst"
             try:
                 got = warp(scenes[name], out, a.iso, a.frames, a.shot_every, st, log=lambda s: print(name, s, flush=True))
             except (RuntimeError, OSError, EOFError) as e:   # one emulator failure must not stop the batch

@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 3. Identity build next (phase 2 debug tool done session 4, 2026-11-22). No build yet.
+- **Phase:** 4. Extract next (phase 3 identity build done session 5, 2026-11-22).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -29,7 +29,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   menu + gear screens): `warp.py --all --out work/qa/warp` = 80/80 land (work/qa/warp/summary.tsv, finals*.png
   checked by eye), states in work/states/<name>.ppst. `tools/debug/save.py` (saves are encrypted: RAM edits +
   in-game save; make + check round trip verified for money/LV/HP, work/saves/edit1). No disc 2 on PSP.
-- **Next (phase 3):** identity build: unpack ISO, repack with no edits, byte-identical test (`build.py`).
+  Session 5 (phase 3, docs/re/build.md): `build.py` (+ `--identity`) with `pack()` in dat.py / datadat.py / glb.py
+  for SCEN, MAP, MAGD, DATA, DATA_BOOT, GLB; identity ISO SHA-1 = rom.sha1 (tests/test_identity.py, in check).
+  Relocation proven in game: all six grown and moved to the image end -> smoke + 6 warps identical to the original.
+  warp.py `--all --iso X` now keeps states in the out dir (work/states = original ISO only).
+- **Next (phase 4):** extract to script/*.json (SCEN sections, MSYS sections, module string tables, SJIS/UTF-8
+  system strings); `tbl/jp.tbl` incl. new glyphs 0x7CB-0x835; roundtrip test re-encoding every string to its bytes.
+  MSYS.DAT needs its own text-section writer (flat file). Phase 5: find an EBOOT signing tool (sign_np or similar),
+  prove a re-signed BOOT.BIN boots, before any code patch.
   Phase 8 warp additions still open: game over (docs/re/debug.md "Game over"), clear-save fixture for APPENDIX,
   shops, stress saves (inventory lists, other unit records). Credits: cast pages with Japanese names at f21000-23400
   of the `credits` warp (settle P5 vs P13 there).

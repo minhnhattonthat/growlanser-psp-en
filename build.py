@@ -1,0 +1,97 @@
+"""build.py: rebuild the UMD image with patched files swapped in.
+
+  python -X utf8 build.py             -> build/growlanser_en.iso
+  python -X utf8 build.py --identity  -> work/ident/identity.iso: every archive repacked with no edits; exit 1 unless
+                                         its SHA-1 equals rom.sha1
+
+Steps: check the dump (rom.sha1), unpack the ISO into work/iso/ if missing (read only, never written to), repack the
+archives through their pack() (dat.py sector archives, datadat.py named archives, glb.py), copy the original ISO and
+swap the files in with iso9660.patch (a file that grows moves to the end of the image).
+EBOOT.BIN: kept as shipped while BOOT.BIN (the decrypted module) has no edits; code patches go into BOOT.BIN and are
+re-signed into EBOOT.BIN (platform-psp.md), never shipped as the plain ELF."""
+import argparse
+import hashlib
+import shutil
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(ROOT / "tools"))
+import check_rom  # noqa: E402
+import dat  # noqa: E402
+import datadat  # noqa: E402
+import glb  # noqa: E402
+import iso9660  # noqa: E402
+
+ISO = ROOT / "rom/Growlanser (Japan).iso"
+TREE = ROOT / "work/iso"
+G = "/PSP_GAME/USRDIR/gr_data1/"
+ARCHIVES = {  # ISO path -> pack(orig_bytes, {entry: bytes})
+    G + "SCEN.DAT": dat.pack,
+    G + "MAP.DAT": dat.pack,
+    G + "MAGD.BIN": dat.pack,
+    G + "DATA.DAT": datadat.pack,
+    "/PSP_GAME/USRDIR/DATA_BOOT.DAT": datadat.pack,
+    G + "GLB.DAT": glb.pack,
+}
+
+
+def unpack():
+    if not (TREE / "PSP_GAME").is_dir():
+        with open(ISO, "rb") as f:
+            for p, lba, ln, _ in iso9660.listing(f):
+                d = TREE / p.lstrip("/")
+                d.parent.mkdir(parents=True, exist_ok=True)
+                f.seek(lba * 2048)
+                d.write_bytes(f.read(ln))
+
+
+def orig(path):
+    p = TREE / path.lstrip("/")
+    if not p.is_file():  # work/iso may skip big files nobody edits (VOICE.DAT)
+        with open(ISO, "rb") as f:
+            lba, ln = next((lba, ln) for q, lba, ln, _ in iso9660.listing(f) if q == path)
+            f.seek(lba * 2048)
+            return f.read(ln)
+    return p.read_bytes()
+
+
+def patches(edits):
+    """edits: {iso_path: {entry: bytes}} -> {iso_path: new file bytes}; every archive is repacked even with no edits,
+    so the identity build exercises each pack()."""
+    assert not set(edits) - set(ARCHIVES), "edits for a file with no packer"
+    return {p: pack(orig(p), edits.get(p, {})) for p, pack in ARCHIVES.items()}
+
+
+def build(out, files):
+    out.parent.mkdir(parents=True, exist_ok=True)
+    shutil.copyfile(ISO, out)
+    iso9660.patch(out, out, files)
+
+
+def sha1(path):
+    with open(path, "rb") as f:
+        return hashlib.file_digest(f, "sha1").hexdigest()
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    ap.add_argument("--identity", action="store_true", help="repack with no edits and compare to rom.sha1")
+    args = ap.parse_args()
+    check_rom.check()
+    unpack()
+    if args.identity:
+        out = ROOT / "work/ident/identity.iso"
+        build(out, patches({}))
+        want = next(ln for ln in (ROOT / "rom.sha1").read_text(encoding="utf-8").splitlines()
+                    if ln.strip() and not ln.startswith("#")).split()[0]
+        got = sha1(out)
+        print(f"{out}: {got}", "identical" if got == want else f"DIFFERS (want {want})")
+        sys.exit(0 if got == want else 1)
+    out = ROOT / "build/growlanser_en.iso"
+    build(out, patches({}))  # phase 4+: text edits go here
+    print(f"{out}: {sha1(out)}")
+
+
+if __name__ == "__main__":
+    main()
