@@ -28,3 +28,5 @@ tools/*/
 *.sstate
 *.ppst
 evidence/private/
+!tools/sign_np/
+tools/sign_np/sign_np

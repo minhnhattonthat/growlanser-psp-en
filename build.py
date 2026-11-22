@@ -1,14 +1,15 @@
 """build.py: rebuild the UMD image with patched files swapped in.
 
-  python -X utf8 build.py             -> build/growlanser_en.iso
+  python -X utf8 build.py             -> build/growlanser_en.iso (tools/insert.py: text, asm/vwf.asm, signed EBOOT)
+  python -X utf8 build.py --mode marker [--qa ID=TEXT].. -> build/growlanser_marker.iso ("[id] The quick..." lines)
   python -X utf8 build.py --identity  -> work/ident/identity.iso: every archive repacked with no edits; exit 1 unless
                                          its SHA-1 equals rom.sha1
 
 Steps: check the dump (rom.sha1), unpack the ISO into work/iso/ if missing (read only, never written to), repack the
 archives through their pack() (dat.py sector archives, datadat.py named archives, glb.py), copy the original ISO and
 swap the files in with iso9660.patch (a file that grows moves to the end of the image).
-EBOOT.BIN: kept as shipped while BOOT.BIN (the decrypted module) has no edits; code patches go into BOOT.BIN and are
-re-signed into EBOOT.BIN (platform-psp.md), never shipped as the plain ELF."""
+EBOOT.BIN: code patches go into BOOT.BIN (the decrypted module) and are re-signed into EBOOT.BIN (tools/sign.py,
+sign_np under WSL), never shipped as the plain ELF; --mode jp keeps the shipped EBOOT."""
 import argparse
 import hashlib
 import shutil
@@ -77,6 +78,9 @@ def sha1(path):
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--identity", action="store_true", help="repack with no edits and compare to rom.sha1")
+    ap.add_argument("--mode", choices=("en", "marker", "jp"), default="en",
+                    help="text: English where translated (default), [id] markers everywhere, or the Japanese re-encoded")
+    ap.add_argument("--qa", action="append", default=[], metavar="ID=TEXT", help="override one string (stress tests)")
     args = ap.parse_args()
     check_rom.check()
     unpack()
@@ -88,8 +92,11 @@ def main():
         got = sha1(out)
         print(f"{out}: {got}", "identical" if got == want else f"DIFFERS (want {want})")
         sys.exit(0 if got == want else 1)
-    out = ROOT / "build/growlanser_en.iso"
-    build(out, patches({}))  # phase 4+: text edits go here
+    import insert
+    overrides = dict(q.split("=", 1) for q in args.qa)
+    flat, edits = insert.patched(args.mode, overrides)
+    out = ROOT / ("build/growlanser_en.iso" if args.mode == "en" else f"build/growlanser_{args.mode}.iso")
+    build(out, {**patches(edits), **flat})
     print(f"{out}: {sha1(out)}")
 
 
