@@ -1,0 +1,10 @@
+# cold boot to title, then move the cursor and start a new game
+600 -
+6 down
+60 -
+6 up
+60 -
+6 up
+60 -
+6 circle
+1200 -
