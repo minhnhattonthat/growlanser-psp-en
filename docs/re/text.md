@@ -79,6 +79,28 @@ each **pool first and its table right after it**; together they tile **BOOT.BIN 
   (noise; the file is compressed).
 - GLB.DAT kana-like hits are image data (checked a sample: decodes as noise).
 
+## Printer and the English VWF (phase 5, verified: disassembly of a RAM dump, `tools/debug/trace.py`, marker build)
+The PSP code is a recompile of the PS1 printer (PS1 notes: `../growlanser-en/docs/re/text.md` "Text drawing"):
+- Printer **0x088748A0** (frame 0x80; s6 column, s5 row), called from the print wrapper 0x08868480 (frame 0x30, ra at
+  +0x20; returns to 0x08868504) and 0x08875830. Glyph routines (read the font via pointer 0x08CDE890): 0x08876C14
+  normal (y = row*16+2, x = col*12 texels), jal at 0x0887501C (row s5) and 0x088750F8 (row s5+1); 0x0887705C double
+  (y = row*16+6), jal at 0x08874CE0. Each is followed by jal WAIT 0x0886BF54 and s6 += 1 / 2. Canvas struct
+  0x08CDE894 = PS1 layout (base1, stride1, split col, -, base2, stride2), u16 text colour at +0x20, shadow colour 5.
+- Message display 0x08868788 calls the wrapper from 12 sites. **Typewriter** flag = byte 0x08CD1B63 (PS1 gp+0x87E):
+  tests at 0x08869BCC / 0x08869DCC branch to the typewriter blocks (0x0886A8C0 / 0x0886A93C: 0x0886A9B8 prints the
+  first code, then 0x08869FC4 prints one code per frame into a 1x1-column window at the cursor; trace: a0 = 0, 1,
+  2...). Otherwise the page path (wrapper call 0x08869E90 after 0x08869DCC; twin 0x08869C5C after 0x08869BCC, guess).
+- **Pre-parser** 0x088673D8: loop head 0x088675D4 (`lhu a1, (s2)`, s2 += 2), column s1 += 1 at 0x088677F4 (+2 at
+  0x08867A58), extent: min col s16 0x08CCD5D4, max start col s16 0x08CD1BBC, max row 0x08CD1B24; page print width =
+  max - min + 1.
+- `asm/vwf.asm` (port of the PS1 one, without dictionary / MSYS packing / popup width yet): glyph calls -> vwf_std /
+  vwf_big (they set s6 = ceil(x/12) themselves; the s6 steps become nops, WAIT stays), both typewriter tests nop'd
+  (page at once), pre-parser steps -> vwf_measure, printer entry -> vwf_newstr (continuation return addresses
+  CONT_RA1/2 still 0 = every print is a new string; PS1 needed them for "We  lcome" gaps after a first-code print;
+  not seen in the PSP marker tour so far). Code + en font in font cells 0x6A0+ (RAM 0x0892E7B8, ends 0x0892F6D8).
+- Marker build (work/qa/mk, mk_dlg): dialogue pages (multi-line, wait continuations), choice menu (dbgmenu), field
+  menu, item list, status, config all draw English pairs. Name tag shows "0." for a 2-code tag (PS1 tag_pad needed).
+
 ## Script files (phase 4, verified: `tools/extract.py --check` rebuilds every pool byte-identical; tests/test_extract.py)
 `python -X utf8 tools/extract.py` writes script/*.json (never overwrites; `--force` only files with no English):
 - `scen/sNNN.json` (309 files, N = SCEN entry - 380), `msys/{items,magic,skills}.json`: form "section" (entry, at, pad,

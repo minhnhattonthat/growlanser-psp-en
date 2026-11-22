@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 5. Engine spike and marker build next (phase 4 extract done session 6, 2026-11-22).
+- **Phase:** 5. Engine spike and marker build in progress (VWF + marker build working; width gate left), session 7.
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -38,14 +38,27 @@ Updated at the end of every session. Keep it to what the next session needs; his
   cstr pools): 36,283 strings, all rebuild byte-identical (tests/test_extract.py, in check; ranges tile).
   `tbl/jp.tbl` = PS1 table + PSP glyphs 0x7CB-0x835 (`tools/fontmatch.py ... 0x1230D8`, 5 fixed by eye).
   28,401/35,972 PSP jp strings equal a translated PS1 jp exactly: prefill those in phase 6.
-- **Next (phase 5):** find an EBOOT signing tool (sign_np or similar), prove a re-signed BOOT.BIN boots, before any
-  code patch. Insert path: SCEN entries via dat.pack, MSYS.DAT sections written back into the flat file (free 0x150
-  after items, 0x7E4 after skills; grow = shift sections + patch the loader bounds), module tables need relocation
-  (getter lui/addiu, text.md). Font/VWF decision (PS1 repo's VWF as reference), marker build `[id]` per line,
-  width gate. Keyboard grids (boot/kbd.json): decide keep JP vs Latin (PS1 D14 kept them).
+  Session 7 (phase 5, docs/re/build.md "EBOOT", text.md "Printer and the English VWF"): `tools/sign.py` (sign_np
+  under WSL, tag 0) -> signed EBOOT boots. `asm/vwf.asm` = PS1 VWF port (pair codes, font/en12.txt, `tools/enfont.py`
+  copied), hooks pinned in `tools/insert.py` HOOKS; PRX R_MIPS_26 rule (`tools/prxrel.py`) enforced by insert.armips.
+  `build.py --mode jp|marker|en [--qa ID=TEXT]`: jp = byte-identical ISO; marker = every string "[id] The quick..."
+  at the JP word count (in place, no relocation) -> boots, smoke ok, 10 warps land (work/qa/mk), dialogue/choices/
+  menus draw English (work/qa/mk_dlg). tests/test_insert.py. D10 (keyboard grids + default names stay JP), D11 (VWF).
+  Recon tools: `tools/mips.py` (func/calls/gp refs on a RAM dump), `tools/debug/trace.py` (breakpoint call tracer).
+- **Next (phase 5, rest):** (1) width gate: copy PS1 `tools/stress.py` + `tools/fit.py` (BUDGETS) + docs/windows.md
+  model; `--qa` needs a file option and in-place room: let SCEN entries grow (dat.pack moves them; RAM scene buffer
+  size unknown on PSP: find it) and for BOOT tables shrink the other markers of that pool when an override is longer.
+  Measure every variant of PS1 windows.md on PSP (dialogue cells per line: box looked 24 cells/288 px?, name tag,
+  choices, help, descriptions, item/spell/skill/class/unit names, config, place popup, captions, sys.0069 slots).
+  (2) name-tag pad (PS1 insert.Encoder.tag_pad), popup width hook (PS1 popup_width, find PSP 0x8006BA48 twin),
+  caption centring; CONT_RA1/2 only if a "We  lcome" gap shows. (3) glyph torture line in the dialogue box.
+  (4) marker tour wider: battle UI (bt_*), shops, save screen, credits; anything still Japanese = unextracted text.
+  Phase 7 later: grown pools need relocation (BOOT tables -> free kanji cells 0x11C-0x69F like PS1 Heap; MSYS
+  growth; SCEN slot size); dictionary / MSYS packing only if RAM limits demand it (PS1 needed both).
   Phase 8 warp additions still open: game over (docs/re/debug.md "Game over"), clear-save fixture for APPENDIX,
   shops, stress saves (inventory lists, other unit records). Credits: cast pages with Japanese names at f21000-23400
   of the `credits` warp (settle P5 vs P13 there).
-- **Open bugs:** none.
+- **Open bugs:** name tag shows 2 codes only ("0." for scen000.0001 marker: tag width = code count, needs tag_pad).
+  Signed EBOOT untested on real hardware (tag 0 instead of the original key).
 - **Waiting on the user:** (non-blocking) face-plate art spells ELIOTTE/RUISE/RICHART (DATA.DAT chr_face*.bmp);
   default = redraw to the glossary spellings (Elliot, Luise, Richard) per D9.

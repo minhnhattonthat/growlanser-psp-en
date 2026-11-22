@@ -17,5 +17,17 @@ to the end of the image, directory record repointed). Every archive goes through
   dbg_face, ending, gear_status, title_load land with identical final frames (ending: credits scroll a few px apart,
   load timing). So the game opens these files by name (ISO directory) and reads the archive headers: entries may grow.
 - Not packed yet: MSYS.DAT (flat file, text sections at 0x42800-0x4A81C: phase 4 rewrites them in place or grows the
-  file), UPD.UPD (compressed, format unknown), BOOT.BIN/EBOOT.BIN (EBOOT shipped as is until code changes; then
-  patch BOOT.BIN and re-sign: needs a signing tool (sign_np or similar), phase 5).
+  file), UPD.UPD (compressed, format unknown).
+
+## EBOOT (phase 5, verified)
+- Code patches go into BOOT.BIN (plain PRX); `tools/sign.py` re-signs it with sign_np -elf (source tools/sign_np/src,
+  GPLv3, built under WSL once: command in sign.py) into EBOOT.BIN; build.py ships both. The original ~PSP tag
+  0xC0CB167C is an old key sign_np can't make; tag 0 (0xD91609F0) is used. Proof: a BOOT.BIN with the font inverted,
+  signed into EBOOT.BIN only (original BOOT.BIN left), showed inverted glyphs at the first dialogue (work/qa/signspike).
+  Not yet tried on real PSP / Vita hardware.
+- PRX relocations (`tools/prxrel.py`, 65,523 entries): the loader adds the base 0x08804000 at each. A patched word at
+  an R_MIPS_26 site (every original j/jal) must stay a j/jal with a module-relative target (asm macros CALL_REL /
+  JUMP_REL), any other word there is corrupted at load; `insert.armips` enforces it. New code in the free font cells
+  uses absolute RAM addresses (module base is fixed; no new relocation entries).
+- Modes: `build.py --mode jp` = text re-encoded, shipped EBOOT, ISO byte-identical to rom.sha1 (verified);
+  `--mode marker` / default en: armips + signed EBOOT.

@@ -44,6 +44,10 @@ FREE_ASM = tuple(int(re.search(r"^%s\s+equ\s+(0x[0-9A-Fa-f]+)" % k, _ASM, re.M).
 GEN_DEFAULT = {"CONT_RA1": 0, "CONT_RA2": 0}
 
 KEEP_JP = {"boot.sys.%04d" % i for i in range(5)}  # single punctuation / blanks (PS1 exe.sys 0-4: kinsoku data)
+# Name-entry key grids, one code per key (the key's code is what the name gets): D10 (= PS1 D14)
+KEEP_JP |= {"boot.sys.%04d" % i for i in range(70, 100)}
+# Default names ＰＬＡＹＥＲ / ＭＹ ＣＩＴＹ: the name field takes one code per cell (D10 = PS1 D17/D18)
+KEEP_JP |= {"boot.names.0000", "boot.units.0000", "boot.names.0014", "boot.units.0014"}
 KEEP_POOLS = ("boot.kbd.", "boot.dict.")  # name-entry key grids (one code per key, PS1 D14); dictionary (English
 # spells words out, the F4xx codes are dropped)
 FILLER = "The quick brown fox jumps over the lazy dog. "
