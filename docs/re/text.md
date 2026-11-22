@@ -114,3 +114,27 @@ The PSP code is a recompile of the PS1 printer (PS1 notes: `../growlanser-en/doc
 - Entry: id, jp (terminator excluded), en, term (end = FFFE, null = FFFF), unref (no pointer). 36,283 strings, 4,523
   unref. Unmapped glyphs only the PS1 ones (icons, flourish 01BE, blanks) and 07ED (true 哮; 04C2 = PS1 哮).
 - 28,401 of 35,972 non-empty PSP jp strings equal a translated PS1 jp string exactly (scen 26,670/33,777).
+
+## Phase 7: English sizes and the load buffers (session 10)
+English vs in-place room (`insert.Encoder("en")`): BOOT tables +2.5 KB (8 of 10 pools grow), MSYS items 39.7 KB >
+22.2 KB, magic 5.0 > 3.5 KB, skills 8.7 > 6.8 KB, SCEN 281 of 309 pools grow, +215 KB in all.
+- **BOOT tables: done (verified in game).** `insert.heap_tables` (port of PS1 `Heap`): all strings of the 9 non-dict
+  tables go to one heap = their original pools + kanji cells 0x471-0x69F minus icon cells (`insert.FONT_FREE`); u16
+  arrays stay in place; every addiu that builds an old pool base is rewritten to HEAP_RAM 0x0892C000 (`repoint`:
+  classes/help/items/magic/places/skills/units 1 site each, names 3, sys 16 = the sys-entry-0 fallback in every
+  getter). lui/addiu immediates of .data addresses are relative to the .data segment (RAM 0x089213C0), lui half
+  0x0001 kept. 9.5 KB of the 29 KB heap left. Marker build: smoke ok, gear_items warp shows heap item names
+  (work/qa/p7_heap/final.png). Cells English still draws >= 0x11C: 01BE 01C2 0298 02A4 (below the heap).
+- **MSYS text buffer (verified, RAM dump work/qa/ram_items at gear_items):** a static BSS buffer at 0x08BB5A98, the
+  next static object at 0x08BBB298, so 0x5800 bytes (JP items section 0x56B0). Getter 0x08853C34(a0 = 1, a1 =
+  section): loaded flag lb 0x08C9BC10 == a0, loading flag 0x08C9B73C, u16 section offsets at 0x08C9B87C, returns
+  0x08BB5A98 + 2 * offset. Code refs to the buffer: 0x08853B6C, 0x08853C80, 0x088543C4 (loader not read yet).
+- **Scene pair buffer (verified, dumps ram_d1/items/bt/dbg):** entry N (0-379) loads at 0x08B94F38 and entry N + 380
+  (the text) right after it; next static object 0x08B9FF38, so 0xB000 bytes = the largest JP pair (scene 186, padded).
+  Refs to 0x08B94F38: 0x088074A0 (indexes 52-byte records at +0xC: the region may be a struct array, not only the
+  buffer: read before moving it), 0x08808024, 0x08808108, 0x0880A14C, 0x0881BFC4, 0x0881DBA0; +8: 0x0881DB8C;
+  0x08B9FF38: 0x0880766C, 0x08820BBC, 0x08820F2C.
+- **Free RAM:** every dump has 0x0994E0C0-0x09D40000 (~4 MB) all zero, below the codec libraries at 0x09D4B000; the
+  module ("Model", 0x08804000) .data memsz 0x488CFC ends at 0x08DAA0BC, game allocations follow (MSYS.DAT head at
+  0x08DAB740). Plan A: grow phdr[1] p_memsz (BOOT.BIN, re-signed) and move both buffers to the new BSS tail (test
+  with the marker build + all warps first); plan B: PS1's dictionary (scenes) + Huffman (MSYS) packing.

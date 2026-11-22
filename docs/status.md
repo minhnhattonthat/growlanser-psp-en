@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7. Insert, fit, check: not started (phase 6 done in session 9: every string has English).
+- **Phase:** 7. Insert, fit, check: in progress (session 10: phase 6 review fixed; BOOT tables relocated; MSYS
+  and scene buffers next).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -71,17 +72,28 @@ Updated at the end of every session. Keep it to what the next session needs; his
   reviewed by 13 reviewer subagents (every Critical/Important fixed), merged: 0 strings need English, fit.py 0
   errors, `batches.py check` (all shipped English) 0 problems. ~170 Minors in docs/polish.md (polish pass before
   release, incl. sweeps: American spelling, 様 -> Lord/Lady before {s:} names, Portable Mana Pillar case).
-  Not done: synopsis section 6 (PSP-only scenes, work/psp_scenes.txt; needed for the phase 9 story pass:
-  `tl_run.py psp-scenes` once codex works, or a reviewer/translator subagent). Glossary has the PSP-only terms.
-- **Next (phase 7, insert/fit/check):** in-place insert fails on grown pools: relocation needed (see "Phase 7
-  later" below). Pools: boot.sys 192-195 new, sys.0032 / 0146 changed. boot.save English contains real "\n"
+  Session 10 (phase 6 review fixes, H:\translation\.harness\reviews\growlanser-psp-en-phase6.md): synopsis
+  section 6 written (PSP-only Darkfall arc, from a skim of the English, not line by line: the phase 9 story pass
+  must read the 43 PSP-only scenes in order against it and correct it); 45 voice/register items moved out of
+  polish.md and fixed (polish batch work/tl/p001, merged through the wrapper; hard {p} kept before voice codes);
+  3 British spellings; batches.py check 28 min -> 23 s and now in check.py (+ tests/test_batches.py);
+  tools/show.py (strings by id). Review Minor 2 (様 -> Lord/Lady sweep vs PS1 precedent) still open: get a ruling
+  into decisions.md before the polish pass. Lint gap seen: nothing flags an English line with fewer {p} than the
+  JP before a voice code (wrapper drops the page break); worth a batches.py rule.
+  Phase 7 so far: BOOT tables relocated into a string heap (`insert.heap_tables`, getters repointed, verified in game
+  on the marker build). docs/re/text.md "Phase 7" has the MSYS and scene buffer findings.
+- **Next (phase 7, insert/fit/check):** `build.py` (en) now fails at MSYS (items 39.7 KB > 0x5800 static buffer
+  0x08BB5A98), then SCEN (scene pair buffer 0x08B94F38, 0xB000 bytes; 281 pools grow). Try plan A first (grow
+  .data p_memsz, move both buffers to the new BSS tail; ~4 MB of RAM is never touched): read the loaders at the
+  ref sites in docs/re/text.md "Phase 7", check whether 0x08B94F38 is a struct array, prove with marker build +
+  `warp.py --all`. Plan B = PS1 dictionary + MSYS Huffman (../growlanser-en tools/dictenc.py, msyspack.py).
+  Then: romdiff.py allowed ranges, fit lint clean, control codes matched (phase 7 done-when).
+  Pools: boot.sys 192-195 new, sys.0032 / 0146 changed. boot.save English contains real "\n"
   (system dialog; check cstr sizes). {s:FFED} in scen188.0058 (alpha waves?) to check in game.
   Phase 7 (fitting ports from PS1 insert.py): name-tag pad (frame = code count), popup width hook (find the PSP twin
   of PS1 0x8006BA48), caption centring, name-entry SLOTS (sys.0069). Measure in phase 8: battle UI (unit / class
   names, battle messages: bt_tutorial lands before the battle starts), captions (scen010.0114, scen014.0003), spell
   list with Luise in the party, place popup, shops, save screen.
-  Phase 7 later: grown pools need relocation (BOOT tables -> free kanji cells 0x11C-0x69F like PS1 Heap; MSYS
-  growth; SCEN slot size); dictionary / MSYS packing only if RAM limits demand it (PS1 needed both).
   Phase 8 warp additions still open: game over (docs/re/debug.md "Game over"), clear-save fixture for APPENDIX,
   shops, stress saves (inventory lists, other unit records). Credits: cast pages with Japanese names at f21000-23400
   of the `credits` warp (settle P5 vs P13 there).

@@ -55,3 +55,21 @@ def test_vwf_asm_sites():
         w = struct.unpack_from("<I", out, insert.ram_to_file(a))[0]
         sym = insert.symbols()["vwf_big" if a == 0x08874CE0 else "vwf_std"]
         assert w == 0x0C000000 | (sym - 0x08804000) >> 2
+
+
+def test_boot_heap():
+    """English BOOT tables: each id read back the getter's way (repointed base + 2 * u16) gives its encoded string."""
+    boot, enc = bytearray(extract.read("BOOT.BIN")), insert.Encoder("en")
+    docs = [d for d in insert.docs() if d["file"] == "BOOT.BIN" and d["form"] == "table"
+            and not d["entries"][0]["id"].startswith(insert.KEEP_POOLS)]
+    insert.heap_tables(boot, enc, docs)
+    base = insert.ram_to_file(insert.HEAP_RAM)
+    for d in docs:
+        t, want = int(d["table"], 16), enc.strings(d)
+        for k, (i, delta) in enumerate(extract._refs_parse(d["refs"])):
+            at = base + 2 * struct.unpack_from("<H", boot, t + 2 * k)[0]
+            s = want[i][delta // 2:]
+            assert list(struct.unpack_from("<%dH" % len(s), boot, at)) == s, d["entries"][i]["id"]
+    # the classes getter's pool base now builds HEAP_RAM: lui 0x0001 kept, addiu lo16 = HEAP_RAM - .data RAM
+    w = struct.unpack_from("<I", boot, insert.ram_to_file(0x08876668))[0]
+    assert w & 0xFFFF == (insert.HEAP_RAM - insert.DATA_SEG) & 0xFFFF

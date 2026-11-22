@@ -122,13 +122,16 @@ class Encoder:
             t = t.replace("・", "")[:len(e["jp"].encode(e["enc"]))]  # ASCII, no longer than the Japanese bytes
         return extract.cstr_bytes({**e, "en": t}, "en")
 
+    def strings(self, doc):
+        return [self.words(e) + [extract.TERM_W[e["term"]]] for e in doc["entries"]]
+
     def pool(self, doc):
         """New bytes for a pool, in place: section bytes, (table, pool bytes) or [cstr slots]. A pool holding a --qa
         override gets short markers elsewhere, so the override has room."""
         self.squeeze = any(e["id"] in self.overrides for e in doc["entries"])
         if doc["form"] == "cstr":
             return [self.cstr(e) for e in doc["entries"]]
-        strings = [self.words(e) + [extract.TERM_W[e["term"]]] for e in doc["entries"]]
+        strings = self.strings(doc)
         refs = extract._refs_parse(doc["refs"])
         if doc["form"] == "section":
             pad = doc["pad"] if self.mode == "jp" else textsec.pad_for(strings, len(refs))
@@ -148,13 +151,95 @@ def put(buf, at, new, old_len, what):
     buf[at:at + old_len] = new + bytes(old_len - len(new))
 
 
+FONT = 0x1230D8  # BOOT.BIN game font, 18 bytes per glyph cell
+# BOOT string tables outside jp mode (PS1 insert.Heap): every string goes to a heap made of the tables' original pools
+# plus free kanji cells; each table keeps its u16 array, and its getters' pool base (an addiu lo16) moves to HEAP_RAM,
+# so a string may sit anywhere in [HEAP_RAM, HEAP_RAM + 128 KB). HEAP_RAM keeps the lui half (0x0893) of every
+# original base, so only addiu immediates change (no HI16 carry change for the PRX loader).
+HEAP_RAM = 0x0892C000
+# Kanji cells from HEAP_RAM up to vwf.asm (0x6A0), minus icon cells (PS1 list: 0530 heart, 0571 0643 0644 buttons).
+# Cells English still draws (raw codes / kept JP: 01BE 01C2 0298 02A4) are all below 0x471.
+FONT_FREE = [(0x471, 0x530), (0x531, 0x571), (0x572, 0x643), (0x645, 0x6A0)]
+DATA_SEG = DATA_FILE + DATA_HS  # RAM of .data: lui/addiu immediates of .data addresses hold RAM - DATA_SEG
+
+
+def file_to_ram(o):
+    return o + (DATA_HS if o >= DATA_FILE else TEXT_HS)
+
+
+class Heap:
+    """First-fit string space; identical strings are stored once."""
+
+    def __init__(self, pools):
+        self.ranges = sorted(pools + [(FONT + 18 * a, FONT + 18 * b) for a, b in FONT_FREE])
+        assert self.ranges[0][0] >= ram_to_file(HEAP_RAM)
+        self.free, self.placed = list(self.ranges), {}
+
+    def put(self, blob):
+        if blob in self.placed:
+            return self.placed[blob]
+        for k, (s, e) in enumerate(self.free):
+            if e - s >= len(blob):
+                self.free[k] = (s + len(blob), e)
+                self.placed[blob] = s
+                return s
+        raise ValueError("BOOT string heap full (%d bytes)" % len(blob))
+
+
+def repoint(boot, old_ram, new_ram):
+    """Rewrite every `lui r, hi` .. `addiu r', r, lo` in .text that builds old_ram (a .data address, stored
+    segment-relative) to build new_ram; the lui half must stay the same. Returns the number of sites."""
+    old, new = old_ram - DATA_SEG, new_ram - DATA_SEG
+    lui, n = {}, 0
+    for o in range(0xC4, DATA_FILE, 4):
+        w = struct.unpack_from("<I", boot, o)[0]
+        op, rs, rt, imm = w >> 26, (w >> 21) & 31, (w >> 16) & 31, w & 0xFFFF
+        if op == 0x0F:  # lui
+            lui[rt] = imm
+        elif op == 0x09 and rs in lui and (lui[rs] << 16) + imm - (imm & 0x8000) * 2 == old:
+            if (new + 0x8000) >> 16 != lui[rs]:
+                raise ValueError("0x%08X: new base 0x%08X needs another lui half" % (file_to_ram(o), new_ram))
+            struct.pack_into("<I", boot, o, (w & 0xFFFF0000) | (new & 0xFFFF))
+            n += 1
+    return n
+
+
+def heap_tables(boot, enc, docs):
+    """Write the BOOT table docs' strings into one Heap, rebuild their u16 arrays in place, repoint the getters."""
+    heap = Heap([(int(d["base"], 16), int(d["table"], 16)) for d in docs])
+    rel = prxrel.relocs(boot)
+    for s, e in heap.ranges:
+        if any(file_to_ram(s) - 4 < a < file_to_ram(e) for a in rel):
+            raise ValueError("PRX relocation inside heap range 0x%X-0x%X" % (s, e))
+        boot[s:e] = bytes(e - s)
+    base = ram_to_file(HEAP_RAM)
+    for doc in docs:
+        enc.squeeze = any(e["id"] in enc.overrides for e in doc["entries"])
+        addr = []
+        for s in enc.strings(doc):
+            blob = struct.pack("<%dH" % len(s), *s)
+            addr.append(heap.put(blob))
+            boot[addr[-1]:addr[-1] + len(blob)] = blob
+        vals = [(addr[i] - base + d) // 2 for i, d in extract._refs_parse(doc["refs"])]
+        table = struct.pack("<%dH" % len(vals), *vals)  # struct fails past 0xFFFF words (128 KB)
+        t = int(doc["table"], 16)
+        put(boot, t, table, len(table), doc["entries"][0]["id"] + " table")
+        if not repoint(boot, file_to_ram(int(doc["base"], 16)), HEAP_RAM):
+            raise ValueError("%s: no getter builds pool base %s" % (doc["entries"][0]["id"], doc["base"]))
+    return heap
+
+
 def patched(mode="en", overrides=None, tree=extract.TREE):
     """{ISO path: bytes} for flat files and {ISO path: {entry: bytes}} for SCEN.DAT, plus EBOOT/BOOT (signed)."""
     enc = Encoder(mode, overrides)
     scen, boot, msys = extract.read("SCEN.DAT", tree), bytearray(extract.read("BOOT.BIN", tree)), \
         bytearray(extract.read("MSYS.DAT", tree))
-    entries = {}
+    entries, tables = {}, []
     for doc in docs():
+        if mode != "jp" and doc["file"] == "BOOT.BIN" and doc["form"] == "table" and \
+                not doc["entries"][0]["id"].startswith(KEEP_POOLS):
+            tables.append(doc)
+            continue
         new = enc.pool(doc)
         if doc["file"] == "SCEN.DAT":
             ent = bytearray(entries.get(doc["entry"]) or dat.entry(scen, doc["entry"]))
@@ -172,6 +257,8 @@ def patched(mode="en", overrides=None, tree=extract.TREE):
             t, base = int(doc["table"], 16), int(doc["base"], 16)
             put(boot, t, table, len(table), doc["entries"][0]["id"] + " table")
             put(boot, base, pool, t - base, doc["entries"][0]["id"] + " pool")
+    if tables:
+        heap_tables(boot, enc, tables)
     if mode != "jp":
         boot = armips(bytes(boot))
     sysdir = "/PSP_GAME/SYSDIR/"
