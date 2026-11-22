@@ -15,170 +15,198 @@
   {
    "id": "scen293.0001",
    "jp": "ミーシャのところに行ってやれ。",
-   "en": "",
-   "term": "end"
+   "en": "Go see Misha.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0002",
    "jp": "なんだ、俺の所ばかり来ないで、{n}他の奴らの様子でも見てこい。",
-   "en": "",
-   "term": "end"
+   "en": "What, back here again? Go see how the others{n}are doing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0003",
    "jp": "おいおい、他に行くところはないのか？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, haven't you got anywhere else to go?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0004",
    "jp": "ふふ、お前たち。{n}休暇の楽しみってのは仕事が{n}あってはじめてわかるもんだぜ。{p}久々に酒が飲める気分ってのは{n}まだわからんだろうがな。",
-   "en": "",
-   "term": "end"
+   "en": "Heh. It's having work to do that makes you appreciate{n}a holiday, you lot.{p}You wouldn't understand the pleasure of a drink after{n}a long dry spell yet, though.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0005",
    "jp": "アイツと戦ったことを思い出すぜ。{n}お前たちも見ただろう？{n}水晶鉱山で見たあの怪物さ。{p}多くの仲間が殺された。{n}そして隊長だけが互角に‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Brings back memories of fighting that thing. You saw it{n}too, didn't you? That monster in the crystal mine.{p}It killed a lot of our comrades. Only the captain could{n}match it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0006",
    "jp": "じゃあね、ウォレスさん。",
-   "en": "",
-   "term": "end"
+   "en": "See you, Wallace-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0007",
    "jp": "‥‥ジュリアンがインペリアル・ナイトか‥‥。{n}彼らの実力は計り知れん。{p}一度だけ、手合わせをしたことがあるがな。{n}いつまでたっても勝負がつかなかったぜ。",
-   "en": "",
-   "term": "end"
+   "en": "...Julian, an Imperial Knight... No telling how strong those{n}knights really are.{p}I sparred with one once. We fought on and on, but{n}neither of us could win.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0008",
    "jp": "{v:003A}ウェーバーは寡黙で誠実な男でな。{n}俺のいい兄貴分だった。{p}{v:003B}部隊に入った頃の俺の面倒をよくみてくれたもんさ。{n}俺だけじゃなく、部隊の誰からも好かれていた。{p}{v:003C}面倒見の良さだけでなく、{n}作戦指揮能力も優れていたからな。{p}{v:003D}だからこそ俺も、安心して部隊をウェーバーに{n}預けることができた。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Weber was a quiet, honest man. Like a good older{n}brother to me.{p}{v:003B}He looked after me when I first joined the unit.{n}Everyone liked him, not just me.{p}{v:003C}He didn't just look after his men. He was a damn good{n}commander, too.{p}{v:003D}That's why I could leave the unit in Weber's hands{n}without worrying.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0009",
    "jp": "{v:0041}んじゃ、ガムランって人は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}So, what about this Gamlan guy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0010",
    "jp": "{v:0042}そうだな‥‥{FE1E}ウェーバーとはある意味正反対な{n}男だったな。{p}{v:0043}無口だったが、いつも腹の中で何を考えているのか{n}分からない奴だった。{p}{v:0044}そして前線で指揮するより、後方で様々な魔法を{n}駆使して自分に有利な戦局を生み出す男だった。{p}{v:0045}ウェーバーはなんとか合わせていたようだが、{n}俺とはよくぶつかっていた。{p}{v:0046}隊長がいなけりゃ、あっというまに部隊はバラバラに{n}なっていただろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Let's see...{FE1E}In some ways, he was Weber's{n}exact opposite.{p}{v:0043}Didn't say much, but you could never tell what he was{n}really thinking.{p}{v:0044}Instead of commanding from the front, he'd stay in the{n}rear and use all sorts of magic to turn the battle{n}his way.{p}{v:0045}Weber seemed to manage with him somehow, but he{n}and I often clashed.{p}{v:0046}Without the captain, the unit would've fallen apart in{n}no time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0011",
    "jp": "うん、またね。",
-   "en": "",
-   "term": "end"
+   "en": "Okay, see you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0012",
    "jp": "休暇で遊び回るのもいいがな、{n}ゆっくり休むのも仕事のうちだぜ。{n}お前は騎士なんだからな。",
-   "en": "",
-   "term": "end"
+   "en": "Nothing wrong with having fun on leave, but getting a{n}proper rest is part of the job, too. You're a knight,{n}after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0013",
    "jp": "剣の稽古をさぼってないだろうな？{n}俺は片手と両目がやられていたころから{n}鍛錬を欠かせたことはない。{p}おかげで、今でもなんとか戦えるわけさ。",
-   "en": "",
-   "term": "end"
+   "en": "You haven't been skipping sword practice, have you?{n}I've never missed my training, even when I'd lost an arm{n}and both eyes.{p}That's how I can still hold my own.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0014",
    "jp": "俺が闘技大会で優勝した頃は、{n}今ほど参加者がいなかった。{p}だが、あの頃の俺ならジュリアンにも負けなかったぜ。{n}まあ、お前もジュリアンもまだまだ伸びる。{n}この先はわからんな。",
-   "en": "",
-   "term": "end"
+   "en": "There weren't as many entrants when I won the{n}tournament as there are now.{p}But back then, I wouldn't have lost to Julian, either.{n}Still, you and Julian have plenty of room to grow. Who{n}knows what'll happen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0015",
    "jp": "俺の故郷は、ローランディアの片田舎でな。{n}もう何年も帰ってないよ。{p}もっとも親はもういねぇし、{n}兄妹たちもちりぢりだがな。",
-   "en": "",
-   "term": "end"
+   "en": "I come from a backwater in Rolandia. Haven't been home{n}in years.{p}Not that my parents are still around. My brothers and{n}sisters have all scattered, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0016",
    "jp": "そう言えば、俺の田舎には大きな木があった。{n}小さい頃、そこから落ちて怪我をした。{p}ふふ、悔しくてな。{FFFB}{n}怪我が治ってからは必死で木登りの練習をしたよ。",
-   "en": "",
-   "term": "end"
+   "en": "Come to think of it, there was a big tree back home.{n}Fell out of it and hurt myself when I was little.{p}Heh. Couldn't stand being beaten by a tree.{FFFB}Once I'd{n}healed, I practiced climbing for all I was worth.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0017",
    "jp": "そう言えば、村では毎年、祭りがあった。{n}デリス村の宴で少しそれを思い出したよ。{p}まあ、大人達が酒を飲んじゃあ騒ぐって{n}だけだったがな。",
-   "en": "",
-   "term": "end"
+   "en": "We used to have a festival in the village every year.{n}That feast in Delis Village brought back a few memories.{p}Though ours was just the grown-ups getting drunk and{n}making a racket.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0018",
    "jp": "小さいころ、俺に剣の稽古を{n}付けてくれたのは兄貴だった。{n}村で一番強くてな。{p}まあ、兵士になって辺境の争いに出て{n}死んじまったよ。{p}ま、そんなもんさ。",
-   "en": "",
-   "term": "end"
+   "en": "My older brother taught me swordsmanship when I{n}was little. Strongest man in the village.{p}Then he became a soldier and died fighting out on{n}the frontier.{p}Well, that's how it goes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0019",
    "jp": "剣に槍、弓‥‥。{n}一通りの武器を使ったが、やはり剣が一番だ。{n}バランスが良く、どんな状況にも対応できる。{p}どんな武器を使うにせよ、まず剣を学ぶんだな。{n}そうすれば俺の様に特殊な武器でも{n}使いこなせるようになるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "Swords, spears, bows... I've tried all the usual{n}weapons, but a sword's still best. Well balanced. Suits{n}any situation.{p}Whatever weapon you mean to use, learn the sword{n}first. Then you'll be able to handle an unusual weapon{n}like mine, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0020",
    "jp": "この義手にもだいぶ馴れたが、{n}難しいのは力加減だ。{p}微妙に力を入れることができなくてな。{n}卵を割ったりして訓練したよ。",
-   "en": "",
-   "term": "end"
+   "en": "I've gotten used to this artificial arm, but controlling its{n}strength is tricky.{p}Couldn't manage a delicate touch. Practiced by{n}cracking eggs.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0021",
    "jp": "俺は魔法が使えないから、{n}なかなか魔法のありがたみがわからなかったが、{n}義手と義眼でずいぶんと実感したぜ。{p}やはり、自分で触れてみるのが一番だな。",
-   "en": "",
-   "term": "end"
+   "en": "I can't use magic, so I never really appreciated it. This{n}artificial arm and these eyes taught me plenty.{p}Nothing like experiencing something for yourself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0022",
    "jp": "リーダーたる者は、自分が戦いながらも{n}周囲の戦況を把握して、臨機応変に動かねばならん。{p}目だけに頼るな。全ての感覚を使うんだ。",
-   "en": "",
-   "term": "end"
+   "en": "A leader has to keep track of the battle and adapt as{n}it changes, even while fighting.{p}Don't just rely on your eyes. Use all your senses.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0023",
    "jp": "俺達のような集団は、傭兵のように{n}戦いで糧を得ている人間とは違う。{p}だから、信頼関係は命だ。{n}お前が仲間を信じ、仲間がお前を信じて初めて{n}俺達は戦えるのだという事を忘れるな。",
-   "en": "",
-   "term": "end"
+   "en": "A group like ours is different from a mercenary outfit{n}that makes its living fighting.{p}Trust is our lifeblood. We can only fight if you trust{n}your comrades and they trust you. Don't forget that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0024",
    "jp": "近頃は街道の治安が悪くなったものだ。{n}モンスターや夜盗は、世の乱れに敏感だからな。{p}早く剣を持たぬ者が安心して旅を続けられるような{n}世になるよう、お前もがんばれよ。",
-   "en": "",
-   "term": "end"
+   "en": "The roads have gotten dangerous lately. Monsters and{n}bandits are quick to sense unrest.{p}Do your part, kid. The sooner folk without swords can{n}travel in peace, the better.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0025",
    "jp": "人間の性格と同じで、太刀筋ってのは人それぞれだ。{n}そいつの生き方っていうのがなんとなく出るもんさ。{FFFB}{n}ふふ、隊長の剣さばきは忘れられんよ。",
-   "en": "",
-   "term": "end"
+   "en": "Everyone has their own way with a sword, just like{n}their own character. Somehow, it shows the way{n}they've lived.{FFFB}Heh.{p}I'll never forget the captain's swordsmanship.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0026",
    "jp": "世の中には強い奴がたくさんいる。{n}だが、強いというだけでは意味がない。{n}その強さを何に使うかが重要だ。",
-   "en": "",
-   "term": "end"
+   "en": "There's no shortage of strong people in this world. But{n}strength alone means nothing. What matters is how{n}you use it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0027",
    "jp": "傭兵仲間には過去を語りたがらない奴が多かった。{n}まあ、みんながみんな重い過去を{n}背負っているわけじゃなかったが‥‥。{p}そういうのは苦手って奴が多かったな。",
-   "en": "",
-   "term": "end"
+   "en": "A lot of my mercenary comrades didn't like talking about{n}their pasts. Not that every last one had some dark{n}history weighing on him...{p}Most just weren't comfortable with that sort of talk.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen293.0028",
    "jp": "さて、アタシたちも行こうか。",
-   "en": "",
-   "term": "end"
+   "en": "Well, shall we get going, too?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,92 +15,107 @@
   {
    "id": "scen241.0001",
    "jp": "{FFEE}モンスター使いを倒せ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Defeat the Monster Tamer!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0002",
    "jp": "{v:0020}まさか川を使うとはね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}I never thought you'd use the river!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0003",
    "jp": "{v:0021}川の流れを利用するとは考えたものだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Using the river's current... Clever.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0004",
    "jp": "{v:0022}風だけでなく、流れる水も使えるとは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}So flowing water works as well as wind...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0005",
    "jp": "{v:0023}要はこの粉の匂いが伝わればいいのです。{n}風や水は手段にすぎないのですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}All that matters is that the scent of this powder{n}spreads. Wind and water are merely means to{n}that end.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0006",
    "jp": "{v:0024}それじゃ、アンタがいなくなれば{n}モンスターも元通りね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Then once you're gone, the monsters will go back{n}to normal!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0007",
    "jp": "{v:0025}だが、操る奴がいなくなれば、{n}モンスターどもも元に戻る！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}But once the one controlling them is gone, the{n}monsters will return to normal!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0008",
    "jp": "{v:0026}ならば元を絶つのみ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Then we need only eliminate the source!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0009",
    "jp": "{v:0027}罪もないモンスターたちを戦いに使うのはやめて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Stop using innocent monsters to fight your battles!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0010",
    "jp": "{v:0028}どうしてモンスターを戦わせるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Why do you make monsters fight?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0011",
    "jp": "{v:0029}彼らは私の友であり道具です。{n}農夫が馬に畑を耕させる。{n}狩人が犬に獲物を追わせる。{p}{v:002A}私はモンスターを戦わせる。{n}同じことですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}They are my friends and my tools. A farmer has{n}horses plow his fields. A hunter has dogs chase{n}his prey.{p}{v:002A}I have monsters fight. It is precisely the same.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0012",
    "jp": "{v:002B}そんなの屁理屈よ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}That's just a cheap excuse!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0013",
    "jp": "{v:002C}生き物を道具だなんて言わないで！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Don't call living creatures tools!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0014",
    "jp": "{v:002D}‥‥く‥私は‥‥。{n}‥すまない‥ラファガ‥‥。{n}‥‥お前の‥仇討ちは‥‥‥。{p}{v:002E}‥‥今度は‥一緒に‥空‥‥‥‥ぐふっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}...Guh... I... I'm sorry... Rafaga... I couldn't... avenge you...{p}{v:002E}...This time... together... in the sky... gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen241.0015",
    "jp": "‥‥お、おのれ！{p}これならどうです！？",
-   "en": "",
-   "term": "end"
+   "en": "...Y-you wretches!{p}How about this, then?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -8,218 +8,254 @@
   {
    "id": "msys.skills.0000",
    "jp": "{F4DF}効率よ{F4EF}敵の急所を狙{F4D4}いく{F41C}{F4BA}クリティカル率{F4BE}わずかだが上昇{F4BD}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Targets enemy weak points more efficiently, slightly{n}raising the critical hit rate. On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0001",
    "jp": "{F4DF}効率よ{F4EF}敵の急所を狙{F4D4}いく{F41C}{F4BA}クリティカル率が上昇{F4BD}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Targets enemy weak points more efficiently, raising{n}the critical hit rate. On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0002",
    "jp": "{F4DF}効率よ{F4EF}敵の急所を狙{F4D4}いく{F41C}{F4BA}クリティカル率が{F4DF}上昇{F4BD}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Targets enemy weak points more efficiently, raising{n}the critical hit rate further. On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0003",
    "jp": "{F4E9}に毒を塗る{F41C}{F4BA}{F4C3}時、対象に毒{F4E2}を{F496}可能性がやや{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in poison. Attacks have a small{n}chance to poison the target. On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0004",
    "jp": "{F4E9}に毒を塗る{F41C}{F4BA}{F4C3}時、対象に毒{F4E2}を{F496}可能性が{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in poison. Attacks have a chance to{n}poison the target. On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0005",
    "jp": "{F4E9}に毒を塗る{F41C}{F4BA}{F4C3}時、対象に毒{F4E2}を{F496}可能性が{F4D9}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in poison. Attacks have a high chance{n}to poison the target. On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0006",
    "jp": "{F4E9}に猛毒を塗る{F41C}{F4BA}{F4C3}時、対象に猛毒{F4E2}を{F496}可能性がやや{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in venom. Attacks have a small{n}chance to inflict venom on the target.{n}On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0007",
    "jp": "{F4E9}に猛毒を塗る{F41C}{F4BA}{F4C3}時、対象に猛毒{F4E2}を{F496}可能性が{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in venom. Attacks have a chance to{n}inflict venom on the target. On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0008",
    "jp": "{F4E9}に猛毒を塗る{F41C}{F4BA}{F4C3}時、対象に猛毒{F4E2}を{F496}可能性が{F4D9}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in venom. Attacks have a high{n}chance to inflict venom on the target.{n}On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0009",
    "jp": "{F4E9}にマヒ毒を塗る{F41C}{F4BA}{F4C3}時、対象にマヒ{F4E2}を{F496}可能性がやや{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in paralytic poison. Attacks have a{n}small chance to paralyze the target.{n}On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0010",
    "jp": "{F4E9}にマヒ毒を塗る{F41C}{F4BA}{F4C3}時、対象にマヒ{F4E2}を{F496}可能性が{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in paralytic poison. Attacks have a{n}chance to paralyze the target.{n}On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0011",
    "jp": "{F4E9}にマヒ毒を塗る{F41C}{F4BA}{F4C3}時、対象にマヒ{F4E2}を{F496}可能性が{F4D9}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in paralytic poison. Attacks have a{n}high chance to paralyze the target.{n}On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0012",
    "jp": "{F4E9}に石化毒を塗る{F41C}{F4BA}{F4C3}時、対象に石化{F4E2}を{F496}可能性がやや{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in petrifying poison. Attacks have a{n}small chance to petrify the target.{n}On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0013",
    "jp": "{F4E9}に石化毒を塗る{F41C}{F4BA}{F4C3}時、対象に石化{F4E2}を{F496}可能性が{F4C4}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in petrifying poison. Attacks have a{n}chance to petrify the target.{n}On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0014",
    "jp": "{F4E9}に石化毒を塗る{F41C}{F4BA}{F4C3}時、対象に石化{F4E2}を{F496}可能性が{F4D9}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Coats the weapon in petrifying poison. Attacks have a{n}high chance to petrify the target.{n}On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0015",
    "jp": "{F4D5}の利き腕をマヒさせ、{F4C3}{F4C2}奪う{F41C}{F4BA}{F440}対象の{F4C3}{F4C2}低下{F48B}{F4BA}発動：通常{F4C3}時／{F4F4}：アタック",
-   "en": "",
-   "term": "null"
+   "en": "Paralyzes the target's dominant arm, lowering attack{n}power for a while. On normal attacks.{n}Recovery: Attack.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0016",
    "jp": "{F4C3}に{F4E7}気を乗せ、対象の{F4F9}にも{F478}{F4CA}{F496}{F41C}。ＭＰ{F478}は通常{F478}の１０％{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Channels potent fighting spirit into attacks to harm the{n}mind, too. MP damage is 10% of normal damage.{n}On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0017",
    "jp": "隣接{F4BD}全ての敵に回し斬りを叩き込む{F41C}{F4BA}スキが{F48E}大き{F4CD}め、頻繁には使え{F4D8}{F4BA}発動：通常{F4C3}時／間接{F4E9}装備時は{F4D2}不可",
-   "en": "",
-   "term": "null"
+   "en": "Spin-slashes all adjacent foes. Leaves a wide opening,{n}so it cannot be used often. On normal attacks; no{n}ranged weapons.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0018",
    "jp": "隣接{F4BD}全ての敵に回し斬りを叩き込む{F41C}{F4BA}技を{F4DF}深く修得{F4BD}事{F4C1}スキを小さく{F4CE}い{F4CC}{n}発動：通常{F4C3}時／間接{F4E9}装備時は{F4D2}不可",
-   "en": "",
-   "term": "null"
+   "en": "Spin-slashes all adjacent foes. Greater mastery{n}reduces the opening left afterward. On normal attacks;{n}no ranged weapons.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0019",
    "jp": "続けざまに２度の{F4C3}を叩き込む{F41C}{F4BA}難度の{F4D9}技であ{F4DC}め{F4CF}に使え{F4D8}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Strikes twice in quick succession. A difficult technique{n}that rarely activates. On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0020",
    "jp": "続けざまに２度の{F4C3}を叩き込む{F41C}{F4BA}技を{F4DF}深く修得{F4BD}事{F4C1}スキを小さく{F4CE}い{F4CC}{n}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Strikes twice in quick succession. Greater mastery{n}reduces the opening left afterward. On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0021",
    "jp": "{F4D5}に{F4C3}{F4BC}際、スキを見て物を盗む{F41C}{F4BA}{F48E}高度な技の{F4C5}、簡単には成功し{F4D8}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Steals an item through an opening while attacking. This{n}advanced technique rarely succeeds. On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0022",
    "jp": "{F4D5}に{F4C3}{F4BC}際、スキを見て物を盗む{F41C}{F4BA}技にみがきをか{F4DE}{F4BB}{F4C1}{F4DF}良い物を盗み出す{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Steals an item through an opening while attacking.{n}Refined technique yields better items.{n}On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0023",
    "jp": "{F4D5}に{F4C3}{F4BC}際、スキを見て物を盗む{F41C}{F4BA}技を極める{F4BB}{F4C1}さらに良い物を盗み出す{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Steals an item through an opening while attacking.{n}Perfected technique yields even better items.{n}On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0024",
    "jp": "体重を乗せ、{F4C3}{F4D5}を強打{F4BD}{F41C}{F4BA}対象の硬直時間{F4E3}のばす{F4BB}が{F47A}{F4BA}発動：通常{F4C3}時",
-   "en": "",
-   "term": "null"
+   "en": "Puts your weight behind a heavy blow, extending the{n}target's stagger time. On normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0025",
    "jp": "毒に対{F4BD}耐性{F482}{F4BB}{F4C1}敵の{F4C3}による毒{F4C0}猛毒を{F4A7}{F4BD}{F41C}{F4BA}発動：常時",
-   "en": "",
-   "term": "null"
+   "en": "Grants poison resistance, preventing poison and severe{n}poison from enemy attacks. Always active.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0026",
    "jp": "マヒ毒に対{F4BD}耐性{F482}{F4BB}{F4C1}マヒ毒{F4C3}{F4CA}{F4A7}{F4BD}{F41C}{F4BA}発動：常時",
-   "en": "",
-   "term": "null"
+   "en": "Grants resistance to paralyzing poison, preventing{n}attacks with it from taking effect. Always active.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0027",
    "jp": "石化毒に対{F4BD}耐性{F482}{F4BB}{F4C1}石化{F4C3}{F4CA}{F4A7}{F4BD}{F41C}{F4BA}発動：常時",
-   "en": "",
-   "term": "null"
+   "en": "Grants resistance to petrifying poison, preventing{n}petrification attacks from taking effect. Always active.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0028",
    "jp": "生命エネルギーを{F491}{F4BB}{F4C1}即死{F489}{n}{F4A7}{F4BD}{F41C}{F4BA}発動：常時",
-   "en": "",
-   "term": "null"
+   "en": "Boosts life energy to nullify instant-death magic.{n}Always active.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0029",
    "jp": "特種な結界を張る{F41C}{F4C1}{F4D1}{F4C3}に{F4D2}{F47C}{n}ＭＰの５０％を吸収し、自分のＭＰを{F4F4}{F48B}{F4BA}発動：{F4D1}{F4C3}を受けた時",
-   "en": "",
-   "term": "null"
+   "en": "Creates a special barrier that absorbs 50% of an{n}attacking spell's MP cost to restore your MP. When hit{n}by attack magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0030",
    "jp": "周囲に己の分身を{F4A0}し、敵を惑わす{F41C}{F4BA}敵の直接{F4C3}を回避し{F4AF}{F4BD}{F4BA}発動：通常{F4C3}を受けた時",
-   "en": "",
-   "term": "null"
+   "en": "Creates doubles around you to confuse foes, making{n}melee attacks easier to evade. When facing{n}normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0031",
    "jp": "{F4D5}の{F4C3}のスキをつき、反撃を行う{F41C}{F4BA}{F4AD}、{F4F5}は{F48E}少{F4D8}{F4BA}発動：通常{F4C3}を受けた時",
-   "en": "",
-   "term": "null"
+   "en": "Counterattacks through an opening in the foe's attack,{n}but with very little power. When facing normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0032",
    "jp": "{F4D5}の{F4C3}のスキをつき、反撃を行う{F41C}{F4BA}{F4AD}、{F4F5}は少{F4D8}{F4BA}発動：通常{F4C3}を受けた時",
-   "en": "",
-   "term": "null"
+   "en": "Counterattacks through an opening in the foe's attack,{n}but with little power. When facing normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0033",
    "jp": "{F4D5}の{F4C3}のスキをつき、反撃を行う{F41C}{F4BA}{F4AD}、{F4F5}はそれ{F4DD}高く{F4D8}{F4BA}発動：通常{F4C3}を受けた時",
-   "en": "",
-   "term": "null"
+   "en": "Counterattacks through an opening in the foe's attack,{n}but without much power. When facing normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0034",
    "jp": "単体目標の{F4D1}{F4C3}を受けた際、{F4BF}{F4D1}{F4E2}{F4CA}{F4BF}まま術者に反射{F4BD}{F41C}{F4BA}発動：単体{F4C3}{F489}受けた時",
-   "en": "",
-   "term": "null"
+   "en": "Reflects a single-target attack spell's effects back at{n}its caster unchanged. When targeted by single-target{n}attack magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0035",
    "jp": "{F4F9}を活性化{F48B}{F41C}{F4BA}{F4C3}を受けた際の硬直時間{F4E3}短縮{F47A}{F4BA}発動：通常{F4C3}を受けた時",
-   "en": "",
-   "term": "null"
+   "en": "Energizes the mind to shorten stagger time after{n}taking a hit. When hit by normal attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0036",
@@ -230,116 +266,135 @@
   {
    "id": "msys.skills.0037",
    "jp": "様々な{F417}に習熟し、{F417}{F4D2}時間{F4CA}短縮{F4BD}{F41C}。{F4D2}時間を７５％に短縮{F47A}{F4BA}発動：道具{F4D2}時",
-   "en": "",
-   "term": "null"
+   "en": "Familiarity with various items cuts item use time to 75%{n}of normal. When using items.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0038",
    "jp": "治癒能{F4C2}{F491}{F4BB}{F4C1}一定時間ごとにＨＰ{F4CA}{F4F4}{F48B}{F41C}。最大ＨＰの５％を{F4F4}{F4BD}{F4BA}発動：戦闘中のみ、一定時間毎",
-   "en": "",
-   "term": "null"
+   "en": "Boosts healing to restore 5% of maximum HP at regular{n}intervals. Active only during battle.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0039",
    "jp": "ヴェンツェル専用{F41C}{F4BA}だ{F4C7}プレイヤーは{n}もてね{F4D8}のねん。",
-   "en": "",
-   "term": "null"
+   "en": "Wenzel's exclusive skill. Sooo, players can't have it!",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0040",
    "jp": "{F4F9}集中を{F491}{F4BB}{F4C1}一定時間ごとにＭＰ{F4CA}{F4F4}{F48B}{F41C}。最大ＭＰの２％を{F4F4}{F4BD}{F4BA}発動：戦闘中のみ、一定時間毎",
-   "en": "",
-   "term": "null"
+   "en": "Heightens mental focus to restore 2% of maximum MP{n}at regular intervals. Active only during battle.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0041",
    "jp": "運動能{F4C2}飛躍的に{F491}{F41C}{F4BA}戦闘{F4D3}移動速度が１０％向上{F4BD}{F4BA}発動：戦闘移動時",
-   "en": "",
-   "term": "null"
+   "en": "Greatly boosts athletic ability, increasing movement{n}speed in battle by 10%. When moving in battle.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0042",
    "jp": "運動能{F4C2}飛躍的に{F491}{F41C}{F4BA}戦闘{F4D3}移動速度が２０％向上{F4BD}{F4BA}発動：戦闘移動時",
-   "en": "",
-   "term": "null"
+   "en": "Greatly boosts athletic ability, increasing movement{n}speed in battle by 20%. When moving in battle.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0043",
    "jp": "運動能{F4C2}飛躍的に{F491}{F41C}{F4BA}戦闘{F4D3}移動速度が３０％向上{F4BD}{F4BA}発動：戦闘移動時",
-   "en": "",
-   "term": "null"
+   "en": "Greatly boosts athletic ability, increasing movement{n}speed in battle by 30%. When moving in battle.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0044",
    "jp": "水上を移動可能{F4AE}{F41C}{F4BA}水上と浅瀬を移動出来{F4CC}{n}敵専用",
-   "en": "",
-   "term": "null"
+   "en": "Allows movement over water, including shallows.{n}Enemies only.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0045",
    "jp": "飛行{F41C}{F4BA}あちこち移動出来{F4CC}{n}敵専用",
-   "en": "",
-   "term": "null"
+   "en": "Flight. Allows movement all over the place.{n}Enemies only.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0046",
    "jp": "壁すりぬけ{F41C}{F4BA}移動禁止以外の全てを移動出来{F4CC}{n}敵のアンデッド専用",
-   "en": "",
-   "term": "null"
+   "en": "Passes through walls. Allows movement anywhere{n}except forbidden areas. Undead enemies only.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0047",
    "jp": "人体の生命{F4C2}極限まで{F491}{F41C}{F4BA}最大ＨＰを１０％上昇{F48B}{F4BA}発動：常時",
-   "en": "",
-   "term": "null"
+   "en": "Pushes physical vitality to its limit, raising maximum HP{n}by 10%. Always active.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0048",
    "jp": "人体の生命{F4C2}極限まで{F491}{F41C}{F4BA}最大ＨＰを２５％上昇{F48B}{F4BA}発動：常時",
-   "en": "",
-   "term": "null"
+   "en": "Pushes physical vitality to its limit, raising maximum HP{n}by 25%. Always active.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0049",
    "jp": "人体の生命{F4C2}極限まで{F491}{F41C}{F4BA}最大ＨＰを４０％上昇{F48B}{F4BA}発動：常時",
-   "en": "",
-   "term": "null"
+   "en": "Pushes physical vitality to its limit, raising maximum HP{n}by 40%. Always active.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0050",
    "jp": "人体の{F4F9}{F4C2}極限まで{F491}{F41C}{F4BA}最大ＭＰを１０％上昇{F48B}{F4BA}発動：常時",
-   "en": "",
-   "term": "null"
+   "en": "Pushes mental strength to its limit, raising maximum{n}MP by 10%. Always active.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0051",
    "jp": "人体の{F4F9}{F4C2}極限まで{F491}{F41C}{F4BA}最大ＭＰを２０％上昇{F48B}{F4BA}発動：常時",
-   "en": "",
-   "term": "null"
+   "en": "Pushes mental strength to its limit, raising maximum{n}MP by 20%. Always active.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0052",
    "jp": "人体の{F4F9}{F4C2}極限まで{F491}{F41C}{F4BA}最大ＭＰを３０％上昇{F48B}{F4BA}発動：常時",
-   "en": "",
-   "term": "null"
+   "en": "Pushes mental strength to its limit, raising maximum{n}MP by 30%. Always active.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0053",
    "jp": "{F46F}{F4D3}集中{F4C2}極限まで{F491}{F41C}{F4BA}{F4D1}{F478}を１０％上昇{F48B}{F4BA}発動：{F4C3}{F4D1}{F4D2}時",
-   "en": "",
-   "term": "null"
+   "en": "Maximizes concentration during spell casting, raising{n}magic damage by 10%. When using attack magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0054",
    "jp": "{F46F}{F4D3}集中{F4C2}極限まで{F491}{F41C}{F4BA}{F4D1}{F478}を２０％上昇{F48B}{F4BA}発動：{F4C3}{F4D1}{F4D2}時",
-   "en": "",
-   "term": "null"
+   "en": "Maximizes concentration during spell casting, raising{n}magic damage by 20%. When using attack magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0055",
    "jp": "{F46F}{F4D3}集中{F4C2}極限まで{F491}{F41C}{F4BA}{F4D1}{F478}を３０％上昇{F48B}{F4BA}発動：{F4C3}{F4D1}{F4D2}時",
-   "en": "",
-   "term": "null"
+   "en": "Maximizes concentration during spell casting, raising{n}magic damage by 30%. When using attack magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0056",
@@ -356,14 +411,16 @@
   {
    "id": "msys.skills.0058",
    "jp": "兄妹{n}～二人とも気をつけてね～",
-   "en": "",
-   "term": "null"
+   "en": "Brother and Sister -- Both of you, take care!",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0059",
    "jp": "{F4D1}学院{F46A}{n}～講師：ルイセ～",
-   "en": "",
-   "term": "null"
+   "en": "About the Magic Academy -- Instructor: Luise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0060",
@@ -380,8 +437,9 @@
   {
    "id": "msys.skills.0062",
    "jp": "悲しき再会{n}～風の中のジュリアン～",
-   "en": "",
-   "term": "null"
+   "en": "A Sorrowful Reunion -- Julian in the Wind",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0063",
@@ -392,20 +450,23 @@
   {
    "id": "msys.skills.0064",
    "jp": "牢獄のカレン{n}～みなさん、どう{F4CE}ここへ～",
-   "en": "",
-   "term": "null"
+   "en": "Karen in Prison -- Everyone, what brings you here?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0065",
    "jp": "神秘の涙{n}～お兄ちゃん、泣いてる～",
-   "en": "",
-   "term": "null"
+   "en": "Mystic Tears -- Big Brother, you're crying...",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0066",
    "jp": "ルイセ復活{n}～心配かけちゃ{F4CF}ね～",
-   "en": "",
-   "term": "null"
+   "en": "Luise Revived -- I made you worry, didn't I?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0067",
@@ -416,8 +477,9 @@
   {
    "id": "msys.skills.0068",
    "jp": "ルイセの告白{n}～お兄ちゃんが好き～",
-   "en": "",
-   "term": "null"
+   "en": "Luise's Confession -- I love you, Big Brother.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0069",
@@ -434,8 +496,9 @@
   {
    "id": "msys.skills.0071",
    "jp": "ミーシャの愛情{n}～お兄さまを支えます～",
-   "en": "",
-   "term": "null"
+   "en": "Misha's Love -- I'll stand by you, Big Brother.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0072",
@@ -452,38 +515,44 @@
   {
    "id": "msys.skills.0074",
    "jp": "ジュリアと街で{n}～{F4D0}ドレス似合うだろうか～",
-   "en": "",
-   "term": "null"
+   "en": "In Town with Julia -- I wonder if this dress suits me.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0075",
    "jp": "ジュリアンの告白{n}～愛{F4BD}人の中で～",
-   "en": "",
-   "term": "null"
+   "en": "Julian's Confession -- Within the One I Love",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0076",
    "jp": "ティピの想い{n}～アンタの{F4BB}好きだよ～",
-   "en": "",
-   "term": "null"
+   "en": "Tippi's Feelings -- I love you, you know!",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0077",
    "jp": "ティピちゃん日記",
-   "en": "",
-   "term": "null"
+   "en": "Tippi-chan's Diary",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0078",
    "jp": "フェザーランド崩壊",
-   "en": "",
-   "term": "null"
+   "en": "The Fall of Featherland",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0079",
    "jp": "時空制御塔墜落",
-   "en": "",
-   "term": "null"
+   "en": "The Crash of the Space-Time Control Tower",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0080",
@@ -530,62 +599,72 @@
   {
    "id": "msys.skills.0087",
    "jp": "おまけ{n}～アイキャッチ・①～",
-   "en": "",
-   "term": "null"
+   "en": "Bonus -- Eyecatch 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0088",
    "jp": "おまけ{n}～アイキャッチ・②～",
-   "en": "",
-   "term": "null"
+   "en": "Bonus -- Eyecatch 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0089",
    "jp": "おまけ{n}～アイキャッチ・③～",
-   "en": "",
-   "term": "null"
+   "en": "Bonus -- Eyecatch 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0090",
    "jp": "おまけ{n}～アイキャッチ・④～",
-   "en": "",
-   "term": "null"
+   "en": "Bonus -- Eyecatch 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0091",
    "jp": "おまけ{n}～アイキャッチ・⑤～",
-   "en": "",
-   "term": "null"
+   "en": "Bonus -- Eyecatch 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0092",
    "jp": "おまけ{n}～アイキャッチ・⑥～",
-   "en": "",
-   "term": "null"
+   "en": "Bonus -- Eyecatch 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0093",
    "jp": "おまけ{n}～アイキャッチ・⑦～",
-   "en": "",
-   "term": "null"
+   "en": "Bonus -- Eyecatch 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0094",
    "jp": "おまけ{n}～アイキャッチ・⑧～",
-   "en": "",
-   "term": "null"
+   "en": "Bonus -- Eyecatch 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0095",
    "jp": "ミニミニぐろーらんさー",
-   "en": "",
-   "term": "null"
+   "en": "Mini-Mini Growlanser",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0096",
    "jp": "豊口　めぐみ",
-   "en": "",
-   "term": "null"
+   "en": "Megumi Toyoguchi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0097",
@@ -596,26 +675,30 @@
   {
    "id": "msys.skills.0098",
    "jp": "玄田　哲章",
-   "en": "",
-   "term": "null"
+   "en": "Tessho Genda",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0099",
    "jp": "三木　眞一郎",
-   "en": "",
-   "term": "null"
+   "en": "Shin-ichiro Miki",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0100",
    "jp": "手塚　ちはる",
-   "en": "",
-   "term": "null"
+   "en": "Chiharu Tezuka",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0101",
    "jp": "浅野　るり",
-   "en": "",
-   "term": "null"
+   "en": "Ruri Asano",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0102",
@@ -626,26 +709,30 @@
   {
    "id": "msys.skills.0103",
    "jp": "豊嶋　真千子",
-   "en": "",
-   "term": "null"
+   "en": "Machiko Toyoshima",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0104",
    "jp": "二木　静美",
-   "en": "",
-   "term": "null"
+   "en": "Shizumi Niki",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0105",
    "jp": "遠近　孝一",
-   "en": "",
-   "term": "null"
+   "en": "Koichi Tochika",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0106",
    "jp": "置鮎　龍太郎",
-   "en": "",
-   "term": "null"
+   "en": "Ryotaro Okiayu",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0107",
@@ -656,116 +743,135 @@
   {
    "id": "msys.skills.0108",
    "jp": "野島　健児",
-   "en": "",
-   "term": "null"
+   "en": "Kenji Nojima",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0109",
    "jp": "満仲　由紀子",
-   "en": "",
-   "term": "null"
+   "en": "Yukiko Mannaka",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0110",
    "jp": "増谷　康紀",
-   "en": "",
-   "term": "null"
+   "en": "Yasunori Masutani",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0111",
    "jp": "遠藤　守哉",
-   "en": "",
-   "term": "null"
+   "en": "Moriya Endo",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0112",
    "jp": "今村　直樹",
-   "en": "",
-   "term": "null"
+   "en": "Naoki Imamura",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0113",
    "jp": "吉田　愛理",
-   "en": "",
-   "term": "null"
+   "en": "Airi Yoshida",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0114",
    "jp": "稲田　徹",
-   "en": "",
-   "term": "null"
+   "en": "Tetsu Inada",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0115",
    "jp": "高塚　正也",
-   "en": "",
-   "term": "null"
+   "en": "Masaya Takatsuka",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0116",
    "jp": "藤野　とも子",
-   "en": "",
-   "term": "null"
+   "en": "Tomoko Fujino",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0117",
    "jp": "菅沼　久義",
-   "en": "",
-   "term": "null"
+   "en": "Hisayoshi Suganuma",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0118",
    "jp": "西脇　保",
-   "en": "",
-   "term": "null"
+   "en": "Tamotsu Nishiwaki",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0119",
    "jp": "新　千恵子",
-   "en": "",
-   "term": "null"
+   "en": "Chieko Atarashi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0120",
    "jp": "徳山　靖彦",
-   "en": "",
-   "term": "null"
+   "en": "Yasuhiko Tokuyama",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0121",
    "jp": "森下　真子",
-   "en": "",
-   "term": "null"
+   "en": "Mako Morishita",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0122",
    "jp": "木下　尚紀",
-   "en": "",
-   "term": "null"
+   "en": "Naoki Kinoshita",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0123",
    "jp": "戸北　宗寛",
-   "en": "",
-   "term": "null"
+   "en": "Munehiro Tokita",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0124",
    "jp": "土門　仁",
-   "en": "",
-   "term": "null"
+   "en": "Jin Domon",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0125",
    "jp": "滝下　毅",
-   "en": "",
-   "term": "null"
+   "en": "Tsuyoshi Takishita",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0126",
    "jp": "麻生　智久",
-   "en": "",
-   "term": "null"
+   "en": "Tomohisa Aso",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0127",
@@ -776,134 +882,156 @@
   {
    "id": "msys.skills.0128",
    "jp": "田中　一成",
-   "en": "",
-   "term": "null"
+   "en": "Kazunari Tanaka",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0129",
    "jp": "江川　央生",
-   "en": "",
-   "term": "null"
+   "en": "Hisao Egawa",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0130",
    "jp": "　１",
-   "en": "",
-   "term": "null"
+   "en": "1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0131",
    "jp": "　２",
-   "en": "",
-   "term": "null"
+   "en": "2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0132",
    "jp": "　３",
-   "en": "",
-   "term": "null"
+   "en": "3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0133",
    "jp": "　４",
-   "en": "",
-   "term": "null"
+   "en": "4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0134",
    "jp": "　５",
-   "en": "",
-   "term": "null"
+   "en": "5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0135",
    "jp": "　６",
-   "en": "",
-   "term": "null"
+   "en": "6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0136",
    "jp": "　７",
-   "en": "",
-   "term": "null"
+   "en": "7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0137",
    "jp": "　８",
-   "en": "",
-   "term": "null"
+   "en": "8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0138",
    "jp": "　９Ａ",
-   "en": "",
-   "term": "null"
+   "en": "9A",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0139",
    "jp": "　９Ｂ",
-   "en": "",
-   "term": "null"
+   "en": "9B",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0140",
    "jp": "１０",
-   "en": "",
-   "term": "null"
+   "en": "10",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0141",
    "jp": "１１",
-   "en": "",
-   "term": "null"
+   "en": "11",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0142",
    "jp": "１２",
-   "en": "",
-   "term": "null"
+   "en": "12",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0143",
    "jp": "１３",
-   "en": "",
-   "term": "null"
+   "en": "13",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0144",
    "jp": "１４",
-   "en": "",
-   "term": "null"
+   "en": "14",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0145",
    "jp": "１５",
-   "en": "",
-   "term": "null"
+   "en": "15",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0146",
    "jp": "１６",
-   "en": "",
-   "term": "null"
+   "en": "16",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0147",
    "jp": "１７",
-   "en": "",
-   "term": "null"
+   "en": "17",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0148",
    "jp": "１８",
-   "en": "",
-   "term": "null"
+   "en": "18",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0149",
    "jp": "１９",
-   "en": "",
-   "term": "null"
+   "en": "19",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0150",
@@ -920,86 +1048,100 @@
   {
    "id": "msys.skills.0152",
    "jp": "２２",
-   "en": "",
-   "term": "null"
+   "en": "22",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0153",
    "jp": "２３",
-   "en": "",
-   "term": "null"
+   "en": "23",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0154",
    "jp": "２４",
-   "en": "",
-   "term": "null"
+   "en": "24",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0155",
    "jp": "２５",
-   "en": "",
-   "term": "null"
+   "en": "25",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0156",
    "jp": "２６",
-   "en": "",
-   "term": "null"
+   "en": "26",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0157",
    "jp": "２７",
-   "en": "",
-   "term": "null"
+   "en": "27",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0158",
    "jp": "２８",
-   "en": "",
-   "term": "null"
+   "en": "28",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0159",
    "jp": "２９",
-   "en": "",
-   "term": "null"
+   "en": "29",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0160",
    "jp": "３０",
-   "en": "",
-   "term": "null"
+   "en": "30",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0161",
    "jp": "３１",
-   "en": "",
-   "term": "null"
+   "en": "31",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0162",
    "jp": "３２",
-   "en": "",
-   "term": "null"
+   "en": "32",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0163",
    "jp": "３３",
-   "en": "",
-   "term": "null"
+   "en": "33",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0164",
    "jp": "３４",
-   "en": "",
-   "term": "null"
+   "en": "34",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0165",
    "jp": "３５",
-   "en": "",
-   "term": "null"
+   "en": "35",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0166",
@@ -1010,26 +1152,30 @@
   {
    "id": "msys.skills.0167",
    "jp": "３７",
-   "en": "",
-   "term": "null"
+   "en": "37",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0168",
    "jp": "３８",
-   "en": "",
-   "term": "null"
+   "en": "38",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0169",
    "jp": "３９",
-   "en": "",
-   "term": "null"
+   "en": "39",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0170",
    "jp": "４０",
-   "en": "",
-   "term": "null"
+   "en": "40",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0171",
@@ -1082,14 +1228,16 @@
   {
    "id": "msys.skills.0179",
    "jp": "停止",
-   "en": "",
-   "term": "null"
+   "en": "Stop",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0180",
    "jp": "ロード中",
-   "en": "",
-   "term": "null"
+   "en": "Loading...",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.skills.0181",

@@ -41,9 +41,10 @@
   {
    "id": "scen331.0005",
    "jp": "・特にない",
-   "en": "",
+   "en": "・Nothing in particular",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen331.0006",
@@ -676,8 +677,9 @@
   {
    "id": "scen331.0105",
    "jp": "何と言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen331.0106",

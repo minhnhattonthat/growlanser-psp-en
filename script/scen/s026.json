@@ -15,386 +15,450 @@
   {
    "id": "scen026.0001",
    "jp": "魔法学院生徒",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen026.0002",
    "jp": "教授",
-   "en": "",
-   "term": "null"
+   "en": "Professor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen026.0003",
    "jp": "警備兵",
-   "en": "",
-   "term": "null"
+   "en": "Guard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen026.0004",
    "jp": "ヴェンツェル",
-   "en": "",
-   "term": "null"
+   "en": "Wenzel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen026.0005",
    "jp": "ウォレス",
-   "en": "",
-   "term": "null"
+   "en": "Wallace",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen026.0006",
    "jp": "アリオスト",
-   "en": "",
-   "term": "null"
+   "en": "Ariost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen026.0007",
    "jp": "ミーシャ",
-   "en": "",
-   "term": "null"
+   "en": "Misha",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen026.0008",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen026.0009",
    "jp": "フェザリアン",
-   "en": "",
-   "term": "null"
+   "en": "Featherian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen026.0010",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen026.0011",
    "jp": "魔法学院",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0012",
    "jp": "ここは研究に向いてていいよね～。{n}グローシアン遺跡やフェザリアン遺跡が{n}そばにあるし、水晶鉱山もそこそこ近いし。{p}それにローランディアとバーンシュタインの{n}国境沿いでもあるから、学院の立地条件としては{n}まさに最高って感じだな～。",
-   "en": "",
-   "term": "end"
+   "en": "This is a great place for research, isn't it? Growsian and{n}Featherian ruins nearby, and the crystal mine isn't too{n}far away, either.{p}Plus, we're right on the border between Rolandia and{n}Burnstein. You couldn't ask for a better location for{n}the Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0013",
    "jp": "私は薬学を専攻しているから、{n}メディス村とラシェルにしか、用はないけどね。",
-   "en": "",
-   "term": "end"
+   "en": "I specialize in pharmacology, so Medis Village and{n}Rachelle are the only places I need to visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0014",
    "jp": "この前、効能の研究だって、{n}コムスプリングスへ遊びに行ってなかったっけ？",
-   "en": "",
-   "term": "end"
+   "en": "Didn't you go off to Comsprings for fun the other day,{n}claiming you were researching its health benefits?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0015",
    "jp": "失礼ね！{n}温泉だって、立派な研究対象よ！",
-   "en": "",
-   "term": "end"
+   "en": "How rude! Hot springs are a perfectly valid subject{n}of research!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0016",
    "jp": "机にかじりつくだけが学問ではないと思うの。{n}やっぱり外に出ていろいろな経験を積まないと。{n}でも、この学院ってば勉強ばっかりで‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I think there's more to learning than sitting at a desk.{n}You have to get out and experience things for{n}yourself. But all we do at this Academy is study...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0017",
    "jp": "って言うかさ～。{n}魔法の才能がある人間を押し込めて、{n}管理してるんじゃないの？{p}教授とかもさ～、アブナイ奴いるからな～。{n}ま、俺は魔法の勉強が出来ればいいや。",
-   "en": "",
-   "term": "end"
+   "en": "Or maybe they're just keeping everyone with a talent{n}for magic cooped up here so they can control us?{p}Some of the professors are pretty dangerous{n}characters, too. Oh well. As long as I get to study{n}magic, I'm happy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0018",
    "jp": "やっとの思いで、学院に入ったのはいいけど、{n}勉強、勉強の毎日だ‥‥。{n}ああ、青春の日々が過ぎてゆく～。",
-   "en": "",
-   "term": "end"
+   "en": "I finally managed to get into the Academy, but now it's{n}nothing but studying, day in, day out... Ahh, my youth is{n}slipping away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0019",
    "jp": "ん？{n}最近、よく見かける顔だな。{n}まさかここの学生じゃないよね？",
-   "en": "",
-   "term": "end"
+   "en": "Hmm? I've seen you around a lot lately. You're not{n}students here, are you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0020",
    "jp": "くっ、来るならこい！{n}‥‥って、カンジかなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "C-come and get me! ...Something like that, I guess...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0021",
    "jp": "だらしないわねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, pull yourself together!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0022",
    "jp": "一体どうなるんだ？",
-   "en": "",
-   "term": "end"
+   "en": "What's going to happen to us?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0023",
    "jp": "さっき、インペリアル・ナイトの人も{n}奥へ向かったよ。",
-   "en": "",
-   "term": "end"
+   "en": "An Imperial Knight went farther inside a little while{n}ago, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0024",
    "jp": "俺って卒業できるのかな～？{n}村では一番だったけど、入ってみると{n}すごい奴ばっかりだし。{p}‥‥すっかり自信なくしたよ。",
-   "en": "",
-   "term": "end"
+   "en": "Will I ever manage to graduate? I was the best in my{n}village, but everyone here is amazing.{p}...I've completely lost my confidence.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0025",
    "jp": "俺って卒業できるのかな～？",
-   "en": "",
-   "term": "end"
+   "en": "Am I ever going to graduate?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0026",
    "jp": "魔法学院で培ってきた力が{n}人々の役に立てばいいんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "I hope the abilities I've developed at the Magic Academy{n}will help people.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0027",
    "jp": "あ～あ‥‥もっと魔水晶が手に入らないかな。{n}水晶鉱山がもっと発見されれば、{n}こんな悩みは解消されるんだけどな～。",
-   "en": "",
-   "term": "end"
+   "en": "*sigh*... I wish I could get my hands on more magic{n}crystals. If only they'd discover more crystal mines, I{n}wouldn't have this problem...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0028",
    "jp": "私たち、これからどうなるのかしら？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder what's going to happen to us now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0029",
    "jp": "‥‥こ、こわくないぞ。",
-   "en": "",
-   "term": "end"
+   "en": "...I-I'm not scared.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0030",
    "jp": "ボクは戦うぞ！{n}いまやらずに、いつこの力を使うっていうんだ！",
-   "en": "",
-   "term": "end"
+   "en": "I'm going to fight! If I don't use this power now, when{n}will I?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0031",
    "jp": "こんな時に、自分の力不足がくやまれるよ。",
-   "en": "",
-   "term": "end"
+   "en": "At a time like this, I really wish I were stronger.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0032",
    "jp": "元々別の世界を、無理矢理重ねている世界だからな。{n}このような状況も予想はされるのだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Our world was made by forcing separate worlds to{n}overlap, after all. A situation like this is to be{n}expected, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0033",
    "jp": "ふう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "*sigh*...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0034",
    "jp": "まさか、世界が分かれるなんて事は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Surely the worlds won't actually split apart...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0035",
    "jp": "怖いわ、私‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm scared...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0036",
    "jp": "人間の力なんて、ちっぽけなものね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Human strength counts for so little...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0037",
    "jp": "お願い、誰か世界を救って！",
-   "en": "",
-   "term": "end"
+   "en": "Please, someone save the world!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0038",
    "jp": "来る！{n}来るぞ！{n}敵が来るぞぉ～！",
-   "en": "",
-   "term": "end"
+   "en": "They're coming! They're coming! The enemy's coming!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0039",
    "jp": "いつでも来い！{n}僕の魔法で吹き飛ばしてやる！",
-   "en": "",
-   "term": "end"
+   "en": "Come on, then! I'll blast you away with my magic!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0040",
    "jp": "え～ん[01BE]{n}怖いよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "Waaah![01BE] I'm scaaared!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0041",
    "jp": "もぉ、やだぁ‥‥[01BE]{n}ど～して、こんなメにあうのよぉ‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "I can't take any mooore...[01BE] Why is this happening{n}to meee...?[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0042",
    "jp": "泣き言いってんじゃないわよ！{n}私たちの学院は、私たちが守るんでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "Stop whining! We're going to defend our Academy,{n}aren't we?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0043",
    "jp": "{v:0000}ねぇ、ねぇ、知ってる？{n}うちの教授が言ってたんだけど、{n}最近、時空歪み計が異常な値を検出してるんだって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hey, hey, did you hear? Our professor said the{n}space-time distortion gauge has been picking up{n}abnormal readings lately.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0044",
    "jp": "{v:0001}おい、それってヤバイんじゃないの？{n}下手すると時空分裂の兆候かも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Hey, isn't that bad? It could even be a sign of{n}space-time separation...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0045",
    "jp": "{v:0002}うん。{n}教授もそれを心配してるのよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Yes. That's what the professor is worried about, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0046",
    "jp": "{v:0003}詳しく話を聞いてみたいな。{p}{v:0004}教授は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}I'd like to hear more about this.{p}{v:0004}Where's the professor?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0047",
    "jp": "{v:005B}屋上の歪み計にかかりっきり。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Busy with the distortion gauge on the roof.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0048",
    "jp": "あの事件以来、ここは封鎖されているんだ。{n}入ることは出来ないよ。",
-   "en": "",
-   "term": "end"
+   "en": "This place has been sealed off since that incident. You{n}can't go in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0049",
    "jp": "鍵がかかっている。",
-   "en": "",
-   "term": "end"
+   "en": "It's locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0050",
    "jp": "内側からカギをかけられているようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It seems to be locked from the inside...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0051",
    "jp": "今、この僕ができることってなんだろう？{n}何か１つでも、あればいいのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What can I do right now? I wish there were{n}something... Anything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0052",
    "jp": "アリオストの研究室",
-   "en": "",
-   "term": "end"
+   "en": "Ariost's Laboratory",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0053",
    "jp": "ここって、いろんな物があるんですね。",
-   "en": "",
-   "term": "end"
+   "en": "There are all sorts of things here, aren't there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0054",
    "jp": "面白いですね。",
-   "en": "",
-   "term": "end"
+   "en": "How interesting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0055",
    "jp": "薬草の本もあるのかしら？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder if there are any books on medicinal herbs?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0056",
    "jp": "多目的ホール",
-   "en": "",
-   "term": "end"
+   "en": "Multipurpose Hall",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0057",
    "jp": "‥‥{v:004F}ふぅっ。{n}終わった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004F}Whew. It's over...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0058",
    "jp": "{v:0050}それにしても、奴がここを狙うとはな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Still, I never thought he'd come after this place...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0059",
    "jp": "{v:0051}気になることも言っていたね。{n}『人は殺しても研究には手をつけるな』とか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}He said something troubling, too. 'You may kill the{n}people, but leave the research untouched.'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0060",
    "jp": "{v:0052}なんでだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Why would he say that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0061",
    "jp": "{v:0053}う～ん、考えてみると{n}研究を欲しがっているような‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Hmm... Come to think of it, it sounds like he wants{n}the research...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0062",
    "jp": "バーンシュタインへ報告",
-   "en": "",
-   "term": "end"
+   "en": "Report to Burnstein",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0063",
    "jp": "{v:0054}バーンシュタインの王都を襲ったときも、{n}兵士を倒すのが目的だったみたいだし。{n}街の人には攻撃してなかったよね？{p}{v:0055}だったらどうしてここの学生を襲ったのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}When he attacked Burnstein's royal capital, it looked like{n}he was only trying to kill the soldiers. He didn't attack{n}the townspeople, right?{p}{v:0055}Then why did he attack the students here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0064",
    "jp": "{v:0056}ここの魔法使いだって、{n}考え方によっては戦力だからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}The mages here could count as a fighting force,{n}depending on how you look at it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0065",
@@ -405,38 +469,44 @@
   {
    "id": "scen026.0066",
    "jp": "{v:0059}クゥ～～～ッ！！{n}やっぱり、ムカツク～ッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Grrrr!! Ugh, he makes me so MAD!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0067",
    "jp": "{v:005A}さて、これからどうするか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Now, what do we do next...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0068",
    "jp": "ヴェンツェルの真意は？",
-   "en": "",
-   "term": "end"
+   "en": "What Is Wenzel Really After?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0069",
    "jp": "{v:004D}きゃあっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Aah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0070",
    "jp": "{v:004E}そんな‥‥学生たちが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}No... The students...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0071",
    "jp": "{v:0034}ダメだ‥‥僕の魔法じゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}It's no use... My magic isn't...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0072",
@@ -447,410 +517,478 @@
   {
    "id": "scen026.0073",
    "jp": "{v:0036}は、はい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Y-yes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0074",
    "jp": "{FFF3}‥‥{FFF4}{v:0037}とはいえ、多勢に無勢。{n}つらいですね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FFF4}{v:0037}That said, we are badly outnumbered. This{n}is difficult...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0075",
    "jp": "{v:0038}あきらめちゃダメ！{n}私たちが食い止めないと、この学院はおしまいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Don't give up! If we don't hold them back, the Academy{n}is finished!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0076",
    "jp": "{v:0039}そ、そうだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Y-you're right...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0077",
    "jp": "{v:003A}多くの知識を持つことは、決して悪いことではない。{n}だが支配する側から見れば、{n}それは困ったことなのだよ。{p}{v:003B}よってこの学院の関係者は抹殺する！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Possessing a wealth of knowledge is by no means a{n}bad thing. From a ruler's perspective, however, it is{n}rather troublesome.{p}{v:003B}Therefore, everyone connected to this Academy shall{n}be eliminated!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0078",
    "jp": "{v:003C}みんな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Everyone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0079",
    "jp": "{v:003D}そんな事させないから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}We won't let you do that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0080",
    "jp": "{v:003E}よくも、アタシの学校を‥‥！{FFF9}{FFFB}{n}{v:003F}よくも、アタシの友達を‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}How dare you do this to my school...!{FFF9}{FFFB}{v:003F}How dare you{n}hurt my friends...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0081",
    "jp": "‥‥{v:0040}忌々しい、英雄気取りがっ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0040}You insufferable would-be heroes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0082",
    "jp": "{v:0041}別に気取っているわけじゃない。{p}{v:0042}ここは僕の職場だ。{n}暴れてほしくないだけだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}I'm not pretending to be anything.{p}{v:0042}I work here. I'd just prefer you didn't wreck the place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0083",
    "jp": "{v:0043}おまけに口も達者か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}And a clever tongue as well...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0084",
    "jp": "{v:0044}やれやれ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Good grief...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0085",
    "jp": "{v:0045}だったらお前を倒して、{n}名実ともに英雄になってやらぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Then I'll beat you and become a hero in more than{n}just name!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0086",
    "jp": "君たちがいてくれて助かったよ。",
-   "en": "",
-   "term": "end"
+   "en": "It's a good thing you were here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0087",
    "jp": "ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0088",
    "jp": "ありがとうございます。{n}おかげで助かりました。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you so much. You saved us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0089",
    "jp": "た、助かった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I-I'm safe...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0090",
    "jp": "何とか生き残れたのね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Somehow, we made it through alive...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0091",
    "jp": "‥‥まだ足が震えていますぅ‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "...My legs are still shaking...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0092",
    "jp": "もう襲ってきたりしないよね？",
-   "en": "",
-   "term": "end"
+   "en": "They won't attack again, will they?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0093",
    "jp": "{v:0000}まだ、大丈夫みたいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Looks like we're still safe.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0094",
    "jp": "{v:0001}あ、みんな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Oh, everyone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0095",
    "jp": "{v:0002}あの声を聞いて、{n}急いでここへ駆けつけてきたんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}We heard that voice and rushed here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0096",
    "jp": "{v:0003}私も近くまで来ていたので。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}I was nearby as well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0097",
    "jp": "{v:0004}それにしても遅いな？{n}テレポートを使えば、一瞬だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}What's taking him so long, though? He could teleport{n}here in an instant, couldn't he?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0098",
    "jp": "{v:0005}まさか、我々をここにおびき寄せるための‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Could this have been a ploy to lure us here...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0099",
    "jp": "{v:0006}{FFEE}　貴様ら、今度は何をした！{n}　それともまだパワーストーンを持っていたのか！？{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}{FFEE}　What have you wretches done this time?! Or did you{n}still have a Power Stone?!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0100",
    "jp": "{v:0007}何のことを言ってるんだろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}What could he be talking about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0101",
    "jp": "{FFEE}{v:0008}　　だが私のテレポート能力を奪ったからといって{n}　　いい気になるなよ！{n}　　こちらにはグローシアンの兵器があるのだ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}{v:0008}　　But do not grow arrogant simply because you have{n}robbed me of my power to teleport! I still have a{n}Growsian weapon!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0102",
    "jp": "{v:0009}奴のテレポート能力がなくなった！？{n}おい、何をやったんだ、ウォレス？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}He can't teleport anymore?! Hey, Wallace, what did{n}you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0103",
    "jp": "{v:000A}いや、俺たちは何も‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Nothing. We didn't do a thing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0104",
    "jp": "{v:000B}それに『グローシアンの兵器』って何だろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}And what does he mean by a 'Growsian weapon'?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0105",
    "jp": "{v:000C}ん？{n}アレは何だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Hm? What's that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0106",
    "jp": "{v:000D}おい、いったい何が見えるんだ？{n}説明してくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Hey, what can you see? Tell me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0107",
    "jp": "{v:000E}空飛ぶ遺跡だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Flying ruins...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0108",
    "jp": "{v:000F}遺跡？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Ruins?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0109",
    "jp": "{v:0010}下半分がフェザリアン特有の造形だ。{n}上半分がグローシアンの物だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}The lower half has a distinctly Featherian design. The{n}upper half is Growsian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0110",
    "jp": "{v:0011}なんだかチグハグ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}They don't really go together...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0111",
    "jp": "{v:0012}それが奴の言う兵器か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Is that the weapon he meant?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0112",
    "jp": "{v:0013}ああ、たぶん。{p}{v:0014}飛行速度はずいぶん遅いけど‥‥驚いたな。{n}あれが伝承にしか残らない、{n}グローシアンの浮遊城か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Yes, probably.{p}{v:0014}It flies quite slowly, but... incredible. So that's the{n}Growsian floating castle, known only from legends...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0113",
    "jp": "{v:0015}しかし問題は、あの城にどうやって攻撃をかけるかだ。{n}我々にはあそこへ行く手段がない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}The question is how to attack that castle. We have no{n}way to reach it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0114",
    "jp": "{v:0016}アリオストさんの発明であそこへ行けないかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Could we get there with Ariost-san's invention?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0115",
    "jp": "{v:0017}無理じゃない。{n}無理じゃないけど、実用的じゃないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}It's not impossible. Not impossible, but not{n}practical, either.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0116",
    "jp": "{v:0018}え～、どうして？{n}だって、前にやったみたく、ルイセちゃんがあそこへ{n}行って、みんなをテレポートさせればいいじゃない！{p}{v:0019}ね、ルイセちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Whaaat? Why not? Luise-chan could go up there and{n}teleport everyone over, just like last time!{p}{v:0019}Right, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0117",
    "jp": "{v:001A}ん～‥‥やっぱり無理かも。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Hmm... I don't think that would work.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0118",
    "jp": "{v:001B}どーして！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Whyyy?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0119",
    "jp": "{v:001C}あれ、動いてるモン。{p}{v:001D}わたしのテレポートって、{n}絶対的な地形じゃないと出来ないし、{n}出現する場所に物がないことが条件だから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Because it's moving.{p}{v:001D}I can only teleport to a fixed location, and there can't{n}be anything in the spot where we appear...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0120",
    "jp": "{v:001E}それじゃ、あそこへテレポートしようとしたら？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}So if we tried to teleport up there...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0121",
    "jp": "{v:001F}空中に現れて、後は落ちるだけだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}We'd appear in midair. Then we'd just fall.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0122",
    "jp": "{v:0020}う～！{n}じゃ、どうすればいいのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Ugh! Then what are we supposed to do?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0123",
    "jp": "{v:0021}ここにおったか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Ah, here you are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0124",
    "jp": "{v:0022}あ、フェザリアンの女王様‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Oh, the Featherian queen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0125",
    "jp": "{v:0023}それに、母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}And Mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0126",
    "jp": "{v:0024}困っているみたいですね、アリオスト。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}You seem to be having trouble, Ariost.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0127",
    "jp": "{v:0025}はい。{n}正直に言って、打つ手がありません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Yes. To be honest, there is nothing we can do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0128",
    "jp": "{v:0026}そうであろうな。{n}人間では、あの城を止めることは叶わぬ。{n}しかし、そう悲観するでない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}So I would imagine. Humans have no means of stopping{n}that castle. But do not despair.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0129",
    "jp": "{v:0027}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0130",
    "jp": "{v:0028}あの城が浮いている原理は、{n}我々フェザリアンが過去に確立した技術です。{p}{v:0029}そして我々が今住んでいるあの島も、{n}同じ技術で浮いています。{p}{v:002A}その技術とは、{n}この世界に、ある種の力を与え続けることで、{n}特定の装置に浮力を与える物。{p}{v:002B}その力を止めてしまえば、{n}あの城は浮いていられなくなります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}That castle floats using technology we Featherians{n}developed long ago.{p}{v:0029}The island where we now live is kept aloft by the{n}same technology.{p}{v:002A}By continuously supplying this world with a certain kind{n}of force, it allows specific devices to float.{p}{v:002B}If we stop supplying that force, the castle will no{n}longer be able to stay aloft.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0131",
    "jp": "{v:002C}ちょっと待ってよ、母さん！{n}その話からすると、その方法を使ったら‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Wait, Mother! From what you're saying, if you do that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0132",
    "jp": "{v:002D}我々のフェザーランドも、浮いてはいられぬな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Our Featherland will no longer remain aloft either.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0133",
    "jp": "{v:002E}でも、それしか方法はないのですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}But there is no other way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0134",
    "jp": "{v:002F}母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0135",
    "jp": "{v:0030}はるか昔、我々フェザリアンも、{n}この大地で生活していた民だった。{p}{v:0031}だが人間との思想の違いから、大地を捨て、{n}フェザーランドに移り住むこととなった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Long ago, we Featherians also lived upon this land.{p}{v:0031}But differences between our beliefs and those of{n}humans led us to abandon the land and settle{n}in Featherland.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0136",
    "jp": "{v:0032}しかし、そなたらがフェザーランドに来てから、{n}我々は今まで見ようとはしなかった{n}人間を見る機会を得られた。{p}{v:0033}そして人間の素晴らしさに、気づくことができたのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Yet since you came to Featherland, we have had the{n}chance to see the humans we had always refused to{n}look upon.{p}{v:0033}And we have come to realize how wonderful{n}humans are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0137",
    "jp": "{v:0034}それって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}You mean...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0138",
    "jp": "{v:0035}けしてあきらめない、前向きな姿。{n}私があの人を愛した理由。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Always looking ahead, never giving up. That is why I{n}fell in love with him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0139",
    "jp": "{v:0036}どうやら我々は理解しようともせずに、{n}相容れない存在と見ていたようだ。{p}{v:0037}しかしジーナが、そしてそなたらが、{n}我々の目を開かせてくれたのだ。{n}人間からは、多くの学ぶべき事があるとな。{p}{v:0042}そして人間もそれを証明して見せてくれた。{n}よもや、テレポート能力まで奪い去ってしまうとはな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}It seems we deemed humans incompatible with us{n}without even trying to understand them.{p}{v:0037}But Gina, and all of you, opened our eyes. There is much{n}we can learn from humanity.{p}{v:0042}And humanity has proven it to us. To think you even{n}stripped him of his power to teleport.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0140",
    "jp": "{v:0043}えっ？{FFF9}{FFFB}{n}{v:0044}アタシ達、何もしてないケド‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Huh?{FFF9}{FFFB}{v:0044}But we didn't do anything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0141",
@@ -861,264 +999,307 @@
   {
    "id": "scen026.0142",
    "jp": "{v:0046}あのときの感じ‥‥、{FFF9}{FFFB}{n}{v:0047}あれがそうだったんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}That feeling back then...{FFF9}{FFFB}{v:0047}So that's what it was...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0143",
    "jp": "{v:0038}今までの我々は、ただ何もせず運命を受け入れる{n}だけの種族であった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Until now, our people have done nothing but meekly{n}accept our fate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0144",
    "jp": "{v:0039}だが今こそ、我々も力を貸そう！{n}平和な世界のために！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}But now, we too shall lend our strength! For a world{n}at peace!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0145",
    "jp": "{v:003A}全員、地上へ避難してください！{n}まもなく浮遊システムが中和されます。{p}{v:003B}くりかえします。{n}全員、地上へ避難してください！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Everyone, please evacuate to the surface! The{n}levitation system will soon be neutralized.{p}{v:003B}I repeat. Everyone, please evacuate to the surface!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0146",
    "jp": "{v:003C}やった！{n}城が落ちて行く！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}We did it! The castle's coming down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0147",
    "jp": "{v:003D}ヴェンツェルを倒せるのは、そなたらだけ。{n}後はそなたらの出番だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Only you can defeat Wenzel. The rest is in your hands.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0148",
    "jp": "{v:003E}頼みますよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0149",
    "jp": "{v:003F}フェザリアンが自らの島を捨ててまで{n}作ってくれたチャンスだ。{n}無駄には出来ない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}The Featherians gave up their own island to give us{n}this chance. We cannot waste it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0150",
    "jp": "{v:0040}ああ、これが最後の戦いだ！{n}やってやろうぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Yeah. This is the final battle! Let's do this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0151",
    "jp": "{v:0041}よぉし！{n}みんな、がんばろー！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}All riiight! Let's give it our all, everyone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0152",
    "jp": "時空制御塔へ",
-   "en": "",
-   "term": "end"
+   "en": "To the Space-Time Control Tower",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0153",
    "jp": "私の手が必要か？",
-   "en": "",
-   "term": "end"
+   "en": "Do you require my assistance?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0154",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "",
-   "term": "end"
+   "en": "But that would be too many of us. Someone will have to{n}leave the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0155",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will leave the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0156",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen026.0157",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen026.0158",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve {s:FFED}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0159",
    "jp": "　{n}　　　　　　{FFEF}ジュリアンが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Julian joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0160",
    "jp": "期待してくれ。",
-   "en": "",
-   "term": "end"
+   "en": "You can count on me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0161",
    "jp": "あの塔の墜落現場に{n}部下を率いて向かうつもりだ。{p}現地で合流しよう。",
-   "en": "",
-   "term": "end"
+   "en": "I intend to lead my troops to the tower's crash site.{p}We shall meet you there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0162",
    "jp": "君たちが戦う間、{n}我々が市民の安全を守る。{n}絶対にヴェンツェルを倒してくれ！",
-   "en": "",
-   "term": "end"
+   "en": "We will protect the citizens while you fight. You must{n}defeat Wenzel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0163",
    "jp": "あの塔の落ちていった方角から察すると、{n}ラージン砦の西あたりだね。{p}さっそく向かうとしよう。",
-   "en": "",
-   "term": "end"
+   "en": "Judging by the direction the tower fell, it should be{n}somewhere west of Fort Rajin.{p}Let's head there at once.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0164",
    "jp": "がんばって下さい！",
-   "en": "",
-   "term": "end"
+   "en": "Do your best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0165",
    "jp": "ご武運を！",
-   "en": "",
-   "term": "end"
+   "en": "May fortune favor you in battle!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0166",
    "jp": "我々に出来るのはここまでじゃ。{n}後はそなた達に託すことしか出来ぬ。{n}頼むぞよ。",
-   "en": "",
-   "term": "end"
+   "en": "This is all we can do. We can only entrust the rest to{n}you. We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0167",
    "jp": "がんばるのですよ、アリオスト。",
-   "en": "",
-   "term": "end"
+   "en": "Do your best, Ariost.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0168",
    "jp": "我々の未来はあなた達にゆだねられました。{n}がんばって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Our future is in your hands. Please give it your all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0169",
    "jp": "がんばってくれよ！",
-   "en": "",
-   "term": "end"
+   "en": "Give it all you've got!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0170",
    "jp": "あ、お兄さま。{n}アタシの力が必要なんですね！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother! You need my help, don't you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0171",
    "jp": "どうするの？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0172",
    "jp": "・ミーシャをメンバーに加える",
-   "en": "",
+   "en": "・Add Misha to the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen026.0173",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add anyone for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen026.0174",
    "jp": "{s:FFEE}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Reclaim {s:FFEE}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0175",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0176",
    "jp": "アタシ、がんばっちゃうね！",
-   "en": "",
-   "term": "end"
+   "en": "I'll give it my all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0177",
    "jp": "そうですか‥‥。{n}ちょっとガッカリ‥‥。{p}{FC00}でも、でも！{n}ご用があったら、いつでもどうぞ！{n}アタシ、がんばりますから！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I see... That's a little disappointing...{p}{FC00}But, but! If you need anything, just ask! I'll do my{n}very best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0178",
    "jp": "ん？{n}僕の力が必要なのかな？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Do you need my help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0179",
    "jp": "アリオストを仲間に加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add Ariost to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0180",
    "jp": "　{n}　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Ariost joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0181",
    "jp": "ありがとう、がんばるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks. I'll do my best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0182",
    "jp": "そうかい。{n}僕の力が必要になったら、{n}いつでも声をかけてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "I see. If you need my help, just let me know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0183",
    "jp": "あのね、お兄ちゃん。{n}学院の施設内で大きな魔法を使うと、{n}怒られちゃうんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Um, Big Brother... We'll get in trouble if we use powerful{n}magic inside the Academy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen026.0184",
    "jp": "お兄ちゃん！{n}何やってるのよ！{n}すぐ先で、生徒が襲われているんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother! What are you doing?! Students are being{n}attacked just up ahead!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,32 +15,37 @@
   {
    "id": "scen313.0001",
    "jp": "カレン",
-   "en": "",
-   "term": "null"
+   "en": "Karen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen313.0002",
    "jp": "{v:00D9}私は‥‥私は‥‥。{p}‥‥{v:00DB}どうして、{n}私はあなたを好きになっちゃったんだろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D9}I... I...{p}...{v:00DB}Why did I have to fall in love with you...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0003",
    "jp": "{v:00DC}カレンさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DC}Karen-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0004",
    "jp": "{v:00DD}最初は兄さんとあなたを重ねていた‥‥。{p}{v:00DE}けれど、やっと兄さんとあなたは{n}別だって思えるようになったのに‥‥。{p}{v:00DF}それなのに‥‥。{FFF9}{FFFB}{n}{v:00E0}それなのに、どうしてあなたは父と同じなの？{p}{v:00E1}私が好きになったのは、あなた自身？{n}それとも、あなたに父を重ねていただけ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DD}At first, I saw my brother in you...{p}{v:00DE}But I'd finally come to see you as someone different{n}from him...{p}{v:00DF}And yet...{FFF9}{FFFB} {v:00E0}And yet, why are you just like my father?{p}{v:00E1}Was it you I fell in love with? Or was I only seeing my{n}father in you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0005",
    "jp": "{FFF5}{v:00E2}ねぇ！{n}教えてよ！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:00E2}Please! Tell me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0006",
@@ -51,696 +56,809 @@
   {
    "id": "scen313.0007",
    "jp": "あの‥‥。{n}{FE1E}さっきはごめんなさい‥‥。{FFFB}{n}言いたいことだけ言って‥‥。{p}私の気持ちをあなたに押しつけてしまいました‥‥。{n}あなたにあなたの気持ちがあることも考えずに‥‥。{p}{s:0000}さん‥‥。{n}あなたはあなたの自我があって、{n}父とは別の人間なんですよね‥‥。{p}例え、父の姿をして、父の血が流れていても、{n}私を助けてくれたあなたは父じゃない‥‥。{p}やっと、わかりました。",
-   "en": "",
-   "term": "end"
+   "en": "Um... {FE1E}I'm sorry about earlier...{FFFB} I said everything I{n}wanted to say...{p}I forced my feelings on you... Without even considering{n}that you have feelings of your own...{p}{s:0000}... You have your own identity. You're{n}a different person from my father...{p}Even if you look like him and his blood runs through{n}your veins, the person who saved me wasn't{n}my father...{p}I finally understand.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0008",
    "jp": "‥‥わたし、時々ここに来るんです。{n}お花畑の中にひっそりと生えている薬草を採りに。{p}ここで、色々な事を考えました。{n}みんなの事、兄さんの事‥‥。{FFFB}{n}{FC04}そして‥‥、{FE1E}あなたの事を。",
-   "en": "",
-   "term": "end"
+   "en": "...I come here sometimes to gather medicinal herbs{n}hidden among the flowers.{p}I've thought about so many things here. About{n}everyone, about my brother...{FFFB} {FC04}And...{FE1E} about you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0009",
    "jp": "今日はいろいろとすみませんでした。{n}また、来て下さいね。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorry for everything today. Please come and see{n}me again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0010",
    "jp": "{v:00A8}あっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A8}Oh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0011",
    "jp": "{v:00A9}あの‥、この間は本当にありがとうございました！{p}{v:00AA}本来ならば、私の方から御挨拶に{n}お伺いしなければならないはずなのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A9}Um... Thank you so much for what you did the{n}other day!{p}{v:00AA}I should have been the one to come and thank you{n}in person...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0012",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0013",
    "jp": "・再会を邪魔したくなかったと言う",
-   "en": "",
+   "en": "・Say you didn't want to spoil the reunion",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0014",
    "jp": "・どうせいつでも会えるからと言う",
-   "en": "",
+   "en": "・Say you can see each other anytime",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0015",
    "jp": "・次の任務で急いでいたと言う",
-   "en": "",
+   "en": "・Say you had to hurry to your next mission",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0016",
    "jp": "‥‥{v:00AF}そうですよね。{n}お仕事の途中だったのに‥‥{n}‥‥私って迷惑かけてばかりですね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00AF}Of course. You were in the middle of your work... ...All I{n}ever do is cause you trouble.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0017",
    "jp": "{v:00B1}兄も、みなさんにお礼が言いたいって‥‥。{n}おかげでシャドーナイトから{n}解放されたと言ってました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B1}My brother wants to thank you all, too... He said he's{n}free of the Shadow Knights now, thanks to you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0018",
    "jp": "{v:00B2}よかったわね、カレンさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B2}That's great, Karen-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0019",
    "jp": "{v:00D0}はい。{n}本当にありがとうございました。{p}{v:00D1}それでは、私はこれで。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D0}Yes. Thank you so much.{p}{v:00D1}Well, I should be going.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0020",
    "jp": "‥‥{v:00B3}はい‥‥。{p}‥‥{v:00B5}思い切って言っちゃいます。{n}笑わないで聞いてくださいね？{p}{v:00B6}実は、私、兄に恋していたんです‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00B3}Yes...{p}...{v:00B5}I'm going to be brave and say it. Please don't laugh,{n}all right?{p}{v:00B6}The truth is, I was in love with my brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0021",
    "jp": "{v:00B7}えっ！？{n}兄妹はちょっとヤバイよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B7}What?! But he's your brother! That's kinda dicey!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0022",
    "jp": "{v:00B8}はい。{n}それで、言い出すこともできず、{n}ずっと苦しんでいました。{p}{v:00BA}だけど、あなたと出会ってから、{n}気がつくとあなたのことを探していたんです。{p}{v:00BB}最初はあなたに、{n}兄の幻影を重ねてしまっていると思いました。{p}{v:00BC}だけど違ったんです。{p}{v:00BD}助けに来てくれた、あなたの姿を見たとき、{n}あの暗い地下牢に光が射すのを感じました。{n}もう大丈夫、何も心配しなくてもいいって。{p}{v:00BE}だって、あなたが来てくれたから。{n}たとえ死んでも、悔いはない。{n}そんな気持ちでいっぱいでした。{p}{v:00C0}あなたは私を助け出してくれただけでなく、{n}心までも救ってくれたんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B8}Yes. That's why I could never tell him. It hurt for{n}so long.{p}{v:00BA}But after I met you, I found myself looking for you{n}before I even realized it.{p}{v:00BB}At first, I thought I was seeing my brother's image{n}in you.{p}{v:00BC}But that wasn't it.{p}{v:00BD}When I saw you coming to save me, I felt light shine{n}into that dark dungeon. Everything would be all right.{n}There was nothing to worry about anymore.{p}{v:00BE}Because you had come for me. Even if I died, I would{n}have no regrets. That was all I could feel.{p}{v:00C0}You saved more than my life. You saved my{n}heart, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0023",
    "jp": "{v:00BF}カレンさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BF}Karen-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0024",
    "jp": "{v:0042}あら！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Oh?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0025",
    "jp": "{v:0043}きゃっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Eek!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0026",
    "jp": "{v:0044}大丈夫、カレンさん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Are you okay, Karen-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0027",
    "jp": "‥{FE05}‥{FE05}‥{FE05}‥{FE0F}{v:0045}兄さん‥‥？{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": ".{FE05}.{FE05}.{FE05}.{FE0F}{v:0045}Brother...?{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0028",
    "jp": "{v:0046}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0029",
    "jp": "{v:0047}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Ah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0030",
    "jp": "{v:0048}や、やだ、私‥‥。{p}{v:0049}ごめんなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Oh, n-no, I...{p}{v:0049}I'm sorry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0031",
    "jp": "‥‥{v:004A}今、アンタのこと『兄さん』って言ったよね？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004A}She just called you 'Brother', didn't she?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0032",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0033",
    "jp": "・言った",
-   "en": "",
+   "en": "・She did",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0034",
    "jp": "・言ってない",
-   "en": "",
+   "en": "・She didn't",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0035",
    "jp": "‥‥{v:004B}ん～？{n}どうしてアンタがゼノスなの？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004B}Huh...? Why would she think you're Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0036",
    "jp": "{v:004C}アタシの聞き間違いか‥‥。{p}{v:004D}ちょっとびっくりしたわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Guess I heard her wrong...{p}{v:004D}That gave me a bit of a shock.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0037",
    "jp": "{v:001D}あ、いらっしゃい。{FFF9}{FFFB}{n}{v:001E}でも、ごめんなさい。{n}今、ちょっと手が放せないの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Oh, hello.{FFF9}{FFFB} {v:001E}I'm sorry, though. I'm a little busy just now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0038",
    "jp": "{v:00FB}お仕事中なんだ。{n}ゴメンね、邪魔しちゃって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00FB}Oh, you're working. Sorry to interrupt!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0039",
    "jp": "{v:001F}いいえ、こちらこそ。{FFF9}{FFFB}{n}{v:0020}また後でゆっくりお話しましょうね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}No, I'm the one who should apologize.{FFF9}{FFFB} {v:0020}Let's have a{n}proper chat later.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0040",
    "jp": "{v:0021}あ、カレンさん、何か落としたよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Hey, Karen-san, you dropped something!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0041",
    "jp": "{v:0022}きゃあ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Eek!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0042",
    "jp": "{v:0023}びっくりした‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}You startled me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0043",
    "jp": "{v:0024}あ、ありがとう‥‥ティピちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Oh, thank you... Tippi-chan...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0044",
    "jp": "{v:0025}何、慌ててんの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}What's got you so flustered?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0045",
    "jp": "{v:0026}だ、だって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}W-well...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0046",
    "jp": "{v:0027}それってゼノスの絵だよね？{n}ほんと、お兄さん想いだね。{p}{v:0028}でも、わかるなぁ‥‥。{FFF9}{FFFB}{n}{v:0029}確か兄妹２人で、助けあって来たんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}That's a picture of Xenos, right? You really care about{n}your brother, huh?{p}{v:0028}But I get it...{FFF9}{FFFB} {v:0029}It's been just the two of you, helping{n}each other along, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0047",
    "jp": "{v:002A}は、はは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}H-ha ha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0048",
    "jp": "{v:002B}まったく、ゼノスも妹に心配かけるなんてさ。{n}傭兵なんて止めればいいのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Honestly, Xenos ought to know better than to make{n}his sister worry. He should just quit being{n}a mercenary...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0049",
    "jp": "{v:002C}そ、そうですよ！{FFF9}{FFFB}{n}{v:002D}だからあなたもルイセちゃんに{n}心配かけちゃいけませんよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Y-yes, exactly!{FFF9}{FFFB} {v:002D}And you mustn't make Luise-chan{n}worry either, all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0050",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0051",
    "jp": "・わかったと言う",
-   "en": "",
+   "en": "・Say you understand",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0052",
    "jp": "・いやだと言う",
-   "en": "",
+   "en": "・Say you won't agree to that",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0053",
    "jp": "{v:002E}はい、よいお返事です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Good. That's what I wanted to hear.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0054",
    "jp": "{v:002F}まったく、{n}女性の前だとすぐいい子ぶるんだから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Honestly, you always play the good boy as soon as{n}there's a woman around...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0055",
    "jp": "{v:0030}そんな！{n}ルイセちゃんが可哀想です！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}How could you! Poor Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0056",
    "jp": "{v:0031}ま、こいつは殺しても死にそうにないけどね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Well, I doubt this guy would stay dead even if you{n}killed him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0057",
    "jp": "{v:0033}くすくすっ！{FFF9}{FFFB}{n}{v:0034}私、そろそろ行きますね。{n}皆さんのお手伝いしないと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}*giggle*{FFF9}{FFFB} {v:0034}I should be going now. I need to{n}help everyone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0058",
    "jp": "{v:0035}あ、またね～♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Okay, see yaaa♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0059",
    "jp": "{v:0076}よぉ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}Hey.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0060",
    "jp": "{v:0077}こんにちは。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0077}Hello.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0061",
    "jp": "{v:0078}仲いいわね、２人とも♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}You two sure are close♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0062",
    "jp": "{v:0079}兄妹ですもの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}Well, we are brother and sister.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0063",
    "jp": "{v:007A}それより、何しに来たんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}Anyway, what brings you here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0064",
    "jp": "・カレンに会いに来た",
-   "en": "",
+   "en": "・I came to see Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0065",
    "jp": "・ただ声をかけただけ",
-   "en": "",
+   "en": "・I was just saying hello",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0066",
    "jp": "・ゼノスに会いに来た",
-   "en": "",
+   "en": "・I came to see Xenos",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0067",
    "jp": "{v:007B}カレンにだと？{n}いったい何の用だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007B}Karen? What exactly do you want with her?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0068",
    "jp": "{v:007C}ゼノスには関係ないじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007C}That's none of your business, Xenos!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0069",
    "jp": "{v:007D}いいや、おおありだ。{n}カレンをかどわかそうってなら、この俺が許さねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007D}Like hell it isn't. If you're trying to lure Karen away,{n}you'll answer to me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0070",
    "jp": "{v:0090}用がないなら、邪魔しないでくれ。{n}せっかく暇を見つけて妹に会いに来たんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0090}If you don't need anything, leave us alone. I finally{n}found some time to visit my sister.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0071",
    "jp": "{v:0091}もう、兄さん！{p}{v:0092}ごめんなさいね。{n}後でゆっくりお話しましょうね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0091}Honestly, Brother!{p}{v:0092}I'm sorry. Let's have a proper chat later.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0072",
    "jp": "{v:0093}おい、カレン！{n}あっちに行こうぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0093}Hey, Karen! Let's go over there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0073",
    "jp": "{v:007E}俺に？{p}{v:007F}俺はまたカレンにちょっかいでも{n}かけに来たのかと思ったぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}Me?{p}{v:007F}And here I thought you'd come to make a move{n}on Karen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0074",
    "jp": "{v:0080}もう、兄さんったら！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0080}Oh, Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0075",
    "jp": "{v:0081}俺のかわいい妹をかどわかす奴は、{n}俺が許さねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0081}Anyone who tries to lure my dear sister away will{n}answer to me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0076",
    "jp": "{v:0082}かどわかすって‥‥。{FFF9}{FFFB}{n}{v:0083}もう、何てこと言うのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0082}Lure me away...?{FFF9}{FFFB} {v:0083}Honestly, how can you say{n}such things?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0077",
    "jp": "{v:0084}お前は黙ってろ！{n}俺はお前を護る義務があるんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0084}You stay out of this! It's my duty to protect you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0078",
    "jp": "{v:0085}護る義務！？{FFF9}{FFFB}{n}{v:0086}私は、もう自分で決められるわ！{n}いつまで子供扱いする気なのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}Your duty to protect me?!{FFF9}{FFFB} {v:0086}I can make my own{n}decisions now! How long are you going to treat me like{n}a child?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0079",
    "jp": "{v:0087}お、おい、カレン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0087}H-hey, Karen!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0080",
    "jp": "{v:0088}あ～あ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0088}Oh, boy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0081",
    "jp": "{v:0089}やべぇ‥‥言いすぎちまったぜ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0089}Damn... I went too far...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0082",
    "jp": "何と声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0083",
    "jp": "・後を追うように言う",
-   "en": "",
+   "en": "・Tell him to go after her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0084",
    "jp": "・言い過ぎだと言う",
-   "en": "",
+   "en": "・Tell him he went too far",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0085",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0086",
    "jp": "{v:008A}そ、そうだな‥‥。{FFF9}{FFFB}{n}{FC00}{v:008B}とにかく、すまなかったな！{n}じゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008A}Y-yeah...{FFF9}{FFFB} {FC00}{v:008B}Anyway, sorry about all that! See ya!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0087",
    "jp": "{v:008C}そう言うなって！{n}‥‥わかってるからよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008C}Lay off! ...I know, all right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0088",
    "jp": "{v:008D}それより、カレンさんを追わなくていいの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:008D}Shouldn't you be going after Karen-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0089",
    "jp": "{v:008E}そ、そうか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008E}O-oh, right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0090",
    "jp": "{v:008F}カレンさんの事になると、{n}すぐ見境なくなるんだから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008F}He loses all sense the minute Karen-san's involved...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0091",
    "jp": "{v:0001}いらっしゃい。{FFF9}{FFFB}{n}{v:0002}またお仕事ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Hello.{FFF9}{FFFB} {v:0002}Are you here on business again?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0092",
    "jp": "{v:0003}今は休暇中なんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}I'm on leave right now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0093",
    "jp": "{v:0004}それじゃ、ゆっくりしていって下さいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Then please, take your time and relax.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0094",
    "jp": "{v:0001}いらっしゃい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Welcome.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0095",
    "jp": "{v:0005}あら、カレンさん、今日も恋人と一緒？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Oh, Karen-san, with your boyfriend again today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0096",
    "jp": "{v:0006}あ、アイリーンさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Oh, Irene-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0097",
    "jp": "{v:0007}ふ～ん、結構しっかりしてる人ね。{n}カレンさんはこんな人が好みなんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Hmm, he seems quite dependable. So this is your{n}type, Karen-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0098",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0099",
    "jp": "・恋人だと言う",
-   "en": "",
+   "en": "・Say you're her boyfriend",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0100",
    "jp": "・恋人じゃないと言う",
-   "en": "",
+   "en": "・Say you're not her boyfriend",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0101",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen313.0102",
    "jp": "{v:0008}あら、よろしくね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Oh, how nice to meet you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0103",
    "jp": "{v:0009}あなたも、変なこと言わないで下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Please, don't you start saying things like that too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0104",
    "jp": "{v:000A}隠さなくてもいいわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}You don't have to hide it, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0105",
    "jp": "{v:000B}本当に違います！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}We really aren't together!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0106",
    "jp": "{v:000C}黙ってないで、否定して下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Don't just stand there! Please tell her she's wrong!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0107",
    "jp": "{v:000D}カ、カレンさん、ムキになってるよぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}K-Karen-san, you're getting awfully worked up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0108",
    "jp": "{v:000E}それじゃ、ほかに恋人がいるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Then do you have another boyfriend?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0109",
    "jp": "{v:000F}こ、恋人なんていません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}I-I don't have a boyfriend!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0110",
    "jp": "{v:0010}あら、好きな人もいないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Oh? Not even someone you like?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0111",
    "jp": "{v:0011}好きな人なら‥‥いますけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}There is... someone I like, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0112",
    "jp": "{v:0012}へぇ！{n}その人とはどこまで行ってるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Oh! How far have things gone with him?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0113",
    "jp": "{v:0013}そんな！{FFF9}{FFFB}{n}‥‥{v:0014}永遠の‥‥片想いなんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Oh, no!{FFF9}{FFFB}...{v:0014}My love... will always be unrequited.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0114",
    "jp": "{v:0015}永遠の？{FFF9}{FFFB}{n}{v:0016}ひょっとしてその人、もう死‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Always?{FFF9}{FFFB}{v:0016}Could it be that he's already dea--",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0115",
    "jp": "{v:0017}縁起でもない事、言わないで下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Please don't say such dreadful things!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0116",
    "jp": "{v:0018}それじゃ、誰？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Then who is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0117",
    "jp": "‥‥{v:0019}言えません！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0019}I can't tell you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0118",
    "jp": "{v:001A}あ、カレンさん！{p}{v:001B}ごめんなさい！{n}言いすぎたわ！{n}ねぇ、待って、カレンさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Oh, Karen-san!{p}{v:001B}I'm sorry! I went too far! Please, wait, Karen-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen313.0119",
    "jp": "‥‥{v:001C}行っちゃった。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001C}She's gone.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

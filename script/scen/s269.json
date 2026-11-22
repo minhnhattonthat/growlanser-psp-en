@@ -15,404 +15,471 @@
   {
    "id": "scen269.0001",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen269.0002",
    "jp": "精製装置",
-   "en": "",
-   "term": "null"
+   "en": "Refining Device",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen269.0003",
    "jp": "ヴェンツェル",
-   "en": "",
-   "term": "null"
+   "en": "Wenzel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen269.0004",
    "jp": "警報",
-   "en": "",
-   "term": "null"
+   "en": "Alarm",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen269.0005",
    "jp": "{FFEE}パワーストーンを作ってからヴェンツェルを倒せ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Create the Power Stone, then defeat Wenzel!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0006",
    "jp": "{FFF0}注意{FFF1}{n}{FFEE}{s:0000}とゼノスは{n}放送装置につくと、一時的にＮＰＣとなります。{n}パワーストーン精製完了後は、元の扱いにもどります。{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}Caution{FFF1} {FFEE}{s:0000} and Xenos temporarily{n}become NPCs when they take their places at the{n}broadcast device.{p}They return to normal control once the Power Stone is{n}fully refined.{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0007",
    "jp": "{FFF0}注意{FFF1}{n}{FFEE}また、{s:FFEF}が行動を開始するのは、{n}パワーストーンの精製が完了した時からです。{n}それまでは防御行動をとります。{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}Caution{FFF1} {FFEE}Also, {s:FFEF} will only begin taking{n}action once the Power Stone is fully refined. Until{n}then, they will remain on the defensive.{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0008",
    "jp": "{v:0017}ゼノス、早く、早く！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Xenos, hurry, hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0009",
    "jp": "{v:0018}待ってろ、すぐに行く！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Hold on, I'm coming!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0010",
    "jp": "{v:0019}早くしろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Hurry up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0011",
    "jp": "{v:001A}わかってるわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}I know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0012",
    "jp": "{v:001B}それじゃ、２人の力を合わせて、{n}世界の人々に波動を送るのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Now, combine your powers and send out a wave to{n}everyone in the world!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0013",
    "jp": "{v:001C}わかった。{p}{v:001D}俺に本当に能力があるかどうか‥‥{p}{v:0057}やるっきゃねぇな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Got it.{p}{v:001D}Whether I've really got this power or not...{p}{v:0057}I've just gotta try!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0014",
    "jp": "　{n}　　　　　遠距離放送装置を作動させた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Activated the long-range broadcast device!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0015",
    "jp": "{v:001E}みんな！{n}聞こえる！？{p}{v:001F}アタシ達、今ヴェンツェルと戦ってるの！{n}だけど、みんなの力も必要なのよ！{p}{v:0020}これからみんなをグローシアンにする波動を送るから、{n}みんな、心を１つにして！{p}{v:0021}アタシ達がヴェンツェルに勝てるように、{n}みんなの心を１つにして！{p}{FC00}{v:0022}さぁ、今よ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Everyone! Can you hear me?!{p}{v:001F}We're fighting Wenzel right now! But we need your{n}help, too!{p}{v:0020}We're about to send out a wave that'll turn you all into{n}Growsians, so everyone, unite your hearts!{p}{v:0021}Unite your hearts so we can beat Wenzel!{p}{FC00}{v:0022}Come on, now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0016",
    "jp": "{v:0023}ぬうぅ‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Nngh...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0017",
    "jp": "{v:0024}ええい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Hah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0018",
    "jp": "{v:0025}お兄ちゃんたち、始めたみたい！{n}もう少ししたらパワーストーンが出来るはずよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}It looks like Big Brother and the others have started!{n}The Power Stone should be ready soon!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0019",
    "jp": "‥‥{v:0026}がんばって！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0026}You can do it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0020",
    "jp": "{v:0027}俺たちはヴェンツェルを足止めするんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}We've got to hold Wenzel off!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0021",
    "jp": "{v:0028}早くパワーストーン精製装置を動かさねぇと！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}We've gotta get the Power Stone refining device{n}running, fast!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0022",
    "jp": "{v:0029}まずはこれを動かさないとね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}First, we have to get this running!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0023",
    "jp": "{v:002A}これを動かさないと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}I have to get this running...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0024",
    "jp": "{v:002B}これを動かすんだな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}I need to start this up, then?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0025",
    "jp": "{v:002C}どうやって動かすんだろ？{n}こうかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}How do I start this? Like this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0026",
    "jp": "{v:002D}たぶん、このスイッチだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Probably this switch.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0027",
    "jp": "{v:002E}これ‥かしら‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Could it be... this one...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0028",
    "jp": "{v:002F}どうやればいいんだろ？{p}{v:0058}『動作スイッチ』‥‥これだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}What am I supposed to do?{p}{v:0058}'Activation Switch'... This is it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0029",
    "jp": "{v:0030}『動作スイッチ』{n}これを押せばいいんだな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}'Activation Switch.' So I just press this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0030",
    "jp": "{v:0031}まずはコイツを動かしちまうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Let's get this thing running first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0031",
    "jp": "　{n}　　　　　精製装置が作動した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　The refining device has been activated!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0032",
    "jp": "パワーストーン‥‥。{n}確かにもらったぞ！",
-   "en": "",
-   "term": "end"
+   "en": "The Power Stone... It is mine at last!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0033",
    "jp": "あぁ‥‥、{n}ヴェンツェルにパワーストーンを取られちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, no... Wenzel took the Power Stone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0034",
    "jp": "放送装置を通じて、人々の心が伝わってくる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The people's feelings are coming through the{n}broadcast device...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0035",
    "jp": "{FFEF}　【ブラッドレー学院長】{n}{v:0034}　自分たちの中にある魔力を高めるのだ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEF}　[Headmaster Bradley] {v:0034}Increase the magical power{n}within yourselves!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0036",
    "jp": "{FFF0}　　　　　　　　　　　　　　【女子生徒】{n}{v:0035}　　　　　　　　　　　　　　　みんなで戦うのよ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}　　　　　　　　　　　　　　[Female Student] {v:0035}We'll{n}all fight together!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0037",
    "jp": "{FFEE}【少年】{n}{v:0036}　僕もがんばる！{n}　お兄ちゃんも、がんばって！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}[Boy] {v:0036}I'll do my best, too! You can do it, Big Brother!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0038",
    "jp": "{FFEF}　　　　【闘技大会参加者】{n}{v:0037}　　　　　俺たちの力が必要なら、全部持っていけ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEF}　　　　[Tournament Entrant] {v:0037}If you need our{n}strength, take{n}every last bit!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0039",
    "jp": "{FFEE}【宮廷魔術師サンドラ】{n}{v:0032}　さあ、みなさん！{n}　自分たちの想いの力を１つに！{n}　ヴェンツェルと戦う者たちに力を与えましょう！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}[Court Magician Sandra] {v:0032}Come, everyone! Let us unite{n}the power of our feelings! Let us give strength to{n}those fighting Wenzel!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0040",
    "jp": "{FFF0}　　　　　【兵士たち】{n}{v:0033}　　　　　　{FFEC}おおーーーっ！{FFED}{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}　　　　　[Soldiers] {v:0033}{FFEC}Yeeeaah!{FFED}{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0041",
    "jp": "{v:0038}大量のグローシュを検出。{n}これより精製作業に入ります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Large quantity of Grosh detected. Beginning{n}refining process.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0042",
    "jp": "{v:0039}ぬう‥‥。{n}精製装置はこのシステムと直結されている。{n}うかつに破壊は出来ん‥‥。{p}{v:003A}となれば、パワーストーンを奪うのみ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Ngh... The refining device is directly connected to this{n}system. I cannot simply destroy it...{p}{v:003A}Then I need only seize the Power Stone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0043",
    "jp": "{v:0059}そうはさせるか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Like hell you will!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0044",
    "jp": "{v:003B}あ、パワーストーンだ！{n}まだちっちゃいけど、出来始めてるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Oh, it's the Power Stone! It's still tiny, but it's starting{n}to form!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0045",
    "jp": "{v:003C}２人とも、がんばってよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Keep it up, you two!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0046",
    "jp": "{v:003D}むうぅ‥‥。{p}{v:003E}コイツは結構疲れるぜ‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Nngh...{p}{v:003E}This really takes it out of you...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0047",
    "jp": "{v:003F}精製過程の５０％を終了。{n}作業を続行します。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Refining process 50% complete. Continuing operation.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0048",
    "jp": "{v:0040}はやく、はやく！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Hurry, hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0049",
    "jp": "‥‥{v:0041}まだ半分かよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0041}Only halfway...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0050",
    "jp": "{v:0042}まだかよ‥‥そろそろ限界だぜ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Still not done...? I can't keep this up much longer...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0051",
    "jp": "{v:0043}パワーストーン精製完了。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Power Stone refining complete.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0052",
    "jp": "{v:0044}やったぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}We did it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0053",
    "jp": "{v:0045}よくもやってくれたな！{p}{v:0046}さぁ、パワーストーンをよこせ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}How dare you!{p}{v:0046}Now, hand over the Power Stone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0054",
    "jp": "{v:0047}お前たちはここで死ぬのだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}You will die here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0055",
    "jp": "{v:0048}ええい、邪魔をするな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Enough! Stay out of my way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0056",
    "jp": "{v:0049}パワーストーンは私がもらう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}The Power Stone shall be mine!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0057",
    "jp": "{v:004A}ぐはっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0058",
    "jp": "{v:004B}やった！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Did we do it?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0059",
    "jp": "{v:004C}この私が‥‥この私が死ぬというのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}I... Am I truly to die...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0060",
    "jp": "{v:004D}完全体になったこの私が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}I, who have attained my perfect form...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0061",
    "jp": "{v:004F}これで奴も終わりだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}That's the end of him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0062",
    "jp": "{v:0050}う‥ぐふ‥おのれ‥‥！{n}こうなったら、この世界ごと道づれにしてやる！{p}{v:0051}うをおおおっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Ugh... Gah... Curse you...! If this is how it must be, I shall{n}take this whole world with me!{p}{v:0051}Uwoooaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0063",
    "jp": "{v:0052}緊急警報！{n}歪み率が６０％を越えました！{n}現状のモードでは修復不能です！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Emergency alert! Distortion level has exceeded 60%!{n}Repairs are impossible in the current mode!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0064",
    "jp": "{v:0053}しまったっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Damn it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0065",
    "jp": "‥{v:0054}すべては‥無に帰るのだ‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0054}All shall... return to nothing...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0066",
    "jp": "{v:0055}せめてパワーストーンが出来ていれば‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}If only the Power Stone were ready...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen269.0067",
    "jp": "ちょ、ちょっと！{n}まだパワーストーンが出来てないんだよ！{n}目を開けてよ、ねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "H-hey! The Power Stone isn't ready yet! Open your{n}eyes! Please!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

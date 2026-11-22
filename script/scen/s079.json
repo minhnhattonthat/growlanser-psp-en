@@ -15,950 +15,1107 @@
   {
    "id": "scen079.0001",
    "jp": "案内標識",
-   "en": "",
-   "term": "null"
+   "en": "Signpost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen079.0002",
    "jp": "警備兵",
-   "en": "",
-   "term": "null"
+   "en": "Guard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen079.0003",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen079.0004",
    "jp": "ルイセ",
-   "en": "",
-   "term": "null"
+   "en": "Luise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen079.0005",
    "jp": "男",
-   "en": "",
-   "term": "null"
+   "en": "Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen079.0006",
    "jp": "女",
-   "en": "",
-   "term": "null"
+   "en": "Woman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen079.0007",
    "jp": "鉱夫",
-   "en": "",
-   "term": "null"
+   "en": "Miner",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen079.0008",
    "jp": "{v:0008}例の２人組はここにいるのでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}I wonder if those two are here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0009",
    "jp": "{v:0009}おじさんの言ってた、２人組ってここにいるのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Could the two that man mentioned be here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0010",
    "jp": "{v:000A}行ってみりゃわかるだろ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}We'll find out if we go look.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0011",
    "jp": "　　{FFF0}安全第一{FFF1}{n}　　　　{FFEE}頂上{FFF1}　：　{FFEF}魔水晶採掘場{FFF1}{n}　　　　{FFEE}右{FFF1}　　：　{FFEF}旧坑道{FFF1}（封鎖中）{n}　　　　　　　　　　許可なき者の立入を禁ず",
-   "en": "",
-   "term": "end"
+   "en": "　　{FFF0}Safety First{FFF1}{n}{FFEE}Summit{FFF1}: {FFEF}Magic Crystal Mine{FFF1}{n}{FFEE}Right{FFF1}: {FFEF}Old Mine Tunnels{FFF1} (Closed){p}No unauthorized entry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0012",
    "jp": "{v:0033}おいおい、早くしねぇと薬の効果が切れるだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Hey, pick up the pace! The medicine's gonna wear off!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0013",
    "jp": "こら、どこへ行くつもりだ！{n}とっとと、戻れ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going?! Get back here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0014",
    "jp": "申し訳ありません。{n}現在は封鎖されています。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorry. This area is currently closed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0015",
    "jp": "{v:002C}やったね。{n}全然気づかれないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}We did it! They haven't noticed a thing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0016",
    "jp": "{v:002D}シッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Shh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0017",
    "jp": "{v:002E}おい、何か言ったか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Hey, did you say something?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0018",
    "jp": "{v:002F}何も言ってないぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}I didn't say a thing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0019",
    "jp": "{v:0030}気のせいか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Must've imagined it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0020",
    "jp": "だめだよ。{n}警備員の目が厳しくて、とても入れない。",
-   "en": "",
-   "term": "end"
+   "en": "It's no use. The guards are watching too closely.{n}There's no way in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0021",
    "jp": "調査隊を送ってすぐに崩落事故があったんだ。{n}関係者以外は入れちゃもらえないだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "There was a cave-in right after they sent in the{n}survey team. I doubt they'll let anyone in who{n}isn't involved.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0022",
    "jp": "{v:0019}怪しいな。{n}こっちを見るなり追い払いやがった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Something's fishy. They chased us off the moment{n}they laid eyes on us...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0023",
    "jp": "{v:001A}怪しいよね～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Pretty fishy, huh?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0024",
    "jp": "{v:001B}見つからないように近づければいいんだけどね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}If only we could get closer without being spotted.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0025",
    "jp": "{v:001C}夜にこっそり来るとか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Maybe we could sneak over at night?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0026",
    "jp": "{v:001D}かえって怪しまれるだけだ。{n}他の手段を考えた方がいい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}That'd just make them more suspicious. We'd better{n}find another way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0027",
    "jp": "{v:001F}う～ん、こうも邪険に扱われると、{n}よけい中が知りたくなる～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Ugh, being treated like that just makes me want to see{n}inside even more!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0028",
    "jp": "{v:0020}だが見つかっただけで追い返されちまう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}But they'll chase us off the second they spot us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0029",
    "jp": "{v:0021}こっそり入れればいいんだけどね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}If only we could sneak in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0030",
    "jp": "{v:0022}普通のやり方じゃ、無理みたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}It looks like the usual ways won't work.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0031",
    "jp": "{v:0024}透明人間にでもなれれば気づかれないかも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Maybe they wouldn't notice us if we could{n}turn invisible...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0032",
    "jp": "{v:0025}そういえば、学院で透明になる薬を研究してる人が{n}いるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Come to think of it, someone at the Academy is{n}researching a medicine that makes you invisible.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0033",
    "jp": "{v:0027}見つからないように入れればいいんだけどね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}If only we could get in without being spotted.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0034",
    "jp": "{v:0028}確か、見えなくなる薬を研究してる人が{n}いたような‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}I'm sure there was someone researching a medicine{n}that makes you invisible...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0035",
    "jp": "{v:0016}ここは２０年前から閉鎖されている。{n}俺たちが警備しているから大丈夫だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}This place has been closed for twenty years. We're{n}guarding it, so there's nothing to worry about.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0036",
    "jp": "{v:0017}調査なら上でやるんだな。{n}さあ、帰れ、帰れ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}If you're here to investigate, do it up top. Now get{n}going! Move!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0037",
    "jp": "{v:0018}何よ、あの態度！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}What's with that attitude?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0038",
    "jp": "{v:0026}また来やがったか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}You lot again?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0039",
    "jp": "{v:0088}さあ、帰れ、帰れ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0088}Now get going! Move!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0040",
    "jp": "{v:002A}本当に消えた！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}We really disappeared!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0041",
    "jp": "{v:002B}今のうちに通り抜けよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Let's slip through while we can.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0042",
    "jp": "おい、場所を考えろ。{n}あいつらに見つかっちまうぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, watch where you do that. They'll spot us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0043",
    "jp": "{v:001E}調査なら上でやるんだな。{n}さあ、帰れ、帰れ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}If you're here to investigate, do it up top. Now get{n}going! Move!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0044",
    "jp": "‥‥{v:0059}許せねぇ！{n}ヴェンツェルの奴、絶対に許せねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0059}I won't forgive him! I'll never forgive that{n}bastard Wenzel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0045",
    "jp": "‥‥{v:000B}まだ我々にたてつく奴が残っていたのか。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000B}So there are still some who dare defy us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0046",
    "jp": "{v:005A}おとなしくヴェンツェル様に従えばよいものを‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}If only you would quietly obey Wenzel-sama...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0047",
    "jp": "{v:000C}まさか‥‥！？{p}{v:000D}父さん、母さん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}It can't be...!{p}{v:000D}Father?! Mother?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0048",
    "jp": "{v:000E}エリオット！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Elliot?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0049",
    "jp": "‥‥{v:000F}なぜここに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000F}Why are you here...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0050",
    "jp": "{v:0010}まさか、２人がこんなことをするなんて‥‥。{p}{FC02}{v:0011}もうやめて下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}I never imagined you two would do something like this...{p}{FC02}{v:0011}Please, stop this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0051",
    "jp": "‥‥{v:0012}私たちはヴェンツェル様の部下なのだよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0012}We serve Wenzel-sama, you see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0052",
    "jp": "{v:0013}そんな‥‥。{n}父さん‥‥母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}No... Father... Mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0053",
    "jp": "{v:0014}私のことを母と呼ぶのはやめてもらおうか。{n}お前の母親役はもう終わったのだからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}I would ask you to stop calling me Mother. My role as{n}your mother is over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0054",
    "jp": "{v:0015}お前が育つまでの１４年間。{n}私たちは親代わりをするという任務を果たした。{p}{v:0016}任務が終われば、もう親子ごっこは終わりだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}For fourteen years, while you grew up, we carried out{n}our mission of acting as your parents.{p}{v:0016}Now that our mission is over, so is this game of{n}playing family.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0055",
    "jp": "{FFF3}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0056",
    "jp": "{v:0017}ヴェンツェル様の敵は実力で排除する！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}We will eliminate Wenzel-sama's enemies by force!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0057",
    "jp": "‥‥{v:0018}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0018}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0058",
    "jp": "{v:0019}どうしたの、ルイセちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}What's wrong, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0059",
    "jp": "{v:001A}この声、聞き覚えない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Doesn't that voice sound familiar?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0060",
    "jp": "・ヴェンツェルの部下",
-   "en": "",
+   "en": "・Wenzel's subordinates",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen079.0061",
    "jp": "・エリオットの育ての親",
-   "en": "",
+   "en": "・Elliot's foster parents",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen079.0062",
    "jp": "・わからない",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen079.0063",
    "jp": "{v:001E}そんなの、当たり前でしょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Well, obviously!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0064",
    "jp": "{v:001F}あの人たち、{n}エリオット君の育ての親だよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Those two are Elliot-kun's foster parents...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0065",
    "jp": "{v:0020}そう言えば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Now that you mention it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0066",
    "jp": "{v:0021}間違いないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}No doubt about it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0067",
    "jp": "{v:0022}あの人たち、{n}エリオット君の育ての親だよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Those two are Elliot-kun's foster parents...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0068",
    "jp": "{v:0023}その様だな。{n}俺も覚えてるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Looks that way. I remember them too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0069",
    "jp": "{v:0024}今のお前たちはヴェンツェル様に敵対するものだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}You are now enemies of Wenzel-sama.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0070",
    "jp": "{v:005B}敵は実力で排除する！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}We will eliminate our enemies by force!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0071",
    "jp": "まさか旧坑道で盗掘が行われていたとは‥‥。{n}それに見張りをしていた奴もグルだったなんて‥‥。{p}何でそんなことに気づかなかったんだ！",
-   "en": "",
-   "term": "end"
+   "en": "I never imagined people were mining illegally in the old{n}mine tunnels... And the guards were in on it too...{p}How could I have missed it?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0072",
    "jp": "あなた達のおかげで、{n}またここに立つことが出来ますよ。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks to all of you, I can stand here again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0073",
    "jp": "{v:0010}ここは現在採掘が行われてる部分だ。{p}{v:0011}旧坑道はもっと下の方にあるが、{n}現在は閉鎖されているよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}This is the section we're mining now.{p}{v:0011}The old mine tunnels are farther down, but they're{n}closed at the moment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0074",
    "jp": "{v:0012}ここで採れる魔水晶はとても純度が高いんだ。{n}おかげで採掘も難しいよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}The magic crystals we mine here are extremely pure.{n}That makes them hard to extract, though.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0075",
    "jp": "{v:0013}この山全体が１つの水晶だなんて信じられるか？{n}でも本当なんだぞ。{n}学者さん達がちゃんと調査したんだからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Can you believe this whole mountain is one crystal? It's{n}true, though. The scholars did a proper survey.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0076",
    "jp": "旧坑道からときおり聞こえてきたあの声や音は{n}盗掘者の仕業だったのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "So those voices and noises we sometimes heard from{n}the old mine tunnels came from the tomb robbers...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0077",
    "jp": "そういえば、ここを占拠してた二人組だけど、{n}俺たちには手出ししなかったなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Come to think of it, those two who took over this{n}place never laid a hand on us...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0078",
    "jp": "{v:0014}ああ、やっぱりここは怖いなぁ‥‥。{n}だって幽霊が出るんだぜ？{p}{v:0015}旧坑道の奥から声が聞こえたり‥‥ああ、怖い！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Oh, this place still gives me the creeps... It's haunted,{n}you know!{p}{v:0015}You can hear voices deep in the old mine tunnels... Ooh,{n}it's scary!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0079",
    "jp": "{v:0089}あ、効果が切れちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0089}Oh, it wore off...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0080",
    "jp": "{v:0034}さて、この中に幽霊が出ると言う話だが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Well, they say there are ghosts in here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0081",
    "jp": "{FFF3}‥{FE14}‥{FE14}{FFF4}{v:0035}やっぱりやめにしない？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FE14}...{FE14}{FFF4}{v:0035}Maybe we should just forget about this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0082",
    "jp": "{v:0036}どうしたの、ルイセちゃん？{n}ひょっとして、幽霊、怖い？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}What's wrong, Luise-chan? Don't tell me you're scared{n}of ghosts?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0083",
    "jp": "{v:0037}やっぱり、怖いよぉ～。{n}だって、死んでる人でしょ？{n}それなのに、出てくるなんて‥‥。{p}{FFF5}‥‥{v:0038}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}I can't help being scared... They're dead people, aren't{n}they? But they still come back...{p}{FFF5}...{v:0038}Ooh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0084",
    "jp": "{v:0039}バカ言うな。{n}この世の中に幽霊なんているはずねぇだろ？{n}お前もそう思うよな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Don't talk nonsense. There's no such thing as ghosts.{n}You know that, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0085",
    "jp": "幽霊はいると思いますか？",
-   "en": "",
-   "term": "end"
+   "en": "Do you believe in ghosts?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0086",
    "jp": "・存在しない",
-   "en": "",
+   "en": "・They don't exist",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen079.0087",
    "jp": "・見たことがある",
-   "en": "",
+   "en": "・I've seen one",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen079.0088",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen079.0089",
    "jp": "{v:003A}だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0090",
    "jp": "{v:003B}何言ってんのよ！{n}アタシたち、幽霊にあったじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}What are you talking about?! We met a{n}ghost, remember?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0091",
    "jp": "{v:003C}え～っ、本当なのお兄ちゃん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Whaaat?! Is that true, Big Brother?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0092",
    "jp": "{v:003D}お兄さまって凄～い！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}You're amaaazing, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0093",
    "jp": "{v:003E}そうよね、直接会っちゃったもんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}That's right! We met one face to face.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0094",
    "jp": "{FFF5}{v:003F}え～っ、やぁだぁ～‥‥。{n}本当なのお兄ちゃん！？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:003F}Whaaat? Nooo... Is that true, Big Brother?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0095",
    "jp": "{v:0040}本当だもん♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}It's true, all right♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0096",
    "jp": "{v:0041}お兄さまって凄～い！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}You're amaaazing, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0097",
    "jp": "{v:0042}何だ、お前も怖いのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}What, you're scared too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0098",
    "jp": "{FB00}{v:0043}だってぇ‥‥ねぇ？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0043}But... I mean... right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0099",
    "jp": "{v:0044}本当にいるかどうかは別として、{n}魔水晶の横流しと幽霊騒ぎ‥‥。{n}どうも怪しいな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Ghosts or no ghosts, magic crystal smuggling and a{n}haunting... Something's fishy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0100",
    "jp": "{v:0045}とにかく調べてみればハッキリするわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Anyway, we'll know for sure once we look into it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0101",
    "jp": "{v:0046}それより天井が崩れないかが心配だよ～！{n}だって一度崩れてるんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}I'm more worried about the ceiling falling in! It collapsed{n}once already, didn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0102",
    "jp": "{v:0047}あ、そうだったっけ‥‥。{p}{v:0048}ティピ、お願い。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Oh, that's right...{p}{v:0048}Tippi, would you check?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0103",
    "jp": "{v:0049}え～と‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Let's see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0104",
    "jp": "{v:004A}結構しっかりしてるわね。{n}全然崩れそうな心配はないわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}It's pretty solid. No need to worry about it collapsing{n}at all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0105",
    "jp": "{v:004B}普通の鉱山と違って、{n}この山全体が１個の水晶だからな。{n}そう簡単に、崩れることはねぇさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Unlike a normal mine, this whole mountain's one crystal.{n}It won't cave in that easily.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0106",
    "jp": "{v:0087}もう透明薬はないんだぞ？{n}このまま進むしかねぇだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0087}We're out of invisibility medicine, remember? We've got{n}no choice but to keep going.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0107",
    "jp": "{v:004E}水晶が崩れた跡みたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}It looks like some crystal collapsed here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0108",
    "jp": "{v:004F}調査団が遭った崩落事故の現場じゃねぇか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Could this be where the survey team got caught in{n}that cave-in?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0109",
    "jp": "{v:0050}でも誰かがきれいに片づけたみたいだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}But it looks like someone cleaned it all up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0110",
    "jp": "{v:0051}ますます怪しいな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}This just gets fishier.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0111",
    "jp": "{v:0069}ねぇねぇ、あそこも水晶の破片が山になってるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}Hey, look! There's a pile of crystal fragments over{n}there too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0112",
    "jp": "{v:006A}行ってみようよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}Let's go take a look.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0113",
    "jp": "{v:0053}さっさと詰め込むんだ！{n}人目がないうちに外へ運び出すぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Hurry up and pack it in! We'll haul it out while no{n}one's looking.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0114",
    "jp": "{v:0054}何だか俺たちのことを探ってる奴らが{n}いるらしいからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Sounds like someone's been nosing around in{n}our business.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0115",
    "jp": "{v:0055}そろそろ控えた方がいいかも知れん。{n}グレンガルのダンナは、{n}もう買ってくれないみたいだしな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Might be time to ease off. Doesn't look like Mr. Grengal's{n}buying any more, either.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0116",
    "jp": "{v:0056}やっぱり、こういうことか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}So that's it. Just as I thought.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0117",
    "jp": "{v:0057}誰だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Who's there?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0118",
    "jp": "{v:0058}アンタ達の悪事、しっかりと押さえたわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}We've caught you red-handed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0119",
    "jp": "{v:0059}侵入者！？{p}{v:005A}見張りは何をしているんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Intruders?!{p}{v:005A}What are the lookouts doing?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0120",
    "jp": "{v:005B}さぁ、観念するんだな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Now give it up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0121",
    "jp": "{v:005C}ええい！{n}ここまできて、捕まってたまるか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Damn it! I'm not getting caught after coming this far!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0122",
    "jp": "{v:005D}アタシ達から逃げられると思ってんの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}You think you can get away from us?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0123",
    "jp": "ちょっと！{n}最後まで調べてからにしなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Finish looking around before you go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0124",
    "jp": "{v:006B}水晶が崩れた跡みたい。{n}ここでも崩落事故があったのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}It looks like some crystal collapsed here. Was there a{n}cave-in here too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0125",
    "jp": "{v:006C}う～ん‥‥。{n}そう簡単には、壊れそうもないんだけどなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}Hmm... It doesn't look like it'd break that{n}easily, though...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0126",
    "jp": "{v:006D}ここの水晶も、あの人たちが運び出していたみたい。{n}途中まできれいに片づけられてるし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006D}It looks like those people were hauling out the crystal{n}here too. They've cleared part of it away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0127",
    "jp": "{v:006E}まだ奥があるみたい。{n}力を入れれば、崩して通れそうだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}It looks like there's more beyond here. With enough{n}force, we could break through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0128",
    "jp": "{v:006F}ちょっとどいてろ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006F}Stand back a minute.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0129",
    "jp": "{FFF0}○{FFEE}ボタン連打に集中しろ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}Circle{FFEE} button--keep mashing it! Concentrate!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0130",
    "jp": "{FFF0}集中失敗！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}Concentration failed!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0131",
    "jp": "{FFEE}{FFEB}回目開始{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Attempt {FFEB} begins!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0132",
    "jp": "{v:0070}どりゃあっ！{FFF2}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0070}Hyaaah!{FFF2}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0133",
    "jp": "{v:0071}わぁ、ウォレスさん、すご～い！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}Wow, Wallace-san! You're amazing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0134",
    "jp": "{v:0072}奥にも道が続いているみたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}It looks like the passage goes farther in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0135",
    "jp": "{v:0073}行ってみようぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0073}Let's take a look.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0136",
    "jp": "{v:0074}えっ！？{n}入るの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0074}Huh?! We're going in?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0137",
    "jp": "{v:0075}あたりまえでしょ！{n}何のためにここまで来たと思ってんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0075}Of course we are! What do you think we came all this{n}way for?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0138",
    "jp": "{v:0076}だ、だって、また崩れてきたら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}B-but what if it caves in again...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0139",
    "jp": "{v:0077}さ、行くわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0077}Come on, let's go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0140",
    "jp": "{FFF5}{v:0078}ふぇ～ん、恐いよぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0078}Waaah... I'm scared...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0141",
    "jp": "{v:0079}水晶鉱山の規模と進んだ距離から考えて、{n}ここら辺がちょうど中心だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}Judging by the size of the crystal mine and how far{n}we've come, we're right in the middle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0142",
    "jp": "{v:007A}さすが！{n}昔ここの警備をしていただけのことはあるね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}Nice! All that time guarding this place sure paid{n}off, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0143",
    "jp": "{v:007B}あらためて言われると、自分の歳を実感するぜ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007B}Hearing you say it makes me feel my age...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0144",
    "jp": "{v:007C}何コレ？{n}人型に水晶がへこんでるよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007C}What's this? There's a hollow in the crystal shaped like{n}a person!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0145",
    "jp": "{v:007D}こんなに大きいんじゃ、巨人だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007D}At that size, it'd have to be a giant.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0146",
    "jp": "‥‥{v:007E}これ、お兄ちゃんの見た怪物じゃないの！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:007E}Isn't this the monster you saw, Big Brother?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0147",
    "jp": "{v:007F}間違いないな。{p}{v:0080}２０年前、奴はここから出てきた。{n}そして鉱夫や俺の部下たちを惨殺したんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007F}No doubt about it.{p}{v:0080}Twenty years ago, it came out of here. Then it{n}slaughtered the miners and my men.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0148",
    "jp": "{v:0081}どうしてここに居たんだろ？{n}それともここで生まれたのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0081}Why was it here? Or was it born here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0149",
    "jp": "{v:0082}それは今のところ、何とも言えんな。{n}だが、水晶鉱山から奴が出てきたことだけは{n}間違いねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0082}Can't say yet. But there's no doubt it came out of this{n}crystal mine.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0150",
    "jp": "{v:0083}ひょっとして、ここみたいな水晶鉱山が{n}他にもあるのかな？{n}そんで、その中にも怪物がいるとか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0083}Could there be other crystal mines like this one? And{n}maybe monsters inside them, too...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0151",
    "jp": "{v:0084}それもわからんな‥‥。{n}だが、もしそうだとしたら、水晶鉱山を見つけても、{n}うかつに掘るのは危険だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0084}Don't know that either... But if there are, digging{n}carelessly into any crystal mine we find could{n}be dangerous.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0152",
    "jp": "{v:0085}それじゃ、早く教えてあげなくちゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}Then we've got to tell them right away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0153",
    "jp": "{v:0086}とにかく国王に報告だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0086}Either way, we'd better report to the King.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0154",
    "jp": "{FFEC}{v:0031}ティピちゃーん、キーック{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}{v:0031}Tippi-chan Kiiick!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0155",
    "jp": "％×＆★！？",
-   "en": "",
-   "term": "end"
+   "en": "%x&?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0156",
    "jp": "{v:0032}お約束はしないの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}We're not doing that old routine!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen079.0157",
    "jp": "せっかくここまで来たんだ。{n}徹底的に調査していこうぜ？",
-   "en": "",
-   "term": "end"
+   "en": "We've come all this way. Let's give this place a{n}thorough look, eh?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

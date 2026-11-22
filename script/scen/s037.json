@@ -15,371 +15,432 @@
   {
    "id": "scen037.0001",
    "jp": "ミーシャ",
-   "en": "",
-   "term": "null"
+   "en": "Misha",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen037.0002",
    "jp": "村人",
-   "en": "",
-   "term": "null"
+   "en": "Villager",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen037.0003",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen037.0004",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen037.0005",
    "jp": "召使い",
-   "en": "",
-   "term": "null"
+   "en": "Servant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen037.0006",
    "jp": "ブラッドレー副学院長",
-   "en": "",
-   "term": "null"
+   "en": "Vice Headmaster Bradley",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen037.0007",
    "jp": "医者",
-   "en": "",
-   "term": "null"
+   "en": "Doctor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen037.0008",
    "jp": "メディス村",
-   "en": "",
-   "term": "end"
+   "en": "Medis Village",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0009",
    "jp": "‥‥{v:000C}あれ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000C}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0010",
    "jp": "{v:000D}どしたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}What's up?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0011",
    "jp": "{v:000E}ミーシャがいない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Misha's gone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0012",
    "jp": "{v:000F}もうっ！{n}あの娘は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Ugh! That girl...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0013",
    "jp": "{v:0000}懐かしいなぁ‥‥。{FFF9}{FFFB}{n}{v:0001}もうしばらく帰ってなかったから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}This brings back memories...{FFF9}{FFFB} {v:0001}It's been a while since I{n}came home...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0014",
    "jp": "{FB00}{v:0002}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0002}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0015",
    "jp": "{FFF3}‥‥{v:0003}ん？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{v:0003}Hm?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0016",
    "jp": "{v:0004}だって、ミーシャ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}But, Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0017",
    "jp": "‥‥{v:0005}なぁに？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0005}Whaaat?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0018",
    "jp": "‥‥{v:0006}頭、大丈夫？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0006}Are you right in the head?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0019",
    "jp": "{v:0007}ヒドイなぁっ！{n}そりゃ、アタシ、バカだけど、そんなに変じゃないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}That's so mean! Sure, I'm dumb, but I'm not{n}that weird!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0020",
    "jp": "‥‥{v:0008}ごめん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0008}Sorry...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0021",
    "jp": "{v:0058}ああ！{n}待って、待って！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Ah! Wait, wait!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0022",
    "jp": "{v:0059}何処行ってたのよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Where have you been?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0023",
    "jp": "{v:005A}ちょっと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Oh, just out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0024",
    "jp": "ちょっと！{n}どこ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where are you going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0025",
    "jp": "{v:0009}あっ、お兄さま！{n}ここから向こうに行くと、{n}アタシのお家があるんですよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Oh, Big Brother! My house is just over that way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0026",
    "jp": "{v:000A}来てくれたら、お茶くらいごちそうしますよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}If you come over, I can at least treat you to{n}some tea!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0027",
    "jp": "{v:000B}この向こうにお前の家があるのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Your house is over that way?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0028",
    "jp": "{v:000C}うん、そうだよ。{p}{v:000D}段々になったお花畑があって、{n}その上の方に一軒だけ家が建ってて、{n}そこがアタシのお家なんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Yep, that's right.{p}{v:000D}There's a terraced flower garden, and just one house{n}up near the top. That's my home.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0029",
    "jp": "{v:007E}へぇ‥‥。{n}ミーシャのお家ねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}Ohhh... Misha's house, huh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0030",
    "jp": "{v:000E}アタシ、小さい頃に、お父さんとお母さんを{n}亡くしちゃって、困ってたところを{n}おじさまに拾われたんだよね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}I lost my father and mother when I was little. I didn't{n}know what to do, but Uncle took me in...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0031",
    "jp": "{v:000F}学院長先生に？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}The Headmaster did?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0032",
    "jp": "{v:0010}優しい人よね。{p}{v:0011}だけどアタシ、出来が良くないから、{n}おじさまの期待に応えられなくって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}He's such a kind man.{p}{v:0011}But I'm not very good at anything, so I haven't been{n}able to live up to Uncle's expectations...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0033",
    "jp": "{v:0012}ミーシャ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0034",
    "jp": "{v:0013}ま、暗い話はやめておいて、とにかく家に来ない？{n}お茶くらい飲む時間あるでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Well, enough gloomy talk! Why don't you come over?{n}You've got time for a cup of tea, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0035",
    "jp": "{v:0014}え、えぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Y-yes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0036",
    "jp": "{v:0015}ねぇ、お兄ちゃん。{n}ミーシャのことなんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Um, Big Brother. About Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0037",
    "jp": "{v:0016}ミーシャって、わたしの親友だよ。{p}{v:0017}だけど、何だかこの村に来てから、{n}ミーシャのことがちょっとヘンに思えちゃって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Misha is my best friend.{p}{v:0017}But ever since we came to this village, I've started to{n}feel that something about her isn't quite right...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0038",
    "jp": "{v:0018}確かに今までも変だったよね。{p}{v:0019}この村に来るといつもいなくなっちゃってたし、{n}同じ村に住んでたはずの副学院長を{n}知らなかったり。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}There were some odd things before, too,{n}weren't there?{p}{v:0019}She always disappeared whenever we came here, and{n}she didn't know the Vice Headmaster, even though{n}they supposedly lived in the same village.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0039",
    "jp": "{v:001A}ミーシャの言ってたことも食い違ってるし‥‥。{p}{v:001B}それから、ブレーム山にクリアノ草を採りに{n}行った時だって、いきなり変な口調で喋ったり‥‥。{p}{v:001C}親友を疑うなんて、わたし、いけない子なのかな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Some of the things Misha said don't add up, either...{p}{v:001B}And when we went to Mount Brehm to gather Kuriano{n}Herb, she suddenly started talking in such a{n}strange way...{p}{v:001C}Am I a bad person for doubting my best friend...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0040",
    "jp": "何と言ってあげますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you tell her?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0041",
    "jp": "・親友を疑うのはいけない",
-   "en": "",
+   "en": "・You shouldn't doubt your best friend",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0042",
    "jp": "・確かにミーシャはおかしい",
-   "en": "",
+   "en": "・Misha really is acting strangely",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0043",
    "jp": "・ミーシャの目を覚ませるのはルイセだけ",
-   "en": "",
+   "en": "・Only Luise can snap Misha out of it",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0044",
    "jp": "{v:0024}う‥うん。{n}そうだよね‥‥。{p}{FC00}{v:0025}ミーシャはわたしの親友だもんね！{n}何があっても、信じるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Y-yes. You're right...{p}{FC00}{v:0025}Misha is my best friend! I'll believe in her, no{n}matter what!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0045",
    "jp": "{v:001D}そうよねぇ‥‥。{p}{v:001E}あの娘には何かあると思うわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}You're right...{p}{v:001E}I think there's something going on with that girl.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0046",
    "jp": "{v:001F}ま、何があっても、最後まで見届けてやれ。{n}それが親友ってモンだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Well, whatever happens, stick with her to the end.{n}That's what best friends do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0047",
    "jp": "{v:0020}親友‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Best friends...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0048",
    "jp": "{v:0021}わたしが？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0049",
    "jp": "{v:0022}どんな秘密があるのか知らないけど。{n}何かあったら、頼むわよ。{p}{v:0023}親友ってのは、強いんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Who knows what she's hiding? But if anything{n}happens, we're counting on you.{p}{v:0023}Never underestimate a best friend!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0050",
    "jp": "{v:0026}ほら、早く、早くー！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Come on, hurry uuup!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0051",
    "jp": "{v:0023}入れ違いに帰っちゃったのかも知れないね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Maybe he came back just as we left.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0052",
    "jp": "{v:0024}副学院長、実は家の中で倒れてるかもよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}What if the Vice Headmaster's collapsed inside?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0053",
    "jp": "{v:0030}ドキドキするよぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}My heart's pounding...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0054",
    "jp": "{v:0031}いいから、早くしなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Just get on with it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0055",
    "jp": "{FFF5}{v:0032}ふぇ～ん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0032}Waaah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0056",
    "jp": "{v:0033}不用心ね、ホントに鍵をかけてないなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}How careless! He really did leave it unlocked...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0057",
    "jp": "{v:0034}それじゃ、中に入るぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}All right, we're going in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0058",
    "jp": "{FFF5}{v:0035}う、うぅ‥‥。{p}{FFF5}{v:0036}それじゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0035}U-ugh...{p}{FFF5}{v:0036}Here goes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0059",
    "jp": "{FB00}{v:0037}あ、開いちゃった‥‥。{n}どうしよう！？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0037}I-it opened... What do I do?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0060",
    "jp": "{v:0038}決まってるだろ、入るんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}What do you think? Go in!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0061",
    "jp": "おさげ髪の女の子？{n}ああ、その子なら村の外へ出ていったよ。{p}何か思い詰めた表情していたけど、{n}ご家族が病気か何かで保養所にでもいるのかい？",
-   "en": "",
-   "term": "end"
+   "en": "A girl with pigtails? Oh, she left the village.{p}She looked awfully troubled. Is someone in her family ill{n}at the sanatorium or something?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0062",
@@ -390,312 +451,363 @@
   {
    "id": "scen037.0063",
    "jp": "こんな暇な村に来るなんて、{n}よほど重要な用事なんだろうね。",
-   "en": "",
-   "term": "end"
+   "en": "You must have some very important business to come{n}to a sleepy village like this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0064",
    "jp": "え、魔法学院の副学院長の家だって？{p}それなら村の真ん中の大きなお屋敷さ。",
-   "en": "",
-   "term": "end"
+   "en": "Hm? The home of the Magic Academy's Vice Headmaster?{p}That's the big mansion in the middle of the village.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0065",
    "jp": "学院長の秘書を見かけなかったかって？{n}どんな人だかわからないけど、{n}誰もこの村には来てないわよ？",
-   "en": "",
-   "term": "end"
+   "en": "Have I seen the Headmaster's secretary? I don't know{n}what they look like, but no one's come to the village,{n}you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0066",
    "jp": "いいお天気ですね。",
-   "en": "",
-   "term": "end"
+   "en": "Lovely weather, isn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0067",
    "jp": "最近、何かと物騒ねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "Things have been rather dangerous lately,{n}haven't they?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0068",
    "jp": "ブラッドレーさん？{n}さあ、私は見かけてないけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Bradley-san? Well, I haven't seen him...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0069",
    "jp": "わざわざこんな所まで‥‥。{n}ひょっとして、薬草の買い付けかい？",
-   "en": "",
-   "term": "end"
+   "en": "You've come all this way... Are you here to buy{n}medicinal herbs, perhaps?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0070",
    "jp": "商人や薬師でもないのに、{n}物好きな人もいるんだねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "You're neither merchants nor apothecaries? Some{n}people do have curious tastes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0071",
    "jp": "ねぇねぇ。{n}ちょっと前にも、女の人が来なかった？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, hey! Didn't a woman come by a little while ago?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0072",
    "jp": "待ち合わせでもしてるのかい？{n}残念だけど、誰も来てないよ。",
-   "en": "",
-   "term": "end"
+   "en": "Are you supposed to meet someone? Sorry, but no{n}one's come by.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0073",
    "jp": "{v:001A}おう、いらっしゃい。{n}ここは道具を売ってる店だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Hey, welcome. This here's an item shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0074",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0075",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0076",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0077",
    "jp": "まだ何か用か？",
-   "en": "",
-   "term": "end"
+   "en": "Need anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0078",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0079",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0080",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}See ya.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0081",
    "jp": "副学院長はシロだと思うが‥‥。{n}念のために調べておいた方が、いいだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "I reckon the Vice Headmaster's in the clear... Still, we'd{n}better check, just in case.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0082",
    "jp": "副学院長、居留守してたりして‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Maybe the Vice Headmaster's pretending he's{n}not home...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0083",
    "jp": "この屋敷にアイリーンさんがいればいいのですが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I do hope Irene-san is in this mansion...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0084",
    "jp": "僕は屋敷を調べるべきだと思うよ。",
-   "en": "",
-   "term": "end"
+   "en": "I think we should investigate the mansion.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0085",
    "jp": "さて、どうしたものかな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Well, what should we do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0086",
    "jp": "{v:001F}留守だってよ。{n}これからどうする？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}They say he's out. What now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0087",
    "jp": "申し訳ございません。{n}ただいま、ブラッドレー様は外出しておりまして。{p}もうしばらくしたら戻られると思うのですが。",
-   "en": "",
-   "term": "end"
+   "en": "My apologies. Bradley-sama is out at present.{p}I expect he will return before too long.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0088",
    "jp": "そうなんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0089",
    "jp": "留守か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "So he's out...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0090",
    "jp": "留守‥‥留守‥‥。{p}留守っていえば、{n}アタシの実家はどうなってるだろ？{n}う～ん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Not home... Not home...{p}Speaking of home, I wonder how things are at my old{n}house. Hmm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0091",
    "jp": "お兄ちゃん‥‥。{n}わたし、ミーシャが心配なの‥‥。{n}お願い、一緒に探して！",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother... I'm worried about Misha... Please, help me{n}look for her!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0092",
    "jp": "副学院長は、さっき学院に行ったと思うけど？",
-   "en": "",
-   "term": "end"
+   "en": "I think the Vice Headmaster left for the Academy a{n}little while ago.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0093",
    "jp": "{v:0012}ごめんくださーい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Hellooo! Anyone home?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0094",
    "jp": "はい。ブラッドレー様にご用ですか？",
-   "en": "",
-   "term": "end"
+   "en": "Yes? Are you here to see Bradley-sama?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0095",
    "jp": "うん。{n}ちょっと会いたいんだけど？",
-   "en": "",
-   "term": "end"
+   "en": "Yeah. Could we see him for a moment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0096",
    "jp": "そうですか‥‥。{n}それでしたら、その時にまた来ます。",
-   "en": "",
-   "term": "end"
+   "en": "I see... In that case, we'll come back then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0097",
    "jp": "どうしようか？{n}一度、学院にでも戻る？",
-   "en": "",
-   "term": "end"
+   "en": "What should we do? Go back to the Academy for now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0098",
    "jp": "{v:0013}誰かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Who is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0099",
    "jp": "{v:0014}あ、あのわたし、学院の生徒で‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}U-um, I'm a student at the Academy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0100",
    "jp": "{v:0015}ああ、たしかルイセ君だったね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Ah, Luise-kun, wasn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0101",
    "jp": "{v:0016}はい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0102",
    "jp": "{v:0017}それで、何のようかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}And what can I do for you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0103",
    "jp": "{v:0018}なに、のんびりしてるのよ！{n}ホールからグローシアンが消えちゃったってのに！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}How can you be so laid-back?! The Growsians have{n}disappeared from the hall!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0104",
    "jp": "{v:0019}なんだと！？{n}それは大変だっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}What?! This is terrible!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0105",
    "jp": "{FFF3}‥‥{FFF4}{v:001A}行っちゃった‥‥。{p}{FC00}{v:001B}これからどうする？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FFF4}{v:001A}He's gone...{p}{FC00}{v:001B}What do we do now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0106",
    "jp": "{v:001C}ミーシャもいなくなっちゃったし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Misha's disappeared, too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0107",
    "jp": "{v:001D}ごめんくださーい！{p}‥‥‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Hellooo! Anyone home?{p}......",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0108",
    "jp": "‥‥‥{v:001E}留守みたいだよ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001E}Looks like he's out?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0109",
    "jp": "{v:0020}えぇっ！{n}お、お兄ちゃん、押し入る気！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}What?! B-Big Brother, you're going to break in?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0110",
    "jp": "{v:0021}確かに、他人の家に勝手に入るってのは{n}勧められねぇな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Well, I can't recommend barging into someone's house{n}without permission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0111",
    "jp": "{v:0022}でも、副学院長、中で倒れてるかもよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}But what if the Vice Headmaster's collapsed inside?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0112",
    "jp": "{v:0025}それも一理あるな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}You've got a point...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0113",
    "jp": "{v:0026}それじゃ、こうしない？{p}{v:0027}鍵がかかってたら、あきらめるって事で。{n}どう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Then how about this?{p}{v:0027}If it's locked, we'll give up. Deal?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0114",
@@ -706,486 +818,566 @@
   {
    "id": "scen037.0115",
    "jp": "{v:0029}決まりね！{n}それじゃルイセちゃんお願い。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}It's settled! Okay, Luise-chan, you do it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0116",
    "jp": "{v:002A}え、わたしぃっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Huh? Meee?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0117",
    "jp": "{v:002B}だって扉を開けてすぐ副学院長がいた時、{n}アンタだったら顔見知りじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Because if the Vice Headmaster's right behind the door{n}when it opens, at least he'll know you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0118",
    "jp": "{v:002C}そんなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0119",
    "jp": "{v:002D}頼んだぜ、ルイセ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}We're counting on you, Luise.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0120",
    "jp": "{v:002E}ふぇ～ん‥‥。{n}何でわたしが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Waaah... Why me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0121",
    "jp": "{v:002F}早くしなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Hurry up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0122",
    "jp": "‥‥{v:0027}あらぁ‥‥。{FFF9}{FFFB}{n}{v:0028}しばらく来なかったら、お花畑がなくなってる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0027}Oh...?{FFF9}{FFFB}{v:0028}I haven't been here in a while, and now the{n}flower field's gone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0123",
    "jp": "{v:0029}ここは昔からこの通りですよ。{n}ここへはよく薬草を取りに来ましたから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}It's always looked like this. I used to come here often{n}to gather medicinal herbs.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0124",
    "jp": "{v:002A}ここは昔からこのままだって‥‥。{n}カレンさんがここに薬草を取りに来てたって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}She says it's always been like this... Karen-san used to{n}gather medicinal herbs here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0125",
    "jp": "ここは昔からこのままだって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "They say it's always been like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0126",
    "jp": "{v:002B}うそ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}No...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0127",
    "jp": "{v:002C}あのね、ミーシャ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Listen, Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0128",
    "jp": "{v:002D}うそだよ！{p}{v:002E}この先にはアタシの家が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}That's not true!{p}{v:002E}My house is just up ahead...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0129",
    "jp": "{v:002F}ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0130",
    "jp": "おい、{s:0000}。{n}あのまま放っておくつもりか？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, {s:0000}. You're just going to leave her{n}like that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0131",
    "jp": "{v:0030}ミーシャ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0132",
    "jp": "{v:0031}アタシのお家、なくなってる‥‥。{n}どうして‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}My home's gone... Why...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0133",
    "jp": "{v:0032}ミーシャ君‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Misha-kun...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0134",
    "jp": "{v:0033}ミーシャちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Misha-chan...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0135",
    "jp": "{v:0034}お父さんとお母さんと、３人で暮らした‥‥、{n}アタシの‥お家が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}The three of us lived here... Dad, Mom and me... My...{n}home...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0136",
    "jp": "{v:0035}しっかりしてよ、ミーシャ！{n}きっと場所を間違えたんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Pull yourself together, Misha! You must have the{n}wrong place!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0137",
    "jp": "{v:0036}もう、ミーシャったら、そそっかしいんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Oh, Misha! You're such a scatterbrain!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0138",
    "jp": "{FFF3}{FFF6}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{FFF6}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0139",
    "jp": "‥‥{v:0037}ミーシャ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0037}Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0140",
    "jp": "{FFF3}{FFF6}‥‥{FFF4}{v:0038}な‥わけ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{FFF6}...{FFF4}{v:0038}No... way...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0141",
    "jp": "{v:0039}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0142",
    "jp": "{v:003A}そんなわけ、ないじゃない！{n}いくら、アタシが方向オンチでも、{n}自分の育ったお家を忘れるわけないじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}There's no way! I may have a terrible sense of{n}direction, but how could I forget the home I grew{n}up in?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0143",
    "jp": "{v:003B}ミーシャ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0144",
    "jp": "{FFF5}{v:003C}確かにここだった！{n}ここで暮らしてた！{n}お花畑に囲まれた、小さなお家で暮らしてた！{p}{FC03}‥‥{v:003D}でも、ないの‥‥。{p}{v:003E}車百合のお花畑も‥‥。{n}赤い屋根の小さなお家も‥‥。{p}{v:003F}なんで、ないのよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:003C}It was here! I lived here! I lived in a little house{n}surrounded by flowers!{p}{FC03}...{v:003D}But it's gone...{p}{v:003E}The field of wheel lilies... The little house with the{n}red roof...{p}{v:003F}Why is it all gone?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0145",
    "jp": "{v:0040}ほら、きっと、空き家だったから、{n}取り壊されちゃって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Look, it must have been torn down because no one was{n}living there...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0146",
    "jp": "{FFF5}{v:0041}気休めはよして！{p}{v:0042}最初からここに家がなかったことなんて{n}見ればわかる！{p}{v:0043}だけど、アタシの記憶ではたしかにここなの！{n}ここで育った思い出があるの！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0041}Stop trying to make me feel better!{p}{v:0042}Anyone can see there was never a house here!{p}{v:0043}But I remember this place! I remember growing up here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0147",
    "jp": "{v:0044}お、落ち着いてよ、ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}C-calm down, Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0148",
    "jp": "{FFF5}{v:0045}この記憶はなに！？{n}どっちが間違えてるの？{p}{v:0046}本当に、アタシはミーシャなの？{p}{v:0047}誰かの記憶をもった、ミーシャ？{n}ミーシャの記憶をもった、誰か？{n}ねぇ、教えてよ、ルイセちゃん！{p}{v:0048}ねぇ、教えて、お兄さま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0045}What are these memories?! Which is wrong?{p}{v:0046}Am I really Misha?{p}{v:0047}Misha with someone else's memories? Someone else{n}with Misha's memories? Tell me, Luise-chan!{p}{v:0048}Please, tell me, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0149",
    "jp": "ミーシャにどんな言葉をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say to Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0150",
    "jp": "・黙って抱きしめる",
-   "en": "",
+   "en": "・Silently embrace her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0151",
    "jp": "・答えを急ぐ必要はないと慰める",
-   "en": "",
+   "en": "・Tell her she needn't rush to an answer",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0152",
    "jp": "・気をしっかり持つように励ます",
-   "en": "",
+   "en": "・Encourage her to stay strong",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0153",
    "jp": "・かける言葉が見あたらない",
-   "en": "",
+   "en": "・You can't find the words",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0154",
    "jp": "{FFF5}{FFF3}‥‥{FFF2}{v:0049}あ‥‥{FFF6}{FFF3}。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{FFF3}...{FFF2}{v:0049}Ah...{FFF6}{FFF3}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0155",
    "jp": "{v:004A}１人で悩むな。{n}俺たちは仲間だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Don't shoulder it all yourself. We're your friends,{n}aren't we?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0156",
    "jp": "{v:004B}そうよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}That's right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0157",
    "jp": "{v:004C}答えは急がなくていい。{n}じっくり考えて、一番正しい方向を見極めるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}You don't need an answer right away. Take your time,{n}think it through, and work out the best way forward.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0158",
    "jp": "{v:004D}何事も急いじゃダメよ。{n}急いだって、何にもならないんだから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Don't rush into anything. Rushing won't get you{n}anywhere, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0159",
    "jp": "{FFF5}‥‥{v:004E}みんな‥‥。{n}アタシなんかのために‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:004E}Everyone... All this, for someone like me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0160",
    "jp": "{v:004F}当たり前じゃない。{n}わたしたち、親友でしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Of course. We're best friends, aren't we?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0161",
    "jp": "‥‥‥{v:0050}ありがとう。{p}{v:0051}そうだよね。{n}もう少しよく考えてみる。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0050}Thank you.{p}{v:0051}You're right. I'll give it a little more thought.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0162",
    "jp": "{v:0052}そうだよ、急いじゃダメだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}That's right! Don't rush!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0163",
    "jp": "{v:0053}でも‥‥でも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}But... But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0164",
    "jp": "{v:0054}いい、ミーシャ。{n}落ち着いて聞いて！{p}{v:0055}あなたの記憶が実際のものと違っていた。{n}でもそれがどうしたの？{n}それだけなんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Listen, Misha. Just calm down and hear me out!{p}{v:0055}Your memories don't match what really happened. But so{n}what? That's all it is, isn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0165",
    "jp": "{v:0056}そうだ。{n}君は君じゃないか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}That's right. You're still you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0166",
    "jp": "{FFF5}{v:0057}そうよ。{n}あなたはあなたじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0057}Yes. You're still you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0167",
    "jp": "‥{v:0058}アタシは‥‥アタシ‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0058}I'm... still me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0168",
    "jp": "{v:0059}ああ。{n}お前はこうしてここにいる。{p}{v:005A}過去がなんだ。{n}今があるじゃないか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Yeah. You're right here, aren't you?{p}{v:005A}Who cares about the past? What matters is the here{n}and now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0169",
    "jp": "‥‥{v:005B}ごめんね、みんな‥‥。{n}確かに今のアタシはここにいるよ？{p}{v:005C}でも、過去のアタシの積み重ねが{n}今のアタシなの‥‥。{FFF9}{FFFB}{n}{v:005D}過去が違ってたら、今のアタシだって違っちゃうよ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005B}I'm sorry, everyone... Yes, I'm here now.{p}{v:005C}But everything I've been through made me who I{n}am...{FFF9}{FFFB}{v:005D}If my past is different, then who I am now is{n}different, too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0170",
    "jp": "{v:005E}あ、ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}Ah, Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0171",
    "jp": "{v:005F}そうだよ、しっかりしなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}That's right! Pull yourself together!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0172",
    "jp": "{v:0060}でも、自分の記憶が偽物だって思うと、不安なの！{p}{FC03}{v:0061}今の自分が、本当の自分じゃないように思えて‥‥。{n}記憶だけじゃなく、{n}すべてが作り物なんじゃないかって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}But thinking my memories might be false scares me!{p}{FC03}{v:0061}It feels like the person I am now isn't really me... Like it{n}isn't just my memories... Like everything about me is{n}made up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0173",
    "jp": "{v:0062}ミーシャ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0174",
    "jp": "‥‥{v:0063}アタシはいったい誰なの？{p}{v:0064}ここで生まれたんじゃないなら、{n}アタシはどこで生まれたの！？{n}アタシは‥‥アタシは‥‥アタシは誰！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0063}Who am I, really?{p}{v:0064}If I wasn't born here, where was I born?! I... I... Who{n}am I?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0175",
    "jp": "{v:0065}あ、ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}Ah, Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0176",
    "jp": "{v:0066}アタシ、誰なの‥‥？{n}教えて、お兄さま‥‥。{p}‥‥{v:0067}どうしてアタシは間違いの記憶を{n}こんなにはっきり覚えてるの？{n}アタシ、本当にミーシャでいいの？{p}{v:0068}助けて‥‥誰か、助けてよぉっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}Who am I...? Tell me, Big Brother...{p}...{v:0067}Why do I remember things that never happened so{n}clearly? Can I really call myself Misha?{p}{v:0068}Help me... Somebody, help me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0177",
    "jp": "{v:0069}ミーシャ君！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}Misha-kun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0178",
    "jp": "{v:006A}ミーシャちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}Misha-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0179",
    "jp": "‥‥{v:006B}冷たいようだが、どんな慰めも出来ねぇ。{n}自分で強くなるしか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:006B}Sounds cold, but there's no comfort I can offer her.{n}She's gotta find her own strength...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0180",
    "jp": "{v:006C}だけど、その手伝いくらいできるよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}But we can at least help her do that, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0181",
    "jp": "{v:006D}そうね！{n}なんとかミーシャの謎を解いてあげましょう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006D}Right! Let's find some way to solve Misha's mystery!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0182",
    "jp": "‥‥{v:0039}おじゃましま～す‥‥。{p}{v:003A}なんだか緊張するね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0039}Excuse uuus...{p}{v:003A}This is kind of nerve-racking.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0183",
    "jp": "{v:003B}大丈夫だ。{n}人の気配はない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}It's all right. No sign of anyone here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0184",
    "jp": "‥‥{v:0039}おじゃましま～す‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0039}Excuse uuus...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0185",
    "jp": "多少進展があったんだ。{n}今外へ出るのは得策とは思えねぇな。",
-   "en": "",
-   "term": "end"
+   "en": "We've made some progress. Don't think heading outside{n}now is a smart move.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0186",
    "jp": "おかしいな‥‥。{n}何の研究施設もないのが気になる。",
-   "en": "",
-   "term": "end"
+   "en": "Strange... It bothers me that there's no research{n}equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0187",
    "jp": "‥‥そうだよね。{n}どこかに隠し部屋があるのかなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...You're right. I wonder if there's a hidden{n}room somewhere...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0188",
    "jp": "もう少し詳しく調べてみる価値はありそうだな。",
-   "en": "",
-   "term": "end"
+   "en": "Looks worth searching a little more thoroughly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0189",
    "jp": "{v:0040}ねぇ、こんなところに階段ってあったかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Hey, were these stairs here before?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0190",
    "jp": "{v:0041}きっと、さっきの音はこれだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}This must be what made that noise earlier.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0191",
    "jp": "{v:0042}地下室か‥‥。{p}{v:0043}ここにグローシアンが監禁されているのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}A basement...{p}{v:0043}Is this where they're holding the Growsians captive?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0192",
    "jp": "絵の一部が不自然に盛り上がっている。",
-   "en": "",
-   "term": "end"
+   "en": "Part of the painting bulges unnaturally.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0193",
    "jp": "{v:003C}何かしら、これ？{n}スイッチになってるみたいだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}What's this, I wonder? It looks like a switch...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0194",
    "jp": "スイッチを押してみますか？",
-   "en": "",
-   "term": "end"
+   "en": "Try pressing the switch?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0195",
@@ -1196,329 +1388,383 @@
   {
    "id": "scen037.0196",
    "jp": "{v:003E}何か動いたみたいな音だったぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Sounded like something moved.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0197",
    "jp": "{v:003F}そうね。{n}勝手にいじって壊したら困るモンね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Right. We'd be in trouble if we fiddled with it and{n}broke something.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0198",
    "jp": "本や小物が並んでいる。",
-   "en": "",
-   "term": "end"
+   "en": "Books and small objects are arranged here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0199",
    "jp": "本が並んでいる。",
-   "en": "",
-   "term": "end"
+   "en": "Books are lined up here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0200",
    "jp": "花が生けてある。",
-   "en": "",
-   "term": "end"
+   "en": "Flowers have been arranged here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0201",
    "jp": "机の上や中には怪しいものはなさそうだ。",
-   "en": "",
-   "term": "end"
+   "en": "There doesn't seem to be anything suspicious on or{n}inside the desk.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0202",
    "jp": "とくに怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "Nothing seems particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0203",
    "jp": "この壁は叩くと音が響く。",
-   "en": "",
-   "term": "end"
+   "en": "This wall sounds hollow when tapped.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0204",
    "jp": "{FFF3}‥‥‥‥。{FFFB}{n}誰もいないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}......{FFFB} There's nobody here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0205",
    "jp": "なんだか拍子抜け‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Well, that's kind of an anticlimax...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0206",
    "jp": "床の上には光の魔法陣が展開している。",
-   "en": "",
-   "term": "end"
+   "en": "A glowing magic circle covers the floor.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0207",
    "jp": "この魔法陣って何かな？{n}ナニか危ないものかな？",
-   "en": "",
-   "term": "end"
+   "en": "What's this magic circle for? Is it something dangerous?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0208",
    "jp": "この魔法陣って、何だと思う？",
-   "en": "",
-   "term": "end"
+   "en": "What do you think this magic circle is?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0209",
    "jp": "・すごく危険なもの",
-   "en": "",
+   "en": "・Something very dangerous",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0210",
    "jp": "・危険なものではない",
-   "en": "",
+   "en": "・Nothing dangerous",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0211",
    "jp": "・予想もつかない",
-   "en": "",
+   "en": "・I have no idea",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen037.0212",
    "jp": "そ、それじゃ、すぐに逃げようよ！",
-   "en": "",
-   "term": "end"
+   "en": "Th-then let's get out of here, now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0213",
    "jp": "‥‥アンタ、いい加減なこと言わないでよね。",
-   "en": "",
-   "term": "end"
+   "en": "...Hey, don't just make things up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0214",
    "jp": "よくわかったね。{n}これは魔法の影響を{n}外界へもらさないようにするための物だよ。",
-   "en": "",
-   "term": "end"
+   "en": "You figured it out. This keeps the effects of magic from{n}reaching the outside world.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0215",
    "jp": "うん。{n}この魔法陣は、魔法の影響を{n}外界へもらさないようにするための物だから。",
-   "en": "",
-   "term": "end"
+   "en": "Right. This magic circle keeps the effects of magic from{n}reaching the outside world.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0216",
    "jp": "へぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ohhh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0217",
    "jp": "うぅ‥‥大丈夫かなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ugh... Are we going to be okay...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0218",
    "jp": "慌てなくても大丈夫だよ。{p}これは魔法の影響を{n}外界へもらさないようにするための物だからね。",
-   "en": "",
-   "term": "end"
+   "en": "There's no need to panic.{p}This keeps the effects of magic from reaching the{n}outside world.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0219",
    "jp": "大丈夫だよ。{n}この魔法陣は、魔法の影響を{n}外界へもらさないようにするための物だから。",
-   "en": "",
-   "term": "end"
+   "en": "It's all right. This magic circle keeps the effects of{n}magic from reaching the outside world.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0220",
    "jp": "ジェームズ‥‥‥８２点（{FFEF}優{FFF1}）{n}ローリー‥‥‥‥７０点（良）{n}グイン‥‥‥‥‥７７点（良）{p}ルービン‥‥‥‥３５点（{FFF0}不{FFF1}）{n}ナンターラ‥‥‥５１点（可）{n}　　　　　　　どうやらテストの成績表らしい。",
-   "en": "",
-   "term": "end"
+   "en": "James: 82 ({FFEF}Excellent{FFF1}){n}Rory: 70 (Good){n}Guin: 77 (Good){p}Rubin: 35 ({FFF0}Fail{FFF1}){n}Nantara: 51 (Pass){n}This appears to be a list of test results.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0221",
    "jp": "カラのフラスコがある。{n}最近使われた形跡はない。",
-   "en": "",
-   "term": "end"
+   "en": "There's an empty flask here. It shows no signs of{n}recent use.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0222",
    "jp": "　大呪術学体系　（序）{n}　　　　　　魔法学院副学院長　ブラッドレー著{p}どうやら副学院長が執筆した本らしい。",
-   "en": "",
-   "term": "end"
+   "en": "　'A Compendium of Cursecraft' (Introduction){n}By Bradley, Vice Headmaster of the Magic Academy{p}It appears to be a book written by the{n}Vice Headmaster.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0223",
    "jp": "‥‥ツボがある。{FFFB}{n}‥‥くずかご代わりに使われているようだ。{p}特に怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "...There's a pot here.{FFFB} ...It seems to be used as{n}a wastebasket.{p}Nothing seems particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0224",
    "jp": "人の頭がい骨と思われる物が置かれている。{n}だが、特に怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "What appears to be a human skull sits here. Still,{n}nothing seems particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0225",
    "jp": "アンタ、こんな物に興味があるの！？{FFFB}{n}{FB00}趣味を疑っちゃうわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "You're interested in THIS sort of thing?!{FFFB} {FB00}I'm starting{n}to question your taste...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0226",
    "jp": "あ、わら束で作ったお人形だ！{p}{FC03}でも、何に使うんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, a little doll made of bundled straw!{p}{FC03}But what's it used for?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0227",
    "jp": "乳鉢と染料の粉がおいてある。{n}特に怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "A mortar and powdered dyes sit here. Nothing seems{n}particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0228",
    "jp": "不気味な怪物がこちらをにらんでいる絵画だ。{n}グロテスクではあるが、その画力は高く、{n}今にも動き出しそうな雰囲気がある。{p}だが、特に怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "A painting of an eerie monster glaring this way.{n}Grotesque though it is, it's so skillfully painted that it{n}looks ready to move at any moment.{p}Still, nothing seems particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0229",
    "jp": "何だか気持ち悪いなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "This is kind of creepy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0230",
    "jp": "小さなツボがたくさん並んでいる。{n}それぞれのツボには、薬や染料が入っているだけだ。{p}特に怪しいところは見あたらない。",
-   "en": "",
-   "term": "end"
+   "en": "Lots of small pots are lined up here. Each contains only{n}medicine or dye.{p}Nothing seems particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0231",
    "jp": "赤い染料を溶かした液が入っている。{n}特に怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "It contains a solution of red dye. Nothing seems{n}particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0232",
    "jp": "大きなタルだ。{n}中に人の入っている様子はない。",
-   "en": "",
-   "term": "end"
+   "en": "A large barrel. There doesn't seem to be{n}anyone inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0233",
    "jp": "特に怪しい所は、ないみたい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Nothing looks particularly suspicious...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0234",
    "jp": "何か見つかったか？",
-   "en": "",
-   "term": "end"
+   "en": "Find anything?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0235",
    "jp": "何だかいろいろあって、楽しいね★",
-   "en": "",
-   "term": "end"
+   "en": "There's all sorts of stuff here! This is fun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0236",
    "jp": "気味が悪い部屋ですね‥‥。{n}気分が悪くなってきました‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What an unsettling room... I'm beginning to feel ill...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0237",
    "jp": "う～ん。{n}‥‥これといって怪しい所はないようだね。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... Nothing in particular seems suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0238",
    "jp": "‥‥{v:0048}う～ん、ないや‥‥。{p}{v:0049}お兄ちゃん。{n}グローシアンに関係するような研究は、{n}どこにもないよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0048}Hmm, nothing...{p}{v:0049}Big Brother, there's no research relating to Growsians{n}anywhere here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0239",
    "jp": "{v:004A}あてが外れたな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}So much for that lead.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0240",
    "jp": "{v:004B}ここには何もなかった‥‥。{p}{v:004C}グローシアンはホールから消えてしまった。{n}その前後、校庭の隅から箱を持ち出す怪しい人影‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}There was nothing here...{p}{v:004C}The Growsians vanished from the hall. Around that{n}time, a suspicious figure carried a box out of a corner{n}of the school grounds...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0241",
    "jp": "{v:004D}ホールで死んでいた副学院長の知り合い。{n}その手に握られていた赤いピアス‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}The Vice Headmaster's acquaintance, found dead in the{n}hall. The Red Earring clutched in that person's hand...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0242",
    "jp": "{v:004E}犯人は誰なんだろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Who could be behind all this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0243",
    "jp": "お客様、勝手に入られては困ります。{n}お泊まりの際は、こちらにお申し付け下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please don't go in without asking. If you wish to stay,{n}please speak to me here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0244",
    "jp": "君たち、インジェクターを見たことないかね？{p}あっ、インジェクターって言うのは注射器の事でね。{FFFB}{n}何度も手に入れることで中身の液体を変えて、{n}４段階まで強くする事ができるんだ。{p}グランシルのフリーバトルの賞品にあったらしいけど、{n}あんなものを使いこなせるのは{n}ラシェル保養所の看護婦さんくらいかな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Have you ever seen an Injector?{p}Oh, an Injector is a syringe.{FFFB} Each time you obtain{n}another one, the liquid inside changes. It can be{n}strengthened through four stages.{p}Apparently, one was offered as a Free Battle prize in{n}Grancil, but I imagine only a nurse at the Rachelle{n}Sanatorium could handle such a thing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0245",
    "jp": "どこかにいいインジェクターはないものか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I wonder where I could find a good Injector...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0246",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0247",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0248",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen037.0249",
    "jp": "お泊まりの際は、お声をかけて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please let me know if you wish to stay.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

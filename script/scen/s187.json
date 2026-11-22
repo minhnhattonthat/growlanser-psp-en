@@ -15,20 +15,23 @@
   {
    "id": "scen187.0001",
    "jp": "暖炉ガール",
-   "en": "",
-   "term": "null"
+   "en": "Fireplace Girl",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen187.0002",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen187.0003",
    "jp": "？？？",
-   "en": "",
-   "term": "null"
+   "en": "???",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen187.0004",
@@ -39,154 +42,178 @@
   {
    "id": "scen187.0005",
    "jp": "スイッチがある。{n}押してみますか？",
-   "en": "",
-   "term": "end"
+   "en": "There is a switch. Press it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0006",
    "jp": "　{n}　　　　　驚いていただけました？",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Did I surprise you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0007",
    "jp": "いらっしゃいませ。{n}当ホテルをご利用になられますか？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. Would you like to stay at our hotel?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0008",
    "jp": "以前、ウチの女子社員にひどい事しましたから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "After what you did to our female employee last time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0009",
    "jp": "１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "It will be {FFEB} Elm for one night. Is that all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0010",
    "jp": "お客さん‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Sir...[01BE] I'm afraid you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0011",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0012",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0013",
    "jp": "{v:0002}さて、何の用かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Now, what can I do for you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0014",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0015",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0016",
    "jp": "まだ用事はあるかい？",
-   "en": "",
-   "term": "end"
+   "en": "Anything else you need?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0017",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0018",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0019",
    "jp": "{v:000B}またおいで～。{n}待ってるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Come agaaain! I'll be waiting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0020",
    "jp": "{v:001A}おう、いらっしゃい。{n}ここは道具を売ってる店だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Hey, welcome. This here's an item shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0021",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0022",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0023",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0024",
    "jp": "まだ何か用か？",
-   "en": "",
-   "term": "end"
+   "en": "Need anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0025",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0026",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0027",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}See ya.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0028",
    "jp": "ダメですよ、話しかけちゃ。{n}知らないふりをするのもマナーですよ。",
-   "en": "",
-   "term": "end"
+   "en": "You're not supposed to talk to me. It's only polite to{n}pretend you haven't noticed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0029",
@@ -197,32 +224,37 @@
   {
    "id": "scen187.0030",
    "jp": "暖炉に火を付けますか？",
-   "en": "",
-   "term": "end"
+   "en": "Light a fire in the fireplace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0031",
    "jp": "ちょ、ちょっと！{n}何する気！？{n}やめてください！",
-   "en": "",
-   "term": "end"
+   "en": "H-hey! What are you doing?! Stop it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0032",
    "jp": "中に人がいるようだが、火を付けますか？",
-   "en": "",
-   "term": "end"
+   "en": "There seems to be someone inside. Light a fire anyway?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0033",
    "jp": "{FFF0}ぎゃーーーーっ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}Aaaaaaah!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0034",
    "jp": "‥‥‥ほっ。",
-   "en": "",
-   "term": "end"
+   "en": "...Whew.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0035",
@@ -239,16 +271,18 @@
   {
    "id": "scen187.0037",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0038",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0039",
@@ -412,8 +446,9 @@
   {
    "id": "scen187.0065",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0066",
@@ -564,16 +599,18 @@
   {
    "id": "scen187.0089",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0090",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen187.0091",
@@ -813,8 +850,9 @@
   {
    "id": "scen187.0129",
    "jp": "せっかく休ませてもらえるんだから、{n}ちゃんと休もうよ！",
-   "en": "",
-   "term": "end"
+   "en": "We've been given a chance to rest, so let's make the{n}most of it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen187.0130",

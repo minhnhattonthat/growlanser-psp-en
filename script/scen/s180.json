@@ -15,20 +15,23 @@
   {
    "id": "scen180.0001",
    "jp": "　{n}　　　　　　　　　一方通行のようだ。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　　　It seems to be one-way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen180.0002",
    "jp": "　{n}　　　　　　　　　動いていない。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　　　It isn't moving.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen180.0003",
    "jp": "スイッチを押しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Press the switch?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen180.0004",
@@ -45,20 +48,23 @@
   {
    "id": "scen180.0006",
    "jp": "『{FFEF}賢者の石{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Sage's Stone{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen180.0007",
    "jp": "　{n}　　　　　『{FFEF}賢者の石{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Sage's Stone{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen180.0008",
    "jp": "これはセーブポイントとは違うらしい。{n}何だろう？",
-   "en": "",
-   "term": "end"
+   "en": "This doesn't seem to be a save point. What could it be?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen180.0009",
@@ -197,9 +203,10 @@
   {
    "id": "scen180.0031",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen180.0032",

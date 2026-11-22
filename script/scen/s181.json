@@ -15,8 +15,9 @@
   {
    "id": "scen181.0001",
    "jp": "　{n}　　　　１２５００エルムを手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Received 12,500 Elm!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

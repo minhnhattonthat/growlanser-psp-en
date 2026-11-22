@@ -15,518 +15,604 @@
   {
    "id": "scen249.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen249.0002",
    "jp": "{v:0029}オスカー‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Oscar...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0003",
    "jp": "{v:002A}アーネスト、僕たちは間違えているのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Ernest, do you think we have made a mistake?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0004",
    "jp": "{v:002B}さてな。{p}{v:002C}どちらが間違えているのか、２人とも間違えたのか。{n}いや、それとも２人とも正しいのか‥‥。{p}{v:002D}どちらにしろ、判断するのは後世の連中だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Who knows?{p}{v:002C}Perhaps one of us is wrong. Perhaps both of us are. Or{n}perhaps we are both right...{p}{v:002D}Either way, future generations will be the judges.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0005",
    "jp": "{v:002E}僕は君がうらやましいよ。{n}冷静にそう言い切れる君がね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}I envy you. You can say that with such composure.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0006",
    "jp": "‥‥{v:002F}人の気も知らずに。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002F}You have no idea how I feel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0007",
    "jp": "{v:0030}どうやら腕は衰えていないようだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}It seems your skill has not dulled.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0008",
    "jp": "{v:0031}お互いにね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Nor has yours.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0009",
    "jp": "‥‥{v:0052}うぅ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0052}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0010",
    "jp": "‥‥{v:0053}陛下‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0053}Your Majesty...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0011",
    "jp": "‥‥{v:0054}来たか、オスカー。{n}アーネストだけでなく、私も葬ろうと言うのか？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0054}So you have come, Oscar. Do you intend to bury me{n}along with Ernest?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0012",
    "jp": "‥‥{v:0055}陛下‥‥いや、我が友リシャール！{n}もうこんなことはやめてくれ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0055}Your Majesty... No, Richard, my friend! Please, put an{n}end to this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0013",
    "jp": "{v:0056}こんなこととは何だ？{n}何をやめろと言うのだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}An end to what? What are you asking me to stop?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0014",
    "jp": "{v:0057}昔のあなたはそうではなかった‥‥。{p}{v:0058}思い出してください！{n}まだ我々が士官学校の学生だった頃を！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}You were not like this before...{p}{v:0058}Please, remember! Remember when we were students{n}at the military academy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0015",
    "jp": "‥{v:0059}士官‥学校‥？{p}{FC03}{v:005A}そうだあれはまだ我々が出会ったばかりの頃‥。{n}私は身分を隠し‥‥うぅ、頭が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0059}The military... academy...?{p}{FC03}{v:005A}Yes, we had only just met... I was concealing my{n}status... Ugh, my head...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0016",
    "jp": "{v:005B}陛下！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Your Majesty?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0017",
    "jp": "{v:005C}お前を見ていると気分が悪くなる！{n}すぐにこの世から消し去ってくれる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}The sight of you sickens me! I shall erase you from this{n}world at once!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0018",
    "jp": "{v:0032}くっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Gh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0019",
    "jp": "{v:0033}あ、リーヴスさんが！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Oh, Reeves-san?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0020",
    "jp": "{v:0034}どうしたオスカー！？{n}そんなことでは、陛下を任せるなど出来ぬぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}What is the matter, Oscar?! How can I entrust His{n}Majesty to you if this is all you can do?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0021",
    "jp": "‥‥{v:0035}すまない。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0035}Forgive me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0022",
    "jp": "‥‥{v:0036}お前はそこで、己の弱さを呪っているがいい。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0036}Stay there and curse your own weakness.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0023",
    "jp": "{v:0037}うるさい！{n}我々の勝負に手出しをするな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Silence! Do not interfere in our duel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0024",
    "jp": "{v:0038}ほほぅ、なかなかやるな。{p}{v:0039}以前会ったときも思ったが、{n}お前たちにはみどころがある。{n}このまま死なせるのは惜しい。{p}{v:003A}陛下のために力を貸さぬか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Oh? You are quite skilled.{p}{v:0039}I thought so when we last met, too. You show{n}promise. It would be a shame to let you die here.{p}{v:003A}Will you lend your strength to His Majesty?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0025",
    "jp": "{v:003B}できるわけないでしょう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Of course we can't!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0026",
    "jp": "{v:003C}い、嫌です！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}N-no!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0027",
    "jp": "{v:003D}悪いな。俺が忠誠を尽くすのは隊長だけなんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Sorry. The captain's the only one I'll serve.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0028",
    "jp": "{v:003E}絶対にイヤ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}No way! Never!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0029",
    "jp": "{v:003F}悪いけど、僕は学問にしか興味がなくてね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Sorry, but my only interest is scholarly pursuits.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0030",
    "jp": "{v:0040}お断りします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}I must decline.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0031",
    "jp": "{v:0041}ガムランといい、お前といい‥‥。{p}{v:0042}この戦いが終わったら、{n}もう二度とバーンシュタイン王国のために{n}戦いたくねぇぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}First Gamlan, now you...{p}{v:0042}Once this battle's over, I never want to fight for the{n}Kingdom of Burnstein again!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0032",
    "jp": "‥‥{v:0043}仕方ない。{n}ならば、ここで果てるがよい！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0043}So be it. Then you shall perish here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0033",
    "jp": "‥‥{v:0044}な、何だと！？{n}まさかこれほどとは‥‥。{p}{v:0045}だが、まだやれる‥‥。{n}我が命つきるまで、まだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0044}W-what?! I never imagined you were this strong...{p}{v:0045}But I can still fight... Until my life gives out, I can still...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0034",
    "jp": "{v:0046}もうやめるんだ、アーネスト！{n}僕は君を死なせたくない！{p}{v:0047}陛下も君も‥‥。{n}僕は親友を殺してまで生きたくはない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Enough, Ernest! I do not want you to die!{p}{v:0047}Neither you nor His Majesty... I do not want to live at{n}the cost of killing my dearest friends!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0035",
    "jp": "‥‥{v:0048}甘い奴だな、オスカー‥‥。{p}‥‥{v:0049}ならば、勝て！{n}勝って、俺との約束を果たしてみろ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0048}You are too soft, Oscar...{p}...{v:0049}Then win! Win, and keep your promise to me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0036",
    "jp": "{v:004A}アーネスト‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Ernest...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0037",
    "jp": "{v:004B}陛下を元に戻せるのはお前だけだ。{n}頼む‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Only you can restore His Majesty to his former self. I{n}am counting on you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0038",
    "jp": "‥‥{v:004C}わかった。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004C}I will.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0039",
    "jp": "{v:004D}これでも私はナイツ・マスターの位をもらった男だ。{p}{v:004E}他の国の腰抜け王と一緒にされては困るぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}I was awarded the rank of Knight Master, after all.{p}{v:004E}Do not mistake me for one of those cowardly kings of{n}other lands!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0040",
    "jp": "‥‥{v:004F}おかしい！？　どうしたんだ、私の体は‥‥。{p}{v:0050}こんな時に‥力が‥‥力がはいらん‥‥。{p}{v:0051}いや、力が吸い取られてゆく！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004F}Something is wrong! What is happening to my body...?{p}{v:0050}At a time like this... My strength... I cannot summon{n}my strength...{p}{v:0051}No, my strength is being drained away?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0041",
    "jp": "{v:0076}いよいよ後がなくなったな。{n}そろそろ、終わりにさせてもらうぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}You're finally out of places to run. Time to finish this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0042",
    "jp": "‥‥{v:008A}さぁ、これでおしまいです。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:008A}Now, this is the end.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0043",
    "jp": "{v:0077}もう終わりだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0077}It's all over!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0044",
    "jp": "‥‥{v:0078}あなたの悪事もこれまでです。{n}覚悟してください！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0078}Your wicked deeds end here. Prepare yourself!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0045",
    "jp": "{v:0079}これ以上、人々を苦しめないで。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}Please, don't make the people suffer any more.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0046",
    "jp": "{v:007A}あんたから王位を取り返せば、{n}この国もちっとは良くなるだろうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}Once we take the throne back from you, this country{n}ought to be a little better off.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0047",
    "jp": "{v:007B}我らの崇高な計画を貴様らなどに邪魔されるものか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007B}I will not let the likes of you interfere with our{n}noble plan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0048",
    "jp": "‥‥{v:007D}そうか、その顔‥‥。{n}貴様がすべての計画を狂わせた張本人か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:007D}I see... That face... So you are the one who ruined all{n}our plans...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0049",
    "jp": "{v:007E}気づいているのだろう？{n}それとも本当に気づいていないのか？{p}‥‥{v:007F}まぁよい。{n}どのみちエラーは正さねばならん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}You realize it, do you not? Or are you truly unaware?{p}...{v:007F}No matter. Either way, the error must be corrected!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0050",
    "jp": "{v:0080}もう終わりです！{n}あきらめて下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0080}It is over! Please surrender!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0051",
    "jp": "‥‥{v:0081}うっ！{p}{v:0082}この波動は‥‥！？{p}{v:0083}そうか、貴様があのグローシアンか‥‥。{n}この頭の痛みは貴様のせいか‥‥！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0081}Ugh!{p}{v:0082}This wave of power...?!{p}{v:0083}I see. You are that Growsian... Are you the cause of{n}this pain in my head...?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0052",
    "jp": "{v:0084}ゲヴェルの造った存在は、{n}グローシアンの前では力を発揮できないって、{n}本当だったんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0084}So it was true... Beings created by Gevel can't use{n}their full power in a Growsian's presence...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0053",
    "jp": "{v:0085}お前を‥お前を殺せば、我が苦しみも消える‥‥。{n}‥‥お前を殺す！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}If I... If I kill you, my suffering will end... ...I will kill you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0054",
    "jp": "‥‥{v:005D}なんだこの感覚‥‥。{n}‥私は何をして‥‥。{p}‥‥{v:005E}アーネスト‥‥オスカー‥‥",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005D}What is this feeling...? ...What am I doing...?{p}...{v:005E}Ernest... Oscar...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0055",
    "jp": "{v:005F}陛下！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Your Majesty!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0056",
    "jp": "{v:0060}リシャール陛下！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}King Richard!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0057",
    "jp": "‥‥{v:0061}そうだ‥私はこの世を‥人間どもを支配下に‥‥。{n}そのために戦っているのだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0061}Yes... I must bring this world... these humans under my{n}rule... That is why I am fighting...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0058",
    "jp": "‥‥{v:0062}うぅ‥頭が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0062}Ugh... My head...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0059",
    "jp": "{v:0063}手間取っているようだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}You seem to be having trouble.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0060",
    "jp": "{v:0064}あいつらは‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}It's them...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0061",
    "jp": "{v:0065}やっぱりこの偽王とゲヴェルには、{n}つながりがあるようだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}So there is a connection between this false king and{n}Gevel after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0062",
    "jp": "{v:0066}おお、お前たちか‥‥。{n}何故か、力が出ない‥‥、手を貸してくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}Oh, it is you... For some reason, my strength fails me...{n}Help me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0063",
    "jp": "{v:0067}そのつもりだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0067}That is the plan.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0064",
    "jp": "‥{v:0086}ぐっ‥‥ぐはっ！{p}{v:00EA}‥‥こ‥こんな‥‥なぜ‥‥うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0086}Guh... Gah!{p}{v:00EA}...Th-this can't... Why... Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0065",
    "jp": "{v:0087}陛下！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0087}Your Majesty!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0066",
    "jp": "‥{v:0088}申し訳ありません、リシャール陛下‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0088}Forgive me, King Richard...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0067",
    "jp": "{v:0089}よくもやってくれたな。{n}死をもって償うがよい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0089}How dare you. You shall pay with your life!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0068",
    "jp": "これも運命か‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Is this fate, too...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0069",
    "jp": "な、情けない‥‥",
-   "en": "",
-   "term": "end"
+   "en": "H-how shameful...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0070",
    "jp": "もう立っていられぬ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I can stand no longer...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0071",
    "jp": "最後の最後まで‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Until the very end...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0072",
    "jp": "思い残すことはないわ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I have no regrets...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0073",
    "jp": "{v:0069}やれるモンなら、やってみなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}Go ahead and try, if you think you can!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0074",
    "jp": "{v:006A}そんなこと、させない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}I won't let you do that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0075",
    "jp": "{v:006B}貴様らこそ消え去れ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}You are the ones who shall perish!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0076",
    "jp": "{v:006C}負けないモン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}I'm not going to lose!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0077",
    "jp": "{v:006D}人間は、負けませんよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006D}Humanity will not be defeated.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0078",
    "jp": "{v:006E}絶対に負けません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}I absolutely will not lose!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0079",
    "jp": "{v:006F}僕は‥負けない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006F}I... won't lose!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0080",
    "jp": "‥‥{v:0070}ケッ！{n}言ってくれるぜ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0070}Hah! You've got some nerve!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0081",
    "jp": "‥‥{v:0071}間に合ったようだな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0071}It seems I arrived in time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0082",
    "jp": "{v:0072}ヴェンツェル様！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}Wenzel-sama!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0083",
    "jp": "{v:0073}ほう‥‥しばらく見なかった顔だな。{n}どの面下げて戻った、ヴェンツェル？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0073}Oh... A face I have not seen in some time. How dare you{n}show yourself here again, Wenzel?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0084",
    "jp": "‥‥{v:0074}なに、用事が済めばすぐに去る。{n}お前を倒し、ゲヴェルの野望に待ったをかけたらな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0074}Oh, I shall leave as soon as my business is done. Once{n}I have defeated you and put a stop to{n}Gevel's ambitions.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0085",
    "jp": "‥‥{v:0075}なるほど、あくまでも、{n}あのお方に逆らうというのだな。{n}ならばここで殺してやる！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0075}I see. You intend to defy him to the bitter end. Then{n}I shall kill you here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen249.0086",
    "jp": "{v:0068}我々の計画を邪魔する者は、すべて消し去る。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0068}We will wipe out all who interfere with our plans.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

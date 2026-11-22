@@ -158,9 +158,10 @@
   {
    "id": "scen185.0022",
    "jp": "・グランシルへ",
-   "en": "",
+   "en": "・To Grancil",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen185.0023",
@@ -178,16 +179,18 @@
   {
    "id": "scen185.0025",
    "jp": "・覚えている",
-   "en": "",
+   "en": "・I remember",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen185.0026",
    "jp": "・覚えていない",
-   "en": "",
+   "en": "・I don't remember",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen185.0027",
@@ -449,9 +452,10 @@
   {
    "id": "scen185.0065",
    "jp": "・知らない",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen185.0066",
@@ -565,16 +569,18 @@
   {
    "id": "scen185.0082",
    "jp": "アリオスト",
-   "en": "",
+   "en": "Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen185.0083",
    "jp": "ジュリアン",
-   "en": "",
+   "en": "Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen185.0084",
@@ -1056,9 +1062,10 @@
   {
    "id": "scen185.0154",
    "jp": "リシャール",
-   "en": "",
+   "en": "Richard",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen185.0155",
@@ -1870,8 +1877,9 @@
   {
    "id": "scen185.0275",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0276",
@@ -1918,8 +1926,9 @@
   {
    "id": "scen185.0282",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0283",
@@ -1993,8 +2002,9 @@
   {
    "id": "scen185.0293",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0294",
@@ -2131,8 +2141,9 @@
   {
    "id": "scen185.0315",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0316",
@@ -2275,8 +2286,9 @@
   {
    "id": "scen185.0338",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0339",
@@ -2389,8 +2401,9 @@
   {
    "id": "scen185.0356",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0357",
@@ -2503,8 +2516,9 @@
   {
    "id": "scen185.0374",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0375",
@@ -2611,8 +2625,9 @@
   {
    "id": "scen185.0391",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0392",
@@ -2711,8 +2726,9 @@
   {
    "id": "scen185.0406",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0407",
@@ -2759,8 +2775,9 @@
   {
    "id": "scen185.0413",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0414",
@@ -2807,8 +2824,9 @@
   {
    "id": "scen185.0420",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0421",
@@ -2855,8 +2873,9 @@
   {
    "id": "scen185.0427",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0428",
@@ -2903,8 +2922,9 @@
   {
    "id": "scen185.0434",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0435",
@@ -2951,8 +2971,9 @@
   {
    "id": "scen185.0441",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0442",
@@ -2992,8 +3013,9 @@
   {
    "id": "scen185.0447",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0448",
@@ -3101,8 +3123,9 @@
   {
    "id": "scen185.0463",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0464",
@@ -3121,8 +3144,9 @@
   {
    "id": "scen185.0466",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0467",
@@ -3141,8 +3165,9 @@
   {
    "id": "scen185.0469",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0470",
@@ -3161,8 +3186,9 @@
   {
    "id": "scen185.0472",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0473",
@@ -3181,8 +3207,9 @@
   {
    "id": "scen185.0475",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0476",
@@ -3201,8 +3228,9 @@
   {
    "id": "scen185.0478",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0479",
@@ -3221,8 +3249,9 @@
   {
    "id": "scen185.0481",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0482",
@@ -3241,8 +3270,9 @@
   {
    "id": "scen185.0484",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0485",
@@ -3261,8 +3291,9 @@
   {
    "id": "scen185.0487",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0488",
@@ -3343,8 +3374,9 @@
   {
    "id": "scen185.0499",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0500",
@@ -3363,8 +3395,9 @@
   {
    "id": "scen185.0502",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0503",
@@ -3383,8 +3416,9 @@
   {
    "id": "scen185.0505",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0506",
@@ -3403,8 +3437,9 @@
   {
    "id": "scen185.0508",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0509",
@@ -3423,8 +3458,9 @@
   {
    "id": "scen185.0511",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0512",
@@ -3443,8 +3479,9 @@
   {
    "id": "scen185.0514",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0515",
@@ -3463,8 +3500,9 @@
   {
    "id": "scen185.0517",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0518",
@@ -3483,8 +3521,9 @@
   {
    "id": "scen185.0520",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0521",
@@ -3592,8 +3631,9 @@
   {
    "id": "scen185.0536",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0537",
@@ -3640,8 +3680,9 @@
   {
    "id": "scen185.0543",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0544",
@@ -3688,8 +3729,9 @@
   {
    "id": "scen185.0550",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0551",
@@ -3736,8 +3778,9 @@
   {
    "id": "scen185.0557",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0558",
@@ -3784,8 +3827,9 @@
   {
    "id": "scen185.0564",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0565",
@@ -3832,8 +3876,9 @@
   {
    "id": "scen185.0571",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0572",
@@ -3880,8 +3925,9 @@
   {
    "id": "scen185.0578",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0579",
@@ -3928,8 +3974,9 @@
   {
    "id": "scen185.0585",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0586",
@@ -4031,8 +4078,9 @@
   {
    "id": "scen185.0600",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0601",
@@ -4079,8 +4127,9 @@
   {
    "id": "scen185.0607",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0608",
@@ -4127,8 +4176,9 @@
   {
    "id": "scen185.0614",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0615",
@@ -4175,8 +4225,9 @@
   {
    "id": "scen185.0621",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0622",
@@ -4223,8 +4274,9 @@
   {
    "id": "scen185.0628",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0629",
@@ -4271,8 +4323,9 @@
   {
    "id": "scen185.0635",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0636",
@@ -4319,8 +4372,9 @@
   {
    "id": "scen185.0642",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0643",
@@ -4380,15 +4434,17 @@
   {
    "id": "scen185.0651",
    "jp": "・１０３",
-   "en": "",
+   "en": "・103",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen185.0652",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0653",
@@ -4435,8 +4491,9 @@
   {
    "id": "scen185.0659",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0660",
@@ -4462,8 +4519,9 @@
   {
    "id": "scen185.0663",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0664",
@@ -4510,8 +4568,9 @@
   {
    "id": "scen185.0670",
    "jp": "どれにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0671",
@@ -4530,14 +4589,16 @@
   {
    "id": "scen185.0673",
    "jp": "エリオットのパーティー化、ＯＫする？",
-   "en": "",
-   "term": "end"
+   "en": "Allow Elliot to join the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0674",
    "jp": "ジュリアンのパーティー化、ＯＫする？",
-   "en": "",
-   "term": "end"
+   "en": "Allow Julian to join the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen185.0675",

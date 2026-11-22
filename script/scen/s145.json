@@ -15,331 +15,382 @@
   {
    "id": "scen145.0001",
    "jp": "ダンジョンマン",
-   "en": "",
-   "term": "null"
+   "en": "Dungeon Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen145.0002",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen145.0003",
    "jp": "よくぞここまでたどりついた！{n}さぁ、地上まで送り届けてやろう！",
-   "en": "",
-   "term": "end"
+   "en": "Well done reaching this far! Now, I shall send you back{n}to the surface!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0004",
    "jp": "中は空っぽだった！",
-   "en": "",
-   "term": "end"
+   "en": "It was empty inside!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0005",
    "jp": "さすがだ！{n}さすが私が見込んだ男！{n}よくぞここまで来た！{p}そこで私からお前たちに、{n}素晴らしいプレゼントを送ろうと思う。",
-   "en": "",
-   "term": "end"
+   "en": "Impressive! Just as I expected of the man I put my{n}faith in! Well done reaching this far!{p}And so, I intend to give you all a splendid gift.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0006",
    "jp": "さて、何か用はあるか？",
-   "en": "",
-   "term": "end"
+   "en": "Now then, is there anything you need?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0007",
    "jp": "・プレゼントが欲しい",
-   "en": "",
+   "en": "・I'd like a gift",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0008",
    "jp": "・ダンジョンを出たい",
-   "en": "",
+   "en": "・I'd like to leave the dungeon",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0009",
    "jp": "・特にない",
-   "en": "",
+   "en": "・Nothing in particular",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0010",
    "jp": "まず誰が欲しいか選べ。",
-   "en": "",
-   "term": "end"
+   "en": "First, choose who is to receive it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0011",
    "jp": "・{s:0000}",
-   "en": "",
+   "en": "・{s:0000}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0012",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0013",
    "jp": "・ウォレス",
-   "en": "",
+   "en": "・Wallace",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0014",
    "jp": "まず誰が欲しいか選べ。",
-   "en": "",
-   "term": "end"
+   "en": "First, choose who is to receive it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0015",
    "jp": "・{s:0000}",
-   "en": "",
+   "en": "・{s:0000}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0016",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0017",
    "jp": "・ウォレス",
-   "en": "",
+   "en": "・Wallace",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0018",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0019",
    "jp": "まず誰が欲しいか選べ。",
-   "en": "",
-   "term": "end"
+   "en": "First, choose who is to receive it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0020",
    "jp": "・{s:0000}",
-   "en": "",
+   "en": "・{s:0000}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0021",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0022",
    "jp": "・ウォレス",
-   "en": "",
+   "en": "・Wallace",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0023",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0024",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0025",
    "jp": "お前は、もう十分なはずだ。{n}他の者を選ぶが良い。",
-   "en": "",
-   "term": "end"
+   "en": "You should have quite enough already. Choose{n}someone else.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0026",
    "jp": "４００００エルムだが、どうする？",
-   "en": "",
-   "term": "end"
+   "en": "It costs 40,000 Elm. What say you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0027",
    "jp": "では、お前にプレゼントを与えよう！",
-   "en": "",
-   "term": "end"
+   "en": "Then I shall bestow a gift upon you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0028",
    "jp": "　{n}{s:FFED}は『{FFEF}盗む３{FFF1}』が修得可能になった！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}{s:FFED} can now learn '{FFEF}Steal 3{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0029",
    "jp": "２００００エルムだが、どうする？",
-   "en": "",
-   "term": "end"
+   "en": "It costs 20,000 Elm. What say you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0030",
    "jp": "　{n}{s:FFED}は『{FFEF}盗む２{FFF1}』が修得可能になった！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}{s:FFED} can now learn '{FFEF}Steal 2{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0031",
    "jp": "ダメだ！　まるでダメダメだ！{n}お金が足りぬではないか！{n}他の者を選ぶが良い。",
-   "en": "",
-   "term": "end"
+   "en": "No good! No good at all! You haven't enough money!{n}Choose someone else.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0032",
    "jp": "５０００エルムだが、どうする？",
-   "en": "",
-   "term": "end"
+   "en": "It costs 5,000 Elm. What say you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0033",
    "jp": "　{n}{s:FFED}は『{FFEF}盗む１{FFF1}』が修得可能になった！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}{s:FFED} can now learn '{FFEF}Steal 1{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0034",
    "jp": "ダメだ！{n}まるでダメダメだ！{n}お金が足りぬではないか！",
-   "en": "",
-   "term": "end"
+   "en": "No good! No good at all! You haven't enough money!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0035",
    "jp": "用があったら声をかけるがよい。",
-   "en": "",
-   "term": "end"
+   "en": "Speak to me if you need anything.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0036",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0037",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0038",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0039",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0040",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0041",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0042",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0043",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0044",
    "jp": "{v:0040}まぁ、いらっしゃい。{n}このお店は、どんなグッズでもそろってるわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Oh, welcome! You'll find all sorts of goods here, dear.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0045",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}So, are you here to buy or to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0046",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0047",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0048",
    "jp": "で、他にも何かある？",
-   "en": "",
-   "term": "end"
+   "en": "So, anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0049",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0050",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen145.0051",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Come back again, won't you? I'll have a lovely smile{n}waiting for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen145.0052",
@@ -350,8 +401,9 @@
   {
    "id": "scen145.0053",
    "jp": "　{n}　　　　　　　お宝、ゲットだぜ！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　All right, got the treasure!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

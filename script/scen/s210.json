@@ -15,412 +15,478 @@
   {
    "id": "scen210.0001",
    "jp": "警報",
-   "en": "",
-   "term": "null"
+   "en": "Alarm",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen210.0002",
    "jp": "{v:0022}ロック解除行動を察知。{p}{v:0023}時間内に解除しない場合、違法侵入者として判断し、{n}このフロアーごと爆破します。{p}{v:0024}マジックタイマーをセットしました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Unlocking attempt detected.{p}{v:0023}If the lock is not released within the allotted time, you{n}will be deemed unauthorized intruders and destroyed{n}along with this floor.{p}{v:0024}Magic Timer set.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0003",
    "jp": "{v:0025}お、おい、早く解除してくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}H-Hey, hurry up and get it unlocked!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0004",
    "jp": "{v:0026}そんなに早くは無理だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}I can't do it that quickly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0005",
    "jp": "{v:0027}それじゃ、爆発しちゃうの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Then is it going to explode?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0006",
    "jp": "{v:0028}そんなぁ！{n}死にたくないよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Nooo! I don't want to die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0007",
    "jp": "{v:0029}実は‥‥これ、持ってきてるんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Actually... I brought this along...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0008",
    "jp": "{v:002A}なに、なに？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}What is it? What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0009",
    "jp": "{v:002B}マジックタイム停止装置‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}A Magic Time Stopper...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0010",
    "jp": "{v:002C}おお、それを使えば時間が止められるんだな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Oh! So you can use that to stop time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0011",
    "jp": "‥‥{v:002D}あんまり使いたくないんだけどね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002D}I'd rather not use it, though.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0012",
    "jp": "{v:002E}どうしてですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Why is that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0013",
    "jp": "{v:002F}まだ、未完成品なんだ。{p}{v:0030}確かにこの装置を動かせば、{n}術者の掛けたスペルを探し出して、{n}時間を遅らせることができる。{p}{v:0031}けれど、探査の最中に{n}ものすごい衝撃波が発生するんだよ。{n}できれば、あの痛みは味わいたくないんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}It isn't finished yet.{p}{v:0030}When activated, this device can locate the caster's{n}spell and slow down time.{p}{v:0031}But it generates an enormous shock wave while{n}searching. I'd rather not endure that pain if I can{n}help it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0014",
    "jp": "{v:0032}ガーディアン配置完了。{n}これより、カウントダウンを開始します。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Guardian deployment complete. Beginning countdown.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0015",
    "jp": "{v:0033}‥‥ふぅっ。{FFF6}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}...Phew.{FFF6}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0016",
    "jp": "{FFF6}{FFF3}{FB00}{FFFA}{FE14}{FFF7}{FE14}{FFF4}{v:0034}やるしかないみたいだね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{FFF3}{FB00}{FFFA}{FE14}{FFF7}{FE14}{FFF4}{v:0034}It looks like I have no choice...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0017",
    "jp": "{v:0035}装置を動かしている間は、僕のそばに来ないでくれ。{n}衝撃波を受けるからね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Stay away from me while I'm operating the device.{n}You'll be hit by the shock waves!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0018",
    "jp": "{FFEE}自爆される前に、扉を解除しろ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Unlock the door before the self-destruct activates!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0019",
    "jp": "装置を使うためには、{n}扉のそばに行く必要がありそうだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Looks like I need to get near the door to use{n}the device...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0020",
    "jp": "装置停止！",
-   "en": "",
-   "term": "end"
+   "en": "Device off!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0021",
    "jp": "{v:0036}警告します。{n}フロア爆破まで、あと８００カウントです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Warning. 800 counts until this floor detonates.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0022",
    "jp": "{v:0037}警告します。{n}フロア爆破まで、あと６００カウントです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Warning. 600 counts until this floor detonates.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0023",
    "jp": "{v:0038}警告します。{n}フロア爆破まで、あと４００カウントです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Warning. 400 counts until this floor detonates.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0024",
    "jp": "{v:0039}警告します。{n}フロア爆破まで、あと２００カウントです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Warning. 200 counts until this floor detonates.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0025",
    "jp": "{v:003A}警告します。{n}フロア爆破まで、あと１００カウントです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Warning. 100 counts until this floor detonates.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0026",
    "jp": "{v:0040}カウントダウン終了。{n}これより、フロアーを爆破します！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Countdown complete. Detonating this floor now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0027",
    "jp": "{v:0041}きゃーーーっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0028",
    "jp": "マジックタイム停止装置を起動するかい？",
-   "en": "",
-   "term": "end"
+   "en": "Shall I activate the Magic Time Stopper?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0029",
    "jp": "{v:003B}装置起動！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Device on!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0030",
    "jp": "{v:003D}ようし、もう一度！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}All right, once more!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0031",
    "jp": "{v:003C}‥くぅぅ‥‥もう限界だ！{n}装置停止！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}...Urgh... I can't take any more! Device off!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0032",
    "jp": "５色のボタンがある。どれから押しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Five colored buttons. Which will you press first?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0033",
    "jp": "・赤",
-   "en": "",
+   "en": "・Red",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0034",
    "jp": "・青",
-   "en": "",
+   "en": "・Blue",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0035",
    "jp": "・黄",
-   "en": "",
+   "en": "・Yellow",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0036",
    "jp": "・緑",
-   "en": "",
+   "en": "・Green",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0037",
    "jp": "・白",
-   "en": "",
+   "en": "・White",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0038",
    "jp": "２番目のボタンは？",
-   "en": "",
-   "term": "end"
+   "en": "Which button will you press second?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0039",
    "jp": "・赤",
-   "en": "",
+   "en": "・Red",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0040",
    "jp": "・黄",
-   "en": "",
+   "en": "・Yellow",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0041",
    "jp": "・緑",
-   "en": "",
+   "en": "・Green",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0042",
    "jp": "・白",
-   "en": "",
+   "en": "・White",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0043",
    "jp": "３番目のボタンは？",
-   "en": "",
-   "term": "end"
+   "en": "Which button will you press third?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0044",
    "jp": "・赤",
-   "en": "",
+   "en": "・Red",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0045",
    "jp": "・黄",
-   "en": "",
+   "en": "・Yellow",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0046",
    "jp": "・白",
-   "en": "",
+   "en": "・White",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0047",
    "jp": "４番目のボタンは？",
-   "en": "",
-   "term": "end"
+   "en": "Which button will you press fourth?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0048",
    "jp": "・赤",
-   "en": "",
+   "en": "・Red",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0049",
    "jp": "・白",
-   "en": "",
+   "en": "・White",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen210.0050",
    "jp": "ロックがはずれた！",
-   "en": "",
-   "term": "end"
+   "en": "The lock has been released!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0051",
    "jp": "{FFF0}エラー{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}Error{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0052",
    "jp": "{FFEE}正しいコードを入力してください{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Please enter the correct code.{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0053",
    "jp": "ちょっと待ってくれ！{n}僕はこのマジックタイム停止装置を制御するだけで{n}手一杯なんだ。{p}誰か１人はここに残って、扉の解除を試してくれ！",
-   "en": "",
-   "term": "end"
+   "en": "Wait a moment! I've got my hands full just controlling{n}this Magic Time Stopper.{p}One of you needs to stay here and try to unlock{n}the door!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0054",
    "jp": "{v:003E}も、もうダメだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}I... I can't go on...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0055",
    "jp": "{v:003F}そんな！{n}しっかりしてよ、アリオストさん！{n}アリオストさーーん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}No! Hang in there, Ariost-san! Ariost-saaan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0056",
    "jp": "　{n}　　　　　　６５０エルムを手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　Received 650 Elm!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0057",
    "jp": "『{FFEF}かなづち{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Hammer{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0058",
    "jp": "　{n}　　　　　『{FFEF}かなづち{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Hammer{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0059",
    "jp": "『{FFEF}ブラスターハンド{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Blaster Hand{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0060",
    "jp": "　{n}　　　『{FFEF}ブラスターハンド{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Obtained '{FFEF}Blaster Hand{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0061",
    "jp": "{v:0042}これでもう大丈夫だね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}We're safe now, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0062",
    "jp": "{v:0043}なかなか、きわどい戦いだったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}That fight was a close one.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0063",
    "jp": "石板の上に文字が刻んである。読みますか？",
-   "en": "",
-   "term": "end"
+   "en": "Words are carved into the stone tablet. Read them?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0064",
    "jp": "　　南国の空の下{n}　　　　葉の茂る木々に実るバナナ{n}　　　　　　ハイビスカスの花が揺れる",
-   "en": "",
-   "term": "end"
+   "en": "　　Beneath a tropical sky{n}Bananas ripen on leafy trees{n}Hibiscus flowers sway",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0065",
    "jp": "　{n}　　　　　　短い物から長い物へ",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　From shortest to longest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen210.0066",
    "jp": "　{n}　　　　　　不純な光は除外される",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　Impure light is excluded.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

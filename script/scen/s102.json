@@ -15,157 +15,182 @@
   {
    "id": "scen102.0001",
    "jp": "立て札",
-   "en": "",
-   "term": "null"
+   "en": "Sign",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen102.0002",
    "jp": "　{n}　　　　　{FFEF}バーンシュタイン王都入り口{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Burnstein Royal Capital Entrance{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0003",
    "jp": "今そっちへ行くのはまずいだろ？{n}戻ろうぜ。",
-   "en": "",
-   "term": "end"
+   "en": "Bad idea to go that way now, isn't it? Let's head back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0004",
    "jp": "　{n}　　　　　　{FFEE}これより先、クレイン村{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEE}Crane Village Ahead{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0005",
    "jp": "{v:0032}トリプル＝ティピちゃーん{n}　　{FC05}{FA01}きーーーっく！{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Triple Tippi-chan {FC05}{FA01}kiiiiick!{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0006",
    "jp": "　{n}　　　　ティピは新技を編み出した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Tippi developed a new technique!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0007",
    "jp": "{v:0033}{FFEC}ティピちゃーん、きーっく{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}{FFEC}Tippi-chan kiiick!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0008",
    "jp": "{v:0034}アンタ、何、聞いてるのよ！{n}そっちはダメだって言ってるでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Hey, are you even listening?! I told you we can't go{n}that way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0009",
    "jp": "{FFF3}{v:0035}‥う～ん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{v:0035}...Hmm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0010",
    "jp": "{v:0036}どしたの、ルイセちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}What's up, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0011",
    "jp": "{v:0037}ひょっとして、お兄ちゃん、{n}ティピに蹴られるの、楽しんでない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Big Brother, do you... actually enjoy getting kicked{n}by Tippi?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0012",
    "jp": "ティピに蹴られるのを楽しんでますか？",
-   "en": "",
-   "term": "end"
+   "en": "Do you enjoy getting kicked by Tippi?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0013",
    "jp": "・楽しんでいる",
-   "en": "",
+   "en": "・I enjoy it",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen102.0014",
    "jp": "・別にそんなことはない",
-   "en": "",
+   "en": "・Not really",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen102.0015",
    "jp": "・マッサージ代わりにちょうどいい",
-   "en": "",
+   "en": "・It's as good as a massage",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen102.0016",
    "jp": "{v:0038}もう、お兄ちゃんったら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Oh, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0017",
    "jp": "{v:0039}それじゃ、どうしてそんなに蹴られるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Then why do you get kicked so often?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0018",
    "jp": "どうしてそんなに蹴られるのですか？",
-   "en": "",
-   "term": "end"
+   "en": "Why do you get kicked so often?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0019",
    "jp": "・本当はわざと蹴られている",
-   "en": "",
+   "en": "・Actually, I get kicked on purpose",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen102.0020",
    "jp": "・普通に行動していると蹴られてしまう",
-   "en": "",
+   "en": "・I get kicked for acting normally",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen102.0021",
    "jp": "{v:003A}もう、お兄ちゃんったら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Oh, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0022",
    "jp": "{v:003B}こいつの妹であること、考えたら？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Maybe you should rethink having this guy for{n}a brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0023",
    "jp": "{FFF3}‥‥{v:003C}う‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{v:003C}Um...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0024",
    "jp": "{v:003D}なぁんですってぇぇっ！{p}{v:003E}きーーーっ！{n}悔しーーーっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}What did you saaay?!{p}{v:003E}Grrr! That makes me so maaad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0025",
    "jp": "{v:003F}おい、バカやってないでさっさと行こうぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Hey, quit fooling around. Let's get moving.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0026",
@@ -176,218 +201,254 @@
   {
    "id": "scen102.0027",
    "jp": "　　　　　　{n}　　　　　　{FFF0}これより先、王国直轄地{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　　　　　　{n}　　　　　　{FFF0}Crown Lands Ahead{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0028",
    "jp": "{v:0012}２年前、俺を襲ったのはお前か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Are you the one who attacked me two years ago?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0029",
    "jp": "{v:0013}俺でもあり、俺でない誰かだ‥‥。{n}それを聞いてどうする‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}It was me... yet it was someone other than me... What{n}will you do with that knowledge...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0030",
    "jp": "‥‥{v:0014}なくなっちまった右腕の仇だ。{n}どんなツラしてるか拝んでやる。{p}{v:0015}と言っても俺には見えねぇけどな。{n}俺の代わりにしっかり見てやってくれよ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0014}You owe me for my right arm. Let's get a look at that{n}face of yours.{p}{v:0015}Not that I can see it. Take a good look for me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0031",
    "jp": "‥{FE14}‥{FE14}‥{FC04}{FE14}。",
-   "en": "",
-   "term": "end"
+   "en": "...{FE14}...{FE14}...{FC04}{FE14}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0032",
    "jp": "{v:0016}えぇっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0033",
    "jp": "‥‥{v:0017}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0017}It can't be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0034",
    "jp": "{v:0018}これで‥満足‥‥し‥か‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Are you... satis...fied... now...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0035",
    "jp": "{v:0019}と、溶けちゃった！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}He... he melted?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0036",
    "jp": "‥‥{v:001A}おい。{n}いったいどんな顔してやがった？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001A}Hey. What the hell did he look like?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0037",
    "jp": "{v:001B}それは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}He looked...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0038",
    "jp": "{v:001C}お兄ちゃんそっくり‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Just like Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0039",
    "jp": "{v:001D}この前と同じか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Same as last time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0040",
    "jp": "‥‥{v:001E}どうなってるんですか？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001E}What is going on?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0041",
    "jp": "{v:001F}今の連中は以前、コイツの双子の兄と偽って、{n}ルイセの命を狙ったことがあったんだ。{p}{v:0020}それにしてもわからねぇのが、{n}どうしてコイツそっくりなのかって事だ。{p}{v:0021}前は双子の兄と偽るためにそっくりに作ったとわかる。{n}だが今回までそっくりにする理由は何だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}This lot once posed as this kid's twin brother and tried{n}to kill Luise.{p}{v:0020}What I still don't get is why they look exactly like him.{p}{v:0021}Last time, sure, they made one look like him to pass it{n}off as his twin brother. But why make them look like him{n}this time too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0042",
    "jp": "{v:0022}う～ん‥‥。{n}わかんないわねー。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Hmm... Beats me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0043",
    "jp": "{v:0023}前に作った残りかも？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Maybe they're left over from last time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0044",
    "jp": "{v:0024}あははっ、それいいわ！{p}{v:0025}コイツのそっくりさんがずらーーっと捨ててあるの！{n}ルイセちゃん、それ、最高！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Ahaha, I love it!{p}{v:0025}A whole looong row of his lookalikes, just thrown{n}away! Luise-chan, that's priceless!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0045",
    "jp": "‥‥{v:0026}わたし、そこまで言ってないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0026}I didn't say all that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0046",
    "jp": "{v:0027}いったい今のは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}What in the world was that...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0047",
    "jp": "{v:0028}これがわたし達の本当の敵です。{p}{v:0029}あなたの息子をすり替え、バーンシュタイン王国を、{n}‥‥人間を裏から支配しようとする怪物ゲヴェル‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}This is our true enemy.{p}{v:0029}The monster Gevel, who replaced your son and seeks{n}to control the kingdom of Burnstein... all humanity, from{n}the shadows...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0048",
    "jp": "‥‥{v:002A}本当だったのですね。{p}{v:002B}さぁ、行きましょう。{n}まずは北のシュッツベルグにいる貴族、{n}ダグラス卿に会いに行きます。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002A}So it was true.{p}{v:002B}Come, let us go. First, we must visit Lord Douglas, a{n}nobleman in Schutzberg to the north.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0049",
    "jp": "{v:002C}北の街シュッツベルグか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Schutzberg, the town up north...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0050",
    "jp": "{v:002D}ウォレスさん、知ってる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Wallace-san, do you know it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0051",
    "jp": "{v:002E}ああ。{n}方角的には魔水晶鉱山のずっと北だ。{p}{v:002F}行くとすれば、北のローランディアと{n}バーンシュタインが戦った戦場から東に行くのが{n}いいだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Yeah. It's far north of the magic crystal mine.{p}{v:002F}Best way there would be to go east from the{n}battlefield up north, where Rolandia and{n}Burnstein fought.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0052",
    "jp": "{v:0030}そうですね。{n}本来なら、この先を北東に進みたいところですが、{n}途中で王都を通らねばなりません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Yes. Ordinarily, we would head northeast from here,{n}but that would take us through the royal capital.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0053",
    "jp": "{v:0031}僕たちのことが、{n}リシャール王にばれたら大変ですからね。{n}ローランディア国内を通りましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}We would be in serious trouble if King Richard found out{n}about us. Let's travel through Rolandia.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0054",
    "jp": "{v:0000}館から連れ出してくれるとは、好都合‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}How convenient of you to bring her out of the manor...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0055",
    "jp": "{v:0001}誰だっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Who's there?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0056",
    "jp": "{v:0002}その女の命、我々がいただく！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}We have come to take that woman's life!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0057",
    "jp": "{v:0003}どうするの？{n}あいつらってゲヴェルの手下でしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}What do we do? Those are Gevel's henchmen,{n}aren't they?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0058",
    "jp": "‥‥{v:0004}確かにな。{n}だが今はエリオットとアンジェラ様の安全を{n}第一に考えよう！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0004}They are. But for now, Elliot and Angela-sama's safety{n}comes first!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0059",
    "jp": "　{n}　　　　　　{FFF0}これより先、王国直轄地{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFF0}Crown Lands Ahead{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0060",
    "jp": "えっ、ここでテレポートやってもいいの？",
-   "en": "",
-   "term": "end"
+   "en": "Huh? Is it okay to use Teleport here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0061",
    "jp": "せめて、この館から離れて街道筋まで行った方がいい。",
-   "en": "",
-   "term": "end"
+   "en": "We should at least get away from this manor and{n}reach the main road first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen102.0062",
    "jp": "そうよね。{n}アタシ達がローランディアの者だってバレちゃうよ。",
-   "en": "",
-   "term": "end"
+   "en": "Right. They'll figure out we're from Rolandia!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

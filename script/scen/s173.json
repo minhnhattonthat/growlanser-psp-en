@@ -15,50 +15,58 @@
   {
    "id": "scen173.0001",
    "jp": "衛兵",
-   "en": "",
-   "term": "null"
+   "en": "Guard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen173.0002",
    "jp": "使用人",
-   "en": "",
-   "term": "null"
+   "en": "Servant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen173.0003",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen173.0004",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen173.0005",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen173.0006",
    "jp": "謎の男",
-   "en": "",
-   "term": "null"
+   "en": "Mysterious Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen173.0007",
    "jp": "ダンジョンマン",
-   "en": "",
-   "term": "null"
+   "en": "Dungeon Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen173.0008",
    "jp": "シュッツベルグ",
-   "en": "",
-   "term": "end"
+   "en": "Schutzberg",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0009",
@@ -75,14 +83,16 @@
   {
    "id": "scen173.0011",
    "jp": "これは陛下！{n}どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Your Majesty! Please, go right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0012",
    "jp": "ここはダグラス卿が治めし領地、{n}シュッツベルグです。",
-   "en": "",
-   "term": "end"
+   "en": "This is Schutzberg, the domain governed by{n}Lord Douglas.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0013",
@@ -93,8 +103,9 @@
   {
    "id": "scen173.0014",
    "jp": "どうぞこの街でゆっくりお休み下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please enjoy a restful stay in our town.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0015",
@@ -159,8 +170,9 @@
   {
    "id": "scen173.0025",
    "jp": "申しわけございませんが、{n}ダグラス卿は多忙のため、お会いできません。",
-   "en": "",
-   "term": "end"
+   "en": "My apologies, but Lord Douglas is too busy to{n}receive visitors.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0026",
@@ -171,112 +183,129 @@
   {
    "id": "scen173.0027",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0028",
    "jp": "{v:0002}さて、何の用かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Now, what can I do for you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0029",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0030",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0031",
    "jp": "まだ用事はあるかい？",
-   "en": "",
-   "term": "end"
+   "en": "Anything else you need?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0032",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0033",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0034",
    "jp": "{v:000B}またおいで～。待ってるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Come back soon! I'll be waiting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0035",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0036",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0037",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0038",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0039",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0040",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0041",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0042",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0043",
    "jp": "ここのところの世界情勢はめまぐるしくて、{n}ついていけないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Things are changing so fast around the world lately, I{n}can't keep up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0044",
@@ -287,8 +316,9 @@
   {
    "id": "scen173.0045",
    "jp": "エリオット様が王位を取り戻す戦いで、{n}我らが領主、ダグラス卿が大活躍したんだ。{n}領民として、鼻が高いよね。",
-   "en": "",
-   "term": "end"
+   "en": "Our own Lord Douglas played a major part in{n}Elliot-sama's fight to reclaim the throne. Makes you{n}proud to be one of his people, doesn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0046",
@@ -305,14 +335,16 @@
   {
    "id": "scen173.0048",
    "jp": "ジュリア様のことは、みんなで秘密にしてたんだけど、{n}まさか自分から女性だと明かすなんて驚いたわ。{n}それに女ナイツまで認めさせるなんて‥‥。{p}やっぱりあのお方は凄いわ。{n}同じ女性として尊敬しちゃうな。",
-   "en": "",
-   "term": "end"
+   "en": "We'd all been keeping Julia-sama's secret, so I was{n}surprised she chose to reveal she was a woman.{p}And she even got them to accept women as{n}Imperial Knights...{p}She really is remarkable. As a fellow woman, I can't help{n}admiring her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0049",
    "jp": "ダグラス様のご長男は剣の腕もさることながら、{n}博学なうえに、誰にでも優しいのよ。{p}まさに心技体全てを兼ねそなえた方よね。",
-   "en": "",
-   "term": "end"
+   "en": "Douglas-sama's eldest son isn't just skilled with a{n}sword. He's learned and kind to everyone, too.{p}He truly has it all--character, skill, and strength.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0050",
@@ -353,109 +385,126 @@
   {
    "id": "scen173.0056",
    "jp": "扉には鍵がかかっている。",
-   "en": "",
-   "term": "end"
+   "en": "The door is locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0057",
    "jp": "む？{n}そのまなざし‥‥。{n}さてはこの私の正体を見破ったか！",
-   "en": "",
-   "term": "end"
+   "en": "Hm? That look in your eyes... You have discovered my{n}true identity!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0058",
    "jp": "いや、しかし！{n}貴様には力が足らぬ！{n}圧倒的に足らぬ！{p}もっと力を付けて、また私の前に立て！{n}その時こそは、勝負を受けてやろう！",
-   "en": "",
-   "term": "end"
+   "en": "But no! You lack strength! You are woefully lacking!{p}Grow stronger, then stand before me again! Only then{n}will I accept your challenge!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0059",
    "jp": "良く気づいたな。{n}私こそフェザリアンに選ばれし男。{n}人呼んでダンジョンマン！",
-   "en": "",
-   "term": "end"
+   "en": "Well spotted! I am the man chosen by the Featherians.{n}They call me Dungeon Man!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0060",
    "jp": "さぁ、合い言葉を聞かせてもらおう！",
-   "en": "",
-   "term": "end"
+   "en": "Now, let me hear the password!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0061",
    "jp": "・しし",
-   "en": "",
+   "en": "・Lion",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0062",
    "jp": "・ぼけつ",
-   "en": "",
+   "en": "・Grave",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0063",
    "jp": "・なす",
-   "en": "",
+   "en": "・Eggplant",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0064",
    "jp": "ししはウサギをかるのにも、{n}子をせんじんの谷へ突き落とす‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Even when hunting a rabbit, a lion casts its cub into a{n}bottomless ravine...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0065",
    "jp": "ぼけつに入らずんば、こじを得ず！{n}‥‥やはり、貴様は本物か！？",
-   "en": "",
-   "term": "end"
+   "en": "Without entering the grave, you cannot catch the tiger{n}cub! ...Could you truly be the one?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0066",
    "jp": "さぁ、次の合い言葉を聞かせてもらおう！",
-   "en": "",
-   "term": "end"
+   "en": "Now, let me hear the next password!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0067",
    "jp": "・しし",
-   "en": "",
+   "en": "・Lion",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0068",
    "jp": "・なす",
-   "en": "",
+   "en": "・Eggplant",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen173.0069",
    "jp": "ししはウサギをかるのにも、{n}子をせんじんの谷へ突き落とす！{p}‥‥やはりな！{n}やはり貴様こそ、本物！{n}貴様が奥様方に大評判の{s:0000}だな。{p}よかろう。{n}心技体すべてをそなえたお前だ。{n}必ずやあの洞窟を制覇してくれるだろう。{p}実は私は、フェザリアンにとある洞窟を任されておる。{n}そして念じるだけで、人をその中へ送り届けることが{n}できるのだ。{p}貴様もそこへ行きたいのだろう？{n}いいだろう。{n}準備が出来次第、{s:0010}で待っているぞ！",
-   "en": "",
-   "term": "end"
+   "en": "Even when hunting a rabbit, a lion casts its cub into a{n}bottomless ravine!{p}...I knew it! You truly are the one! You must be{n}{s:0000}, the talk of all the housewives!{p}Very well. You possess spirit, skill, and strength alike.{n}Surely you will conquer that cave!{p}You see, the Featherians have entrusted a certain cave{n}to me. With a mere thought, I can send people inside it.{p}You wish to go there too, do you not? Very well! Once{n}my preparations are complete, I shall await you at{n}{s:0010}!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0070",
    "jp": "なすがままなら、きゅうりはパパ！",
-   "en": "",
-   "term": "end"
+   "en": "If eggplant is the mother of invention, cucumber must{n}be the father!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0071",
    "jp": "‥‥‥‥‥‥。{n}どうやら私の勘違いだったようだな。{p}さっきの事は忘れてくれ。{n}これからの私は、ただの謎の男。{n}さらばだ！",
-   "en": "",
-   "term": "end"
+   "en": "......... It seems I was mistaken.{p}Forget what I said. From now on, I am merely a{n}mysterious man. Farewell!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0072",
    "jp": "何の用だ？{n}私のことを知っていて訪ねてきたわけでは{n}ないようだが？{p}私は私の力を必要とする者が訪れるのを待っている。{n}用がないなら帰るがいい。",
-   "en": "",
-   "term": "end"
+   "en": "What do you want? You do not seem to have come{n}here knowing who I am.{p}I await those who have need of my powers. If you{n}have no business here, leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0073",
@@ -466,38 +515,44 @@
   {
    "id": "scen173.0074",
    "jp": "どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please, go right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0075",
    "jp": "お泊まりは、こちらで手続きをしてからお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "If you wish to stay, please register here first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0076",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0077",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0078",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen173.0079",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

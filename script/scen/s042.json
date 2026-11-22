@@ -15,1260 +15,1464 @@
   {
    "id": "scen042.0001",
    "jp": "選手",
-   "en": "",
-   "term": "null"
+   "en": "Contestant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen042.0002",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen042.0003",
    "jp": "案内標識",
-   "en": "",
-   "term": "null"
+   "en": "Signpost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen042.0004",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen042.0005",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen042.0006",
    "jp": "花売り",
-   "en": "",
-   "term": "null"
+   "en": "Flower Seller",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen042.0007",
    "jp": "市長",
-   "en": "",
-   "term": "null"
+   "en": "Mayor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen042.0008",
    "jp": "受付員",
-   "en": "",
-   "term": "null"
+   "en": "Receptionist",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen042.0009",
    "jp": "張り紙",
-   "en": "",
-   "term": "null"
+   "en": "Notice",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen042.0010",
    "jp": "バーバラ",
-   "en": "",
-   "term": "null"
+   "en": "Barbara",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen042.0011",
    "jp": "グランシル",
-   "en": "",
-   "term": "end"
+   "en": "Grancil",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0012",
    "jp": "　　{FFEE}{FFEC}街をきれいに！{FFED}{FFF1}{n}　　　　　　　　　　　～グランシル子供会～",
-   "en": "",
-   "term": "end"
+   "en": "　　{FFEE}{FFEC}Keep our town clean!{FFED}{FFF1} Grancil Children's Club",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0013",
    "jp": "‥‥世が荒れているな。",
-   "en": "",
-   "term": "end"
+   "en": "...The world's in turmoil.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0014",
    "jp": "‥‥何処へ行っても一緒さ。",
-   "en": "",
-   "term": "end"
+   "en": "...It's the same wherever you go.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0015",
    "jp": "最近、この街も捨てたもんじゃないって{n}思えるようになったんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "Lately, I've started thinking this town isn't so bad{n}after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0016",
    "jp": "‥‥‥ふぅっ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...*sigh*...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0017",
    "jp": "私もがんばるわ！",
-   "en": "",
-   "term": "end"
+   "en": "I'll do my best, too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0018",
    "jp": "{v:0000}俺たちも、兵隊じゃねぇけど、{n}みんなを守るために自警団を作ったんだ。{p}{v:0001}だから、この町のことは任せてくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}We ain't soldiers, but we've formed a militia to{n}protect everyone.{p}{v:0001}So leave this town to us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0019",
    "jp": "{v:0006}こんな子供ががんばってるのに、{n}大人が落ち込んでいるわけにはいかないからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}With a little kid working this hard, we grown-ups can't{n}sit around feeling sorry for ourselves.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0020",
    "jp": "{v:0004}あ、お兄ちゃん達だ！{n}僕ね、畑仕事を手伝ってるんだ！{p}{v:0005}だって、お腹がすいたら、戦えないでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Oh, it's Big Brother and everyone! I'm helping out in{n}the fields!{p}{v:0005}You can't fight on an empty stomach, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0021",
    "jp": "アンタ、どこへ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, where do you think you're going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0022",
    "jp": "　　　　　　{FFEC}闘技場入り口{FFED}{n}　　　　　～{FFEE}このまま右へお進み下さい{FFF1}～",
-   "en": "",
-   "term": "end"
+   "en": "　　　　　　{FFEC}Arena Entrance{FFED} {FFEE}Please continue to the{n}right{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0023",
    "jp": "文句ばっかり言ってても、{n}何にも解決しないからな。{n}まずは自分に出来ることから、始めていくよ。",
-   "en": "",
-   "term": "end"
+   "en": "Complaining all the time won't solve anything. I'll start{n}with what I can do myself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0024",
    "jp": "大人しくヴェンツェル様の支配を受けてればいいんだ。{n}どうせ俺たちが反抗したところで、{n}何にもならないからな。",
-   "en": "",
-   "term": "end"
+   "en": "We should just submit to Wenzel-sama's rule. It's not{n}like resisting him would get us anywhere.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0025",
    "jp": "この街にいれば安全だよ。{p}何でかって？{n}だってここにはたくさんの猛者がいるんだよ。{n}いざとなったら守ってもらうさ。",
-   "en": "",
-   "term": "end"
+   "en": "You're safe as long as you stay in this town.{p}Why? There are plenty of tough fighters here. If it{n}comes to that, I'll have them protect me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0026",
    "jp": "‥‥もうダメさ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...It's all over...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0027",
    "jp": "ああ、かっこいい戦士さまは来ないかしら？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I wonder if a handsome warrior will come along?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0028",
    "jp": "ヴェンツェルに比べたら、{n}妻の方がいくらかはマシだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Compared to Wenzel, my wife isn't quite so bad...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0029",
    "jp": "{v:0027}ようお出でなさった。{n}ここでは、いろんな道具を扱っておるんじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Well, welcome. We carry all sorts of items here,{n}you see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0030",
    "jp": "{v:0028}それで何のご用かのぉ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Now then, what can I do for you, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0031",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0032",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0033",
    "jp": "他にも用はあるかのぉ？",
-   "en": "",
-   "term": "end"
+   "en": "Anything else you need, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0034",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0035",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0036",
    "jp": "{v:0031}また来ておくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Do come again, won't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0037",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0038",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}So, are you here to buy or to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0039",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0040",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0041",
    "jp": "で、他にも何かある？",
-   "en": "",
-   "term": "end"
+   "en": "So, anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0042",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0043",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0044",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Come back again, won't you? I'll be waiting with a{n}lovely smile.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0045",
    "jp": "{v:000C}いらっしゃいませ。{n}当店では、様々な装備品を取り扱っております。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Welcome. We carry a wide variety of equipment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0046",
    "jp": "{v:000E}お買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Would you like to buy or sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0047",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0048",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0049",
    "jp": "他にもご用はおありですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0050",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0051",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0052",
    "jp": "{v:0018}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0053",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0054",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0055",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0056",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0057",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0058",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0059",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0060",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0061",
    "jp": "{v:0002}アンタ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}You there...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0062",
    "jp": "{v:0003}ん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Hm?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0063",
    "jp": "{v:0004}私はこの街の市長をしている者だ。{n}アンタに話がある。{n}ちょっと来てくれんか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}I'm the mayor of this town. I've got something to say{n}to you. Come with me a moment, would you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0064",
    "jp": "{v:0005}しょうがねぇな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Fine, if we have to...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0065",
    "jp": "{v:0006}私が話をしたいのはこの若者だけだ。{n}他の者に用はない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}This young man is the only one I wish to speak to. I{n}have no business with the rest of you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0066",
    "jp": "{v:0007}お、お兄ちゃんだけ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}J-just Big Brother...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0067",
    "jp": "{v:0008}闘技場の前で待っている。{n}１人で来てくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}I'll be waiting in front of the arena. Come alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0068",
    "jp": "{v:0009}何、アレ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}What's HIS problem?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0069",
    "jp": "{v:000A}俺たちが集団だと怖いんだろうよ。{p}{v:000B}俺たちはここで待っている。{n}さっさと用事を済ませて来いよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Guess he's scared of us when we're all together.{p}{v:000B}We'll wait here. Go get it over with.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0070",
    "jp": "早く戻ってきてね。",
-   "en": "",
-   "term": "end"
+   "en": "Come back soon, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0071",
    "jp": "俺たちはここで待ってる。{n}さっさと用事を済ませて来いよ。",
-   "en": "",
-   "term": "end"
+   "en": "We'll wait here. Go get it over with.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0072",
    "jp": "いったい、何でしょうね～？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder what this could be about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0073",
    "jp": "自信をもつといい。{n}僕たちのしてきたことは間違いじゃないんだ。{n}‥‥絶対にね。",
-   "en": "",
-   "term": "end"
+   "en": "Have faith in yourself. What we've done wasn't wrong.{n}...Not for a moment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0074",
    "jp": "酷いことをされないといいのですが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I do hope they won't mistreat you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0075",
    "jp": "何でも他人のせいにして生きてる奴らだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "They go through life blaming everyone else{n}for everything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0076",
    "jp": "僕たちはあなたを信じていますから。",
-   "en": "",
-   "term": "end"
+   "en": "We believe in you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0077",
    "jp": "私たちのしてきたことは、無駄だったのだろうか？{FFFB}{n}‥‥いや、そんなはずはない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Has everything we have done been in vain?{FFFB} ...No,{n}that cannot be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0078",
    "jp": "君たちは俺たちの希望だ！{n}がんばってくれ！",
-   "en": "",
-   "term": "end"
+   "en": "You're our hope! Keep at it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0079",
    "jp": "グランシルは都会だろ？{n}きっとローランディアで１番、栄えてると思うね。",
-   "en": "",
-   "term": "end"
+   "en": "Grancil's a big city, isn't it? I bet it's the most{n}prosperous in all of Rolandia.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0080",
    "jp": "頼むぞ！{n}負けないでくれ！",
-   "en": "",
-   "term": "end"
+   "en": "We're counting on you! Don't lose!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0081",
    "jp": "やあ、あんたか。{n}最近の調子はどうだい？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, it's you. How have you been lately?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0082",
    "jp": "{v:0019}おう、いらっしゃい。{n}ここは装備品を売ってる店だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Hey, welcome. We sell equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0083",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0084",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0085",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0086",
    "jp": "まだ何か用か？",
-   "en": "",
-   "term": "end"
+   "en": "Need anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0087",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0088",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0089",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}See ya.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0090",
    "jp": "私はお花を売っています、るるる～♪",
-   "en": "",
-   "term": "end"
+   "en": "I sell flowers, la la la♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0091",
    "jp": "かわいい花束はいかがですか～♪",
-   "en": "",
-   "term": "end"
+   "en": "How about a pretty Bouquet?♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0092",
    "jp": "・買う",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0093",
    "jp": "・買わない",
-   "en": "",
+   "en": "・Don't buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0094",
    "jp": "また来て下さいね～♪",
-   "en": "",
-   "term": "end"
+   "en": "Please come again♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0095",
    "jp": "大きなお城みたいなものが空から落ちてきたの！{n}南の方、たぶん海の側に落ちたわ！",
-   "en": "",
-   "term": "end"
+   "en": "Something like a huge castle fell out of the sky! It fell{n}to the south, probably near the sea!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0096",
    "jp": "市民の自覚",
-   "en": "",
-   "term": "end"
+   "en": "Civic Awareness",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0097",
    "jp": "{v:004E}みなさん、大丈夫でしたか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Is everyone all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0098",
    "jp": "{v:004F}自分たちがあれほど酷く言ったのに、{n}まだ気にかけてくれるのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}After all the awful things we said to you, you still care{n}about us?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0099",
    "jp": "{v:0050}当たり前じゃない！{n}アタシ達、見捨てるなんて出来ないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Of course we do! We couldn't just abandon you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0100",
    "jp": "{v:0051}ねぇ、お兄ちゃん。{p}{v:0052}僕たち、{n}このまま殺されるのを待ってなきゃダメなの？{n}どうすればいいの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Hey, Big Brother.{p}{v:0052}Do we just have to wait here to be killed? What should{n}we do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0101",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0102",
    "jp": "・何も心配しなくていい",
-   "en": "",
+   "en": "・You don't need to worry about anything",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0103",
    "jp": "・自分に出来る最良の事をすればいい",
-   "en": "",
+   "en": "・Do the best you can",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0104",
    "jp": "・別にない",
-   "en": "",
+   "en": "・Nothing in particular",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0105",
    "jp": "{v:0053}でも‥‥。{n}でも悔しいんだよ！{p}{v:0054}僕が大人で、お兄ちゃん達みたく強ければ、{n}戦えるのに！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}But... But it's so frustrating!{p}{v:0054}If I were grown up and strong like you and your{n}friends, Big Brother, I could fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0106",
    "jp": "{v:0055}自分にできる最良のこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Do the best I can?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0107",
    "jp": "{v:0056}本当に、何もないの？{n}僕じゃ、役に立たない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}Is there really nothing I can do? Can't I be any help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0108",
    "jp": "{v:0057}そうだね。{n}戦うばかりが、方法じゃないわ。{p}{v:0058}戦えない人は、少しでもこの世界がよくなるために、{n}自分ができることをがんばればいいのよ。{p}{v:0059}絶対にあきらめないで、ね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}That's right. Fighting isn't the only way.{p}{v:0058}If you can't fight, just do your best at whatever you{n}can to make this world even a little better.{p}{v:0059}Never give up, all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0109",
    "jp": "‥‥{v:005A}うん！{n}僕、戦えないけど、お兄ちゃん達が安心して{n}戦えるように、僕のできることを考えるよ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005A}Okay! I can't fight, but I'll think of something I can do{n}so you and your friends can fight without worrying,{n}Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0110",
    "jp": "{v:005B}その意気よ。{n}あの悪い奴は、アタシ達がやっつけてあげるから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}That's the spirit! We'll take care of that nasty creep{n}for you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0111",
    "jp": "‥‥{v:005C}でも、そんなにちっちゃくて、戦えるの？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005C}But you're so tiny. Can you really fight?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0112",
    "jp": "{v:005D}こ、このガキ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Y-you little brat...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0113",
    "jp": "{v:005E}ほ、ほら！{n}こんなちっちゃい妖精でもね、{n}あきらめないでがんばってるんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}S-see? Even a fairy this tiny is doing her best without{n}giving up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0114",
    "jp": "{v:005F}そうだね！{n}僕もがんばる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}You're right! I'll do my best, too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0115",
    "jp": "{v:0060}俺たちも自分で出来ることをやってみるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}We'll try doing what we can, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0116",
    "jp": "{v:0061}ああ。{n}今日の戦いで、少しは自信がもてたからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}Yeah. Today's battle gave us a bit of confidence.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0117",
    "jp": "‥‥{v:0062}さ、俺たちもがんばろうぜ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0062}Come on, let's give it our best, too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0118",
    "jp": "闘技場前広場",
-   "en": "",
-   "term": "end"
+   "en": "Arena Plaza",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0119",
    "jp": "こんな時でしょ？{n}変な行動はつつしんだ方がいいわよ。",
-   "en": "",
-   "term": "end"
+   "en": "At a time like this, you'd better watch yourself. Don't do{n}anything strange.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0120",
    "jp": "俺じゃなくて、市長に話しな。",
-   "en": "",
-   "term": "end"
+   "en": "Talk to the mayor, not me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0121",
    "jp": "よく逃げずに１人で来たな。",
-   "en": "",
-   "term": "end"
+   "en": "So you came alone instead of running away.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0122",
    "jp": "市長と話せ。",
-   "en": "",
-   "term": "end"
+   "en": "Talk to the mayor.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0123",
    "jp": "ほら、市長が待ってるぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Go on, the mayor's waiting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0124",
    "jp": "し、市長さんがお話があるそうよ。",
-   "en": "",
-   "term": "end"
+   "en": "Th-the mayor says he wants to speak with you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0125",
    "jp": "アンタが、英雄気取りの騎士さんかい？",
-   "en": "",
-   "term": "end"
+   "en": "So you're the knight who thinks he's a hero?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0126",
    "jp": "俺は市長じゃないぞ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm not the mayor.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0127",
    "jp": "自分で出来ることをやってみるよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll try doing what I can.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0128",
    "jp": "今日は自信がついたよ。",
-   "en": "",
-   "term": "end"
+   "en": "Today gave me some confidence.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0129",
    "jp": "俺も少しはお前たちの役に立てるかな？",
-   "en": "",
-   "term": "end"
+   "en": "Think I could be of some help to you, too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0130",
    "jp": "酷いことを言ってすまなかった。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorry for the awful things I said.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0131",
    "jp": "ただ諦めてるだけじゃだめよね。{n}やっぱりやれるだけのことはやってみないと！",
-   "en": "",
-   "term": "end"
+   "en": "We can't just give up, can we? We have to at least do{n}what we can!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0132",
    "jp": "今日のことは一生忘れないよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll never forget what happened today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0133",
    "jp": "あんたらの言う通りだ。{n}とにかく俺もやれるだけやってみるよ。{p}何かをやって後悔する方が、{n}何もせずに後悔するよりましだからな。",
-   "en": "",
-   "term": "end"
+   "en": "You're right. I'll give it all I've got, anyway.{p}Better to regret something you've done than regret{n}doing nothing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0134",
    "jp": "あなた方のおかげで、目が覚めました。{n}本当に申し訳ありませんでした。",
-   "en": "",
-   "term": "end"
+   "en": "You have opened my eyes. I am truly sorry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0135",
    "jp": "{v:000D}ちゃんと１人で来たようだな。{p}{v:000E}今日こそは言いたいことを言わせてもらうとしようか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}So you came alone, as I told you.{p}{v:000E}Today I'll say everything I've been wanting to say.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0136",
    "jp": "{v:000F}あんた達のせいで、{n}俺たちの生活は脅かされているんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Our livelihoods are in danger because of you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0137",
    "jp": "{v:0010}こんな生活、もう、たくさんよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}I've had enough of living like this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0138",
    "jp": "{v:0011}ちょ、ちょっと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}H-hey, wait...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0139",
    "jp": "{v:0012}お前が余計なことをしなけりゃ、{n}生活が脅かされることもなかった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}If you hadn't stuck your nose in, our livelihoods{n}wouldn't be in danger!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0140",
    "jp": "{v:0013}でも、ヴェンツェルに支配されちゃうのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}But Wenzel will rule over you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0141",
    "jp": "{v:0014}どうせ王様が変わるだけだ！{n}俺たちの生活は何も変わらない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}It's just a different king, that's all! Our lives{n}won't change.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0142",
    "jp": "彼らに何かいいますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you say something to them?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0143",
    "jp": "・ヴェンツェルの危険性を説く",
-   "en": "",
+   "en": "・Explain the danger Wenzel poses",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0144",
    "jp": "・今までとの違いを説く",
-   "en": "",
+   "en": "・Explain how this rule would differ",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0145",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0146",
    "jp": "{v:0015}危険だと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Danger, you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0147",
    "jp": "{v:0016}違うだと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Different, you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0148",
    "jp": "{v:0017}そうよ！{n}アイツがやろうとしている支配は、{n}アンタ達を家畜みたいに扱うことだよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}That's right! The way he wants to rule, he'll treat you{n}all like livestock!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0149",
    "jp": "{v:0018}ほれ、反論も出来んだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}See? Can't even argue back, can you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0150",
    "jp": "{v:0019}ムカッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Grr!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0151",
    "jp": "{v:001A}アンタ、ここまで言われてどうして黙ってんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}How can you just stand there after all that?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0152",
    "jp": "{FFF3}‥{FE14}‥{FE14}{FC03}{v:001B}ひょっとして、あきれてんの？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}..{FE14}.{FE14}{FC03}{v:001B}Wait... are you too disgusted to speak?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0153",
    "jp": "{v:001C}人をバカにしおって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}How dare you mock me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0154",
    "jp": "{v:001D}バカにされて当然よ！{p}{v:001E}ヴェンツェルがやろうとしていることが、{n}今までの支配と同じだと思ってんの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}You're asking for it!{p}{v:001E}You think what Wenzel wants to do is just like the rule{n}you've lived under until now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0155",
    "jp": "{v:001F}違うとでも言いたいのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Are you saying it's different?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0156",
    "jp": "{v:0020}アンタが言わないなら、アタシが言うわよ！{p}{v:001E}ヴェンツェルがやろうとしていることが、{n}今までの支配と同じだと思ってんの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}If you won't say it, I will!{p}{v:001E}You think what Wenzel wants to do is just like the rule{n}you've lived under until now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0157",
    "jp": "‥‥{v:0023}うぅ‥‥。{p}{v:0024}だが‥‥市民が殺されるよりは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0023}Ugh...{p}{v:0024}But... it's better than having our citizens killed...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0158",
    "jp": "{v:0025}だから、そんな考えが甘いって言ってんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}That's why I'm telling you you're being naive!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0159",
    "jp": "{v:0026}おじいちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Grandpa...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0160",
    "jp": "{v:0027}子供は黙ってなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Children should keep quiet!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0161",
    "jp": "{v:0028}違うよ‥‥あれ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}No... look over there...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0162",
    "jp": "{v:0029}きゃああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0163",
    "jp": "{v:002A}た、大変！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Th-this is bad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0164",
    "jp": "{v:002B}も、もうダメだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}W-we're done for...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0165",
    "jp": "{v:002C}何言ってんのよ！{n}その武器は飾りなの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}What are you talking about?! Is that weapon just{n}for show?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0166",
    "jp": "{v:002D}そうは言っても、どうやって戦えば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Easy for you to say, but how are we supposed{n}to fight...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0167",
    "jp": "{v:002E}コイツの指示に従えばいいから！{n}死にたくなかったら戦いなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Just follow this guy's orders! If you don't want to{n}die, fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0168",
    "jp": "‥‥{v:002F}わかった！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002F}All right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0169",
    "jp": "コロシアム運営事務所",
-   "en": "",
-   "term": "end"
+   "en": "Coliseum Administration Office",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0170",
    "jp": "調子はどうだい？",
-   "en": "",
-   "term": "end"
+   "en": "How's it going?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0171",
    "jp": "　{n}　　　　　　　～{FFF0}闘技大会の歴史{FFF1}～{p}約５００年ほど前、ここグランシルは{n}都市国家の１つとして栄えていました。{n}しかし伝説の格闘家として名高い『{FFEF}グランバス{FFF1}』王が{n}この地方をまとめ、大きな国家を築きました。{p}その治世の間、国王は様々な部門の格闘技を奨励し{n}毎年１回、他流試合を行うためのコロシアムを{n}グランシルに造ったのです。{p}この大会は時代とともにルールなども{n}大きく変わっていきましたが、年々規模を増し、{n}今ではこの大陸で最も有名な{n}国際大会の１つになりました。{p}大陸中の猛者が集まるこの歴史ある闘技大会。{n}あなたもぜひ、チャレンジしてみませんか？{n}　{n}　　　　　　　　　　　　　{FFEE}コロシアム運営事務局{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　{FFF0}History of the tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states here.{p}Then King '{FFEF}Granbas{FFF1}', famed as a legendary martial{n}artist, united this region and founded a great nation.{p}During his reign, the King encouraged various disciplines{n}of martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The rules and other aspects of this tournament have{n}changed greatly over time, but it has grown larger{n}every year.{p}Today, it is one of the continent's most famous{n}international competitions.{p}This historic tournament brings together mighty{n}warriors from across the continent. Why not take up{n}the challenge yourself?{FFEE} Coliseum Administration{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0172",
    "jp": "当店をご利用でしたら、{n}こちらで記帳なさって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "If you would like to stay with us, please sign the{n}register here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0173",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0174",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0175",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0176",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0177",
    "jp": "私はこう見えてもオペラ歌手なのよ。{n}ただ、いい劇場がなくて、公演が出来ないのよ。{n}あなた、どこかいい場所を知らない？",
-   "en": "",
-   "term": "end"
+   "en": "You might not think it to look at me, but I'm an opera{n}singer. I just can't give a performance without a{n}suitable theater. Do you know of a good place?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0178",
    "jp": "バーバラに公演を依頼しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you ask Barbara to perform?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0179",
    "jp": "私を雇ってくれるの？{n}手付け金は１０００エルムでいいわ。",
-   "en": "",
-   "term": "end"
+   "en": "You'd like to hire me? A deposit of 1,000 Elm will do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0180",
    "jp": "・やっぱりやめる",
-   "en": "",
+   "en": "・Change your mind",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0181",
    "jp": "・公演を依頼する",
-   "en": "",
+   "en": "・Book a performance",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0182",
    "jp": "あら、残念だわ。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, what a shame.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0183",
    "jp": "場所は？{n}‥‥{s:0010}ね？",
-   "en": "",
-   "term": "end"
+   "en": "Where is it? ...{s:0010}, then?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0184",
    "jp": "お金をためて、また誘ってね。",
-   "en": "",
-   "term": "end"
+   "en": "Save up some money and ask me again, dear.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0185",
    "jp": "歌の邪魔をしないで！",
-   "en": "",
-   "term": "end"
+   "en": "Don't interrupt my singing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0186",
    "jp": "ゼノスの家",
-   "en": "",
-   "term": "end"
+   "en": "Xenos's House",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0187",
    "jp": "失礼しま～す。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse meee!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0188",
    "jp": "俺の力が必要ってわけだな？",
-   "en": "",
-   "term": "end"
+   "en": "So you need my strength, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0189",
    "jp": "‥‥手伝って欲しいのか？",
-   "en": "",
-   "term": "end"
+   "en": "...You want my help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0190",
    "jp": "どうするの？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0191",
    "jp": "・ゼノスをメンバーに加える",
-   "en": "",
+   "en": "・Add Xenos to the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0192",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add Xenos for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0193",
    "jp": "{v:0015}でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}But that would be too many people. Someone will have{n}to leave the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0194",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will leave the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0195",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0196",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen042.0197",
    "jp": "{s:FFEE}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Reclaim {s:FFEE}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0198",
    "jp": "　{n}　　　　　{FFEF}ゼノスが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Xenos joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0199",
    "jp": "がんばらせて、もらうぜ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll give it all I've got.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0200",
    "jp": "なんだ、違うのかよ。",
-   "en": "",
-   "term": "end"
+   "en": "What, that's not why you're here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0201",
    "jp": "‥‥そうか‥‥",
-   "en": "",
-   "term": "end"
+   "en": "...I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0202",
    "jp": "カレンの使っているドレッサーだろう。",
-   "en": "",
-   "term": "end"
+   "en": "This must be Karen's dressing table.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0203",
    "jp": "これは兄さんが、初めて稼いだお金で{n}買ってくれたんです。",
-   "en": "",
-   "term": "end"
+   "en": "My brother bought this for me with the first money he{n}ever earned.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen042.0204",
    "jp": "このドレッサーにカレンの姿が映ることは{n}もう２度とない。",
-   "en": "",
-   "term": "end"
+   "en": "Karen's reflection will never grace this dressing{n}table again.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

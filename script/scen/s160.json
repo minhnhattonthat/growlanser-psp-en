@@ -15,44 +15,51 @@
   {
    "id": "scen160.0001",
    "jp": "村人",
-   "en": "",
-   "term": "null"
+   "en": "Villager",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen160.0002",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen160.0003",
    "jp": "行商人",
-   "en": "",
-   "term": "null"
+   "en": "Peddler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen160.0004",
    "jp": "村長",
-   "en": "",
-   "term": "null"
+   "en": "Village Chief",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen160.0005",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen160.0006",
    "jp": "占い師",
-   "en": "",
-   "term": "null"
+   "en": "Fortune Teller",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen160.0007",
    "jp": "デリス村",
-   "en": "",
-   "term": "end"
+   "en": "Delis Village",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0008",
@@ -123,106 +130,122 @@
   {
    "id": "scen160.0019",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0020",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0021",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen160.0022",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen160.0023",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0024",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen160.0025",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen160.0026",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0027",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0028",
    "jp": "{v:0002}さて、何の用かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Now, what can I do for you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0029",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen160.0030",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen160.0031",
    "jp": "まだ用事はあるかい？",
-   "en": "",
-   "term": "end"
+   "en": "Anything else you need?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0032",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen160.0033",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen160.0034",
    "jp": "{v:000B}またおいで～。待ってるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Come back soon! I'll be waiting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0035",
@@ -251,8 +274,9 @@
   {
    "id": "scen160.0039",
    "jp": "とうちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Dad...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0040",
@@ -341,32 +365,37 @@
   {
    "id": "scen160.0054",
    "jp": "お客さん！{n}勝手に客室へ行かれては困ります！{p}お泊まりの時は、こちらで受付を済ませて下さいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me! You can't just go into the guest rooms!{p}If you want to stay, please check in here first!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0055",
    "jp": "１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "That will be {FFEB} Elm for one night. Is that all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0056",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0057",
    "jp": "お客さん‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Sir...[01BE] I'm afraid you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0058",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen160.0059",

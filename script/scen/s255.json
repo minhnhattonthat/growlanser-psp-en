@@ -15,80 +15,93 @@
   {
    "id": "scen255.0001",
    "jp": "{FFEE}動けない者を守りながら進め！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Advance while protecting those who cannot move!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0002",
    "jp": "ばか、ばかっ！{n}やられちゃったじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "Idiot! You idiot! Now you've gone and gotten{n}yourself beaten!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0003",
    "jp": "　{n}　　　{s:FFED}がパーティーに復帰した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　{s:FFED} rejoined the party!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0004",
    "jp": "{s:FFFD}をこの印の上で防御させますか？{n}　　（一時的にパーティーから外れます）",
-   "en": "",
-   "term": "end"
+   "en": "Have {s:FFFD} defend on this mark?{n}(Temporarily leaves the party.)",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0005",
    "jp": "　{n}　　{s:0000}がパーティーに復帰した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　{s:0000} rejoined the party!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0006",
    "jp": "　{n}　　ルイセがパーティーに復帰した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Luise rejoined the party!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0007",
    "jp": "　{n}　　ウォレスがパーティーに復帰した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Wallace rejoined the party!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0008",
    "jp": "　{n}　　ミーシャがパーティーに復帰した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Misha rejoined the party!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0009",
    "jp": "　{n}　　アリオストがパーティーに復帰した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Ariost rejoined the party!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0010",
    "jp": "　{n}　　カレンがパーティーに復帰した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Karen rejoined the party!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0011",
    "jp": "　{n}　　ゼノスがパーティーに復帰した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Xenos rejoined the party!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0012",
    "jp": "　{n}　　エリオットがパーティーに復帰した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Elliot rejoined the party!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen255.0013",
    "jp": "　{n}　　ジュリアンがパーティーに復帰した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Julian rejoined the party!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

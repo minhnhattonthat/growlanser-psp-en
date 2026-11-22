@@ -15,20 +15,23 @@
   {
    "id": "scen119.0001",
    "jp": "ヴェンツェル",
-   "en": "",
-   "term": "null"
+   "en": "Wenzel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen119.0002",
    "jp": "時空制御塔・Ａブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block A",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0003",
    "jp": "{v:0022}作りが変わった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}The construction is different here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0004",
@@ -39,629 +42,732 @@
   {
    "id": "scen119.0005",
    "jp": "時空制御装置へ向かえ！",
-   "en": "",
-   "term": "end"
+   "en": "Head for the space-time control device!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0006",
    "jp": "　{n}このエレベータは、まだ動いていないようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}This elevator does not seem to be working yet...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0007",
    "jp": "あ、お兄さま。{n}アタシの力が必要なんですね！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother! You need my help, don't you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0008",
    "jp": "パーティーを入れ替えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Change your party members?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0009",
    "jp": "・ミーシャをメンバーに加える",
-   "en": "",
+   "en": "・Add Misha to the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen119.0010",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add anyone for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen119.0011",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will leave the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0012",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen119.0013",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen119.0014",
    "jp": "・同行者",
-   "en": "",
+   "en": "・Companion",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen119.0015",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Misha is now your companion!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0016",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve {s:FFED}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0017",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0018",
    "jp": "アタシ、がんばっちゃうね！",
-   "en": "",
-   "term": "end"
+   "en": "I'll give it my all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0019",
    "jp": "そうですか‥‥。{n}ちょっとガッカリ‥‥。{p}{FC00}でも、でも！{n}ご用があったら、いつでもどうぞ！{n}アタシ、がんばりますから！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I see... That's a little disappointing...{p}{FC00}But, but! If you need anything, just ask! I'll do my{n}very best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0020",
    "jp": "ん？{n}僕の力が必要なのかな？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Do you need my help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0021",
    "jp": "アリオストを仲間に加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add Ariost to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0022",
    "jp": "　{n}　　　　　{FFEF}アリオストが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Ariost is now your companion!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0023",
    "jp": "　{n}　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Ariost joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0024",
    "jp": "ありがとう、がんばるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks. I'll do my best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0025",
    "jp": "そうかい。{n}僕の力が必要になったら、{n}いつでも声をかけてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "I see. If you need my help, just let me know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0026",
    "jp": "私の手が必要か？",
-   "en": "",
-   "term": "end"
+   "en": "Do you require my assistance?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0027",
    "jp": "　{n}　　　　　　{FFEF}ジュリアンが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Julian is now your companion!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0028",
    "jp": "　{n}　　　　　　{FFEF}ジュリアンが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Julian joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0029",
    "jp": "期待してくれ。",
-   "en": "",
-   "term": "end"
+   "en": "You can count on me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0030",
    "jp": "援護は任せてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll cover you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0031",
    "jp": "僕の力が必要ですか？",
-   "en": "",
-   "term": "end"
+   "en": "Do you need my help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0032",
    "jp": "　{n}　　　　{FFEF}エリオットが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Elliot is now your companion!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0033",
    "jp": "　{n}　　　　{FFEF}エリオットが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Elliot joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0034",
    "jp": "はりきって行きましょう！",
-   "en": "",
-   "term": "end"
+   "en": "Let's give it our all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0035",
    "jp": "‥‥最後の戦いです。{n}がんばりましょう！",
-   "en": "",
-   "term": "end"
+   "en": "...This is the final battle. Let's do our best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0036",
    "jp": "俺の力が必要ってわけだな？",
-   "en": "",
-   "term": "end"
+   "en": "So you need my strength, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0037",
    "jp": "ゼノスをパーティーに加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add Xenos to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0038",
    "jp": "・ゼノスをメンバーに加える",
-   "en": "",
+   "en": "・Add Xenos to the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen119.0039",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add anyone for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen119.0040",
    "jp": "　{n}　　　　　{FFEF}ゼノスが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Xenos is now your companion!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0041",
    "jp": "　{n}　　　　　{FFEF}ゼノスが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Xenos joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0042",
    "jp": "がんばらせて、もらうぜ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll give it all I've got.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0043",
    "jp": "‥‥そうか‥‥",
-   "en": "",
-   "term": "end"
+   "en": "...I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0044",
    "jp": "いろいろご心配をおかけしましたが、{n}もう大丈夫です。",
-   "en": "",
-   "term": "end"
+   "en": "I've caused you so much worry, but I'm all right now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0045",
    "jp": "私にお手伝いできますでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything I can do to help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0046",
    "jp": "カレンをパーティーに加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add Karen to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0047",
    "jp": "・カレンをメンバーに加える",
-   "en": "",
+   "en": "・Add Karen to the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen119.0048",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add anyone for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen119.0049",
    "jp": "　{n}　　　　　{FFEF}カレンが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Karen is now your companion!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0050",
    "jp": "　{n}　　　　　{FFEF}カレンが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Karen joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0051",
    "jp": "がんばりますね。",
-   "en": "",
-   "term": "end"
+   "en": "I'll do my best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0052",
    "jp": "がんばって下さいね。",
-   "en": "",
-   "term": "end"
+   "en": "Please do your best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0053",
    "jp": "外へ出るんですか？{n}それじゃ、アタシ、ここで待ってますね！",
-   "en": "",
-   "term": "end"
+   "en": "You're going outside? Then I'll wait right here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0054",
    "jp": "外へ行くんだね？{n}それじゃ、僕はここで待っているよ。",
-   "en": "",
-   "term": "end"
+   "en": "Heading outside? I'll wait here, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0055",
    "jp": "外に行かれるのですね？{n}それでは、ここで待っています。",
-   "en": "",
-   "term": "end"
+   "en": "You're going outside? Then I'll wait here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0056",
    "jp": "何だ、まだ用事があるのか？{n}面倒だから、俺はここで待ってるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "What, you've still got things to do? Too much hassle.{n}I'll wait here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0057",
    "jp": "外へ出るんですか？{n}それじゃ、僕はここで待ってますよ。",
-   "en": "",
-   "term": "end"
+   "en": "You're going outside? I'll wait here, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0058",
    "jp": "忘れ物か？{n}私は、ここで待っている。{n}すぐに戻ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "Did you forget something? I shall wait here. Return{n}soon.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0059",
    "jp": "時空制御塔・Ｂ－１ブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower - Block B-1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0060",
    "jp": "『{FFEF}ヴィーザルブーツ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Vidar Boots{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0061",
    "jp": "　{n}　　　『{FFEF}ヴィーザルブーツ{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Obtained '{FFEF}Vidar Boots{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0062",
    "jp": "時空制御塔・Ｃ－１ブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block C-1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0063",
    "jp": "『{FFEF}白銀のティアラ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Silver Tiara{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0064",
    "jp": "　{n}　　　　『{FFEF}白銀のティアラ{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Silver Tiara{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0065",
    "jp": "時空制御塔・Ｂ－２ブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block B-2",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0066",
    "jp": "時空制御塔・Ｃ－２ブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block C-2",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0067",
    "jp": "『{FFEF}ヘルブリンディ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Helblindi{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0068",
    "jp": "　{n}　　　　『{FFEF}ヘルブリンディ{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Helblindi{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0069",
    "jp": "『{FFEF}ランドグリーズ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Randgriz{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0070",
    "jp": "　{n}　　　　『{FFEF}ランドグリーズ{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Randgriz{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0071",
    "jp": "時空制御塔・Ｃ－３ブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block C-3",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0072",
    "jp": "　{n}　　　　　３１０００エルムを手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Received 31000 Elm!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0073",
    "jp": "時空制御塔・Ｄブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block D",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0074",
    "jp": "{v:005C}リシャール様！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Richard-sama!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0075",
    "jp": "リシャールを放っていく気！？",
-   "en": "",
-   "term": "end"
+   "en": "You're going to leave Richard behind?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0076",
    "jp": "{v:0024}待っていたぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}I have been waiting for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0077",
    "jp": "{v:0025}この声は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}That voice...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0078",
    "jp": "{v:0026}リシャール‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Richard...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0079",
    "jp": "{v:0027}リシャール‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Richard...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0080",
    "jp": "{v:0028}よくもヴェンツェル様の居城に、{n}土足で踏み込んでくれたな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}How dare you barge into Wenzel-sama's castle!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0081",
    "jp": "{v:0029}話を聞いてよ！{p}{v:002A}アンタがいれば、世界を救えるんだよ！？{n}アタシ達に協力してよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Listen to us!{p}{v:002A}With you here, we can save the world! Help us out,{n}will you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0082",
    "jp": "{v:002B}世界を救うだと？{p}{v:002C}ハッ！{n}笑わせるな。{n}今のままでもヴェンツェル様が救って下さる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Save the world, you say?{p}{v:002C}Hah! Do not make me laugh. Wenzel-sama will save it all{n}the same.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0083",
    "jp": "{v:002D}でも、それは人間を支配しながらでしょ？{n}世界は誰のものでもないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}But he'll rule over all the humans while he's at it, won't{n}he? The world doesn't belong to anyone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0084",
    "jp": "‥‥{v:002E}黙れ！{n}お前たちと話していると気分が悪くなる！{p}{v:002F}これ以上の会話は無意味だ。{n}ここで殺してやる！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002E}Silence! Speaking with you makes me sick!{p}{v:002F}Further discussion is pointless. I will kill you here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0085",
    "jp": "{v:0067}リシャール様、しっかりなさってください！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0067}Richard-sama, please pull yourself together!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0086",
    "jp": "‥{v:0066}私は‥‥私は‥‥‥",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0066}I... I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0087",
    "jp": "{FFEE}{v:0069}　　　　おまえも裏切るか、リシャールよ。{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}{v:0069}　　　　So you would betray me too, Richard?{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0088",
    "jp": "{v:006A}この声！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}That voice?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0089",
    "jp": "{v:006B}ヴェンツェル！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}Wenzel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0090",
    "jp": "{FFEE}{v:006C}　　　　命を助けてやった恩を忘れたか？{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}{v:006C}　　　　Have you forgotten that you owe me your{n}life?{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0091",
    "jp": "{v:006D}う‥うるさい！{n}私は、お前などに屈せぬ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006D}S-silence! I will never bow to the likes of you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0092",
    "jp": "{FFEE}{v:006E}　　　　勇ましいことだな。{FFF9}{FFFB}{n}{v:006F}　　　　だが裏切り者を生かしておくほど、{n}　　　　私は寛容ではない。{FFF9}{FFFB}{n}{v:0070}　　　　死ぬがいい！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}{v:006E}　　　　How valiant.{FFF9}{FFFB}{v:006F}But I am not so merciful as to{n}let a traitor live.{FFF9}{FFFB}{v:0070}Die!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0093",
    "jp": "{v:0072}リシャール様！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}Richard-sama!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0094",
    "jp": "{v:0000}リシャール様‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Richard-sama...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0095",
    "jp": "‥{v:0001}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0001}No...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0096",
    "jp": "{v:0002}どうすんのよ！{n}リシャールがいなかったら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}What are we gonna do?! Without Richard...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0097",
    "jp": "‥‥{v:0003}{s:0000}がやるしかないようだな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0003}Looks like {s:0000} has no choice but to{n}do it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0098",
    "jp": "{v:0004}だって、こいつだけじゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}But if he's the only one...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0099",
    "jp": "{v:0005}それしか方法がねぇんだろ？{n}だったら、やるしかない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}It's the only way, ain't it? Then it's gotta be done.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0100",
    "jp": "{v:0006}冷たいようだが、{n}この世界を救うにはそれしかない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Sounds cold, but it's the only way to save this world.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0101",
    "jp": "{v:0007}冷たいようだが、彼がやらねば、{n}我々はヴェンツェルに降伏するしかない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}It may sound heartless, but if he does not do it, we{n}have no choice but to surrender to Wenzel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0102",
    "jp": "{v:0008}もしダメだったら、{n}ヴェンツェルに降参するしかないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}If it doesn't work, we'll have to give in to Wenzel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0103",
    "jp": "{v:0009}このままだと、ヴェンツェルの支配を{n}受け入れるしかないのですね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}As things stand, we have no choice but to accept{n}Wenzel's rule...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0104",
    "jp": "{v:000A}ここまで来て、{n}ヴェンツェルに降伏するしかないのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}After coming all this way, must we surrender{n}to Wenzel?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0105",
    "jp": "{v:000B}もしこいつがやらなけりゃ、{n}ヴェンツェルの支配を待つだけだ。{p}{v:000C}冷たいが、他に方法はない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}If he doesn't do it, all we can do is wait for Wenzel to{n}take over.{p}{v:000C}It's cold, but there's no other way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0106",
    "jp": "‥‥{v:000D}すまないが、１人にしてくれ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000D}I'm sorry, but leave me alone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen119.0107",
    "jp": "う～ん、{n}エレベータの中はテレポートできないみたい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... Looks like we can't teleport inside the elevator...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

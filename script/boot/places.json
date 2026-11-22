@@ -9,122 +9,142 @@
   {
    "id": "boot.places.0000",
    "jp": "王都ローザリア",
-   "en": "",
-   "term": "null"
+   "en": "Royal Capital Rosaria",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0001",
    "jp": "デリス村",
-   "en": "",
-   "term": "null"
+   "en": "Delis Village",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0002",
    "jp": "ブローニュ村",
-   "en": "",
-   "term": "null"
+   "en": "Boulogne Village",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0003",
    "jp": "メディス村",
-   "en": "",
-   "term": "null"
+   "en": "Medis Village",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0004",
    "jp": "ラシェル",
-   "en": "",
-   "term": "null"
+   "en": "Rachelle",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0005",
    "jp": "グランシル",
-   "en": "",
-   "term": "null"
+   "en": "Grancil",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0006",
    "jp": "{s:0010}",
-   "en": "",
-   "term": "null"
+   "en": "{s:0010}",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0007",
    "jp": "コムスプリングス",
-   "en": "",
-   "term": "null"
+   "en": "Comsprings",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0008",
    "jp": "ガルアオス監獄",
-   "en": "",
-   "term": "null"
+   "en": "Garuaos Prison",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0009",
    "jp": "鉱山街ヴァルミエ",
-   "en": "",
-   "term": "null"
+   "en": "Valmier Mining Town",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0010",
    "jp": "クレイン村",
-   "en": "",
-   "term": "null"
+   "en": "Crane Village",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0011",
    "jp": "バーンシュタイン王都",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Royal Capital",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0012",
    "jp": "シュッツベルグ",
-   "en": "",
-   "term": "null"
+   "en": "Schutzberg",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0013",
    "jp": "ガラシールズ",
-   "en": "",
-   "term": "null"
+   "en": "Galashiels",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0014",
    "jp": "ランザック王都",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Royal Capital",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0015",
    "jp": "ラージン砦",
-   "en": "",
-   "term": "null"
+   "en": "Fort Rajin",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0016",
    "jp": "魔法学院",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0017",
    "jp": "フェザーランド",
-   "en": "",
-   "term": "null"
+   "en": "Featherland",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0018",
    "jp": "オリビエ湖",
-   "en": "",
-   "term": "null"
+   "en": "Lake Olivier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.places.0019",
    "jp": "時空制御塔",
-   "en": "",
-   "term": "null"
+   "en": "Space-Time Control Tower",
+   "term": "null",
+   "src": "ps1"
   }
  ]
 }

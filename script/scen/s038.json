@@ -15,212 +15,247 @@
   {
    "id": "scen038.0001",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen038.0002",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen038.0003",
    "jp": "看護婦",
-   "en": "",
-   "term": "null"
+   "en": "Nurse",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen038.0004",
    "jp": "行商人",
-   "en": "",
-   "term": "null"
+   "en": "Peddler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen038.0005",
    "jp": "医者",
-   "en": "",
-   "term": "null"
+   "en": "Doctor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen038.0006",
    "jp": "女の子",
-   "en": "",
-   "term": "null"
+   "en": "Girl",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen038.0007",
    "jp": "ルイセ",
-   "en": "",
-   "term": "null"
+   "en": "Luise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen038.0008",
    "jp": "忠犬ペチ",
-   "en": "",
-   "term": "null"
+   "en": "Loyal Dog Pechi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen038.0009",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen038.0010",
    "jp": "イズー",
-   "en": "",
-   "term": "null"
+   "en": "Izu",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen038.0011",
    "jp": "宿泊客",
-   "en": "",
-   "term": "null"
+   "en": "Guest",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen038.0012",
    "jp": "ラシェル",
-   "en": "",
-   "term": "end"
+   "en": "Rachelle",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0013",
    "jp": "{v:0000}確か向こうにお花畑が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}I'm sure there was a flower field over that way...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0014",
    "jp": "{v:0001}あ、こら、ミーシャ！{n}どこ行くのよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Hey! Misha! Where do you think you're going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0015",
    "jp": "‥‥{v:0002}もう、ミーシャったら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0002}Oh, that Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0016",
    "jp": "{v:0003}ルイセちゃん、あの娘、どこに行ったか心当たりある？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Luise-chan, any idea where she went?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0017",
    "jp": "{v:0004}ここにきれいなお花畑があるってよく言ってたから、{n}たぶん、そこだと思う‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}She always talked about a beautiful flower field here,{n}so I think that's probably where she went...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0018",
    "jp": "{v:0005}ま、後でゆっくり探せばいい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Well, we can take our time looking for her later.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0019",
    "jp": "おさげの女の子を探しているのかい？{n}だったら花畑に行ってごらん。",
-   "en": "",
-   "term": "end"
+   "en": "Looking for a girl with pigtails? Try the flower field.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0020",
    "jp": "誰か人を探しているのかい？{p}知的な大人の女性だって？{n}残念ながらそんな人は通っていないよ。",
-   "en": "",
-   "term": "end"
+   "en": "Are you looking for someone?{p}An intelligent, mature woman? Sorry, nobody like that{n}has come by.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0021",
    "jp": "俺は客でも患者でも、医者でもない。{n}それじゃ何だって？{p}ここがこれだけ整備されているのは、{n}俺たちが影ながら働いているからだ！",
-   "en": "",
-   "term": "end"
+   "en": "I'm not a guest, a patient, or a doctor. What am{n}I, then?{p}We're the ones working behind the scenes to keep this{n}place in such good shape!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0022",
    "jp": "あの赤毛の女の子‥‥何かあったんかのぉ？{n}今にもつぶれてしまいそうじゃった‥‥。{p}お前さん、あの子の知り合いなら助けてやりなさい。{n}それが人間ってもんじゃからのぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "That red-haired girl... Did something happen to her, I{n}wonder? She looked ready to crumble...{p}If you know the lass, you ought to help her. It's the{n}decent thing to do, eh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0023",
    "jp": "ここはいいところですなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Such a lovely place this is, eh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0024",
    "jp": "はて？{n}アイリーン？{p}ワシにはそんな名前の娘はおらなんだがのぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Eh? Irene?{p}I don't recall ever having a daughter by that name...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0025",
    "jp": "いや‥‥そうじゃないんだけどなぁ[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "No... That's not what I meant...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0026",
    "jp": "最近の子供は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Children these days...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0027",
    "jp": "お兄ちゃんたち、{n}ボクのプロポーズをジャマしないでよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you guys! Don't interrupt my proposal!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0028",
    "jp": "ねぇ、いいだろ？{n}ぜったい、しあわせにするからさ。",
-   "en": "",
-   "term": "end"
+   "en": "Come on, say yes! I promise I'll make you happy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0029",
    "jp": "ボクたちのであいは、ぐうぜんじゃないとおもうんだ。",
-   "en": "",
-   "term": "end"
+   "en": "I don't think we met by chance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0030",
    "jp": "おお、マイ・エンジェル！{n}キミはカミがボクのためにつかわしたテンシだ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, my angel! You're an angel God sent just for me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0031",
    "jp": "‥‥月並みなセリフね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...What a tired old line...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0032",
    "jp": "‥‥ちょっとは考えちゃうかも{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "...I might give it a little thought{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0033",
    "jp": "‥‥でも、結婚するなら、お金持ちじゃないとね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...But if I'm going to marry someone, he'll have to{n}be rich...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0034",
    "jp": "そう言えば、最近では戦争が始まったでしょう？{p}これから先、怪我人でここもあふれてしまうんじゃ{n}ないかしら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Come to think of it, the war started recently, didn't it?{p}I wonder if this place will soon be overflowing with{n}wounded people...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0035",
    "jp": "保養所にご用ですか？{p}東にある宿屋の前を通って、北に行けばすぐですよ。{n}一本道ですから。",
-   "en": "",
-   "term": "end"
+   "en": "Do you need to visit the sanatorium?{p}Go past the inn to the east, then head north. It's just{n}along that road. There are no turnoffs.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0036",
@@ -243,1585 +278,1842 @@
   {
    "id": "scen038.0039",
    "jp": "ここラシェルは、大陸でも有名な保養地なんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Rachelle is a health resort famous throughout{n}the continent.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0040",
    "jp": "え？アイリーンさん？{n}保養所の方にいませんか？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Irene-san? Isn't she over at the sanatorium?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0041",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0042",
    "jp": "{v:0002}さて、何の用かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Now, what can I do for you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0043",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0044",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0045",
    "jp": "まだ用事はあるかい？",
-   "en": "",
-   "term": "end"
+   "en": "Anything else you need?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0046",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0047",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0048",
    "jp": "{v:000B}またおいで～。待ってるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Come back soon! I'll be waiting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0049",
    "jp": "悪いがまだ寝させてくれないか‥‥。{n}昨日は怪我人が連続で運び込まれてきて、{n}休みが取れなかったんだからさ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Sorry, but could you let me sleep a bit longer...? They{n}kept bringing in injured people yesterday, and I didn't{n}get any rest...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0050",
    "jp": "なんだね？{n}非番の日くらいゆっくりさせてくれ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What is it? At least let me relax on my day off...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0051",
    "jp": "‥‥あのー、アイリーンさんのことを‥‥。{p}あれじゃ無理か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Um, about Irene-san...{p}Guess we won't get anywhere with him like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0052",
    "jp": "　{n}　　　　　鍵がかかっていて開かない。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　It's locked and won't open.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0053",
    "jp": "{v:0035}今日は聞こえないなぁ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}I can't hear it today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0054",
    "jp": "{v:0036}どうしたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}What's the matter?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0055",
    "jp": "{v:0037}あのね、風向きのいい時には東の森の方から、{n}とっても綺麗な歌が聞こえて来るんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}You know, when the wind blows the right way, I can{n}hear really pretty singing from the forest to{n}the east.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0056",
    "jp": "{v:0038}それはいつ頃からだい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}When did that start?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0057",
    "jp": "{v:0039}う～ん、２～３日くらい前からだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Hmm, about two or three days ago.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0058",
    "jp": "お天気、だ～い好き{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "I looove sunny days{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0059",
    "jp": "アイリーンのお姉ちゃん？{n}あたしにすごく優しくしてくれるんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "Big Sis Irene? She's really nice to me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0060",
    "jp": "そのアイリーンさんが、今どこにいるか知らない？",
-   "en": "",
-   "term": "end"
+   "en": "Do you know where Irene-san is now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0061",
    "jp": "う～ん‥‥わかんない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... I dunno...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0062",
    "jp": "うわ～、この妖精さんちっちゃいね～★",
-   "en": "",
-   "term": "end"
+   "en": "Wooow, this fairy's so tiny!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0063",
    "jp": "アンタもちっちゃいじゃない？",
-   "en": "",
-   "term": "end"
+   "en": "You're pretty tiny yourself, aren't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0064",
    "jp": "ちょっと！{n}れでぃーに失礼じゃない！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! That's no way to talk to a lady!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0065",
    "jp": "はいはい‥‥ゴメンなさいね‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Yes, yes... So sorry...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0066",
    "jp": "あの患者が、元気になれるとは‥‥。{n}奇跡が起こったとしか言いようがない。{n}これで無事にヴァルミエへ帰れただろう。",
-   "en": "",
-   "term": "end"
+   "en": "To think that patient recovered... I can only call it a{n}miracle. They should have made it safely back to Valmier{n}by now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0067",
    "jp": "保養所の前に犬がじっと待っているのを{n}知っているかね？",
-   "en": "",
-   "term": "end"
+   "en": "Have you noticed the dog waiting patiently outside{n}the sanatorium?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0068",
    "jp": "治療中の女の子が飼っている犬でね、{n}飼い主の帰りをずっと待っているようだ。{p}その子の容態は決して良くはないが‥‥。{n}ひょっとすると、また元のように{n}元気に戻れるかもしれん。",
-   "en": "",
-   "term": "end"
+   "en": "It belongs to a girl receiving treatment here. It seems{n}to be waiting for its owner to return.{p}The girl's condition is far from good... But perhaps she{n}might regain her health and be her old self again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0069",
    "jp": "治療中の女の子が飼っている犬でね、{n}飼い主の帰りをずっと待っているようだ。{n}だが、その子はもう‥‥。{p}もっと生きようとする強い意志があれば、{n}何とかなるかもしれないが‥‥。{n}きっと今まで辛いことが多かったのだろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "That dog belongs to a girl we're treating. He seems to{n}be waiting patiently for his owner to return. But the{n}girl is already...{p}If she had a stronger will to live, we might still be able{n}to help her... I imagine she has suffered a great deal...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0070",
    "jp": "保養所で亡くなった女の子が飼っていた犬でね、{n}もう会うこともできない飼い主の帰りを{n}ずっと待っているようだ。{p}あの犬の背中を見ていると、{n}もっと患者にしてやれる事があったのではないか？{n}という思いが、胸をしめつけるのだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "That dog belonged to a girl who died at the{n}sanatorium. He keeps waiting for his owner to return,{n}though he'll never see her again.{p}Watching him sit there, I cannot help wondering{n}whether there was more I could have done for my{n}patient. The thought tears at my heart...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0071",
    "jp": "{v:0054}ここから東の森に{n}フェザリアンの女王がいるみたいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Sounds like the Featherian queen is in the forest east{n}of here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0072",
    "jp": "‥‥{v:0055}う～ん。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0055}Hmm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0073",
    "jp": "{v:0056}どうしたんですか、アリオスト先輩？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}What's wrong, Ariost-senpai?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0074",
    "jp": "‥‥{v:0057}ああ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0057}Oh.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0075",
    "jp": "{v:0058}ルイセ君、ちょっとお願いがあるんだけど、{n}いいかい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Luise-kun, could I ask you a small favor?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0076",
    "jp": "{v:0059}え、あ、はい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Huh? Oh, yes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0077",
    "jp": "{v:005A}東の森から聞こえるあの歌声が母の物なのか、{n}一度フェザーランドに行ってみたいんだ。{n}これから、すぐに。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}I'd like to visit Featherland to find out whether that{n}singing from the eastern forest is my mother's. Right{n}away, if possible.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0078",
    "jp": "{v:005B}えっと‥あの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Um... Well...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0079",
    "jp": "{v:005C}行ってもいいかな、お兄ちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Is it all right if we go, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0080",
    "jp": "{v:005D}当～然、だよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Of cooourse it is, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0081",
    "jp": "{v:005E}何でよ！{p}{v:005F}アンタも今、マスターの解毒剤を探すために{n}がんばってるんでしょ？{n}行ってあげなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}Why not?!{p}{v:005F}You're doing everything you can to find Master's{n}antidote too, aren't you? Go with him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0082",
    "jp": "{v:0060}ゴメンね、お兄ちゃん。{n}わたし、アリオストさんを放っておけないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}I'm sorry, Big Brother. I can't just leave Ariost-san{n}like this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0083",
    "jp": "{v:0061}母親を思う気持ちは誰でも同じだ。{n}みんなで行ってやるとしようぜ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}We all care about our mothers. Let's all go with{n}him, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0084",
    "jp": "{v:0062}それじゃ、用意が出来たら、{n}教えてね、お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}Then let me know when you're ready, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0085",
    "jp": "メディスから来たそこのご夫婦、{n}とっても仲がいいのよね。{n}あてられちゃうわ[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "That couple over there came from Medis. They're so{n}close, you know. All that lovey-dovey talk is getting{n}to me[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0086",
    "jp": "くぅ～ん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "*whine*...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0087",
    "jp": "いま、南の方では戦争が始まってるそうですねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "I hear a war has broken out down south, dear.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0088",
    "jp": "そうじゃな‥‥。{n}じゃが、安心せえ、{n}ワシがお前さんを守ってやるわい。",
-   "en": "",
-   "term": "end"
+   "en": "So it has... But don't you worry, my dear. I'll keep{n}you safe.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0089",
    "jp": "人から聞いたんじゃが、{n}どうやら戦争は終わったそうじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "Someone was telling me the war has ended, it seems.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0090",
    "jp": "まぁ、それはよかったですねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, that's wonderful news, dear...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0091",
    "jp": "お互い、この歳まで生きられるとは{n}思わなかったのう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Neither of us thought we'd live to this ripe old{n}age, eh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0092",
    "jp": "そうですねぇ。{n}でも、あなたと一緒ならいつまでも{n}生きられそうな気がするわ。",
-   "en": "",
-   "term": "end"
+   "en": "No, we didn't, dear. But with you beside me, I feel as{n}though I could live forever.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0093",
    "jp": "当店をご利用でしたら、{n}こちらで記帳なさって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "If you would like to stay with us, please sign the{n}register here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0094",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0095",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0096",
    "jp": "お客さん‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Sir...[01BE] I'm afraid you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0097",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0098",
    "jp": "‥‥ふぅっ。{n}ボクは劇団『三国大陸』の団長をやっているんだ。{p}ここラシェルなら仕事があるだろうと思って、{n}探しに来たんだけど‥‥。{n}『うるさい芝居はダメだ』って、怒られちゃってさ。{p}仕事を取ってくるって大見得切っちゃった手前、{n}団員に何て言ったらいいのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...*sigh* I'm the director of the 'Three Kingdoms{n}Continent' theater troupe.{p}I came to Rachelle looking for work, thinking there must{n}be something here... But they scolded me, saying, 'No{n}noisy plays!'{p}After all my boasting about finding us work, what am I{n}supposed to tell the troupe...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0099",
    "jp": "ん？　僕たち劇団『三国大陸』に出演の依頼かい？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? You'd like to book a performance by our 'Three{n}Kingdoms Continent' theater troupe?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0100",
    "jp": "よし！　公演料は激安の８００エルムでいいぞ！",
-   "en": "",
-   "term": "end"
+   "en": "All right! Our fee is a mere 800 Elm! A bargain!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0101",
    "jp": "・やっぱりやめる",
-   "en": "",
+   "en": "・Change your mind",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0102",
    "jp": "・公演を依頼する",
-   "en": "",
+   "en": "・Book a performance",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0103",
    "jp": "やった！{n}よし！{n}他の団員に連絡だ！{p}場所は？{FFFB}{n}{s:0010}だね？",
-   "en": "",
-   "term": "end"
+   "en": "Wonderful! Right! I'd better tell the rest of the troupe!{p}Where will we perform?{FFFB} At {s:0010}, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0104",
    "jp": "なんだ、払う気がないのに、{n}ぬか喜びさせないでくれよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, come on. Don't get my hopes up if you aren't going{n}to pay...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0105",
    "jp": "ふぅっ‥‥。{n}他の団員に何て言おうか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "*sigh*... What am I going to tell the rest of{n}the troupe...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0106",
    "jp": "あの絵の前にいる人、すごく面白いのよ！{n}いっぱい笑っちゃった！",
-   "en": "",
-   "term": "end"
+   "en": "The person in front of that painting is so funny! I{n}laughed and laughed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0107",
    "jp": "ここはのんびりしていていいわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It's so peaceful here. How lovely...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0108",
    "jp": "ここも安全ではなくなったわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Even this place isn't safe anymore...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0109",
    "jp": "{v:0040}またしてもパワーストーンか‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}The Power Stone, yet again...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0110",
    "jp": "{v:0041}くそっ！{p}{v:0042}時空の波動で吹き飛ばしてくれる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Damn you!{p}{v:0042}I'll blast you away with a wave of space-time energy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0111",
    "jp": "{v:0043}あぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Aah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0112",
    "jp": "{v:0044}チッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Tch!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0113",
    "jp": "{v:0045}た、隊長！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}C-Captain!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0114",
    "jp": "{v:0046}ええい、ベルガーめ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Curse you, Berger!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0115",
    "jp": "{v:0047}だがお前もこれで終わりだな。{p}‥‥{v:0048}最後に１つ、面白いことを教えてやろう。{p}{v:0049}この世界は放っておいても滅びる。{n}それを止めることが出来るのは、この私だけなのだ。{p}{v:004A}この世界を救いたければ、我に屈することだ！{p}‥‥{v:004B}ふははははっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}But this is the end for you, too.{p}...{v:0048}Allow me to tell you one last, amusing thing.{p}{v:0049}This world will perish even if I do nothing. I alone can{n}prevent it.{p}{v:004A}If you wish to save this world, bow before me!{p}...{v:004B}Hahahahaha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0116",
    "jp": "{v:004C}また‥逃げられちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}He... got away again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0117",
    "jp": "‥‥{v:004D}親父！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004D}Dad?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0118",
    "jp": "{v:004E}隊長？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Captain?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0119",
    "jp": "{v:004F}しっかりして、お父さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Hang on, Father!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0120",
    "jp": "{v:0050}親父、しっかりしろよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Dad, hang in there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0121",
    "jp": "{v:0051}隊長！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Captain!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0122",
    "jp": "‥‥{v:0052}ちょっと無理をしすぎたようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0052}It seems I pushed myself a little too far...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0123",
    "jp": "{v:0053}ベルガーさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Berger-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0124",
    "jp": "{v:0054}死ぬ前に、話しておく事がある‥‥。{p}‥‥{v:0055}私が生まれたのは、まだグローシアンが{n}支配者であった時代だ。当時の私は、奴隷同様だった{n}民衆を率い、反乱軍を指揮していた。{p}{v:0056}だがある時、奴に捕らえられ様々な実験に{n}使われるはめになった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}There is something I must tell you before I die...{p}...{v:0055}I was born in an age when the Growsians still ruled.{n}In those days, I led the people, who were little better{n}than slaves, and commanded a rebel army.{p}{v:0056}But one day, he captured me and subjected me to all{n}manner of experiments.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0125",
    "jp": "{v:0057}それじゃ、隊長はヴェンツェルの実験のために？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Then, Captain, it was because of{n}Wenzel's experiments...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0126",
    "jp": "{v:0058}ああ。{n}私の実験結果をもとに、{n}奴はゲヴェルとの融合を果たした。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Yes. Using the results of his experiments on me, he{n}succeeded in fusing with Gevel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0127",
    "jp": "{v:0059}でも、どうやって今まで生きてたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}But how did you stay alive all this time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0128",
    "jp": "{v:005A}生きてきたわけではない。{n}時間を超えてしまったのだ。{p}{v:005B}実験が終わり、用済みになった私は殺される所だった。{n}だが私はパワーストーンを奪い逃げ回った。{p}{v:005C}そして気が付くと、時間を超え、{n}この時代に来ていた‥‥。{p}{v:005D}たぶん、パワーストーンの能力だろうが‥‥。{n}ごほっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}I did not live through all those years. I crossed{n}through time.{p}{v:005B}Once the experiments were over, I was of no further{n}use and was to be killed. But I stole the Power Stone{n}and fled, evading capture.{p}{v:005C}Then, before I knew it, I had crossed through time and{n}arrived in this age...{p}{v:005D}It was probably the Power Stone's doing... *cough*!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0129",
    "jp": "{v:005E}お父さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}Father...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0130",
    "jp": "{v:005F}カレンよ。{n}お前には父らしいことをしてやれなかった。{p}{v:0060}お前の母には、{n}お前の本当の父になると誓ったのにな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Karen. I have done so little for you as a father.{p}{v:0060}And yet I swore to your mother that I would be a true{n}father to you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0131",
    "jp": "{v:0061}えっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0132",
    "jp": "{v:0062}お前の母は、私の親友の妻だった。{n}私もシエラを亡くし、{n}男手一つでゼノスを育てることが難しくなっていた。{p}{v:0063}そして、互いの子をつれ、再婚した‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}Your mother was my closest friend's wife. I, too, had{n}lost Sierra, and was finding it difficult to raise Xenos{n}on my own.{p}{v:0063}So we married, each bringing a child into our{n}new family...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0133",
    "jp": "{v:0064}それじゃ、カレンは‥‥{n}本当の妹じゃなかったのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}Then Karen... wasn't really my sister...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0134",
    "jp": "{v:0065}今まで言えずにすまなかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}I'm sorry I could never bring myself to tell you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0135",
    "jp": "{v:0066}兄さんが‥‥本当の兄さんじゃなかったなんて‥‥。{n}そんな‥いきなり言われても‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}My brother... isn't really my brother...? How can I... take{n}all this in so suddenly...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0136",
    "jp": "{v:0067}そろそろ、限界のようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0067}It seems... I can hold on no longer...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0137",
    "jp": "{v:0068}後のことは頼むぞ‥‥。{n}絶対に奴を‥倒して‥‥くれ‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0068}I leave the rest to you... You must... defeat{n}him... Please...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0138",
    "jp": "‥‥{v:0069}シエラ‥‥来てくれたのか‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0069}Sierra... You've come for me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0139",
    "jp": "{v:006A}隊長‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}Captain...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0140",
    "jp": "‥‥{v:006B}親父ぃ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:006B}Daaad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0141",
    "jp": "‥‥{v:006C}お父さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:006C}Father...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0142",
    "jp": "‥‥{v:006D}絶対に‥‥絶対に勝とうね！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:006D}We have to... We have to win, all right?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0143",
    "jp": "‥‥{v:006E}うん。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:006E}Yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0144",
    "jp": "　{n}　　　　{FFEF}カレンがパーティーから外れた！{FFF1}{p}　　{n}　　　　　　{FFEF}カレンの装備を回収した！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Karen left the party!{FFF1}{p}{FFEF}Recovered Karen's equipment!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0145",
    "jp": "{FFF3}‥‥{FFF4}{v:006F}そのためには奴のテレポートを{n}封じなくちゃダメですね。{n}これから私の城に戻って、話し合いませんか？{p}{v:0070}インペリアル・ナイツにも{n}いろいろ調べさせているので。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FFF4}{v:006F}To do that, we must prevent him from using Teleport.{n}Shall we return to my castle to discuss it?{p}{v:0070}I have the Imperial Knights investigating several things{n}as well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0146",
    "jp": "‥‥あ、マスター‥‥。{p}{FC00}えっ、エリオットから使者が？{FFFB}{n}うん、わかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Oh, Master...{p}{FC00}Huh? A messenger from Elliot?{FFFB} Yeah, I understand...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0147",
    "jp": "どうしたの？",
-   "en": "",
-   "term": "end"
+   "en": "What's wrong?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0148",
    "jp": "バーンシュタインから使者が来て、{n}エリオットが、アタシ達と連絡を取りたいって！",
-   "en": "",
-   "term": "end"
+   "en": "A messenger came from Burnstein! Elliot wants to get{n}in touch with us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0149",
    "jp": "何かわかったのかな？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder if he's found something out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0150",
    "jp": "それじゃ、バーンシュタインまで行くとするか。",
-   "en": "",
-   "term": "end"
+   "en": "Then let's head to Burnstein.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0151",
    "jp": "‥‥{v:0000}つ、強い‥‥。{n}これがあのヴェンツェルなのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0000}S-So strong... Is this really Wenzel...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0152",
    "jp": "{v:0001}弱った奴の波動を探って来てみれば、{n}こんな老いぼれだとはな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}I followed his weakened aura here, only to find this{n}decrepit old man.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0153",
    "jp": "{v:0002}弱った‥波動‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}A weakened... aura...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0154",
    "jp": "{v:0003}それってあの人の‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Do you mean his...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0155",
    "jp": "{v:0004}奴にはパワーストーンなどという物を{n}使ってくれた礼があるからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}I owe him my thanks for making use of something like{n}the Power Stone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0156",
    "jp": "{v:0005}パワーストーン！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}The Power Stone?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0157",
    "jp": "{v:0006}ま、そのおかげで懐かしい奴に会えたがな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Still, it did lead me to an old acquaintance...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0158",
    "jp": "‥‥{v:0007}くっ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0007}Ghh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0159",
    "jp": "{v:0008}お父さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Father!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0160",
    "jp": "{v:0009}親父！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Dad?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0161",
    "jp": "{v:000A}ベルガー隊長！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Captain Berger?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0162",
    "jp": "‥{v:000B}みんなか‥‥。{n}気をつけろ！{n}ヴェンツェルは、手強いぞ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000B}So you're all here... Be careful! Wenzel is a{n}formidable foe!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0163",
    "jp": "‥‥{v:000C}現れたか‥‥。{p}{v:000D}それにしても何とも弱った生気だ‥‥。{n}これなら、勝てる！{p}‥‥{v:000E}むうう‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000C}So, you have come...{p}{v:000D}What a feeble life force, though... I can win now!{p}...{v:000E}Hrrrgh...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0164",
    "jp": "{v:000F}奴め、何をするつもりだ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}What's he planning to do?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0165",
    "jp": "{v:0010}連発できぬので、あまり使いたくなかったが、{n}今を逃す手はあるまい‥‥。{p}{v:0011}死ねっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}I was reluctant to use this, since I cannot unleash it in{n}quick succession. But I cannot let this chance pass...{p}{v:0011}Die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0166",
    "jp": "！！",
-   "en": "",
-   "term": "end"
+   "en": "!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0167",
    "jp": "誰をかばいますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will you protect?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0168",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0169",
    "jp": "・ミーシャ",
-   "en": "",
+   "en": "・Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0170",
    "jp": "・カレン",
-   "en": "",
+   "en": "・Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0171",
    "jp": "誰をかばいますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will you protect?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0172",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0173",
    "jp": "・カレン",
-   "en": "",
+   "en": "・Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0174",
    "jp": "・ジュリアン",
-   "en": "",
+   "en": "・Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0175",
    "jp": "誰をかばいますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will you protect?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0176",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0177",
    "jp": "・カレン",
-   "en": "",
+   "en": "・Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0178",
    "jp": "誰をかばいますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will you protect?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0179",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0180",
    "jp": "・ミーシャ",
-   "en": "",
+   "en": "・Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0181",
    "jp": "・ジュリアン",
-   "en": "",
+   "en": "・Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0182",
    "jp": "・カレン",
-   "en": "",
+   "en": "・Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0183",
    "jp": "誰をかばいますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will you protect?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0184",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0185",
    "jp": "・ジュリアン",
-   "en": "",
+   "en": "・Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0186",
    "jp": "・カレン",
-   "en": "",
+   "en": "・Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0187",
    "jp": "誰をかばいますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will you protect?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0188",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0189",
    "jp": "・ミーシャ",
-   "en": "",
+   "en": "・Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0190",
    "jp": "・ジュリアン",
-   "en": "",
+   "en": "・Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0191",
    "jp": "誰をかばいますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will you protect?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0192",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0193",
    "jp": "・ミーシャ",
-   "en": "",
+   "en": "・Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0194",
    "jp": "誰をかばいますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will you protect?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0195",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0196",
    "jp": "・ジュリアン",
-   "en": "",
+   "en": "・Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0197",
    "jp": "{v:0012}みんな、大丈夫か！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Is everyone all right?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0198",
    "jp": "{v:0014}アタシは平気だったけど、コイツが起きないの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}I'm fine, but this guy won't wake up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0199",
    "jp": "{v:0017}お兄ちゃん‥‥わたしをかばって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Big Brother... shielded me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0200",
    "jp": "{v:0013}お兄さまが‥‥アタシをかばって‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Big Brother... shielded me...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0201",
    "jp": "{v:0016}そんな、私なんかのために‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}No... All this for someone like me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0202",
    "jp": "{v:0015}私なんかをかばうことなかったのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}You shouldn't have shielded someone like me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0203",
    "jp": "{v:0018}クックックッ！{n}狙い通りだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Heh heh heh! Just as I intended!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0204",
    "jp": "{v:0019}しぶとい奴め！{n}まだ生きているか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Stubborn wretch! Still alive, are you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0205",
    "jp": "{v:001A}お前はここにいろ！{n}俺たちが戦う！{p}{v:001B}指示さえ出してくれれば、後は何とかする！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Stay here! We'll do the fighting!{p}{v:001B}Just give us orders. We'll handle the rest!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0206",
    "jp": "{v:001C}ウォレス！{n}彼がパワーストーンを使ったというのは本当か！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Wallace! Is it true that he used the Power Stone?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0207",
    "jp": "{v:001D}ほ、本当です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Y-Yes, sir.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0208",
    "jp": "‥‥{v:001E}よし！{p}{v:001F}私が彼の所まで行く間、奴の足止めを頼む！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001E}Good!{p}{v:001F}Keep him occupied while I make my way to the boy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0209",
    "jp": "{v:0020}え？{n}りょ、了解！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Huh? R-Roger!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0210",
    "jp": "{v:0006}ちょっと、ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Hey, Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0211",
    "jp": "{v:0007}え？{n}あ、お兄さま[01BE]{n}もうお話終わったの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Huh? Oh, Big Brother[01BE] Have you finished talking?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0212",
    "jp": "{v:0008}まったくこんな所で何してるのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Honestly, what are you doing out here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0213",
    "jp": "{v:0009}お兄さまにこれをあげようと思って！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}I wanted to give Big Brother this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0214",
    "jp": "{v:000A}わぁ、綺麗な花冠！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Wow, what a beautiful Flower Crown!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0215",
    "jp": "{v:000B}お兄さま、これ、どうぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Here, Big Brother! This is for you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0216",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0217",
    "jp": "・ありがたく受け取る",
-   "en": "",
+   "en": "・Accept gratefully",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0218",
    "jp": "・遠慮しておく",
-   "en": "",
+   "en": "・Politely decline",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0219",
    "jp": "・ミーシャがつけた方が美しい",
-   "en": "",
+   "en": "・It would look prettier on Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0220",
    "jp": "{v:000C}それじゃ、これをどうぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Then here you go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0221",
    "jp": "　{n}　　　　　{FFEF}花冠を手に入れた！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Received a Flower Crown!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0222",
    "jp": "{v:000D}それじゃ、アタシが{n}お兄さまの頭の上に乗せてっと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Now, let me just put it on your head, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0223",
    "jp": "{v:000E}でぇ～～い！{n}遊んでる時間はないの！{n}さっさと行くわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Heeey! We don't have time to play around! Come on,{n}let's go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0224",
    "jp": "{v:000F}ティピちゃんのイケズ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Tippi-chan, you meanie...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0225",
    "jp": "{v:0010}チェッ、せっかく作ったのにな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Aww, after all that work making it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0226",
    "jp": "{v:0011}アンタ、貰わないまでもほめてあげなさいよ！{n}例え不細工な花冠だとしても。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Hey, even if you won't take it, at least say something{n}nice! Even if it is an ugly Flower Crown.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0227",
    "jp": "{v:0012}ガーン‥‥。{FFF9}{FFFB}{n}{v:0013}ティピちゃん‥‥ヒドイ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Ouch...{FFF9}{FFFB}{v:0013}Tippi-chan... That's so mean...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0228",
    "jp": "{v:0014}えへへ、そうですか★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Heehee, you really think so?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0229",
    "jp": "{v:0015}アンタ、言ってて恥ずかしくない‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Aren't you embarrassed, saying things like that...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0230",
    "jp": "{v:0016}でもミーシャ、よくこんな場所を知ってたね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}But Misha, how did you find a place like this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0231",
    "jp": "{v:0017}えへへ、おじさまのお供で{n}１度ここに来たことがあるんだ。{n}その時にこの花畑を知ったの。{p}{v:0018}アタシが住んでたメディス村にもね、{n}こんなお花畑があったんだ。{n}ここにいるとそれを思い出しちゃって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Heehee, I came here with Uncle once. That's when I{n}found this flower field.{p}{v:0018}Medis Village, where I used to live, had a flower field{n}just like this. Being here reminds me of it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0232",
    "jp": "{v:0019}その場所に、なにか特別な思い出がありそうね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Sounds like you've got some special memories of{n}that place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0233",
    "jp": "{v:001A}実はそうなんだ。{p}{v:001B}まだアタシが小さかった頃、{n}両親を亡くして悲しんでたときに、{n}おじさまがお花をくれたんです★",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Actually, I do.{p}{v:001B}When I was little, I was grieving over losing my{n}parents, and Uncle gave me some flowers!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0234",
    "jp": "{v:001C}へぇ‥‥。{n}そんなことがあったんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Oh... So that's what happened.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0235",
    "jp": "{v:001D}あの時、人の優しさ、温かさを感じたんだ。{n}だから、故郷のお花畑は私の１番のお気に入り‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}That was when I felt how kind and warm people could{n}be. That's why the flower field back home is my{n}favorite place...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0236",
    "jp": "{v:001E}でも、あの学院長がお花？{n}何だか似合わないなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}But the Headmaster, giving flowers? I just can't{n}picture it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0237",
    "jp": "{v:001F}その時、おじさまがくれたのは『車百合』だった。{n}あのお花畑にいっぱい咲いてたんだ。{p}{v:0020}ところで、お兄さま！{n}『車百合』の花言葉って知ってます？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}The flowers Uncle gave me were 'wheel lilies.' There{n}were lots of them blooming in that field.{p}{v:0020}By the way, Big Brother! Do you know what 'wheel lilies'{n}mean in the language of flowers?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0238",
    "jp": "{v:0022}車百合‥‥。{n}アンタ、知ってる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Wheel lilies... Do you know?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0239",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0240",
    "jp": "・あなたを待つ",
-   "en": "",
+   "en": "・I await you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0241",
    "jp": "・七色の愛",
-   "en": "",
+   "en": "・Love in seven colors",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0242",
    "jp": "・永久不変",
-   "en": "",
+   "en": "・Forever unchanging",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0243",
    "jp": "・多才な人",
-   "en": "",
+   "en": "・A person of many talents",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0244",
    "jp": "{v:0023}残念でした。{n}正解は『{FFEF}多才な人{FFF1}』ですぅ★。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Too bad! The right answer is '{FFEF}a person of many{n}talents{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0245",
    "jp": "{v:0024}わ、すごい！{n}どうしてわかったんですかぁ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Wow, amazing! How did you know?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0246",
    "jp": "{v:0025}へぇ、そんな花言葉なんだ。{n}もっともアンタは『非才の人』だけどね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Huh, so that's what it means. You're more of a 'person{n}of no talent,' though.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0247",
    "jp": "{v:006E}ヒドイですぅ‥‥。{FFF9}{FFFB}{n}{v:0026}お兄さま、ティピちゃんがいじめるぅ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}That's so mean...{FFF9}{FFFB}{v:0026}Big Brother, Tippi-chan's picking{n}on meee!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0248",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0249",
    "jp": "・ミーシャはそこまで悪くない",
-   "en": "",
+   "en": "・Misha isn't that bad",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0250",
    "jp": "・気にしないよう慰める",
-   "en": "",
+   "en": "・Reassure her not to let it bother her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0251",
    "jp": "・黙ってうなずく",
-   "en": "",
+   "en": "・Nod silently",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0252",
    "jp": "{v:0029}そうですよね、アタシはそんなに悪くないもん★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}That's right! I'm not that bad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0253",
    "jp": "{v:002A}『そこまで』‥‥でしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}'Not THAT bad'... huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0254",
    "jp": "{v:002B}ティピちゃん、ヒドイ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Tippi-chan, you're so mean...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0255",
    "jp": "{v:0027}うん、お兄さまがそういうなら、アタシ気にしない★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Okay! If you say so, Big Brother, I won't let it{n}bother me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0256",
    "jp": "{v:0028}現金なやつね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Well, you sure change your tune fast...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0257",
    "jp": "{v:002C}うぅ‥‥お兄さままで‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Ugh... Even you, Big Brother...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0258",
    "jp": "{v:002D}そういえば、もう何年も家に帰ってなかったっけ。{p}{v:002E}またあの花畑に行ってみたいなぁ‥‥。{n}そろそろ花が咲いている季節だし。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Come to think of it, I haven't been home in years.{p}{v:002E}I'd love to visit that flower field again... It's about time{n}for the flowers to bloom, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0259",
    "jp": "{v:002F}お兄さま、今度時間があるときに一緒に行こうよ。{n}アタシが案内してあげる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Big Brother, let's go together sometime when you're{n}free. I'll show you around!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0260",
    "jp": "{v:0030}今度は勝手に遊びにいかないでよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Don't go running off to play on your own this{n}time, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0261",
    "jp": "{v:0031}ん？{n}そうだったっけ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Huh? Did I do that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0262",
    "jp": "{v:0032}もう、しっかりしてよね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Honestly, get it together!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0263",
    "jp": "{v:0033}その時にはお願いね★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}I'll count on you when the time comes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0264",
    "jp": "{v:0034}それじゃ、そろそろ行くぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}All right, time we got going.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0265",
    "jp": "{v:006E}ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0266",
    "jp": "{FFF5}{v:006F}！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:006F}!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0267",
    "jp": "{FFF5}{v:0070}待ってミーシャ！{n}逃げないで！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0070}Wait, Misha! Don't run away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0268",
    "jp": "{FFF5}{v:0071}ルイセちゃん‥‥アタシ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0071}Luise-chan... I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0269",
    "jp": "{FFF5}{v:0072}逃げないで、ミーシャ。{p}{v:0073}確かにミーシャの記憶は違ってたかもしれない。{n}でも、そのことで１人で悩んだりしないで。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0072}Don't run away, Misha.{p}{v:0073}Maybe things weren't the way you remembered them.{n}But please don't struggle with this all alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0270",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0271",
    "jp": "・逃げたって何も始まらない事を伝える",
-   "en": "",
+   "en": "・Tell her running won't solve anything",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0272",
    "jp": "・黙って抱きしめる",
-   "en": "",
+   "en": "・Silently embrace her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0273",
    "jp": "・自分たちに任せるように言う",
-   "en": "",
+   "en": "・Tell her to leave it to you all",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen038.0274",
    "jp": "{FFF3}‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0275",
    "jp": "{FFF5}{v:0074}そうだよ。{n}逃げてばかりじゃ、本当の事なんてわかりっこないよ？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0074}That's right. If you keep running away, you'll never find{n}out the truth, will you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0276",
    "jp": "{FFF6}‥‥{v:0049}あ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}...{v:0049}Ah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0277",
    "jp": "{v:004A}１人で悩むな。{n}俺たちは仲間だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Don't struggle with it alone. We're your friends,{n}aren't we?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0278",
    "jp": "{v:004B}そうよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}That's right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0279",
    "jp": "{v:004C}答えは急がなくていい。{n}じっくり考えて、一番正しい方向を見極めるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}You needn't rush to find an answer. Think it through{n}carefully and decide on the best way forward.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0280",
    "jp": "{v:004D}何事も急いじゃダメよ。{n}急いだって、何にもならないんだから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Don't rush things. Hurrying won't do you any good.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0281",
    "jp": "{FFF5}‥‥{v:004E}みんな‥‥。{n}アタシなんかのために‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:004E}Everyone... All this for someone like me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0282",
    "jp": "{FFF5}{v:004F}当たり前じゃない。{n}わたしたち、親友でしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:004F}Of course, Misha. We're best friends, aren't we?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0283",
    "jp": "{FFF5}‥‥‥{v:0050}ありがとう。{p}{FC00}{v:0051}そうだよね。{n}もう少しよく考えてみる。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:0050}Thank you.{p}{FC00}{v:0051}You're right. I'll give it a little more thought.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0284",
    "jp": "{FFF5}‥‥{v:0075}お兄さま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:0075}Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0285",
    "jp": "{v:0076}ほらほら、１人で悩まない！{n}こんなにアンタのことを思ってくれる人たちが{n}いるんだからさ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}Come on, don't fret all by yourself! Look how many{n}people care about you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0286",
    "jp": "{FFF5}{v:0078}お兄さま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0078}Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0287",
    "jp": "{v:0079}そうだな。{n}何のために俺たちがいると思ってるんだ？{n}俺たちは飾りじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}That's right. What do you think we're here for? We're{n}not just for show.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0288",
    "jp": "{v:007A}それに答えは焦って出す物じゃない。{n}今の君に必要なのは、じっくり考えることだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}Besides, you shouldn't rush to find an answer. Right{n}now, you need to take your time and think.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0289",
    "jp": "{FFF5}‥‥{v:007B}みんな、ありがとう‥‥。{p}{FC00}{v:007C}アタシ、もう少し時間をかけて考えてみる。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:007B}Thank you, everyone...{p}{FC00}{v:007C}I'll take a little more time to think it over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0290",
    "jp": "{v:007D}その意気だよ、ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007D}That's the spirit, Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0291",
    "jp": "そこの花畑は私が手入れしてるんですよ。{n}喜んでくれる人も多いし、{n}とってもやりがいがあります。",
-   "en": "",
-   "term": "end"
+   "en": "I tend the flower field over there. So many people enjoy{n}it. It's very rewarding.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0292",
    "jp": "アイリーン？{p}ああ、あの子は本当によく気のきく子でね、{n}とても信頼の出来る人ですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Irene?{p}Oh, she's such a thoughtful girl. You can always count{n}on her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0293",
    "jp": "さて、そろそろ花も育った頃だし、{n}保養所の方に持って行ってあげようかしらね。",
-   "en": "",
-   "term": "end"
+   "en": "Well, the flowers should be ready by now. Perhaps I'll{n}take some over to the sanatorium.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0294",
    "jp": "‥‥戦争のせいで、{n}何人もの方がお亡くなりになっているそうだから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...I've heard that so many people have lost their lives{n}because of the war...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen038.0295",
    "jp": "コラ！{n}ミーシャを放っておくつもり！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! You're just going to leave Misha?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

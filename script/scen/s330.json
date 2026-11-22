@@ -41,9 +41,10 @@
   {
    "id": "scen330.0005",
    "jp": "・特にない",
-   "en": "",
+   "en": "・Nothing in particular",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen330.0006",
@@ -60,9 +61,10 @@
   {
    "id": "scen330.0008",
    "jp": "・嬉しい",
-   "en": "",
+   "en": "・I'm happy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen330.0009",
@@ -365,9 +367,10 @@
   {
    "id": "scen330.0056",
    "jp": "・普通",
-   "en": "",
+   "en": "・Nothing special",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen330.0057",
@@ -631,8 +634,9 @@
   {
    "id": "scen330.0098",
    "jp": "何と言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen330.0099",

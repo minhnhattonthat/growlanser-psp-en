@@ -15,224 +15,261 @@
   {
    "id": "scen094.0001",
    "jp": "ランザック兵",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen094.0002",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen094.0003",
    "jp": "行商人",
-   "en": "",
-   "term": "null"
+   "en": "Peddler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen094.0004",
    "jp": "ちょっと、こっちはローランディア軍の方に{n}行く道でしょ？{n}バーンシュタイン軍は向こう側だよ！{p}さぁ、戻った、戻った！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, this road leads to the Rolandia army, doesn't it?{n}The Burnstein army is the other way!{p}Come on, turn around, turn around!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0005",
    "jp": "待て、{s:0000}！{n}戦場のド真ん中に、突っ込むつもりか！？",
-   "en": "",
-   "term": "end"
+   "en": "Wait, {s:0000}! Are you planning to charge{n}right into the middle of the battlefield?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0006",
    "jp": "{v:004F}これから両国の本隊が来るぞ。{n}今のうちに脱出しよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}The main forces of both countries will be here soon.{n}Let's get out while we can.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0007",
    "jp": "待て、{s:0000}！{n}ランザックの本陣へ、突っ込むつもりか！？",
-   "en": "",
-   "term": "end"
+   "en": "Wait, {s:0000}! Are you planning to charge{n}straight into Ranzak's main camp?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0008",
    "jp": "{v:0004}あ、ランザック軍の後方部隊だね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Oh, that's the Ranzak army's rear guard, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0009",
    "jp": "{v:0005}まだ戦場には到達していないみたいだな。{n}別のルートを使って先回りするんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Looks like they haven't reached the battlefield yet.{n}Take another route and get ahead of them.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0010",
    "jp": "{v:0006}さぁ、戻った、戻った！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Come on, turn around, turn around!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0011",
    "jp": "{v:000C}これで文句はないでしょう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}That should settle any objections, shouldn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0012",
    "jp": "{v:000D}ムッ！{n}これは‥‥。{p}{v:000E}ローランディア王国からの正式な使者か。{n}通ってよし。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Hmm! This is...{p}{v:000E}An official envoy from the Kingdom of Rolandia. You{n}may pass.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0013",
    "jp": "{v:0012}手形はあるようだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}I see you have a travel permit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0014",
    "jp": "{v:0012}手形はあるようだな。{p}‥‥{v:0013}商人か。{n}何を扱っているんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}I see you have a travel permit.{p}...{v:0013}Merchants, eh? What do you sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0015",
    "jp": "{v:0044}え、えっと。{n}アクセサリーを扱っているんです。{p}{v:0014}若い職人さんの細工だから、お値段も安めで、{n}わたしくらいの女の子には、人気があるんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}W-well, um... We sell accessories.{p}{v:0014}They're made by a young artisan, so they're quite{n}affordable. They're popular with girls my age.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0016",
    "jp": "{v:0015}ほう‥‥、私にも君と同じくらいの娘が１人いてな。{n}これなんか、１つ買ってあげると喜んでくれそうだな？{p}{v:0016}いくらするんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Oh...? I have a daughter about your age myself. I think{n}she'd be happy if I bought her something like this.{p}{v:0016}How much is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0017",
    "jp": "{v:0017}え、あの‥‥。{FFF9}{FFFB}{n}{v:0018}え～と‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Oh, um...{FFF9}{FFFB}{v:0018}Let's see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0018",
    "jp": "{v:0019}なんだ、まだ決めてないのか？{n}じゃ、少しはずんでやろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}What, you haven't decided yet? Then I'll give you a{n}little extra.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0019",
    "jp": "{v:001A}道中、気をつけてな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Take care on the road.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0020",
    "jp": "{v:001B}お花の球根や種を売りに行くんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}We're on our way to sell flower bulbs and seeds.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0021",
    "jp": "{v:001C}確かに、いろいろあるな。{n}こういうのは、好事家に高く売れる物なども{n}あるそうだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}You certainly have quite a variety. I hear collectors{n}pay good money for some of these things.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0022",
    "jp": "{v:001D}はい。{n}この球根なんか、珍しい物ですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Yes. This bulb here is quite rare, for example.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0023",
    "jp": "{v:001E}どうも俺には、よくわからん世界だな。{n}ま、道中、気をつけて行ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Can't say I understand that sort of thing. Well, take{n}care on the road.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0024",
    "jp": "{v:001F}私たちは、薬草を売って旅をしています。{n}ついでにこの辺りにしか生息しない薬草も{n}採取しようと思っていますが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}We travel from place to place selling medicinal herbs.{n}We also hope to gather some herbs that only grow in{n}this area...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0025",
    "jp": "{v:0020}薬草売りか‥‥。{n}俺は健康だから、縁があるのは傷薬ぐらいだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Herb sellers, eh...? I'm healthy, so something for cuts{n}and scrapes is about all I ever need.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0026",
    "jp": "{v:0021}多少ならありますよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}We have a little of that, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0027",
    "jp": "{v:0022}いや、特に必要はない。{n}道中、気をつけて行ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}No, I don't need any right now. Take care on the road.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0028",
    "jp": "{v:0023}魔導実験に使う器具を売っている。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}We sell equipment for magical experiments.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0029",
    "jp": "{v:0024}実験器具を売るだと？{n}魔導実験などして、何の意味があるんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}You sell laboratory equipment? What's the point of{n}magical experiments?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0030",
    "jp": "{v:0025}これを見ろ。{n}この義手も魔眼も、魔法を応用したものだ。{n}戦闘に使うものだけが、魔法じゃないぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Look at this. This artificial arm and these magical eyes{n}were both made using magic. There's more to magic{n}than fighting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0031",
    "jp": "{v:0026}貴様ら、我が国の魔導学が遅れているのを{n}いいことに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}You lot are taking advantage of how far behind our{n}country is in magical research...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0032",
    "jp": "{v:0027}だからいい商売になるんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}That's what makes it such good business.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0033",
    "jp": "{v:0028}商魂たくましいな。{n}だが欲は身を滅ぼすぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}You've certainly got a head for business. But greed will{n}be your downfall.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0034",
    "jp": "{v:0029}うむ‥‥、そうだな。{n}俺たちは武器商人だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Hmm... Right. We're weapons merchants.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0035",
    "jp": "{v:002A}武器商人だと！？{n}さては貴様らローランディア国軍部の者ではないのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Weapons merchants?! You're with Rolandia's military,{n}aren't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0036",
    "jp": "{v:002B}早とちりしないでくれ！{p}{v:002C}バーンシュタイン王国とローランディア王国が{n}やばそうだって話だから、仕入れた武器を{n}高く売るつもりで来ただけだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Don't jump to conclusions!{p}{v:002C}We heard things were getting tense between the{n}Kingdom of Burnstein and the Kingdom of Rolandia.{p}We just came to sell the weapons we bought at a{n}good profit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0037",
    "jp": "‥‥{v:002D}どうも、怪しいな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002D}Sounds suspicious to me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0038",
@@ -243,8 +280,9 @@
   {
    "id": "scen094.0039",
    "jp": "{v:0030}あ、あなたには、私がスパイに見えるのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}D-do I look like a spy to you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0040",
@@ -255,299 +293,347 @@
   {
    "id": "scen094.0041",
    "jp": "{v:0032}ちょっと、アンタ！{n}それって、ヒドくない！？{p}{v:0033}こっちのオッサンはともかく、どうしてこの娘たちが軍のまわし者なのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Hey, you! Isn't that a bit mean?!{p}{v:0033}Maybe this old guy, sure, but how could these girls be{n}working for the military?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0042",
    "jp": "{v:0034}わかった、悪かったよ！{p}{v:0035}だがあまり欲をかくと、身を滅ぼすぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}All right, I'm sorry!{p}{v:0035}But get too greedy, and it'll be your downfall.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0043",
    "jp": "{v:0010}これが手形だというのか？{n}お前たちの冗談につきあう暇はないぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}You call this a travel pass? I have no time for{n}your jokes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0044",
    "jp": "{v:0011}引き返すしかないみたいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Looks like we'll have to turn back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0045",
    "jp": "{v:0036}ああ、そうだ。{n}街にはバーンシュタイン王国の兵士がいるらしい。{n}くれぐれも問題を起こすなよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Oh, one more thing. I hear there are soldiers from the{n}Kingdom of Burnstein in town. Be sure you don't cause{n}any trouble.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0046",
    "jp": "{v:0037}は～い！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Okaaay!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0047",
    "jp": "ん？{n}どうかしたのか？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Is something wrong?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0048",
    "jp": "{v:000B}ここから先はランザック王国だ。{n}通行手形のない者を、通すわけにはいかん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Beyond here lies the Kingdom of Ranzak. I cannot let{n}anyone through without a travel pass.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0049",
    "jp": "{v:000F}止まれ！{n}これより先はランザック王国領だ！{n}通行手形のない者を、通すわけにはいかん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Halt! Beyond this point is the territory of the Kingdom{n}of Ranzak! No one passes without a travel pass!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0050",
    "jp": "ちょっと、ランザック王国の関所に来て{n}どうするつもり？{p}さぁ、戻った、戻った！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, what do you think you're doing at the Kingdom of{n}Ranzak's checkpoint?{p}Come on, back we go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0051",
    "jp": "　{n}　　　『{FFEF}ティピの可能性１{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Obtained '{FFEF}Tippi's Potential 1{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0052",
    "jp": "{FFEC}ティピちゃん、きーっく！{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}Tippi-chan kiiick!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0053",
    "jp": "レティシア姫を危険な目にあわせる気！？",
-   "en": "",
-   "term": "end"
+   "en": "Are you trying to put Princess Leticia in danger?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0054",
    "jp": "ちょっと、バーンシュタイン王国の関所に来て{n}どうするつもり？{p}さぁ、戻った、戻った！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, what do you think you're doing at the Kingdom of{n}Burnstein's checkpoint?{p}Come on, back we go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0055",
    "jp": "止まれ！{p}ここから先はバーンシュタイン領だ！{n}ローランディアの者を通すことはできん！",
-   "en": "",
-   "term": "end"
+   "en": "Halt!{p}Beyond here lies Burnstein territory! We cannot let{n}anyone from Rolandia through!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0056",
    "jp": "大人しく帰るがいい！",
-   "en": "",
-   "term": "end"
+   "en": "Turn back without making trouble!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0057",
    "jp": "気を付けて行くんだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Take care on your way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0058",
    "jp": "ん？{n}そこの女性、どこかで見たような‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hm? That woman there... Haven't I seen her{n}somewhere before?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0059",
    "jp": "{v:0039}ふぅっ！{n}さっきのはちょっとヤバかったわね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Whew! That was a little too close...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0060",
    "jp": "{v:003A}ティピとミーシャの機転でうまく切り抜けられたがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}But Tippi and Misha's quick thinking got us through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0061",
    "jp": "{v:003B}ティピとカレンの機転でうまく切り抜けられたがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}But Tippi and Karen's quick thinking got us through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0062",
    "jp": "{v:003C}ティピとルイセの機転でうまく切り抜けられたがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}But Tippi and Luise's quick thinking got us through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0063",
    "jp": "{v:003D}お兄ちゃん、ちゃんと商人の用意してないんだもん。{n}いつもこうだとは限らないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}You didn't prepare properly for us to pose as{n}merchants, Big Brother. We won't always be this lucky...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0064",
    "jp": "どう対応しますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you respond?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0065",
    "jp": "・素直に謝る",
-   "en": "",
+   "en": "・Apologize sincerely",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen094.0066",
    "jp": "・文句を言い返す",
-   "en": "",
+   "en": "・Talk back",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen094.0067",
    "jp": "・落ち込む",
-   "en": "",
+   "en": "・Look dejected",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen094.0068",
    "jp": "{v:003E}わかればいいのよ、わかればね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}As long as you understand. You'd better!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0069",
    "jp": "{v:003F}何よ、コイツ、生意気ぃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Ugh, this guy! What a brat!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0070",
    "jp": "{v:0040}ま、コイツも反省してるみたいだから、{n}今回は許してやるとしよっか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Well, he does look sorry. Shall we let him off this time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0071",
    "jp": "{v:0041}ところでティピ。{n}さっき俺をオッサン呼ばわりしなかったか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}By the way, Tippi. Didn't you call me an old man{n}back there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0072",
    "jp": "{FB00}{v:0042}さ、さぁて‥‥覚えてないわ。{n}ほら、必死だったから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0042}W-well, now... I don't remember. I was desperate,{n}you know...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0073",
    "jp": "‥‥{v:0043}フン。{n}まあ、許してやろう。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0043}Hmph. I'll let it slide.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0074",
    "jp": "{v:0038}無事に通り抜けられたみたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Looks like we made it through safely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0075",
    "jp": "モンスターに追われて、{n}気がついたらこんな所に出てしまったよ。{p}でもこうして君たちに商品をお見せできるから{n}運が良いのか悪いのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Monsters were chasing me, and before I knew it, I'd{n}ended up here.{p}Still, it gives me a chance to show you my wares. I{n}can't tell whether that's good luck or bad...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0076",
    "jp": "装備品と道具、どちらをお求めですか？",
-   "en": "",
-   "term": "end"
+   "en": "Are you looking for equipment or items?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0077",
    "jp": "・装備品",
-   "en": "",
+   "en": "・Equipment",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen094.0078",
    "jp": "・道具",
-   "en": "",
+   "en": "・Items",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen094.0079",
    "jp": "お買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "Would you like to buy or sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0080",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen094.0081",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen094.0082",
    "jp": "他にもご用はおありですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0083",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen094.0084",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen094.0085",
    "jp": "またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0086",
    "jp": "{FFF3}{FE0A}‥{FE0A}‥{FE0A}‥{FE0A}{FFF4}ランザックの後方部隊だ。{n}{FE0A}‥{FE0A}‥{FE0A}急ごうぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{FE0A}..{FE0A}..{FE0A}..{FE0A}{FFF4}Ranzak's rear troops. {FE0A}..{FE0A}..{FE0A}Let's hurry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0087",
    "jp": "ダメだよ、お兄ちゃん！{n}まだレティシア姫を助けていないんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "We can't, Big Brother! We haven't rescued Princess{n}Leticia yet, remember?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen094.0088",
    "jp": "ダメだよ、お兄ちゃん。{n}急いでバーンシュタイン軍の後ろに行かなきゃ{n}いけないんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "We can't, Big Brother. We have to hurry and get behind{n}Burnstein's army, remember?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,104 +15,121 @@
   {
    "id": "scen295.0001",
    "jp": "ミーシャ君は立ち直ってくれたよ。",
-   "en": "",
-   "term": "end"
+   "en": "Misha-kun has found her feet again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0002",
    "jp": "学問は好きかい？{n}僕は知りたいことがたくさんあってね。{n}いくら勉強しても足りないよ。{p}このまま一生、学問を楽しめそうだ。",
-   "en": "",
-   "term": "end"
+   "en": "Do you enjoy studying? There are so many things I{n}want to know. No matter how much I study, it's{n}never enough.{p}At this rate, I could happily spend my whole{n}life learning.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0003",
    "jp": "僕は科学と魔法、両方を合わせた技術の{n}研究をしているんだ。{p}まあその分、倍の疑問が出て来るんだけどね。",
-   "en": "",
-   "term": "end"
+   "en": "I'm researching technology that combines science{n}and magic.{p}Of course, that means twice as many questions{n}come up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0004",
    "jp": "科学も魔法も、学問としての学び方は同じなんだ。{n}研究していると二つの力は{n}実によく似ていることがわかる。",
-   "en": "",
-   "term": "end"
+   "en": "Science and magic call for the same approach to study.{n}As you research them, you realize just how similar the{n}two forces are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0005",
    "jp": "技術って言うのは人が使うためにあるわけだ。{n}だから、人という要素を抜きに{n}技術を考えることはできないんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "Technology exists for people to use. So you can't{n}consider technology without taking people{n}into account.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0006",
    "jp": "新しい技術が、{n}人のためになるとは限らない。{p}でも、危険な技術にも興味は湧くものだよ。{n}大きな力というのは人を引きつけるんだ。{p}だから、誘惑に負けないようにしないとね。",
-   "en": "",
-   "term": "end"
+   "en": "New technology doesn't always benefit people.{p}But even dangerous technology can arouse our{n}curiosity. Great power draws people in.{p}That's why we must be careful not to give in{n}to temptation.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0007",
    "jp": "最近は魔導機械の研究ばかりしているけど、{n}考えてみればいろいろやってきたよ。{p}魔導生命や詠唱技術なんかもね。{n}もちろん、一つも無駄にはなっていない。{p}今の研究に生かされているんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "Lately, I've been researching nothing but magical{n}machinery, but looking back, I've studied all sorts{n}of things.{p}Magical life and incantation techniques, for instance. Of{n}course, none of it has gone to waste.{p}It all contributes to my current research.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0008",
    "jp": "魔法学院にはいろんな研究者がいる。{n}なかなか面白い人たちばかりだよ。{p}そんな人たちと交流を持つのも{n}楽しみの一つさ。",
-   "en": "",
-   "term": "end"
+   "en": "There are all sorts of researchers at the Magic{n}Academy. They're quite an interesting bunch.{p}Getting to exchange ideas with them is one of the{n}pleasures of working there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0009",
    "jp": "魔法は精神の力で使うとされている。{n}でも、最近の学説ではそれが否定されつつ{n}あるんだよ。{p}つまりは、肉体を制御するのと同様に{n}目に見えない何かを動かしているって事さ。",
-   "en": "",
-   "term": "end"
+   "en": "Magic is thought to be powered by the mind. But recent{n}theories have begun to challenge that view.{p}In other words, we may be moving something invisible,{n}much as we control our own bodies.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0010",
    "jp": "フェザリアンが飛ぶところを見ただろう？{n}純粋に科学的な分析をすると、{n}あの翼では空を飛べない。{p}あの翼は魔力を帯びていて、{n}それが光を放つんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "You've seen a Featherian fly, haven't you? From a{n}purely scientific standpoint, those wings couldn't{n}support flight.{p}The wings are imbued with magic, and that's what makes{n}them glow.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0011",
    "jp": "あの飛行装置で空を飛んだとき、{n}ローザリアの街が眼下に見下ろせた。{p}あれだけの街が点のように見えてね。{n}世界は広いって感じたよ。",
-   "en": "",
-   "term": "end"
+   "en": "When I flew in that apparatus, I could look down on{n}the city of Rosaria.{p}Even a city that size looked like a tiny dot. It made me{n}realize how vast the world is.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0012",
    "jp": "グローシアンとフェザリアンは、{n}互いが互いの技術を{n}取り入れて文明を発達させている。{p}二つの種族の発想が一つになることによって、{n}大きな進歩を遂げたんだ。",
-   "en": "",
-   "term": "end"
+   "en": "The Growsians and Featherians developed their{n}civilizations by adopting each other's technology.{p}Bringing the ideas of the two peoples together led to{n}tremendous progress.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0013",
    "jp": "戦いは好きじゃないけど、{n}武術そのものは嫌いじゃないんだ。{p}あれだって一つの学問になり得るね。",
-   "en": "",
-   "term": "end"
+   "en": "I don't enjoy fighting, but I have nothing against{n}martial arts themselves.{p}They could be a field of study in their own right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0014",
    "jp": "古来から、戦術戦略は研究され続けている。{n}魔法の発展はそれと無関係ではないんだよ。{p}だから、魔法学院は平和利用のために{n}厳しく管理されているんだ。",
-   "en": "",
-   "term": "end"
+   "en": "People have studied tactics and strategy since ancient{n}times. The development of magic is tied to that, too.{p}That's why the Magic Academy is strictly regulated, to{n}ensure its work serves peaceful purposes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0015",
    "jp": "僕は、父さんから剣を習ったんだ。{n}自衛のために戦わねばならぬ時があるって{n}教えられてね。",
-   "en": "",
-   "term": "end"
+   "en": "My father taught me swordsmanship. He told me there{n}are times when you have to fight to defend yourself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0016",
    "jp": "子供の頃、父さんに連れられ、{n}初めてあの岬へ行ったときの事は忘れない。{p}あれ以来、何度、足を運んだことか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'll never forget the first time my father took me to{n}that cape as a child.{p}How many times have I gone back since then...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0017",
    "jp": "ブローニュ村の野菜はよくできているだろう？{n}でも、あそこは元々、栽培に適した土地では{n}なかったんだよ。{p}長年かけて土地の質を変えたのさ。{n}それが人間の力だよ。",
-   "en": "",
-   "term": "end"
+   "en": "The vegetables in Boulogne Village grow well, don't{n}they? But the land wasn't originally suited{n}to cultivation.{p}They spent years improving the soil. That's what human{n}effort can accomplish.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0018",
@@ -123,44 +140,51 @@
   {
    "id": "scen295.0019",
    "jp": "学問は常に、人のためのものだ。{n}どんな技術も、使われて初めて意味があるからね。{p}だから、自分の研究がどう人に影響するのか、{n}常に頭の片隅で考えていなければならないんだよ。{p}忘れてしまいがちだけどね。",
-   "en": "",
-   "term": "end"
+   "en": "Scholarship must always serve people. After all,{n}technology only has meaning when it's put to use.{p}So we must always keep in mind how our research{n}affects people's lives.{p}It's easy to forget that, though.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0020",
    "jp": "グローシュの流れを制御してその力で{n}何らかの現象を起こすのが魔法だ。{p}そのなかでも、一般的に見ることのできる魔法は{n}個人が呪文を唱え、その場で発動させるものばかりだ。{p}しかしそれは、ごく一部のものでしかないんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "Magic works by controlling the flow of Grosh and using{n}its power to produce some kind of effect.{p}The magic we usually see involves an individual reciting a{n}spell and activating it on the spot.{p}But that's only a small part of what magic can do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0021",
    "jp": "はじめて自分の唱えた魔法が発動したときの感動は{n}忘れられないよ。{p}もっとも、その時は疲労のあまり{n}動けなくなってしまったけどね。",
-   "en": "",
-   "term": "end"
+   "en": "I'll never forget the thrill of casting my first{n}successful spell.{p}Though I was so exhausted afterward that I{n}couldn't move.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0022",
    "jp": "君たちと一緒に行けたら楽しいだろうね。{n}役に立てることがあったら{n}いつでも声をかけておくれよ。",
-   "en": "",
-   "term": "end"
+   "en": "It would be fun to go along with you all. If there's{n}anything I can help with, just let me know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0023",
    "jp": "みんなはどうしてるんだろうね？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder what everyone else is doing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0024",
    "jp": "やあ、また会ったね。",
-   "en": "",
-   "term": "end"
+   "en": "Hello! We meet again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen295.0025",
    "jp": "どこ行こうか？",
-   "en": "",
-   "term": "end"
+   "en": "Where should I go?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

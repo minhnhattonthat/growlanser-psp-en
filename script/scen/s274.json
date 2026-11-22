@@ -15,100 +15,116 @@
   {
    "id": "scen274.0001",
    "jp": "{FFEE}ジュリアンを守り仮面騎士を倒せ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect Julian and defeat the Masked Knight!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0002",
    "jp": "{v:00FC}ぐぉぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00FC}Graaagh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0003",
    "jp": "{v:00FE}ち、ちょっと、ジュリアン！{n}目を開けてよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00FE}H-hey, Julian! Open your eyes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0004",
    "jp": "{v:00FF}ち、ちょっと、アンタ！{n}目を開けてよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00FF}H-hey, you! Open your eyes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0005",
    "jp": "ル、ルイセちゃん！！",
-   "en": "",
-   "term": "end"
+   "en": "L-Luise-chan!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0006",
    "jp": "{v:00F8}お、お兄ちゃん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F8}B-Big Brother?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0007",
    "jp": "ルイセにも戦わせますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you let Luise fight, too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0008",
    "jp": "・一緒に戦わせる",
-   "en": "",
+   "en": "・Let her fight alongside you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen274.0009",
    "jp": "・手出し無用！",
-   "en": "",
+   "en": "・Stay out of this!",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen274.0010",
    "jp": "{v:00F9}うん、お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F9}All right, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0011",
    "jp": "{v:00FA}奇襲に失敗した以上、長居は無用か。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00FA}Now that our ambush has failed, there is no point{n}in lingering.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0012",
    "jp": "{v:00FB}この借り、忘れはせん。{n}次に会うときは、覚悟しておくのだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00FB}I will not forget what I owe you for this. Be ready the{n}next time we meet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0013",
    "jp": "{v:00F5}負けるな！{n}それでも私が認めた男か！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F5}Do not lose! Are you truly the man I deemed worthy?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0014",
    "jp": "{v:00F6}ぐぅ‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F6}Guh...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0015",
    "jp": "{v:00F7}そのまま一気に蹴散らせ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F7}Keep going! Sweep them aside!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen274.0016",
    "jp": "お兄ちゃん大丈夫！？",
-   "en": "",
-   "term": "end"
+   "en": "Are you all right, Big Brother?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

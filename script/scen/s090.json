@@ -15,700 +15,815 @@
   {
    "id": "scen090.0001",
    "jp": "立て札",
-   "en": "",
-   "term": "null"
+   "en": "Sign",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen090.0002",
    "jp": "王都への帰還途中",
-   "en": "",
-   "term": "end"
+   "en": "On the way back to the royal capital",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0003",
    "jp": "{v:0021}もう敵はいないみたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Looks like there aren't any enemies left.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0004",
    "jp": "{v:0022}手応えのない奴らだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}They hardly put up a fight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0005",
    "jp": "{v:0023}ジュリアンさんが来てくれて助かったね、お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}It's a good thing Julian-san came to help, isn't it,{n}Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0006",
    "jp": "{v:0024}迷いは断ち切れたのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Have you put your doubts to rest?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0007",
    "jp": "{v:0025}あの時、聞き忘れたことがある。{n}あなたを戦いに駆り立てる信念とは何なのか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}There is something I forgot to ask you then. What{n}conviction drives you to fight?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0008",
    "jp": "‥‥{v:0026}うむ。{n}それを聞いて納得するなら、話してやる。{p}{v:0027}十数年前、俺はある傭兵団にいた。{n}だがある事故で傭兵団は壊滅してしまった。{p}{v:0028}その時、行方不明になった団長を探している。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0026}All right. If hearing it will satisfy you, I'll tell you.{p}{v:0027}Over ten years ago, I belonged to a mercenary{n}company. An accident wiped us out.{p}{v:0028}Our captain went missing then. I've been looking{n}for him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0009",
    "jp": "{v:0029}大事な人なのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Is he important to you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0010",
    "jp": "{v:002A}恩人だ。{n}元々団長に拾われた命、{n}彼のために使おうと決めている。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}I owe him my life. The captain saved me once. I've{n}decided to spend that life serving him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0011",
    "jp": "{v:002B}でももう十何年も探してるんでしょ？{n}正直見つかると思えないなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}But you've been looking for over ten years, right?{n}Honestly, I don't think you're going to find him...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0012",
    "jp": "{v:002C}ティピ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Tippi!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0013",
    "jp": "{v:002D}だって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0014",
    "jp": "{v:002E}その事故とは、いったい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}What exactly happened in this accident...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0015",
    "jp": "{v:002F}俺達はバーンシュタイン王国にある水晶鉱山を{n}警備していた。{n}ある時、化け物が暴れるという事件があった。{p}{v:0030}警備についていた部下は全滅。{n}化け物を追った団長はそのまま帰らなかった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}We were guarding a crystal mine in the kingdom of{n}Burnstein. One day, a monster went on a rampage.{p}{v:0030}All the men on guard were killed. The captain went after{n}the monster and never came back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0016",
    "jp": "‥‥{v:0031}そうか。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0031}I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0017",
    "jp": "{v:0032}ここまで見つからんと生きているのか‥‥。{p}{v:0033}だが自分なりにケリが付くまで、{n}俺は旅を続けるつもりだ。{FFF9}{FFFB}{n}{v:0034}自分でそう決めたからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}After all this time without finding him, I wonder if he's{n}still alive...{p}{v:0033}But I'll keep traveling until I can put it to rest my own{n}way.{FFF9}{FFFB}{v:0034}That's what I've decided.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0018",
    "jp": "{v:0035}ウォレスさん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Wallace-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0019",
    "jp": "{v:0036}だが元の生活に戻る前に、なまった体を戻さないとな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}But before I get back to my old life, I'll have to get{n}this rusty body back in shape.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0020",
    "jp": "‥‥{v:0037}私も‥‥私もしばらく一緒にいて良いか？{n}皆の生き様を見ながら、{n}私なりの信念について考えてみたい。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0037}May I... may I stay with you a while, too? I would like{n}to watch how you all live and reflect on my{n}own convictions.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0021",
    "jp": "{v:0038}それは俺よりもコイツらに聞くべきだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}You should ask these kids, not me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0022",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0023",
    "jp": "・好きにさせておく",
-   "en": "",
+   "en": "・Let Julian do as he likes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen090.0024",
    "jp": "・一緒に行動する",
-   "en": "",
+   "en": "・Travel together",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen090.0025",
    "jp": "・断る",
-   "en": "",
+   "en": "・Refuse",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen090.0026",
    "jp": "{v:003C}冷たい言い方だなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}That's a pretty cold way to put it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0027",
    "jp": "{v:003D}お兄ちゃん、照れてるだけなの。{n}好きなだけ一緒にいていいから、ね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Big Brother's just feeling shy. You can stay with us as{n}long as you like, all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0028",
    "jp": "{v:003E}ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0029",
    "jp": "{v:003A}そうだね。一緒に行こうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}That's right. Let's go together!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0030",
    "jp": "{v:003B}そうか。すまないな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}I see. You have my thanks.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0031",
    "jp": "{v:003F}そうか。無理を言ってすまなかった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}I see. Forgive me for asking too much.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0032",
    "jp": "{v:0040}ちょっと、アンタ！{n}困ってる人を見捨てる気？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Hey, you! You're just going to abandon someone who{n}needs help?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0033",
    "jp": "{v:0041}気を悪くしないでね、{n}お兄ちゃんって気むずかしいから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Please don't be upset. Big Brother can be hard{n}to please...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0034",
    "jp": "{v:0042}いや。私も甘えすぎていたかも知れない。{p}{v:0043}だが一緒に村に戻るくらいなら構わないだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}No. Perhaps I was relying on your kindness too much.{p}{v:0043}But surely you would not mind if I just accompanied{n}you back to the village?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0035",
    "jp": "{v:0044}それくらい構わないよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}That much is fine, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0036",
    "jp": "　{n}　　　　　{FFEF}ジュリアンが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Julian is now accompanying the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0037",
    "jp": "{v:0045}それじゃ、村へ戻るか。{n}それとも中で休んでいくか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Well, shall we head back to the village? Or rest{n}inside first?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0038",
    "jp": "{v:0046}休むって？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Rest where?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0039",
    "jp": "{v:0047}この山小屋さ。{n}何もないところだが、疲れくらいは癒せるだろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}In this mountain cabin. There's nothing in there, but we{n}can at least rest our weary bones.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0040",
    "jp": "山小屋の前",
-   "en": "",
-   "term": "end"
+   "en": "Outside the Mountain Cabin",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0041",
    "jp": "{v:0001}この先の山小屋で不審な人物を見かけたそうだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Someone suspicious was reportedly seen at the{n}mountain cabin up ahead.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0042",
    "jp": "{v:0002}それじゃ、早く研究書を取り戻そうよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Then let's hurry up and get those research notes back!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0043",
    "jp": "{v:0003}待て！{n}誰か来るぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Wait! Someone's coming!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0044",
    "jp": "{v:0004}ムッ！{n}追っ手か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Hm?! Are they after us?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0045",
    "jp": "{v:0005}サンドラ様の研究書を盗んだのはお前たちか？{n}大人しく研究書を返すんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Are you the ones who stole Sandra-sama's research{n}notes? Return them without a fuss.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0046",
    "jp": "{v:0006}せっかく奪った物を返すと思うか？{p}{v:0007}集合！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}You think we'd give them back after all the trouble we{n}took to steal them?{p}{v:0007}Everyone, assemble!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0047",
    "jp": "{v:0008}作戦開始！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Begin the operation!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0048",
    "jp": "{v:0009}えっ？{FFF9}{FFFB}{n}{v:000A}誰がマスターの研究書をもってるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Huh?{FFF9}{FFFB}{v:000A}Who's got Master's research notes?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0049",
    "jp": "{v:000B}わ、わかんないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}I-I don't know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0050",
    "jp": "{v:000C}とにかく１人も逃がすな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Just don't let a single one escape!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0051",
    "jp": "{v:0008}ここでサンドラ様の魔導書を取り返したんだっけ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}This is where we recovered Sandra-sama's research{n}notes, wasn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0052",
    "jp": "{v:0009}そうそう。{n}あのとき、ジュリアンが来てくれて助かったよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Right, right! Good thing Julian showed up then, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0053",
    "jp": "{v:000A}私がいなくても、何とか出来たと思うがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}I think you would have managed without me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0054",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0055",
    "jp": "{v:000B}やっぱり、ダメみたいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Looks like it's no use after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0056",
    "jp": "どうする？お兄ちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "What should we do, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0057",
    "jp": "・ここで休む",
-   "en": "",
+   "en": "・Rest here",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen090.0058",
    "jp": "・このまま戻る",
-   "en": "",
+   "en": "・Head straight back",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen090.0059",
    "jp": "そうだね。{n}少し休もうよ！",
-   "en": "",
-   "term": "end"
+   "en": "Good idea. Let's rest a little!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0060",
    "jp": "う～ん、元気★元気！{n}それじゃ、戻ろうよ！",
-   "en": "",
-   "term": "end"
+   "en": "Mmm, all rested and ready to go! Come on, let's{n}head back!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0061",
    "jp": "それじゃ、戻ろうよ！",
-   "en": "",
-   "term": "end"
+   "en": "Then let's head back!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0062",
    "jp": "鍵がかかっているようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It seems to be locked...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0063",
    "jp": "ここから北へ向かえば山小屋がある。{n}南東へ向かえば、魔法学院方面だ。",
-   "en": "",
-   "term": "end"
+   "en": "Head north from here to reach the mountain cabin.{n}Southeast takes you toward the Magic Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0064",
    "jp": "{FFF0}デリス村入り口{FFF1}{n}　　東のＴ字路を北に行くと{FFF0}山小屋{FFF1}{n}　　　　　　　　南に行くと{FFF0}洞窟{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}Delis Village Entrance{FFF1}{n}At the T-junction to the east:{n}North: {FFF0}Mountain Cabin{FFF1}{p}South: {FFF0}Cave{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0065",
    "jp": "怖かったよ～[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "That was scaaary![01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0066",
    "jp": "俺も、あそこまでデカイのは初めて見た。{n}思いも寄らぬ戦いを、強いられたものだな。{p}一度、デリス村まで戻って、{n}休んだ方がいいかもしれん。",
-   "en": "",
-   "term": "end"
+   "en": "I've never seen one that big either. We were forced{n}into a fight we never saw coming.{p}Might be best to head back to Delis Village and rest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0067",
    "jp": "橋が壊れていて、渡れないね。",
-   "en": "",
-   "term": "end"
+   "en": "The bridge is broken. We can't cross.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0068",
    "jp": "そのうち直るだろう。",
-   "en": "",
-   "term": "end"
+   "en": "They'll fix it eventually.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0069",
    "jp": "寄り道しないで帰ろうよ。",
-   "en": "",
-   "term": "end"
+   "en": "Let's head back without any detours.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0070",
    "jp": "橋が壊れてるよ。",
-   "en": "",
-   "term": "end"
+   "en": "The bridge is broken!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0071",
    "jp": "村人の話だと、突風が吹いて{n}一瞬にして橋が壊されたそうだ。{p}そのうち直るだろう。",
-   "en": "",
-   "term": "end"
+   "en": "The villagers say a sudden gust of wind wrecked the{n}bridge in an instant.{p}They'll fix it eventually.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0072",
    "jp": "どうも様子が変だな。",
-   "en": "",
-   "term": "end"
+   "en": "Something's not right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0073",
    "jp": "どうやらまだこの中にいるみたいだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Looks like they're still in here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0074",
    "jp": "とにかく行ってみましょ！",
-   "en": "",
-   "term": "end"
+   "en": "Well, let's go take a look!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0075",
    "jp": "　{n}　　　　　　３００エルムを手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　Received 300 Elm!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0076",
    "jp": "{v:0024}待て！{p}{v:0025}人の気配がする‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Wait!{p}{v:0025}I sense someone nearby...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0077",
    "jp": "{v:0026}うわぁ‥‥。{n}今の見た！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Whoa... Did you see that?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0078",
    "jp": "‥‥{v:0027}見ちゃった。{n}なんであんな仕掛けがあるの？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0027}I did. What's a mechanism like that doing here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0079",
    "jp": "‥‥{v:0028}まだ断定は出来ねぇが、いよいよ怪しい。{p}{v:0029}俺たちも後を追うぞ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0028}Can't say for sure yet, but this is looking more{n}suspicious by the minute.{p}{v:0029}We're following them.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0080",
    "jp": "岩のすき間に金属の突起が出ている。{n}押してみますか？",
-   "en": "",
-   "term": "end"
+   "en": "A piece of metal protrudes from a gap in the rocks.{n}Press it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0081",
    "jp": "隠しスイッチがあった場所に{n}ローランディア王国の印の入った封がしてある。{n}どうやら操作できないようだ。",
-   "en": "",
-   "term": "end"
+   "en": "The hidden switch has been sealed off with the crest{n}of the kingdom of Rolandia. It seems you cannot{n}operate it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0082",
    "jp": "{v:002C}やったね、お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}You did it, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0083",
    "jp": "『{FFEF}毛皮のコート{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Fur Coat{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0084",
    "jp": "{n}　　　　『{FFEF}毛皮のコート{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "{n}　　　　Obtained '{FFEF}Fur Coat{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0085",
    "jp": "『{FFEF}回復薬{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found a '{FFEF}healing potion{FFF1}', but you cannot carry{n}any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0086",
    "jp": "{n}　　　　　　『{FFEF}回復薬{FFF1}』を手に入れた！　　　　　　",
-   "en": "",
-   "term": "end"
+   "en": "{n}　　　　　　Obtained '{FFEF}healing potion{FFF1}'!　　　　　　",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0087",
    "jp": "{v:000F}ん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Hm?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0088",
    "jp": "{v:0010}どうしたの、ティピ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}What's wrong, Tippi?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0089",
    "jp": "{v:0011}今、何か聞こえなかった？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Didn't you just hear something?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0090",
    "jp": "{v:0012}別に聞こえなかったけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}I didn't hear anything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0091",
    "jp": "{v:0013}ほらっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}There!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0092",
    "jp": "{FFF6}{FFF2}{v:0014}きゃあーーっ！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{FFF2}{v:0014}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0093",
    "jp": "{FFF6}{v:0015}いやーー！{n}つぶされちゃうーっ！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{v:0015}Nooo! We're going to be crushed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0094",
    "jp": "{v:0016}えっ？{n}落ちてこない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Huh? It's not falling?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0095",
    "jp": "{v:0017}違う！{n}頭上で止まってるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}No! It's stopped right above us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0096",
    "jp": "{v:0018}助かった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}We're safe...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0097",
    "jp": "{v:0019}でも変じゃなかった？{n}アタシ達を避けるように落ちたよ？{p}{v:001A}ルイセちゃんの力‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}But wasn't that weird? The rocks fell like they were{n}avoiding us!{p}{v:001A}Was that Luise-chan's power...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0098",
    "jp": "{v:001B}わ、わたし、何もしてないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}I-I didn't do anything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0099",
    "jp": "{v:001C}アンタは何だと思う？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}What do you think it was?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0100",
    "jp": "今の現象は何だと思いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What do you think just happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0101",
    "jp": "・ルイセのグローシュパワー",
-   "en": "",
+   "en": "・It was Luise's Grosh power",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen090.0102",
    "jp": "・ルイセとは別の力が働いた",
-   "en": "",
+   "en": "・A power other than Luise's intervened",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen090.0103",
    "jp": "・見当がつかない",
-   "en": "",
+   "en": "・You have no idea",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen090.0104",
    "jp": "{v:001D}そうだよね。{n}他にそんな力を発現できるなんて考えられないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Right? I can't imagine anything else producing power{n}like that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0105",
    "jp": "{v:001E}でも‥わたしじゃないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}But... it wasn't me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0106",
    "jp": "{v:001F}別の力って何よ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}What other power?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0107",
    "jp": "{v:0020}う～ん、不思議なこともあるモンね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Hmm... Strange things really do happen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0108",
    "jp": "{v:0021}とにかく、助かったんだ。{n}それで良かったじゃねぇか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Whatever it was, we're alive. That's good enough,{n}isn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0109",
    "jp": "{v:0022}う～ん、気になる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Hmm... It's bugging me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0110",
    "jp": "{v:0023}でもここで考えても仕方ないし、{n}また落石があるかもしれないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}But there's no point standing here thinking about it.{n}There could be another rockfall.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0111",
    "jp": "{FB00}{v:0024}う‥‥。{FFFA}{p}{FC02}{v:0025}ちょっとアンタ、{n}いつまでここでボーッっとしてんのよ！{n}早く行くわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0024}Ugh...{FFFA}{p}{FC02}{v:0025}Hey, you! How long are you going to stand there{n}spacing out?! Get moving!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0112",
    "jp": "{v:000C}あ、ここ、ここ！{n}最初にここを通ったとき、突然上が崩れてきて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Oh, here! Right here! The first time we came through,{n}the ceiling suddenly collapsed...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0113",
    "jp": "{v:000D}生き埋めになるかと思ったよな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Thought we'd be buried alive.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0114",
    "jp": "{v:000E}でも、あの宝石が突然光って、{n}岩がアタシ達の上にだけ落ちなかったのよね。{n}まったく、不思議な現象だったわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}But then that gem suddenly shone, and the rocks fell{n}everywhere except on us. That was really strange.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0115",
    "jp": "{v:000F}これでもダメか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Even this isn't working...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen090.0116",

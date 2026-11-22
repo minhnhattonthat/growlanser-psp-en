@@ -15,136 +15,158 @@
   {
    "id": "scen088.0001",
    "jp": "道標",
-   "en": "",
-   "term": "null"
+   "en": "Signpost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen088.0002",
    "jp": "男",
-   "en": "",
-   "term": "null"
+   "en": "Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen088.0003",
    "jp": "立て札",
-   "en": "",
-   "term": "null"
+   "en": "Sign",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen088.0004",
    "jp": "輸送兵",
-   "en": "",
-   "term": "null"
+   "en": "Transport Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen088.0005",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen088.0006",
    "jp": "女性",
-   "en": "",
-   "term": "null"
+   "en": "Woman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen088.0007",
    "jp": "輸送用動物",
-   "en": "",
-   "term": "null"
+   "en": "Pack Animal",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen088.0008",
    "jp": "どう？　初めての戦闘は緊張した？",
-   "en": "",
-   "term": "end"
+   "en": "So? Were you nervous in your first battle?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0009",
    "jp": "誰でも最初はそんなものよ。{n}あとは少しずつなれていってね。",
-   "en": "",
-   "term": "end"
+   "en": "Everyone's like that at first. You'll get used to it little{n}by little.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0010",
    "jp": "へぇ～。{n}余裕じゃない。",
-   "en": "",
-   "term": "end"
+   "en": "Ohhh? Taking it all in stride, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0011",
    "jp": "あと、もう１つ教えておくね。{p}のらモンスターとの距離が一定以内になったら{n}戦闘になるの。{p}だから戦いたくないときは、{n}モンスターに近づくなってことね。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, there's one more thing you should know.{p}Get close enough to a roaming monster, and a{n}battle starts.{p}So if you don't want to fight, keep your distance{n}from monsters!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0012",
    "jp": "ついでに戦闘から逃げる方法も知りたい？",
-   "en": "",
-   "term": "end"
+   "en": "While we're at it, wanna know how to run from battle?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0013",
    "jp": "戦闘が始まっちゃってから逃げる方法は、{n}{FFEE}ＭＯＶＥ{FFF1}を使うのよ。{n}逃げる方法には２つあって‥‥。{p}１つは画面内に敵がいないようにする方法。{n}ＭＯＶＥするとリーダー（{FFEE}移動時の先頭{FFF1}）を{n}中心に画面が動くから、それを利用すればいいの。{p}２つめは、マップが切り替わる場所まで{n}リーダーが移動すればいいよ。{n}簡単でしょ？{p}でも、逃げられない戦闘もあるはずだけど‥‥。{n}普通は今教えた方法で逃げられるよ★",
-   "en": "",
-   "term": "end"
+   "en": "Once a battle starts, use {FFEE}MOVE{FFF1} to escape. There are{n}two ways to do it...{p}First, get all the enemies off the screen.{p}When you use MOVE, the screen follows the leader{n}({FFEE}whoever's at the front when you travel{FFF1}), so use that{n}to your advantage.{p}Second, just move the leader to a spot where you can{n}leave the map. Easy, right?{p}There are probably some battles you can't escape from,{n}though... But usually, those tricks will get you out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0014",
    "jp": "じゃあ、この調子で{n}どんどんモンスターをやっつけていこう！",
-   "en": "",
-   "term": "end"
+   "en": "Then let's keep this up and take down more monsters!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0015",
    "jp": "見て！{n}ゲルがいるよ！{p}ねぇ。{n}アンタって戦うのって初めてだよね？",
-   "en": "",
-   "term": "end"
+   "en": "Look! There's a Gel!{p}Hey, you've never fought before, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0016",
    "jp": "アンタの頼み方によっては、{n}アタシが直々に、戦いのイロハってヤツを{n}伝授してあげてもいいけど？",
-   "en": "",
-   "term": "end"
+   "en": "If you ask nicely, I might just teach you the basics of{n}battle myself!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0017",
    "jp": "教えて欲しい？",
-   "en": "",
-   "term": "end"
+   "en": "Want me to teach you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0018",
    "jp": "・戦い方を教えてもらう",
-   "en": "",
+   "en": "・Ask her how to fight",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen088.0019",
    "jp": "・特に必要ない",
-   "en": "",
+   "en": "・No need",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen088.0020",
    "jp": "任せなさい！{n}じゃ、アタシが教えてあげるね♪",
-   "en": "",
-   "term": "end"
+   "en": "Leave it to me! I'll show you how it's done♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0021",
    "jp": "　　　　　{FFEE}戦況をわかりやすくするため{n}　　　　　専用モードに切り換えます{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　　　　　{FFEE}Switching to a special mode{n}　　　　　to make the battle clearer.{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0022",
    "jp": "へぇ～、自信あるじゃない。{n}じゃ、アンタの戦いぶりをじっくり見させてもらうわ。",
-   "en": "",
-   "term": "end"
+   "en": "Ohhh, aren't you confident! Then I'll be watching very{n}closely to see how you fight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0023",
@@ -155,179 +177,208 @@
   {
    "id": "scen088.0024",
    "jp": "{v:0006}おーい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Heeey!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0025",
    "jp": "{v:0007}ねぇ、誰か呼んでるよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Hey, someone's calling!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0026",
    "jp": "{v:0008}えぇ、ウソ！{FFF2}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Huh?! No way!{FFF2}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0027",
    "jp": "‥{FE14}‥{FE14}‥{FE14}。",
-   "en": "",
-   "term": "end"
+   "en": "...{FE14}...{FE14}...{FE14}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0028",
    "jp": "{FB00}{v:0009}お兄さまそっくり！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0009}He looks just like Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0029",
    "jp": "‥‥{v:000A}やっぱりそうなのか？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000A}So it is true?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0030",
    "jp": "{v:000B}何が『やっぱりそうか』なの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}What do you mean, 'So it is true'?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0031",
    "jp": "{v:000C}突然で失礼。{p}{v:000D}私はラルフという者だ。{n}私は生まれて間もなく生き別れとなった双子の弟を{n}探している。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Forgive the sudden intrusion.{p}{v:000D}My name is Ralph. I am searching for my younger twin{n}brother. We were separated shortly after birth.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0032",
    "jp": "{v:000E}双子の‥‥弟？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Your younger... twin brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0033",
    "jp": "{v:000F}そうだ。{n}街の中で彼を見かけ気になって追ってきたのだが‥‥。{p}{v:0010}見れば見るほど似ている‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Yes. I saw him in town and followed him, wondering if it{n}could be him...{p}{v:0010}The more I look, the more alike we seem...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0034",
    "jp": "{v:0011}そんなに似ているのか？{n}俺には知る方法がないからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Do you really look that much alike? I've no way to tell.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0035",
    "jp": "{v:0012}似てるなんてモンじゃないよ！{n}まるで同じ人間だよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Alike doesn't even begin to cover it! You look like the{n}same person!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0036",
    "jp": "{v:0013}ちょっと、蹴ってみてイイ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Hey, can I try kicking you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0037",
    "jp": "{v:0014}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0038",
    "jp": "{v:0015}もう、ティピったら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Oh, Tippi...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0039",
    "jp": "{v:0016}ああ、ウソウソ、じょ～だん！{n}蹴り心地も同じかなって、思ったから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Ahaha, kidding! Just kiiidding! I was wondering if kicking{n}him would feel the same...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0040",
    "jp": "{v:0017}でも本当にそっくりだねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}But you really do look exactly alike!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0041",
    "jp": "{v:0018}それが双子の証明になるだろ？{p}{v:0019}ひょっとして君、誰かに育てられたとか、{n}そういったことはないかい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}That proves we're twins, doesn't it?{p}{v:0019}By any chance, were you raised by someone other than{n}your parents?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0042",
    "jp": "{v:001A}確かにお兄ちゃんは、{n}お母さんに引き取られて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Well, Mother did take Big Brother in...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0043",
    "jp": "{v:001B}疑う余地もないわね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}That settles it, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0044",
    "jp": "{v:001C}どうだろう、やっと肉親と会えたんだ、{n}こんなところで立ち話じゃなく、{n}街に戻ってゆっくり話さないか？{p}{v:001D}実は宿を取ってあるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}We've finally found our own flesh and blood. Rather than{n}standing around here, why don't we go back to town{n}and take our time talking?{p}{v:001D}I've actually booked a room at the inn.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0045",
    "jp": "ラルフとローランディアの宿に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Go with Ralph to the inn in Rolandia?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0046",
    "jp": "・みんなに任せる",
-   "en": "",
+   "en": "・Let everyone else decide",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen088.0047",
    "jp": "・行く",
-   "en": "",
+   "en": "・Go",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen088.0048",
    "jp": "・行かない",
-   "en": "",
+   "en": "・Don't go",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen088.0049",
    "jp": "{v:001F}何を遠慮しているんだ。{n}俺たちに気遣う必要なんてないぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}What's holding you back? You don't need to worry{n}about us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0050",
    "jp": "{v:0020}そうだよ、お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}That's right, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0051",
    "jp": "{v:0021}決まりだね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Then it's settled?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0052",
    "jp": "{v:0022}慌てて追いかけてきた甲斐があったよ。{n}さあ、行こう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}I'm glad I hurried after you. Come on, let's go.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0053",
@@ -344,434 +395,506 @@
   {
    "id": "scen088.0055",
    "jp": "ここは現在街道を造っている。{n}関係者以外立入禁止だ！",
-   "en": "",
-   "term": "end"
+   "en": "We're building a road here. Authorized personnel only!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0056",
    "jp": "ん？　俺か？{n}見ての通り道を造ってるんだ。{n}仲間はいま森の奥に入って作業してるのさ。",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Me? I'm building a road, as you can see. The{n}others are working farther into the forest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0057",
    "jp": "ふぅ‥、疲れた、疲れた。{p}ん？{n}何で休んでるんだって、顔をしてるな？{p}木を切るのは大変だから、{n}こうやって交代しながら作業してるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "Phew... I'm beat. Absolutely beat.{p}Hm? You've got that look. Wondering why I'm resting?{p}Cutting down trees is hard work, so we take turns{n}like this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0058",
    "jp": "　{n}　　　　　　{FFF0}安全第一！　整理整頓！{FFF1}{n}　　{FFEF}～ローランディア・ランバージャック組合～{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFF0}Safety First! Keep Things Tidy!{FFF1}{n}{FFEF}Rolandia Lumberjacks' Union{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0059",
    "jp": "おい。{n}少し先行して欲しいって頼まれただろ？{n}前方の安全を確保しないとマズイぞ？",
-   "en": "",
-   "term": "end"
+   "en": "Hey. They asked us to go a little ahead, remember?{n}We'd better make sure the road's clear.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0060",
    "jp": "おい。{n}俺たちは輸送隊の護衛だぞ。{n}あまり先行しすぎても、マズイぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey. We're guarding the supply convoy. We can't get{n}too far ahead of them.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0061",
    "jp": "頼んだぞ！",
-   "en": "",
-   "term": "end"
+   "en": "We're counting on you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0062",
    "jp": "少しでも早く、物資を送ってあげないと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We have to get these supplies to them as soon as{n}we can...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0063",
    "jp": "我々はあまり戦い慣れていないので、{n}しっかり護衛して下さいよ。",
-   "en": "",
-   "term": "end"
+   "en": "We're not very used to fighting, so please make sure{n}you protect us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0064",
    "jp": "アンタねぇ‥‥。{n}なんでこんなザコ相手に、それを使うのよ！{n}いざって時に使えって言われたでしょ！{p}もうアンタに持たせとくの不安だから、{n}アタシが持っとくわ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, you... Why'd you use that on these weaklings?! You{n}were told to save it for an emergency!{p}I don't trust you with it anymore, so I'M keeping it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0065",
    "jp": "お、重い‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "S-so heavy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0066",
    "jp": "　{n}　　　　　{FFEE}通常フィールド画面に戻ります{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEE}Returning to the normal field screen.{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0067",
    "jp": "おい。{n}俺たちは輸送隊の護衛中だぞ。{n}どこへ行く気だ？",
-   "en": "",
-   "term": "end"
+   "en": "Hey. We're supposed to be guarding the supply{n}convoy. Where do you think you're going?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0068",
    "jp": "おい。{n}輸送隊に一声かけた方が、いいんじゃないか？",
-   "en": "",
-   "term": "end"
+   "en": "Hey. Shouldn't we have a word with the supply convoy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0069",
    "jp": "{v:0004}おお、来てくれたか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Ah, you came.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0070",
    "jp": "この先のノストリッジ平原は戦場だぞ。{n}それに途中はモンスターが出没して危険だ。{n}一般人を通すわけにはいかない。",
-   "en": "",
-   "term": "end"
+   "en": "The Nostridge Plains ahead are a battlefield. Monsters{n}roam the road there, too. It's dangerous. I can't let{n}civilians through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0071",
    "jp": "大丈夫よ、アタシたち強いし、一般人じゃないから。",
-   "en": "",
-   "term": "end"
+   "en": "We'll be fine! We're strong, and we're no{n}ordinary civilians.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0072",
    "jp": "そういう問題じゃない。{n}事がすむまでは誰も通すなとの命令だ。",
-   "en": "",
-   "term": "end"
+   "en": "That's beside the point. My orders are to let no one{n}through until this is over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0073",
    "jp": "ぶーーっ！{n}ケチ！",
-   "en": "",
-   "term": "end"
+   "en": "Boooo! Meany!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0074",
    "jp": "君たちが護衛を買って出てくれたって？{n}よろしく頼むよ。",
-   "en": "",
-   "term": "end"
+   "en": "I hear you volunteered to guard us? We're counting{n}on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0075",
    "jp": "‥‥ずっと立っているのも疲れるものだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Standing here all day wears you out...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0076",
    "jp": "まぁ、そう言うなよ、相棒。{n}これが俺たちの仕事なんだから。{p}君たちも自分の仕事には責任を持つんだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, don't be like that, partner. It's our job.{p}You lot had better take your own duties{n}seriously, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0077",
    "jp": "{v:0006}では早速出発する。{n}離れないでついてきてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Then we'll set off at once. Follow us and stay close.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0078",
    "jp": "いつでも出発できます。",
-   "en": "",
-   "term": "end"
+   "en": "We're ready to leave whenever you are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0079",
    "jp": "君たちに頼みがある。{n}できれば、我々よりも少し先行して進んでくれ。",
-   "en": "",
-   "term": "end"
+   "en": "I have a favor to ask. If possible, please go a little{n}ahead of us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0080",
    "jp": "‥‥{v:0069}逃げ足の速い奴だ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0069}He's quick on his feet when he's running away.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0081",
    "jp": "{v:006A}兄さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0082",
    "jp": "カレン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Karen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0083",
    "jp": "{v:0084}ねぇねぇ！{n}お月様が出てるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0084}Hey, hey! The moon's out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0084",
    "jp": "{v:0085}きれいなお月様だねぇ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}What a pretty moon...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0085",
    "jp": "‥‥{v:0000}アレ？{n}ねぇ、あれ見て、{FFEC}あれ！{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0000}Huh? Hey, look! Over {FFEC}there!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0086",
    "jp": "{v:0001}フフン。{n}なかなかカワイイじゃねぇか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Heh. Ain't you a pretty little thing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0087",
    "jp": "{v:0002}な、何ですか、あなた達‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}W-what do you want...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0088",
    "jp": "{v:0003}ちょいと俺たちと来てもらおうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}How about you come with us?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0089",
    "jp": "{v:0004}そんな‥‥、どうして‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}But... why...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0090",
    "jp": "{v:0005}うるせぇな！{n}黙ってついてこい！{n}あんまりうるせぇと、痛い目見るぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Shut your mouth! Just come along! Keep making a fuss{n}and you'll get hurt!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0091",
    "jp": "{v:0006}た、助けて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}H-help!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0092",
    "jp": "{v:0007}あの連中、無理矢理あの女の人をさらうつもりだよ！{n}助けてあげようよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Those guys are trying to drag that woman off! We've{n}gotta help her!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0093",
    "jp": "{v:0008}そう来なくっちゃ！{p}{v:0009}ようし！{n}やっちゃえ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}That's more like it!{p}{v:0009}All right! Get 'em!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0094",
    "jp": "{v:000A}ん？　声が‥‥。{p}{v:000B}お、おい！{n}あのガキに見られちまったぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Huh? I heard someone...{p}{v:000B}H-hey! That kid saw us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0095",
    "jp": "{v:000C}チッ！{n}こんな時に‥‥。{p}{v:000D}お前らはあのガキを血祭りに上げろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Tch! Of all the times...{p}{v:000D}You lot! Beat that brat to a bloody pulp!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0096",
    "jp": "{v:000F}任せとけ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Leave it to me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0097",
    "jp": "{v:000E}おうっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Yeah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0098",
    "jp": "{v:0010}何言ってんのよ！{n}ようし、それなら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}What are you talking about?! Fine, then...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0099",
    "jp": "{v:0011}やい、そこのデクの坊！{n}汚い手で彼女に触るんじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Hey, you big oaf! Keep your filthy hands off her!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0100",
    "jp": "{v:0012}何だと、このガキ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}What was that, you brat?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0101",
    "jp": "{v:0013}お前らなんか俺一人でやっつけてやる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}I'll take you all on myself!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0102",
    "jp": "{v:0014}なめやがって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}You think you can make a fool of me?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0103",
    "jp": "{v:0015}おい！{n}あの生意気なガキを血祭りにするぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Hey! Let's beat that mouthy brat bloody!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0104",
    "jp": "{v:0017}さ、後は任せたわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Okay! The rest is up to you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0105",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0106",
    "jp": "{v:006B}大丈夫か、カレン。{n}ケガはないか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}Are you all right, Karen? Are you hurt?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0107",
    "jp": "{v:006C}ええ。{n}この人が助けてくれたから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}I'm fine. He saved me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0108",
    "jp": "{v:006D}そうか。{n}ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006D}I see. Thank you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0109",
    "jp": "{v:006E}俺はゼノス。{n}君のおかげで妹も無事だった。{n}礼を言うよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}I'm Xenos. My sister's safe thanks to you. I owe{n}you one.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0110",
    "jp": "{v:006F}当然のことをしたまでだよね？{n}それより、あの男たちに襲われるような{n}心当たりがあるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006F}We only did what anyone would do, right? Anyway, any{n}idea why those men attacked you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0111",
    "jp": "{v:0070}別に心当たりなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0070}I can't think of any reason...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0112",
    "jp": "{v:0071}俺にもないな。{p}{v:0072}だが奴ら俺の足止めをしていた事を考えると、{n}カレンを連れ去ることが目当てだったらしい。{p}{v:0073}いったい、カレンを連れ去って{n}何をしようってつもりだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}Neither can I.{p}{v:0072}But considering they were holding me up, it looks like{n}taking Karen was their aim.{p}{v:0073}What on earth were they planning to do with her?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0113",
    "jp": "{v:0074}それにしても、あの手勢を相手にできるなんて、{n}お前もそうとう腕が立つようだな。{p}{v:0075}やっぱり闘技大会に出るつもりか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0074}Still, taking on that many men... You must be{n}pretty skilled.{p}{v:0075}I take it you're entering the tournament too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0114",
    "jp": "{v:0076}闘技大会？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}Tournament?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0115",
    "jp": "{v:0077}知らないのか？{p}{v:0078}年に一度、コロシアムで開かれる大会のことだ。{n}優勝者は国から正騎士として抜擢されることも{n}あるそうだ。{p}{v:0079}俺も今年は闘技大会に出るつもりだ。{n}もしも参加するなら、その時はよろしくな。{p}{v:007A}もっとも、優勝は俺がいただくがな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0077}You haven't heard of it?{p}{v:0078}It's held once a year at the Coliseum. I hear the{n}kingdom sometimes selects the winner to become a{n}full knight.{p}{v:0079}I'm entering this year's tournament myself. If you enter{n}too, I'll see you there.{p}{v:007A}Of course, the championship's mine!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0116",
    "jp": "{v:007B}もう、兄さんったら。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007B}Oh, Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0117",
    "jp": "{v:007C}とにかく、今日はありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007C}Anyway, thanks for today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0118",
    "jp": "{v:007D}本当にありがとうございました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007D}Thank you so much.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0119",
    "jp": "{v:007E}２人とも気をつけてね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}Take care, you two!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0120",
    "jp": "{v:007F}仲のいい兄妹だね。{n}アンタとルイセちゃんもあんな感じなの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007F}Those two sure are close. Are you and Luise-chan like{n}that too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0121",
    "jp": "{v:0080}さて、アタシ達も帰ろうよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0080}Well, let's head home too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0122",
    "jp": "あの２人、大丈夫かな？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder if those two are all right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0123",
    "jp": "ちょっと！{n}あの２人の様子を見た方が、いいんじゃないの？",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Shouldn't we check on those two?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0124",
    "jp": "{v:0081}どうしたの？{n}寝るなら家に戻ってからにしなよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0081}What's wrong? If you're going to sleep, wait till we{n}get home...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0125",
    "jp": "{v:0082}ねぇ？　ちょっと！？{n}どうしちゃったのよ、ねぇ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0082}Hey! Come on! What's wrong with you?! Hey!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0126",
    "jp": "{v:0083}大変だ！{n}人を呼んでこなきゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0083}This is bad! I've gotta get help!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0127",
@@ -782,14 +905,16 @@
   {
    "id": "scen088.0128",
    "jp": "王都の方へ行くのは、やめた方がいいぞ。{n}さっきから盗賊がウロウロしている。{n}だから俺は、ここで野宿することにしたよ。{p}ところで、俺は行商人をやっていてね。{n}せっかく君と出会えたことだ‥‥。{n}商売をやらせてもらおう。",
-   "en": "",
-   "term": "end"
+   "en": "You'd better not head toward the capital. Bandits have{n}been prowling around there, so I've decided to camp{n}here for the night.{p}By the way, I'm a peddler. Since we've happened to{n}meet... How about a little business?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0129",
    "jp": "さあ、いらっしゃい。{n}回復薬しかないが、ぜひ買ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "Come on over! I've only got healing potions, but do{n}buy some.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0130",
@@ -800,38 +925,44 @@
   {
    "id": "scen088.0131",
    "jp": "まだ戦いなれてないんだから、{n}あんまり無理しない方がいいよ。{p}{FC00}お家に戻ってベッドで寝れば、{n}また元気になるんだからさ★",
-   "en": "",
-   "term": "end"
+   "en": "You're still getting used to fighting, so don't push{n}yourself too hard.{p}{FC00}Go home and sleep in your bed, and you'll be good{n}as new!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0132",
    "jp": "クエッ？",
-   "en": "",
-   "term": "end"
+   "en": "Kweh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0133",
    "jp": "クケッ？",
-   "en": "",
-   "term": "end"
+   "en": "Kwek?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0134",
    "jp": "‥‥クゥ～‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Kooo...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0135",
    "jp": "クエェッ！",
-   "en": "",
-   "term": "end"
+   "en": "Kweeeh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen088.0136",
    "jp": "‥‥ケッ！",
-   "en": "",
-   "term": "end"
+   "en": "...Keh!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,366 +15,426 @@
   {
    "id": "scen055.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen055.0002",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen055.0003",
    "jp": "バーンシュタイン王国直轄地",
-   "en": "",
-   "term": "end"
+   "en": "Burnstein Royal Domain",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0004",
    "jp": "{v:0000}ここにバーンシュタイン王国の{n}アンジェラ様がいるのね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}So this is where Angela-sama of Burnstein is staying?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0005",
    "jp": "‥‥{v:0001}ねえ、バーンシュタインの兵士がいるよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0001}Hey, there are Burnstein soldiers here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0006",
    "jp": "{v:0002}当たり前だろ？{n}ここはバーンシュタイン内だし、{n}王母を幽閉しているようなところだぞ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Of course there are. We're in Burnstein, and this is{n}where they're keeping the Queen Mother locked{n}up, remember?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0007",
    "jp": "{v:0003}どうやってアンジェラ様に会うんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}How are we going to see Angela-sama?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0008",
    "jp": "・強行突破",
-   "en": "",
+   "en": "・Force our way through",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen055.0009",
    "jp": "・堂々と通る",
-   "en": "",
+   "en": "・Walk right in",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen055.0010",
    "jp": "・アンジェラが出てくるまで待つ",
-   "en": "",
+   "en": "・Wait for Angela to come out",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen055.0011",
    "jp": "・何も考えていない",
-   "en": "",
+   "en": "・I haven't thought of anything",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen055.0012",
    "jp": "{v:0004}ちょっと、お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Wait, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0013",
    "jp": "{v:0005}アンタ、何考えてんの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Hey, you! What are you even thinking?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0014",
    "jp": "{v:0006}それは無理ですよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}That wouldn't work, would it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0015",
    "jp": "{v:0007}堂々と！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Walk right in?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0016",
    "jp": "{v:0008}大丈夫なの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Will that be all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0017",
    "jp": "‥‥{v:0009}大丈夫かもな。{n}こっちにはエリオットがいるんだし。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0009}Might just work. We've got Elliot with us, after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0018",
    "jp": "‥‥‥{v:000A}あ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "......{v:000A}Oh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0019",
    "jp": "{v:000B}頼んだぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}We're counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0020",
    "jp": "{v:000C}なるほど！{n}入れないなら、{n}向こうが出てくるまで待てばいいのか！{p}{FC02}{v:000D}って、冗談じゃないわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Oh, I get it! If we can't get in, we just wait for her to{n}come out!{p}{FC02}{v:000D}Oh, give me a break!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0021",
    "jp": "{v:000E}幽閉されている奴が外へ出てくるわけはないだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}She's locked up. How do you expect her to come out?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0022",
    "jp": "{v:000F}まったく、役に立たないわねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Honestly, you're no help at all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0023",
    "jp": "{v:0010}こんなとき、どうすればいいんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}What should we do in a situation like this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0024",
    "jp": "{v:0011}簡単だ。堂々と門から入ればいい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Simple. Walk straight in through the gate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0025",
    "jp": "{v:0012}えぇっ？{n}堂々と？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Huh? Just walk in?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0026",
    "jp": "{v:0013}で、でも門は閉まってますよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}B-but the gate is closed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0027",
    "jp": "{v:0014}ならば開けさせればいいだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Then have them open it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0028",
    "jp": "{v:0015}誰が？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Who will?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0029",
    "jp": "{v:0016}お前が。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}You.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0030",
    "jp": "‥‥{v:0017}あぁ、そうか！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0017}Oh, right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0031",
    "jp": "{v:0018}止まれ！{n}ここは王族の御領地だ。{n}一般人は立ち去れ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Halt! These are royal lands. Civilians must leave!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0032",
    "jp": "{v:0019}この私に立ち去れというのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}You would order me to leave?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0033",
    "jp": "{v:001A}あっ！？{n}これは王‥‥申し訳ございません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Ah?! Your Ma... Forgive me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0034",
    "jp": "{v:001B}職務に忠実な故の過ちとして見逃すとしよう。{n}それより母上に会いたい。{n}通してくれるな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}I shall overlook your mistake, since it arose from{n}devotion to your duties. More importantly, I wish to see{n}Mother. You will let us pass, yes?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0035",
    "jp": "{v:001C}はっ、今すぐ！{p}{v:001D}しかし、その者たちは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Yes, Your Majesty! At once!{p}{v:001D}But those people with you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0036",
    "jp": "{v:001E}今回の件は人目を忍んでのこと。{n}そのための偽装だ。{n}このこと、内密に頼むぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}This visit must be kept from public view. Hence the{n}disguise. Keep this to yourself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0037",
    "jp": "{v:001F}ハッ！{n}かしこまりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Yes, Your Majesty! Understood!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0038",
    "jp": "{v:0020}どうぞ、お通りください。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Please, go right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0039",
    "jp": "{v:0021}うむ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Very well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0040",
    "jp": "ここは現在、閉鎖しております。",
-   "en": "",
-   "term": "end"
+   "en": "This area is currently closed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0041",
    "jp": "ここはお前たちのような者が来る場所ではない！{n}さっさと帰れ！",
-   "en": "",
-   "term": "end"
+   "en": "This is no place for the likes of you! Get out of here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0042",
    "jp": "これはリシャール王！？{n}私のような下級兵士にもお声をかけて下さるなど‥‥。{n}もったいのうございます‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "King Richard?! To think you would speak even to a lowly{n}soldier like me... I am deeply honored...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0043",
    "jp": "この扉の先は、兵舎になっております。",
-   "en": "",
-   "term": "end"
+   "en": "The barracks are through this door.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0044",
    "jp": "あっ！？{n}こ、これは‥‥リ、リシャール王！？{n}あ、その‥‥ご、ご機嫌うるわしゅう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ah?! Y-You're... K-King Richard?! Ah, um... I-I trust you{n}are well...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0045",
    "jp": "あ～あ‥‥すんごい舞い上がっちゃってるよ[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Oh, boy... He's completely beside himself![01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0046",
    "jp": "{v:0028}失礼します。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Excuse us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0047",
    "jp": "{v:0029}はっ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Ah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0048",
    "jp": "{v:002A}あの‥‥アンジェラ様ですね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Um... You are Angela-sama, aren't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0049",
    "jp": "‥‥{v:002B}そうですが、あなた達は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002B}Yes, but who are you...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0050",
    "jp": "‥‥{v:002C}初めまして、母上。{n}僕はエリオット。{n}あなたの、本当の息子です。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002C}It is a pleasure to meet you, Mother. My name is{n}Elliot. I am your true son.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0051",
    "jp": "{v:002D}えぇ？{n}何を言っているのですか？{n}あなたは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}What? What are you saying? You are...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0052",
    "jp": "{v:002F}エリオット、ヴェンツェルからもらった手紙を。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Elliot, the letter Wenzel gave you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0053",
    "jp": "{v:0030}あ、はい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Oh, yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0054",
    "jp": "　{n}　　『{FFEF}ヴェンツェルからの手紙{FFF1}』を渡した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Handed over the '{FFEF}Letter from Wenzel{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0055",
    "jp": "{v:0031}これは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}This is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0056",
    "jp": "{v:0032}宮廷魔術師ヴェンツェルから預かった手紙です。{n}細かいことはそこに書かれています。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Court Magician Wenzel entrusted us with this letter. It{n}explains the details.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0057",
    "jp": "{v:0033}ざっと説明すると、今王位についている奴は偽者で、{n}ここにいるのが本当の王子だ。{p}{v:0034}まだ赤ん坊の頃、バーンシュタイン王国を{n}手に入れようと企む化け物によって{n}すり替えられたんだ。{p}{v:0035}だがヴェンツェルは本物の赤ん坊、{n}つまり本当の王子を助け、育てたらしい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}To put it simply, the man on the throne is an{n}impostor. This boy here is the real prince.{p}{v:0034}He was switched as a baby by a monster plotting to{n}take over the kingdom of Burnstein.{p}{v:0035}But it seems Wenzel saved the real baby--the true{n}prince--and raised him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0058",
    "jp": "{v:0036}それがあなたなの‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}And that is you...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0059",
    "jp": "{v:0037}そうらしいです。{FFF9}{FFFB}{n}‥‥{v:0038}自分でも信じられないけど。{p}{FC07}{FA60}{v:0039}このブレスレットが証拠だそうです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}That's what I've been told.{FFF9}{FFFB} ...{v:0038}I can hardly believe{n}it myself.{p}{FC07}{FA60}{v:0039}Apparently, this bracelet is the proof.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0060",
    "jp": "{v:003A}それは‥‥王位の腕輪‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}That is... the Royal Bracelet...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0061",
@@ -385,296 +445,345 @@
   {
    "id": "scen055.0062",
    "jp": "{v:003C}そのブレスレットの内側には、王子の誕生を祝う{n}宮廷魔術師３人の署名が彫り込まれているのです。{p}{v:003D}おそらく偽者のブレスレットは表面だけを{n}真似たものでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Inside that bracelet are the engraved signatures of{n}three Court Magicians, commemorating the{n}prince's birth.{p}{v:003D}The impostor's bracelet is most likely a copy of the{n}outside alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0063",
    "jp": "{v:003E}それじゃ、これを外さないと本物だって{n}信じてもらえないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}So unless he takes it off, you won't believe he's the{n}real prince?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0064",
    "jp": "{v:003F}そう言われても、これ、腕にぴったりくっついてて、{n}自分じゃ外せないんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}But it fits so tightly around my wrist that I can't take{n}it off myself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0065",
    "jp": "{v:0040}それじゃ王母様に本物だって証明できないじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Then we can't prove to the Queen Mother that you're{n}the real prince!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0066",
    "jp": "{v:0041}心配しなくても、それより確かな方法があります。{p}{v:0042}後ろを向いて首筋を見せてください。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Do not worry. There is a more certain way.{p}{v:0042}Please turn around and show me the back of{n}your neck.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0067",
    "jp": "{v:0043}え‥‥はい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Huh...? All right...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0068",
    "jp": "‥‥{v:0044}わずかだけど、ちゃんと残ってる‥‥。{p}{v:0045}ああ、やっぱりあなたが私の子供だったのですね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0044}It is faint, but it is still there...{p}{v:0045}Oh... I knew it. You truly are my child...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0069",
    "jp": "{v:0047}あの、僕の首筋に、何が？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Um, what's on the back of my neck?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0070",
    "jp": "{v:0048}実はあなたは生まれたての頃、{n}首筋にやけどを負ったことがあったのです。{n}このことは私と、当時のメイド数人しか知りません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}When you were a newborn, you suffered a burn on the{n}back of your neck. Only I and a few maids who served{n}us then know of it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0071",
    "jp": "‥‥{v:0049}僕もはじめて知りました。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0049}Even I never knew that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0072",
    "jp": "{v:004B}あなたには、わずかですがその痕が残っています。{n}ですが今の王にはその痕が見あたりません。{n}私はそのことを気にしていたのですが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}You still bear a faint scar. Yet I can find no such scar{n}on the present king. That has been troubling me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0073",
    "jp": "{v:004C}偽者は母親の直感から、正体がばれることを恐れて{n}アンジェラ様をここに幽閉したのですね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}The impostor feared that a mother's intuition would{n}expose him, so he confined Angela-sama here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0074",
    "jp": "{v:004D}偽者は母親の直感から、正体がばれることを恐れて{n}あなたをここに幽閉したのですね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}The impostor feared that a mother's intuition would{n}expose him, so he confined you here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0075",
    "jp": "{v:004E}偽者は母親の直感から、正体がばれることを恐れて{n}アンジェラ様をここに幽閉したんだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}So the impostor locked Angela-sama up here, afraid a{n}mother's instincts would give him away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0076",
    "jp": "{v:004F}とにかく、これで今の王が始めた戦争を止められるね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Anyway, now we can stop the war the current{n}king started!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0077",
    "jp": "{v:0050}この戦争の原因になった、グレッグ卿の事件‥‥。{n}私はその真相を知っています。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}The incident involving Lord Greg that caused this war...{n}I know the truth of it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0078",
    "jp": "{v:0051}えっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0079",
    "jp": "{v:0052}リシャールが怪しげな男に命じて、偽のグレッグ卿を{n}仕立てあげ、わざと自分に斬りかかるように{n}指示しているところを、立ち聞きしてしまいました。{p}{v:0054}リシャールはゲヴェルという異形のために、{n}わざと戦争を起こすきっかけを作ったのでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}I overheard Richard ordering a suspicious-looking man{n}to prepare a false Lord Greg and have him stage a{n}sword attack on Richard himself.{p}{v:0054}Richard must have deliberately created a pretext for{n}war for the sake of a monstrous being called Gevel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0080",
    "jp": "{v:0055}そうだったのか‥‥。{p}{FC00}{v:0056}我々はローランディアの者ですが、{n}彼の王位を取り戻すために協力をするつもりです。{n}これはアルカディウス王の考えでもあります。{p}{v:0057}あなたにも是非協力していただきたいのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}So that is what happened...{p}{FC00}{v:0056}We are from Rolandia, but we intend to help him reclaim{n}his throne. King Alcadius shares this wish.{p}{v:0057}We would very much like your assistance as well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0081",
    "jp": "{v:0058}そうですね。{p}{v:0059}少し遠いのですが協力してくれるであろう人物を{n}知っています。{n}私を彼の元まで連れて行って下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Of course.{p}{v:0059}I know someone who would likely help us, though he is{n}some distance away. Please take me to him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0082",
    "jp": "{v:005A}それって、どこ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Where's that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0083",
    "jp": "{v:005B}それは街道に出てから話しましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Let us discuss that once we reach the road.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0084",
    "jp": "　{n}　　　　{FFEF}王母アンジェラが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Queen Mother Angela is now accompanying{n}the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0085",
    "jp": "これは、リシャール王。",
-   "en": "",
-   "term": "end"
+   "en": "Ah, King Richard.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0086",
    "jp": "アンジェラ様でしたら、あちらにいらっしゃいます。",
-   "en": "",
-   "term": "end"
+   "en": "If you are looking for Angela-sama, she is over there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0087",
    "jp": "アンジェラ様も。{n}どちらかお出かけですか？",
-   "en": "",
-   "term": "end"
+   "en": "Angela-sama, you are here as well. Are you{n}going somewhere?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0088",
    "jp": "あっ、リシャール王。",
-   "en": "",
-   "term": "end"
+   "en": "Ah, King Richard.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0089",
    "jp": "申し訳ございません。{n}ここから先は、{n}例え王であろうとお入れすることは出来ません。",
-   "en": "",
-   "term": "end"
+   "en": "My apologies. I cannot allow anyone past this point,{n}even the king.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0090",
    "jp": "ただいまの所、別に異常はありません。",
-   "en": "",
-   "term": "end"
+   "en": "There is nothing unusual to report at present.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0091",
    "jp": "これはアンジェラ様。{n}お城に戻られるのですね。",
-   "en": "",
-   "term": "end"
+   "en": "Ah, Angela-sama. You are returning to the{n}castle, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0092",
    "jp": "アンジェラ様にお会いになりに来られたのですか？{n}でしたらこちらではなく、館の方ですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Have you come to see Angela-sama? She is at the{n}manor, not here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0093",
    "jp": "ふう、ここの警護は楽でいいなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Whew, guard duty here sure is easy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0094",
    "jp": "そうだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Yeah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0095",
    "jp": "こ、これはリシャール王！？",
-   "en": "",
-   "term": "end"
+   "en": "K-King Richard?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0096",
    "jp": "ちゃ、ちゃんと警護しているであります！！",
-   "en": "",
-   "term": "end"
+   "en": "W-We're keeping proper watch, Your Majesty!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0097",
    "jp": "{v:005C}これは王？{n}どこへ行かれるのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Your Majesty? Where are you going?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0098",
    "jp": "{v:005D}母上を城へお連れするのだ。{n}私の計画に必要なのでな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}I am taking Mother to the castle. She is needed for{n}my plans.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0099",
    "jp": "{v:005E}は、はぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}Y-Yes, Your Majesty...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0100",
    "jp": "どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please, go right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0101",
    "jp": "‥‥‥{v:0022}は～‥‥、怖かったぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0022}Whew... That was terrifying...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0102",
    "jp": "{v:0023}何言ってんのよ、すっごくうまかったわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}What are you talking about? You were amazing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0103",
    "jp": "{v:0024}うんうん、本物かと思っちゃった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Uh-huh! I thought you were the real thing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0104",
    "jp": "{v:0025}これならいつ王位を取り戻しても大丈夫じゃねぇか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Looks like you're ready to take back the throne any{n}time, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0105",
    "jp": "{v:0026}もう、勝手なこと言わないでくださいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Oh, come on! Please don't say things like that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0106",
    "jp": "{v:0027}さて、あと一息だ。{n}気を抜かず頼むぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Right, just a little farther. Keep your guard up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0107",
    "jp": "えっ、ここでテレポートやってもいいの？",
-   "en": "",
-   "term": "end"
+   "en": "Huh? Is it really okay to use Teleport here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0108",
    "jp": "兵士が見ているところでテレポートはまずいだろ。",
-   "en": "",
-   "term": "end"
+   "en": "Using Teleport with soldiers watching would be a{n}bad idea.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0109",
    "jp": "そうよね。{n}アタシ達がローランディアの者だってバレちゃうよ。",
-   "en": "",
-   "term": "end"
+   "en": "You're right. They'd find out we're from Rolandia!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen055.0110",
    "jp": "せめて、この館から離れて街道筋まで行った方がいい。",
-   "en": "",
-   "term": "end"
+   "en": "We should at least leave the manor and get out onto{n}the road first.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

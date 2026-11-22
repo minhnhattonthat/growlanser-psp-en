@@ -15,32 +15,37 @@
   {
    "id": "scen093.0001",
    "jp": "道標",
-   "en": "",
-   "term": "null"
+   "en": "Signpost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen093.0002",
    "jp": "ルイセ",
-   "en": "",
-   "term": "null"
+   "en": "Luise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen093.0003",
    "jp": "ミーシャ",
-   "en": "",
-   "term": "null"
+   "en": "Misha",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen093.0004",
    "jp": "カレン",
-   "en": "",
-   "term": "null"
+   "en": "Karen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen093.0005",
    "jp": "ジュリアン",
-   "en": "",
-   "term": "null"
+   "en": "Julian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen093.0006",
@@ -51,690 +56,803 @@
   {
    "id": "scen093.0007",
    "jp": "時空制御塔～基部・外観～",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower -- Base Exterior",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0008",
    "jp": "ほら！{n}他の人が待ってるでしょ！{n}はやくパーティーを選びなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Come on! Everyone's waiting! Hurry up and choose{n}your party!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0009",
    "jp": "１人でどこへ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going all alone?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0010",
    "jp": "{v:0000}これだな。{n}この中にヴェンツェルがいる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}This is it. Wenzel's in there...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0011",
    "jp": "{v:0001}いよいよ最後の戦いだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}It's finally time for the last battle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0012",
    "jp": "{v:0000}ねえ、お兄ちゃん‥‥。{n}話があるんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Um, Big Brother... There's something I want to{n}talk about...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0013",
    "jp": "{v:0001}ちょっと向こうまで来てくれるかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Could you step over there with me for a moment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0014",
    "jp": "{FFF3}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0015",
    "jp": "がんばろうね、お兄ちゃん。{n}絶対、ぜったい、勝とうね？",
-   "en": "",
-   "term": "end"
+   "en": "Let's do our best, Big Brother. We'll win for sure...{n}absolutely for sure, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0016",
    "jp": "{v:0000}さて‥‥突入の前に少しお前に{n}話しておきたいことがあるんだが？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Well... There's something I'd like to tell you before we{n}go in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0017",
    "jp": "{v:0001}ちょっといいか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Got a moment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0018",
    "jp": "{v:0002}ここじゃ話しづらいから、{n}ちょっとそこまでつき合ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}It's hard to talk here. Come over there with me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0019",
    "jp": "{v:001D}すまん。{n}突入前の気をそいでしまったな。{p}{v:001E}大したことではないから忘れてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Sorry. I've distracted you just before we go in.{p}{v:001E}It's nothing important. Forget it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0020",
    "jp": "全てはお前にかかっている。{n}頼むぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Everything depends on you. We're counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0021",
    "jp": "{v:0000}お兄さま、ちょっといいかな‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Big Brother, do you have a moment...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0022",
    "jp": "お兄さま。わたし、ちょっと感動です。{p}だって、落ちこぼれなわたしが{n}世界を救う場にいるなんて。{n}絶対勝ちましょうね！",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, I'm a little overwhelmed.{p}I mean, a hopeless student like me, here to help save{n}the world! Let's make sure we win!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0023",
    "jp": "{v:0000}ちょっといいかな？{n}君に話しておきたいことがあるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Do you have a moment? There's something I'd like to{n}tell you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0024",
    "jp": "{v:0001}その辺までつきあってくれないか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Would you come over there with me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0025",
    "jp": "{v:0019}すまなかった。{n}突入前の気をそいでしまったみたいだ。{p}{v:001A}大したことではないから忘れてくれていいよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}I'm sorry. I seem to have distracted you just before{n}we go in.{p}{v:001A}It's nothing important, so you can forget about it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0026",
    "jp": "フェザリアンと人間の未来のために、{n}絶対負けられない戦いだね。",
-   "en": "",
-   "term": "end"
+   "en": "For the future of Featherians and humans alike, this is{n}a battle we simply can't lose.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0027",
    "jp": "{v:0000}あの‥、{FFF9}{FFFB}{n}{v:0001}お話があります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Um...{FFF9}{FFFB} {v:0001}There's something I'd like to talk about.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0028",
    "jp": "{v:0002}ちょっとそこまで来ていただけませんか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Could you please come over there with me for{n}a moment...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0029",
    "jp": "あなたには何と言っていいのか‥‥。{n}感謝という言葉しか見つからない自分が{n}なさけないです。{p}でも、絶対に勝ちましょうね？",
-   "en": "",
-   "term": "end"
+   "en": "I don't know what to say to you... I feel so inadequate{n}when all I can find are words of thanks.{p}But let's make sure we win, all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0030",
    "jp": "{v:0000}おい、ちょっとそこまでつき合ってもらえないか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hey, could you come over there with me for a bit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0031",
    "jp": "{v:0017}確かにそうだな‥‥。{p}{v:0018}すまんな、こんなときに変なことを言って。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Yeah, you're right...{p}{v:0018}Sorry for saying something so strange at a time{n}like this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0032",
    "jp": "‥‥いよいよだな。",
-   "en": "",
-   "term": "end"
+   "en": "...It's finally time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0033",
    "jp": "{v:0000}すいません、少しお時間をもらえますか？{n}あなたにお話があるんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Excuse me, could I have a little of your time? There's{n}something I'd like to talk to you about.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0034",
    "jp": "‥‥{v:0018}そうですね‥‥。{n}確かに今はそれどころじゃありませんね。{p}{FC00}{v:0019}すいません、わがまま言ってしまって。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0018}You're right... This really isn't the time.{p}{FC00}{v:0019}I'm sorry for being selfish.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0035",
    "jp": "あなたと出会った頃には、こんなことになるなんて、{n}思いもしませんでしたよ。{p}でも、これは現実。{n}悔いが残らないようにがんばりましょう！",
-   "en": "",
-   "term": "end"
+   "en": "When we first met, I never imagined things would turn{n}out like this.{p}But here we are. Let's give it our all, so we have{n}no regrets!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0036",
    "jp": "{v:0000}マイ＝ロード。{n}少しお時間をいただけますでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}My Lord. May I have a moment of your time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0037",
    "jp": "{v:0001}２人きりでお話したいことがあります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}There is something I wish to discuss with you{n}in private.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0038",
    "jp": "最初に出会った時から感じていました。{n}やはり、あなたは大したお方です。{p}あなたは私が守ります、マイ＝ロード！{n}だから、絶対に勝ちましょう。",
-   "en": "",
-   "term": "end"
+   "en": "I have felt it since we first met. You truly are an{n}exceptional person.{p}I will protect you, My Lord! Let us make certain{n}of victory.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0039",
    "jp": "最初に出会った時から感じてはいたのだが、{n}本当に、お前は大した奴だな。{p}この戦い、負けられぬぞ？{n}絶対に勝とうな！",
-   "en": "",
-   "term": "end"
+   "en": "I have felt it since we first met, but you truly{n}are remarkable.{p}We cannot afford to lose this battle. We must win, no{n}matter what!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0040",
    "jp": "{v:0008}さぁて、いよいよ突入よ！{n}ヴェンツェルを倒すんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}All right, time to charge in! We're taking Wenzel down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0041",
    "jp": "{v:0009}待ってくれ！{n}奴は初代シャドー・ナイツ・マスターだ。{n}全員が同時に入っても、ワナにかかる恐れがある。{p}{v:000A}ここは突入する２組、それからここに残る援護班の、{n}計３組に分けないか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Wait! He was the first Shadow Knights Master. If we{n}all go in together, we could fall into a trap.{p}{v:000A}Why don't we split into three groups? Two to go in,{n}and a support team to stay here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0042",
    "jp": "{v:000B}なるほどね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}That makes sense.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0043",
    "jp": "{v:000C}それは俺も賛成だ。{p}{v:000D}お前が連れていきたい奴を２人選ぶといい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}I'm for it, too.{p}{v:000D}Pick two people you want to take with you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0044",
    "jp": "{v:000E}アタシを連れてってくれるんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}You're taking me with you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0045",
    "jp": "{v:000F}お兄さま、アタシ、絶対がんばります！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Big Brother, I'll give it everything I've got!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0046",
    "jp": "{v:0010}それじゃ、お兄さまとは別の班でがんばります！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Then I'll do my best on a different team from you,{n}Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0047",
    "jp": "{v:0011}僕が一緒に行けばいいのかい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Would you like me to come with you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0048",
    "jp": "{v:0012}精一杯、がんばらせてもらうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}I'll give it my very best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0049",
    "jp": "{v:0013}一緒に戦えないのは残念だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}It's a shame we won't be fighting together.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0050",
    "jp": "{v:0014}私にお手伝いさせてもらえますか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Will you let me help you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0051",
    "jp": "{v:0015}はい。{n}がんばります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Yes. I'll do my best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0052",
    "jp": "{v:0016}私は、他の方と一緒に行きますね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}I'll go with the others, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0053",
    "jp": "{v:0017}俺の力が必要だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}You need my strength, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0054",
    "jp": "{v:0018}へへっ。{n}俺を選ぶなんて、わかってるじゃねぇか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Heh! You picked me. You know what you're doing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0055",
    "jp": "{v:0019}どっちが先にヴェンツェルを倒せるか、競争だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Let's see which of us takes Wenzel down first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0056",
    "jp": "{v:001A}僕を連れてって下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Please take me with you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0057",
    "jp": "{v:001B}ありがとうございます！{n}絶対に勝ちましょう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Thank you! Let's make sure we win!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0058",
    "jp": "{v:001C}一緒には行けないけど、がんばります！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}I won't be going with you, but I'll do my best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0059",
    "jp": "{v:001D}私を選んでくれるのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}You would choose me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0060",
    "jp": "{v:001E}私はこの世界のために、命をかける！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}I will risk my life for this world!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0061",
    "jp": "{v:001F}こちらの指揮は私に任せて欲しい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Leave command of this group to me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0062",
    "jp": "自分が連れていきたいメンバーを選ぶといい。",
-   "en": "",
-   "term": "end"
+   "en": "Choose the companions you wish to take.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0063",
    "jp": "突入準備はいいかい？",
-   "en": "",
-   "term": "end"
+   "en": "Are you ready to go in?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0064",
    "jp": "・パーティーを組み直す",
-   "en": "",
+   "en": "・Change the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0065",
    "jp": "・突入する",
-   "en": "",
+   "en": "・Go in",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0066",
    "jp": "一度、入れ替えメンバーを外すよ。{n}よく考えてメンバーを選ぶといい。",
-   "en": "",
-   "term": "end"
+   "en": "I'll remove the members you can swap out for now.{n}Think carefully about whom you choose.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0067",
    "jp": "お気を付けて。",
-   "en": "",
-   "term": "end"
+   "en": "Please take care.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0068",
    "jp": "あ、お兄さま。{n}アタシの力が必要なんですね！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother! You need my help, don't you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0069",
    "jp": "パーティーを入れ替えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Change your party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0070",
    "jp": "・ミーシャをメンバーに加える",
-   "en": "",
+   "en": "・Add Misha to the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0071",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add anyone for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0072",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will leave the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0073",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0074",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0075",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0076",
    "jp": "アタシ、がんばっちゃうね！",
-   "en": "",
-   "term": "end"
+   "en": "I'll give it my all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0077",
    "jp": "そうですか‥‥。{n}ちょっとガッカリ‥‥。{p}{FC00}でも、でも！{n}ご用があったら、いつでもどうぞ！{n}アタシ、がんばりますから！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I see... That's a little disappointing...{p}{FC00}But, but! If you need anything, just ask! I'll do my{n}very best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0078",
    "jp": "ん？{n}僕の力が必要なのかな？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Do you need my help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0079",
    "jp": "アリオストを仲間に加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add Ariost to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0080",
    "jp": "　{n}　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Ariost joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0081",
    "jp": "ありがとう、がんばるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks. I'll do my best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0082",
    "jp": "そうかい。{n}僕の力が必要になったら、{n}いつでも声をかけてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "I see. If you need my help, just let me know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0083",
    "jp": "私の手が必要か？",
-   "en": "",
-   "term": "end"
+   "en": "Do you require my assistance?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0084",
    "jp": "　{n}　　　　　　{FFEF}ジュリアンが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Julian joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0085",
    "jp": "期待してくれ。",
-   "en": "",
-   "term": "end"
+   "en": "You can count on me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0086",
    "jp": "援護は任せてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "Leave the support to me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0087",
    "jp": "僕の力が必要ですか？",
-   "en": "",
-   "term": "end"
+   "en": "Do you need my help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0088",
    "jp": "　{n}　　　　{FFEF}エリオットが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Elliot joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0089",
    "jp": "はりきって行きましょう！",
-   "en": "",
-   "term": "end"
+   "en": "Let's give it our all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0090",
    "jp": "‥‥最後の戦いです。{n}がんばりましょう！",
-   "en": "",
-   "term": "end"
+   "en": "...This is the final battle. Let's do our best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0091",
    "jp": "俺の力が必要ってわけだな？",
-   "en": "",
-   "term": "end"
+   "en": "So you need my strength, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0092",
    "jp": "ゼノスをパーティーに加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add Xenos to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0093",
    "jp": "・ゼノスをメンバーに加える",
-   "en": "",
+   "en": "・Add Xenos to the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0094",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add anyone for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0095",
    "jp": "　{n}　　　　　{FFEF}ゼノスが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Xenos joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0096",
    "jp": "がんばらせて、もらうぜ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll give it all I've got.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0097",
    "jp": "‥‥そうか‥‥",
-   "en": "",
-   "term": "end"
+   "en": "...I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0098",
    "jp": "いろいろご心配をおかけしましたが、{n}もう大丈夫です。",
-   "en": "",
-   "term": "end"
+   "en": "I've caused you so much worry, but I'm all right now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0099",
    "jp": "私にお手伝いできますでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything I can do to help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0100",
    "jp": "カレンをパーティーに加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add Karen to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0101",
    "jp": "・カレンをメンバーに加える",
-   "en": "",
+   "en": "・Add Karen to the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0102",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add anyone for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0103",
    "jp": "　{n}　　　　　{FFEF}カレンが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Karen joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0104",
    "jp": "がんばって下さいね。",
-   "en": "",
-   "term": "end"
+   "en": "Please do your best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0105",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve {s:FFED}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0106",
    "jp": "こんな時に、一人でどこへ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going all alone at a time{n}like this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0107",
    "jp": "{v:0004}どこ行くの、ルイセちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Where are you going, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0108",
    "jp": "{v:0005}あ、ティピ。{n}お願いがあるんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Oh, Tippi. Could you do me a favor?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0109",
    "jp": "{v:0006}ん？{n}なぁに？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Hm? What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0110",
    "jp": "{v:0007}悪いんだけど‥‥、{n}今は２人きりにして欲しいんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}I'm sorry, but... I'd like you to leave the two of us{n}alone for now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0111",
    "jp": "{v:0008}え～！？{FFF2}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Whaaat?!{FFF2}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0112",
    "jp": "‥‥{v:0009}お願い、ティピ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0009}Please, Tippi.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0113",
    "jp": "‥‥{v:000A}う、うん。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000A}O-okay.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0114",
    "jp": "{v:000B}行こう‥‥。{n}お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Let's go... Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0115",
    "jp": "‥‥{v:000C}あのね、お兄ちゃん。{n}これから言うことを、黙って聞いて欲しいの。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000C}Um, Big Brother. Please just listen quietly to what I'm{n}about to say.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0116",
    "jp": "{v:000D}お兄ちゃんが、本当のお兄ちゃんじゃないって{n}知ったとき、悲しくて、いっぱい泣いちゃったって{n}話はしたことあったよね。{p}{v:000E}あのお話には続きがあるんだ。{p}{FC03}{v:000F}わたしね、泣きながらあることに気づいたの。{FFF9}{FFFB}{n}{v:0010}悲しくて泣いているのに、{n}心のどこかではほっとしてたことに。{p}{FFF5}{v:0011}最初は自分でもわからなかった。{FFF9}{FFFB}{n}{v:0012}それで、本当は冷たい子なんじゃないかって思えて、{n}それで余計に泣いちゃった。{p}{FC04}{v:0013}でもね、どうしてほっとしていたかわかったから、{n}涙も止まったの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}I told you how sad I was when I learned you weren't my{n}brother by blood, and how much I cried, didn't I?{p}{v:000E}There's more to that story.{p}{FC03}{v:000F}While I was crying, I realized something.{FFF9}{FFFB} {v:0010}Even though{n}I was crying because I was sad, part of me{n}felt relieved.{p}{FFF5}{v:0011}At first, I didn't understand it myself.{FFF9}{FFFB} {v:0012}I started to{n}think I must really be a coldhearted girl, and that made{n}me cry even more.{p}{FC04}{v:0013}But then I understood why I felt relieved, and my{n}tears stopped.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0117",
    "jp": "{v:0014}わたし、お兄ちゃんが好き。{FFF9}{FFFB}{n}{v:0015}妹としてじゃなく、１人の女として、好き。{p}{v:0016}本当の兄妹だったら、恋愛は出来ないけど、{n}本当のお兄ちゃんじゃないから、結婚もできる。{p}{v:0017}あの涙が止まってから、わたしの夢はお兄ちゃんの{n}お嫁さんになることだったの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}I love you, Big Brother.{FFF9}{FFFB} {v:0015}Not as your sister. I love you{n}the way a woman loves a man.{p}{v:0016}If we were brother and sister by blood, we couldn't be{n}lovers. But since we aren't, we could even get married.{p}{v:0017}Ever since those tears stopped, I've dreamed of{n}becoming your bride.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0118",
    "jp": "{v:0018}お兄ちゃんのお嫁さんになって、{n}ずっと一緒に暮らすんだって、そう思ってたのに‥‥。{p}{FC03}{v:0019}お兄ちゃんの体は‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}I thought I'd become your bride, and we'd live{n}together forever...{p}{FC03}{v:0019}But now your body...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0119",
    "jp": "{v:001A}わたしはグローシアン。{FFF9}{FFFB}{n}{v:001B}他の人より強い魔力を持ってる。{p}{FFF5}{v:001C}なのに、お兄ちゃんの命も救えないの！？{FFF9}{FFFB}{n}{FC02}{v:001D}愛する人を救うこともできないの！？{FFF9}{FFFB}{n}{FFF5}{v:001E}こんな力‥‥{FFF9}{FFFB}{v:001F}何の役にも立たないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}I'm a Growsian.{FFF9}{FFFB} {v:001B}My magic is stronger than{n}other people's.{p}{FFF5}{v:001C}So why can't I even save your life, Big Brother?!{FFF9}{FFFB} {FC02}{v:001D}Why{n}can't I save the person I love?!{FFF9}{FFFB} {FFF5}{v:001E}This power...{FFF9}{FFFB}{v:001F}It's no{n}use at all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0120",
@@ -745,958 +863,1112 @@
   {
    "id": "scen093.0121",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0122",
    "jp": "・生きることを誓う",
-   "en": "",
+   "en": "・Promise to live",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0123",
    "jp": "・黙って抱きしめる",
-   "en": "",
+   "en": "・Silently embrace her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0124",
    "jp": "{FFF5}‥‥{v:0023}約束だよ。{n}絶対に、約束だよ。{p}{v:0024}お兄ちゃんのいない世界なんて、{n}考えられないんだから。{p}{v:0025}わたしの世界の中心には、{n}いつだってお兄ちゃんがいるんだから。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:0023}Promise me. You have to promise me.{p}{v:0024}I can't imagine a world without you, Big Brother.{p}{v:0025}You've always been at the center of my world.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0125",
    "jp": "{FFF5}‥‥{v:0026}あっ‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:0026}Ah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0126",
    "jp": "‥‥{v:0027}お兄ちゃんの鼓動が聞こえるよ。{FFF9}{FFFB}{n}{v:0028}トクン、トクンって、力強い鼓動が‥‥。{p}{v:0029}わたし、お兄ちゃんを助ける方法を{n}絶対に見つけるから。{n}それまで生きるって約束してね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0027}I can hear your heartbeat, Big Brother.{FFF9}{FFFB}{v:0028}Thump,{n}thump... It's so strong...{p}{v:0029}I'll find a way to save you. I know I will. Promise you'll{n}stay alive until then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0127",
    "jp": "‥‥{v:002A}このまま時間が止まっちゃえばいいのに‥‥。{p}{v:002B}そうしたら、ずっと、ずっと一緒にいられるのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002A}I wish time could stop like this...{p}{v:002B}Then we could stay together forever and ever...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0128",
    "jp": "‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0129",
    "jp": "{v:002C}大丈夫だよね。{FFF9}{FFFB}{n}{v:002D}お兄ちゃんって、運命を変えちゃう人だもん。{p}{v:002E}わたし、信じてる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Everything will be all right, won't it?{FFF9}{FFFB}{v:002D}You can change{n}fate itself, Big Brother.{p}{v:002E}I believe in you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0130",
    "jp": "{v:002F}本当はもっと、お兄ちゃんに抱きしめて欲しいけど、{n}あんまり遅くなるとみんなも心配しちゃうから。{p}{v:0030}それに、お兄ちゃんが助かれば、{n}いつだって抱きしめてもらえるから。{FFF9}{FFFB}{n}{v:0031}うふふ‥‥{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}I really want you to hold me a little longer, Big Brother,{n}but everyone will worry if we're too late.{p}{v:0030}Besides, once you're better, you can hold me{n}anytime.{FFF9}{FFFB}{v:0031}Hee hee...{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0131",
    "jp": "{v:0032}でも、これだけは覚えておいて‥‥。{p}{v:0033}わたし、お兄ちゃんのためだったら、{n}どんなことだって耐えられるんだよ。{FFF9}{FFFB}{n}{v:0034}何も怖くない。何だって出来る。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}But please remember this...{p}{v:0033}For you, Big Brother, I can endure anything.{FFF9}{FFFB}{v:0034}Nothing{n}scares me. There's nothing I can't do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0132",
    "jp": "{v:0035}さ、戻ろ、お兄ちゃん！{FFF9}{FFFB}{n}{v:0036}みんなが待ってるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Come on, let's go back, Big Brother!{FFF9}{FFFB}{v:0036}Everyone's waiting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0133",
    "jp": "{v:0001}どうしたのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}What's the matter?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0134",
    "jp": "{v:0002}ゴメン、ティピちゃん。{FFF9}{FFFB}{n}{v:0003}ちょっとだけ２人にして欲しいんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Sorry, Tippi-chan.{FFF9}{FFFB}{v:0003}I'd like a little time alone with him...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0135",
    "jp": "‥‥{v:0004}わかった。{n}ちょっとだけだよ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0004}All right. Just a little, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0136",
    "jp": "{v:0005}お兄さま、ちょっとその辺を歩こうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Big Brother, let's take a little walk.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0137",
    "jp": "{v:0006}結局アタシ、お兄さまのために何も出来なかった‥‥。{p}{v:0007}今お兄さまがこうしていられるのも、{n}アタシが何かしたからじゃない。{n}他の誰かが頑張ったからだもの。{p}{v:0008}アタシなんかいてもいなくても同じ‥‥。{FFF9}{FFFB}{n}{v:0009}こんな出来損ないのホムンクルスだもの、{n}当たり前だよね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}In the end, I couldn't do anything for you,{n}Big Brother...{p}{v:0007}You're still here with us, but it wasn't because of{n}anything I did. It was because someone else worked{n}so hard.{p}{v:0008}It wouldn't make any difference if I weren't{n}here...{FFF9}{FFFB}{v:0009}I'm such a failure of a homunculus. What else{n}could I expect...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0138",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0139",
    "jp": "・そんな事はないと言う",
-   "en": "",
+   "en": "・Say that isn't true",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0140",
    "jp": "・ミーシャの思い違いだと言う",
-   "en": "",
+   "en": "・Say Misha has it wrong",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0141",
    "jp": "{v:000A}え‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Huh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0142",
    "jp": "{v:000B}思い違い‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}I have it wrong...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0143",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0144",
    "jp": "・ひたむきな生き方に救われていると言う",
-   "en": "",
+   "en": "・Say her determination sustains you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0145",
    "jp": "・その愛情に救われていると言う",
-   "en": "",
+   "en": "・Say her love sustains you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0146",
    "jp": "{v:000C}アタシのひたむきな生き方‥‥？{p}‥‥{v:000D}アタシはドジだから、{n}人一倍努力しないとなんにも出来ない。{p}{v:000E}努力してようやく人並み以下になる程度だもの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}My determination...?{p}...{v:000D}I'm so clumsy. I have to work harder than anyone{n}else just to do anything at all.{p}{v:000E}Even with all that effort, I'm still not quite as good as{n}everyone else...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0147",
    "jp": "{v:000F}アタシの愛情‥‥？{p}{v:0010}アタシはドジで不器用で何にもできないから、{n}お兄さまにはそれくらいしか、{n}してあげられるものがなかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}My love...?{p}{v:0010}I'm clumsy and awkward, and I can't do anything right.{n}That was about all I had to give you, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0148",
    "jp": "{v:0011}そんなアタシの生き方がお兄さまを救えた‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}The way I live has helped you, Big Brother...? Even{n}someone like me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0149",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0150",
    "jp": "・その通りだと言う",
-   "en": "",
+   "en": "・Say that's right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0151",
    "jp": "・気づかなかったのか問う",
-   "en": "",
+   "en": "・Ask if she hadn't noticed",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0152",
    "jp": "{v:0012}アタシの生き方がお兄さまの{n}心の支えになっていた‥‥？{p}{v:0013}でも、そんな‥‥。{FFF9}{FFFB}{n}{v:0014}アタシ、お兄さまになんにもしてあげられてない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}The way I live has been giving you strength,{n}Big Brother...?{p}{v:0013}But how could that be...?{FFF9}{FFFB}{v:0014}I haven't done anything{n}for you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0153",
    "jp": "{v:0015}うん‥‥。{FFF9}{FFFB}{n}{v:0016}でも、やっぱりアタシお兄さまになんにも{n}してあげられてない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}No...{FFF9}{FFFB}{v:0016}But I still haven't done anything for you,{n}Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0154",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0155",
    "jp": "・目に見えるものが全てじゃないと言う",
-   "en": "",
+   "en": "・Say not everything can be seen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0156",
    "jp": "・それでいいんだよと言う",
-   "en": "",
+   "en": "・Say that's all right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0157",
    "jp": "{v:0017}お兄さま、{FFF9}{FFFB}{v:0018}アタシ‥‥{FFF9}{FFFB}{v:0019}アタシ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Big Brother,{FFF9}{FFFB}{v:0018}I...{FFF9}{FFFB}{v:0019}I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0158",
    "jp": "{v:0018}アタシ{FFF9}{FFFB}‥‥{v:0019}アタシ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}I{FFF9}{FFFB}...{v:0019}I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0159",
    "jp": "‥‥‥‥。{p}‥‥{v:001A}お兄さまってなんだか暖かい‥‥。{FFF9}{FFFB}{n}{v:001B}抱かれていると、{n}今まで悩んでたのが嘘みたいにとけていく‥‥。{p}‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{p}...{v:001A}You're so warm, Big Brother...{FFF9}{FFFB}{v:001B}When you hold me, all{n}my worries melt away, as if they were never there...{p}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0160",
    "jp": "{v:001C}お兄さま‥‥{FFF9}{FFFB}{v:001D}あの仮面兵たちみたいに{n}消えちゃったりしないよね‥‥？{FFF9}{FFFB}{n}{v:001E}死んじゃったりしないよね‥‥！？{p}{v:001F}お兄さま、アタシに誓って！{FFF9}{FFFB}{n}{v:0020}絶対に死なないって！{FFF9}{FFFB}{n}{v:0021}絶対に生きるって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Big Brother...{FFF9}{FFFB}{v:001D}You won't disappear like those masked{n}soldiers, will you...?{FFF9}{FFFB}{v:001E}You won't die, will you...?!{p}{v:001F}Big Brother, swear to me!{FFF9}{FFFB}{v:0020}Swear you won't die!{FFF9}{FFFB}{v:0021}Swear{n}you'll stay alive!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0161",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0162",
    "jp": "{v:0022}お兄さま‥‥。{p}{v:0023}絶対だよ‥‥{FFF9}{FFFB}{v:0024}絶対に死んじゃヤダよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Big Brother...{p}{v:0023}You have to promise...{FFF9}{FFFB}{v:0024}You can't die. You just can't...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0163",
    "jp": "{v:0025}あれ‥‥おかしいな‥‥。{FFF9}{FFFB}{n}{v:0026}視界がにじんでよく見えないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Huh...? That's strange...{FFF9}{FFFB}{v:0026}Everything's blurry. I can't see{n}very well...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0164",
    "jp": "{v:0027}悲しくないはずなのに、{n}どんどん涙があふれてきちゃう‥‥。{p}{v:0028}なんでだろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}I shouldn't be sad, but the tears just keep coming...{p}{v:0028}Why is that...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0165",
    "jp": "{v:0029}や、やだ、こんな顔お兄さまにみせられない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}N-no! I can't let you see me looking like this,{n}Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0166",
    "jp": "{v:002A}ゴメンね、お兄さま。{n}もう大丈夫だから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Sorry, Big Brother. I'm all right now...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0167",
    "jp": "{v:002B}でも、よかった。{FFF9}{FFFB}{n}{v:002C}アタシがお兄さまの心の支えになっていた{n}ことがわかって。{p}{v:002D}これからも、ずっとずっとお兄さまを支えます。{FFF9}{FFFB}{n}{v:002E}だから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}But I'm glad.{FFF9}{FFFB}{v:002C}I'm glad I know I've been giving you{n}strength, Big Brother.{p}{v:002D}I'll keep supporting you, always and forever.{FFF9}{FFFB}{v:002E}So...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0168",
    "jp": "{v:002F}さ、もう行こうよ。{n}向こうでみんなが待ってるもん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Come on, let's go. Everyone's waiting over there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0169",
    "jp": "{v:0002}ちょっとそこまで来ていただけませんか‥‥。{p}‥‥{v:0003}１人で‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Would you come over there with me for a moment...?{p}...{v:0003}Alone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0170",
    "jp": "{v:0004}ん、行っておいでよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Sure, go on.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0171",
    "jp": "‥‥{v:0008}私の言いたいこと、わかりますか？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0008}Do you know what I want to say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0172",
    "jp": "‥‥{v:0009}嬉しいです。{FFF9}{FFFB}{n}{v:000A}気持ちが通じあっているみたいで、嬉しいです。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0009}I'm so happy.{FFF9}{FFFB}{v:000A}It feels as though we understand each{n}other's feelings. That makes me happy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0173",
    "jp": "{v:000B}そ、そうですよね。{FFF9}{FFFB}{n}{v:000C}はっきり言わないとダメですよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Y-yes, of course.{FFF9}{FFFB}{v:000C}I need to say it clearly, don't I?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0174",
    "jp": "{v:000D}私、物心つく頃から兄に育てられてきましたから、{n}父親というものにあこがれていました。{p}{v:000E}そして、あなたと出会って、{n}どんどん好きになって‥‥。{p}{v:000F}そんなとき、あなたが父と同じ存在だって知ったとき、{n}とてもショックでした。{p}{v:0010}本当の私は、あなた自身ではなく、{n}あなたの中の父親を好きになっていたんじゃ{n}ないかって‥‥。{p}{v:0011}そんな気がして‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}My brother raised me for as long as I can remember, so{n}I always longed to have a father.{p}{v:000E}Then I met you, and I fell more and more in love...{p}{v:000F}So when I learned you were another version of my{n}father, it came as such a shock.{p}{v:0010}I wondered if I'd really fallen in love with the father I{n}saw in you, rather than with you yourself...{p}{v:0011}That was how I felt...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0175",
    "jp": "{v:0012}だから何度も諦めようとしました。{p}{v:0013}だけど、諦めようと心に誓うたびに、{n}涙があふれてきて。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}So I tried to give up on you, again and again.{p}{v:0013}But every time I swore I would, the tears came{n}pouring out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0176",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0177",
    "jp": "・やさしく名前を呼んであげる",
-   "en": "",
+   "en": "・Say her name gently",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0178",
    "jp": "・やさしく抱きしめてあげる",
-   "en": "",
+   "en": "・Hold her gently",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0179",
    "jp": "{v:0014}優しい声‥‥。{FFF9}{FFFB}{n}{v:0015}自信に満ちていて、私を包み込んでくれる声‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Such a gentle voice...{FFF9}{FFFB}{v:0015}So full of confidence, a voice{n}that envelops me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0180",
    "jp": "‥‥{v:0016}あ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0016}Ah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0181",
    "jp": "{v:0017}この力強い腕は、父親のものじゃない。{FFF9}{FFFB}{n}{v:0018}私を‥愛してくれる‥愛しい人のもの‥‥。{p}{v:0019}このぬくもりを思い出したとき、わかったんです。{FFF9}{FFFB}{n}{v:001A}私、本当にあなたを愛していると！{p}{v:001B}だから、もしあなたと父の関係を知らなくても{n}好きになれた。{FFF9}{FFFB}{n}{v:001C}同じ存在と知っていても、やっぱり好きになった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}These strong arms aren't a father's arms.{FFF9}{FFFB}{n}{v:0018}They belong to... the man I love... who loves me...{p}{v:0019}When I remembered this warmth, I understood.{FFF9}{FFFB}{n}{v:001A}I truly love you!{p}{v:001B}I would have fallen in love with you even without{n}knowing your connection to my father.{FFF9}{FFFB}{n}{v:001C}And knowing you're the same, I still fell for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0182",
    "jp": "‥‥{v:001D}今まで私を見守ってくれた兄に感謝しています。{n}そして、最後に本当のことを教えてくれた父にも‥‥。{p}{v:001E}父が亡くなったばかりで、{n}こんなことを言うのは不謹慎だと思います。{FFF9}{FFFB}{n}{v:001F}だけど、今を逃すと、言えなくなってしまいそうで。{p}{v:0020}だから私、勇気を出して言います。{p}{v:0021}あなたが好きです。{FFF9}{FFFB}{n}{v:0022}愛しています。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001D}I'm grateful to my brother for always watching over{n}me. And to my father, for telling me the truth at{n}the end...{p}{v:001E}I know it's improper to say this when my father has{n}only just passed away.{FFF9}{FFFB}{v:001F}But if I don't say it now, I'm{n}afraid I may never get the chance.{p}{v:0020}So I'll find the courage to tell you.{p}{v:0021}I've fallen for you.{FFF9}{FFFB}{v:0022}I love you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0183",
    "jp": "{v:0023}私、もう迷わないから。{n}一生あなただけだって誓うから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}I won't waver anymore. I swear I'll love only you for{n}the rest of my life...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0184",
    "jp": "{v:0024}みんなが待ってます。{p}{v:0025}さあ、もどりましょうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Everyone's waiting.{p}{v:0025}Shall we go back?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0185",
    "jp": "{v:0002}行っておいでよ。{n}アタシここで待ってるからさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Go on. I'll wait right here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0186",
    "jp": "{v:0003}マイ＝ロード。{n}お体の方はよろしいのですか‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}My Lord. Are you feeling well...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0187",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0188",
    "jp": "・なんとかな",
-   "en": "",
+   "en": "・I'm managing",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0189",
    "jp": "・大丈夫だ",
-   "en": "",
+   "en": "・I'm fine",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0190",
    "jp": "{v:0004}無理はなさらぬようにお願いいたします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}I beg you not to overexert yourself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0191",
    "jp": "{v:0005}あまり無理はなさらないでください。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Please do not push yourself too hard.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0192",
    "jp": "{v:0006}小康状態を保っていますが、{n}いつまた倒れるとも限りません。{p}{v:0007}今あなたを失うことは、{n}我々にとっては大きな痛手となります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Your condition is stable for now, but you could collapse{n}again at any moment.{p}{v:0007}Losing you now would be a terrible blow to us all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0193",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0194",
    "jp": "・それだけが理由なのか",
-   "en": "",
+   "en": "・Is that your only reason?",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0195",
    "jp": "・本心を聞かせてくれ",
-   "en": "",
+   "en": "・Tell me how you really feel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0196",
    "jp": "{v:0008}他になにがあるというのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}What other reason could there be?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0197",
    "jp": "{v:0009}本心、ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}How I really feel?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0198",
    "jp": "{v:000A}私はただ現状から、{n}最善と思えることを申しております。{n}他意はありません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}I am merely advising what I believe is best under the{n}circumstances. I have no other motive.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0199",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0200",
    "jp": "・納得する",
-   "en": "",
+   "en": "・Accept her explanation",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0201",
    "jp": "・抱きしめる",
-   "en": "",
+   "en": "・Hold her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0202",
    "jp": "{v:000B}それではマイ＝ロード。{n}皆の元へ向かいましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Well then, My Lord. Let us rejoin the others.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0203",
    "jp": "{v:000C}！？{n}マイ＝ロード！？{p}{v:000D}おたわむれはおよしください‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}?! My Lord?!{p}{v:000D}Please do not toy with me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0204",
    "jp": "何と声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0205",
    "jp": "・なぜ自分を隠すのか問う",
-   "en": "",
+   "en": "・Ask why she hides her true self",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0206",
    "jp": "・無理をするな",
-   "en": "",
+   "en": "・Don't force yourself",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0207",
    "jp": "{v:000E}私は弱い人間です。{FFF9}{FFFB}{n}{v:000F}今自分の素顔をさらけ出してしまえば、{n}きっとあなたの前で醜態をさらしてしまいます。{p}{v:0010}私にはそれが耐えられないのです‥‥。{p}{v:0011}今だってそうです。{n}この胸は張り裂けそうなほど高鳴っています。{p}{v:0012}頭では落ち着かなければとわかっていても、{n}体がいうことをききません。{p}{v:0013}まるで自分の体ではないように‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}I am weak.{FFF9}{FFFB}{v:000F}If I let you see my true self now, I would{n}surely make a spectacle of myself before you.{p}{v:0010}I could not bear that...{p}{v:0011}Even now, my heart is pounding so hard I feel my chest{n}might burst.{p}{v:0012}I know I must calm myself, but my body will not obey.{p}{v:0013}It is as though this body were not my own...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0208",
    "jp": "{v:0014}あなたが好きだから‥‥。{FFF9}{FFFB}{n}{v:0015}あなたを愛してしまったから‥‥。{p}{v:0016}だからこそ、私は自分の本音を表に出すことが{n}出来ませんでした。{n}嫌われることが怖かったのです。{p}{v:0017}女らしい振る舞いもできない私が愛を口にすれば、{n}あなたの重荷になることは分かっていました。{p}{v:0018}だから私は、{n}あなたの剣として命を捧げようとしたのです。{p}{v:0019}そうすれば、{n}ずっとあなたの隣にいることができるから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Because I care for you...{FFF9}{FFFB}{v:0015}Because I have fallen in love{n}with you...{p}{v:0016}That is why I could not reveal my true feelings. I was{n}afraid you would come to dislike me.{p}{v:0017}I cannot even conduct myself like a lady. I knew that{n}confessing my love would only burden you.{p}{v:0018}So I sought to devote my life to serving as{n}your sword.{p}{v:0019}That way, I could remain by your side forever...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0209",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0210",
    "jp": "・無言のまま優しく抱きしめる",
-   "en": "",
+   "en": "・Hold her gently without a word",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0211",
    "jp": "・自分の想いを伝える",
-   "en": "",
+   "en": "・Tell her how you feel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0212",
    "jp": "{v:001A}マイ＝ロード‥‥。{FFF9}{FFFB}{n}{v:001B}私は‥、私は幸せ者です‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}My Lord...{FFF9}{FFFB}{v:001B}I... I am so fortunate...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0213",
    "jp": "{v:001C}お願いがあります。{FFF9}{FFFB}{n}{v:001D}このまま私の手の届かない所へ{n}行ってしまわないで下さい！{p}{v:001E}絶対に死なないでください！{FFF9}{FFFB}{n}{v:001F}あなたが助かるなら、{n}この命だって惜しくはありません！{p}{v:0020}だから‥‥{FFF9}{FFFB}{n}{v:0021}だから私を１人にしないで下さい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}I have a request.{FFF9}{FFFB}{v:001D}Please do not go where I can no{n}longer reach you!{p}{v:001E}Please, you must not die!{FFF9}{FFFB}{v:001F}I would gladly give my own{n}life if it would save yours!{p}{v:0020}So...{FFF9}{FFFB}{v:0021}So please do not leave me alone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0214",
    "jp": "{v:0022}結局、醜態を見せてしまいました‥‥。{p}{v:0023}マイ＝ロード‥‥{FFF9}{FFFB}{v:0024}絶対に生きて下さい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}I have made a spectacle of myself after all...{p}{v:0023}My Lord...{FFF9}{FFFB}{v:0024}You must live...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0215",
    "jp": "{v:0025}さて、それでは向こうへ行きましょう。{p}{v:0026}みんなが待っているはずです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Well then, let us go over there.{p}{v:0026}Everyone must be waiting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0216",
    "jp": "{v:0003}そうそう、ティピは来なくていいぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Oh, and Tippi, you can stay here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0217",
    "jp": "{v:0004}えー、なんでよぉ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Whaaat? Whyyy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0218",
    "jp": "{v:0005}こいつと２人きりで話したい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}I want to talk to him alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0219",
    "jp": "{v:0006}ちぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Hmph...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0220",
    "jp": "{v:0007}行こうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Let's go.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0221",
    "jp": "{v:0008}お前とはもうずいぶん長いこと戦ってきたような{n}気もするが、実際にはまだ知り合って間もない。{p}{v:0009}だがお前は、短期間で見違えるような戦士になった。{p}{v:000A}色々な戦士に出会ってきた俺でも、{n}正直驚いているくらいだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Feels like we've been fighting together for ages. Truth{n}is, we haven't known each other long.{p}{v:0009}But you've become a completely different warrior in{n}that short time.{p}{v:000A}I've met all sorts of warriors, and even I'm{n}surprised. Honestly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0222",
    "jp": "{v:000B}だが、ここから先に待っている奴は、{n}そのお前をも凌駕するほどの奴だ。{p}{v:000C}正直に言えば、全盛期の俺でも勝てる気がしない。{FFF9}{FFFB}{n}{v:000D}だが、最初から勝てないと決めてかかれば、{n}どんな戦も勝つことはできない。{p}{v:000E}例え相手がどんなに強くても、{n}必ず勝つつもりでかかっていけ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}But the one waiting up ahead is stronger even{n}than you.{p}{v:000C}Truth is, I doubt I could beat him even in my{n}prime.{FFF9}{FFFB}{v:000D}But if you decide you can't win before you{n}start, you'll never win any battle.{p}{v:000E}No matter how strong your enemy is, go in intending{n}to win.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0223",
    "jp": "{v:000F}これは俺が戦いの中で見つけた持論だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}That's something I've learned from fighting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0224",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0225",
    "jp": "・必ず勝つさ！",
-   "en": "",
+   "en": "・I'll win for sure!",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0226",
    "jp": "・負けられないからな",
-   "en": "",
+   "en": "・I can't afford to lose",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0227",
    "jp": "{v:0010}その意気だ。{n}さすが、俺が戦友と認めただけはあるな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}That's the spirit. I knew I was right to call you{n}a comrade!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0228",
    "jp": "{v:0011}そう、負けられない戦だ。{FFF9}{FFFB}{n}{v:0012}だが、お前の背中は俺がきっちり守ってやるから{n}安心して戦え。{p}{v:0013}戦友を信じろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Right. This is a battle we can't afford to lose.{FFF9}{FFFB}{v:0012}But I'll{n}be watching your back. You can fight without worrying.{p}{v:0013}Trust your comrade!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0229",
    "jp": "{v:0014}お前も、そしてあいつらもともに戦ってきた戦友だ。{p}{v:0015}誰一人として欠けることなく連れ帰ってみせる。{n}必ず奴を倒してな‥‥。{p}{v:0016}この先迷う選択を突きつけられる事が{n}あるかも知れない。{FFF9}{FFFB}{n}{v:0017}だが、戦友を信じて突き進め。{p}{v:0018}お前の迷いは、{n}ともに戦う戦友達を危険にさらすことになる。{FFF9}{FFFB}{n}{v:0019}だから迷うな。{p}{v:001A}迷わず突き進め！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}You and the others have all fought by my side.{p}{v:0015}I'll bring every last one of you home. Once we've{n}beaten him...{p}{v:0016}You may face choices up ahead that make you{n}hesitate.{FFF9}{FFFB}{v:0017}But trust your comrades and press on.{p}{v:0018}Your hesitation will put the comrades fighting beside{n}you in danger.{FFF9}{FFFB}{v:0019}So don't hesitate.{p}{v:001A}Keep moving forward!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0230",
    "jp": "{v:001B}俺の言いたいのはそれだけだ。{p}{v:001C}さて、そろそろ戻るか。{n}ティピのやつがむくれて待ってるからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}That's all I wanted to say.{p}{v:001C}Well, we'd better head back. Tippi's waiting, and I bet{n}she's sulking.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0231",
    "jp": "{v:0002}どこまで行くのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Just how far are we going?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0232",
    "jp": "{v:0003}ああ、すまないがティピ君はここにいてくれないか？{n}彼と２人で話したいことだから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Ah, sorry, Tippi-kun, but would you mind waiting here?{n}I'd like to speak with him alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0233",
    "jp": "{v:0004}しょうがないわねぇ‥‥。{p}{v:0005}んじゃ、ちょっとだけよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Oh, fiiine...{p}{v:0005}But just for a little while, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0234",
    "jp": "{v:0006}それじゃ、行こうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Well then, shall we go?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0235",
    "jp": "{v:0007}君に話しておきたいことというのは他でもない。{n}これから先のことさ。{p}{v:0008}ここから先に待ち受けている敵は、{n}これまでとは比較にならないくらい強い。{FFF9}{FFFB}{n}{v:0009}僕たちの力なんて、小さな水滴みたいなものだ。{p}{v:000A}だけど、こんな事をしっているかい？{FFF9}{FFFB}{n}{v:000B}１滴の水滴も、なんども同じ所へ落ちることで{n}硬い岩に穴をあける事が出来る。{p}{v:000C}僕たちもこれと同じさ。{FFF9}{FFFB}{n}{v:000D}諦めずに立ち向かっていくことで、{n}必ず敵を倒すことが出来るはずだ。{p}{v:000E}君と、僕たちならね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}What I wanted to talk to you about is, of course, what{n}lies ahead.{p}{v:0008}The enemy waiting for us is incomparably stronger than{n}any we've faced before.{FFF9}{FFFB}{v:0009}Our strength is like a tiny{n}drop of water.{p}{v:000A}But did you know this?{FFF9}{FFFB}{v:000B}Even drops of water can bore{n}a hole through solid rock by falling on the same spot{n}over and over.{p}{v:000C}The same is true of us.{FFF9}{FFFB}{v:000D}If we keep fighting without{n}giving up, I'm certain we can defeat our enemy.{p}{v:000E}You and all of us together, that is.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0236",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0237",
    "jp": "・やってみせると答える",
-   "en": "",
+   "en": "・Say you'll do it",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0238",
    "jp": "・俺を誰だと思ってるんだ？",
-   "en": "",
+   "en": "・Who do you think I am?",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0239",
    "jp": "・水滴で激流をつくってやる",
-   "en": "",
+   "en": "・I'll turn those drops into a torrent!",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0240",
    "jp": "{v:000F}その意気だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}That's the spirit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0241",
    "jp": "{v:0010}相変わらずの自信だね。{n}でもこういう場面では頼もしいよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}As confident as ever, I see. But at a time like this,{n}it's reassuring.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0242",
    "jp": "{FB00}{v:0011}激流で岩を砕こうというんだね。{n}君らしい発想だ。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0011}You mean to shatter the rock with a torrent, then.{n}That's just the sort of idea I'd expect from you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0243",
    "jp": "{v:0012}リーダーである君の士気が僕たちの士気になる。{p}{v:0013}君が心にわだかまりを持っていては、{n}僕たちも実力を完全に発揮できないからね。{p}{FC05}{v:0014}しかし、君は相変わらず僕の好奇心を{n}くすぐってくれる。{p}{v:0015}この戦いが終わったら、{n}しばらく君をじっくりと観察させてもらうよ。{p}{v:0016}これほど見ていてあきない人物も珍しいからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}You're our leader. Your morale sets the tone for all{n}of us.{p}{v:0013}If something is weighing on your mind, we won't be{n}able to give our best either.{p}{FC05}{v:0014}Still, you never cease to pique my curiosity.{p}{v:0015}Once this battle is over, I'll have to spend some time{n}observing you closely.{p}{v:0016}It's rare to find someone so endlessly interesting{n}to watch.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0244",
    "jp": "{v:0017}さて、そろそろ彼らの所へもどろうか。{FFF9}{FFFB}{n}{v:0018}僕が言いたいことは言ったしね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Well, shall we head back to the others?{FFF9}{FFFB}{v:0018}I've said what{n}I wanted to say.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0245",
    "jp": "{v:0003}ああ、お前はいい。{n}ちょっとコイツにだけの話なんで席を外してくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Nah, not you. This is just between me and him, so give{n}us some room.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0246",
    "jp": "{v:0004}なによ、それ！？{n}アタシがいちゃいけないの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}What's that supposed to mean?! I'm not allowed to{n}be here?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0247",
    "jp": "{v:0005}２人だけにしてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Leave us alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0248",
    "jp": "{v:0006}う‥‥。{FFF9}{FFFB}{n}{FC02}{v:0007}わ、わかったわよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Uh...{FFF9}{FFFB}{FC02}{v:0007}A-all right...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0249",
    "jp": "{v:0008}この辺りでいいか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}This should do...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0250",
    "jp": "{v:0009}俺自身のことやカレンのことなんかで、{n}お前には色々世話になったな。{p}{FC00}{v:000A}俺にはお前にこれといって返してやれるものはない。{FFF9}{FFFB}{n}{v:000B}だが、これだけは言える。{p}{FC02}{v:000C}これから先、何があろうとも俺がお前を守ってやる。{p}{v:000D}お前の進む道に立ちふさがる奴がいるなら、{n}俺がそいつを蹴散らしてやるし、お前の背後を狙う{n}奴がいるならそいつを叩ききってやるさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}You've done a lot for me, and for Karen too.{p}{FC00}{v:000A}I've got nothing much to give you in return.{FFF9}{FFFB}{v:000B}But I can{n}tell you this.{p}{FC02}{v:000C}Whatever happens from here on, I'll protect you.{p}{v:000D}If anyone stands in your way, I'll knock them aside. And{n}if anyone comes at you from behind, I'll cut{n}them down.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0251",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0252",
    "jp": "・頼もしいな",
-   "en": "",
+   "en": "・That's reassuring",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0253",
    "jp": "・頼りにしてるぞ",
-   "en": "",
+   "en": "・I'm counting on you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0254",
    "jp": "・俺の背は広いぞ",
-   "en": "",
+   "en": "・I've got a broad back",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0255",
    "jp": "{v:000E}お前にはそれだけの恩があるのさ。{FFF9}{FFFB}{n}{v:000F}だから安心して正面の敵と戦ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}That's how much I owe you.{FFF9}{FFFB}{v:000F}So don't worry. Just fight{n}the enemy in front of you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0256",
    "jp": "{v:0010}ああ、思いっきり頼りにしてくれ。{n}お前の期待を裏切らないようにするさ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Yeah, count on me all you want. I'll make sure I don't let{n}you down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0257",
    "jp": "{v:0011}言ってくれるじゃねぇか。{p}{v:0012}だが、どんなになっても必ずお前は守ってみせるさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Listen to you!{p}{v:0012}But no matter what happens, I'll protect you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0258",
    "jp": "{v:0013}この剣に誓って、必ずお前を守ってみせる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}I swear on this sword that I'll protect you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0259",
    "jp": "{v:0014}ま、俺が言いたかったのはそれだけだ。{p}{v:0015}ティピのやつがいたんじゃ、こんなことは{n}恥ずかしくて言えたもんじゃないからな‥‥。{p}{v:0016}みんなが待ってる、そろそろ戻るか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Well, that's all I wanted to say.{p}{v:0015}I'd have been too embarrassed to say any of that{n}with Tippi around...{p}{v:0016}Everyone's waiting. We'd better head back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0260",
    "jp": "{v:0002}ティピさんはここにいてくれませんか？{n}２人だけで話したいことがあるので。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Tippi-san, would you mind waiting here? There's{n}something I'd like to discuss with him alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0261",
    "jp": "{v:0003}アタシはいいけど‥‥アンタ、どうするのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Fine by me... What about you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0262",
    "jp": "{v:0004}どうでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Would that be all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0263",
    "jp": "エリオットと２人になりますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you speak with Elliot alone?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0264",
    "jp": "{v:0005}それじゃ‥‥その辺りで話しましょうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Then... shall we talk over there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0265",
    "jp": "{v:0006}考えてみれば、あなたと出会ってからずいぶんと{n}経つのに、こうやって２人きりで話した事は{n}ありませんでしたね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Come to think of it, we've known each other for quite{n}a while, but we've never talked alone like this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0266",
    "jp": "{v:0007}あなたに初めて会ったときからすごい人だと{n}思っていましたが、あなたに会う度にその思いは{n}どんどん大きくなって行きました。{p}{v:0008}そして、あなたに対するあこがれも{n}大きくなって行きました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}From the moment we met, I thought you were{n}remarkable. Every time I saw you, that feeling{n}grew stronger.{p}{v:0008}And I came to admire you more and more.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0267",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0268",
    "jp": "・それほどのものじゃないさ",
-   "en": "",
+   "en": "・I'm not that remarkable",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0269",
    "jp": "・そうかな？",
-   "en": "",
+   "en": "・You think so?",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen093.0270",
    "jp": "{v:0009}謙遜なんてしなくていいんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}You don't have to be so modest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0271",
    "jp": "{v:000A}ご自分の事に気づかれなかったんですか？{FFF9}{FFFB}{n}{v:000B}ふふ、あなたらしいですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}You hadn't realized that about yourself?{FFF9}{FFFB}{v:000B}Hehe,{n}that's just like you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0272",
    "jp": "{v:000C}あなたは僕にないものをたくさん持っているんです。{p}{v:000D}勇気、{FFF9}{FFFB}{v:000E}自信、{FFF9}{FFFB}{v:000F}実行力‥‥。{FFF9}{FFFB}{n}{v:0010}僕はそんなあなたを見ながら、{n}あなたの良いところを取り入れようとしました。{p}{v:0011}全部が全部出来たわけでは無いですが、{n}それでも徐々に自分のものになっていきました。{p}{v:0012}でも、僕が１歩前進すると、{n}あなたは２歩も３歩も先へ進んでいる‥‥。{FFF9}{FFFB}{n}{v:0013}いたちごっこですね。{p}{v:0014}でもいつかきっとあなたを越えてみせます。{n}その時まで、僕を導いてください。{FFF9}{FFFB}{n}{v:0015}兄のように、やさしく‥‥。{p}‥‥{v:0016}あ、そろそろみんなの所へ戻らないと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}You have so many qualities I lack.{p}{v:000D}Courage,{FFF9}{FFFB}{v:000E}confidence,{FFF9}{FFFB}{v:000F}the ability to act...{FFF9}{FFFB}{v:0010}As I watched{n}you, I tried to learn from those strengths.{p}{v:0011}I haven't managed to learn everything, but little by{n}little, those qualities became part of me.{p}{v:0012}Yet whenever I take one step forward, you take two{n}or three...{FFF9}{FFFB}{v:0013}It's an endless game of catch-up.{p}{v:0014}But one day, I promise I'll surpass you. Until then,{n}please keep guiding me.{FFF9}{FFFB}{v:0015}Gently, like an older brother...{p}...{v:0016}Oh, we should get back to the others.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0273",
    "jp": "{v:0017}あっちへ戻りましょうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Shall we head back?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0274",
    "jp": "‥‥{v:0018}そうですね‥‥。{n}確かに今はそれどころじゃありませんね。{p}{v:0019}すいません、わがまま言ってしまって。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0018}You're right... This really isn't the time.{p}{v:0019}I'm sorry for being selfish.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen093.0275",
@@ -1707,8 +1979,9 @@
   {
    "id": "scen093.0276",
    "jp": "まだメンバーがそろってないよ！",
-   "en": "",
-   "term": "end"
+   "en": "Not everyone's here yet!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

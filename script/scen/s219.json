@@ -15,182 +15,212 @@
   {
    "id": "scen219.0001",
    "jp": "ガーディアン・システム",
-   "en": "",
-   "term": "null"
+   "en": "Guardian System",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen219.0002",
    "jp": "{v:002D}システム閉鎖まで、後１０００カウント。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}1,000 counts until system shutdown.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0003",
    "jp": "{v:002E}システム閉鎖まで、後６００カウント。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}600 counts until system shutdown.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0004",
    "jp": "{v:002F}システム閉鎖まで、後４００カウント。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}400 counts until system shutdown.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0005",
    "jp": "{v:0030}システム閉鎖まで、後２００カウント。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}200 counts until system shutdown.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0006",
    "jp": "{v:0031}これより、システムを閉鎖します。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Initiating system shutdown.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0007",
    "jp": "{v:0032}間に合わなかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}We didn't make it in time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0008",
    "jp": "ねぇ！{n}あの真ん中のデッカイの！{p}傷を与えても、すぐに元に戻っちゃうみたいだよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! That huge one in the middle!{p}Looks like it heals right away whenever we hurt it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0009",
    "jp": "どうしよう‥‥。{n}これじゃ、倒せないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What should we do...? We can't beat it like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0010",
    "jp": "{s:0000}！{n}このまま無闇に戦っても、勝ち目はない。{n}いったん、出直した方が良くないか？",
-   "en": "",
-   "term": "end"
+   "en": "{s:0000}! We have no chance if we keep{n}fighting blindly. Shouldn't we pull back and try{n}again later?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0011",
    "jp": "退却しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retreat?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0012",
    "jp": "{v:0033}損傷により機能不全‥‥。{n}‥‥全防衛管理システムに支障‥‥。{p}{v:0034}残存防衛システムを個別モードでロック‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Malfunction due to damage... ...All defense control{n}systems impaired...{p}{v:0034}Locking remaining defense systems into{n}independent mode...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0013",
    "jp": "これで残りをつぶせる。{n}一気に行こうぜ！",
-   "en": "",
-   "term": "end"
+   "en": "Now we can smash the rest. Let's finish them in{n}one go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0014",
    "jp": "‥‥損傷度‥‥９５％オーバー‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Damage... exceeds 95%...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0015",
    "jp": "ガーディアンの修復モード起動。{n}修復操作、開始。",
-   "en": "",
-   "term": "end"
+   "en": "Guardian repair mode activated. Commencing repairs.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0016",
    "jp": "修復完了。{n}攻撃、開始。",
-   "en": "",
-   "term": "end"
+   "en": "Repairs complete. Commencing attack.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0017",
    "jp": "くっ‥‥。{n}これではキリがないな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Gh... There's no end to this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0018",
    "jp": "くそっ‥‥。{n}これではキリがないぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Damn it... There's no end to this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0019",
    "jp": "‥‥{v:0016}損傷度‥‥９５％オーバー‥‥。{n}自己修復不能‥‥機能‥停止‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0016}Damage... exceeds 95%... Self-repair impossible...{n}Functions... ceasing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0020",
    "jp": "{v:0017}やった、壊れた！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Yes! It's broken!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0021",
    "jp": "{v:0018}みんな大丈夫？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Is everyone all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0022",
    "jp": "{v:0019}うん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Yeah.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0023",
    "jp": "{v:001D}は、はい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Y-yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0024",
    "jp": "{v:001C}こちらも、どうにか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}I'm all right too... barely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0025",
    "jp": "{v:001A}ああ、なんとかな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Yeah, more or less.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0026",
    "jp": "{v:0025}明らかな敵対行動を感知。{p}{v:0026}これより、安全のためにシステム閉鎖の準備を{n}行います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Clear hostile action detected.{p}{v:0026}Preparing for system shutdown as a safety measure.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0027",
    "jp": "{v:0027}閉鎖って‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Shutdown...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0028",
    "jp": "{v:0028}まずいぞ！{n}早く終わらせないと、ここの装置を動かせなくなる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}This is bad! If we don't finish this quickly, we won't be{n}able to operate the equipment here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0029",
    "jp": "{v:0029}なんだか知らないけど、まずそうな予感‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}I don't know what that means, but I've got a{n}bad feeling...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen219.0030",
    "jp": "{v:002A}ここの装置を動かせなくなっちゃうよ！{n}急ごう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}We won't be able to operate the equipment here! Hurry!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

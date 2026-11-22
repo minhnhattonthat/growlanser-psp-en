@@ -15,8 +15,9 @@
   {
    "id": "scen182.0001",
    "jp": "時空制御塔・Ａブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block A",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0002",
@@ -45,44 +46,51 @@
   {
    "id": "scen182.0006",
    "jp": "時空制御塔・Ｂ－１ブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower - Block B-1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0007",
    "jp": "『{FFEF}ヴィーザルブーツ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Vidar Boots{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0008",
    "jp": "　{n}　　　『{FFEF}ヴィーザルブーツ{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Obtained '{FFEF}Vidar Boots{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0009",
    "jp": "時空制御塔・Ｃ－１ブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block C-1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0010",
    "jp": "『{FFEF}白銀のティアラ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Silver Tiara{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0011",
    "jp": "　{n}　　　　『{FFEF}白銀のティアラ{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Silver Tiara{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0012",
    "jp": "時空制御塔・Ｂ－２ブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block B-2",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0013",
@@ -111,56 +119,65 @@
   {
    "id": "scen182.0017",
    "jp": "時空制御塔・Ｃ－２ブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block C-2",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0018",
    "jp": "『{FFEF}ヘルブリンディ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Helblindi{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0019",
    "jp": "　{n}　　　　『{FFEF}ヘルブリンディ{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Helblindi{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0020",
    "jp": "『{FFEF}ランドグリーズ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Randgriz{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0021",
    "jp": "　{n}　　　　『{FFEF}ランドグリーズ{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Randgriz{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0022",
    "jp": "時空制御塔・Ｃ－３ブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block C-3",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0023",
    "jp": "　{n}　　　　　３１０００エルムを手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Received 31000 Elm!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0024",
    "jp": "時空制御塔・Ｄブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block D",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen182.0025",
    "jp": "う～ん、{n}エレベータの中はテレポートできないみたい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... Looks like we can't teleport inside the elevator...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

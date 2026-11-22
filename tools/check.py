@@ -13,6 +13,10 @@ def main():
     r = subprocess.run([sys.executable, "-X", "utf8", "-m", "pytest", "-q", str(ROOT / "tests"), *sys.argv[1:]], cwd=ROOT)
     if r.returncode not in (0, 5):  # 5 = no tests collected
         sys.exit(r.returncode)
+    lint = subprocess.run([sys.executable, "-X", "utf8", str(ROOT / "tools/fit.py")], cwd=ROOT, capture_output=True,
+                          text=True, encoding="utf-8")
+    if lint.returncode:
+        sys.exit("fit.py (width lint) failed:\n" + lint.stdout[-3000:])
     print("check ok")
 
 

@@ -15,407 +15,474 @@
   {
    "id": "scen073.0001",
    "jp": "門番",
-   "en": "",
-   "term": "null"
+   "en": "Gatekeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen073.0002",
    "jp": "ブロンソン将軍",
-   "en": "",
-   "term": "null"
+   "en": "General Bronson",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen073.0003",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen073.0004",
    "jp": "行商人",
-   "en": "",
-   "term": "null"
+   "en": "Peddler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen073.0005",
    "jp": "ラージン砦",
-   "en": "",
-   "term": "end"
+   "en": "Fort Rajin",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0006",
    "jp": "今、ブロンソン将軍は出撃中です。",
-   "en": "",
-   "term": "end"
+   "en": "General Bronson is out on a sortie.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0007",
    "jp": "出撃？",
-   "en": "",
-   "term": "end"
+   "en": "A sortie?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0008",
    "jp": "はい。{n}標的と思われる魔法使いが{n}東の平原に現れたんです！{p}それで、今はこの砦は閉鎖しています。",
-   "en": "",
-   "term": "end"
+   "en": "Yes. A mage believed to be our target has appeared on{n}the eastern plains!{p}The fort is closed for now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0009",
    "jp": "ブロンソン将軍は、東の平原で{n}標的と思われる魔法使いと交戦中です。",
-   "en": "",
-   "term": "end"
+   "en": "General Bronson is engaging a mage believed to be our{n}target on the eastern plains.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0010",
    "jp": "開門！",
-   "en": "",
-   "term": "end"
+   "en": "Open the gates!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0011",
    "jp": "お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please go through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0012",
    "jp": "これ以上先に進むのは危険です。{n}お下がり下さい。",
-   "en": "",
-   "term": "end"
+   "en": "It is dangerous to go any farther. Please step back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0013",
    "jp": "どうやら、バーンシュタイン軍と{n}ランザック軍とを交戦させることに{n}成功したようだな。{p}バーンシュタイン軍の足並みが乱れてきた。{n}これで我々だけで、ここを防御できるだろう。{n}本当に、ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "It seems you succeeded in getting the Burnstein and{n}Ranzak armies to fight each other.{p}The Burnstein army is falling into disarray. We should{n}be able to defend this position on our own now. You{n}have my sincere thanks.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0014",
    "jp": "どうやら前線は苦戦しているようだ。{n}さすがはインペリアル・ナイトが率いる部隊だな。{p}このままでは、我々の敗北は時間の問題だ。{n}頼むぞ、お前たち！",
-   "en": "",
-   "term": "end"
+   "en": "It seems our troops on the front lines are struggling.{n}No less than I would expect of a force led by an{n}Imperial Knight.{p}At this rate, our defeat is only a matter of time. We{n}are counting on you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0015",
    "jp": "{v:0039}ま、まさかこんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}N-no... This cannot be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0016",
    "jp": "{v:003A}これでアンタもおしまいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}This is the end for you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0017",
    "jp": "{v:003B}ぬうぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Nngh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0018",
    "jp": "{v:003C}何‥‥この音‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}What... is that sound...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0019",
    "jp": "{v:003D}きゃああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0020",
    "jp": "{v:003E}じ、地震だっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}A-an earthquake!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0021",
    "jp": "‥‥{v:003F}フッ、好機‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003F}Heh. My chance...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0022",
    "jp": "{v:0040}あっ！{n}逃げられちゃった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Ah! He got away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0023",
    "jp": "{v:0041}地震さえ起こらなきゃ‥‥。{p}{v:0042}今のがパワーストーンの反動か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}If it hadn't been for that earthquake...{p}{v:0042}So that was the Power Stone's backlash...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0024",
    "jp": "{v:0043}でも、まさか、{n}戦いの最中にテレポートを使うなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}But I never imagined he would use Teleport in the{n}middle of a battle...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0025",
    "jp": "{v:0044}せっかく、あそこまで追いつめながら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}And after we had him cornered like that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0026",
    "jp": "{v:0045}キ～～ッ！{n}悔しーーーーっ！！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Grrr! This is soooo frustrating!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0027",
    "jp": "{v:0046}しかし、これで奴は無敵ではなくなった。{n}いずれは倒すチャンスがあるはずだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Still, he is no longer invincible. We should have another{n}chance to defeat him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0028",
    "jp": "{v:0047}そうだな。{n}このことは各国に報告した方がいいかも知れんな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Right. Perhaps we should report this to the{n}other nations.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0029",
    "jp": "{v:0048}ああ。{n}ランザック国には‥‥我が国の兵士には{n}私から伝えておく。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Yes. As for Ranzak... I will inform our nation's{n}soldiers myself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0030",
    "jp": "{v:0049}頼むぞ、ウェーバー。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}We're counting on you, Weber.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0031",
    "jp": "{v:004A}うむ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Indeed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0032",
    "jp": "{v:004B}私も砦に戻り、兵士にこのことを伝えておく。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}I will return to the fort and inform my soldiers{n}as well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0033",
    "jp": "{v:004C}ティピ、お母さんに報告、お願い。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Tippi, would you please tell Mother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0034",
    "jp": "{v:004D}おっけ～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Okaaay!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0035",
    "jp": "{v:004E}あ、マスター！{n}あのね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Oh, Master! Listen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0036",
    "jp": "{v:004F}これからどうする？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}What do we do now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0037",
    "jp": "・ローランディア王国に戻って、この事を報告する",
-   "en": "",
+   "en": "・Return to Rolandia and report this",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0038",
    "jp": "・ローランディア以外の国に、この事を報告する",
-   "en": "",
+   "en": "・Report this to nations other than Rolandia",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0039",
    "jp": "・みんなの意見に従う",
-   "en": "",
+   "en": "・Go along with everyone else's decision",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0040",
    "jp": "{FFEC}{v:0050}ティピちゃん、きーっく！{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}{v:0050}Tippi-chan kiiick!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0041",
    "jp": "{v:0051}今、アタシが報告してるでしょ！{n}何が不満なのよ、アンタはっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}I'm reporting it right now! What's your problem, huh?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0042",
    "jp": "{v:0052}あ、マスター！{n}いえ、こっちのことですぅ～っ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Oh, Master! No, just something on this eeend!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0043",
    "jp": "{v:0053}もう、お兄ちゃんは～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Oh, Big Brother, honestly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0044",
    "jp": "{v:0054}冗談はさておき、{n}早くこのことを他の連中にも報告するか。{p}{v:0055}ランザックの方はウェーバーに任せるとして、{n}他のところは俺たちがまわろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Joking aside, we'd better hurry and tell the others.{p}{v:0055}We'll leave Ranzak to Weber and make the rounds{n}elsewhere ourselves.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0045",
    "jp": "{v:0056}そうだな。{p}{v:0057}ランザックの方はウェーバーに任せるとして、{n}他のところは俺たちがまわろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}Right.{p}{v:0057}We'll leave Ranzak to Weber and make the rounds{n}elsewhere ourselves.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0046",
    "jp": "{v:0058}お前、ちゃんと考えてるのか？{n}ここまで来て、何をふぬけてるんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Are you even thinking? We've come this far. Where's{n}your backbone?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0047",
    "jp": "{v:0059}う～ん、他の国に報告した方がいいのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Hmm, maybe we should tell the other nations?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0048",
    "jp": "{v:005A}インペリアル・ナイツに伝えておきましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Let us inform the Imperial Knights.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0049",
    "jp": "{v:005B}ま、そんなとこか。{p}{v:005C}ランザックの方はウェーバーに任せるとして、{n}他のところは俺たちがまわろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Well, that sounds about right.{p}{v:005C}We'll leave Ranzak to Weber and make the rounds{n}elsewhere ourselves.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0050",
    "jp": "{v:005D}とにかく、倒すことは出来なかったけど、{n}あの回復力は奪えたんだもん。{n}きっと倒すチャンスはあるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Anyway, we couldn't defeat him, but we did take away{n}his ability to heal. I'm sure we'll get another chance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0051",
    "jp": "{v:005E}お待たせ！{n}報告終わったよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}Thanks for waiting! All done reporting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0052",
    "jp": "{v:005F}途中で変な邪魔が入ったけどぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Though something weird did get in the way{n}partway through...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0053",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0054",
    "jp": "{v:0060}じゃ、行こうぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}Well, let's go.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0055",
    "jp": "各国へ報告",
-   "en": "",
-   "term": "end"
+   "en": "Report to each nation",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0056",
    "jp": "‥‥{v:0000}ううっ！{n}手強い‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0000}Ugh! A formidable foe...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0057",
    "jp": "{v:0001}後一息で奴の首を取れるというのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}We are so close to taking his head...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0058",
    "jp": "{v:0002}まったく、しぶとい連中だ。{p}{v:0003}ならばこれでどうだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}You are a persistent lot.{p}{v:0003}Then how about this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0059",
    "jp": "{v:0004}さっさと死んでしまえ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Hurry up and die.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0060",
    "jp": "{v:0005}死ぬのは貴様だ！{n}我々を欺いた報いを受けるがよい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}You are the one who will die! Pay the price for{n}deceiving us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0061",
    "jp": "{v:0006}欺いたとは人聞きの悪い。{p}{v:0007}お前たちは私から魔法を学び、{n}代わりに身を隠す場所を提供する。{n}互いに利用しあっていただけではないか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Deceived you? What an ugly way to put it.{p}{v:0007}You learned magic from me and provided me a place to{n}hide in return. We were merely using each other.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0062",
    "jp": "{v:0008}それが済めば皆殺しか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}And once that was over, you would kill us all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0063",
    "jp": "{v:0009}クックックッ！{n}そろそろやめるとしよう。{p}{v:000A}不毛だよ。{n}しょせんは弱者の遠吠えにしか聞こえぬ。{p}{v:000B}さあ、これ以上吠えぬように殺してやろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Heh heh heh! Let us end this conversation.{p}{v:000A}It is pointless. All I hear is the futile howling of{n}the weak.{p}{v:000B}Now, I shall kill you to stop that howling.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0064",
    "jp": "{v:000C}待ちやがれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Hold it, damn you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0065",
    "jp": "{v:000D}死ぬのはお前の方だぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}You're the one who's gonna die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0066",
    "jp": "‥‥{v:000E}ウォレス‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000E}Wallace...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0067",
    "jp": "{v:000F}よくもルイセちゃんにヒドイことしてくれたわね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}How dare you do that to Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0068",
@@ -426,68 +493,79 @@
   {
    "id": "scen073.0069",
    "jp": "{v:0011}それも短い間だったな。{n}やっと力を取り戻したのに死んじまうんだからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Didn't last long, did it? You just got your power back,{n}and now you're going to die.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0070",
    "jp": "{v:0012}ゲヴェルを倒した程度で図に乗るな。{p}{v:0013}私の能力は、今やあいつの比ではない。{n}お前たちでは傷もつけられぬ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Do not grow arrogant merely because you{n}defeated Gevel.{p}{v:0013}My power now far surpasses his. You cannot even{n}scratch me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0071",
    "jp": "{v:0014}言わせておけば！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Enough of your boasting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0072",
    "jp": "‥‥{v:0015}手応え、あった！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0015}That hit home!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0073",
    "jp": "‥‥{v:0016}ふん。{n}人間にしてはやるな。{p}{v:0017}だが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0016}Hmph. Not bad for a human.{p}{v:0017}However...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0074",
    "jp": "{v:0018}なにっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0075",
    "jp": "{v:0019}傷が‥見る間にふさがってゆく！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}His wounds... They're closing before our eyes?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0076",
    "jp": "‥‥{v:001A}クックックッ！{p}{v:001B}だから言っただろう？{n}人間ごときに私は倒せぬのだよ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001A}Heh heh heh!{p}{v:001B}Did I not tell you? Mere humans cannot defeat me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0077",
    "jp": "{v:001C}さぁ、もう話すことはない。{n}ここで死ね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Now, there is nothing more to discuss. This is where{n}you die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0078",
    "jp": "おい、{s:0000}。{n}そっちにバーンシュタイン軍の本隊があるんだぜ？{n}わざわざ敵のド真ん中に突っ込む気か？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, {s:0000}. Burnstein's main force is that{n}way. You planning to charge straight into the middle of{n}the enemy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0079",
    "jp": "おい、{s:0000}。{n}そっちから、ランザック軍の本隊が来ているんだぜ？{n}わざわざ敵のド真ん中に突っ込む気か？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, {s:0000}. Ranzak's main force is coming{n}from that direction. You planning to charge straight{n}into the middle of the enemy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0080",
@@ -564,38 +642,44 @@
   {
    "id": "scen073.0092",
    "jp": "ヴェンツェルの城と思われる物体は{n}ここより西へ向かったところに落ちているようです。",
-   "en": "",
-   "term": "end"
+   "en": "The object believed to be Wenzel's castle appears to{n}have fallen west of here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0093",
    "jp": "他の兵士は、みな戦いに出ている。{n}今ここには、最低限の人員しかいないんだ。",
-   "en": "",
-   "term": "end"
+   "en": "All the other soldiers are out fighting. We've only got{n}the bare minimum of men here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0094",
    "jp": "君たちの行動によって、{n}我々の戦況が有利にも不利にもなるんだ。{n}頼んだよ。",
-   "en": "",
-   "term": "end"
+   "en": "Your actions could turn the tide either for us or{n}against us. We're counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0095",
    "jp": "今は膠着状態が続いているが、{n}気を抜くことが出来ない。{n}こんな状況が一番疲れるんだよね。",
-   "en": "",
-   "term": "end"
+   "en": "The stalemate continues, but we can't let our guard{n}down. This sort of situation wears you out more{n}than anything.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0096",
    "jp": "やっぱりこの戦争は仕組まれたものだったのですね。",
-   "en": "",
-   "term": "end"
+   "en": "So this war really was orchestrated after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0097",
    "jp": "伝説の怪物、ゲヴェルか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Gevel, the legendary monster...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0098",
@@ -612,8 +696,9 @@
   {
    "id": "scen073.0100",
    "jp": "支配者ヴェンツェルか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Wenzel the ruler...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0101",
@@ -636,38 +721,44 @@
   {
    "id": "scen073.0104",
    "jp": "この戦いに、人類の未来がかかっています。{FFFB}{n}あ、別にプレッシャーをかけるつもりでは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Humanity's future rests on this battle.{FFFB}Oh, I do not{n}mean to put pressure on you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0105",
    "jp": "{v:0051}この砦の南東部には迷いの森と呼ばれる場所がある。{n}と言っても、今では普通の森と変わらないけどね。{p}{v:0052}その昔、グローシアンが{n}人間の方向感覚を狂わせる装置を動かしていたから{n}そう呼ばれているんだ。{p}{v:0053}今でもその装置は地下遺跡にあるけど、{n}もう動いてないから、影響を受けることはないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Southeast of this fort is a place called the Lost{n}Forest. These days, though, it's no different from any{n}other forest.{p}{v:0052}It got that name because long ago, the Growsians{n}operated a device there that confused people's sense{n}of direction.{p}{v:0053}The device is still in the underground ruins, but it isn't{n}running anymore, so it won't affect you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0106",
    "jp": "‥‥ここまで来たら、{n}腹を決めてバーンシュタインとの戦いに備えるか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...We've come this far. I suppose it's time to steel{n}ourselves for battle with Burnstein...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0107",
    "jp": "ランザックが敵でなくなっただけでも、{n}ずっと楽になるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Just having Ranzak off our list of enemies makes{n}things a lot easier.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0108",
    "jp": "ひょっとすると戦争が終わるかも知れないな。",
-   "en": "",
-   "term": "end"
+   "en": "Maybe the war will finally end.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0109",
    "jp": "戦いなんてしない方がいいですよね。{n}そりゃ、有事の際にはがんばりますけどね。",
-   "en": "",
-   "term": "end"
+   "en": "We're better off without fighting, aren't we? Of course,{n}I'll do my part if there's a crisis.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0110",
@@ -684,8 +775,9 @@
   {
    "id": "scen073.0112",
    "jp": "ゲヴェルの次はヴェンツェルか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "First Gevel, now Wenzel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0113",
@@ -708,38 +800,44 @@
   {
    "id": "scen073.0116",
    "jp": "初めて君たちと会ったときは、{n}なんて兵士らしくない男だと思ったよ。{p}だが今では君たちの力を信頼している。{n}頑張ってくれ！",
-   "en": "",
-   "term": "end"
+   "en": "When I first met you all, I thought, 'What an{n}unsoldierly man.'{p}But now I have faith in your strength. Give it your all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0117",
    "jp": "{v:0054}この砦の任務は他国の軍隊の早期発見と防衛。{n}そして森の遺跡が悪用されないように見張ることだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}This fort's duties are to detect foreign armies early{n}and defend against them, and to keep watch over the{n}forest ruins so they cannot be misused.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0118",
    "jp": "あの陣形を用いれば‥‥。{n}そのためには、盾をあと３０枚‥‥。{p}あ、武器庫の管理が自分の仕事なのですよ。",
-   "en": "",
-   "term": "end"
+   "en": "If we use that formation... We'd need another 30 shields{n}for that...{p}Oh, I'm in charge of the armory.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0119",
    "jp": "今のうちに補給をしていた方が‥‥。{n}そういえば、小麦粉のストックが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We should replenish our supplies while we can... Come to{n}think of it, our stock of flour...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0120",
    "jp": "そうですか、偽の王が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I see. So the false king...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0121",
    "jp": "人間相手でないなら、ためらう必要はありませんね。",
-   "en": "",
-   "term": "end"
+   "en": "If we aren't fighting humans, there's no need{n}to hesitate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0122",
@@ -756,482 +854,560 @@
   {
    "id": "scen073.0124",
    "jp": "ヴェンツェル‥‥。{n}奴は、一体何者なんだ！？",
-   "en": "",
-   "term": "end"
+   "en": "Wenzel... Just who is he?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0125",
    "jp": "私は装備品の行商をしております。{n}それから、精力料理なども扱っております。",
-   "en": "",
-   "term": "end"
+   "en": "I'm a traveling merchant dealing in equipment. I also{n}serve stamina-boosting meals.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0126",
    "jp": "装備品の売買でしょうか？{n}それとも料理が食べたいのでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Would you like to buy or sell equipment? Or would you{n}care for a meal?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0127",
    "jp": "・装備品の売買",
-   "en": "",
+   "en": "・Buy or sell equipment",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0128",
    "jp": "・料理を食べたい",
-   "en": "",
+   "en": "・Have a meal",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0129",
    "jp": "お買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "Would you like to buy or sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0130",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0131",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0132",
    "jp": "他にもご用はおありですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0133",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0134",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0135",
    "jp": "お一人様、８エルムで、{n}{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "At 8 Elm per person, that comes to {FFEB} Elm. Is that{n}all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0136",
    "jp": "ありがとうございました。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0137",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0138",
    "jp": "またのご利用をお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "I look forward to serving you again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0139",
    "jp": "これからもごひいきに！",
-   "en": "",
-   "term": "end"
+   "en": "Do keep me in mind for your future needs!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0140",
    "jp": "{v:0000}どうしたんだ？{n}血相を変えて？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}What's wrong? You look alarmed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0141",
    "jp": "{v:0001}何をゆったり構えてるのよ！{n}敵が攻めてくるっていうのに！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}How can you be so relaxed?! The enemy's about{n}to attack!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0142",
    "jp": "{v:0002}戦争で敵と戦うのは当然だ。{n}もう覚悟は出来ている。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Fighting the enemy is part of war. I have already{n}prepared myself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0143",
    "jp": "{v:0003}だがそれはバーンシュタインとの戦闘の事だろう？{n}そこへランザックが参戦してくるとしたら、{n}その余裕を保てるかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}But you're prepared to fight Burnstein, aren't you?{n}Could you stay so calm if Ranzak joined the war too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0144",
    "jp": "{v:0004}なにっ！？{n}この期に及んでランザックまで参戦してくると{n}言うのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}What?! Are you saying even Ranzak is joining the war{n}at this stage?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0145",
    "jp": "{v:0005}そうだ。{n}しかも状況はきわめて悪い。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}That's right. And the situation is grim.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0146",
    "jp": "{v:0006}詳しく話してくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Tell me the details.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0147",
    "jp": "{v:0007}連中は共同作戦を取って、{n}我々をつぶしにかかるつもりだ。{p}{v:0008}まずバーンシュタイン軍が我々と戦う。{n}当然戦場は東の平原になるだろう。{n}だがその南側には、迷いの森が広がっている。{p}{v:0009}我々とバーンシュタイン軍が戦っている間に、{n}ランザック軍は迷いの森の道を抜け、{n}我が軍の背後から挟撃をしかけるつもりだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}They're planning a joint operation to crush us.{p}{v:0008}First, Burnstein's army will engage us. Naturally, the{n}battle will be on the plains to the east. But the Lost{n}Forest lies to the south of those plains.{p}{v:0009}While we're fighting Burnstein's army, Ranzak's troops{n}plan to pass through the Lost Forest and attack us{n}from behind, catching us between the two armies.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0148",
    "jp": "{v:000A}兵を２つに分けて、片方をバーンシュタイン、{n}残りをランザックに当てれば？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Why not split our troops in two? Send half against{n}Burnstein and the rest against Ranzak?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0149",
    "jp": "{v:000B}戦争のことはわからないけど、{n}半分の力でそれぞれの相手を止められるのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}I don't know much about war, but could we really stop{n}each army with only half our strength?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0150",
    "jp": "{v:000C}うむ‥‥お嬢さんの言うとおりだ。{n}本国の援軍が大量に到着しなければ、{n}その作戦は使えん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Hmm... The young lady is right. Unless substantial{n}reinforcements arrive from home, that plan is out of{n}the question.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0151",
    "jp": "{v:000D}それじゃ、ランザック軍に挟まれないように、{n}こっちの軍を引いておけばどうかな？{n}そうすれば１つに固まって戦えるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Then how about pulling our army back so Ranzak can't{n}trap us between them? That way, we could stay{n}together and fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0152",
    "jp": "{v:000E}それじゃ、ランザック軍に挟まれないように、{n}こっちの軍を引いておけばどうかな？{n}そうすれば１つに固まって戦えるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Then how about pulling our army back so Ranzak can't{n}trap us between them? That way, we could stay{n}together and fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0153",
    "jp": "{v:0012}軍を引くということは、{n}よりローランディア王国に近い場所で{n}戦うことになる。{p}{v:0013}もし正面を突破されれば、{n}簡単に国内へなだれ込まれる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Pulling our army back would mean fighting closer to the{n}Kingdom of Rolandia.{p}{v:0013}If they broke through our front lines, they could easily{n}pour into the country.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0154",
    "jp": "{v:0014}その通りだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Precisely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0155",
    "jp": "{v:0015}それじゃ、どうするのよ！{p}{FC02}{v:0016}アンタも黙ってないで、何とか言いなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Then what ARE we going to do?!{p}{FC02}{v:0016}And you! Don't just stand there! Say something!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0156",
    "jp": "どんな作戦を提案しますか？",
-   "en": "",
-   "term": "end"
+   "en": "What strategy will you propose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0157",
    "jp": "・こちらから仕掛ける",
-   "en": "",
+   "en": "・Attack first",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0158",
    "jp": "・防戦に徹する",
-   "en": "",
+   "en": "・Focus entirely on defense",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0159",
    "jp": "・バーンシュタインとランザックを戦わせる",
-   "en": "",
+   "en": "・Make Burnstein and Ranzak fight",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0160",
    "jp": "{v:0017}こちらから仕掛けたとしても、{n}挟撃されるのでは同じだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Even if we attacked first, we would still be caught{n}between them.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0161",
    "jp": "{v:0018}この砦で防戦に徹したとしても、{n}バーンシュタイン軍にランザック軍が合流すれば、{n}我々では太刀打ちできない戦力になるだろう。{p}{v:0019}それに砦が囲まれてしまえば、{n}本国へ侵入する敵を防ぐ手だてがない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Even if we devoted ourselves to defending this fort,{n}once Ranzak's army joined Burnstein's, their combined{n}strength would be too much for us.{p}{v:0019}Besides, if they surrounded the fort, we would have no{n}way to stop the enemy from invading our homeland.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0162",
    "jp": "{v:001A}だめかぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}So that won't work either...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0163",
    "jp": "{v:001B}一番良い方法は、{n}バーンシュタインとランザックを戦わせ、{n}戦力を分散させることだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Our best bet would be to make Burnstein and Ranzak{n}fight each other, dividing their strength.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0164",
    "jp": "{v:001C}確かに両国を戦わせれば、我々にも分があるな。{n}だがどうやって両国を戦わせるのだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Indeed, if the two countries fought each other, we{n}would stand a chance. But how do we make them fight?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0165",
    "jp": "{v:001D}ランザック軍のふりをして、{n}バーンシュタイン軍に襲いかかって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}We could pretend to be Ranzak soldiers and attack{n}Burnstein's army...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0166",
    "jp": "{v:001E}その案自体は悪くないのだが、{n}問題はどうやって両軍をぶつけるようにし向けるかだ。{p}{v:001F}両軍が間近にいなければ、いかに策を用いても{n}戦闘に発展させる様なことは出来ない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}The idea itself is sound. The problem is how to bring{n}the two armies into conflict.{p}{v:001F}Unless the armies are close to each other, no{n}stratagem will get them to fight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0167",
    "jp": "{v:0020}ちぇ、いい案だと思ったんだけどな。{n}{FC02}アンタも黙ってないでなんか案を出しなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Aw, I thought it was a good idea. {FC02}And you! Don't just{n}sit there saying nothing. Come up with something!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0168",
    "jp": "あなたの考えた作戦は？",
-   "en": "",
-   "term": "end"
+   "en": "What plan do you have in mind?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0169",
    "jp": "・バーンシュタイン軍を突出させる",
-   "en": "",
+   "en": "・Draw Burnstein's army forward",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0170",
    "jp": "・ランザック軍を道に迷わせる",
-   "en": "",
+   "en": "・Make Ranzak's army lose its way",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0171",
    "jp": "・森に火を放つ",
-   "en": "",
+   "en": "・Set fire to the forest",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0172",
    "jp": "{v:0021}無理だな。{n}インペリアル・ナイトの指揮する部隊は{n}非常に統率がとれている。{p}{v:0022}ちょっとやそっとでは、{n}ランザック軍とぶつかる位置までおびき出せないだろう。{p}{v:005B}それに軍を下げねばならん。{n}それが危険なのは先ほども話した通りだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}That will not work. Troops led by an Imperial Knight are{n}exceptionally disciplined.{p}{v:0022}It would take more than a simple trick to lure them far{n}enough to clash with Ranzak's army.{p}{v:005B}Besides, we would have to pull our army back. As I said{n}earlier, that would be dangerous.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0173",
    "jp": "{v:0023}となると、ランザック軍を{n}バーンシュタイン軍の方へ向かわせるのが{n}妥当なんだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}In that case, the sensible approach would be to send{n}Ranzak's army toward Burnstein's, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0174",
    "jp": "{v:0024}あの遺跡は使えないのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Couldn't we use those ruins?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0175",
    "jp": "{v:0025}でも、どうやって道に迷わせるのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}But how are we supposed to make them lose their way?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0176",
    "jp": "{v:0027}確かに森に火をつければ、{n}ランザック軍の進路を妨害できるかもしれないけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Setting fire to the forest might block Ranzak's{n}advance, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0177",
    "jp": "{v:0028}案としては面白いが、少し実現は難しいだろう。{p}{v:0029}あの森の中にはグローシアンの遺跡があるのだ。{n}下手なことをして取り返しの付かないことを{n}おこしたくはない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}An interesting proposal, but putting it into practice{n}would be difficult.{p}{v:0029}There are Growsian ruins in that forest. I do not want{n}a rash act to cause something we cannot undo.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0178",
    "jp": "{v:002A}それじゃ、その遺跡は使えないのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Then couldn't we use those ruins?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0179",
    "jp": "{v:002B}遺跡？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}The ruins?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0180",
    "jp": "{v:002C}ほら、グローシアンが作ったっていう、{n}森を迷わせる遺跡‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}You know, the ruins they say the Growsians built, the{n}ones that make people lose their way in the forest...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0181",
    "jp": "{v:002D}確かランザック軍は、森を通って{n}ローランディア軍の後ろに回り込むって{n}言ってたよね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}You said Ranzak's army would go through the forest{n}to get behind Rolandia's army, right...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0182",
    "jp": "{v:002E}迷いの森を発生させられれば、{n}ランザック軍の行き先を間違えさせることが{n}できるんじゃないかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}If we can make it the Lost Forest again, couldn't we{n}send Ranzak's army the wrong way?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0183",
    "jp": "{v:002F}そうね。{n}ルイセちゃんがいれば、{n}私たちも迷わないでしょうから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}That's true. With Luise-chan here, we shouldn't lose{n}our way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0184",
    "jp": "{v:0030}そうか！{n}こっちにはルイセちゃんがいるから迷わないしね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Oh, right! We've got Luise-chan with us, so we won't get{n}lost, will we?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0185",
    "jp": "{v:0031}なるほど。{n}こちらにはグローシアンであるルイセ君がいるからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}I see. We have Luise-kun with us, and she's{n}a Growsian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0186",
    "jp": "{v:0032}ランザック軍は、迷いの森を通って{n}ローランディア軍の後ろに回り込むって{n}言ってたけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}They said Ranzak's army would go through the Lost{n}Forest to get behind Rolandia's army, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0187",
    "jp": "{v:0033}森？{p}‥‥{v:0034}う～む、あの森か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}The forest?{p}...{v:0034}Hmm, that forest...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0188",
    "jp": "{v:0035}あれ？{n}どうしたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Huh? What's the matter?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0189",
    "jp": "{v:0036}実はあの森には、{n}昔グローシアンが作ったという遺跡があるのだ。{p}{v:0037}今は動力源となる魔水晶が切れているが、{n}あれを動かせば、迷いの森を発生させることが{n}できるはずだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Actually, there are ruins in that forest said to have{n}been built long ago by the Growsians.{p}{v:0037}The magic crystal that powers them is depleted now,{n}but if we get the device working, it should turn the{n}woods into the Lost Forest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0190",
    "jp": "{v:0038}へぇ、そんな遺跡があったんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Oh, I didn't know there were ruins like that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0191",
    "jp": "{v:0039}ただ、問題はその装置を動かしている間、{n}グローシアン以外の者は、{n}森で迷ってしまうということだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}The problem is that while the device is running, anyone{n}who is not a Growsian will lose their way in the forest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0192",
    "jp": "{v:003A}それなら大丈夫だよ！{n}ルイセちゃんはグローシアンだもん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Then we'll be fine! Luise-chan's a Growsian!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0193",
    "jp": "{v:003B}それでは君たちに頼みたい。{n}何とか魔水晶のかけらを手に入れて、{n}あの遺跡を動かしてくれ。{p}{v:003C}それまでには遺跡の鍵をはずしておく。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Then I would like to entrust this to you. Find a{n}fragment of magic crystal somehow and activate{n}those ruins.{p}{v:003C}I will have the ruins unlocked by then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0194",
    "jp": "{v:003D}それじゃ、マスターに連絡しておくね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}All right, I'll get in touch with Master!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0195",
    "jp": "‥‥‥。{p}{v:003E}あ、マスター、聞こえる？{p}{v:003F}ううん、まだだけど‥‥。{n}それより大変なの！{p}{v:0040}バーンシュタインとランザックが先に同盟を結んで、{n}攻めてくるのよ！{n}それを防ぐには魔水晶が必要なの！{p}{v:0041}えっ！？{n}魔水晶がある？{p}{v:0042}うん！{n}それじゃ、すぐに取りに行くよ！",
-   "en": "",
-   "term": "end"
+   "en": "...{p}{v:003E}Oh, Master! Can you hear me?{p}{v:003F}No, not yet... But never mind that! We've got a{n}big problem!{p}{v:0040}Burnstein and Ranzak beat us to forming an alliance,{n}and they're going to attack! We need a magic crystal to{n}stop them!{p}{v:0041}What?! You have a magic crystal?{p}{v:0042}Great! We'll come get it right away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0196",
    "jp": "{v:0043}お母さん、何だって？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}What did Mother say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0197",
    "jp": "{v:0044}魔水晶なら、研究室に少し残ってるから、{n}取りに来いって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}She said there's still some magic crystal left in her{n}laboratory, so we should come get it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0198",
    "jp": "{v:0045}さすがルイセちゃんのお母さんだね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}That's Luise-chan's mother for you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0199",
    "jp": "{v:0046}さすがサンドラ様だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Just as I would expect of Sandra-sama.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0200",
    "jp": "{v:005C}とにかく、魔水晶のあてができたな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Anyway, now we know where to get a magic crystal.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0201",
    "jp": "{v:0047}頼むぞ。{n}戻ってくるまでに、遺跡の鍵は外しておこう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}I am counting on you. I will have the ruins unlocked by{n}the time you return.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0202",
@@ -1254,38 +1430,44 @@
   {
    "id": "scen073.0205",
    "jp": "‥‥ついに来るべき時が来た。{n}君たちは今までにも不可能と思われる任務を{n}やり遂げてきた実力がある。{p}それは仲間同士が信じあう心から生まれた力だと思う。{n}その力を信じて進んでくれ。{p}‥‥今の私には、これくらいの言葉しか見あたらない。{n}とにかく、がんばってくれ！",
-   "en": "",
-   "term": "end"
+   "en": "...At last, the time has come. You have already proven{n}yourselves by completing missions that{n}seemed impossible.{p}I believe that strength comes from the trust you have{n}in one another. Believe in that strength and press on.{p}...Those are about the only words I can find right now.{n}Just give it your all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0206",
    "jp": "{v:0048}遺跡の鍵は外しておいた。{n}頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}The ruins are unlocked. I am counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0207",
    "jp": "これほど鮮やかに作戦をこなすとは、{n}恐れ入ったぞ。",
-   "en": "",
-   "term": "end"
+   "en": "I am impressed. You carried out the operation brilliantly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0208",
    "jp": "{v:003D}やっと君たちがゲヴェルを倒してくれたというのに、{n}困ったことになったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}You finally defeated Gevel for us, only for things to{n}take this terrible turn.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0209",
    "jp": "お前たちの活躍はここまで届いているぞ。{n}これからも頑張ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "Word of your deeds has reached us here. Keep up the{n}good work.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0210",
    "jp": "お前たちが頼りだ。",
-   "en": "",
-   "term": "end"
+   "en": "We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0211",
@@ -1335,9 +1517,10 @@
   {
    "id": "scen073.0218",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen073.0219",
@@ -1456,8 +1639,9 @@
   {
    "id": "scen073.0238",
    "jp": "{v:0032}間に合わなかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}We didn't make it in time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen073.0239",
@@ -1546,8 +1730,9 @@
   {
    "id": "scen073.0253",
    "jp": "ダメだよ、お兄ちゃん。{n}急いでバーンシュタイン軍の後ろに行かなきゃ{n}いけないんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "We can't, Big Brother. We have to hurry and get behind{n}Burnstein's army, remember?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

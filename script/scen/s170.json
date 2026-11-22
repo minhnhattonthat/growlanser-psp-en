@@ -15,44 +15,51 @@
   {
    "id": "scen170.0001",
    "jp": "ランザック兵",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen170.0002",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen170.0003",
    "jp": "旅人",
-   "en": "",
-   "term": "null"
+   "en": "Traveler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen170.0004",
    "jp": "オヤジ",
-   "en": "",
-   "term": "null"
+   "en": "Old Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen170.0005",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen170.0006",
    "jp": "見張り",
-   "en": "",
-   "term": "null"
+   "en": "Guard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen170.0007",
    "jp": "ガラシールズ",
-   "en": "",
-   "term": "end"
+   "en": "Galashiels",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0008",
@@ -75,8 +82,9 @@
   {
    "id": "scen170.0011",
    "jp": "ああ、お前たちか。{n}通っていいぞ。{n}街は元のままだ、安心してくれ。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, it's you. Go on through. Don't worry. The town's{n}just as it was.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0012",
@@ -99,8 +107,9 @@
   {
    "id": "scen170.0015",
    "jp": "ここから先にはガラシールズがある。{p}‥‥何だお前たちか。{n}今更お前たちにこんなこと言っても意味ないか。{n}知ってるものな。",
-   "en": "",
-   "term": "end"
+   "en": "Galashiels lies up ahead.{p}...Oh, it's you lot. No point telling you that now, is{n}there? You already know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0016",
@@ -123,8 +132,9 @@
   {
    "id": "scen170.0019",
    "jp": "やっぱり俺にはここの見張りが向いてるな。{n}占領されている間は、退屈で仕方なかったよ。",
-   "en": "",
-   "term": "end"
+   "en": "Guard duty here really does suit me. I was bored out{n}of my mind during the occupation.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0020",
@@ -249,8 +259,9 @@
   {
    "id": "scen170.0040",
    "jp": "ここは砂漠のオアシス、{n}ガラシールズだ。",
-   "en": "",
-   "term": "end"
+   "en": "This is Galashiels, an oasis in the desert.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0041",
@@ -279,56 +290,65 @@
   {
    "id": "scen170.0045",
    "jp": "木陰はいいよ、涼しくて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It's nice in the shade of the trees. So cool...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0046",
    "jp": "これまでは旅が大好きだったのですが、{n}すっかりこの街が気に入ってね‥‥。{p}この街で落ち着くのもいいかなと‥‥。{n}どうしたものかな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I used to love traveling, but I've grown quite fond of{n}this town...{p}Perhaps I should settle down here... What to do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0047",
    "jp": "ところで話は変わるが、{n}『{s:0010}』という街を知っているかい？{p}これでも私は料理の修業をしている身。{p}そろそろ店を構えたいのだが、{n}せっかくならまだ発展中の街に店を出したいと{n}考えているのだ。",
-   "en": "",
-   "term": "end"
+   "en": "On another subject, have you heard of a town called{n}'{s:0010}'?{p}I'm studying the culinary arts, you see.{p}I'd like to open my own restaurant soon. If possible, I'd{n}like to do so in a town that's still developing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0048",
    "jp": "{s:0010}のことを話しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Tell him about {s:0010}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0049",
    "jp": "えっ！？{n}君の街だって？{p}どうだろう。{n}よかったら、私に店を出させてくれないか？",
-   "en": "",
-   "term": "end"
+   "en": "What?! It's your town?{p}Well, then. Would you consider letting me open a{n}restaurant there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0050",
    "jp": "彼に{s:0010}で店を出してもらいますか？",
-   "en": "",
-   "term": "end"
+   "en": "Have him open a restaurant in {s:0010}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0051",
    "jp": "ありがとう。{n}私は世界を旅していろいろな料理を身につけてきた。{n}他の店と競合しないような料理店を出すよ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you. I've traveled the world and learned to{n}prepare all sorts of dishes. I'll open a restaurant that{n}won't compete with the other shops.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0052",
    "jp": "そうか。{n}無理を言ってすまなかった。",
-   "en": "",
-   "term": "end"
+   "en": "I see. I'm sorry to have asked so much of you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0053",
    "jp": "‥‥そうか、知らないのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...I see. You haven't heard of it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0054",
@@ -345,142 +365,164 @@
   {
    "id": "scen170.0056",
    "jp": "ジュリアン様‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Julian-sama...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0057",
    "jp": "ジュリアン様って素敵なのよ‥‥。{n}もう私、メロメロ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Julian-sama is so wonderful... Oh, I'm{n}completely smitten...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0058",
    "jp": "ようこそ！{n}スキマ屋ガラシールズ支店です。",
-   "en": "",
-   "term": "end"
+   "en": "Welcome to the Galashiels branch of the Nook Shop!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0059",
    "jp": "買い物をしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Would you like to shop?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0060",
    "jp": "また来てね！",
-   "en": "",
-   "term": "end"
+   "en": "Come again!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0061",
    "jp": "なかなかいいスキマが見つからなくてね‥‥。{n}ここは仮店舗なんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "I haven't been able to find a good nook... This is just a{n}temporary shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0062",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0063",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}So, are you here to buy or to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0064",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen170.0065",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen170.0066",
    "jp": "で、他にも何かある？",
-   "en": "",
-   "term": "end"
+   "en": "So, anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0067",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen170.0068",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen170.0069",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Come back again, won't you? I'll have a lovely smile{n}waiting for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0070",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0071",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0072",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen170.0073",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen170.0074",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0075",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen170.0076",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen170.0077",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0078",
@@ -509,8 +551,9 @@
   {
    "id": "scen170.0082",
    "jp": "ジュリアン将軍か‥‥。{n}敵ながら、りりしくて格好良かったな。",
-   "en": "",
-   "term": "end"
+   "en": "General Julian, eh...? An enemy, but so gallant{n}and handsome.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0083",
@@ -545,50 +588,58 @@
   {
    "id": "scen170.0088",
    "jp": "ちょっと前まで、{n}街外れの一軒家に、人が出入りしていたんだけど‥‥。{n}急に静かになったなぁ。",
-   "en": "",
-   "term": "end"
+   "en": "Until recently, people were coming and going from that{n}house on the edge of town... Then it suddenly{n}went quiet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0089",
    "jp": "{v:0025}ここから先へ行くには通行証が必要だぞ。{n}通行証を持っていない者を通すことは出来ない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}You need a pass to go any farther. I can't let anyone{n}through without one.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0090",
    "jp": "{v:0026}これで文句はないでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}This should satisfy you, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0091",
    "jp": "{v:0027}こ、これは‥‥。{n}バーンシュタイン王国と戦争が始まったというのは{n}本当だったのか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Th-this is... So it's true that war has broken out with{n}the Kingdom of Burnstein.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0092",
    "jp": "{v:0028}よし、通れ。{n}ただし、疑わしい行動はするなよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}All right, go through. But don't try anything suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0093",
    "jp": "この手形は、この街までのものだ。{n}ここより先へ通すわけにはいかん。",
-   "en": "",
-   "term": "end"
+   "en": "This pass only permits you to travel as far as this{n}town. I can't let you go beyond it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0094",
    "jp": "これは国王宛ての書簡ではないか？{n}だったら、通行証を持っているだろう？",
-   "en": "",
-   "term": "end"
+   "en": "Isn't this a letter addressed to the king? Then you{n}should have a pass, shouldn't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0095",
    "jp": "何がしたいんだ？{n}用がないなら戻れ！",
-   "en": "",
-   "term": "end"
+   "en": "What do you want? If you've no business here,{n}turn back!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0096",
@@ -599,50 +650,58 @@
   {
    "id": "scen170.0097",
    "jp": "ん？{n}お前たちか‥‥。{n}どうかしたのか？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Oh, it's you... Is something wrong?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0098",
    "jp": "まさかバーンシュタインと、事を構えるとはな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Who'd have thought we'd end up fighting Burnstein...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0099",
    "jp": "{v:0024}ここは立ち入り禁止だ！{n}さっさと立ち去れ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}This area is off limits! Clear out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0100",
    "jp": "あんた達、タダで泊まろうってのかい？{n}ちゃんとお金を払って泊まってくれよ。",
-   "en": "",
-   "term": "end"
+   "en": "You lot planning to stay for free? Pay for your rooms{n}like everyone else.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0101",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0102",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0103",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0104",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen170.0105",

@@ -15,14 +15,16 @@
   {
    "id": "scen174.0001",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen174.0002",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen174.0003",
@@ -39,26 +41,30 @@
   {
    "id": "scen174.0005",
    "jp": "ジョニー",
-   "en": "",
-   "term": "null"
+   "en": "Johnny",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen174.0006",
    "jp": "トニー",
-   "en": "",
-   "term": "null"
+   "en": "Tony",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen174.0007",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen174.0008",
    "jp": "執事",
-   "en": "",
-   "term": "null"
+   "en": "Butler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen174.0009",
@@ -129,8 +135,9 @@
   {
    "id": "scen174.0020",
    "jp": "はっ！",
-   "en": "",
-   "term": "end"
+   "en": "Yes, Your Majesty!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0021",
@@ -319,8 +326,9 @@
   {
    "id": "scen174.0051",
    "jp": "はい？{p}あら、ローランディアの方ね。{n}かなりウワサになっているようだけど、{n}インペリアル・ナイトとどっちが強いのかしら？",
-   "en": "",
-   "term": "end"
+   "en": "Yes?{p}Oh, you're from Rolandia. Everyone seems to be talking{n}about you. I wonder who's stronger, you or the{n}Imperial Knights?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0052",
@@ -331,8 +339,9 @@
   {
    "id": "scen174.0053",
    "jp": "ようこそ。{n}大陸でもっとも文明が進んだ街、バーンシュタインへ！",
-   "en": "",
-   "term": "end"
+   "en": "Welcome to Burnstein, the most advanced city on{n}the continent!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0054",
@@ -355,8 +364,9 @@
   {
    "id": "scen174.0057",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0058",
@@ -460,8 +470,9 @@
   {
    "id": "scen174.0074",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0075",
@@ -473,9 +484,10 @@
   {
    "id": "scen174.0076",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen174.0077",
@@ -504,8 +516,9 @@
   {
    "id": "scen174.0081",
    "jp": "あ、ラルフ兄ちゃん！{n}今度勉強みてくれよ。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother Ralph! Help me with my{n}studies sometime!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0082",
@@ -516,32 +529,37 @@
   {
    "id": "scen174.0083",
    "jp": "公演を依頼しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Would you like to book a performance?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0084",
    "jp": "よし、引き受けた。{n}場所は‥‥？{FFFB}{n}{s:0010}だな？",
-   "en": "",
-   "term": "end"
+   "en": "All right, you've got a deal. Where's the venue...?{FFFB}{n}{s:0010}, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0085",
    "jp": "‥‥っとその前に、{n}お近づきのしるしにこれをあげよう。",
-   "en": "",
-   "term": "end"
+   "en": "...But first, let me give you this as a token of our{n}new friendship.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0086",
    "jp": "　{n}　　　　『{FFEF}サウンドテスト{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Sound Test{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0087",
    "jp": "依頼料を払えないんじゃ、演奏は出来ないな。",
-   "en": "",
-   "term": "end"
+   "en": "If you can't pay the fee, we can't perform.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0088",
@@ -552,26 +570,30 @@
   {
    "id": "scen174.0089",
    "jp": "ジョニー兄さんなら、公演旅行中だよ。",
-   "en": "",
-   "term": "end"
+   "en": "My brother Johnny is away on a concert tour.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0090",
    "jp": "だれだい？{n}最近よく見かける顔だなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Who are you? I've been seeing your face around a{n}lot lately...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0091",
    "jp": "屋根が地面になっているなんて、{n}変わった構造の街だと思わないかい？",
-   "en": "",
-   "term": "end"
+   "en": "Don't you think this town has an odd layout, with{n}rooftops serving as the ground?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0092",
    "jp": "あっ{FFF0}♥{FFF1}{p}あの‥‥。{n}この間の‥‥戦いで‥‥{n}‥‥その‥‥‥{p}‥‥さようなら！",
-   "en": "",
-   "term": "end"
+   "en": "Oh!{FFF0}♥{FFF1}{p}Um... During that... battle the other day... ...Well...{p}...Goodbye!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0093",
@@ -582,8 +604,9 @@
   {
    "id": "scen174.0094",
    "jp": "どこかに腕のいい仕立屋さんはいないかな？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder if there's a good tailor somewhere?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0095",
@@ -612,8 +635,9 @@
   {
    "id": "scen174.0099",
    "jp": "この段々構造の街は、日当たりがいいんだけど、{n}大雨が降ったときに下層では大変なことになるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "The town's terraced layout gets plenty of sunlight,{n}but heavy rain makes a real mess of the lower levels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0100",
@@ -654,148 +678,171 @@
   {
    "id": "scen174.0106",
    "jp": "ラルフ様、お帰りになったのですね？{p}突然『声が聞こえる』なんて言って{n}街を飛び出していかれてから、{n}すごく心配していたんです。",
-   "en": "",
-   "term": "end"
+   "en": "Ralph-sama, you've returned!{p}We were so worried after you suddenly said, \"I can{n}hear a voice,\" and rushed out of town.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0107",
    "jp": "{v:000C}いらっしゃいませ。{n}当店では、様々な装備品を取り扱っております。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Welcome. We carry a wide variety of equipment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0108",
    "jp": "{v:000E}お買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Would you like to buy or sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0109",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen174.0110",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen174.0111",
    "jp": "他にもご用はおありですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0112",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen174.0113",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen174.0114",
    "jp": "{v:0018}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0115",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0116",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0117",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen174.0118",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen174.0119",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0120",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen174.0121",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen174.0122",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0123",
    "jp": "古井戸の中の通路は頑丈な鉄格子で{n}内側から閉じられていた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The passage inside the old well has been barred from{n}within by a sturdy iron grate...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0124",
    "jp": "ここはバーンシュタイン城です。",
-   "en": "",
-   "term": "end"
+   "en": "This is Burnstein Castle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0125",
    "jp": "これはエリオット様。{n}どうぞお通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Ah, Elliot-sama. Please go through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0126",
    "jp": "{s:0000}様ですね。{n}どうぞお通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "You must be {s:0000}. Please go through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0127",
    "jp": "バーンシュタイン王都",
-   "en": "",
-   "term": "end"
+   "en": "Burnstein Royal Capital",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0128",
    "jp": "ここから先は王家の直轄地である。{n}たとえ王の知人といえども、{n}一般人が足を踏み入れることはできません。",
-   "en": "",
-   "term": "end"
+   "en": "The land beyond this point is under the direct authority{n}of the royal family. Civilians may not enter, even if they{n}are acquaintances of the king.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0129",
@@ -818,8 +865,9 @@
   {
    "id": "scen174.0132",
    "jp": "お気をつけて。",
-   "en": "",
-   "term": "end"
+   "en": "Take care.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0133",
@@ -848,14 +896,16 @@
   {
    "id": "scen174.0137",
    "jp": "ぼ、ぼっちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "Y-young master!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0138",
    "jp": "‥‥人違いでした。失礼。",
-   "en": "",
-   "term": "end"
+   "en": "...I mistook you for someone else. My apologies.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0139",
@@ -866,14 +916,16 @@
   {
    "id": "scen174.0140",
    "jp": "ラルフ坊ちゃんはいつ戻られるのだろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "When will young Master Ralph return...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0141",
    "jp": "お部屋のご利用は{n}宿代を払ってからにして下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please pay for your stay before using a room.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0142",
@@ -884,32 +936,37 @@
   {
    "id": "scen174.0143",
    "jp": "いらっしゃいませ。{n}お泊まりは{FFEB}エルムですが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Will you be staying?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0144",
    "jp": "ごゆっくりお休み下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please enjoy your rest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0145",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0146",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0147",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0148",
@@ -920,8 +977,9 @@
   {
    "id": "scen174.0149",
    "jp": "わ、わかった！",
-   "en": "",
-   "term": "end"
+   "en": "G-got it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0150",
@@ -1106,8 +1164,9 @@
   {
    "id": "scen174.0180",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen174.0181",

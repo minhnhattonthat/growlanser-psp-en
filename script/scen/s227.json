@@ -15,338 +15,394 @@
   {
    "id": "scen227.0001",
    "jp": "？？？",
-   "en": "",
-   "term": "null"
+   "en": "???",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen227.0002",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen227.0003",
    "jp": "村人",
-   "en": "",
-   "term": "null"
+   "en": "Villager",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen227.0004",
    "jp": "盗賊",
-   "en": "",
-   "term": "null"
+   "en": "Bandit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen227.0005",
    "jp": "{FFEE}アイリーンと村人を救え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Save Irene and the villagers!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0006",
    "jp": "お前らは、野郎の足止めをしろ！{n}女の始末は、俺がやる！",
-   "en": "",
-   "term": "end"
+   "en": "You lot keep that bastard busy! I'll finish off{n}the woman!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0007",
    "jp": "へい！",
-   "en": "",
-   "term": "end"
+   "en": "Right, boss!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0008",
    "jp": "あと、ついでだ！{n}邪魔する奴は、みんな殺してしまえ！",
-   "en": "",
-   "term": "end"
+   "en": "And while you're at it, kill anyone who gets in the way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0009",
    "jp": "へっへっ！{n}了解でさぁ～！",
-   "en": "",
-   "term": "end"
+   "en": "Heh heh! You got it, boss!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0010",
    "jp": "{v:001E}もう終わりだ。{n}大人しくしやがれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}It's over. Quit your damn struggling!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0011",
    "jp": "{v:001F}なにいきがってんだよ、このゲス野郎が。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}What're you acting so tough for, you scumbag?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0012",
    "jp": "{v:0020}誰だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Who's there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0013",
    "jp": "{v:0021}貴様、カレンを襲っただけじゃあきたらず、{n}妹の恩人にまで手をかけるつもりか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Was attacking Karen not enough for you? Now you're{n}after my sister's benefactor too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0014",
    "jp": "{v:0022}あれは！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Is that...?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0015",
    "jp": "{v:0023}兄さん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Brother?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0016",
    "jp": "{v:0024}ゼノスさん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Xenos-san?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0017",
    "jp": "{v:0025}ええい！{n}お前も八つ裂きにしてやるわ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Damn you! I'll tear you to pieces too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0018",
    "jp": "{v:0026}大丈夫、アイリーンさん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Are you all right, Irene-san?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0019",
    "jp": "{v:0027}大丈夫ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Are you all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0020",
    "jp": "{v:0028}大丈夫か！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}You all right?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0021",
    "jp": "{v:0029}大丈夫ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Are you hurt?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0022",
    "jp": "{v:002A}あ、あなた方は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Y-you're...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0023",
    "jp": "{v:002D}話はあと、あと！{n}今はあいつらをやっつけなくちゃね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Later, later! We've gotta beat these guys first!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0024",
    "jp": "{v:002B}アイリーンさん、大丈夫？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Irene-san, are you all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0025",
    "jp": "{v:002C}カ、カレンさん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}K-Karen-san?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0026",
    "jp": "{v:002F}兄さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0027",
    "jp": "{v:0030}よぉ、カレン、元気だったか？{n}とにかく話はこいつらを倒した後だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Hey, Karen. Been doing well? We'll talk once we've taken{n}care of these guys!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0028",
    "jp": "{v:002E}よぉ、また会ったな。{n}だが詳しい話は後だ。{n}今はこいつらを倒す！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Hey, we meet again. We'll catch up later. First, we take{n}these guys down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0029",
    "jp": "{v:0031}ゲッ！？{n}貴様らは‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Gah?! You lot...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0030",
    "jp": "{v:0032}どうしてアンタはそう悪さばっかりするのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Why do you ALWAYS have to be up to no good?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0031",
    "jp": "{v:0033}うるせぇ！{n}こっちにも仕事ってもんがあるんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Shut up! I've got a job to do, too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0032",
    "jp": "{v:0034}うぐっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Urgh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0033",
    "jp": "{v:0035}きゃあっ！{n}ニック！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Aah! Nick?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0034",
    "jp": "{v:0036}だ、大丈夫だ‥まだ、やれる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}I-I'm all right... I can still fight...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0035",
    "jp": "{v:0037}無理しちゃダメだよ！{n}アイリーンさんはアタシ達が助けるから、休んでて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Don't push yourself! We'll save Irene-san, so you rest!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0036",
    "jp": "{v:0038}す、すまない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}S-sorry...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0037",
    "jp": "あぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0038",
    "jp": "あぁっ！{n}アイリーンさん！",
-   "en": "",
-   "term": "end"
+   "en": "Ah! Irene-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0039",
    "jp": "商品には、指一本ふれさせんぞ！",
-   "en": "",
-   "term": "end"
+   "en": "I won't let you lay a finger on my goods!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0040",
    "jp": "もっとたくさん稼いで‥‥ハーレ‥ム‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Make more money... a ha...rem...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0041",
    "jp": "どうしてこんな事に‥‥",
-   "en": "",
-   "term": "end"
+   "en": "How did it come to this...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0042",
    "jp": "だ、誰か、助けて！！",
-   "en": "",
-   "term": "end"
+   "en": "S-somebody, help!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0043",
    "jp": "ひどい‥‥",
-   "en": "",
-   "term": "end"
+   "en": "How cruel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0044",
    "jp": "キャアーッ！",
-   "en": "",
-   "term": "end"
+   "en": "Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0045",
    "jp": "うっ！",
-   "en": "",
-   "term": "end"
+   "en": "Ugh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0046",
    "jp": "バカバカバカーッ！{n}村の人たちが、みんな殺されちゃったじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "Idiot, idiot, IDIOT! All the villagers got killed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0047",
    "jp": "{v:0039}ぐはっ！{n}ま‥またしても‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Gah! N-not again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0048",
    "jp": "{v:003A}ええい、くそっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Argh, damn it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0049",
    "jp": "{v:0039}ぐはっ！{n}ま‥またしても‥‥。{p}{v:003A}ええい、くそっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Gah! N-not again...{p}{v:003A}Argh, damn it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0050",
    "jp": "{v:003B}あ！{n}待ちなさいよ！{p}‥{FE1E}‥{FE1E}{v:003C}逃げ足だけは速いんだから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Hey! Get back here!{p}...{FE1E}...{FE1E}{v:003C}Running away is the one thing he's good at...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0051",
    "jp": "いやーっ！{n}こんな所に！！",
-   "en": "",
-   "term": "end"
+   "en": "Nooo! Here, of all places?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0052",
    "jp": "へっへっへ‥‥。{n}ここから現れるとは、思いもしなかっただろう！",
-   "en": "",
-   "term": "end"
+   "en": "Heh heh heh... Bet you never thought we'd come out{n}of here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0053",
    "jp": "と、思ったら、なんでここにいるんだぁ～！？",
-   "en": "",
-   "term": "end"
+   "en": "Or so I thought... What the hell are YOU doing here?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0054",
    "jp": "そんなことはどうでもいい！{n}とにかく、例の女を殺せ！{n}邪魔する奴は、好きにしろ！",
-   "en": "",
-   "term": "end"
+   "en": "Who cares?! Just kill that woman! Do whatever you like{n}to anyone who gets in the way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0055",
    "jp": "へ、へい！",
-   "en": "",
-   "term": "end"
+   "en": "Y-yes, boss!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen227.0056",
    "jp": "あいかわらず、小ずるい手の好きな奴だな！",
-   "en": "",
-   "term": "end"
+   "en": "Still fond of your sneaky little tricks, aren't you?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

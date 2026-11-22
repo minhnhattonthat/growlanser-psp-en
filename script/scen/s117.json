@@ -15,553 +15,644 @@
   {
    "id": "scen117.0001",
    "jp": "フェザリアン",
-   "en": "",
-   "term": "null"
+   "en": "Featherian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen117.0002",
    "jp": "人工洞窟",
-   "en": "",
-   "term": "end"
+   "en": "Artificial Cave",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0003",
    "jp": "そういえば、装備は整えたか？{n}女王がお前たち人間にも、{n}物を売って良いとの許可を出した。{p}ここには地上にはない強力な物が多い。{n}一度、のぞいておくだけでも損はしないはずだ。",
-   "en": "",
-   "term": "end"
+   "en": "By the way, have you prepared your equipment? The{n}queen has granted us permission to sell goods to you{n}humans as well.{p}We have many powerful items unavailable on the{n}surface. Even a look around should be worth{n}your while.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0004",
    "jp": "話はうかがっている。{n}気をつけていかれよ。",
-   "en": "",
-   "term": "end"
+   "en": "I have been informed. Take care on your journey.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0005",
    "jp": "{v:0003}ここね？{n}この中にパワーストーンの制御装置があるのね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}This is the place, right? The Power Stone's control unit{n}is in here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0006",
    "jp": "{v:0004}ヴェンツェルを倒す切り札‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Our trump card against Wenzel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0007",
    "jp": "{v:0005}この中じゃな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}In here, is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0008",
    "jp": "{v:0006}はい。{n}よろしくお願いします！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Yes. We're counting on you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0009",
    "jp": "{v:0007}うむ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Very well!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0010",
    "jp": "{v:0008}これは小さい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}This is small...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0011",
    "jp": "{v:0009}小さな集魔柱‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}A little mana collection pillar...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0012",
    "jp": "{v:000A}引退してから暇があったからな。{n}いろいろ改良してみたんじゃ。{p}{v:000B}大量のグローシュを扱うことは出来んが、{n}個人が使う分なら十分なはずじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}I've had time on my hands since I retired, you see. Made{n}a few improvements here and there.{p}{v:000B}It can't handle large amounts of Grosh, but it should be{n}ample for one person's needs.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0013",
    "jp": "{v:000C}それじゃ、中へ入るか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Well, let's head inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0014",
    "jp": "{v:000D}言っておくが、わしゃ戦えんぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Mind you, I can't fight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0015",
    "jp": "{v:000E}安心して！{n}アタシ達が守ってあげるから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Don't worry! We'll protect you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0016",
    "jp": "{v:000F}頼むぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}I'm counting on you, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0017",
    "jp": "送魔線を引くことが出来る人間はどうした？{p}最深部まで行くには魔法が必要だ。{n}送魔線技師を連れてから、もう一度来るがよい。",
-   "en": "",
-   "term": "end"
+   "en": "Where is the human who can lay a mana line?{p}You will need magic to reach the deepest chamber.{n}Return with a mana line engineer.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0018",
    "jp": "パワーストーンの弱点は、力を正確に発動できない点だな。",
-   "en": "",
-   "term": "end"
+   "en": "The Power Stone's weakness is that it cannot direct{n}its power precisely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0019",
    "jp": "パワーストーンの制御装置を入手できたようだな。{n}早くジーナの元へ行き、{n}操作方法を教えてもらうが良い。{p}ここは再び閉鎖しておく。",
-   "en": "",
-   "term": "end"
+   "en": "I see you have obtained the Power Stone's control{n}unit. Go to Gina at once and have her teach you how to{n}operate it.{p}I shall seal this place again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0020",
    "jp": "ここへ入ることはならぬ。{n}早々に立ち去られよ。",
-   "en": "",
-   "term": "end"
+   "en": "You may not enter here. Leave at once.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0021",
    "jp": "{v:0010}何だか色の違う床があるよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Hey, part of the floor's a different color!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0022",
    "jp": "{v:0011}何だろうね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}I wonder what it is.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0023",
    "jp": "{v:0012}ところで送魔線を張る柱を立てなくていいのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}By the way, don't you need to put up a pillar for the{n}mana line?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0024",
    "jp": "{v:0013}入り口に立てたばかりじゃからな。{n}この部屋の出口に立てよう。{p}{v:0014}残っている柱はあと３本しかないからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}I've only just put one up at the entrance, you see.{n}Let's put the next at this room's exit.{p}{v:0014}I've only three pillars left, after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0025",
    "jp": "{v:0015}おい、速く歩けよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Hey, pick up the pace.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0026",
    "jp": "{v:0016}それが‥進めないの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}That's just it... I can't move forward!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0027",
    "jp": "{v:0017}これは‥‥。{n}重力の壁がある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}This is... There's a wall of gravity.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0028",
    "jp": "{v:0018}重力？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Gravity?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0029",
    "jp": "{v:0019}物を引っ張る力じゃよ。{p}{v:001A}物が大地に落ちるのは、{n}この重力に引っ張られているからじゃ。{p}{v:001B}おそらくフェザリアンはこの重力を操る方法を{n}知っているんじゃな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}It's a force that pulls things, you see.{p}{v:001A}Things fall to the ground because gravity pulls{n}them down.{p}{v:001B}I daresay the Featherians know a way to control it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0030",
    "jp": "{v:001C}多分、重力を操る術があるから、{n}こんなにも大きな島を宙に浮かべていられるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}They probably have a way to control gravity. That's{n}how they keep such an enormous island in the air.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0031",
    "jp": "{v:001D}この島全体を浮かべているくらいだから、{n}重力を操ることくらい出来るんじゃないかな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}If they can keep this whole island afloat, I imagine{n}controlling gravity is well within their abilities.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0032",
    "jp": "{v:001E}そしてその重力を強くすることで、{n}入り込めない結界をつくっているんじゃ。{p}{v:001F}どこかにそれを操る装置があるはずじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}And by strengthening that gravity, they've made a{n}barrier we can't get through.{p}{v:001F}There ought to be a device somewhere that controls it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0033",
    "jp": "{v:0021}ここに中継機を設置するぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}I'll set up a relay here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0034",
    "jp": "‥‥{v:0022}これでよし。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0022}There we are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0035",
    "jp": "スイッチのような物がある。{n}押してみますか？",
-   "en": "",
-   "term": "end"
+   "en": "There is something that looks like a switch. Press it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0036",
    "jp": "{v:0020}あ、床の色が変わったよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Oh, the floor changed color!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0037",
    "jp": "{v:0053}中継器設置完了！{n}これで、ここは魔法が使えるはずじゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}The relay's in place! You ought to be able to use magic{n}here now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0038",
    "jp": "{v:0033}魔法が使えるんだって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}He says we can use magic now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0039",
    "jp": "{v:0035}ふ～っ！{p}{v:0036}一時はどうなることかと思ったわ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Whew!{p}{v:0036}For a moment there, I didn't know what would happen{n}to us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0040",
    "jp": "{v:0037}魔法が弱点だったんだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}So magic was its weakness.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0041",
    "jp": "ねぇ、ねぇ！{n}この入れ物の中には何が入っているか調べてみない？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, hey! Why don't we see what's inside this container?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0042",
    "jp": "ワシは忙しいんじゃ！{n}とっとと先へ進むぞ！",
-   "en": "",
-   "term": "end"
+   "en": "I'm a busy man! Let's get a move on!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0043",
    "jp": "おい、このまま出ていいのか？{n}何のためにここまで来たと思ってるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, are we really leaving already? What do you think we{n}came all this way for?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0044",
    "jp": "{v:0023}あっ！{n}モンスター！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Ah! A monster!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0045",
    "jp": "{v:0024}ねぇ‥あのモンスターって‥‥似てない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Hey... Doesn't that monster look... familiar?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0046",
    "jp": "{v:0025}確か、最初のゲヴェルは{n}グローシアンの兵器だったはず。{n}つまり、こいつらがその原型なのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}If I remember correctly, the first Gevel was a{n}Growsian weapon. Does that mean these creatures{n}were its prototypes?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0047",
    "jp": "{v:0026}おおかた、コイツがゲヴェルの原型なんだろうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}I'd say this thing was probably the prototype{n}for Gevel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0048",
    "jp": "{v:0027}あの化け物のことは任せたぞ。{n}ワシはワシの仕事をする！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}I'll leave that beast to you lot. I've my own work{n}to do!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0049",
    "jp": "　{n}　　　　　　『{FFEF}匂い袋{FFF1}』が出てきた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　A '{FFEF}Scent Pouch{FFF1}' came out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0050",
    "jp": "{v:0038}なにコレ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}What's this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0051",
    "jp": "{v:0039}この匂い‥‥。{p}{FC00}{v:003A}あのモンスター使いのシャドー・ナイトが{n}使っていた粉と匂いが似てるぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}This smell...{p}{FC00}{v:003A}It smells like the powder that monster-taming Shadow{n}Knight used.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0052",
    "jp": "{v:003B}ひょっとして、この匂いに引き寄せられてたのかも。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Maybe they were drawn to this smell.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0053",
    "jp": "誰に持たせますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will carry it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0054",
    "jp": "・自分で持つ",
-   "en": "",
+   "en": "・Carry it yourself",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen117.0055",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen117.0056",
    "jp": "・ウォレス",
-   "en": "",
+   "en": "・Wallace",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen117.0057",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen117.0058",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen117.0059",
    "jp": "{v:003C}アンタが持つの？{n}モンスターが寄ってきそうでやだなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}You're carrying it? Ugh, I bet it'll bring monsters{n}swarming over...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0060",
    "jp": "{v:003F}わ、わたしぃ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}M-me?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0061",
    "jp": "{v:0040}よろしくね、ルイセちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}We're counting on you, Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0062",
    "jp": "{v:003D}俺が持つのか？{p}{v:003E}別にかまわねぇが。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}I'm carrying it?{p}{v:003E}Fine by me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0063",
    "jp": "{v:0054}よろしくね、ウォレスさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}We're counting on you, Wallace-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0064",
    "jp": "{v:0041}ア、アタシですかぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}M-meee?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0065",
    "jp": "{v:0042}よろしくね、ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}We're counting on you, Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0066",
    "jp": "{v:0044}ああ、構わないけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Sure, I don't mind.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0067",
    "jp": "{v:0045}よろしくね、アリオストさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}We're counting on you, Ariost-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0068",
    "jp": "{v:0047}わ、私ですか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}M-me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0069",
    "jp": "{v:0048}よろしくね、カレンさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}We're counting on you, Karen-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0070",
    "jp": "{v:004A}俺かよ。{n}しょーがねーな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Me, huh? Guess I've got no choice.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0071",
    "jp": "{v:004B}よろしくね、ゼノス！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}We're counting on you, Xenos!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0072",
    "jp": "{v:004D}わ、わかりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}A-all right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0073",
    "jp": "{v:004E}よろしくね、エリオット！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}We're counting on you, Elliot!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0074",
    "jp": "{v:0050}引き受けよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}I shall take it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0075",
    "jp": "{v:0051}よろしくね、ジュリアン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}We're counting on you, Julian!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0076",
    "jp": "{v:0045}もういないみたいね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Looks like they're all gone, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0077",
    "jp": "{v:0041}ワシはこれで帰らせてもらう。{n}後はお前さんたち次第じゃ！{p}{v:0042}がんばってくれよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}I'll be heading home now. The rest is up to{n}you youngsters!{p}{v:0042}Give it your best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0078",
    "jp": "{v:0043}ありがとね、おじちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Thanks, mister!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0079",
    "jp": "{v:0044}人生で一番の思い出になったわい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Ah, this will be the finest memory of my life.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0080",
    "jp": "{v:0046}よし、奥の部屋に入ろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}All right, let's enter the room at the back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0081",
    "jp": "{v:0000}何だかホールみたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}This looks like some kind of hall.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0082",
    "jp": "{v:0001}この程度の広さなら、{n}中央に１本立てるだけで十分じゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}For a room this size, one pillar in the center ought{n}to do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0083",
    "jp": "{v:0002}だがモンスターが多い。{n}このままでは危険だぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}But there are too many monsters. It's dangerous to{n}go in now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0084",
    "jp": "{v:0003}だがワシがやらねば、{n}お前たちは魔法を使えんのじゃろ？{p}{v:0004}援護は頼むぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}But if I don't do it, you lot can't use magic, eh?{p}{v:0004}I'm counting on you to cover me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0085",
    "jp": "　{n}　　　　　『{FFEF}秘石制御装置{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained the '{FFEF}Gem Control Unit{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0086",
    "jp": "{v:0047}これがパワーストーンの制御装置ね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}So this is the Power Stone's control unit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0087",
    "jp": "{v:0048}そうみたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Looks like it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0088",
    "jp": "{v:0049}これがあれば、あのヴェンツェルの息の根を{n}止めることが出来るぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}With this, we can finish Wenzel off for good!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0089",
    "jp": "{v:004A}一度ジーナさんの所に戻って、{n}使い方を聞いた方がいいよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}We should go back to Gina-san and ask her how to use{n}it, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0090",
    "jp": "制御装置の使い方",
-   "en": "",
-   "term": "end"
+   "en": "How to Use the Control Unit",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen117.0091",
    "jp": "お兄ちゃん！{n}目的の物を取ってないよ！",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother! We haven't picked up what we came for!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

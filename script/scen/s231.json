@@ -15,32 +15,37 @@
   {
    "id": "scen231.0001",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen231.0002",
    "jp": "{FFEE}ベルナード将軍を守れ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect General Bernard!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0003",
    "jp": "くっ！{n}やるな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Gh! You're good...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0004",
    "jp": "{v:0031}おい、将軍に移動してもらった方が{n}守りやすくないか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Hey, wouldn't the General be easier to guard if we had{n}him move?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0005",
    "jp": "将軍に移動してもらった方が守りやすくないかな？",
-   "en": "",
-   "term": "end"
+   "en": "Wouldn't it be easier to protect the General if we had{n}him move?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0006",
@@ -51,150 +56,174 @@
   {
    "id": "scen231.0007",
    "jp": "・大テントより東へ",
-   "en": "",
+   "en": "・East of the large tent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen231.0008",
    "jp": "・大テントより南東へ",
-   "en": "",
+   "en": "・Southeast of the large tent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen231.0009",
    "jp": "・その場で攻撃",
-   "en": "",
+   "en": "・Attack from here",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen231.0010",
    "jp": "・その場で防御",
-   "en": "",
+   "en": "・Defend in place",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen231.0011",
    "jp": "ここでいいですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is this position all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0012",
    "jp": "{v:0033}わかった。{n}君の言う通りにしよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Understood. I will do as you say.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0013",
    "jp": "{v:0034}私の剣の腕を甘く見るなよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Do not underestimate my swordsmanship!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0014",
    "jp": "{v:0035}ぐはっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0015",
    "jp": "{v:0036}そんな！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Impossible!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0016",
    "jp": "{v:0037}目的は達成した！{n}退却するぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Objective achieved! Retreat!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0017",
    "jp": "{v:0038}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0018",
    "jp": "{v:0039}よし、目標を撃破した！{n}これより退却する！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Good, the target is down! We are withdrawing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0019",
    "jp": "将軍‥‥。{n}どうやら私はこれまでのようです‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "General... It seems this is the end for me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0020",
    "jp": "くっ！！{n}すまぬ‥‥。{n}私がもっとしっかりとしていれば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Gh!! Forgive me... If only I had done better...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0021",
    "jp": "{v:003A}うぐっ！{p}{v:003B}く‥‥ここまで来て‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Ugh!{p}{v:003B}Gh... After coming so far...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0022",
    "jp": "{v:003C}た、隊長！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}C-Captain?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0023",
    "jp": "{v:003D}お前たちだけでも作戦は‥遂行‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Even without me... carry out... the mission...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0024",
    "jp": "{v:003E}お任せ下さい！{n}最後の１人になっても、必ず！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Leave it to us! Even if only one of us is left, we'll see{n}it through!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0025",
    "jp": "うう‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0026",
    "jp": "これ以上は‥‥ダメ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I can't... go on...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0027",
    "jp": "こ、これまで‥‥か‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I-is this... the end...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0028",
    "jp": "強い‥‥",
-   "en": "",
-   "term": "end"
+   "en": "So strong...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0029",
    "jp": "そんな‥‥",
-   "en": "",
-   "term": "end"
+   "en": "It can't be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen231.0030",
    "jp": "{v:003F}おのれ！{n}よくも我が部下を！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Damn you! How dare you do that to my men!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

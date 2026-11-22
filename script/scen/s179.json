@@ -15,8 +15,9 @@
   {
    "id": "scen179.0001",
    "jp": "ＤＡＴＡ[0793]ＢＡＮＫ",
-   "en": "",
-   "term": "null"
+   "en": "DATA BANK",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen179.0002",
@@ -27,20 +28,23 @@
   {
    "id": "scen179.0003",
    "jp": "？？？",
-   "en": "",
-   "term": "null"
+   "en": "???",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen179.0004",
    "jp": "時空制御塔・Ａブロック",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower, Block A",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0005",
    "jp": "{v:0022}作りが変わった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}The construction is different here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0006",
@@ -81,8 +85,9 @@
   {
    "id": "scen179.0012",
    "jp": "{v:000E}ここには敵がいないみたい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Looks like there aren't any enemies here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0013",
@@ -111,14 +116,16 @@
   {
    "id": "scen179.0017",
    "jp": "メモリーの読み出しが可能です。",
-   "en": "",
-   "term": "end"
+   "en": "Memory retrieval available.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0018",
    "jp": "読み出したいデータを入力してください。",
-   "en": "",
-   "term": "end"
+   "en": "Please enter the data you wish to retrieve.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0019",
@@ -272,8 +279,9 @@
   {
    "id": "scen179.0043",
    "jp": "読み出したいデータを入力してください。",
-   "en": "",
-   "term": "end"
+   "en": "Please enter the data you wish to retrieve.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0044",
@@ -306,8 +314,9 @@
   {
    "id": "scen179.0048",
    "jp": "　　　{FFF0}ＮＯ　ＤＡＴＡ{FFF1}{FFFB}{n}　　　{FFEE}記録装置を起動して下さい{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　　　{FFF0}NO DATA{FFF1}{FFFB}{FFEE}Please activate the recording device.{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0049",
@@ -330,8 +339,9 @@
   {
    "id": "scen179.0052",
    "jp": "壊れているのか、動かない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It won't work. Perhaps it's broken...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0053",
@@ -342,68 +352,79 @@
   {
    "id": "scen179.0054",
    "jp": "　{n}　　　　　　　　{FFEF}装置を起動した！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　　{FFEF}Activated the device!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0055",
    "jp": "{v:002E}何これ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}What's this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0056",
    "jp": "{v:002F}これは‥‥どうやら何かの制御端末みたいだな。{p}{v:0030}動かしてみるかい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}This is... It looks like some sort of control terminal.{p}{v:0030}Shall we try operating it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0057",
    "jp": "{v:0031}う～ん‥‥。{p}{v:0032}迷いの森の遺跡にあった操作装置に似てるね。{p}{v:0033}お兄ちゃん、動かしてみる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Hmm...{p}{v:0032}It looks like the controls in the Lost Forest ruins.{p}{v:0033}Big Brother, shall we try operating it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0058",
    "jp": "装置を動かしてみますか？",
-   "en": "",
-   "term": "end"
+   "en": "Try operating the device?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0059",
    "jp": "{FFEE}ＴＯＴＡＬ　ＣＯＮＴＲＯＬ　ＣＬＩＥＮＴ{p}‥‥‥ＳＹＳＴＥＭ　ＧＲＥＥＮ{p}ＶＯＩＣＥ　ＮＡＶＩＧＡＴＩＯＮ　ＭＯＤＥ{FFF1}{p}．．．ＯＫ{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}TOTAL CONTROL CLIENT ...SYSTEM GREEN VOICE{n}NAVIGATION MODE{FFF1}{p}...OK{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0060",
    "jp": "{v:0037}奥へ進むには、{n}ここで鍵を外さなくちゃダメみたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Looks like we have to unlock it here to get any farther.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0061",
    "jp": "ロックを解除しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Release the lock?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0062",
    "jp": "ロックを解除しました。",
-   "en": "",
-   "term": "end"
+   "en": "Lock released.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0063",
    "jp": "解除操作を取り消しました。",
-   "en": "",
-   "term": "end"
+   "en": "Unlock operation canceled.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0064",
    "jp": "{v:0035}とりあえず、ちゃんと動いてるみたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Well, it seems to be working properly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0065",
@@ -674,9 +695,10 @@
   {
    "id": "scen179.0109",
    "jp": "・そんなことはない",
-   "en": "",
+   "en": "・I'm doing no such thing",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen179.0110",
@@ -688,9 +710,10 @@
   {
    "id": "scen179.0111",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen179.0112",
@@ -761,14 +784,16 @@
   {
    "id": "scen179.0123",
    "jp": "{v:001D}お、おい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}H-hey!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0124",
    "jp": "{v:001E}お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen179.0125",
@@ -827,8 +852,9 @@
   {
    "id": "scen179.0134",
    "jp": "　{n}　　　テレポートの魔法がかき消された！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　The Teleport spell was dispelled!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

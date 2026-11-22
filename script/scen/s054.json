@@ -15,248 +15,289 @@
   {
    "id": "scen054.0001",
    "jp": "グレムリン",
-   "en": "",
-   "term": "null"
+   "en": "Gremlin",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen054.0002",
    "jp": "モンスター使い見習い",
-   "en": "",
-   "term": "null"
+   "en": "Apprentice Monster Tamer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen054.0003",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen054.0004",
    "jp": "村人",
-   "en": "",
-   "term": "null"
+   "en": "Villager",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen054.0005",
    "jp": "ゼメキス",
-   "en": "",
-   "term": "null"
+   "en": "Zemekis",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen054.0006",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen054.0007",
    "jp": "クレイン村",
-   "en": "",
-   "term": "end"
+   "en": "Crane Village",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0008",
    "jp": "{v:0000}ん‥‥、そうだ。{n}１つ思い出したことがある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hmm... That's right. Just remembered something.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0009",
    "jp": "{v:0002}実はこのクレイン村の村長は、{n}ルイセと同じくグローシアンだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}The chief of Crane Village is a Growsian, like Luise.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0010",
    "jp": "{v:0003}わたしと同じ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Like me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0011",
    "jp": "{v:0004}まだ生きていればの話だがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}If he's still alive, that is.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0012",
    "jp": "{v:0005}グルル‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Grrr...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0013",
    "jp": "{v:0006}ああ、モンスターがっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Ah! Monsters?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0014",
    "jp": "{v:0007}グレムリンが村の中に！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Gremlins inside the village?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0015",
    "jp": "{v:0008}はっ、モンスターがっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Ah! Monsters!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0016",
    "jp": "{v:0009}早く助けないと！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}We've got to help, quick!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0017",
    "jp": "{v:000A}おっと勘違いしないでくれ！{n}別にこいつらが暴れているんじゃないんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Whoa, you've got the wrong idea! These guys aren't{n}running wild!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0018",
    "jp": "{v:000B}へっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0019",
    "jp": "{v:000C}よく見ててくれよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Watch closely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0020",
    "jp": "{v:000D}ほらっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0021",
    "jp": "{v:000E}いよっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Hup!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0022",
    "jp": "{v:000F}それっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}There!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0023",
    "jp": "{v:0010}不思議‥‥。{p}{v:0011}どうしてこんなに馴れてるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}How strange...{p}{v:0011}How come they're so tame?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0024",
    "jp": "{v:0012}いや、こいつらが人に馴れているんじゃない。{n}秘密はこの粉の匂いなんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Oh, they're not used to people. The secret is the smell{n}of this powder.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0025",
    "jp": "‥‥{v:0013}うむ。{n}わずかだが独特の匂いがするな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0013}Hmm. Faint, but it does have a distinct smell.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0026",
    "jp": "{v:0014}わたしには匂いなんて全然わからないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}I can't smell anything at all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0027",
    "jp": "{v:0015}人間にはわからないかも知れないけど、{n}モンスターは嗅覚が鋭いからね。{p}{v:0016}この粉にはいろんな種類があって、{n}これを適度に混ぜ、かがせてやることで{n}モンスターを操る事が出来るんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Humans might not notice it, but monsters have a sharp{n}sense of smell.{p}{v:0016}There are all sorts of these powders. Mix them in the{n}right proportions and let the monsters smell them, and{n}you can control them.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0028",
    "jp": "{v:0017}ふ～ん、何か面白そうだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Huh. That sounds kind of fun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0029",
    "jp": "{v:0018}この粉の使い方は、色々と応用できるんだ。{p}{v:0019}たとえば風上からこの匂いを流してやる。{n}すると多少離れたところからでも{n}自在に操ることが出来るんだ。{p}{v:001A}もっとも、{n}それほど離れたところから操れるようになるためには、{n}かなり修行を積まなければいけないけどね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}There are all kinds of ways to use this powder.{p}{v:0019}For example, you can let the scent drift downwind.{n}Then you can control them however you like, even from{n}some distance away.{p}{v:001A}Of course, it takes a lot of training before you can{n}control them from that far away.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0030",
    "jp": "{v:001B}修行‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Training...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0031",
    "jp": "{v:001C}風を的確に読むこと、{n}モンスターの習性を熟知すること、{n}匂いの量を正確に調整すること。{p}{v:001D}僕はまだ未熟だから、この程度しかできないけれど、{n}モンスター使いの中には、何十という数を自在に{n}操れる人がいるそうだからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}You have to read the wind accurately, know the{n}monsters' habits inside out, and adjust the amount of{n}scent precisely.{p}{v:001D}I'm still learning, so this is about all I can do. But I've{n}heard some Monster Tamers can control dozens of them{n}at will.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0032",
    "jp": "{v:001E}何事も修練か。{n}がんばれよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Everything takes practice, eh? Keep at it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0033",
    "jp": "北にある滝ってすごく大きいんだよ！{p}今はきけんだから行っちゃダメって言われてるけど、{n}また見てみたいな～。",
-   "en": "",
-   "term": "end"
+   "en": "The waterfall up north is really huge!{p}They say it's dangerous now, so I'm not allowed to go.{n}But I wanna see it again!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0034",
    "jp": "ぐるる‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Grrr...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0035",
    "jp": "がる‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Grr...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0036",
    "jp": "ギギギ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Kikiki...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0037",
    "jp": "ここは以前に世話になった、ゼメキス村長の家だ。{n}懐かしいな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "This is Village Chief Zemekis's house. He helped me out{n}before. Brings back memories...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0038",
    "jp": "{v:005A}村長さんが言ってたグローシアンの変死事件と{n}関係があるのかしら？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}I wonder if this has something to do with those{n}strange Growsian deaths the village chief mentioned?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0039",
    "jp": "‥‥{v:005B}とにかく、一度城に戻って報告した方が{n}良さそうだな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005B}Either way, we'd better head back to the castle{n}and report.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0040",
    "jp": "{FFF3}‥{FE14}‥{FE14}‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}.{FE14}.{FE14}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0041",
    "jp": "あれ？{n}どうしたの、ゼノス？",
-   "en": "",
-   "term": "end"
+   "en": "Huh? What's wrong, Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0042",
@@ -267,372 +308,433 @@
   {
    "id": "scen054.0043",
    "jp": "‥‥なんでもない。{n}ちょっと、カレンのことを思い出しちまっただけだ。{p}{FC00}それより、{n}さっさとガムランの野郎を倒しに行こうぜ！",
-   "en": "",
-   "term": "end"
+   "en": "...Nothing. Just thought of Karen for a second.{p}{FC00}Anyway, let's get moving and take down that{n}bastard Gamlan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0044",
    "jp": "すまねぇ。{n}ちょっと、用事を思い出しちまった。{n}悪いが、俺は抜けるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "Sorry. Just remembered something I've gotta do. Hate{n}to leave you, but I'm out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0045",
    "jp": "{v:0000}止まれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Halt!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0046",
    "jp": "{v:0001}バーンシュタイン王国の兵隊さん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Soldiers from the Kingdom of Burnstein?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0047",
    "jp": "{v:0002}お前たち、この村の者じゃないな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}You're not from this village, are you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0048",
    "jp": "{v:0003}どうした？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}What is the matter?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0049",
    "jp": "{v:0004}げっ、ジュリアンだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Ugh, it's Julian...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0050",
    "jp": "{v:0005}は、将軍。{n}実は怪しい者が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Yes, General! These people look suspicious...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0051",
    "jp": "{v:0006}お前たち‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}You...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0052",
    "jp": "{v:0007}こ、こんにちは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}H-hello...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0053",
    "jp": "{v:0008}将軍のお知り合いの方ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Do you know these people, General?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0054",
    "jp": "{v:0009}あ、ああ。{p}{v:000A}ここは私に任せて持ち場にもどれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Y-yes.{p}{v:000A}Leave this to me and return to your post.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0055",
    "jp": "{v:000B}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0056",
    "jp": "‥‥{v:000C}お前たちがやったのか‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000C}Was this your doing...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0057",
    "jp": "{v:000D}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0058",
    "jp": "{v:000E}疑いたくはないが、{n}敵地に乗り込んでいる奴らを見逃すことは出来ぬ。{p}{v:000F}事を荒立てたくない。{n}正直に答えてくれ。{p}{FFF3}‥{FE1E}‥{FE1E}‥{FE1E}{FFF4}{v:0010}お前たちがやったわけではないのだな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}I do not wish to suspect you, but you have entered{n}enemy territory. I cannot simply let you pass.{p}{v:000F}I do not want trouble. Answer me honestly.{p}{FFF3}.{FE1E}.{FE1E}.{FE1E}{FFF4}{v:0010}You had nothing to do with it, then?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0059",
    "jp": "{v:0011}だから、何のことを言っているのかわからなきゃ、{n}答えられねぇだろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Look, how the hell can we answer if we don't know what{n}you're talking about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0060",
    "jp": "{v:0012}この村の村長が何者かに殺された。{n}その犯人がお前たちかと聞いているのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Someone murdered this village's chief. I am asking{n}whether you are responsible.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0061",
    "jp": "‥‥{v:0013}話を聞かせてもらおうか？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0013}Let's hear what you have to say.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0062",
    "jp": "{FB00}{v:0014}な、何の事かな？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0014}W-whatever do you mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0063",
    "jp": "{v:0015}ふざけると、この場で死ぬ事になるぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Keep playing the fool, and you will die where you stand.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0064",
    "jp": "{v:0016}わ、わかったわよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}A-all right, all right...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0065",
    "jp": "‥‥{v:0017}フン。{p}{v:0018}まさかお前たちがやったのではあるまいな？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0017}Hmph.{p}{v:0018}Surely this was not your doing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0066",
    "jp": "{v:0019}それこそ話が見えんぞ。{n}何かあったのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Now you've really lost me. Did something happen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0067",
    "jp": "{v:001A}しらを切る気か？{p}{v:001B}お前たちが、この村の村長を殺したのかと{n}聞いているのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Do you intend to play innocent?{p}{v:001B}I am asking whether you killed this village's chief.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0068",
    "jp": "{v:001C}えっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0069",
    "jp": "{v:001E}おい、ジュリアン！{n}詳しく話を聞かせろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Hey, Julian! Tell us exactly what happened!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0070",
    "jp": "{v:001F}質問しているのはこちらだぞ！？{p}{FC00}{v:0020}まあ、いい。{n}その調子では、お前たちではないようだからな。{p}{v:0021}最近、グローシアンばかりを狙った事件が{n}起こっている。{n}今までに何人も殺されたり、行方不明になった。{p}{v:0022}だが、犯人の目的が何なのか、皆目見当がつかん。{p}{v:0023}これだけ大掛かりな犯行だ。{n}単独犯であるとは思えぬが、{n}どのような組織かもわかっていない。{p}{v:0024}１つだけ言える事は、{n}これ以上事件は起こらないだろうという事だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}I am the one asking the questions!{p}{FC00}{v:0020}Very well. Judging by your reaction, it seems you were{n}not responsible.{p}{v:0021}Recently, there have been attacks targeting Growsians{n}alone. Several have already been killed or gone missing.{p}{v:0022}But we have no idea what the perpetrators are after.{p}{v:0023}The crimes are too extensive to be the work of one{n}person. Yet we do not even know what sort of{n}organization is behind them.{p}{v:0024}There is only one thing I can tell you: there will{n}probably be no more such incidents.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0071",
    "jp": "{v:0025}それって、どういう意味？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}What's that supposed to mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0072",
    "jp": "{v:0026}この村の村長が‥‥、{n}我が国最後のグローシアンだったからだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}This village's chief... was the last Growsian in{n}our country.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0073",
    "jp": "‥‥{v:0028}なんてこった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0028}Damn it all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0074",
    "jp": "{v:0029}さて、今度はこちらの質問に答えてもらう番だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Now it is your turn to answer my questions.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0075",
    "jp": "{v:002A}お前たちは何の目的でここへ来た？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}What purpose brings you here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0076",
    "jp": "・ジュリアンに会うため",
-   "en": "",
+   "en": "・To see Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen054.0077",
    "jp": "・戦争とは関係ない任務",
-   "en": "",
+   "en": "・A mission unrelated to the war",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen054.0078",
    "jp": "・敵に教えることは出来ない",
-   "en": "",
+   "en": "・We can't tell the enemy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen054.0079",
    "jp": "・異形の調査について教える",
-   "en": "",
+   "en": "・Explain the creature investigation",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen054.0080",
    "jp": "{v:002B}今は冗談を聞いている心境ではない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}I am in no mood for jokes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0081",
    "jp": "{v:002C}無関係だと？{p}{v:002D}ならば詳しく教えてもらおうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Unrelated?{p}{v:002D}Then perhaps you will explain in detail?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0082",
    "jp": "{v:002E}ならばこの場で死んでも文句は言えぬぞ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Then you can hardly complain if you die here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0083",
    "jp": "{v:002F}仕方ない。{p}{v:0030}状況が状況だ。{n}かいつまんで説明しよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}No choice, then.{p}{v:0030}Given the circumstances, we'd better give you the{n}short version.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0084",
    "jp": "{v:0031}あの、わたしたち、{n}ゲヴェルについて調査をしているの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Um, we're investigating Gevel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0085",
    "jp": "{v:0032}ゲヴェルの調査？{n}何だ、それは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Investigating Gevel? What is that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0086",
    "jp": "{v:0033}まだ人間がグローシアンの支配を受けていた頃、{n}人間を殺りくしていた怪物。{p}{v:0034}どうも、それは伝承なんかじゃなくて、{n}本当にいるみたいなの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}A monster that slaughtered humans back when they{n}were still ruled by the Growsians.{p}{v:0034}Looks like it isn't just some legend. It might{n}actually exist.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0087",
    "jp": "{v:0035}水晶鉱山の中から出てきたっていう証拠も{n}見つけたんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}We even found proof that it came out of the{n}crystal mine!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0088",
    "jp": "{v:0036}ほう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Oh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0089",
    "jp": "{v:0037}信じてねぇみてぇだが、{n}お前だってあったことがあるんだぜ？{n}ゲヴェルの手下によ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}You don't look convinced, but you've met them{n}yourself, you know. Gevel's lackeys.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0090",
    "jp": "{v:0038}なに？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}What?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0091",
    "jp": "{v:0039}前にサンドラ様を襲った仮面の男たちがいただろ？{n}奴等がそうだ。{p}{v:003A}そしてこの村の北が、{n}俺が奴等に腕と目を奪われた場所だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Remember those masked men who attacked{n}Sandra-sama? They're the ones.{p}{v:003A}And north of this village is where they took my arm{n}and eyes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0092",
    "jp": "{v:003B}だからここに調査に来たの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}That's why we came here to investigate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0093",
    "jp": "‥‥{v:003C}そうだったのか。{p}{v:003D}それで、成果はあったのか？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003C}I see.{p}{v:003D}And did you find anything?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0094",
    "jp": "{v:003E}滝の裏の洞窟に、異形のちっちゃい奴がいたよ！{n}それから、例の仮面の男も！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}There was a weird little creature in the cave behind the{n}waterfall! And one of those masked men, too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0095",
    "jp": "{v:003F}俺たちが全部倒しちまったが、{n}行ってみれば奴等の死体があるからわかるだろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}We killed the lot of them. Go look. Their bodies'll tell you{n}all you need to know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0096",
    "jp": "{v:0040}将軍！{n}洞窟にたくさんの死体が！{n}それから見慣れぬ怪物の死体も！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}General! There are bodies all over the cave! And the{n}bodies of some unfamiliar monsters, too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0097",
    "jp": "‥‥{v:0041}どうやら本当だったようだな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0041}It seems you were telling the truth.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0098",
    "jp": "{v:0042}わかった。{n}私が直接指揮を取る。{n}５人ほど選出しておけ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Understood. I will take command myself. Select five men{n}or so!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0099",
    "jp": "{v:0043}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0100",
    "jp": "{v:0044}ということだ。{n}もし奴等が人間に害をなすような企みをしているなら、{n}これは戦争どころじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}There you have it. If they're plotting something against{n}humanity, we've got bigger problems than this war.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0101",
    "jp": "{v:0045}うむ。{p}{v:0046}私もお前たちと戦って、{n}この村に迷惑をかけたくはない。{n}今日のところは見逃すとしよう。{p}{FC02}{v:0047}だが戦場であったならばこうはいかん。{n}覚悟しておけ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Indeed.{p}{v:0046}I have no wish to bring trouble upon this village by{n}fighting you, either. I will let you go for today.{p}{FC02}{v:0047}But do not expect the same if we meet on the{n}battlefield. Be prepared!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0102",
    "jp": "君たちのおかげで、滝の側へ行っても{n}安全になったよ。{p}これでまた、あそこへピクニックに行ける。{n}ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks to you, it's safe to go near the waterfall now.{p}We can have picnics there again. Thank you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0103",
    "jp": "村長が亡くなって、ちょっと寂しくなったわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It's a little lonely here now that the village chief has{n}passed away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0104",
@@ -643,212 +745,247 @@
   {
    "id": "scen054.0105",
    "jp": "ありがとう。{n}君たちのおかげで、助かったよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you. You saved me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0106",
    "jp": "せっかく無事に村へ戻れたのに‥‥、{n}村長が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I finally made it back to the village safely, only to{n}find... the village chief...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0107",
    "jp": "どこにも犯人の手がかりとなるような物がない。{n}あまりに手際が良すぎるな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "There's nothing anywhere that could lead us to the{n}killer. This was far too expertly done...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0108",
    "jp": "これで我が国には１人もグローシアンが{n}いなくなったか‥‥。{p}どうやら、これら変死事件の背後には{n}大きな組織が絡んでいるようだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "So there isn't a single Growsian left in our country...{p}It seems a large organization is behind these{n}suspicious deaths...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0109",
    "jp": "　{n}　　　『{FFEF}ティピの可能性２{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Obtained '{FFEF}Tippi's Potential 2{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0110",
    "jp": "ゼメキスの屋敷",
-   "en": "",
-   "term": "end"
+   "en": "Zemekis's Manor",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0111",
    "jp": "{v:002C}おじいちゃん、こんにちは！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Hi, Gramps!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0112",
    "jp": "{v:002D}おやおや、こんな村に客人とは珍しい。{n}それに、こんなに可愛い妖精まで一緒とは‥‥。{FFF9}{FFFB}{n}{v:002E}長生きはするもんじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Well, well! Visitors to a village like ours are a rare{n}sight. And with such a lovely fairy along, too...{FFF9}{FFFB} {v:002E}There{n}are rewards for living to a ripe old age, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0113",
    "jp": "{v:002F}えへへっ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Heehee!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0114",
    "jp": "{v:0030}お久しぶりです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}It's been a long time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0115",
    "jp": "{v:0031}おや、お主は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Oh, you're...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0116",
    "jp": "{v:0032}もう覚えていらっしゃらないかも知れませんが、{n}２年ほど前にお世話になったことがあります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}You may not remember me, but you helped me about{n}two years ago.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0117",
    "jp": "{v:0033}おお、覚えているとも。{n}お主、裏の滝に向かって、{n}それっきり帰って来なんだからのう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Oh, of course I remember. You set off for the{n}waterfall behind the village and never came back,{n}my boy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0118",
    "jp": "{v:0034}ご心配おかけしました。{p}{v:0035}途中で暴漢に襲われ、このありさまです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}I'm sorry to have worried you.{p}{v:0035}I was attacked on the way. This is how I ended up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0119",
    "jp": "{v:0036}ほほう‥‥。{n}じゃが、生きていただけよかったではないか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Oh, my... Still, you came out alive. That's something to{n}be thankful for, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0120",
    "jp": "{v:0037}確かに。{p}{v:0038}それで、もう一度あそこへ行きたいのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Indeed.{p}{v:0038}And now I'd like to go there again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0121",
    "jp": "{v:0039}何を言っておるんじゃ！{p}{v:003A}お主が戻らなくなったあの頃から、{n}あそこへ近づく者は、{n}誰も戻らなくなっておるんじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}What are you saying, my boy?!{p}{v:003A}Ever since you failed to return, no one who goes near{n}that place has come back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0122",
    "jp": "{v:003B}その話、詳しく聞かせて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Please tell us more about that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0123",
    "jp": "{v:003C}お主は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}You...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0124",
    "jp": "{v:003D}この感じ、お主もグローシュを使えるのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}This feeling... Can you use Grosh, too, child?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0125",
    "jp": "{v:003E}ルイセちゃんはね、皆既日食のグローシアンなんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Luise-chan's a Growsian born during a total solar{n}eclipse, you know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0126",
    "jp": "{v:003F}やはりそうか{FFF9}{FFFB}‥‥。{n}‥‥{v:0040}ならば話を聞かせよう。{p}{v:0041}もともとこの辺りの土地は、宮廷魔術師をしていた{n}ヴェンツェル様のご領地じゃった。{p}{v:0042}だが、ウォレス殿が滝へ向かい戻らなかったすぐ後{n}ヴェンツェル様が王宮から失踪し、{n}この辺りは王家の直轄地となった。{p}{v:0043}その頃からじゃよ。{n}あの滝に近づく者が帰らなくなったのは‥‥。{p}{v:0044}いや、唯一例外がいる。{n}滝の側まで行き、戻ってきた者が１人だけ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Just as I thought{FFF9}{FFFB}... ...{v:0040}Then I shall tell you.{p}{v:0041}The land around here once belonged to Wenzel-sama,{n}who served as Court Magician.{p}{v:0042}But shortly after Wallace-dono went to the waterfall{n}and failed to return, Wenzel-sama vanished from the{n}royal palace.{p}These lands then came under direct royal rule.{p}{v:0043}It was around then, you see, that people who went{n}near the waterfall stopped coming back...{p}{v:0044}No, there was one exception. Just one person went{n}near the waterfall and returned...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0127",
    "jp": "{v:0045}それは誰なのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Who was that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0128",
    "jp": "{v:0046}誰だと思う？{p}{v:0047}何を隠そう、ワシなのじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Who do you think?{p}{v:0047}Why, none other than this old man.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0129",
    "jp": "{v:0048}ええ、おじいちゃんが？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}What, you, Gramps?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0130",
    "jp": "{v:0049}今までは、なぜワシだけが無事戻れたのか、{n}わからんかった。{n}だがお嬢ちゃんと会って、気付いたよ。{p}{v:004A}ワシがグローシュを持つ者だからかも知れん。{n}だから話す決心がついたのじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Until now, I never understood why I alone returned{n}unharmed. But meeting you, young lady, made me{n}realize something.{p}{v:004A}It may be because I possess Grosh. That is why I{n}decided to tell you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0131",
    "jp": "{v:004B}おじいさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Sir...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0132",
    "jp": "{v:004C}とりあえず、向こうへ行くことは許可しよう。{n}だが、危険を感じたらすぐに戻ってくるのじゃよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}For now, I shall give you permission to go there. But{n}come straight back if you sense any danger, do{n}you hear?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0133",
    "jp": "{v:004D}ありがとう、おじいちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Thanks, Gramps!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0134",
    "jp": "{v:004E}もう１つ話がある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}There is one more thing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0135",
    "jp": "{v:004F}何でしょう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0136",
    "jp": "{v:0050}ここのところグローシアンが失踪している事件は{n}知っておるか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Have you heard about the Growsians who have been{n}disappearing lately?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0137",
    "jp": "{v:0051}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0138",
    "jp": "{v:0052}グローシアンが、失踪？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Growsians are disappearing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0139",
    "jp": "{v:0053}それだけではない。{n}中には変死体で見つかった者もおってな。{p}{v:0054}そうか、知らなかったのか。{n}不安がらせてしまうだけだったかの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}And that is not all. Some have been found dead under{n}suspicious circumstances.{p}{v:0054}Ah, so you hadn't heard. Perhaps I've only made{n}you worry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0140",
@@ -859,312 +996,363 @@
   {
    "id": "scen054.0141",
    "jp": "{v:0056}うむ。{p}{v:0057}ここのところ国内のグローシアンが{n}次々と行方不明になっておるのじゃ。{p}{v:0058}ほとんどの場合、被害者は発見されないままだが、{n}まれに死体が発見されることがある。{p}{v:0059}行方の知れぬ他のグローシアンも、{n}おそらく生きてはいまい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}Very well.{p}{v:0057}Of late, Growsians throughout the country have been{n}going missing, one after another.{p}{v:0058}In most cases, the victims are never found.{n}Occasionally, though, a body turns up.{p}{v:0059}I fear the other missing Growsians are probably no{n}longer alive, either...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0142",
    "jp": "‥‥‥{v:005A}う‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "......{v:005A}Oh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0143",
    "jp": "{v:005B}それって、いつから？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}When did all that start?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0144",
    "jp": "{v:005C}そうだな。{n}リシャール王の戴冠式が行われた辺りからじゃな。{p}{v:005D}お嬢ちゃんも気をつけるのじゃよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Let me see. Around the time of King Richard's{n}coronation, I believe.{p}{v:005D}You must be careful too, child.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0145",
    "jp": "{v:005E}はい、気をつけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}Yes, I will.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0146",
    "jp": "{v:005D}お嬢ちゃんも気をつけるのじゃよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}You must be careful too, child.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0147",
    "jp": "{v:0053}あの、これ‥‥村長さんの息子さんが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Um, this... The village chief's son...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0148",
    "jp": "　{n}　　　　　『{FFEF}形見のナイフ{FFF1}』を渡した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Handed over the '{FFEF}Keepsake Knife{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0149",
    "jp": "{v:0054}そんな‥あの人が‥‥！？{n}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}No... He...?! It can't be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0150",
    "jp": "{v:0055}そうか‥‥あいつも‥‥。{p}{v:0056}良く届けてくれたね。{n}お礼といっては何だが、これを受け取ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}I see... Him, too...{p}{v:0056}Thank you for bringing this back. It's not much of a{n}reward, but please take this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0151",
    "jp": "{v:0057}これは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0152",
    "jp": "{v:0058}村長の使っていた杖だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}The staff the village chief used.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0153",
    "jp": "　{n}　　　『{FFEF}ゼメキスの杖{FFF1}』をもらった！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Received '{FFEF}Zemekis's Staff{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0154",
    "jp": "{v:0059}ありがとうございます。{n}大切に使わせて貰います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Thank you very much. I'll take good care of it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0155",
    "jp": "村長が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The village chief...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0156",
    "jp": "{v:004A}今朝、村長の家に行ったらベッドの上に{n}血まみれの村長が横たわっていたんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}When I went to the village chief's house this morning, I{n}found him lying on his bed, covered in blood.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0157",
    "jp": "{v:004B}くそっ！{n}あの男、どうして村長を‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Damn it! Why did that man kill the chief...?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0158",
    "jp": "{v:004C}男？{FFF9}{FFFB}{n}{v:004D}犯人を見たのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}A man?{FFF9}{FFFB} {v:004D}You saw the killer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0159",
    "jp": "{v:004E}ああ、たぶんな。{n}この家から逃げていく男の影を見たんだ。{p}{v:004F}ちょっとごつくて、白っぽい鎧を着た男だった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Yeah, probably. I caught sight of a man fleeing{n}this house.{p}{v:004F}He was fairly burly, wearing whitish armor.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0160",
    "jp": "{v:0050}ごつくて、白い鎧を着けた男か。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}A burly man in white armor, huh.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0161",
    "jp": "{v:0051}後ろ姿をちょっと見ただけでしたけど、{n}金色の手甲をしていました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}I only caught a glimpse of him from behind, but he was{n}wearing golden gauntlets.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0162",
    "jp": "{v:0052}金色の手甲ね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Golden gauntlets, huh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0163",
    "jp": "ところで、村長のお子さんの消息をしらないか？",
-   "en": "",
-   "term": "end"
+   "en": "By the way, have you heard anything about the village{n}chief's son?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0164",
    "jp": "ここから先は、危険だから通れないように{n}なっているんだ。",
-   "en": "",
-   "term": "end"
+   "en": "It's dangerous up ahead, so we've blocked the way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0165",
    "jp": "えぇっ！？",
-   "en": "",
-   "term": "end"
+   "en": "Whaaat?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0166",
    "jp": "もう何人もこの先で行方不明になっているんだ。{n}村長の息子さんも‥‥。{p}だからこれ以上、被害者を出すわけにはいかない。",
-   "en": "",
-   "term": "end"
+   "en": "Several people have already gone missing beyond{n}here. The village chief's son, too...{p}We can't let anyone else become a victim.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0167",
    "jp": "参ったな。",
-   "en": "",
-   "term": "end"
+   "en": "Well, that's a problem.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0168",
    "jp": "{v:0024}ここから先は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Beyond this point...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0169",
    "jp": "{v:0025}村長さんの許可ならもらったよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}We already got the village chief's permission!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0170",
    "jp": "{v:0026}えぇっ！？{n}本当なのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}What?! Really?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0171",
    "jp": "{v:0027}どうなっても知らないからな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Whatever happens to you, don't blame me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0172",
    "jp": "{v:0028}なんだ、びっくりさせるなよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Oh, come on. Don't give me a scare like that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0173",
    "jp": "{v:0029}アンタ、さっき村長さんから許可をもらったのを{n}もう忘れたの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Did you already forget we just got the village{n}chief's permission?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0174",
    "jp": "{v:002A}本当に許可をもらったのか？{n}それなら開けるけど、{n}どうなってもしらないからな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}You really got his permission? Then I'll open it, but{n}don't blame me for whatever happens...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0175",
    "jp": "ところで、あなた‥‥。{n}村長のお子さんの消息をしらない？",
-   "en": "",
-   "term": "end"
+   "en": "By the way... Have you heard anything about the village{n}chief's son?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0176",
    "jp": "どうして？{n}どうして村長が殺されなくちゃいけないの？",
-   "en": "",
-   "term": "end"
+   "en": "Why? Why did the village chief have to be killed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0177",
    "jp": "{v:002B}北の滝には行かない方がいいわよ。{n}村長の息子さんも滝に調べに行ったきり{n}戻らないんだから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}You'd best stay away from the waterfall up north. The{n}village chief's son went to investigate it and never{n}came back, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0178",
    "jp": "{v:000D}いらっしゃいませ。{n}当店では、様々なグッズを取り扱っております。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Welcome. We carry a wide variety of goods.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0179",
    "jp": "{v:000E}お買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Would you like to buy or sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0180",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen054.0181",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen054.0182",
    "jp": "他にもご用はおありですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0183",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen054.0184",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen054.0185",
    "jp": "{v:0018}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0186",
    "jp": "お待たせしました。{n}お泊まりは、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Thank you for waiting. A night's stay will be {FFEB} Elm. Is{n}that all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0187",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0188",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0189",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0190",
    "jp": "お客さん！{n}ここは前金制ですよ！",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me! Payment is required in advance!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen054.0191",
    "jp": "もうちょっと調べてからにしようよ！",
-   "en": "",
-   "term": "end"
+   "en": "Let's look around a little more first!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

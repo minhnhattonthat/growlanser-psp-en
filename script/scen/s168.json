@@ -15,68 +15,79 @@
   {
    "id": "scen168.0001",
    "jp": "観光客",
-   "en": "",
-   "term": "null"
+   "en": "Tourist",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen168.0002",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen168.0003",
    "jp": "旅人",
-   "en": "",
-   "term": "null"
+   "en": "Traveler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen168.0004",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen168.0005",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen168.0006",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen168.0007",
    "jp": "標識",
-   "en": "",
-   "term": "null"
+   "en": "Sign",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen168.0008",
    "jp": "旅行者",
-   "en": "",
-   "term": "null"
+   "en": "Traveler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen168.0009",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen168.0010",
    "jp": "ダニー・グレイズ",
-   "en": "",
-   "term": "null"
+   "en": "Danny Glaze",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen168.0011",
    "jp": "コムスプリングス",
-   "en": "",
-   "term": "end"
+   "en": "Comsprings",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0012",
@@ -93,14 +104,16 @@
   {
    "id": "scen168.0014",
    "jp": "温泉の街、{n}{FFEF}コムスプリングス{FFF1}へようこそ！",
-   "en": "",
-   "term": "end"
+   "en": "Welcome to {FFEF}Comsprings{FFF1}, the hot spring town!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0015",
    "jp": "この街ってとってもいいわね。{n}気に入っちゃった♪",
-   "en": "",
-   "term": "end"
+   "en": "This town is so lovely. I've fallen in love with it♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0016",
@@ -117,14 +130,16 @@
   {
    "id": "scen168.0018",
    "jp": "よそから来た人たちって、{n}み～んな、ここがいい所だって言うんだよね。{p}でも、そんなにいい場所なのかなぁ？{n}僕には、退屈で変化にトボしいつまらない場所に{n}見えるんだけどなぁ‥‥。{p}人間って、あきやすい動物っていうけど、{n}ボクも、そうなのかなぁ‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "Everyone who visits says this is such a nice place.{p}But is it really that great? To me, it's just dull and{n}boring. Nothing ever changes...{p}They say people get bored easily. I wonder if I'm like{n}that too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0019",
    "jp": "ここって、そんなにいい場所なのかなぁ？{n}僕には、退屈で変化にトボしいつまらない場所に{n}見えるんだけどなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Is this really such a great place? To me, it's just dull{n}and boring. Nothing ever changes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0020",
@@ -141,8 +156,9 @@
   {
    "id": "scen168.0022",
    "jp": "風の向くまま、気の向くまま‥‥。{n}気ままに旅を続けてきたけど、ここにいると{n}腰が重くなるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Wherever the wind blows, wherever the mood takes{n}me... I've always wandered as I pleased, but being here{n}makes it hard to get moving again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0023",
@@ -159,164 +175,189 @@
   {
    "id": "scen168.0025",
    "jp": "{v:0019}おう、いらっしゃい。{n}ここは装備品を売ってる店だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Hey, welcome. We sell equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0026",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0027",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0028",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0029",
    "jp": "まだ何か用か？",
-   "en": "",
-   "term": "end"
+   "en": "Need anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0030",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0031",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0032",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}See ya.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0033",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0034",
    "jp": "{v:0002}さて、何の用かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Now, what can I do for you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0035",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0036",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0037",
    "jp": "まだ用事はあるかい？",
-   "en": "",
-   "term": "end"
+   "en": "Anything else you need?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0038",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0039",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0040",
    "jp": "{v:000B}またおいで～。待ってるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Come back soon! I'll be waiting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0041",
    "jp": "{v:0040}まぁ、いらっしゃい。{n}このお店は、どんなグッズでもそろってるわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Oh, welcome! This shop has every sort of item you{n}could want.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0042",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}So, are you here to buy or to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0043",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0044",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0045",
    "jp": "で、他にも何かある？",
-   "en": "",
-   "term": "end"
+   "en": "So, anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0046",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0047",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen168.0048",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Come back again, won't you? I'll have a lovely smile{n}waiting for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0049",
    "jp": "観光地としてはここ、コムスプリングスが{n}有名だけど、北には保養地として名高い{n}ラシェルがあるんだ。{p}歳をとったらそっちに移ろうかな。",
-   "en": "",
-   "term": "end"
+   "en": "Comsprings here is famous for sightseeing, but up{n}north there's Rachelle, a well-known health resort.{p}Maybe I'll move there when I'm older.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0050",
@@ -333,14 +374,16 @@
   {
    "id": "scen168.0052",
    "jp": "観光客はここでちょっときれいな景色でも見て帰れば{n}いいんだろうけどね。{p}私らは、観光客が捨てるゴミの片づけで大変なのよ。{n}もっとも、そのお客がいるから、{n}街がなりたつのだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Tourists can just come here, enjoy the pretty scenery,{n}and go home.{p}We're the ones who have to clean up all their litter,{n}you know. Still, those visitors do keep the town going...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0053",
    "jp": "今日も日が暮れたら、{n}ゴミを片づけないとね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'll have to clean up the litter again once the sun{n}goes down...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0054",
@@ -357,20 +400,23 @@
   {
    "id": "scen168.0056",
    "jp": "いいながめだね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What a lovely view...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0057",
    "jp": "そうだね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It really is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0058",
    "jp": "風が気持ちいいわね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The breeze feels lovely, doesn't it...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0059",
@@ -393,8 +439,9 @@
   {
    "id": "scen168.0062",
    "jp": "　{n}　　　　　{FFEF}鉱山街ヴァルミエ方面出口{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Exit toward Valmier Mining Town{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0063",
@@ -477,8 +524,9 @@
   {
    "id": "scen168.0076",
    "jp": "やぁ～っと戦争が終わったね。{n}これでどこに行くにも自由だぁ～。",
-   "en": "",
-   "term": "end"
+   "en": "The war's fiiinally over! Now we're free to go wherever{n}we waaant!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0077",
@@ -501,32 +549,37 @@
   {
    "id": "scen168.0080",
    "jp": "コムスプリングスと言えば温泉！{n}お兄さんも入っていかないかい？{n}心も体もリフレッシュするよ！",
-   "en": "",
-   "term": "end"
+   "en": "Comsprings means hot springs! How about a dip, young{n}man? You'll feel refreshed in body and spirit!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0081",
    "jp": "{v:0018}おじゃましま～す！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Coming iiin!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0082",
    "jp": "ごめんください。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me. Is anyone home?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0083",
    "jp": "{FFF3}‥‥‥。{p}{FB00}{FFF4}留守みたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{p}{FB00}{FFF4}Looks like nobody's home.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0084",
    "jp": "こんにちは！{p}{FFF3}‥‥‥{FFF4}留守みたい。{n}鍵もかかってるし入れないみたいね。",
-   "en": "",
-   "term": "end"
+   "en": "Hello!{p}{FFF3}...{FFF4}Looks like nobody's home. The door's locked, too. I{n}guess we can't get in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0085",
@@ -537,56 +590,65 @@
   {
    "id": "scen168.0086",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0087",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0088",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0089",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0090",
    "jp": "温泉のご利用は宿泊される方のみと{n}させていただいております。",
-   "en": "",
-   "term": "end"
+   "en": "The hot springs are reserved for guests staying at{n}the inn.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0091",
    "jp": "お泊まりは、{n}こちらで手続きをしてからにお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "If you wish to stay, please check in here first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0092",
    "jp": "君と２人でコムスプリングスに{n}来られるなんて夢みたいだよ。",
-   "en": "",
-   "term": "end"
+   "en": "Being here in Comsprings, just the two of us... It's like{n}a dream.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0093",
    "jp": "また来られるようにしっかり稼いでね{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Make sure you earn plenty so we can come again{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0094",
    "jp": "あ、ああ、もちろんさ[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Y-yes, of course[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0095",
@@ -597,74 +659,86 @@
   {
    "id": "scen168.0096",
    "jp": "ここ、コムスプリングスは身体だけでなく、{n}心のリフレッシュもできる観光地だよ。",
-   "en": "",
-   "term": "end"
+   "en": "Here in Comsprings, you can refresh your mind as well{n}as your body.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0097",
    "jp": "ここから先へは、{n}正式な許可証がなければ通れないよ。",
-   "en": "",
-   "term": "end"
+   "en": "You can't go any farther without an official permit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0098",
    "jp": "この先はどうなってるの？",
-   "en": "",
-   "term": "end"
+   "en": "What's up ahead?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0099",
    "jp": "{v:0010}この先には魔水晶を採掘する水晶鉱山があるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}There's a crystal mine up ahead. They dig up magic{n}crystals there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0100",
    "jp": "正規の通行証だな。",
-   "en": "",
-   "term": "end"
+   "en": "That's a valid pass.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0101",
    "jp": "通っていいよ。",
-   "en": "",
-   "term": "end"
+   "en": "You can go through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0102",
    "jp": "{v:0003}こんにちは！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Hello!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0103",
    "jp": "{v:0004}はい？{p}{v:0005}やぁ、君たち。{n}何の用事だい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Yes?{p}{v:0005}Oh, hello there. What brings you here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0104",
    "jp": "{v:0006}別に用事はないんですけど、近くまで来たもので。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Nothing in particular. We just happened to be nearby.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0105",
    "jp": "{v:0007}それはどうも。{p}{v:0008}だが今は、次の論文の準備で忙しいんだ。{n}すまないが、１人にしておいてくれないかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}How kind of you to stop by.{p}{v:0008}But I'm busy preparing my next paper. I'm sorry, but{n}could you leave me to my work?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0106",
    "jp": "{v:0009}ごめんなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}I'm sorry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0107",
    "jp": "{v:000A}それじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}We'll be going, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0108",
@@ -723,20 +797,23 @@
   {
    "id": "scen168.0117",
    "jp": "書きかけの論文なんだ。{n}さわらんでくれたまえ。",
-   "en": "",
-   "term": "end"
+   "en": "That's a paper I'm still writing. Kindly leave it alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0118",
    "jp": "わ～。{n}難しそうな本ばっかり‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Wooow. All these books look so complicated...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen168.0119",
    "jp": "フェザリアンが作ったと言われる焼き物だ。{n}見るのはかまわんが、割ったりしないでくれよ。",
-   "en": "",
-   "term": "end"
+   "en": "That pottery is said to have been made by{n}Featherians. You're welcome to look, but do take care{n}not to break it.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

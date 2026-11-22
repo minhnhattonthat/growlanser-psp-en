@@ -15,74 +15,86 @@
   {
    "id": "scen167.0001",
    "jp": "選手",
-   "en": "",
-   "term": "null"
+   "en": "Contestant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen167.0002",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen167.0003",
    "jp": "案内標識",
-   "en": "",
-   "term": "null"
+   "en": "Signpost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen167.0004",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen167.0005",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen167.0006",
    "jp": "花売り",
-   "en": "",
-   "term": "null"
+   "en": "Flower Seller",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen167.0007",
    "jp": "番兵",
-   "en": "",
-   "term": "null"
+   "en": "Sentry",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen167.0008",
    "jp": "闘技大会参加者",
-   "en": "",
-   "term": "null"
+   "en": "Tournament Entrant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen167.0009",
    "jp": "受付員",
-   "en": "",
-   "term": "null"
+   "en": "Receptionist",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen167.0010",
    "jp": "張り紙",
-   "en": "",
-   "term": "null"
+   "en": "Notice",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen167.0011",
    "jp": "バーバラ",
-   "en": "",
-   "term": "null"
+   "en": "Barbara",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen167.0012",
    "jp": "グランシル",
-   "en": "",
-   "term": "end"
+   "en": "Grancil",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0013",
@@ -123,14 +135,16 @@
   {
    "id": "scen167.0019",
    "jp": "　　{FFEE}{FFEC}街をきれいに！{FFED}{FFF1}{n}　　　　　　　　　　　～グランシル子供会～",
-   "en": "",
-   "term": "end"
+   "en": "　　{FFEE}{FFEC}Keep our town clean!{FFED}{FFF1} Grancil Children's Club",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0020",
    "jp": "　{n}　　　　　　　鍵がかかっている！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　It's locked!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0021",
@@ -195,8 +209,9 @@
   {
    "id": "scen167.0031",
    "jp": "おや、買い物かい？{n}このグランシルは、なんでもそろってるからな。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, shopping? You can find just about anything here{n}in Grancil.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0032",
@@ -315,8 +330,9 @@
   {
    "id": "scen167.0051",
    "jp": "扉には鍵がかかっている。",
-   "en": "",
-   "term": "end"
+   "en": "The door is locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0052",
@@ -333,14 +349,16 @@
   {
    "id": "scen167.0054",
    "jp": "来年の闘技大会が楽しみだ。{n}もちろん君たちも出るんだろう？",
-   "en": "",
-   "term": "end"
+   "en": "I'm looking forward to next year's tournament. You'll be{n}entering too, of course?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0055",
    "jp": "　　　　　　{FFEC}闘技場入り口{FFED}{n}　　　　　～{FFEE}このまま右へお進み下さい{FFF1}～",
-   "en": "",
-   "term": "end"
+   "en": "　　　　　　{FFEC}Arena Entrance{FFED}{n}{FFEE}Please continue to the right{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0056",
@@ -357,8 +375,9 @@
   {
    "id": "scen167.0058",
    "jp": "ローランディア軍に仕官したんだって？{n}へぇ～、やっぱり優勝者だけあるね。",
-   "en": "",
-   "term": "end"
+   "en": "I hear you've joined the Rolandia army as an officer?{n}Wow, just what I'd expect from a champion.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0059",
@@ -387,8 +406,9 @@
   {
    "id": "scen167.0063",
    "jp": "この街にいれば安全だよ。{p}何でかって？{n}だってここにはたくさんの猛者がいるんだよ。{n}いざとなったら守ってもらうさ。",
-   "en": "",
-   "term": "end"
+   "en": "You're safe as long as you stay in this town.{p}Why? We've got plenty of mighty fighters here. If{n}trouble comes, I'll let them protect me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0064",
@@ -471,8 +491,9 @@
   {
    "id": "scen167.0077",
    "jp": "ふう‥‥。{n}私は戦争よりも妻の方が恐ろしく感じるのだ。{n}‥‥どうしよう。",
-   "en": "",
-   "term": "end"
+   "en": "*sigh*... My wife frightens me more than the war does.{n}...What am I going to do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0078",
@@ -489,210 +510,242 @@
   {
    "id": "scen167.0080",
    "jp": "{v:0027}ようお出でなさった。{n}ここでは、いろんな道具を扱っておるんじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Welcome, welcome. I carry all sorts of items here,{n}you see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0081",
    "jp": "{v:0028}それで何のご用かのぉ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Now then, what can I do for you, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0082",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0083",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0084",
    "jp": "他にも用はあるかのぉ？",
-   "en": "",
-   "term": "end"
+   "en": "Anything else you need, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0085",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0086",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0087",
    "jp": "{v:0031}また来ておくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Do come again, won't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0088",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0089",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}So, are you here to buy or to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0090",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0091",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0092",
    "jp": "で、他にも何かある？",
-   "en": "",
-   "term": "end"
+   "en": "So, anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0093",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0094",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0095",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Come back again, won't you? I'll have a lovely smile{n}waiting for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0096",
    "jp": "{v:000C}いらっしゃいませ。{n}当店では、様々な装備品を取り扱っております。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Welcome. We carry a wide variety of equipment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0097",
    "jp": "{v:000E}お買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Would you like to buy or sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0098",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0099",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0100",
    "jp": "他にもご用はおありですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0101",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0102",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0103",
    "jp": "{v:0018}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0104",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0105",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0106",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0107",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0108",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0109",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0110",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0111",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0112",
@@ -745,8 +798,9 @@
   {
    "id": "scen167.0120",
    "jp": "やあ、どうだいローザリアでの評判は？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, how's your reputation in Rosaria?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0121",
@@ -763,86 +817,99 @@
   {
    "id": "scen167.0123",
    "jp": "{v:0019}おう、いらっしゃい。{n}ここは装備品を売ってる店だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Hey, welcome. We sell equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0124",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0125",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0126",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0127",
    "jp": "まだ何か用か？",
-   "en": "",
-   "term": "end"
+   "en": "Need anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0128",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0129",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0130",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}See ya.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0131",
    "jp": "私はお花を売っています、るるる～♪",
-   "en": "",
-   "term": "end"
+   "en": "I sell flowers, la la la♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0132",
    "jp": "かわいい花束はいかがですか～♪",
-   "en": "",
-   "term": "end"
+   "en": "Would you like a lovely bouquet?♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0133",
    "jp": "・買う",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0134",
    "jp": "・買わない",
-   "en": "",
+   "en": "・Don't buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0135",
    "jp": "また来て下さいね～♪",
-   "en": "",
-   "term": "end"
+   "en": "Do come again♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0136",
@@ -853,20 +920,23 @@
   {
    "id": "scen167.0137",
    "jp": "闘技場前広場",
-   "en": "",
-   "term": "end"
+   "en": "Arena Plaza",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0138",
    "jp": "{v:0046}ここでは毎日のように猛者たちの腕試しが{n}行われているんだ。{p}{v:0047}今は年に一度の大会の準備中だから入れないけどね。{n}大会が終わればいつも通りになるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Strong fighters test their skills here almost every day.{p}{v:0047}You can't go in now. They're preparing for the annual{n}tournament. Things will be back to normal once{n}it's over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0139",
    "jp": "大会が終わったばかりだから、{n}しばらくの間、閉鎖だよ。",
-   "en": "",
-   "term": "end"
+   "en": "The tournament just ended, so we're closed for{n}a while.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0140",
@@ -877,8 +947,9 @@
   {
    "id": "scen167.0141",
    "jp": "もう若くもないし、衰えを感じるよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm not young anymore. I can feel myself slowing down.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0142",
@@ -889,8 +960,9 @@
   {
    "id": "scen167.0143",
    "jp": "いくら修行して強くなったと思っても、{n}上には上がいるものだ。",
-   "en": "",
-   "term": "end"
+   "en": "No matter how hard you train or how strong you think{n}you've become, there's always someone stronger.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0144",
@@ -901,8 +973,9 @@
   {
    "id": "scen167.0145",
    "jp": "２回戦負けだったけど、{n}強い奴と戦えて俺は満足だ。",
-   "en": "",
-   "term": "end"
+   "en": "I lost in the second round, but I got to fight someone{n}strong. That's good enough for me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0146",
@@ -925,8 +998,9 @@
   {
    "id": "scen167.0149",
    "jp": "来年は俺も闘技大会に出てみようかな？{n}月に１度は運動をかかしてないし‥‥。{n}優勝は無理でも、準優勝くらいなら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Maybe I'll enter the tournament next year. I never{n}miss my monthly workout... Winning might be a stretch,{n}but second place...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0150",
@@ -937,8 +1011,9 @@
   {
    "id": "scen167.0151",
    "jp": "来年は全部あんたたちに賭けるからな。{n}今から期待してるぜ！",
-   "en": "",
-   "term": "end"
+   "en": "Next year, I'm betting everything on you lot. I'm{n}counting on you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0152",
@@ -961,8 +1036,9 @@
   {
    "id": "scen167.0155",
    "jp": "どう？{n}すっかり普通の女の子に見えるでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "Well? I look just like an ordinary girl now, don't I?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0156",
@@ -979,118 +1055,137 @@
   {
    "id": "scen167.0158",
    "jp": "コロシアム運営事務所",
-   "en": "",
-   "term": "end"
+   "en": "Coliseum Administration Office",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0159",
    "jp": "調子はどうだい？",
-   "en": "",
-   "term": "end"
+   "en": "How are you doing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0160",
    "jp": "　{n}　　　　　　　～{FFF0}闘技大会の歴史{FFF1}～{p}約５００年ほど前、ここグランシルは{n}都市国家の１つとして栄えていました。{n}しかし伝説の格闘家として名高い『{FFEF}グランバス{FFF1}』王が{n}この地方をまとめ、大きな国家を築きました。{p}その治世の間、国王は様々な部門の格闘技を奨励し{n}毎年１回、他流試合を行うためのコロシアムを{n}グランシルに造ったのです。{p}この大会は時代とともにルールなども{n}大きく変わっていきましたが、年々規模を増し、{n}今ではこの大陸で最も有名な{n}国際大会の１つになりました。{p}大陸中の猛者が集まるこの歴史ある闘技大会。{n}あなたもぜひ、チャレンジしてみませんか？{n}　{n}　　　　　　　　　　　　　{FFEE}コロシアム運営事務局{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　{FFF0}History of the Tournament{FFF1}{p}Some 500 years ago, Grancil flourished as one of the{n}city-states in this region.{p}Then King '{FFEF}Granbas{FFF1}', renowned as a legendary martial{n}artist, united the region into a great nation.{p}During his reign, the king encouraged various forms of{n}martial arts. He built a Coliseum in Grancil where{n}different schools could compete once a year.{p}The tournament's rules have changed considerably{n}over time, but it has grown larger every year.{p}Today, it is one of the continent's most famous{n}international competitions.{p}This historic tournament draws mighty fighters from{n}across the continent. Why not take up the{n}challenge yourself?{p}{FFEE}Coliseum Administration Office{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0161",
    "jp": "当店をご利用でしたら、{n}こちらで記帳なさって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "If you would like to stay with us, please sign the{n}register here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0162",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0163",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0164",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0165",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0166",
    "jp": "私はこう見えてもオペラ歌手なのよ。{n}ただ、いい劇場がなくて、公演が出来ないのよ。{n}あなた、どこかいい場所を知らない？",
-   "en": "",
-   "term": "end"
+   "en": "I may not look it, but I'm an opera singer. I just can't{n}find a suitable theater, so I haven't been able to{n}perform. Do you know a good place?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0167",
    "jp": "バーバラに公演を依頼しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Ask Barbara to perform?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0168",
    "jp": "私を雇ってくれるの？{n}手付け金は１０００エルムでいいわ。",
-   "en": "",
-   "term": "end"
+   "en": "You'd like to hire me? A deposit of 1,000 Elm will do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0169",
    "jp": "・やっぱりやめる",
-   "en": "",
+   "en": "・Change your mind",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0170",
    "jp": "・公演を依頼する",
-   "en": "",
+   "en": "・Book a performance",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen167.0171",
    "jp": "あら、残念だわ。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, what a shame.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0172",
    "jp": "場所は？{n}‥‥{s:0010}ね？",
-   "en": "",
-   "term": "end"
+   "en": "Where? ...{s:0010}, is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0173",
    "jp": "お金をためて、また誘ってね。",
-   "en": "",
-   "term": "end"
+   "en": "Save up some money and ask me again, dear.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0174",
    "jp": "歌の邪魔をしないで！",
-   "en": "",
-   "term": "end"
+   "en": "Don't interrupt my singing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0175",
    "jp": "ゼノスの家",
-   "en": "",
-   "term": "end"
+   "en": "Xenos's House",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0176",
    "jp": "失礼しま～す。",
-   "en": "",
-   "term": "end"
+   "en": "Hello? Coming in!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0177",
@@ -1107,20 +1202,23 @@
   {
    "id": "scen167.0179",
    "jp": "カレンの使っているドレッサーだろう。",
-   "en": "",
-   "term": "end"
+   "en": "This must be Karen's dressing table.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0180",
    "jp": "これは兄さんが、初めて稼いだお金で{n}買ってくれたんです。",
-   "en": "",
-   "term": "end"
+   "en": "My brother bought this for me with the first money he{n}ever earned.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0181",
    "jp": "このドレッサーにカレンの姿が映ることは{n}もう２度とない。",
-   "en": "",
-   "term": "end"
+   "en": "Karen's reflection will never grace this dressing{n}table again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0182",
@@ -1215,8 +1313,9 @@
   {
    "id": "scen167.0197",
    "jp": "なんと言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen167.0198",

@@ -15,218 +15,254 @@
   {
    "id": "scen263.0001",
    "jp": "{FFEE}ベルガーを守って{s:0000}を復活させろ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect Berger and revive {s:0000}!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0002",
    "jp": "{v:0021}後少しの間、保たせてくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Hold them off a little longer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0003",
    "jp": "{v:003E}死に損ないが！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}You half-dead wretch!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0004",
    "jp": "！！",
-   "en": "",
-   "term": "end"
+   "en": "!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0005",
    "jp": "きゃああっ！{n}目を開けてよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "Aaah! Open your eyes! Please!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0006",
    "jp": "うおぉっ！{p}‥‥く‥くそ‥‥。{n}‥‥これでは、彼を助け‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Aaagh!{p}...D-Damn it... Now I cannot save him...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0007",
    "jp": "うおぉっ！{p}‥‥せっかくヴェンツェルを‥{n}‥倒すチャンスだというのに‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Aaagh!{p}...And we finally had... a chance to defeat Wenzel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0008",
    "jp": "お、おじちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "M-Mister!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0009",
    "jp": "{v:003F}ぐおっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Gwah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0010",
    "jp": "ええい！",
-   "en": "",
-   "term": "end"
+   "en": "Damn it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0011",
    "jp": "{v:0022}ひどく衰弱しているな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}He is terribly weak.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0012",
    "jp": "{v:0023}ゲヴェルを倒しちゃったから、{n}命の供給を断たれちゃったんだって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Apparently, since we defeated Gevel, his supply of life{n}energy has been cut off...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0013",
    "jp": "{v:0024}やはりな‥‥。{p}{v:0025}おい、話がある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}As I thought...{p}{v:0025}Listen. We need to talk.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0014",
    "jp": "{v:0026}どうしたの、おじちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}What is it, Mister?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0015",
    "jp": "{v:0027}パワーストーンはどこにある？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Where is the Power Stone?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0016",
    "jp": "{v:0028}あの指輪？{n}それならコイツがつけてるけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}That ring? This guy's wearing it, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0017",
    "jp": "‥‥{v:0029}これだ。{p}{v:002A}これがあれば、一時的ではあるが、{n}彼の寿命を延ばすことが出来る。{p}{v:002B}このパワーストーンを‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0029}Here it is.{p}{v:002A}With this, I can extend his life, though only for a{n}short time.{p}{v:002B}This Power Stone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0018",
    "jp": "{v:002C}ダメだよ！{n}もうパワーストーンには力が残ってないって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}It won't work! Apparently the Power Stone has no{n}power left...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0019",
    "jp": "{v:002D}私に任せておけ。{p}{v:002E}私はこの秘石と共に、時を越えた者だ。{n}こいつの使い方は誰よりも良く知っている。{p}{v:002F}たとえわずかしか力が残っていなくても、{n}それを有効に使える。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Leave it to me.{p}{v:002E}I crossed time with this Power Stone. I know how to{n}use it better than anyone.{p}{v:002F}Even if only a little power remains, I can put it to{n}good use.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0020",
    "jp": "{v:0030}でも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0021",
    "jp": "{v:0031}放っておけば、彼はこのまま死ぬ。{n}ほんの数日でも、{n}寿命を延ばすためにはこれしかないんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}If we do nothing, he will die. This is our only way to{n}extend his life, even by a few days!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0022",
    "jp": "‥‥{v:0032}うん。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0032}Okay.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0023",
    "jp": "{v:0033}今からパワーストーンの力で{n}ゲヴェルの波動を彼に与える。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}I will now use the Power Stone to give him{n}Gevel's energy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0024",
    "jp": "{v:0034}えっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0025",
    "jp": "{v:0035}うぬぅ！{n}そんなことはさせぬぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Grr! I will not allow it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0026",
    "jp": "{v:0036}私の中に眠る、ゲヴェルの波動を君に‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}I give you Gevel's energy, dormant within me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0027",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0028",
    "jp": "{v:0037}君は私自身‥‥絶対に成功するはずだ！{n}自分を信じろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}You are my very self... This has to work! Believe{n}in yourself!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0029",
    "jp": "{v:0038}親父？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Dad?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0030",
    "jp": "{v:0039}お父さん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Father?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0031",
    "jp": "{v:003A}隊長？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Captain?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0032",
    "jp": "{v:003B}さぁ！{n}君はまだ死ぬべきではない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Come on! It is not your time to die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0033",
    "jp": "‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0034",
    "jp": "{v:003C}やったぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}It worked!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0035",
    "jp": "{v:003D}数日間の延命でしかないが、{n}その間は本来の力を発揮できるだろう。{n}さぁ、奴を倒すんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}This will only give you a few more days, but you should{n}have your full strength for that time. Now,{n}defeat him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen263.0036",
    "jp": "{FFEE}ベルガーを守って、ヴェンツェルを倒せ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect Berger and defeat Wenzel!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,26 +15,30 @@
   {
    "id": "scen164.0001",
    "jp": "村人",
-   "en": "",
-   "term": "null"
+   "en": "Villager",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen164.0002",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen164.0003",
    "jp": "医者",
-   "en": "",
-   "term": "null"
+   "en": "Doctor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen164.0004",
    "jp": "メディス村",
-   "en": "",
-   "term": "end"
+   "en": "Medis Village",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0005",
@@ -207,54 +211,62 @@
   {
    "id": "scen164.0033",
    "jp": "{v:001A}おう、いらっしゃい。{n}ここは道具を売ってる店だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Hey, welcome. This here's an item shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0034",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0035",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen164.0036",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen164.0037",
    "jp": "まだ何か用か？",
-   "en": "",
-   "term": "end"
+   "en": "Need anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0038",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen164.0039",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen164.0040",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}See ya.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0041",
@@ -265,200 +277,233 @@
   {
    "id": "scen164.0042",
    "jp": "{v:001D}ごめんくださーい！{p}‥‥‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Hellooo! Anyone home?{p}......",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0043",
    "jp": "‥‥‥{v:001E}留守みたいだよ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001E}Looks like he's out?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0044",
    "jp": "スイッチを押してみますか？",
-   "en": "",
-   "term": "end"
+   "en": "Try pressing the switch?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0045",
    "jp": "{v:003D}何々、今の音！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}What?! What was that noise?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0046",
    "jp": "{v:003E}何か動いたみたいな音だったぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Sounded like something moved.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0047",
    "jp": "{v:003F}そうね。{n}勝手にいじって壊したら困るモンね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Right. We'd be in trouble if we fiddled with it and{n}broke something.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0048",
    "jp": "本や小物が並んでいる。",
-   "en": "",
-   "term": "end"
+   "en": "Books and small objects are arranged here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0049",
    "jp": "本が並んでいる。",
-   "en": "",
-   "term": "end"
+   "en": "Books are lined up here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0050",
    "jp": "花が生けてある。",
-   "en": "",
-   "term": "end"
+   "en": "Flowers have been arranged here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0051",
    "jp": "机の上や中には怪しいものはなさそうだ。",
-   "en": "",
-   "term": "end"
+   "en": "There doesn't seem to be anything suspicious on or{n}inside the desk.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0052",
    "jp": "とくに怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "Nothing seems particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0053",
    "jp": "この壁は叩くと音が響く。",
-   "en": "",
-   "term": "end"
+   "en": "This wall sounds hollow when tapped.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0054",
    "jp": "床の上には光の魔法陣が展開している。",
-   "en": "",
-   "term": "end"
+   "en": "A glowing magic circle covers the floor.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0055",
    "jp": "ジェームズ‥‥‥８２点（{FFEF}優{FFF1}）{n}ローリー‥‥‥‥７０点（良）{n}グイン‥‥‥‥‥７７点（良）{p}ルービン‥‥‥‥３５点（{FFF0}不{FFF1}）{n}ナンターラ‥‥‥５１点（可）{n}　　　　　　　どうやらテストの成績表らしい。",
-   "en": "",
-   "term": "end"
+   "en": "James: 82 ({FFEF}Excellent{FFF1}){n}Rory: 70 (Good){n}Guin: 77 (Good){p}Rubin: 35 ({FFF0}Fail{FFF1}){n}Nantara: 51 (Pass){n}This appears to be a list of test results.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0056",
    "jp": "カラのフラスコがある。{n}最近使われた形跡はない。",
-   "en": "",
-   "term": "end"
+   "en": "There's an empty flask here. It shows no signs of{n}recent use.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0057",
    "jp": "　大呪術学体系　（序）{n}　　　　　　魔法学院副学院長　ブラッドレー著{p}どうやら副学院長が執筆した本らしい。",
-   "en": "",
-   "term": "end"
+   "en": "　'A Compendium of Cursecraft' (Introduction){n}By Bradley, Vice Headmaster of the Magic Academy{p}It appears to be a book written by the{n}Vice Headmaster.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0058",
    "jp": "‥‥ツボがある。{FFFB}{n}‥‥くずかご代わりに使われているようだ。{p}特に怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "...There's a pot here.{FFFB} ...It seems to be used as{n}a wastebasket.{p}Nothing seems particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0059",
    "jp": "人の頭がい骨と思われる物が置かれている。{n}だが、特に怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "What appears to be a human skull sits here. Still,{n}nothing seems particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0060",
    "jp": "アンタ、こんな物に興味があるの！？{FFFB}{n}{FB00}趣味を疑っちゃうわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "You're interested in THIS sort of thing?!{FFFB} {FB00}I'm starting{n}to question your taste...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0061",
    "jp": "あ、わら束で作ったお人形だ！{p}{FC03}でも、何に使うんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, a little doll made of bundled straw!{p}{FC03}But what's it used for?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0062",
    "jp": "乳鉢と染料の粉がおいてある。{n}特に怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "A mortar and powdered dyes sit here. Nothing seems{n}particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0063",
    "jp": "不気味な怪物がこちらをにらんでいる絵画だ。{n}グロテスクではあるが、その画力は高く、{n}今にも動き出しそうな雰囲気がある。{p}だが、特に怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "A painting of an eerie monster glaring this way.{n}Grotesque though it is, it's so skillfully painted that it{n}looks ready to move at any moment.{p}Still, nothing seems particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0064",
    "jp": "何だか気持ち悪いなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "This is kind of creepy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0065",
    "jp": "小さなツボがたくさん並んでいる。{n}それぞれのツボには、薬や染料が入っているだけだ。{p}特に怪しいところは見あたらない。",
-   "en": "",
-   "term": "end"
+   "en": "Lots of small pots are lined up here. Each contains only{n}medicine or dye.{p}Nothing seems particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0066",
    "jp": "赤い染料を溶かした液が入っている。{n}特に怪しいところはない。",
-   "en": "",
-   "term": "end"
+   "en": "It contains a solution of red dye. Nothing seems{n}particularly suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0067",
    "jp": "大きなタルだ。{n}中に人の入っている様子はない。",
-   "en": "",
-   "term": "end"
+   "en": "A large barrel. There doesn't seem to be{n}anyone inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0068",
    "jp": "お客様、勝手に入られては困ります。{n}お泊まりの際は、こちらにお申し付け下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please don't go in without asking. If you wish to stay,{n}please speak to me here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0069",
    "jp": "君たち、インジェクターを見たことないかね？{p}あっ、インジェクターって言うのは注射器の事でね。{FFFB}{n}何度も手に入れることで中身の液体を変えて、{n}４段階まで強くする事ができるんだ。{p}グランシルのフリーバトルの賞品にあったらしいけど、{n}あんなものを使いこなせるのは{n}ラシェル保養所の看護婦さんくらいかな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Have you ever seen an Injector?{p}Oh, an Injector is a syringe.{FFFB} Each time you obtain{n}another one, the liquid inside changes. It can be{n}strengthened through four stages.{p}Apparently, one was offered as a Free Battle prize in{n}Grancil, but I imagine only a nurse at the Rachelle{n}Sanatorium could handle such a thing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0070",
    "jp": "どこかにいいインジェクターはないものか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I wonder where I could find a good Injector...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0071",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0072",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0073",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen164.0074",
    "jp": "お泊まりの際は、お声をかけて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please let me know if you wish to stay.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

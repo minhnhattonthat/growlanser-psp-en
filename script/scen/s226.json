@@ -15,74 +15,86 @@
   {
    "id": "scen226.0001",
    "jp": "{FFEE}村人を脱出させろ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Get the villagers out!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen226.0002",
    "jp": "{v:007E}うわぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}Aaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen226.0003",
    "jp": "{FB00}{v:007F}１体、１体は弱いが、数で迫られると不利になる。{n}{FB00}注意して戦うんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:007F}They're weak on their own, but we'll be at a{n}disadvantage if they swarm us. {FB00}Fight carefully!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen226.0004",
    "jp": "{v:0080}アタシ達のことはいいから、先に逃げて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0080}Don't worry about us! Get out of here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen226.0005",
    "jp": "{v:0081}あ、ありがとうございます！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0081}Th-thank you so much!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen226.0006",
    "jp": "あとは、ここの怪物をやっつければ、{n}おっけーだね！",
-   "en": "",
-   "term": "end"
+   "en": "Now we just beat the monsters here, and we're all set!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen226.0007",
    "jp": "{v:005E}ぐわぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}Gwaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen226.0008",
    "jp": "{v:005F}ぎゃああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Aaaagh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen226.0009",
    "jp": "{v:0007}バカバカバカ！{n}なにやってんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Idiot, idiot, idiot! What are you doing?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen226.0010",
    "jp": "{v:0082}もう残っている卵もないね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0082}There aren't any eggs left now, either.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen226.0011",
    "jp": "{v:0083}村の人も無事だったしな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0083}And the villagers made it out safe.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen226.0012",
    "jp": "{v:0084}さ、もうここは大丈夫だって、{n}村長さんに教えてあげようよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0084}Come on, let's tell the village chief it's safe here now.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

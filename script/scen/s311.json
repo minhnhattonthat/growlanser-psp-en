@@ -15,83 +15,96 @@
   {
    "id": "scen311.0001",
    "jp": "ミーシャ",
-   "en": "",
-   "term": "null"
+   "en": "Misha",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen311.0002",
    "jp": "{v:0159}実は、お兄さまに渡したい物があるの{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0159}Actually, Big Brother, I have something I want to give{n}you{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0003",
    "jp": "どう対応しますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you respond?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0004",
    "jp": "・何を渡したいのか聞く",
-   "en": "",
+   "en": "・Ask what she wants to give you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0005",
    "jp": "・特に欲しい物はないと言う",
-   "en": "",
+   "en": "・Say there's nothing you really want",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0006",
    "jp": "・楽しみだと言う",
-   "en": "",
+   "en": "・Say you can't wait",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0007",
    "jp": "{v:015A}それはですねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:015A}Well, you see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0008",
    "jp": "{v:015B}アンタ、そんなこと言わずに貰ってあげなさいよ！{p}{FC00}{v:015C}で、何をあげるわけ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:015B}Hey, don't be like that! Just accept it!{p}{FC00}{v:015C}So, what are you giving him?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0009",
    "jp": "{v:015D}じゃーーんっ！！{n}これです！{p}{v:015E}このセーター、お兄さまのために{n}一生懸命編みました♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:015D}Ta-daaa! Here it is!{p}{v:015E}I worked really hard knitting this sweater for you,{n}Big Brother♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0010",
    "jp": "{v:015F}えへへ、結構うまくできてるでしょ？{n}アタシの自信作なんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:015F}Heehee, it turned out pretty well, didn't it? I'm really{n}proud of it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0011",
    "jp": "{FFF3}{v:0160}‥‥‥‥。{p}{FFF4}{v:0161}ねぇミーシャ？{n}ひとこと、言っていい？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{v:0160}...{p}{FFF4}{v:0161}Hey, Misha? Can I say something?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0012",
    "jp": "{v:0162}はい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0162}Yes?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0013",
    "jp": "{FB00}{v:0163}冬って‥‥まだ先よ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0163}Winter's... still a long way off...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0014",
@@ -102,1012 +115,1175 @@
   {
    "id": "scen311.0015",
    "jp": "{v:00C1}フン、フン、フフン♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C1}Hmm, hmm, hm-hmm♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0016",
    "jp": "{v:00C2}うふふっ♪{n}これをプレゼントしたら{n}お兄さま、何て言ってくれるかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C2}Heehee♪ I wonder what Big Brother will say when I give{n}him this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0017",
    "jp": "{v:00C3}誉めてくれるかな？{n}びっくりして、声も出ない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C3}Will he praise me? Will he be so surprised he can't{n}even speak?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0018",
    "jp": "{v:00C4}でも、でも、でもぉ！{n}これでアタシのこと見直してくれて、{n}２人の仲は急接近ってなことになってぇ、{n}『好きだよ、結婚しよう』なんて言われちゃったり！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C4}Ooh, but, but, buuut! Maybe he'll see me in a whole new{n}light, and we'll get sooo much closer, and he'll say{n}something like, 'I love you! Marry me!'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0019",
    "jp": "{v:00C5}そしたらアタシ、きっといい奥さんになるんだ！{n}そんでそんで、愛しい彼の帰りを娘と一緒に待つの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C5}Then I'll be the best wife ever! And, and, our daughter{n}and I will wait together for my darling to come home!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0020",
    "jp": "{v:00C6}あ、お兄さまって、{n}男の子と、女の子と、どっちが欲しいんだろ？{n}たくましい人だから、やっぱり男の子かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C6}Oh, I wonder which Big Brother would want, a boy or a{n}girl? He's so strong and manly, he'd probably want a{n}boy, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0021",
    "jp": "{v:00C7}どっちでもいいや！{n}アタシ、がんばっちゃうもん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C7}Either one's fine! I'll give it my all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0022",
    "jp": "{v:003F}あ、お兄さま★",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Oh, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0023",
    "jp": "{v:0040}何してたの、ミーシャ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}What were you doing, Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0024",
    "jp": "{v:0041}えへへ‥‥。{n}メガネ落っことしてツルが取れたんで、直してたの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Heehee... I dropped my glasses and one of the arms{n}came off, so I was fixing them.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0025",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0026",
    "jp": "・おっちょこちょいだなと笑う",
-   "en": "",
+   "en": "・Laugh and call her a klutz",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0027",
    "jp": "・誰かにぶつかったのかと聞く",
-   "en": "",
+   "en": "・Ask if she bumped into someone",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0028",
    "jp": "・なおしてやると言う",
-   "en": "",
+   "en": "・Offer to fix them",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0029",
    "jp": "{FB00}{v:0042}えへへ‥‥[01BE]{n}どうしてもおっちょこちょいが治らなくて。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0042}Heehee...[01BE] I just can't stop being such a klutz.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0030",
    "jp": "{v:0043}どうしてわかったんですか？{n}お兄さまって、凄い‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}How did you know? You're amazing, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0031",
    "jp": "{v:0044}わぁ、お兄さまありがとうございますぅ！{n}あ、でも今直しちゃった‥‥。{p}{v:0045}じゃ、もう一度壊しますね♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Wow, thank you sooo much, Big Brother! Oh, but I just{n}fixed them...{p}{v:0045}Then I'll break them again♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0032",
    "jp": "{FFEC}　　{v:0046}スカポーーーン！{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}　　{v:0046}*thwaaack!*{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0033",
    "jp": "{FFF5}{v:0047}いったぁ～い‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0047}Owww...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0034",
    "jp": "{v:0048}馬鹿なこと言ってるからよっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}That's what you get for saying something so stupid!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0035",
    "jp": "{v:0049}ホントに、よくそれで魔法学院に入れたわね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Seriously, how did you ever get into the{n}Magic Academy...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0036",
    "jp": "{v:004A}アタシ、{n}両親を亡くしておじさまに引き取られたんです。{n}それで‥‥えへへへ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}My uncle took me in after my parents died. So...{n}Heeheehee...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0037",
    "jp": "どう対応しますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you respond?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0038",
    "jp": "・笑う",
-   "en": "",
+   "en": "・Laugh",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0039",
    "jp": "・猛勉強して試験に通ったのかと納得する",
-   "en": "",
+   "en": "・Assume she studied hard to pass the exam",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0040",
    "jp": "・うなずく",
-   "en": "",
+   "en": "・Nod",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0041",
    "jp": "{FB00}{v:004B}試験は受けてないです‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:004B}I didn't take the entrance exam...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0042",
    "jp": "{FB00}{v:004C}どうりで、アンタみたいなドジが入れたワケだわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:004C}No wonder a klutz like you got in...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0043",
    "jp": "{v:004D}ひど～い！{n}アタシだって一生懸命やってるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}You're sooo mean! I'm trying my hardest, too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0044",
    "jp": "{v:004E}どのくらい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}How hard?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0045",
    "jp": "{v:004F}えーと‥‥。{n}{FC04}試験の前日は寝ないで勉強してる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Umm... {FC04}I stay up all night studying the night before{n}an exam.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0046",
    "jp": "{v:0050}一生懸命って、{n}普段から勉強してる人が言うセリフだけど‥‥。{p}{v:0051}所詮アンタはそんなもんよね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}You only get to say you're trying your hardest if you{n}study the rest of the time, too...{p}{v:0051}Figures. That's about what I'd expect from you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0047",
    "jp": "{FFF5}{v:0052}お兄さまぁ、{n}ティピちゃんがいじめるぅ～[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0052}Big Brother, Tippi-chan's picking on meee![01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0048",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0049",
    "jp": "・からかいすぎだとティピをたしなめる",
-   "en": "",
+   "en": "・Tell Tippi she's teasing her too much",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0050",
    "jp": "・ティピの言葉にうなずく",
-   "en": "",
+   "en": "・Nod in agreement with Tippi",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0051",
    "jp": "・気にするなとなぐさめる",
-   "en": "",
+   "en": "・Tell her not to let it bother her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0052",
    "jp": "{v:0053}だぁって、{n}コイツったらいじめたくなるんだもの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Buuut she just makes me want to tease her...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0053",
    "jp": "{FFF5}{v:0054}うう、アタシって不幸‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0054}Ooh, why does this always happen to me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0054",
    "jp": "{FFF5}{v:0055}うう、お兄さまもヒドイですぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0055}Ooh, you're mean too, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0055",
    "jp": "{FB00}{v:0056}アンタ、結構ヒドイわね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0056}You're pretty mean yourself...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0056",
    "jp": "{v:0057}うん！{n}お兄さまがそう言うなら、全然気にしない♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Okay! If you say so, Big Brother, I won't let it bother me{n}at all♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0057",
    "jp": "{v:0058}自分だけいい子ぶっちゃって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Oh, sure, make yourself look like the nice one...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0058",
    "jp": "{v:0059}ま、いいけどさ。{n}アタシに突っ込まれたくなかったら、{n}少しは勉強しなさいよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Well, whatever. If you don't want me calling you out,{n}try doing a little studying, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0059",
    "jp": "{FB00}{v:005A}う゛‥‥。{p}{v:005B}そ、それじゃお兄さま‥‥。{FFF9}{FFFB}{n}{v:005C}またねぇ～[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:005A}Urk...{p}{v:005B}W-well then, Big Brother...{FFF9}{FFFB} {v:005C}See youuu![01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0060",
    "jp": "はふう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "*sigh*...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0061",
    "jp": "な～に、溜め息なんかついてんのよ？",
-   "en": "",
-   "term": "end"
+   "en": "What's with the big sigh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0062",
    "jp": "あ‥‥ティピちゃん、お兄さま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh... Tippi-chan, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0063",
    "jp": "{FFF5}アタシ‥‥勉強できなくて‥‥。{n}学院では下から数えた方が早いし‥‥。{p}アタシもそれでいいと思ってたんだ。{p}でも‥‥お兄さまと会ってからは変わったの。{FFFB}{n}この人の迷惑にならないように、{n}一生懸命頑張ろう‥‥って。{p}だから、おじさまやルイセちゃんに無理を言って{n}特別に教えて貰ってたんですけど‥‥。{p}はあ‥‥やっぱりダメなのかな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}I'm... no good at studying... I'm near the bottom of my{n}class at the Academy...{p}And I used to think that was fine.{p}But... that changed when I met you, Big Brother.{FFFB} I{n}thought, \"I'll work really hard so I won't be a burden{n}to him.\"{p}So I begged my uncle and Luise-chan to give me{n}extra lessons...{p}*sigh*... Maybe I'm just hopeless after all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0064",
    "jp": "何と声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0065",
    "jp": "・はげます",
-   "en": "",
+   "en": "・Encourage her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0066",
    "jp": "・意気込みをほめる",
-   "en": "",
+   "en": "・Praise her determination",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0067",
    "jp": "・前からだめ",
-   "en": "",
+   "en": "・Say she's always been hopeless",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0068",
    "jp": "{FFF5}お兄さま‥‥。{p}わかりました！{FFFB}{n}アタシ、さっきも言ったけど‥‥。{n}{FE1E}お兄さまのために、絶対頑張りますね！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}Big Brother...{p}All right!{FFFB} Like I said before... {FE1E}I'll do my very best for{n}you, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0069",
    "jp": "そう‥ですよね‥‥。{n}何事にも意気込みが必要ですよね。{p}お兄さま、見てて下さいね！{n}{FE1E}アタシ、頑張っちゃいますから！",
-   "en": "",
-   "term": "end"
+   "en": "That's... right... You need determination, whatever{n}you do.{p}Just watch me, Big Brother! {FE1E}I'm going to give it my all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0070",
    "jp": "{FFF5}うっ‥‥。{n}{FE1E}お兄さままで、そんなこと言うんですかぁ？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}Ooh... {FE1E}Even you're saying that, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0071",
    "jp": "‥‥もしかして‥‥。{n}{FE1E}アタシを勇気づけるためにわざと‥‥？{p}{FC04}お兄さま！{FFFB}{n}アタシお兄さまのお心遣いを無駄にしません！{n}{FE1E}頑張ります！",
-   "en": "",
-   "term": "end"
+   "en": "...Wait, could it be...? {FE1E}You said that on purpose to spur{n}me on?{p}{FC04}Big Brother!{FFFB} I won't let your thoughtfulness go to{n}waste! {FE1E}I'll do my best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0072",
    "jp": "{FB00}{FFF3}‥‥{FE1E}{FFF4}凄い解釈の仕方ね‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{FFF3}...{FE1E}{FFF4}That's quite a way to take it...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0073",
    "jp": "でも、その割にはあまり成果が出てないような‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Still, for all that effort, you don't seem to have much to{n}show for it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0074",
    "jp": "{FB00}う‥‥[01BE]{n}{FE1E}これでも一生懸命なんだから‥‥。{p}{FC00}時間はかかるかも知れないけど‥‥。{n}必ずお兄さまのお役に立って見せますから！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}Ooh...[01BE] {FE1E}I really am trying my hardest...{p}{FC00}It might take some time... But I'll show you I can be{n}useful, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0075",
    "jp": "さあミーシャ！　{FE1E}今から猛勉強よ！{FFFB}{n}{FC00}じゃ、お兄さま♪　またね★",
-   "en": "",
-   "term": "end"
+   "en": "Come on, Misha! {FE1E}Time to hit the books!{FFFB} {FC00}Well, Big{n}Brother♪ See you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0076",
    "jp": "{FB00}どうなることやら‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}Wonder how this'll turn out...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0077",
    "jp": "ミーシャ、なに寝てんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Misha, what are you doing sleeping?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0078",
    "jp": "あれ？{n}お兄さま、ティピ？{n}おはようございます。",
-   "en": "",
-   "term": "end"
+   "en": "Huh? Big Brother? Tippi? Good morning.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0079",
    "jp": "猛勉強すんじゃなかったの？",
-   "en": "",
-   "term": "end"
+   "en": "Weren't you going to study your head off?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0080",
    "jp": "え～と、わからないところがあって{n}図書室にいたんだけど、さっきお兄さまと話して{n}はりきって飛び出してきちゃって‥‥。{p}それでアリオスト先輩に教えてもらおうと{n}ここまで来て、ちらっとのぞいてみたら{n}忙しそうだったから少し待とうかなって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Umm, there was something I didn't understand, so I was{n}in the library, but after talking to you earlier, Big{n}Brother, I got all fired up and rushed out...{p}Then I came here to ask Ariost-senpai to explain it. I{n}took a peek inside, but he looked busy, so I thought I'd{n}wait a little...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0081",
    "jp": "{FB00}それで、寝ちゃったわけ？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}And you fell asleep?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0082",
    "jp": "もうぐっすりと！",
-   "en": "",
-   "term": "end"
+   "en": "Like a log!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0083",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0084",
    "jp": "・寝る子は育つ、と言う",
-   "en": "",
+   "en": "・Say sleep helps children grow",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0085",
    "jp": "・ますますダメになると言う",
-   "en": "",
+   "en": "・Say she's getting more hopeless",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0086",
    "jp": "・良かったなと言う",
-   "en": "",
+   "en": "・Say you're glad for her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0087",
    "jp": "ええ、がんばっちゃいます。",
-   "en": "",
-   "term": "end"
+   "en": "Yes! I'll do my very best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0088",
    "jp": "{FB00}な、何をがんばるのよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}Y-your best at what...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0089",
    "jp": "はげましてくれるのは嬉しいけど、{n}もうちょっと優しい言葉の方が{n}うれしいかな‥‥。{p}‥‥{FC00}なんて。",
-   "en": "",
-   "term": "end"
+   "en": "I'm glad you're encouraging me, but I'd be even happier{n}if you said it a little more kindly...{p}...{FC00}Just kidding.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0090",
    "jp": "{FB00}め、めげないわね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}N-nothing gets you down, does it...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0091",
    "jp": "ええ、お昼寝は気持ちいいですから。",
-   "en": "",
-   "term": "end"
+   "en": "Yes, naps feel wonderful.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0092",
    "jp": "{FB00}こいつら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}These two...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0093",
    "jp": "さて、今度こそお勉強しなくっちゃ。{n}お兄さま、また後で！",
-   "en": "",
-   "term": "end"
+   "en": "Well, I'd better study for real this time. See you later,{n}Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0094",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0095",
    "jp": "・素直に喜ぶ",
-   "en": "",
+   "en": "・Show your delight",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0096",
    "jp": "・珍しいと誉める",
-   "en": "",
+   "en": "・Praise her, saying it's unusual",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0097",
    "jp": "・どこにあるのかたずねる",
-   "en": "",
+   "en": "・Ask where it is",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0098",
    "jp": "{v:01E7}えへへ♪{n}お兄さまに食べてもらおうと、{n}腕によりをかけて作ったですぅ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:01E7}Heehee♪ I made it especially for you, Big Brother, so I{n}put all my baking skills into it{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0099",
    "jp": "{v:01E8}で、肝心のケーキはどこにあるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:01E8}So, where's the cake itself?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0100",
    "jp": "{v:01E7}えへへ♪{n}お兄さまに食べて貰おうと、{n}腕によりをかけて作ったですぅ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:01E7}Heehee♪ I made it especially for you, Big Brother, so I{n}put all my baking skills into it{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0101",
    "jp": "{v:01EA}で、肝心のケーキはどこにあるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:01EA}So, where's the cake itself?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0102",
    "jp": "{v:01EB}え？{n}ここにありますけど？",
-   "en": "",
-   "term": "end"
+   "en": "{v:01EB}Huh? It's right here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0103",
    "jp": "{FB00}{v:01EC}ここって‥‥。{n}その焼けこげた黒い円盤が‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:01EC}Here...? You mean that charred black disc...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0104",
    "jp": "{v:01ED}何を話しているんだい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:01ED}What are you talking about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0105",
    "jp": "{v:01EE}アリオスト先輩。ちょうどよかった。{FFF9}{FFFB}{n}{v:01EF}お兄さまに食べて貰おうと思って{n}ケーキを焼いたんですけど、一緒に食べます？",
-   "en": "",
-   "term": "end"
+   "en": "{v:01EE}Ariost-senpai! Perfect timing.{FFF9}{FFFB}{v:01EF}I baked a cake for Big{n}Brother. Would you like some too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0106",
    "jp": "{v:01F0}いいね、いただくよ。{n}{FC00}で、ケーキはどこだい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:01F0}That sounds lovely. I'd be delighted. {FC00}So, where's{n}the cake?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0107",
    "jp": "{v:01F1}え？{n}これですけど？",
-   "en": "",
-   "term": "end"
+   "en": "{v:01F1}Huh? It's right here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0108",
    "jp": "{FFF3}{v:01F2}‥‥‥‥[01BE]{FFF9}{FFFB}{n}{FFF4}{v:01F3}ミーシャ君らしい、独創的なケーキだね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{v:01F2}......[01BE]{FFF9}{FFFB}{FFF4}{v:01F3}What an original cake... Very much your{n}style, Misha-kun.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0109",
    "jp": "{v:01F4}でしょ♪{FFF9}{FFFB}{n}{v:01F5}形はともかく、味には自信があるんだ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:01F4}Right?♪{FFF9}{FFFB}{v:01F5}Never mind how it looks. I know it{n}tastes great!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0110",
    "jp": "{FB00}{v:01F6}‥‥ちゃんと、味見した‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:01F6}You did... taste it first... right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0111",
    "jp": "{v:01F7}ううん、全然♪{n}だってアタシが味見しちゃうと、{n}みんな食べちゃうから‥‥[01BE]{p}{v:01F8}さ、みんなどうぞ♪　おいしいよ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:01F7}Nope, not at all♪ If I tasted it, I'd end up eating the{n}whole thing...[01BE]{p}{v:01F8}Go on, everyone, help yourselves♪ It's delicious{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0112",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0113",
    "jp": "・ティピに食べさせてみる",
-   "en": "",
+   "en": "・Have Tippi try some",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0114",
    "jp": "・アリオストに勧める",
-   "en": "",
+   "en": "・Offer some to Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0115",
    "jp": "・食べるふりをする",
-   "en": "",
+   "en": "・Pretend to eat",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0116",
    "jp": "・意を決して食べる",
-   "en": "",
+   "en": "・Steel yourself and eat",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0117",
    "jp": "{FB00}{v:01F9}あ、あははは‥‥[01BE]{n}アタシちょっと今朝食べ過ぎたから、{n}今は、いいわ‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:01F9}A-ahahaha...[01BE] I ate a little too much this morning, so{n}I'll pass for now...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0118",
    "jp": "{v:01FA}そう？{n}もったいないなぁ‥‥オイシイのに。",
-   "en": "",
-   "term": "end"
+   "en": "{v:01FA}Really? You're missing out... It's so delicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0119",
    "jp": "{v:01FB}こんな危険な物、{n}食べれるわけないでしょう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:01FB}Like I could eat anything this dangerous...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0120",
    "jp": "{v:01FC}じゃあ‥‥。{n}アリオスト先輩、食べてみて下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:01FC}Well then... Ariost-senpai, please try some!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0121",
    "jp": "{v:01FD}それじゃ‥‥。{n}！‥‥！？{n}‥‥！？！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:01FD}Well, here goes... !...?! ...?!?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0122",
    "jp": "{v:01FE}おいしい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:01FE}Is it good?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0123",
    "jp": "{v:01FF}随分‥‥{n}独創的な味だね‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{v:01FF}It's quite... an original flavor...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0124",
    "jp": "{v:0200}えへへ、{n}味付けには自信があるんだ♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:0200}Heehee, I'm really confident about the seasoning♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0125",
    "jp": "{FB00}{v:0201}それ‥‥絶対、違うと思う‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0201}I'm pretty sure... that's not what he meant...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0126",
    "jp": "{v:0202}お兄さまちゃんと食べてる？{n}口の中でモグモグやってるだけだよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0202}Are you really eating it, Big Brother? You're just{n}moving it around in your mouth.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0127",
    "jp": "{v:0203}アンタ、ちゃんと食べなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0203}Hey, you! Eat it properly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0128",
    "jp": "‥‥‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "......[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0129",
    "jp": "{v:0204}おいしい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0204}Is it good?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0130",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0131",
    "jp": "・おいしいと答える",
-   "en": "",
+   "en": "・Say it's delicious",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0132",
    "jp": "・まあまあと答える",
-   "en": "",
+   "en": "・Say it's so-so",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0133",
    "jp": "・まずいと答える",
-   "en": "",
+   "en": "・Say it tastes awful",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0134",
    "jp": "{v:0205}ホントに？{n}じゃ、遠慮せずに全部食べてくださいね{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0205}Really? Then don't be shy. Please eat it all{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0135",
    "jp": "{v:0206}そうかぁ‥‥お兄さまの口には合わなかったかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0206}Oh... Maybe it wasn't quite to your taste, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0136",
    "jp": "{FB00}{v:0207}そういうレベルなのかしら‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0207}Is that really all that's wrong with it...?[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0137",
    "jp": "{v:0208}まだこんなにあるんだから、{n}沢山食べてね★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0208}There's still so much left, so eat as much as you like!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0138",
    "jp": "{v:0209}せっかくだから、ミーシャも食べなよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0209}You should have some too, Misha.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0139",
    "jp": "{v:020A}え？{n}でもこれってお兄さまのために{n}焼いた物だし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:020A}Huh? But I baked it for Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0140",
    "jp": "ミーシャに勧めますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you offer some to Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0141",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0142",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0143",
    "jp": "{v:020B}えへへ‥‥そうですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:020B}Heehee... Are you sure?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0144",
    "jp": "{v:020C}コイツはこう言ってるけど、{n}ホントはアンタ、食べたいんでしょ？{n}遠慮せずに食べなさいよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:020C}Never mind what this guy says. You want some{n}yourself, don't you? Don't be shy. Dig in!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0145",
    "jp": "{v:020D}それじゃ‥‥。{p}{v:020E}‥‥‥‥{FC00}？？？？？？{p}{v:020F}{FC03}ナニ、コレぇぇぇ～！！？{FFF9}{FFFB}{n}{v:0210}何を間違えたんだろう‥‥[01BE]{n}お兄さま、アリオスト先輩、ゴメンなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:020D}Well then...{p}{v:020E}......{FC00}??????{p}{v:020F}{FC03}What IS thiiiis?!{FFF9}{FFFB}{v:0210}What did I do wrong...?[01BE] Big Brother,{n}Ariost-senpai, I'm so sorry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0146",
    "jp": "{v:0211}うぅぅ‥‥。{p}{v:0212}次は絶対にまともなのを作らなきゃ‥‥。{p}{v:0213}今度はちゃんと味見しようっと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0211}Ughhh...{p}{v:0212}I've got to make something decent next time...{p}{v:0213}And this time I'll taste it properly first...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0147",
    "jp": "{v:0214}さて、僕も失礼させてもらうよ‥‥。{FFF9}{FFFB}{n}{v:0215}ちょっと用があるんでね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0214}Well, I'd best excuse myself too...{FFF9}{FFFB}{v:0215}There's something I{n}need to do...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0148",
    "jp": "{v:0216}すごい味だったな‥‥。{FFF9}{FFFB}{n}{v:0217}早く何かで口直ししないと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0216}What a taste that was...{FFF9}{FFFB}{v:0217}I need something to get rid{n}of that taste, quickly...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0149",
    "jp": "あっ、お兄さま。{n}ルイセちゃんとはぐれちゃって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother! I got separated from Luise-chan...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0150",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0151",
    "jp": "・ルイセの所に連れて行く",
-   "en": "",
+   "en": "・Take her to Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0152",
    "jp": "・自分で探させる",
-   "en": "",
+   "en": "・Let her search on her own",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0153",
    "jp": "えっ、お兄さまアタシを探しに{n}来て下さったんですか？{n}感激です！",
-   "en": "",
-   "term": "end"
+   "en": "Oh! You came looking for me, Big Brother? I'm{n}so touched!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0154",
    "jp": "ルイセちゃん‥‥。{n}どこ～？",
-   "en": "",
-   "term": "end"
+   "en": "Luise-chan... Where aaare you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0155",
    "jp": "どうしてアンタはそーゆー意地悪するのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Why do you have to be such a meanie?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0156",
    "jp": "えっ？",
-   "en": "",
-   "term": "end"
+   "en": "Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0157",
    "jp": "あっ、ミーシャ！？{n}どこ行ってたの？{n}心配したんだから。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Misha?! Where have you been? I was worried{n}about you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0158",
    "jp": "ごめ～ん[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Sorryyy![01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0159",
    "jp": "会えて良かったね。",
-   "en": "",
-   "term": "end"
+   "en": "Glad you found each other!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0160",
    "jp": "うん。{n}ありがとう、ティピ。",
-   "en": "",
-   "term": "end"
+   "en": "Yes. Thank you, Tippi.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0161",
    "jp": "じゃあ、ミーシャ、行こうよ。",
-   "en": "",
-   "term": "end"
+   "en": "Come on, Misha. Let's go.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0162",
    "jp": "うん！",
-   "en": "",
-   "term": "end"
+   "en": "Okay!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0163",
    "jp": "お兄ちゃん、ティピ、後でね。",
-   "en": "",
-   "term": "end"
+   "en": "See you later, Big Brother, Tippi.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0164",
    "jp": "お兄さま、またまた後で。",
-   "en": "",
-   "term": "end"
+   "en": "See you again later, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0165",
    "jp": "今度ははぐれないようにね。",
-   "en": "",
-   "term": "end"
+   "en": "Don't get separated again!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0166",
    "jp": "あっ、お兄さま。{n}ルイセちゃんとお買い物に来たんですけど‥‥。{n}はぐれちゃったんです！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother! I came shopping with Luise-chan, but...{n}we got separated!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0167",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0168",
    "jp": "・一緒にルイセを探す",
-   "en": "",
+   "en": "・Look for Luise together",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0169",
    "jp": "・ルイセを探してくる",
-   "en": "",
+   "en": "・Go and look for Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0170",
    "jp": "・はげます",
-   "en": "",
+   "en": "・Encourage her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen311.0171",
    "jp": "えっ、本当ですか！？{n}さっすがお兄さま。{n}やっさし～{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Oh, really?! That's my Big Brother! You're so sweeet{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0172",
    "jp": "ありがとうございます、がんばって探しますね。{n}‥‥ルイセちゃ～ん。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you! I'll do my best to find her. ...Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0173",
    "jp": "あっ、ルイセちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0174",
    "jp": "もう、いなくなっちゃうから心配したんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "You disappeared on me! I was worried, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0175",
    "jp": "ごめんね～、ルイセちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorryyy, Luise-chan.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0176",
    "jp": "気にしないで、ミーシャ。{p}お兄ちゃん、ありがとう。{n}また後でね。",
-   "en": "",
-   "term": "end"
+   "en": "Don't worry about it, Misha.{p}Thank you, Big Brother. See you later.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen311.0177",
    "jp": "あっ、お兄さま。{n}ルイセちゃんいましたか？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother! Did you find Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

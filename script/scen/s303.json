@@ -15,236 +15,274 @@
   {
    "id": "scen303.0001",
    "jp": "魔法学院生徒",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen303.0002",
    "jp": "人間じゃなかったなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "To think she wasn't human...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0003",
    "jp": "じゃあみんな、{n}ずっと学院長に監視されていたの？",
-   "en": "",
-   "term": "end"
+   "en": "So the Headmaster has been watching us this{n}whole time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0004",
    "jp": "なんでまだ学院にいるんだろ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Why is she still at the Academy...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0005",
    "jp": "怖いよね？{n}何喰わぬ顔してさ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It's scary, isn't it? Acting like nothing happened...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0006",
    "jp": "あっ！",
-   "en": "",
-   "term": "end"
+   "en": "Ah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0007",
    "jp": "やばい、行こう！",
-   "en": "",
-   "term": "end"
+   "en": "Uh-oh, let's go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0008",
    "jp": "あの子たち‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Those kids...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0009",
    "jp": "‥‥{s:0000}君か。{n}どうにも、僕にはミーシャ君にかける言葉がないよ。{p}自分の好きな女性の力になる事も{n}できないなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Oh, {s:0000}. I just can't find the words to{n}say to Misha-kun.{p}To think I can't even help the woman I love...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0010",
    "jp": "えっ？",
-   "en": "",
-   "term": "end"
+   "en": "Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0011",
    "jp": "僕はミーシャ君の事が好きなんだ。{n}だが、彼女に対して何もできないでいる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm in love with Misha-kun. But I haven't been able to{n}do anything for her...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0012",
    "jp": "それにミーシャ君が好きなのは‥‥{n}‥‥{s:0000}君。{n}君だよ。",
-   "en": "",
-   "term": "end"
+   "en": "Besides, the one Misha-kun loves is...{n}...{s:0000}. It's you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0013",
    "jp": "‥‥君なら、ミーシャ君を{n}元気づける事ができるんじゃないかな？",
-   "en": "",
-   "term": "end"
+   "en": "...Perhaps you could cheer Misha-kun up?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0014",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0015",
    "jp": "・うなずく",
-   "en": "",
+   "en": "・Nod",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0016",
    "jp": "・アリオストに任せる",
-   "en": "",
+   "en": "・Leave it to Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0017",
    "jp": "・自分にはできないと言う",
-   "en": "",
+   "en": "・Say you can't do it",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0018",
    "jp": "ミーシャ君の事、頼んだよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm counting on you to help Misha-kun.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0019",
    "jp": "僕が‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "Me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0020",
    "jp": "そうだよ。{n}ミーシャの事、好きなんでしょ？{p}アリオストさんがやらなきゃ！",
-   "en": "",
-   "term": "end"
+   "en": "That's right. You're in love with Misha, aren't you?{p}You've got to do this, Ariost-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0021",
    "jp": "そうか‥‥。{p}{FC00}‥‥そうだね。{n}自分がしっかりしないとね。{p}‥‥僕が行くよ。{n}ありがとう、{s:0000}君。",
-   "en": "",
-   "term": "end"
+   "en": "I see...{p}{FC00}...You're right. I need to pull myself together.{p}...I'll go. Thank you, {s:0000}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0022",
    "jp": "君でも‥‥無理だと言うのか。{p}‥‥‥{p}‥‥{FE1E}{FC00}{s:0000}君、吹っ切れたよ。{n}僕が行く。{n}僕がミーシャ君を元気づけてみせるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Even you... don't think you can do it?{p}...{p}...{FE1E}{FC00}{s:0000}, I'm done hesitating. I'll go. I'll find{n}a way to lift Misha-kun's spirits.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0023",
    "jp": "アリオストさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ariost-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0024",
    "jp": "お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0025",
    "jp": "今、アリオストさんが通ったよ。{n}ミーシャ君のことは僕に任せて欲しいって。{p}アリオストさんなら、{n}ミーシャを立ち直らせてくれるかな？",
-   "en": "",
-   "term": "end"
+   "en": "Ariost-san just came by. He said, \"Leave Misha-kun{n}to me.\"{p}Do you think Ariost-san can help Misha get back on{n}her feet?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0026",
    "jp": "どう答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0027",
    "jp": "お兄ちゃんがそう言うなら安心だね。{n}アリオストさん、きっとミーシャを{n}元気にしてくれる。",
-   "en": "",
-   "term": "end"
+   "en": "If you say so, Big Brother, I feel better. I'm sure{n}Ariost-san will cheer Misha up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0028",
    "jp": "だったらお願い、お兄ちゃん。{n}ミーシャを元気づけて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Then please, Big Brother. Help Misha feel better...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0029",
    "jp": "あっ、ルイセちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0030",
    "jp": "お願い、お兄ちゃん。{n}ミーシャを元気づけて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Please, Big Brother. Help Misha feel better...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0031",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0032",
    "jp": "・うなずく",
-   "en": "",
+   "en": "・Nod",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0033",
    "jp": "・ルイセがなぐさめろと言う",
-   "en": "",
+   "en": "・Tell Luise to comfort her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0034",
    "jp": "・自分にはできないと言う",
-   "en": "",
+   "en": "・Say you can't do it",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0035",
    "jp": "わたし、なぐさめようと思って{n}ミーシャのところに行ったの。{p}でもミーシャ、わたしを見るとどこかへ{n}逃げて行っちゃって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I went to see Misha because I wanted to comfort her.{p}But whenever she sees me, she runs off somewhere...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0036",
    "jp": "ミーシャはお兄ちゃんの事が好きなんだよ。{n}お兄ちゃんじゃなくちゃダメなの。",
-   "en": "",
-   "term": "end"
+   "en": "Misha is in love with you, Big Brother. It has to{n}be you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0037",
    "jp": "わたしが頼れるのは、{n}お兄ちゃんしかいないの。",
-   "en": "",
-   "term": "end"
+   "en": "You're the only one I can turn to, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0038",
    "jp": "だからお兄ちゃん、お願い。{n}ミーシャを‥‥ミーシャを助けて！",
-   "en": "",
-   "term": "end"
+   "en": "So please, Big Brother. Help Misha... Please help her!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0039",
@@ -255,478 +293,555 @@
   {
    "id": "scen303.0040",
    "jp": "ルイセちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Luise-chan...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0041",
    "jp": "今、ルイセ君が屋上へ行ったよ。{n}ミーシャ君を助けるんだって。{p}きっと、今の彼女ならやってくれるさ。",
-   "en": "",
-   "term": "end"
+   "en": "Luise-kun just went up to the roof. She said she was{n}going to help Misha-kun.{p}I'm sure she can do it, with the resolve she has now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0042",
    "jp": "‥‥ミーシャ君は屋上にいる。{n}しかし、僕にはミーシャ君にかける言葉がないよ。{p}自分の好きな女性をなぐさめる事も{n}できないなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Misha-kun is up on the roof. But I can't find the words{n}to say to her.{p}I can't even comfort the woman I love...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0043",
    "jp": "‥‥君なら、ミーシャ君を{n}なぐさめる事ができるんじゃないかな？",
-   "en": "",
-   "term": "end"
+   "en": "...Do you think you might be able to comfort Misha-kun?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0044",
    "jp": "君でも‥‥無理だと言うのか。{p}‥‥‥{p}‥‥{FE1E}{FC00}{s:0000}君、吹っ切れたよ。{n}僕が行く。{n}僕がミーシャ君を元気づけてみせる。",
-   "en": "",
-   "term": "end"
+   "en": "Even you... don't think you can do it?{p}...{p}...{FE1E}{FC00}{s:0000}, I'm done hesitating. I'll go. I'll find{n}a way to lift Misha-kun's spirits.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0045",
    "jp": "あら？{n}あなたはルイセのお兄さん？",
-   "en": "",
-   "term": "end"
+   "en": "Oh? Are you Luise's older brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0046",
    "jp": "あの、ローランディアの騎士だっていう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The one they say is a knight of Rolandia...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0047",
    "jp": "なんで、あのホムンクルスを{n}放っておくんですか？",
-   "en": "",
-   "term": "end"
+   "en": "Why aren't you doing anything about that homunculus?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0048",
    "jp": "学院長が悪いことするのに使われていたんでしょ？{n}わたし、怖いです。",
-   "en": "",
-   "term": "end"
+   "en": "The Headmaster used her to do terrible things, didn't{n}he? I'm scared.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0049",
    "jp": "私も‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "So am I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0050",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0051",
    "jp": "・事情を説明する",
-   "en": "",
+   "en": "・Explain the situation",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0052",
    "jp": "・ミーシャに謝れと言う",
-   "en": "",
+   "en": "・Tell them to apologize to Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0053",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0054",
    "jp": "‥‥そうだったんですか。",
-   "en": "",
-   "term": "end"
+   "en": "...So that's what happened.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0055",
    "jp": "でも、私たちだって怖かったんです。{n}学校であんな事が起こっていたなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "But we were scared, too. To think all that was{n}happening at our school...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0056",
    "jp": "なんだか、取り乱してみんなにも{n}いろいろ言っちゃった‥‥。{n}どうすればいいんだろう？",
-   "en": "",
-   "term": "end"
+   "en": "I got so upset, I went and said all sorts of things to{n}everyone... What should I do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0057",
    "jp": "私たちがミーシャと仲良くして、{n}みんなにもわかってもらうしかないよね。",
-   "en": "",
-   "term": "end"
+   "en": "We'll just have to be friends with Misha and help{n}everyone else understand, won't we?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0058",
    "jp": "そうね。",
-   "en": "",
-   "term": "end"
+   "en": "You're right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0059",
    "jp": "うん。",
-   "en": "",
-   "term": "end"
+   "en": "Yeah.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0060",
    "jp": "謝れって‥‥なんで？",
-   "en": "",
-   "term": "end"
+   "en": "Apologize...? Why?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0061",
    "jp": "ミーシャって学院長の手下だったんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "Wasn't Misha working for the Headmaster?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0062",
    "jp": "アンタたち、なんにも知らないのね。",
-   "en": "",
-   "term": "end"
+   "en": "You lot don't know a thing, do you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0063",
    "jp": "アンタ、黙ってないでなんとか言いなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, don't just stand there! Say something!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0064",
    "jp": "{FFF5}ありがとう、ルイセちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}Thank you, Luise-chan.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0065",
    "jp": "いいんだよ、ミーシャ。{n}わたしたち、親友でしょ？",
-   "en": "",
-   "term": "end"
+   "en": "It's all right, Misha. We're best friends, aren't we?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0066",
    "jp": "ミーシャ、立ち直ったみたいだね。{n}良かった、良かった。",
-   "en": "",
-   "term": "end"
+   "en": "Looks like Misha's back on her feet. Good, good.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0067",
    "jp": "{FFF5}ありがとう、アリオスト先輩。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}Thank you, Ariost-senpai.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0068",
    "jp": "いいんだよ。{n}僕はいつも元気なミーシャ君を見ていたいんだ。",
-   "en": "",
-   "term": "end"
+   "en": "It's all right. I just want to see you cheerful as{n}always, Misha-kun.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0069",
    "jp": "{FFF5}{v:024D}お兄さま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:024D}Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0070",
    "jp": "{v:029D}アタシって‥‥いったい何なのかな‥‥。{p}{v:029E}何をやっても中途半端な作り物。{n}記憶だって、作り物‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:029D}What... am I, really...?{p}{v:029E}A fake who never does anything quite right. Even my{n}memories are fake...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0071",
    "jp": "{v:029F}ミーシャ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:029F}Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0072",
    "jp": "{FFF5}{v:02A0}アタシっていったい何！？{n}どうしてこんな目にあわなきゃいけないの！？{n}アタシが何か悪いことした！？{p}{v:02A1}アタシ‥‥アタシ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:02A0}What am I?! Why does this have to happen to me?! Did I{n}do something wrong?!{p}{v:02A1}I... I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0073",
    "jp": "{v:0251}確かに見かけは人間そっくりかもしれない‥‥。{p}{v:0252}でも、アタシは作られた存在なんだよ！？{n}アタシはホムンクルスなんだよ！？{p}{v:0253}それを知って平気でいられると思う！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0251}Sure, I might look exactly like a human...{p}{v:0252}But someone made me! I'm a homunculus!{p}{v:0253}Do you think I can just be all right with knowing that?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0074",
    "jp": "何と言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0075",
    "jp": "・生きる喜びを感じたことはないのか？",
-   "en": "",
+   "en": "・Have you never felt glad to be alive?",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0076",
    "jp": "・自分を信じろと叱る",
-   "en": "",
+   "en": "・Scold her: believe in yourself",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0077",
    "jp": "{v:0254}え‥‥、生きる喜びを感じたこと？{p}{v:0255}でも、アタシの記憶って、{n}ほとんど作られたものだし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0254}Huh...? Have I ever felt glad to be alive?{p}{v:0255}But almost all my memories were made up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0078",
    "jp": "さらにかける言葉は？",
-   "en": "",
-   "term": "end"
+   "en": "What else will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0079",
    "jp": "・俺たちとの思い出は本物だ",
-   "en": "",
+   "en": "・Your memories with us are real",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0080",
    "jp": "・作られた記憶など気にするな",
-   "en": "",
+   "en": "・Don't dwell on fabricated memories",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0081",
    "jp": "・過去よりこれからが大切だ",
-   "en": "",
+   "en": "・The future matters more than the past",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0082",
    "jp": "{v:0256}本物の思い出‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0256}Real memories...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0083",
    "jp": "{v:0257}そうだ、そうだよね。{p}{v:0258}お兄さま達と過ごした思い出は、本物だもんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0257}Yes... Yes, you're right.{p}{v:0258}My memories of being with you and everyone else are{n}real, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0084",
    "jp": "{v:0259}気にするななんて無理です！{n}だって、記憶のほとんどがそうなんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0259}I can't just forget about it! Almost all my memories are{n}like that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0085",
    "jp": "{v:025A}でもアタシ達といた思い出は本物でしょ！{n}こうしている今だって、本物の出来事でしょ！{p}{v:025B}作られた記憶に、こだわる必要ないよ！{n}これからいっぱい、楽しい思い出を作ればいいじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:025A}But your memories with us are real, aren't they?! This{n}moment right here is real, too!{p}{v:025B}You don't have to dwell on those made-up memories!{n}Just make lots of happy new ones!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0086",
    "jp": "{v:025C}過去を気にしないなんて、無理です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:025C}I can't just stop thinking about the past.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0087",
    "jp": "{v:025D}そうだけど‥‥。{n}こうしている今は、本物の出来事でしょ？{p}{v:025E}だったら、これから楽しい思い出を{n}いっぱい作ればいいじゃない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:025D}I know, but... This moment right here is real, isn't it?{p}{v:025E}So why don't you make lots of happy memories from{n}now on?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0088",
    "jp": "{v:025F}楽しい思い出を作る‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:025F}Make happy memories...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0089",
    "jp": "{v:0260}そうだ、そうだよね。{p}{v:0261}お兄さま達と過ごした思い出は、本物だもんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0260}Yes... Yes, you're right.{p}{v:0261}My memories of being with you and everyone else are{n}real, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0090",
    "jp": "{v:0262}そうだよ。{n}生きてるから、こうしてみんなといられるんだよ？{p}{v:0263}だからアタシ、{n}自分を作ってくれたマスターに感謝してるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0262}That's right. You can be here with everyone because{n}you're alive, you know?{p}{v:0263}That's why I'm grateful to Master for creating me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0091",
    "jp": "{v:0264}自分を信じる‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0264}Believe in myself...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0092",
    "jp": "{v:0265}そうだよ。{n}自分を信じなきゃ！{p}{v:0266}自分を信じる事が出来なきゃ、{n}なんにも出来るはずがないじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0265}That's right. You've got to believe in yourself!{p}{v:0266}If you can't even do that, how do you expect to do{n}anything else?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0093",
    "jp": "{v:0267}自分を信じること‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0267}Believe in myself...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0094",
    "jp": "{v:0268}そうだね、自分を信じなきゃ何もできないよね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0268}You're right. I can't do anything unless I believe{n}in myself...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0095",
    "jp": "{v:0269}お兄さまありがとう！{n}アタシ、もう一度最初から頑張ってみる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0269}Thank you, Big Brother! I'll start over and give it{n}my all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0096",
    "jp": "{v:026A}うふっ★{n}やっと元気が出てきたみたいね。{p}{v:026B}ミーシャが暗くなると、{n}みんなの調子が狂っちゃうんだから、気をつけてよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:026A}Hehe! Looks like you're finally perking up.{p}{v:026B}When you get all gloomy, Misha, it throws everyone{n}off. Keep that in mind, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0097",
    "jp": "{v:026C}あ‥はぁ‥‥。{p}{v:026D}いろいろ心配かけてごめんなさい。{n}アタシ、もうめげません！{p}{v:026E}だから、これからもよろしくお願いします！",
-   "en": "",
-   "term": "end"
+   "en": "{v:026C}Ah... Um...{p}{v:026D}I'm sorry I made you all worry so much. I won't let this{n}get me down again!{p}{v:026E}So please keep looking out for me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0098",
    "jp": "{v:026F}一件落着ぅっ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:026F}And that's that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0099",
    "jp": "{v:0270}アタシ、ルイセちゃんの所に行って来る。{n}ずっとルイセちゃんを避けてたし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0270}I'm going to see Luise-chan. I've been avoiding her all{n}this time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0100",
    "jp": "{v:0271}そうしてあげなよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0271}Yeah, go see her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0101",
    "jp": "{v:0272}うん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0272}Okay!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0102",
    "jp": "‥‥お兄さま？",
-   "en": "",
-   "term": "end"
+   "en": "...Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0103",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0104",
    "jp": "・大丈夫かと聞く",
-   "en": "",
+   "en": "・Ask if she's all right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0105",
    "jp": "・頭をなでてやる",
-   "en": "",
+   "en": "・Pat her head",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0106",
    "jp": "・微笑む",
-   "en": "",
+   "en": "・Smile",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0107",
    "jp": "お兄さま‥‥。{p}少し落ち着いて考えようと思って{n}学院に帰ってきたんだけど、{n}なんだかみんなよそよそしくて‥‥。{p}やっぱりアタシ、人間じゃないから‥‥。{n}アタシ、ホムンクルスだから‥‥。{n}お兄さま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother...{p}I came back to the Academy to calm down and think{n}things over, but everyone seems so distant...{p}It must be because I'm not human... Because I'm a{n}homunculus... Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0108",
    "jp": "みんな、誤解してたんだよ。{n}でも、もう大丈夫。{n}わかってくれたよ。",
-   "en": "",
-   "term": "end"
+   "en": "They all had the wrong idea. But it's all right now. They{n}understand.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0109",
    "jp": "そう‥‥{FE1E}なの？",
-   "en": "",
-   "term": "end"
+   "en": "Is that...{FE1E}really true?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0110",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0111",
    "jp": "・なだめる",
-   "en": "",
+   "en": "・Soothe her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0112",
    "jp": "・さとす",
-   "en": "",
+   "en": "・Reason with her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0113",
    "jp": "・しかる",
-   "en": "",
+   "en": "・Scold her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen303.0114",
    "jp": "‥‥そうですね。{n}人間でも、ホムンクルスでもアタシはアタシ。{p}過去の記憶は偽物でも、お兄さまとの思い出は{n}全部本当の事だもの‥‥。{p}{FC00}お兄さま、アタシ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...You're right. Human or homunculus, I'm still me.{p}My memories of the past may be fake, but every{n}memory I've made with you is real, Big Brother...{p}{FC00}Big Brother, I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0115",
    "jp": "ミーシャはやっぱり元気じゃないとね。",
-   "en": "",
-   "term": "end"
+   "en": "It's just not like you to be down, Misha.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen303.0116",
    "jp": "うん、ありがとう、ティピちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "Yeah. Thank you, Tippi-chan.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

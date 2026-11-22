@@ -21,74 +21,86 @@
   {
    "id": "scen156.0002",
    "jp": "門番",
-   "en": "",
-   "term": "null"
+   "en": "Gatekeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen156.0003",
    "jp": "オヤジ",
-   "en": "",
-   "term": "null"
+   "en": "Old Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen156.0004",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen156.0005",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen156.0006",
    "jp": "看板",
-   "en": "",
-   "term": "null"
+   "en": "Sign",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen156.0007",
    "jp": "看板・裏",
-   "en": "",
-   "term": "null"
+   "en": "Sign (Back)",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen156.0008",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen156.0009",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen156.0010",
    "jp": "張り紙",
-   "en": "",
-   "term": "null"
+   "en": "Notice",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen156.0011",
    "jp": "ＬＬＭ魔法教室講師",
-   "en": "",
-   "term": "null"
+   "en": "LLM Magic Instructor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen156.0012",
    "jp": "ローランディア兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen156.0013",
    "jp": "王都ローザリア",
-   "en": "",
-   "term": "end"
+   "en": "Royal Capital Rosaria",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0014",
@@ -117,8 +129,9 @@
   {
    "id": "scen156.0018",
    "jp": "わかりました。",
-   "en": "",
-   "term": "end"
+   "en": "Understood.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0019",
@@ -297,26 +310,30 @@
   {
    "id": "scen156.0048",
    "jp": "開門！",
-   "en": "",
-   "term": "end"
+   "en": "Open the gates!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0049",
    "jp": "どうぞ、お入り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please, come in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0050",
    "jp": "{v:004C}いらっしゃいませ。{n}スキマ屋へようこそ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Hello! Welcome to the Nook Shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0051",
    "jp": "{v:0054}これからもスキマ屋をよろしくね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Keep coming back to the Nook Shop!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0052",
@@ -357,14 +374,16 @@
   {
    "id": "scen156.0058",
    "jp": "おや、君か、ありがとう！{n}君のおかげでスキマ屋で買い物ができたよ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, it's you! Thank you! Thanks to you, I was able to{n}shop at the Nook Shop!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0059",
    "jp": "‥‥この辺りに変わった店があるって聞いたのに、{n}いったいどこにあるんだ？",
-   "en": "",
-   "term": "end"
+   "en": "...I heard there was an unusual shop around here.{n}Where on earth is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0060",
@@ -459,62 +478,72 @@
   {
    "id": "scen156.0075",
    "jp": "城門は堅く閉ざされている‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The castle gates are firmly shut...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0076",
    "jp": "久しぶりにお客さんが来たよ‥‥。{n}もう嬉しくって泣けてくるねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "A customer, after all this time... I'm so happy I{n}could cry...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0077",
    "jp": "　{FE1E}‥{FE1E}‥{FE1E}‥{FE1E}売れねぇなぁ{FE1E}‥{FE1E}‥。{FFFB}{n}　‥‥誰も来ねぇし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "　{FE1E}.{FE1E}.{FE1E}.{FE1E}Can't sell a thing{FE1E}.{FE1E}..{FFFB}...Nobody even comes in...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0078",
    "jp": "　　特売品多数！{n}　　　アイテムショップ・ココ",
-   "en": "",
-   "term": "end"
+   "en": "　　Bargains galore! Coco's Item Shop",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0079",
    "jp": "　　準備中！{n}　　　アイテムショップ・ココ",
-   "en": "",
-   "term": "end"
+   "en": "　　Not open yet!{n}Coco's Item Shop",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0080",
    "jp": "　　特売品多数！{n}　　　　スキマ屋",
-   "en": "",
-   "term": "end"
+   "en": "　　Bargains galore! Nook Shop",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0081",
    "jp": "マンホールの底には、何もないようだ。",
-   "en": "",
-   "term": "end"
+   "en": "There doesn't seem to be anything at the bottom of{n}the manhole.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0082",
    "jp": "店の前にあるマンホールだ。",
-   "en": "",
-   "term": "end"
+   "en": "A manhole in front of the shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0083",
    "jp": "マンホールがまるい形をしているのは、{n}向きがずれても落ちないためだ。",
-   "en": "",
-   "term": "end"
+   "en": "Manhole covers are round so they won't fall through,{n}no matter which way they're turned.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0084",
    "jp": "{FFEC}ティピちゃん、きーっく！{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}Tippi-chan kiiick!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0085",
@@ -579,26 +608,30 @@
   {
    "id": "scen156.0095",
    "jp": "僕たち、デート中なんだ。{n}邪魔しないでくれ！",
-   "en": "",
-   "term": "end"
+   "en": "We're on a date. Leave us alone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0096",
    "jp": "僕の彼女、ここを散歩するのが好きだったんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "My girlfriend used to love walking here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0097",
    "jp": "私たち、デート中なの。{n}邪魔しないで！",
-   "en": "",
-   "term": "end"
+   "en": "We're on a date. Don't bother us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0098",
    "jp": "あぁ‥‥。{n}これから私はどうしたらいいの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh... What am I supposed to do now...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0099",
@@ -639,124 +672,143 @@
   {
    "id": "scen156.0105",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0106",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0107",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0108",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0109",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0110",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0111",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0112",
    "jp": "{v:000C}いらっしゃいませ。{n}当店では、様々な装備品を取り扱っております。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Welcome. We carry a wide variety of equipment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0113",
    "jp": "{v:000E}お買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Would you like to buy or sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0114",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0115",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0116",
    "jp": "他にもご用はおありですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0117",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0118",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0119",
    "jp": "{v:0018}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0120",
    "jp": "　{n}『{FFEF}大きなコイン{FFF1}』を手に入れた！{FFFB}{n}と思ったら、ただのマンホールだった！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}Obtained '{FFEF}Large Coin{FFF1}'!{FFFB}Or so you thought. It was just a{n}manhole cover!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0121",
    "jp": "マンホールのふたは、雨の日によく滑る。",
-   "en": "",
-   "term": "end"
+   "en": "Manhole covers get very slippery on rainy days.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0122",
    "jp": "マンホールのふたは{n}４０キログラムと、かなり重い。",
-   "en": "",
-   "term": "end"
+   "en": "Manhole covers weigh a hefty 40 kilograms.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0123",
    "jp": "　　　スターロード武器・防具店{n}　　　　　　　王都ローザリア本店",
-   "en": "",
-   "term": "end"
+   "en": "　　　Star Road Weapons and Armor{n}Royal Capital Rosaria Main Store",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0124",
@@ -767,20 +819,23 @@
   {
    "id": "scen156.0125",
    "jp": "やっと商店街の営業が始まったよ。{n}後で買い物にでも行こうかな。",
-   "en": "",
-   "term": "end"
+   "en": "The shopping district is finally open for business.{n}Maybe I'll go shopping later.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0126",
    "jp": "ごめ～ん。{n}今、手が放せないの。{n}しばらくしたら、また来て。",
-   "en": "",
-   "term": "end"
+   "en": "Sorryyy. I'm busy right now. Come back in a little while.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0127",
    "jp": "あら、私を訪ねてくれたの？{p}そう言えば、スキマ屋には行ってみた？{n}あそこのおじさん、商売熱心だから、{n}たまに新しい物が入ってたりするわよ。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, did you come to see me?{p}By the way, have you been to the Nook Shop? The man{n}who runs it is quite devoted to his business, so he{n}sometimes has new things in stock.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0128",
@@ -797,8 +852,9 @@
   {
    "id": "scen156.0130",
    "jp": "そういえば、サンドラ様が襲われる前にも{n}お城に賊が入ったそうじゃない。{n}これじゃおちおち外にも出られないわよ。",
-   "en": "",
-   "term": "end"
+   "en": "Come to think of it, I hear there was an intruder in the{n}castle even before Sandra-sama was attacked. I can't{n}even go outside without worrying now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0131",
@@ -815,8 +871,9 @@
   {
    "id": "scen156.0133",
    "jp": "‥‥話しかけちゃダメだよ。{n}オニに見つかっちゃうじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "...Don't talk to me. The kid who's it will find me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0134",
@@ -833,32 +890,37 @@
   {
    "id": "scen156.0136",
    "jp": "へぇ～。{n}こんな所に出るんだ‥‥。{n}面白いね。",
-   "en": "",
-   "term": "end"
+   "en": "Wow... So this is where it comes out... That's neat.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0137",
    "jp": "うす汚れたマンホールだ。",
-   "en": "",
-   "term": "end"
+   "en": "A grimy manhole cover.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0138",
    "jp": "新しいマンホールだ。",
-   "en": "",
-   "term": "end"
+   "en": "A new manhole cover.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0139",
    "jp": "　{n}　　　　　南大通り商店街、営業中！！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　South Avenue Shopping District: Open{n}for Business!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0140",
    "jp": "やっと橋がつながったぜ！{n}今まで品不足だったから、たくさん仕入れないとな。{n}ああ、忙しい。",
-   "en": "",
-   "term": "end"
+   "en": "The bridge is finally back up! We've been short on goods{n}all this time, so I've gotta stock up. Ah, there's so much{n}to do!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0141",
@@ -875,8 +937,9 @@
   {
    "id": "scen156.0143",
    "jp": "お店が開店して忙しいの。{n}悪いけど、また後にしてくれないかしら？",
-   "en": "",
-   "term": "end"
+   "en": "The shop's open now, and I'm busy. Sorry, but could{n}you come back later?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0144",
@@ -899,66 +962,76 @@
   {
    "id": "scen156.0147",
    "jp": "よく来てくれたね。{n}せっかくだから、お店に寄っていって頂戴。{p}この扉の奥よ！",
-   "en": "",
-   "term": "end"
+   "en": "How nice of you to come. Since you're here, do stop by{n}the shop.{p}It's through this door!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0148",
    "jp": "よく、ここへ来る方法がわかったな‥‥。{n}ここに気づいたのは、お前が初めてだ。",
-   "en": "",
-   "term": "end"
+   "en": "So you figured out how to get here... You're the first{n}to notice this place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0149",
    "jp": "{v:0019}おう、いらっしゃい。{n}ここは装備品を売ってる店だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Hey, welcome. We sell equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0150",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0151",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0152",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0153",
    "jp": "まだ何か用か？",
-   "en": "",
-   "term": "end"
+   "en": "Need anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0154",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0155",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen156.0156",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}See ya.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0157",
@@ -1029,20 +1102,23 @@
   {
    "id": "scen156.0168",
    "jp": "　第２４回フリーマーケット開催の案内{n}　　～詳しくはグランシル市にて～",
-   "en": "",
-   "term": "end"
+   "en": "　Announcing the 24th Flea Market! Inquire in Grancil{n}for{n}details.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0169",
    "jp": "このマンホールをくぐると地底都市が！！{FFFB}{n}‥‥ということは絶対にない。",
-   "en": "",
-   "term": "end"
+   "en": "Through this manhole lies an underground city!!{FFFB}{n}...Absolutely no chance of that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0170",
    "jp": "　　　　　　魔法学院合格率６０％！{n}　　　　実績に裏付けされた信頼の進学塾{n}　　　　　　　『ＬＬＭ魔法教室』",
-   "en": "",
-   "term": "end"
+   "en": "　　　　　　Magic Academy pass rate: 60%!{n}　　　A trusted prep school with a proven record:{n}　　　　　　　　'LLM Magic School'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0171",
@@ -1083,50 +1159,58 @@
   {
    "id": "scen156.0177",
    "jp": "あなたに教えることは、もうなさそうね。{p}だけどこのおじいさんは、{n}まだまだ勉強が必要みたい[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "It seems there's nothing left for me to teach you.{p}But this old gentleman still has plenty of studying{n}to do[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0178",
    "jp": "‥‥ふむふむ。",
-   "en": "",
-   "term": "end"
+   "en": "...Hmm, I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0179",
    "jp": "能力の説明で、まだお知りになりたい事は{n}ありますか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else you would like to know{n}about abilities?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0180",
    "jp": "だいたいはわかったんじゃが‥‥。{n}１つ聞いてもいいかのぉ。",
-   "en": "",
-   "term": "end"
+   "en": "I think I've got the gist of it... But might I ask{n}one thing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0181",
    "jp": "何でしょう？",
-   "en": "",
-   "term": "end"
+   "en": "What would that be?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0182",
    "jp": "わしも経験をつめば、剣とかを振り回して、{n}きめぽぉずをとるんじゃろうか？",
-   "en": "",
-   "term": "end"
+   "en": "If I gain enough experience, will I be swinging swords{n}about and striking dashing poses, too, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0183",
    "jp": "え‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Er...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0184",
    "jp": "わしも経験をつめば、{n}きめぽぉずをとるんじゃろうか？{n}そこがいちばん知りたいのぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "If I gain enough experience, will I be striking dashing{n}poses, too, eh? That's what I'd most like to know...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0185",
@@ -1179,14 +1263,16 @@
   {
    "id": "scen156.0193",
    "jp": "ここはローランディア王国の王都、ローザリアです。",
-   "en": "",
-   "term": "end"
+   "en": "This is Rosaria, the royal capital of the Kingdom{n}of Rolandia.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0194",
    "jp": "街の外に出るのですか？{n}どうか気を付けて。",
-   "en": "",
-   "term": "end"
+   "en": "Are you leaving town? Please take care.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0195",
@@ -1221,8 +1307,9 @@
   {
    "id": "scen156.0200",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～ローザリア警備隊～",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　'Remember to lock up when you go out!'{n}--Rosaria Guard",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0201",
@@ -1347,8 +1434,9 @@
   {
    "id": "scen156.0221",
    "jp": "{v:004E}場所は狭くても、扱っている商品は{n}他店に引けを取らないからね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}We may be short on space, but our goods are a match{n}for any shop's!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0222",
@@ -1377,14 +1465,16 @@
   {
    "id": "scen156.0226",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen156.0227",
    "jp": "{v:000D}いらっしゃいませ。{n}当店では、様々なグッズを取り扱っております。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Welcome. We carry a wide variety of goods.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

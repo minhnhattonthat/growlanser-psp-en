@@ -15,437 +15,509 @@
   {
    "id": "scen232.0001",
    "jp": "ローランディア兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen232.0002",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen232.0003",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen232.0004",
    "jp": "{FFEE}友軍を援護し、敵を全滅せよ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Support your allies and eliminate all enemies!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0005",
    "jp": "ん？{n}またローランディアの奴らが動き出したか？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Those Rolandia bastards are on the move again?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0006",
    "jp": "奴さえ‥‥。{n}インペリアル・ナイトさえいなければ、{n}こんな事には‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "If only he... If that Imperial Knight hadn't been here,{n}this would never have...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0007",
    "jp": "隊長！{n}仲間の仇を討たせて下さい！{n}奴が、いったいどれだけ仲間の命を‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Captain! Let me avenge our comrades! How many of{n}them has he killed...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0008",
    "jp": "落ち着くんだ！{n}冷静さを失えば、勝てる戦も負けてしまうぞ！{p}ここは俺たちに任せろ！",
-   "en": "",
-   "term": "end"
+   "en": "Calm down! Lose your head, and you'll lose even a{n}battle you could win!{p}Leave this to us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0009",
    "jp": "大丈夫なのか？{n}相手はあのナイトだぞ？{p}１００人いた我が隊も、{n}奴１人のためにここまで‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Can you handle this? You know which Knight you're{n}facing, don't you?{p}Our unit had a hundred men. He alone has reduced us{n}to this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0010",
    "jp": "ナイトの強さは知っているつもりです。{n}だから、ここはわたし達を信じて下さい！",
-   "en": "",
-   "term": "end"
+   "en": "I believe we know how strong the Knight is. Please,{n}trust us with this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0011",
    "jp": "{v:0013}ほぅっ。{n}我々相手に戦おうというのか‥‥。{p}{v:0014}ローランディアにも、まだ骨のある奴がいたと見える。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Oh? You intend to fight us...?{p}{v:0014}It seems Rolandia still has a few people with courage.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0012",
    "jp": "{v:0015}俺たちが前衛をつとめる。{n}少しずつ、ついてこい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}We'll take the front. Follow slowly behind us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0013",
    "jp": "{v:0016}わかった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Understood!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0014",
    "jp": "{v:0017}まさか、我が軍が押されているだと？{p}{v:0018}ん？{n}彼らは‥‥！？{p}{v:0019}正規軍でもない者に押されているというのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Impossible. Our army is being driven back?{p}{v:0018}Hm? Those people...?!{p}{v:0019}We are being driven back by people who are not even{n}regular soldiers?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0015",
    "jp": "{v:001A}ここまで来るとはな。{p}{v:001B}私はインペリアル・ナイツが１人オスカー・リーヴス。{p}{v:001C}あなた方に敬意を表し、私が自ら相手をしよう。{p}{v:001D}私はここを動かない。{n}自由に攻めてくるとよい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}So, you have come this far.{p}{v:001B}I am Oscar Reeves, one of the Imperial Knights.{p}{v:001C}Out of respect for you, I shall face you myself.{p}{v:001D}I will not move from this spot. Attack as you please.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0016",
    "jp": "{v:001E}ムカッ！{p}{v:001F}何だか余裕を見せつけられてるってカンジ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Grr!{p}{v:001F}He's just rubbing it in how easy he thinks this'll be!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0017",
    "jp": "{v:0020}ハンディキャップだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Consider it a handicap.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0018",
    "jp": "{v:0021}みんな、がんばって！{n}あんな奴に負けないでよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Come on, everyone! Don't you dare lose to that guy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0019",
    "jp": "‥‥{v:0039}ふぅっ。{n}君たちと戦えたのは貴重な体験だったよ。{p}{v:003A}今度会ったときには、{n}最初から全力でいかせてもらうよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0039}Whew. Fighting you has been a valuable experience.{p}{v:003A}The next time we meet, I will give it my all from{n}the start.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0020",
    "jp": "{v:003B}ああ、逃げられちゃった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Ah! He got away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0021",
    "jp": "{v:003F}今度会う時を楽しみにしているぞ。{n}次はバーンシュタイン王国の士官として、{n}貴殿たちの相手をしよう。{p}{v:0040}さらばだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}I look forward to our next meeting. Next time, I shall{n}face you as an officer of the Kingdom of Burnstein.{p}{v:0040}Farewell.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0022",
    "jp": "友軍の支援をするぞ！{n}彼らがやられてしまっては、{n}国境を破られるからな。",
-   "en": "",
-   "term": "end"
+   "en": "Let's support our allies! If they fall, the enemy will{n}break through the border.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0023",
    "jp": "うん、そうだね。{n}がんばろう、お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "Yes, you're right. Let's do our best, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0024",
    "jp": "みんな、迎撃だ！{n}奴らを押し返せ！",
-   "en": "",
-   "term": "end"
+   "en": "Everyone, intercept them! Push them back!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0025",
    "jp": "はっ！",
-   "en": "",
-   "term": "end"
+   "en": "Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0026",
    "jp": "こ、これまでか‥‥。{n}後は頼んだぞ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I-is this the end...? The rest is up to you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0027",
    "jp": "こ、ここを通すわけには‥‥。{p}ぐはっ！",
-   "en": "",
-   "term": "end"
+   "en": "I-I can't let you through here...{p}Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0028",
    "jp": "す、すまない。{n}役に立てなかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I-I'm sorry. I was no help...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0029",
    "jp": "ミリー。{n}すまない‥‥。{n}俺は、もう‥ダ‥‥メ‥‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Milly. I'm sorry... I can't... go... on...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0030",
    "jp": "あぁ～っ！{n}兵隊さんたちが全滅しちゃったよ！",
-   "en": "",
-   "term": "end"
+   "en": "Aaah! All our soldiers have been wiped out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0031",
    "jp": "これじゃあ、{n}バーンシュタイン軍に攻め込まれてしまう。{n}もう任務どころの問題じゃないぞ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Now the Burnstein army will invade. We've got more to{n}worry about than our mission...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0032",
    "jp": "もう！{n}バカバカバカ～ッ！",
-   "en": "",
-   "term": "end"
+   "en": "Ugh! Stupid, stupid, stuuupid!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0033",
    "jp": "ああ～。{n}兵隊さんがやられちゃったよ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh no! That soldier's been killed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0034",
    "jp": "彼らに無理はさせない方がいい。{n}できるだけ俺たちだけで、敵を抑えるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "We shouldn't push them too hard. Let's hold off as{n}many enemies as we can ourselves.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0035",
    "jp": "{v:0023}望むところだぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Just what I wanted.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0036",
    "jp": "{v:0024}僕たちだって引くことは出来ないんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}We cannot back down either.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0037",
    "jp": "{v:0025}いけ、いけ！返り討ちだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Go, go! Give him a taste of his own medicine!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0038",
    "jp": "{v:0027}でも、わたし達も勝たなければいけないんです！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}But we have to win too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0039",
    "jp": "{v:0028}だったら手加減してよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Then go easy on us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0040",
    "jp": "‥‥{v:0029}戦争‥‥なんですね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0029}This really is... war...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0041",
    "jp": "{v:0046}いい腕だ。{n}ジュリアンが認めるだけはある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}You are skilled. I see why Julian respects you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0042",
    "jp": "{v:0047}ジュリアンが？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Julian does?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0043",
    "jp": "{v:0048}そうだ。{n}君のことをずいぶん気に入ったらしく、{n}よく話していたよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Yes. Julian seems quite taken with you and has spoken{n}of you often.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0044",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0045",
    "jp": "・ジュリアンが女性であることを話す",
-   "en": "",
+   "en": "・Tell him Julian is a woman",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen232.0046",
    "jp": "・どんな事を話していたかたずねる",
-   "en": "",
+   "en": "・Ask what Julian said about you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen232.0047",
    "jp": "・話すことはないと言う",
-   "en": "",
+   "en": "・Say you have nothing to discuss",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen232.0048",
    "jp": "{v:0049}そこまでだ！{n}そこから先は話さないでもらおう。{p}{v:004A}その先を話すというなら、{n}私はジュリアンの名誉のためにも、{n}この場で君を倒さなければならない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Enough! I must ask you to say no more.{p}{v:004A}If you insist on continuing, I will have to defeat you{n}here and now to defend Julian's honor.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0049",
    "jp": "{v:004B}気になるのかな？{n}君は会うたびに強くなっていくと誉めていたんだ。{p}{v:004C}だから僕やアーネストは君に興味があるんだよ。{n}こんな所で手合わせできるとは思ってなかったがね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Curious, are you? Julian praised you, saying you grow{n}stronger with every meeting.{p}{v:004C}That is why Ernest and I are interested in you. Though{n}I never imagined we would cross swords here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0050",
    "jp": "{v:004D}だんまりか？{n}私も嫌われたものだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Keeping silent? You must dislike me quite a bit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0051",
    "jp": "{v:0022}勝負だ。受けてもらう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}I challenge you. You will face me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0052",
    "jp": "{v:0026}女性相手に本気を出すのは気が引けるが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}I hesitate to use my full strength against a{n}woman, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0053",
    "jp": "{v:003A}今度会ったときには、{n}最初から全力でいかせてもらうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}The next time we meet, I will give it my all from{n}the start.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0054",
    "jp": "{FFF3}‥‥{FFF4}{v:0040}さらばだ。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FFF4}{v:0040}Farewell.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0055",
    "jp": "{v:003E}俺に仕掛けるとは命知らずだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}You must have a death wish, attacking me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0056",
    "jp": "オスカー様‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Oscar-sama...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0057",
    "jp": "もっとお役に立ちたかった‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I wanted to be of more use...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0058",
    "jp": "こんな所で死ぬわけには‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I can't die in a place like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0059",
    "jp": "オスカー様‥‥。{n}私はオスカー様と一緒に戦えて‥しあ‥わ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Oscar-sama... Fighting alongside you, Oscar-sama... made{n}me so... hap...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0060",
    "jp": "もうわしは充分生きた‥‥。{n}悔いはない‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I've lived a good long life... No regrets...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0061",
    "jp": "‥‥{v:003C}気が変わった。{p}{v:003D}俺も帰るとするか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003C}I've changed my mind.{p}{v:003D}I suppose I'll head back too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0062",
    "jp": "{v:002A}う‥うぅ‥‥。{n}いくら１人とはいえ私をここまで追いつめるとは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Ugh... Even fighting alone, I never thought you could{n}push me this far...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0063",
    "jp": "{FB00}{v:004E}！{p}{v:002B}危ない、下がれ！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:004E}!{p}{v:002B}Look out! Get back!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0064",
    "jp": "{v:002C}はっ！{n}危ない！{n}下がって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Ah! Look out! Get back!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0065",
    "jp": "{v:002D}どうした？{n}お前らしくないぞ、オスカー。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}What is the matter? This is unlike you, Oscar.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0066",
    "jp": "{v:002E}アーネスト‥‥。{n}どうしてここへ？{p}{v:002F}今は休暇中のはずでは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Ernest... What brings you here?{p}{v:002F}I thought you were on leave...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0067",
    "jp": "{v:0030}そうだ。{p}{v:0031}それがどうした？{n}俺が俺の休暇をどう使おうと勝手だろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}I am.{p}{v:0031}What of it? How I spend my leave is my own business.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0068",
    "jp": "‥‥{v:0032}とにかく礼を言っておくよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0032}In any case, you have my thanks.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0069",
    "jp": "{v:0033}何の礼だ？{p}{v:0034}俺は自分が戦いたいからここへ来ただけだ。{n}別にお前を助けるために来たわけじゃない。{p}{v:0035}それよりさっさと下がったらどうだ？{n}お前に足を引っ張られてはかなわん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}For what?{p}{v:0034}I came here because I wanted to fight. I did not come{n}to rescue you.{p}{v:0035}More to the point, why don't you withdraw already? I{n}cannot have you holding me back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0070",
    "jp": "‥‥{v:0036}くすっ。{n}相変わらずだ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0036}Heh. You never change.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0071",
    "jp": "{v:0037}さて。{n}今度はこの俺が相手だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Now, then. You face me next.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen232.0072",
    "jp": "{v:0038}気をつけろ‥‥。{n}さっきのようには行きそうにないぞ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Careful... This won't go like the last fight...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

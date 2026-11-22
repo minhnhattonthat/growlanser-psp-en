@@ -15,552 +15,641 @@
   {
    "id": "scen315.0001",
    "jp": "医者",
-   "en": "",
-   "term": "null"
+   "en": "Doctor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen315.0002",
    "jp": "{v:0036}ジュリアン、もう元気になったの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Julian, are you feeling better already?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0003",
    "jp": "{v:0037}お前達か‥‥。{p}{v:0038}その事で少し聞きたいことがある‥‥。{FFF9}{FFFB}{n}{v:0039}その‥‥見たのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Oh, it is you...{p}{v:0038}There is something I wish to ask you about{n}that...{FFF9}{FFFB}{v:0039}Well... did you see?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0004",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0005",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0006",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0007",
    "jp": "{v:003A}とぼけるな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Do not play dumb!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0008",
    "jp": "{v:003B}お前は見たのだろう‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}You saw, did you not...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0009",
    "jp": "{v:003C}ジュリアンが女だってこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}You mean that you're a woman, Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0010",
    "jp": "{v:003D}やはり知ってしまったか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}So you did find out...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0011",
    "jp": "{v:003E}やはりそうか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}So I was right...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0012",
    "jp": "{v:003F}お前は何故私が女であることを、{n}ばらさなかったのだ？{n}その事を言うだけで、私はナイトの称号を剥奪される。{p}{v:0040}ローランディアにとっても{n}悪い話ではなかったはずだが？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Why did you not reveal that I am a woman? That alone{n}would have cost me my title as a knight.{p}{v:0040}Surely that would have served Rolandia's interests{n}as well?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0013",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0014",
    "jp": "・勝負は正々堂々つけたいからだと言う",
-   "en": "",
+   "en": "・Say you want a fair fight",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0015",
    "jp": "・ジュリアンだから言わなかったと言う",
-   "en": "",
+   "en": "・Say you kept quiet because it's Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0016",
    "jp": "{v:0041}正々堂々とだと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}A fair fight, you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0017",
    "jp": "{v:0042}ジュリアンが女だって哮を流して勝っても{n}しょうがないもん。{p}{v:0043}今までジュリアンは一生懸命やってきたんだから、{n}こっちも勝敗は正々堂々とつけなきゃね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}What good would winning do if we just spread rumors{n}that you're a woman, Julian?{p}{v:0043}You've worked so hard all this time, Julian. We have to{n}settle things fair and square.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0018",
    "jp": "{v:0044}私だから‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Because it is me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0019",
    "jp": "{v:0045}ジュリアンってナイツになるために、{n}ずいぶん苦労したんでしょ？{n}その苦労を踏みにじるなんて出来ないよ。{p}{v:0046}それに今までジュリアンは一生懸命{n}やってきたんだから、{n}こっちも勝敗は正々堂々としなきゃね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}You went through a lot to become an Imperial Knight,{n}didn't you, Julian? We couldn't just trample all{n}over that.{p}{v:0046}Besides, you've worked so hard all this time, Julian. We{n}have to settle things fair and square.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0020",
    "jp": "{v:0047}そうか‥‥すまない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}I see... You have my thanks...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0021",
    "jp": "{v:0048}でも、何で女だって事を隠してたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}But why were you hiding the fact that you're{n}a woman?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0022",
    "jp": "{v:0049}言わなかったか？{n}インペリアル・ナイトの条件は、{n}心技体すべてを兼ね備えた『男』である事。{p}{v:004A}私の家、ダグラス家は多くのインペリアル・ナイトを{n}輩出してきた家柄。{n}当然、男子の誕生が期待された。{p}{v:004B}だが産まれた子は、私だった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Did I not tell you? An Imperial Knight must be a 'man'{n}of exceptional spirit, skill, and strength.{p}{v:004A}My family, House Douglas, has produced many Imperial{n}Knights. Naturally, a son was expected.{p}{v:004B}But the child who was born was me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0023",
    "jp": "{v:004D}母が私を産んだ後に身体を壊してな。{n}だいぶ経って回復はしたのだが、それまでの間、{n}もう子供が産めないと諦めていたらしい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}My mother fell ill after giving birth to me. She recovered{n}much later, but until then, it seems she had given up{n}hope of ever having another child.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0024",
    "jp": "{v:004E}それで、ジュリアンを男として育てたんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}So they raised you as a boy, Julian...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0025",
    "jp": "{v:004F}いや、最初から父がそのつもりだったわけではない。{n}ただ私が産まれてからの父は、{n}何事にも無気力になったのだ。{p}{v:0050}だから私は少しでも父に喜んでもらおうと思い、{n}自分の意志で剣術を始めたのだ。{p}{v:0051}父が生きる目的を失ったのは自分のせいだから、{n}自分が父を救わなければいけない。{n}そんな風に思って始めたことだった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}No, that was not my father's intention from the start.{n}But after I was born, he lost all enthusiasm for life.{p}{v:0050}So I took up swordsmanship of my own accord, hoping{n}to bring him even a little joy.{p}{v:0051}I thought it was my fault that my father had lost his{n}purpose in life, so it was up to me to save him. That{n}was why I began.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0026",
    "jp": "何と声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0027",
    "jp": "・ジュリアンに責任はないと言う",
-   "en": "",
+   "en": "・Tell Julian it wasn't her fault",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0028",
    "jp": "・優しいんだなと言う",
-   "en": "",
+   "en": "・Tell her she's kind",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0029",
    "jp": "{v:0052}そうだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}You are right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0030",
    "jp": "{v:0053}ふっ、そう言われるとは思わなかったよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Heh. I did not expect you to say that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0031",
    "jp": "{v:0062}私が産まれた時、父は非常に落胆したそうだ。{p}{v:0063}無理もない。{n}私の家は、数多くのナイトを輩出してきた家柄だ。{p}{v:0065}だが、産まれたのは娘だった。{n}父の落胆は、いかほどのものだったか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}I am told my father was bitterly disappointed when I{n}was born.{p}{v:0063}It is hardly surprising. My family has produced a great{n}many knights.{p}{v:0065}But his child was a daughter. How deeply disappointed{n}he must have been...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0032",
    "jp": "{v:0066}そして時が移り、{n}幼い私は父の手ほどきで剣術を始めた。{n}少しでも父に喜んでもらおうと思ってな。{p}{v:0067}私には剣の才能があったらしく、{n}父は喜んで私に剣を教えてくれた。{n}それが幼い私には、嬉しかったのだ。{p}{v:0068}だが体が弱かった弟が、遅まきながら剣術を始めると、{n}父の興味は弟へと移っていった。{p}{v:0069}そのうち父は弟にかかりきりになり、{n}弟も飛躍的に力をつけていった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}Time passed, and as a young child, I began learning{n}swordsmanship from my father. I hoped to bring him{n}even a little joy.{p}{v:0067}It seems I had a talent for the sword, and my father{n}was happy to teach me. As a little girl, that made{n}me happy.{p}{v:0068}But when my younger brother, who had been frail,{n}finally took up swordsmanship, my father's interest{n}shifted to him.{p}{v:0069}Before long, my father devoted all his time to my{n}brother, whose skill grew by leaps and bounds...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0033",
    "jp": "{v:006A}弟さんに‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}To your younger brother...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0034",
    "jp": "{v:006B}そうだ。{n}その様子を見て焦りを感じた私は、以前にも増して{n}剣に打ち込んだ。{p}{v:006C}だが、努力すればするほど気持ちだけが空回りし、{n}剣の腕は思うように伸びなかった‥‥。{p}{v:006D}そしてそんなある日、ついに私は弟に負けた。{n}その時の父の喜んだ表情は、{n}この目に焼き付いている‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}Yes. Seeing that, I grew anxious and threw myself into{n}swordsmanship more fiercely than ever.{p}{v:006C}But the harder I tried, the more I struggled in vain. My{n}skill would not improve as I wished...{p}{v:006D}Then, one day, I finally lost to my brother. The joy on{n}my father's face that day is burned into my memory...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0035",
    "jp": "{v:006E}何となく、想像つくわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}I think I can picture it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0036",
    "jp": "{v:006F}私も、そんな風に父に誉めて貰いたくてな。{n}それからも血のにじむような努力をして剣術を鍛えた。{n}強くなれば、また父が優しくしてくれると思ったのだ。{p}{FC00}{v:0070}おそらく父に喜んで貰いたい一心が効いたのだろうな。{n}それまでのスランプがまるで嘘のように{n}腕が上がっていった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006F}I wanted my father to praise me like that, too. So I{n}kept honing my swordsmanship, pushing myself to{n}my limits.{p}I thought that if I grew stronger, he would be kind to{n}me again.{p}{FC00}{v:0070}Perhaps my single-minded wish to make him happy was{n}what did it. My skill began to improve as though I had{n}never struggled at all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0037",
    "jp": "{v:0071}それじゃ、弟さんには？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}Then... did you beat your brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0038",
    "jp": "{v:0072}当然、私の勝利に終わった。{p}{FC03}{v:0073}だが誉めてくれると思っていた父は逆に落胆していた。{n}そして、負けたことを悔やむ弟にねぎらいの言葉を{n}かけたのだ‥‥。{p}{v:0074}それを見たときに思ったのだ。{n}私への愛は消えたのだと‥‥。{p}{v:0075}父に裏切られた私は、そのまま家を出た。{n}それ以降は、お前も知っての通りだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}Naturally, I won.{p}{FC03}{v:0073}But my father, whom I had expected to praise me, was{n}disappointed instead. He offered words of comfort to{n}my brother, who was upset over his defeat...{p}{v:0074}When I saw that, I thought his love for me was gone...{p}{v:0075}Betrayed by my father, I left home then and there. You{n}know what happened after that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0039",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0040",
    "jp": "・いたわる",
-   "en": "",
+   "en": "・Comfort her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0041",
    "jp": "・ひどい父親だと同情する",
-   "en": "",
+   "en": "・Pity her for her cruel father",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0042",
    "jp": "{v:0076}だがそのおかげで、お前達と出会い、{n}剣をとる理由も見つけることが出来た。{p}{v:0077}それに今なら父の気持ちも理解出来る。{n}私が女で産まれた事が悪いのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}But because of that, I met all of you and found a{n}reason to wield my sword.{p}{v:0077}Besides, I can understand my father's feelings now.{n}The fault lies with me for having been born a woman.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0043",
    "jp": "{v:0078}ふっ、確かにひどい父親だな。{n}だが今なら父の気持ちも理解出来る。{n}私が女で産まれたことが悪いのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}Heh. He certainly was a cruel father. But I can{n}understand his feelings now. The fault lies with me for{n}having been born a woman.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0044",
    "jp": "{v:0079}男として産まれればと思うことも多かったが、{n}お前と出会ってからは、以前ほど悩まなくなった。{n}本当に感謝している。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}I often wished I had been born a man. But since{n}meeting you, it has troubled me less than before. I am{n}truly grateful.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0045",
    "jp": "{v:0058}これまでは、私の邪魔ばかりする嫌な奴という{n}認識だったが、これからはその認識を改めよう。{p}{v:0059}お前との決着は、次に戦場で会った時につけよう。{n}それまで、せいぜい腕を磨いておけ。{p}{v:005A}それと、私の本当の名は『ジュリア』。{n}ジュリア・ダグラスが私の本当の名だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Until now, I thought of you as a nuisance who did{n}nothing but get in my way. I shall have to revise{n}that opinion.{p}{v:0059}We shall settle our contest the next time we meet on{n}the battlefield. Until then, you had best keep honing{n}your skills.{p}{v:005A}One more thing. My true name is 'Julia.' Julia Douglas is{n}my true name...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0046",
    "jp": "{v:0000}お前達！？{FFF9}{FFFB}{n}{v:0001}何故、お前達がここにいる！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}You?!{FFF9}{FFFB}{v:0001}Why are you here?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0047",
    "jp": "{v:0002}何故って‥‥ねぇ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Why...? Well, you know...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0048",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0049",
    "jp": "・休暇を楽しんでいると答える",
-   "en": "",
+   "en": "・Say you're enjoying your leave",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0050",
    "jp": "・温泉に入りに来たと答える",
-   "en": "",
+   "en": "・Say you came for the hot springs",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0051",
    "jp": "・答える義務はないと言う",
-   "en": "",
+   "en": "・Say you have no obligation to answer",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0052",
    "jp": "・何をしているのか聞く",
-   "en": "",
+   "en": "・Ask what Julian is doing",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0053",
    "jp": "{v:0003}休暇だと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}On leave, you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0054",
    "jp": "{v:0004}そうよ！{n}一仕事終わって、やっとお休みがもらえたから{n}こうして遊びに来たんじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}That's right! We finished a job and finally got some{n}time off, so we came here to have fun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0055",
    "jp": "{v:0005}温泉だと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}The hot springs?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0056",
    "jp": "{v:0006}だってアタシ達のところには{n}こんないい温泉はないんだもん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Well, we don't have hot springs this nice back home!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0057",
    "jp": "{v:0007}そうよ、そうよ！{n}どうしてアンタに教えなきゃなんないのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Yeah, that's right! Why should we have to tell YOU?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0058",
    "jp": "{v:0008}質問しているのは私の方だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}I am the one asking the questions!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0059",
    "jp": "{v:0009}ただ遊びに来ただけよ！{n}何でそんなこと言わなくちゃなんないのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}We just came here to have fun! Why should we even{n}have to explain that?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0060",
    "jp": "‥‥{v:000A}お前達、{n}今がどういう時だか分かってるのか？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000A}Do you realize what is happening right now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0061",
    "jp": "{v:000B}今？{n}休暇の最中じゃない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Right now? We're on leave, aren't we?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0062",
    "jp": "{v:000C}私が聞いているのはそういう事ではない！{p}{v:000D}いいか？{n}お前の国と私の国とは、現在交戦状態にある。{n}それなのに何故、敵地へ来る？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}That is not what I am asking!{p}{v:000D}Listen. Your country and mine are at war. Why would{n}you come into enemy territory?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0063",
    "jp": "{v:000E}あら、敵地っていっても、{n}ここから水晶鉱山までは魔法学院の管轄でしょ？{p}{v:000F}だったら敵も味方も関係ないじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Oh, enemy territory? Everything from here to the{n}crystal mine is under the Magic Academy's{n}jurisdiction, right?{p}{v:000F}Then it doesn't matter if we're friends or enemies!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0064",
    "jp": "‥‥‥{v:0010}ふぅっ！{p}{v:0011}まったく、何を考えているんだか。{n}お前達の気がしれんよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0010}*sigh*{p}{v:0011}Honestly, what are you thinking? I cannot{n}understand you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0065",
    "jp": "{v:0012}だから、{n}ただ休暇を過ごしているだけじゃない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Like I said, we're just enjoying our leave...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0066",
    "jp": "{v:0013}とにかく！{n}少しでも怪しい動きをしたら、すぐに捕らえるからな！{n}そのつもりでいろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}In any case! If you make the slightest suspicious{n}move, I will arrest you at once! Keep that in mind!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0067",
    "jp": "‥‥{v:0014}何なのよ、もぉ！{n}せっかくの休暇がつまんなくなっちゃうじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0014}Ugh, what's with you?! You're ruining our precious{n}time off!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0068",
    "jp": "‥‥{v:001F}ふぅっ。{n}またお前達か。{p}{v:0020}なれ合わないで貰いたいと{n}何度も言ったはずだが‥‥。{FFF9}{FFFB}{n}{v:0021}ふぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001F}Whew... You again.{p}{v:0020}I believe I have told you repeatedly not to be so{n}familiar with me...{FFF9}{FFFB}{v:0021}Whew...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0069",
    "jp": "‥‥？{n}{FE1E}{v:0022}何だかヘンじゃない？{n}どっか悪いの？",
-   "en": "",
-   "term": "end"
+   "en": "...? {FE1E}{v:0022}Something's not right. Are you feeling sick?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0070",
    "jp": "{v:0023}何だと？{n}私のどこが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}What? There is nothing wrong with...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0071",
    "jp": "{v:0024}ちょっと！{n}しっかりしなさいよ！{p}{v:0025}アタシ、お医者さん呼んでくる。{n}アンタはジュリアンを宿屋に運んでおいて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Hey! Stay with us!{p}{v:0025}I'll go get a doctor! You carry Julian to the inn!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0072",
    "jp": "{v:0026}大丈夫かなぁ？{n}いきなり意識を失うくらいでしょ？{n}すごく悪いんじゃないかなぁ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Is Julian going to be all right? Passing out so{n}suddenly... It must be something really bad, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0073",
    "jp": "{v:0027}あ、ジュリアンは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Oh! How's Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0074",
    "jp": "{v:0028}大丈夫ですよ。{n}あのお嬢さん、ここのところ寝不足だったようだ。{p}{v:0029}少し休めばよくなるでしょう。{n}お大事に。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}She will be fine. It seems the young lady has not been{n}getting enough sleep lately.{p}{v:0029}A little rest should put her right. Take care.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0075",
    "jp": "{FFF3}‥‥{FE1E}{v:002A}{FFF4}お嬢さん？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FE1E}{v:002A}{FFF4}Young lady?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0076",
    "jp": "{FFF3}‥‥‥‥。{n}{FE1E}{v:002B}{FFF4}確かにお嬢さんだわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}......{FE1E}{v:002B}{FFF4}She really is a young lady...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0077",
    "jp": "{v:002C}どうしよう‥‥。{n}この事、黙ってたほうがいいのかな‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}What do we do...? Maybe we should keep this{n}to ourselves...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0078",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0079",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0080",
    "jp": "・話したい",
-   "en": "",
+   "en": "・Say you want to tell people",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0081",
    "jp": "{v:002D}そうだよね。{n}ジュリアンって、血のにじむような努力をして、{n}インペリアル・ナイトになったんだもんね。{p}{v:002E}そこまでやったジュリアンの努力を{n}無にする事もないよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Yeah, you're right. Julian worked herself to the bone to{n}become an Imperial Knight.{p}{v:002E}After all that, we can't let her hard work go to waste.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0082",
    "jp": "{v:002F}うーん‥‥。{p}{v:0030}でもジュリアンって、血のにじむような努力をして、{n}インペリアル・ナイトになったんだよね？{p}{v:0031}ジュリアンの努力を無駄にするのは{n}気が引けるし‥‥。{FFF9}{FFFB}{n}{v:0032}やっぱり黙ってようよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Hmm...{p}{v:0030}But Julian worked herself to the bone to become an{n}Imperial Knight, right?{p}{v:0031}I'd feel awful letting all her hard work go to{n}waste...{FFF9}{FFFB}{v:0032}Let's just keep quiet, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0083",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0084",
    "jp": "・やっぱり話したい",
-   "en": "",
+   "en": "・Say you still want to tell people",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0085",
    "jp": "・黙ることにする",
-   "en": "",
+   "en": "・Decide to keep quiet",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen315.0086",
    "jp": "{v:0033}ティピちゃん、{FC05}{FA01}きーーーーっく！{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Tippi-chan {FC05}{FA01}kiiiiick!{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0087",
    "jp": "{v:0034}いいわね、黙ってるのよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}You're keeping quiet, got it?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0088",
    "jp": "‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "......",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen315.0089",
    "jp": "{v:0035}それじゃ、アタシ達は退散しましょ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Well, let's get out of here.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

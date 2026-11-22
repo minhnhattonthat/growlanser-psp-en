@@ -9,668 +9,779 @@
   {
    "id": "boot.classes.0000",
    "jp": "主人公",
-   "en": "",
-   "term": "null"
+   "en": "Hero",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0001",
    "jp": "グローシアン",
-   "en": "",
-   "term": "null"
+   "en": "Growsian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0002",
    "jp": "剣士",
-   "en": "",
-   "term": "null"
+   "en": "Swordsman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0003",
    "jp": "研究家",
-   "en": "",
-   "term": "null"
+   "en": "Researcher",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0004",
    "jp": "魔法剣士",
-   "en": "",
-   "term": "null"
+   "en": "Spellblade",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0005",
    "jp": "戦士",
-   "en": "",
-   "term": "null"
+   "en": "Warrior",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0006",
    "jp": "魔法学院生徒",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0007",
    "jp": "ヒーラー",
-   "en": "",
-   "term": "null"
+   "en": "Healer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0008",
    "jp": "インペリアル・ナイト",
-   "en": "",
-   "term": "null"
+   "en": "Imperial Knight",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0009",
    "jp": "謎の男",
-   "en": "",
-   "term": "null"
+   "en": "Mysterious Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0010",
    "jp": "元傭兵団長",
-   "en": "",
-   "term": "null"
+   "en": "Ex-Mercenary Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0011",
    "jp": "Ｉ・ナイツ・マスター",
-   "en": "",
-   "term": "null"
+   "en": "Imperial Knight Master",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0012",
    "jp": "Ｓ・ナイツ・マスター",
-   "en": "",
-   "term": "null"
+   "en": "Shadow Knight Master",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0013",
    "jp": "宮廷魔術師",
-   "en": "",
-   "term": "null"
+   "en": "Court Magician",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0014",
    "jp": "ゲヴェル融合体",
-   "en": "",
-   "term": "null"
+   "en": "Gevel Fusion",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0015",
    "jp": "将軍",
-   "en": "",
-   "term": "null"
+   "en": "General",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0016",
    "jp": "国王",
-   "en": "",
-   "term": "null"
+   "en": "King",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0017",
    "jp": "プリンセス",
-   "en": "",
-   "term": "null"
+   "en": "Princess",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0018",
    "jp": "占い師",
-   "en": "",
-   "term": "null"
+   "en": "Fortune Teller",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0019",
    "jp": "シャドー・ナイト",
-   "en": "",
-   "term": "null"
+   "en": "Shadow Knight",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0020",
    "jp": "奥さん",
-   "en": "",
-   "term": "null"
+   "en": "Wife",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0021",
    "jp": "王母",
-   "en": "",
-   "term": "null"
+   "en": "Queen Mother",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0022",
    "jp": "伯爵",
-   "en": "",
-   "term": "null"
+   "en": "Count",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0023",
    "jp": "隠居貴族",
-   "en": "",
-   "term": "null"
+   "en": "Retired Noble",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0024",
    "jp": "村長",
-   "en": "",
-   "term": "null"
+   "en": "Village Chief",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0025",
    "jp": "学院長",
-   "en": "",
-   "term": "null"
+   "en": "Headmaster",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0026",
    "jp": "副学院長",
-   "en": "",
-   "term": "null"
+   "en": "Vice Headmaster",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0027",
    "jp": "秘書",
-   "en": "",
-   "term": "null"
+   "en": "Secretary",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0028",
    "jp": "ユングα",
-   "en": "",
-   "term": "null"
+   "en": "Jung Alpha",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0029",
    "jp": "ユングβ",
-   "en": "",
-   "term": "null"
+   "en": "Jung Beta",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0030",
    "jp": "仮面兵士",
-   "en": "",
-   "term": "null"
+   "en": "Masked Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0031",
    "jp": "仮面兵士Ｍ",
-   "en": "",
-   "term": "null"
+   "en": "Masked Soldier M",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0032",
    "jp": "ゲヴェル",
-   "en": "",
-   "term": "null"
+   "en": "Gevel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0033",
    "jp": "ゲーヴ",
-   "en": "",
-   "term": "null"
+   "en": "Gev",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0034",
    "jp": "商人",
-   "en": "",
-   "term": "null"
+   "en": "Merchant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0035",
    "jp": "盗賊",
-   "en": "",
-   "term": "null"
+   "en": "Bandit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0036",
    "jp": "盗賊頭",
-   "en": "",
-   "term": "null"
+   "en": "Bandit Chief",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0037",
    "jp": "魔術師",
-   "en": "",
-   "term": "null"
+   "en": "Mage",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0038",
    "jp": "フェザリアン女王",
-   "en": "",
-   "term": "null"
+   "en": "Featherian Queen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0039",
    "jp": "フェザリアン",
-   "en": "",
-   "term": "null"
+   "en": "Featherian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0040",
    "jp": "送魔線技師",
-   "en": "",
-   "term": "null"
+   "en": "Mana Line Engineer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0041",
    "jp": "槍兵",
-   "en": "",
-   "term": "null"
+   "en": "Spearman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0042",
    "jp": "鎚兵",
-   "en": "",
-   "term": "null"
+   "en": "Hammer Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0043",
    "jp": "女剣士",
-   "en": "",
-   "term": "null"
+   "en": "Swordswoman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0044",
    "jp": "斧兵",
-   "en": "",
-   "term": "null"
+   "en": "Axeman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0045",
    "jp": "弓兵",
-   "en": "",
-   "term": "null"
+   "en": "Archer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0046",
    "jp": "軽戦士",
-   "en": "",
-   "term": "null"
+   "en": "Light Warrior",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0047",
    "jp": "重戦士",
-   "en": "",
-   "term": "null"
+   "en": "Heavy Warrior",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0048",
    "jp": "上級兵",
-   "en": "",
-   "term": "null"
+   "en": "Elite Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0049",
    "jp": "僧兵",
-   "en": "",
-   "term": "null"
+   "en": "Warrior Monk",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0050",
    "jp": "僧侶",
-   "en": "",
-   "term": "null"
+   "en": "Monk",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0051",
    "jp": "男生徒",
-   "en": "",
-   "term": "null"
+   "en": "Male Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0052",
    "jp": "女生徒",
-   "en": "",
-   "term": "null"
+   "en": "Female Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0053",
    "jp": "教授",
-   "en": "",
-   "term": "null"
+   "en": "Professor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0054",
    "jp": "輸送用動物",
-   "en": "",
-   "term": "null"
+   "en": "Pack Animal",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0055",
    "jp": "男",
-   "en": "",
-   "term": "null"
+   "en": "Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0056",
    "jp": "旅人",
-   "en": "",
-   "term": "null"
+   "en": "Traveler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0057",
    "jp": "司祭",
-   "en": "",
-   "term": "null"
+   "en": "Priest",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0058",
    "jp": "拳法家",
-   "en": "",
-   "term": "null"
+   "en": "Martial Artist",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0059",
    "jp": "女",
-   "en": "",
-   "term": "null"
+   "en": "Woman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0060",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0061",
    "jp": "少女",
-   "en": "",
-   "term": "null"
+   "en": "Girl",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0062",
    "jp": "少年",
-   "en": "",
-   "term": "null"
+   "en": "Boy",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0063",
    "jp": "町長",
-   "en": "",
-   "term": "null"
+   "en": "Mayor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0064",
    "jp": "看護婦",
-   "en": "",
-   "term": "null"
+   "en": "Nurse",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0065",
    "jp": "ゲル",
-   "en": "",
-   "term": "null"
+   "en": "Gel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0066",
    "jp": "ミュータントゲル",
-   "en": "",
-   "term": "null"
+   "en": "Mutant Gel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0067",
    "jp": "ゴールドゲル",
-   "en": "",
-   "term": "null"
+   "en": "Gold Gel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0068",
    "jp": "グレムリン",
-   "en": "",
-   "term": "null"
+   "en": "Gremlin",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0069",
    "jp": "ガーゴイル",
-   "en": "",
-   "term": "null"
+   "en": "Gargoyle",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0070",
    "jp": "スケルトン",
-   "en": "",
-   "term": "null"
+   "en": "Skeleton",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0071",
    "jp": "スケルトンナイト",
-   "en": "",
-   "term": "null"
+   "en": "Skeleton Knight",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0072",
    "jp": "オーガー",
-   "en": "",
-   "term": "null"
+   "en": "Ogre",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0073",
    "jp": "ジャイアント",
-   "en": "",
-   "term": "null"
+   "en": "Giant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0074",
    "jp": "ヘルハウンド",
-   "en": "",
-   "term": "null"
+   "en": "Hellhound",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0075",
    "jp": "オルトロス",
-   "en": "",
-   "term": "null"
+   "en": "Orthros",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0076",
    "jp": "スペクター",
-   "en": "",
-   "term": "null"
+   "en": "Specter",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0077",
    "jp": "レイス",
-   "en": "",
-   "term": "null"
+   "en": "Wraith",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0078",
    "jp": "レッサーデーモン",
-   "en": "",
-   "term": "null"
+   "en": "Lesser Demon",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0079",
    "jp": "アークデーモン",
-   "en": "",
-   "term": "null"
+   "en": "Archdemon",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0080",
    "jp": "翼竜",
-   "en": "",
-   "term": "null"
+   "en": "Winged Dragon",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0081",
    "jp": "ワイバーン",
-   "en": "",
-   "term": "null"
+   "en": "Wyvern",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0082",
    "jp": "アイアンゴーレム",
-   "en": "",
-   "term": "null"
+   "en": "Iron Golem",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0083",
    "jp": "ミスリルゴーレム",
-   "en": "",
-   "term": "null"
+   "en": "Mithril Golem",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0084",
    "jp": "マンティコア",
-   "en": "",
-   "term": "null"
+   "en": "Manticore",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0085",
    "jp": "ハイド",
-   "en": "",
-   "term": "null"
+   "en": "Hyde",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0086",
    "jp": "プラント",
-   "en": "",
-   "term": "null"
+   "en": "Plant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0087",
    "jp": "トレント",
-   "en": "",
-   "term": "null"
+   "en": "Treant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0088",
    "jp": "リザードマン",
-   "en": "",
-   "term": "null"
+   "en": "Lizardman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0089",
    "jp": "リザードマンロード",
-   "en": "",
-   "term": "null"
+   "en": "Lizardman Lord",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0090",
    "jp": "ウィル・オー・ウィスプ",
-   "en": "",
-   "term": "null"
+   "en": "Will-o'-the-Wisp",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0091",
    "jp": "スピリット",
-   "en": "",
-   "term": "null"
+   "en": "Spirit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0092",
    "jp": "ソウル",
-   "en": "",
-   "term": "null"
+   "en": "Soul",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0093",
    "jp": "大鷲",
-   "en": "",
-   "term": "null"
+   "en": "Giant Eagle",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0094",
    "jp": "水棲モンスター",
-   "en": "",
-   "term": "null"
+   "en": "Aquatic Monster",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0095",
    "jp": "ブラッディ・アイ",
-   "en": "",
-   "term": "null"
+   "en": "Bloody Eye",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0096",
    "jp": "ゲルルル",
-   "en": "",
-   "term": "null"
+   "en": "Gelruru",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0097",
    "jp": "クイーンゲル",
-   "en": "",
-   "term": "null"
+   "en": "Queen Gel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0098",
    "jp": "馬車",
-   "en": "",
-   "term": "null"
+   "en": "Carriage",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0099",
    "jp": "大鉄球",
-   "en": "",
-   "term": "null"
+   "en": "Giant Iron Ball",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0100",
    "jp": "鉄球",
-   "en": "",
-   "term": "null"
+   "en": "Iron Ball",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0101",
    "jp": "光点",
-   "en": "",
-   "term": "null"
+   "en": "Point of Light",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0102",
    "jp": "インプ",
-   "en": "",
-   "term": "null"
+   "en": "Imp",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0103",
    "jp": "デカゲル",
-   "en": "",
-   "term": "null"
+   "en": "Big Gel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0104",
    "jp": "ヘビーパンツァー",
-   "en": "",
-   "term": "null"
+   "en": "Heavy Panzer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0105",
    "jp": "エネルギー供給機",
-   "en": "",
-   "term": "null"
+   "en": "Energy Supply Unit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0106",
    "jp": "？？？",
-   "en": "",
-   "term": "null"
+   "en": "???",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0107",
    "jp": "壁",
-   "en": "",
-   "term": "null"
+   "en": "Wall",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0108",
    "jp": "ニワトリ",
-   "en": "",
-   "term": "null"
+   "en": "Chicken",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0109",
    "jp": "犬",
-   "en": "",
-   "term": "null"
+   "en": "Dog",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0110",
    "jp": "武官",
-   "en": "",
-   "term": "null"
+   "en": "Military Officer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0111",
@@ -705,8 +816,9 @@
   {
    "id": "boot.classes.0116",
    "jp": "ガーディアン",
-   "en": "",
-   "term": "null"
+   "en": "Guardian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0117",
@@ -723,8 +835,9 @@
   {
    "id": "boot.classes.0119",
    "jp": "青年",
-   "en": "",
-   "term": "null"
+   "en": "Young Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0120",
@@ -741,8 +854,9 @@
   {
    "id": "boot.classes.0122",
    "jp": "妖精",
-   "en": "",
-   "term": "null"
+   "en": "Fairy",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.classes.0123",

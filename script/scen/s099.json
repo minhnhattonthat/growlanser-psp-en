@@ -15,272 +15,317 @@
   {
    "id": "scen099.0001",
    "jp": "看板",
-   "en": "",
-   "term": "null"
+   "en": "Sign",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen099.0002",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen099.0003",
    "jp": "立て札",
-   "en": "",
-   "term": "null"
+   "en": "Sign",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen099.0004",
    "jp": "ゼノス",
-   "en": "",
-   "term": "null"
+   "en": "Xenos",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen099.0005",
    "jp": "ルイセ",
-   "en": "",
-   "term": "null"
+   "en": "Luise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen099.0006",
    "jp": "　{n}　　　　　　　　　{FFEE}北：オリビエ湖{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　　　{FFEE}North: Lake Olivier{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0007",
    "jp": "おい！{n}エリオットの行為を無駄にする気か？",
-   "en": "",
-   "term": "end"
+   "en": "Hey! You trying to make everything Elliot did go{n}to waste?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0008",
    "jp": "{v:0000}関所だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}A checkpoint...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0009",
    "jp": "{v:0001}エリオット、頼むぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Elliot, we're counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0010",
    "jp": "{v:0002}は、はい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Y-yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0011",
    "jp": "{v:0003}止まれ！{n}ローランディアの者がここを通ることは許さぬ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Halt! No one from Rolandia is permitted through here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0012",
    "jp": "{v:0004}私を国へ入れぬと言うのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}You would deny me entry to my own country?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0013",
    "jp": "{v:0005}こ、これは国王‥‥！{n}それに、アンジェラ様！？{p}{v:0006}気づかぬとはいえ、とんだご無礼を‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Y-Your Majesty...! And Angela-sama?!{p}{v:0006}I did not recognize you. Please forgive my insolence...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0014",
    "jp": "{v:0007}私も忍びの外出ゆえ、{n}通達を出していなかったのだから、仕方ないがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}I was traveling incognito and sent no notice, so it{n}is understandable.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0015",
    "jp": "{v:0008}ねぇねぇ、なんだかんだ言って、{n}けっこう成りきってるじゃない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Hey, hey! For all his worrying, he's really getting into the{n}part, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0016",
    "jp": "{v:0009}しっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Shh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0017",
    "jp": "{v:000A}して、ここへはどのような‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Then, what brings you here...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0018",
    "jp": "{v:000B}うむ。{n}母上をダグラス卿のところへ連れて行こうと思ってな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Indeed. I intend to take Mother to see Lord Douglas.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0019",
    "jp": "{v:000C}はぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Ah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0020",
    "jp": "{v:000D}では通してもらうぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Then we shall be on our way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0021",
    "jp": "止まれ！{n}ここより先は、バーンシュタイン王国の領土だ！{n}許可なき者を通すわけにはいかん！{p}許可証を提示せよ！",
-   "en": "",
-   "term": "end"
+   "en": "Halt! Beyond this point lies the Kingdom of Burnstein!{n}No one may pass without authorization!{p}Show me your permit!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0022",
    "jp": "本物のようだな。{n}通ってよし！",
-   "en": "",
-   "term": "end"
+   "en": "It appears to be genuine. You may pass!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0023",
    "jp": "用がないのなら、戻れ！",
-   "en": "",
-   "term": "end"
+   "en": "If you have no business here, turn back!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0024",
    "jp": "さすがにここから先はバーンシュタイン王国内だから、{n}警備が厳重だね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It's Burnstein territory beyond here, so of course{n}security's tight...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0025",
    "jp": "わざわざ奴らに戦いを仕掛ける必要はねぇだろ？",
-   "en": "",
-   "term": "end"
+   "en": "No need to go picking a fight with them, is there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0026",
    "jp": "{v:000E}うまくいったね★",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}That worked like a charm!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0027",
    "jp": "どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please, go right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0028",
    "jp": "何者だ、貴様ら！？",
-   "en": "",
-   "term": "end"
+   "en": "Who the hell are you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0029",
    "jp": "通ってよし！",
-   "en": "",
-   "term": "end"
+   "en": "You may pass!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0030",
    "jp": "知らぬ事とはいえ、失礼しました。",
-   "en": "",
-   "term": "end"
+   "en": "I did not realize. Please forgive my rudeness.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0031",
    "jp": "ここはバーンシュタインとローランディアの国境です。",
-   "en": "",
-   "term": "end"
+   "en": "This is the border between Burnstein and Rolandia.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0032",
    "jp": "ここから先はバーンシュタイン領だ！{n}わけのわからぬ奴らを入れるわけにはいかぬ！",
-   "en": "",
-   "term": "end"
+   "en": "Beyond this point lies Burnstein territory! We can't let{n}just anyone wander in!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0033",
    "jp": "お気をつけて！",
-   "en": "",
-   "term": "end"
+   "en": "Take care!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0034",
    "jp": "何のご用でしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "What business do you have here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0035",
    "jp": "貴様ら‥‥、{n}まさかローランディアの者じゃないだろうな！？",
-   "en": "",
-   "term": "end"
+   "en": "You lot... You're not from Rolandia, are you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0036",
    "jp": "ダグラス卿のお知り合いの方か？",
-   "en": "",
-   "term": "end"
+   "en": "Are you acquaintances of Lord Douglas?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0037",
    "jp": "ん？{n}お前たちどこかで‥‥。{n}気のせいか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm? Haven't I seen you somewhere...? Must be{n}my imagination...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0038",
    "jp": "{v:0012}何だ、この音は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}What's that sound?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0039",
    "jp": "{v:0013}何かが転がってくるような‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}It sounds like something rolling this way...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0040",
    "jp": "{v:0014}転がる‥‥って、アレ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Rolling...? Look!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0041",
    "jp": "{v:0015}どうするんですか！{n}こんなところに隠れる場所はありませんよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}What are we going to do?! There's nowhere to{n}hide here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0042",
    "jp": "{FFF6}{v:0016}もうダメーーっ！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{v:0016}We're doooomed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0043",
    "jp": "‥‥{v:0017}何が起こったんだ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0017}What happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0044",
    "jp": "‥‥{v:0018}また不思議なことが起こったよ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0018}Something strange happened again, didn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0045",
    "jp": "‥{v:0019}こ‥怖かった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0019}Th-that was terrifying...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0046",
@@ -291,80 +336,93 @@
   {
    "id": "scen099.0047",
    "jp": "{v:001A}運の強い奴らだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}You lot sure are lucky.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0048",
    "jp": "{v:001B}この声は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}That voice...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0049",
    "jp": "{v:001C}兄さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0050",
    "jp": "{v:001D}カ、カレン‥‥。{n}お前、まだそいつらと一緒にいたのか！？{p}{v:001E}これ以上そいつらと一緒にいるなと、{n}手紙を送っただろう！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}K-Karen... You're still with them?!{p}{v:001E}Didn't I send you a letter telling you to stay away{n}from them?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0051",
    "jp": "{v:001F}もうやめてよ、兄さん！{n}どうしてこんなことするの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Stop this, Brother! Why are you doing this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0052",
    "jp": "{v:0020}ゼノスさん、もうやめて！{n}どうして、こんなことするの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Xenos-san, please stop! Why are you doing this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0053",
    "jp": "{v:0021}決まってるだろう！{n}俺はお前たちが許せねぇんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Isn't it obvious?! I'll never forgive you bastards!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0054",
    "jp": "{v:0022}だから、どうして？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}But why?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0055",
    "jp": "{v:0023}言っただろ？{p}{v:0024}あの時、お前が毒を盛らなければ、俺は優勝できた！{n}ローランディアの士官になれば、{n}カレンの治療費に困ることもなかった！{p}{v:0025}あれから俺の人生は狂っちまった！{n}お前が狂わせたんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}I told you, didn't I?{p}{v:0024}If you hadn't poisoned me back then, I could've won{n}the tournament!{p}If I'd become an officer in Rolandia's army, I wouldn't{n}have had to worry about paying for{n}Karen's treatment!{p}{v:0025}My whole life went wrong after that! You ruined it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0056",
    "jp": "{v:0026}聞いて、ゼノスさん！{n}あなたが言うような毒なんて、わたし達使ってない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Listen, Xenos-san! We never used any poison like that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0057",
    "jp": "{v:0027}嘘をつけ！{n}俺はガムラン様から聞かされたんだ！{p}{v:0028}そしてこんな俺を哀れみ、{n}カレンに手術を受けさせてくれた！{n}俺をシャドー・ナイツの一員として迎えてくれた！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Liar! Gamlan-sama told me himself!{p}{v:0028}He took pity on me and made sure Karen could have{n}her surgery! He welcomed me into the Shadow Knights!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0058",
    "jp": "{v:0029}おい、待てよ。{n}今、誰と言った？{n}ガムランと言わなかったか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Hey, hold on. Who did you just say? Did you{n}say Gamlan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0059",
    "jp": "‥‥{v:002A}ああ。{n}だがそれがどうした！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002A}Yeah. What of it?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0060",
@@ -375,257 +433,299 @@
   {
    "id": "scen099.0061",
    "jp": "{v:0030}嘘だ‥‥そんな‥‥嘘だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}That's a lie... No... It can't be true...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0062",
    "jp": "{v:0031}いいや。{n}奴がシャドー・ナイトになれたのはその残忍さと、{n}毒物、呪術の知識のおかげだ。{p}{v:0032}確かカレンだって毒にやられたんだったな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}No. He only became a Shadow Knight because of his{n}cruelty and his knowledge of poisons and curses.{p}{v:0032}Karen was poisoned too, wasn't she?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0063",
    "jp": "{v:0033}そんな‥‥そんな‥‥。{n}ならば、俺のやってきたことは‥‥いったい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}No... No... Then what... what have I been doing all{n}this time...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0064",
    "jp": "{v:0034}今度は何ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}What is it this time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0065",
    "jp": "‥‥{v:0035}この地方に‥竜巻が‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0035}A tornado... in this region...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0066",
    "jp": "{v:0036}不思議な事が起こった後は、{n}いっつも自然災害が起こってるね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Every time something strange happens, a natural{n}disaster always follows...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0067",
    "jp": "{v:0037}自然災害‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}A natural disaster...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0068",
    "jp": "{v:0038}お前、その指輪は！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}You! That ring...?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0069",
    "jp": "{v:0039}えっ、指輪？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Huh? The ring?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0070",
    "jp": "‥‥{v:003A}それは‥‥間違いない。{n}パワーストーン‥‥。{p}{FC03}{v:003B}そうかこいつの力でさっきの落石も‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003A}That's... No doubt about it. A Power Stone...{p}{FC03}{v:003B}I see. Its power must have stopped those falling{n}rocks, too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0071",
    "jp": "{v:003C}兄さん、何を言ってるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Brother, what are you talking about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0072",
    "jp": "{v:003D}何言ってるんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}What are you talking about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0073",
    "jp": "{v:003E}その指輪に付いている宝石はたぶんパワーストーンだ。{n}俺の親父が持っていた物と似ている。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}The gem in that ring is probably a Power Stone. It looks{n}like the one my old man had.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0074",
    "jp": "{v:003F}パワーストーンって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}A Power Stone...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0075",
    "jp": "{v:0040}持ち主の意志を反映して、{n}自然界の法則を曲げてしまう秘石だ。{p}{v:0041}ただしそれを発動させると、その反動が起こる。{n}そう親父が言っていたのを覚えてる。{p}{v:0042}もし落石を防いだときにその秘石の力を使ったのなら、{n}たぶんこの竜巻がその反動だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}It's a Power Stone. It bends the laws of nature to{n}reflect its owner's will.{p}{v:0041}But using it causes a backlash. I remember my old man{n}saying that.{p}{v:0042}If you used the stone's power to stop the falling{n}rocks, this tornado is probably the backlash.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0076",
    "jp": "{v:0043}そんなすごい宝石だったなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}I had no idea that gem was so powerful...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0077",
    "jp": "{v:0044}反動はいつどこに起こるかわからん。{n}自分に降りかかるかも知れねぇ。{n}今までは運が良かっただけだ。{p}{v:0045}もうその秘石は使わないことだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}There's no telling when or where the backlash will hit.{n}You could get caught in it yourself. You've just been{n}lucky so far.{p}{v:0045}You'd better not use that Power Stone again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0078",
    "jp": "{v:0046}待って、兄さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Wait, Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0079",
    "jp": "{v:0047}ゼノスさん、どこ行くの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Xenos-san, where are you going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0080",
    "jp": "{v:0048}ガムランに会って、本当のことを確かめてくる‥‥。{p}{v:0049}それまでお前たちに危害は加えない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}I'm going to see Gamlan and find out the truth...{p}{v:0049}Until then, I won't harm any of you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0081",
    "jp": "‥‥{v:004A}兄さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004A}Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0082",
    "jp": "オリビエ湖",
-   "en": "",
-   "term": "end"
+   "en": "Lake Olivier",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0083",
    "jp": "{v:0002}湖だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}A lake...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0084",
    "jp": "{v:0003}グローシュがいっぱい飛んでるね。{n}この辺りには送魔線がないんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}There's so much Grosh floating around. There aren't{n}any mana lines here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0085",
    "jp": "{v:0004}ねぇ、アンタの夢で見た湖って、ここなの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Hey, is this the lake you saw in your dream?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0086",
    "jp": "ここが夢で見た湖ですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is this the lake you saw in your dream?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0087",
    "jp": "・ここに間違いない",
-   "en": "",
+   "en": "・This is definitely the place",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen099.0088",
    "jp": "・覚えていない",
-   "en": "",
+   "en": "・I don't remember",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen099.0089",
    "jp": "・ここではない",
-   "en": "",
+   "en": "・This isn't the place",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen099.0090",
    "jp": "{v:0005}それじゃ、ここに手がかりがあるんだね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Then there must be a clue here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0091",
    "jp": "{v:0006}さっそく夢で見たっていう、{n}怪しいところへ案内してよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Come on! Show us that suspicious spot you saw in{n}your dream!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0092",
    "jp": "{v:0007}アンタねぇ‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Oh, you...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0093",
    "jp": "{v:0008}しょうがないよ。{n}お兄ちゃんだって夢で見ただけなんだから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}It can't be helped. Big Brother only saw it in a dream,{n}after all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0094",
    "jp": "{v:0009}えぇ～～～っ！？{n}せっかくここまで来たのに、違うのぉ～？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Whaaat?! We came all this way, and it's the{n}wrong place?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0095",
    "jp": "{v:000A}とにかく、ここまで来たんだ。{n}少し調べてみねぇか？{n}何か見つかるかも知れねぇぜ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Well, we're here now. Why don't we have a look around?{n}Might find something.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0096",
    "jp": "{v:000C}ここがお兄ちゃんの言ってた入り口？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Is this the entrance you mentioned, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0097",
    "jp": "{v:000D}何よ！{n}ここで良かったんじゃないの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Oh, come on! This WAS the right place!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0098",
    "jp": "{v:000E}でも見つかって、良かったじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Still, isn't it good that we found it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0099",
    "jp": "{v:000F}ここだけ土の色が違うね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}The soil's a different color here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0100",
    "jp": "岩のすき間に小さな突起がある。{n}押してみますか？",
-   "en": "",
-   "term": "end"
+   "en": "There is a small protrusion in a gap between the{n}rocks. Press it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0101",
    "jp": "{v:000B}わっ！{n}何か出てきたよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Whoa! Something came out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen099.0102",
    "jp": "　{n}　　　　　『{FFEF}聖なる土{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Holy Soil{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

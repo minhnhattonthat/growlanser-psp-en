@@ -15,569 +15,663 @@
   {
    "id": "scen083.0001",
    "jp": "村人",
-   "en": "",
-   "term": "null"
+   "en": "Villager",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen083.0002",
    "jp": "立て札",
-   "en": "",
-   "term": "null"
+   "en": "Sign",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen083.0003",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen083.0004",
    "jp": "{v:003F}ユングとか言ったっけ？{n}なんでこんな洞窟の中に、いるのかなぁ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Jung, was it? What's one doing in a cave like this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0005",
    "jp": "{v:0041}その答えはこの奥にあるはずだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}The answer should be farther in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0006",
    "jp": "{v:0040}奥まで行けばわかるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}We'll find out if we keep going!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0007",
    "jp": "{v:0042}答えを急ぐのは待った方がいいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}It would be best not to be so hasty for answers.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0008",
    "jp": "{v:0043}そうだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}You're right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0009",
    "jp": "{v:0044}ねぇ、ねぇ。{n}この白いのって‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Hey, hey... What's this white stuff...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0010",
    "jp": "{v:0045}きゃぁっ！{n}{FFF5}なななななな、ナニコレェ‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Eeeek! {FFF5}W-w-w-w-what IS this...?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0011",
    "jp": "{FFF5}{v:0046}これって、人の‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0046}Are these... human...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0012",
    "jp": "{FFF5}{v:0047}そ、そんな‥‥ひどい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0047}N-no... How awful...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0013",
    "jp": "‥‥{v:0048}ああ。{n}人骨だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0048}Yeah. Human bones...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0014",
    "jp": "{v:004A}こんな所に人骨か‥‥。{p}{v:004B}行方不明の人たちといい、{n}{FB00}さっきの化け物といい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Human bones in a place like this...{p}{v:004B}The missing people... {FB00}Those monsters we just saw...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0015",
    "jp": "{v:004C}とにかくこの奥にその秘密があるってことでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}So whatever's behind this is farther in, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0016",
    "jp": "　{n}　　　『{FFEF}ティピの可能性５{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Obtained '{FFEF}Tippi's Potential 5{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0017",
    "jp": "こら！{n}あの人たち、放っておく気！？",
-   "en": "",
-   "term": "end"
+   "en": "Hey! You're just going to leave those people?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0018",
    "jp": "{v:004E}助けてくれ～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Heeelp!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0019",
    "jp": "{v:004F}ここから出してくれ～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Let us out of here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0020",
    "jp": "{v:004D}あ、これはっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Ah! This is...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0021",
    "jp": "{v:0050}何だ、貴様らは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Who the hell are you...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0022",
    "jp": "{v:0051}それはこっちの台詞だ。{n}お前たち、ここで何をしていやがる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}That's our line. What the hell are you doing here?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0023",
    "jp": "{v:0052}ふん！{n}死に行く奴らに説明することなどない。{p}{v:0053}お前たちもユング達の餌にしてやる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Hmph! No point explaining to dead men.{p}{v:0053}You'll be food for the Jung, too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0024",
    "jp": "あやうく奴らの餌になるところだった‥‥。{n}助けてくれて、ありがとう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We nearly ended up as food for those things... Thank{n}you for saving us...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0025",
    "jp": "{v:0069}ありがとうございます。{n}おかげで助かりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}Thank you. You saved our lives.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0026",
    "jp": "{v:006A}無事で何よりだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}Glad you're safe.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0027",
    "jp": "{v:006B}そう言えば友達が‥‥。{n}村長の息子さんは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}Oh, your friend... What about the Village Chief's son?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0028",
    "jp": "{v:0073}あいつはどうですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0073}How is he?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0029",
    "jp": "{v:0074}残念だけど、あの人は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0074}I'm sorry, but he...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0030",
    "jp": "{v:0075}アタシ達が来たときには、{n}もう間に合わない状況だったの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0075}By the time we got here, it was already too late.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0031",
    "jp": "{v:0076}そうですか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0032",
    "jp": "{v:0077}さ、ここから出よう。{n}村の連中にここのことを教えないとな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0077}Come on, let's get out of here. We've got to tell the{n}folks in the village about this place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0033",
    "jp": "{v:0078}はい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}Yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0034",
    "jp": "{v:007B}いかん！{n}彼らを守るんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007B}No! Protect them!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0035",
    "jp": "いかん！{n}村人を守るんだ！",
-   "en": "",
-   "term": "end"
+   "en": "No! Protect the villagers!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0036",
    "jp": "{v:007C}あなた達は急いでここから出るのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007C}All of you, get out of here! Hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0037",
    "jp": "あなたは急いでここから出るのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Get out of here! Hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0038",
    "jp": "{v:007D}は、はい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007D}Y-yes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0039",
    "jp": "{v:006C}大丈夫？しっかりして！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}Are you all right? Hang on!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0040",
    "jp": "{v:0072}私は‥もうダメ‥だ‥‥。{n}親父に‥村長をしている‥親父に‥これを‥‥。{n}‥‥頼‥‥む‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}I'm... not going to... make it... Give this... to my father... the{n}Village Chief... Please... I'm begging... you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0041",
    "jp": "あれ？{n}ここにナイフが落ちてる‥‥。{p}この人の物かな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Huh? There's a knife lying here...{p}Was it his...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0042",
    "jp": "　{n}　　　　『{FFEF}形見のナイフ{FFF1}』を受け取った！　　　",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Received '{FFEF}Keepsake Knife{FFF1}'!　　　",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0043",
    "jp": "{v:0085}ん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}Hm?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0044",
    "jp": "‥‥{v:0086}どうやら違うようだな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0086}Seems that's not who we're after.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0045",
    "jp": "{v:0087}何をしている、そいつらのことは将軍に任せて、{n}俺たちは先を急ぐぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0087}What are you doing? Leave them to the General. We've{n}got to hurry on.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0046",
    "jp": "{v:0088}ああ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0088}Right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0047",
    "jp": "{v:0089}ん～？{n}何だったんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0089}Hmmm? What was that about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0048",
    "jp": "{v:008A}何だか、いまの人たち慌ててましたね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008A}Those people certainly seemed to be in a hurry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0049",
    "jp": "{v:008B}誰かを探していたみたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008B}It looked like they were searching for someone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0050",
    "jp": "　　　{FFF0}危険！{n}　　　　　　崖や滝には近づかないように！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　　　{FFF0}Danger! Stay away from cliffs and waterfalls!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0051",
    "jp": "{v:0006}どうしたの、ウォレスさん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}What's wrong, Wallace-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0052",
    "jp": "‥‥{v:0007}村からの距離を考えると、たしかこの辺りだ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0007}Judging by the distance from the village, I'm pretty{n}sure it was around here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0053",
    "jp": "{v:0008}この辺りって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Around here...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0054",
    "jp": "この辺りとはどういう意味だと思いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What do you think he means by \"around here\"?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0055",
    "jp": "・夢で見たのと同じ風景",
-   "en": "",
+   "en": "・The place from the dream",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen083.0056",
    "jp": "・ウォレスが襲われた場所",
-   "en": "",
+   "en": "・Where Wallace was attacked",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen083.0057",
    "jp": "・わからない",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen083.0058",
    "jp": "{v:0009}え、そうなの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Huh, really?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0059",
    "jp": "{v:000A}２年前、俺はここであの連中に襲われ、{n}両目と片腕を奪われた。{n}それがこの辺りだ。{p}{v:000B}そしてお前の夢で見た場所もここだとすると、{n}その夢ってのはかなり信憑性があるって事だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Two years ago, those bastards attacked me here. Took{n}both my eyes and an arm. It happened around here.{p}{v:000B}And if this is the place you saw in your dream, that{n}dream's looking pretty damn credible.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0060",
    "jp": "ん？{n}どうしてそれを知っているんだ？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? How do you know about that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0061",
    "jp": "まさか、お兄ちゃん、夢で見てた？",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, don't tell me you saw it in a dream?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0062",
    "jp": "ちょっと！{n}詳しく話しなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Tell us the whole story!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0063",
    "jp": "ウォレスが斬られた夢の内容を語った",
-   "en": "",
-   "term": "end"
+   "en": "You described your dream of Wallace being cut down.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0064",
    "jp": "{v:000C}ああ、その通りだ。{p}{v:000D}まさかお前が見た夢ってのも、ここだったのか？{n}だとしたら、その夢の信憑性はかなり高いぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Yeah, that's right.{p}{v:000D}Don't tell me your dream took place here, too? If it{n}did, there's good reason to believe it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0065",
    "jp": "{v:000F}それじゃ、夢に出てきたっていう、{n}マスターを襲った連中も‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Then those guys who attacked Master in{n}your dream...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0066",
    "jp": "‥‥{v:0010}かもな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0010}Could be.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0067",
    "jp": "{v:000E}２年前、俺はここであの連中に襲われ、{n}両目と片腕を奪われた。{n}それがこの辺りだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Two years ago, those bastards attacked me here. Took{n}both my eyes and an arm. It happened around here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0068",
    "jp": "{v:0000}どうしたのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}What's wrong?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0069",
    "jp": "{v:0001}まさかお兄ちゃんが夢で見た場所って、ここなの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Big Brother, is this really the place you saw in{n}your dream?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0070",
    "jp": "{v:0002}村からの距離を考えると、たしかにこの辺りだ。{p}{v:0003}だとすると、お前の見た夢ってのは{n}かなり信憑性があるって事か。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Judging by the distance from the village, it was{n}definitely around here.{p}{v:0003}If so, there's good reason to believe that dream{n}of yours.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0071",
    "jp": "{v:0004}それじゃ、夢に出てきたっていう、{n}マスターを襲った連中も‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Then those guys who attacked Master in{n}your dream...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0072",
    "jp": "‥‥{v:0005}かもな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0005}Could be.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0073",
    "jp": "{v:0034}ウォレスさんの傭兵団を全滅させた怪物って{n}今のやつなの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Was that the monster that wiped out your mercenary{n}band, Wallace-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0074",
    "jp": "‥‥{v:0035}いいや、違う。{n}似てないことはないが、{n}隊長と戦った奴はもっとでかかった。{p}{v:0036}あの隊長が手こずるような相手だ。{n}今の奴とじゃ比べものにならん。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0035}No. It looked a bit like it, but the one the captain{n}fought was bigger. Much bigger.{p}{v:0036}Even the captain had trouble with it. That thing just{n}now doesn't even compare.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0075",
    "jp": "{v:0037}それじゃ、今のは怪物の子分だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Then that one was the monster's lackey.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0076",
    "jp": "{v:0038}ユングとか言ってたね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}They called it Jung, didn't they?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0077",
    "jp": "{v:0039}それにしても、あの男も、手応えがなかったな。{n}２年前に戦った奴らは、もう少し手強かったが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Still, that man didn't put up much of a fight, either. The{n}ones I fought two years ago were tougher...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0078",
    "jp": "{v:003A}ウォレスさんの腕が上がってるんじゃないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Maybe you've gotten better, Wallace-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0079",
    "jp": "{v:003B}正直に言えば、今の俺は２年前の半分の力も{n}出せねぇぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Truth is, I can't muster even half the strength I had{n}two years ago.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0080",
    "jp": "{v:003C}すごい人だったんですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}You must have been incredible.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0081",
    "jp": "{v:003D}そんなに強かったのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Were you really that strong?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0082",
    "jp": "{v:003E}ウォレスさんって、すごかったんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Wow, Wallace-san. You really were amazing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0083",
    "jp": "{v:0011}滝だぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Oooh, a waterfall...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0084",
    "jp": "{v:0012}ここまでは無事に来られましたね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}We've made it this far safely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0085",
    "jp": "{v:0013}とりあえずここまでは無事でしたね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Well, we've been safe so far.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0086",
    "jp": "{v:0014}ここまではすんなり来れたけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}It's been smooth going so far, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0087",
    "jp": "{v:0015}ああ。{n}だが何も起こらないってのがかえって不気味だぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Yeah. But nothing happening makes it all the{n}more unsettling.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0088",
    "jp": "{v:0016}あ、誰か出て来たよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Oh, someone's coming out...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0089",
    "jp": "{v:0017}ああ、あいつは！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Ah! That guy?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0090",
    "jp": "{v:0018}お母さんを襲ったやつ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}The one who attacked Mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0091",
    "jp": "{v:0019}やっぱり出やがったか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}So the bastard showed up after all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0092",
    "jp": "‥‥{v:001A}貴様らは‥‥。{p}{v:001B}わざわざ餌食になりに来たのか？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001A}You lot...{p}{v:001B}Have you come all this way to become prey?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0093",
    "jp": "何だ、お前たち？{n}ここは危険だぞ！{n}早く村へ戻るんだ！",
-   "en": "",
-   "term": "end"
+   "en": "Who are you people? It's dangerous here! Get back to{n}the village, now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen083.0094",
    "jp": "このあたりで人が行方不明になると聞いて、{n}調査に来たのだが、{n}まさかあんな事になっているとは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I heard people were disappearing around here and{n}came to investigate. I never imagined anything like that{n}was happening...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

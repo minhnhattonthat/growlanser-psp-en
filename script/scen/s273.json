@@ -15,20 +15,23 @@
   {
    "id": "scen273.0001",
    "jp": "さぁ、戦闘だよ！{n}普通は、敵を倒すか逃げるかすれば{n}戦闘を終わらせることができるけど‥‥。{p}もちろん、今回は逃げるなんてさせないわよ。{n}男の子は、そんなこと覚えちゃダメ。",
-   "en": "",
-   "term": "end"
+   "en": "All right, time to fight! Usually, you can end a battle by{n}defeating the enemy or running away...{p}But of course, I'm not letting you run away this time!{n}Boys shouldn't pick up habits like that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen273.0002",
    "jp": "それじゃ、戦い方の説明をするわよ！{n}アンタはまだ魔法使えないから、{n}基本的な攻撃方法からね。{p}まずメニューが表示されたら、{n}次の流れで命令をしていけば大丈夫だよ。{p}{FFEE}１{FFF1}－{FFEF}命令内容を選ぶ{FFF0}♥{FFF1}{n}　　って{FFEE}ＡＴＴＡＣＫ{FFF1}（攻撃）か{FFEE}ＭＯＶＥ{FFF1}（移動）{n}　　くらいしか、今はやれないんだけど‥‥。{p}{FFEE}２{FFF1}－{FFEF}目標を選ぶ{FFF0}♥{FFF1}{n}　　攻撃するときは攻撃目標を選択。{n}　　移動するときは移動したい場所を選んでね。{p}あとは勝手に動き出すはずだから、{n}さっそく始めてみて！",
-   "en": "",
-   "term": "end"
+   "en": "Okay, I'll explain how to fight! You can't use magic yet,{n}so we'll start with the basics of attacking.{p}Once the menu appears, just follow these steps to{n}give orders.{p}{FFEE}1{FFF1}--{FFEF}Choose a command{FFF0}♥{FFF1} Though right now, you can{n}pretty much only use {FFEE}ATTACK{FFF1} or {FFEE}MOVE{FFF1}...{p}{FFEE}2{FFF1}--{FFEF}Choose a target{FFF0}♥{FFF1} When attacking, choose your{n}attack target. When moving, choose the spot you want{n}to move to.{p}After that, you should start moving on your own, so go{n}ahead and give it a try!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen273.0003",
    "jp": "あ！{n}そういえば、命令の変え方を教えてなかったね[01BE]{p}{FC00}やり方は簡単。{n}戦闘中に△ボタンを押すだけ。{n}別に連打しなくてもいいから安心して★{p}そうすると仲間全員の一覧が出るから、{n}そこで命令を変更したい人を選べばいいよ。{p}ついでに言うと、{n}『知らない間に命令が終わってて、たたずんでた[01BE]』{n}って心配は、しなくていいよ♪{p}命令を果たしたり、命令が続行不可能になった時には、{n}自動で命令指示メニューが表示されるの★{n}安心した？",
-   "en": "",
-   "term": "end"
+   "en": "Oh! I forgot to tell you how to change orders![01BE]{p}{FC00}It's easy. Just press the Triangle button during battle.{n}Relax, you don't have to mash it!{p}That brings up a list of everyone in your party. Just{n}pick the person whose orders you want to change.{p}Oh, and don't worry about anyone finishing their{n}orders and standing around without you noticing[01BE]♪{p}When someone finishes an order or can't carry it out{n}anymore, the command menu pops up automatically!{n}Feel better now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen273.0004",
@@ -39,40 +42,46 @@
   {
    "id": "scen273.0005",
    "jp": "アイテムの使い方はわかるよね？",
-   "en": "",
-   "term": "end"
+   "en": "You know how to use items, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen273.0006",
    "jp": "・使い方を聞きたい",
-   "en": "",
+   "en": "・Ask how to use items",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen273.0007",
    "jp": "・知っているから聞かない",
-   "en": "",
+   "en": "・Don't ask; you already know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen273.0008",
    "jp": "△ボタンを押せば、仲間の一覧メニューが出るよね？{n}そこでアイテムを使わせる人を選べば、{n}命令指示メニューが表示されるでしょ？{p}あとは『{FFEE}ＩＴＥＭ{FFF1}』ってのを選ぶと{n}持っているアイテムが表示されるから{n}使いたいアイテムを選べばいいのよ。{p}ここで装備を変えたりもできるしね。{n}ただ、使っても効果がないアイテムもあるけど[01BE]{p}それとアイテムを選んでいる時、{n}右側に『{FFEE}ＣＴ{FFF1}（カウント）』という単位で{n}数字が出てると思うけど‥‥。{p}これはアイテムを使ったり、装備した時にかかる{n}時間の長さだよ。",
-   "en": "",
-   "term": "end"
+   "en": "Pressing the Triangle button brings up the party list,{n}right? Pick the person you want to use an item, and{n}the command menu appears.{p}Then pick '{FFEE}ITEM{FFF1}' to see the items you're carrying. Just{n}choose the one you want to use!{p}You can change equipment here, too.{p}Some items won't do anything even if you use them,{n}though...[01BE] When you're choosing an item, you'll also see{n}a number on the right measured in '{FFEE}CT{FFF1}' (counts).{p}That's how long it takes to use or equip that item.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen273.0009",
    "jp": "アンタねぇ‥‥。{FFFB}{n}{FC02}なんでこんなザコ相手に、それを使うのよ！{n}いざって時に使えって言われたでしょ！{p}もうアンタに持たせとくの不安だから、{n}アタシが持っとくわ！",
-   "en": "",
-   "term": "end"
+   "en": "You...!{FFFB} {FC02}Why would you use that on a little weakling{n}like this?! You were told to save it for an emergency!{p}I don't trust you with it anymore. I'LL hold on to it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen273.0010",
    "jp": "お、重い‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "S-so heavy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen273.0011",
@@ -101,26 +110,30 @@
   {
    "id": "scen273.0015",
    "jp": "！！",
-   "en": "",
-   "term": "end"
+   "en": "!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen273.0016",
    "jp": "{v:0065}きゃーーっ！{n}ちょっと、起きてよ！{n}目を開けてよーーっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}Aaaah! Hey, wake up! Open your eyes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen273.0017",
    "jp": "うん、うん♪{n}やるじゃないの。{p}これでアタシの戦闘指南はおしまいね。{n}後は戦いながら、自分で覚えなさい。",
-   "en": "",
-   "term": "end"
+   "en": "Yes, yes♪ Not bad at all!{p}That wraps up my combat lessons. You'll have to learn{n}the rest as you fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen273.0018",
    "jp": "あ、そうそう。{n}ただ敵を倒すことだけ考えてても{n}ダメな時があるからね。{p}{FC02}だって相手が人間だと、{n}人質なんか取られたりするかもしれないでしょ？{p}{FC00}まぁ、その時はその時。{n}アタシが付いてるから、なんとかなるでしょ。{n}‥‥たぶん。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, one more thing. Sometimes you can't just focus on{n}beating the enemy.{p}{FC02}If you're fighting people, they might take hostages or{n}something, right?{p}{FC00}Well, we'll deal with that when it happens. You've got{n}me along, so we'll manage! ...Probably.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

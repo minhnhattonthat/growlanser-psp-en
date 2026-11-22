@@ -15,248 +15,289 @@
   {
    "id": "scen246.0001",
    "jp": "部下",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen246.0002",
    "jp": "{v:0017}ところでエリオットって、{n}どのテントにいるか聞いてないんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}By the way, nobody told us which tent Elliot's in...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0003",
    "jp": "{v:0018}すまない。{n}ここで答えれば、奴らにも知られてしまう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Forgive me. If I tell you here, they will hear too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0004",
    "jp": "{v:0019}自分たちで探すしかないか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Guess we'll have to find him ourselves...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0005",
    "jp": "{FFEE}エリオットを守りながら敵を倒せ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Defeat the enemy while protecting Elliot!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0006",
    "jp": "{v:0022}ここはアタシ達が泊まるテントだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}This is the tent we're staying in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0007",
    "jp": "‥‥{v:0023}ここは俺たちのテントだしな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0023}This one's our tent.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0008",
    "jp": "‥‥{v:0024}ここは僕たちのテントだから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0024}Well, this is our tent...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0009",
    "jp": "{v:002B}ここって、お兄ちゃん達のテントだよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}This is your tent, right, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0010",
    "jp": "‥‥{v:002C}見覚えのある荷物‥‥‥‥{n}‥‥ってお兄さまのテントじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002C}That luggage looks familiar... Wait, this is Big{n}Brother's tent!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0011",
    "jp": "{v:0025}えっと、ここはわたし達のテントだし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Um, this is our tent...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0012",
    "jp": "‥‥{v:0026}見たことある荷物が‥‥。{p}{v:0027}あ、アタシたちのテントだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0026}I've seen that luggage before...{p}{v:0027}Oh, it's our tent...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0013",
    "jp": "{v:0028}ここはルイセちゃんのテントだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}This is Luise-chan's tent.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0014",
    "jp": "{v:0029}ここはルイセのテントだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}This is Luise's tent...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0015",
    "jp": "{v:002A}ここはルイセ君のテントだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}This is Luise-kun's tent.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0016",
    "jp": "{v:002D}あ、いた！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Oh, there you are!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0017",
    "jp": "{v:002F}ここにいたか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}There you are!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0018",
    "jp": "{v:002E}あ、いた！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Oh, there you are!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0019",
    "jp": "{v:0031}エリオット君、見～つけ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Found yooou, Elliot-kun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0020",
    "jp": "{v:0030}エリオット君、ここだったか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}So this is where you were, Elliot-kun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0021",
    "jp": "{v:0032}どうしたんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}What's the matter?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0022",
    "jp": "{v:0033}何、ボ～ッとしてんのよ！{n}アンタ、狙われてんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}What are you spacing out for?! They're after you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0023",
    "jp": "{v:0034}ええっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0024",
    "jp": "‥‥{v:0035}そいつがそうか。{n}なるほど、陛下に瓜二つだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0035}So that's him. I see... He's the spitting image of{n}His Majesty...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0025",
    "jp": "{v:0036}見つけたぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Found you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0026",
    "jp": "{v:0037}えっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Huh?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0027",
    "jp": "{v:0038}バカ！{n}そいつら敵よ！{n}戦いなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Idiot! They're the enemy! Fight them!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0028",
    "jp": "{v:0039}えっ？{n}あっ？{n}はいっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Huh? Wha...? Yes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0029",
    "jp": "{v:001A}ここじゃないみたいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Doesn't look like this is the place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0030",
    "jp": "‥‥{v:001B}違うな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001B}Wrong place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0031",
    "jp": "{v:001C}エリオット君？{p}‥‥{v:001D}いない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Elliot-kun?{p}...{v:001D}He's not here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0032",
    "jp": "{v:001E}エリオット君？{p}‥‥{v:001F}う～ん、いないや。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Elliot-kun?{p}...{v:001F}Hmm, he's not here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0033",
    "jp": "‥‥{v:0020}ここじゃないな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0020}Not here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0034",
    "jp": "‥‥{v:0021}いない。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0021}He's not here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0035",
    "jp": "くっ！？{n}さすがに勝てぬか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Gh?! So I cannot defeat you after all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0036",
    "jp": "‥‥。{n}逃がしたか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...They got away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0037",
    "jp": "‥‥{v:0043}そ、そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0043}N-no...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0038",
    "jp": "{v:0044}バカ、バカ！{n}エリオットがやられちゃったじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Idiot! Idiot! You let them get Elliot!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0039",
    "jp": "もうダメじゃ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "This old man's done for...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0040",
    "jp": "もはやこれまで‥‥",
-   "en": "",
-   "term": "end"
+   "en": "This is the end...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0041",
    "jp": "見事だ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Well fought...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0042",
@@ -267,86 +308,100 @@
   {
    "id": "scen246.0043",
    "jp": "やるな‥‥",
-   "en": "",
-   "term": "end"
+   "en": "You're good...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0044",
    "jp": "ライエル様のためならば、{n}私の命など、いくらでもくれてやる‥‥",
-   "en": "",
-   "term": "end"
+   "en": "For Lyell-sama, I would gladly give my life...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0045",
    "jp": "まだ私はやれる‥は‥‥ず‥‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I should... still be able... to fight...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0046",
    "jp": "騒がしかったようですが、{n}何かあったんですか？",
-   "en": "",
-   "term": "end"
+   "en": "It sounded rather noisy out here. Did{n}something happen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0047",
    "jp": "‥‥‥アンタ、敵に狙われてたのよ。",
-   "en": "",
-   "term": "end"
+   "en": "...The enemy was after YOU, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0048",
    "jp": "えぇっ！？{n}それで、敵は？",
-   "en": "",
-   "term": "end"
+   "en": "What?! Then where are they?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0049",
    "jp": "その調子じゃ、何ともなかったようね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Well, you certainly seem none the worse for it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0050",
    "jp": "{v:003A}ライエル様！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Lyell-sama!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0051",
    "jp": "{v:003B}どうした？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0052",
    "jp": "{v:003C}う、裏切りです！{n}リーヴス将軍がダグラス卿の元へ‥‥！{n}至急、王都へお戻り下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}T-treason! General Reeves has gone over to Lord{n}Douglas...! Return to the royal capital at once!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0053",
    "jp": "‥{FE14}‥{FE14}{v:003E}わかった。{p}{v:003F}私は王都へ戻る。{n}お前たち、ここを頼む！",
-   "en": "",
-   "term": "end"
+   "en": "...{FE14}...{FE14}{v:003E}Understood.{p}{v:003F}I am returning to the royal capital. I leave this position{n}in your hands!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0054",
    "jp": "{v:0040}お任せ下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Leave it to us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0055",
    "jp": "{v:0041}待て！{n}逃げるのか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Wait! Running away?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen246.0056",
    "jp": "{v:0042}勝負はお預けだ。{n}また会うことになるだろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Our fight will have to wait. We shall likely meet again.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

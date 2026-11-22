@@ -15,98 +15,112 @@
   {
    "id": "scen018.0001",
    "jp": "ダンジョンマン",
-   "en": "",
-   "term": "null"
+   "en": "Dungeon Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen018.0002",
    "jp": "チェック項目を選んで下さい",
-   "en": "",
-   "term": "end"
+   "en": "Select an item to test.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0003",
    "jp": "・ルイセに魔法修得＋みんなＭ２装備",
-   "en": "",
+   "en": "・Luise learns magic; all equip M2",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0004",
    "jp": "・エンカウントＯＦＦ",
-   "en": "",
+   "en": "・Encounters OFF",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0005",
    "jp": "・一時的あれこれチェックモード",
-   "en": "",
+   "en": "・Temporary miscellaneous test mode",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0006",
    "jp": "・完全（ＦＣ以外）チェックモード",
-   "en": "",
+   "en": "・Full test mode (except FC)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0007",
    "jp": "・ＦＣチェックモード",
-   "en": "",
+   "en": "・FC test mode",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0008",
    "jp": "・ダンジョン集",
-   "en": "",
+   "en": "・Dungeon collection",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0009",
    "jp": "・イベント戦闘集",
-   "en": "",
+   "en": "・Event battle collection",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0010",
    "jp": "・イベントとりあえずチェックモード",
-   "en": "",
+   "en": "・Preliminary event test mode",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0011",
    "jp": "・顔グラチェックモード",
-   "en": "",
+   "en": "・Portrait test mode",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0012",
    "jp": "・ユニットチェックモード",
-   "en": "",
+   "en": "・Unit test mode",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0013",
    "jp": "・パラメータ変更",
-   "en": "",
+   "en": "・Change parameters",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0014",
    "jp": "・名前と領地名の変更",
-   "en": "",
+   "en": "・Change character and estate names",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0015",
@@ -132,14 +146,16 @@
   {
    "id": "scen018.0018",
    "jp": "テレポートつける？",
-   "en": "",
-   "term": "end"
+   "en": "Add Teleport?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0019",
    "jp": "選ぶべし！",
-   "en": "",
-   "term": "end"
+   "en": "Make your choice!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0020",
@@ -151,44 +167,50 @@
   {
    "id": "scen018.0021",
    "jp": "・士官前",
-   "en": "",
+   "en": "・Before entering royal service",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0022",
    "jp": "・ひだチェック",
-   "en": "",
+   "en": "・Hida test",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0023",
    "jp": "・スーパーやなせモード",
-   "en": "",
+   "en": "・Super Yanase mode",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0024",
    "jp": "・かわせ１",
-   "en": "",
+   "en": "・Kawase 1",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0025",
    "jp": "・かわせ２",
-   "en": "",
+   "en": "・Kawase 2",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0026",
    "jp": "・あさくら",
-   "en": "",
+   "en": "・Asakura",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0027",
@@ -213,730 +235,841 @@
   {
    "id": "scen018.0030",
    "jp": "どれ？",
-   "en": "",
-   "term": "end"
+   "en": "Which one?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0031",
    "jp": "・チェック１（通しもの）",
-   "en": "",
+   "en": "・Test 1 (full run)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0032",
    "jp": "・チェック２（時事もの）",
-   "en": "",
+   "en": "・Test 2 (current events)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0033",
    "jp": "・チェック３（ＴＧＳ）",
-   "en": "",
+   "en": "・Test 3 (TGS)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0034",
    "jp": "・ふかざー",
-   "en": "",
+   "en": "・Fukaza",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0035",
    "jp": "・ふかざー２",
-   "en": "",
+   "en": "・Fukaza 2",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0036",
    "jp": "一人目のＰＣを誰にする？",
-   "en": "",
-   "term": "end"
+   "en": "Who should be the first player character?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0037",
    "jp": "・１ジュリアン",
-   "en": "",
+   "en": "・1 Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0038",
    "jp": "・２ミーシャ",
-   "en": "",
+   "en": "・2 Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0039",
    "jp": "・３ゼノス",
-   "en": "",
+   "en": "・3 Xenos",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0040",
    "jp": "・４カレン",
-   "en": "",
+   "en": "・4 Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0041",
    "jp": "・５アリオスト",
-   "en": "",
+   "en": "・5 Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0042",
    "jp": "・６エリオット",
-   "en": "",
+   "en": "・6 Elliot",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0043",
    "jp": "二人目のＰＣを誰にする？",
-   "en": "",
-   "term": "end"
+   "en": "Who should be the second player character?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0044",
    "jp": "・１ジュリアン",
-   "en": "",
+   "en": "・1 Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0045",
    "jp": "・２ミーシャ",
-   "en": "",
+   "en": "・2 Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0046",
    "jp": "・３ゼノス",
-   "en": "",
+   "en": "・3 Xenos",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0047",
    "jp": "・４カレン",
-   "en": "",
+   "en": "・4 Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0048",
    "jp": "・５アリオスト",
-   "en": "",
+   "en": "・5 Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0049",
    "jp": "・６エリオット",
-   "en": "",
+   "en": "・6 Elliot",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0050",
    "jp": "誰と成功した？",
-   "en": "",
-   "term": "end"
+   "en": "Who did you succeed with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0051",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0052",
    "jp": "・ウォレス",
-   "en": "",
+   "en": "・Wallace",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0053",
    "jp": "・ミーシャ",
-   "en": "",
+   "en": "・Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0054",
    "jp": "・アリオスト",
-   "en": "",
+   "en": "・Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0055",
    "jp": "・カレン",
-   "en": "",
+   "en": "・Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0056",
    "jp": "・ゼノス",
-   "en": "",
+   "en": "・Xenos",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0057",
    "jp": "・エリオット",
-   "en": "",
+   "en": "・Elliot",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0058",
    "jp": "・ジュリアン",
-   "en": "",
+   "en": "・Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0059",
    "jp": "・ティピ",
-   "en": "",
+   "en": "・Tippi",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0060",
    "jp": "・誰とも成功しない",
-   "en": "",
+   "en": "・Succeeded with no one",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0061",
    "jp": "時期を選んで下さい",
-   "en": "",
-   "term": "end"
+   "en": "Select the time period.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0062",
    "jp": "・通常大会（闘技大会前）",
-   "en": "",
+   "en": "・Regular tournament (before tournament)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0063",
    "jp": "・準備中（闘技大会前）",
-   "en": "",
+   "en": "・Preparations (before the tournament)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0064",
    "jp": "・闘技大会開催中",
-   "en": "",
+   "en": "・Tournament in progress",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0065",
    "jp": "・準備中（闘技大会後）",
-   "en": "",
+   "en": "・Preparations (after the tournament)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0066",
    "jp": "・通常大会（闘技大会後）",
-   "en": "",
+   "en": "・Regular tournament (after the tournament)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0067",
    "jp": "決勝前にする？",
-   "en": "",
-   "term": "end"
+   "en": "Start just before the finals?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0068",
    "jp": "注意を見てね！",
-   "en": "",
-   "term": "end"
+   "en": "Read the warning!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0069",
    "jp": "・仕官話し",
-   "en": "",
+   "en": "・Discussion of entering royal service",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0070",
    "jp": "・休暇１明け－姫を送り届けた後",
-   "en": "",
+   "en": "・After leave 1 -- Princess escorted safely",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0071",
    "jp": "・休暇２明け－水晶鉱山チェック後",
-   "en": "",
+   "en": "・After leave 2 -- Crystal mine inspected",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0072",
    "jp": "・休暇３明け－姫救出任務後",
-   "en": "",
+   "en": "・After leave 3 -- Princess rescue mission completed",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0073",
    "jp": "・休暇４明け－ランザックと同盟した後",
-   "en": "",
+   "en": "・After leave 4 -- Alliance with Ranzak formed",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0074",
    "jp": "・休暇５明け－滝洞窟で異形の卵破壊し、村長死亡後",
-   "en": "",
+   "en": "・After leave 5 - Waterfall Cave eggs, chief dead",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0075",
    "jp": "・休暇６明け－アイリーン救出後",
-   "en": "",
+   "en": "・After leave 6 -- Irene rescued",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0076",
    "jp": "・休暇７明け－オリビエ湖の調査後",
-   "en": "",
+   "en": "・After leave 7 -- Lake Olivier investigated",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0077",
    "jp": "・休暇８明け－グローシアン事件解決後",
-   "en": "",
+   "en": "・After leave 8 -- Growsian incident resolved",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0078",
    "jp": "・休暇９明け－ダグラス、ジュリアンの協力を得た後",
-   "en": "",
+   "en": "・After leave 9 -- Douglas and Julian agree to help",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0079",
    "jp": "・休暇１０明け－いざ、バーンシュタイン城突入",
-   "en": "",
+   "en": "・After leave 10 -- Time to storm Burnstein Castle",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0080",
    "jp": "・休暇１１明け－王位奪還後",
-   "en": "",
+   "en": "・After leave 11 -- Throne reclaimed",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0081",
    "jp": "・ＶＳゲヴェル－肉の城",
-   "en": "",
+   "en": "・Against Gevel -- Castle of Flesh",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0082",
    "jp": "・ゲヴェルを倒した後",
-   "en": "",
+   "en": "・After defeating Gevel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0083",
    "jp": "・{FFEE}祝賀会以降のデバッグはこちら{FFF1}",
-   "en": "",
+   "en": "・{FFEE}Debug: victory celebration onward{FFF1}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0084",
    "jp": "・注意！",
-   "en": "",
+   "en": "・Warning!",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0085",
    "jp": "都合により、城門から始まります。{n}ローランディア王に会いに行って下さい。",
-   "en": "",
-   "term": "end"
+   "en": "For practical reasons, you will start at the castle{n}gate. Please go and meet the King of Rolandia.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0086",
    "jp": "都合により、バーンシュタイン王都から始まります。{n}東門から北へ向かって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "For practical reasons, you will start in the Burnstein{n}Royal Capital. Please head north from the east gate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0087",
    "jp": "ゲヴェルを倒した直後、パーティーは解散しますが、{n}ミーシャがパーティーにいた場合のみ、残ります。",
-   "en": "",
-   "term": "end"
+   "en": "The party disbands immediately after defeating Gevel.{n}Misha remains with you only if she was in the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0088",
    "jp": "ミーシャが残ったことにしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Set Misha as having stayed behind?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0089",
    "jp": "エンカウントＯＦＦする？",
-   "en": "",
-   "term": "end"
+   "en": "Turn encounters OFF?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0090",
    "jp": "祝賀会以降のイベントチェック",
-   "en": "",
-   "term": "end"
+   "en": "Event check: victory celebration onward",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0091",
    "jp": "・フェザーランドに呼ばれて（アリオスト付き）",
-   "en": "",
+   "en": "・Summoned to Featherland (with Ariost)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0092",
    "jp": "・パワーストーンでヴェンツェル倒すぜ",
-   "en": "",
+   "en": "・Let's beat Wenzel with the Power Stone!",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0093",
    "jp": "アリオストを連れてフェザーランドに来たときからです。{n}女王に会いましょう。",
-   "en": "",
-   "term": "end"
+   "en": "This starts when you arrive in Featherland with{n}Ariost. Go and meet the queen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0094",
    "jp": "国王の許可はもらった！{n}ヴェンツェルを探し出して戦おう！",
-   "en": "",
-   "term": "end"
+   "en": "We've got the king's permission! Let's find Wenzel and{n}fight him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0095",
    "jp": "途中データを使って、過去や未来へ行くのは{n}フラグが変になるので無理です。{n}ただし、{FFF0}ＦＣチェックモードの直後に、{n}このイベントチェックを行えば{FFF1}{n}実際のプレイと同様のフラグ立てが可能です。{n}ただし、ＦＣ休暇数とここでの休暇数を{FFF0}同数{FFF1}にしてね。{p}またＦＣチェックと連動する場合、{n}ここで一時フラグの全初期化をした方が無難です。{n}ちなみに全初期化をすると、途中データから{n}未来へ行くことも、大丈夫だと思います。{n}このモードを使ってバグが出た場合、{n}『{FFEE}イベントチェック全初期化使用{FFF1}』と記入して下さい。",
-   "en": "",
-   "term": "end"
+   "en": "You cannot use a save from midway through the game{n}to jump backward or forward, as this messes up{n}the flags.{p}However, {FFF0}if you run this event check immediately after{n}FC Check Mode,{FFF1} you can set the flags as they would be{n}in normal play.{p}Just make sure the leave number in FC and the one{n}here are {FFF0}the same{FFF1}.{p}When using this together with FC Check, it is also safer{n}to reset all temporary flags here.{p}Incidentally, I think resetting them all should also let you{n}jump forward from a mid-game save.{p}If you encounter a bug while using this mode, please{n}write: '{FFEE}Event Check: Full Reset Used{FFF1}'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0096",
    "jp": "全初期化する？",
-   "en": "",
-   "term": "end"
+   "en": "Reset everything?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0097",
    "jp": "通しチェックする？",
-   "en": "",
-   "term": "end"
+   "en": "Run a check from start to finish?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0098",
    "jp": "形見のナイフを返したことにする？",
-   "en": "",
-   "term": "end"
+   "en": "Set the Keepsake Knife as returned?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0099",
    "jp": "主人公は槍装備？弓装備？",
-   "en": "",
-   "term": "end"
+   "en": "Should the Hero equip a spear or a bow?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0100",
    "jp": "・剣と槍",
-   "en": "",
+   "en": "・Sword and spear",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0101",
    "jp": "・剣と弓",
-   "en": "",
+   "en": "・Sword and bow",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0102",
    "jp": "重体カレンを見たことにする？",
-   "en": "",
-   "term": "end"
+   "en": "Set Karen as seen in critical condition?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0103",
    "jp": "入院中のカレンの見舞いはした事にする？",
-   "en": "",
-   "term": "end"
+   "en": "Set Karen as visited in the hospital?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0104",
    "jp": "闘技場でジュリアンに勝った事にする？",
-   "en": "",
-   "term": "end"
+   "en": "Set Julian as defeated in the arena?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0105",
    "jp": "温泉でのぞきをしたことにする？？",
-   "en": "",
-   "term": "end"
+   "en": "Set yourself as having peeked at the hot springs??",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0106",
    "jp": "ミーシャに花冠をもらったことにする？？",
-   "en": "",
-   "term": "end"
+   "en": "Set yourself as given Misha's Flower Crown??",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0107",
    "jp": "花畑が村にないことを聞いた事にする？",
-   "en": "",
-   "term": "end"
+   "en": "Set yourself as told the village has no flower field?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0108",
    "jp": "ＢＣ密談イベント、アリオスト連れて失敗扱いする？",
-   "en": "",
-   "term": "end"
+   "en": "Fail the BC secret meeting (brought Ariost)?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0109",
    "jp": "Ｃ国関所を通行する時の職業は？",
-   "en": "",
-   "term": "end"
+   "en": "Your cover job at Country C's checkpoint?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0110",
    "jp": "・宝石商人",
-   "en": "",
+   "en": "・Gem merchant",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0111",
    "jp": "・武器商人",
-   "en": "",
+   "en": "・Arms merchant",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0112",
    "jp": "・薬商人",
-   "en": "",
+   "en": "・Medicine merchant",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0113",
    "jp": "・魔道具商人",
-   "en": "",
+   "en": "・Magic tool merchant",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0114",
    "jp": "・旅芸人",
-   "en": "",
+   "en": "・Traveling entertainer",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0115",
    "jp": "湖の夢は見たことにする？",
-   "en": "",
-   "term": "end"
+   "en": "Set yourself as having had the dream about the lake?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0116",
    "jp": "ミーシャを逃走させず、うまく慰めた？",
-   "en": "",
-   "term": "end"
+   "en": "Comforted Misha and kept her from running away?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0117",
    "jp": "Ｃ国を助けるため、ジュリアンと戦った？",
-   "en": "",
-   "term": "end"
+   "en": "Did you fight Julian to help Country C?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0118",
    "jp": "洞窟にて、ジュリアンに父の行為を納得させた？",
-   "en": "",
-   "term": "end"
+   "en": "In the cave, did Julian accept his father's deed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0119",
    "jp": "カレンは救出したことにする？",
-   "en": "",
-   "term": "end"
+   "en": "Set Karen as rescued?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0120",
    "jp": "エリオットの王位奪還のお披露目で、{n}ジュリアンのドレス姿を見た？",
-   "en": "",
-   "term": "end"
+   "en": "Did you see Julian in a dress at the ceremony marking{n}Elliot's return to the throne?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0121",
    "jp": "カレンのパーティー化、ＯＫする？",
-   "en": "",
-   "term": "end"
+   "en": "Allow Karen to join the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0122",
    "jp": "アリオストのパーティー化、ＯＫする？",
-   "en": "",
-   "term": "end"
+   "en": "Allow Ariost to join the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0123",
    "jp": "エリオットのパーティー化、ＯＫする？",
-   "en": "",
-   "term": "end"
+   "en": "Allow Elliot to join the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0124",
    "jp": "ジュリアンのパーティー化、ＯＫする？",
-   "en": "",
-   "term": "end"
+   "en": "Allow Julian to join the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0125",
    "jp": "ＦＣのパーティーを３人の中から選んでね。{n}ただし選べるのは{FFEE}絶対に２人{FFF1}です！",
-   "en": "",
-   "term": "end"
+   "en": "Choose your FC party from these three. You must{n}choose {FFEE}exactly two people{FFF1}!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0126",
    "jp": "この時、ミーシャはいません。{n}またアリオストかカレンから{n}誰か{FFF0}１人だけ{FFF1}選択できます。",
-   "en": "",
-   "term": "end"
+   "en": "Misha is not here at this point. You may choose {FFF0}only{n}one{FFF1}: Ariost or Karen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0127",
    "jp": "ミーシャは？",
-   "en": "",
-   "term": "end"
+   "en": "What about Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0128",
    "jp": "アリオストは？",
-   "en": "",
-   "term": "end"
+   "en": "What about Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0129",
    "jp": "カレンはお亡くなりになっています。{n}‥‥‥なむ～‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Karen has passed away. ...Rest in peace...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0130",
    "jp": "カレンは休暇後にいなくなっています！",
-   "en": "",
-   "term": "end"
+   "en": "Karen is gone after your leave!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0131",
    "jp": "カレンは？",
-   "en": "",
-   "term": "end"
+   "en": "What about Karen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0132",
    "jp": "ゼノスを入れる？",
-   "en": "",
-   "term": "end"
+   "en": "Add Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0133",
    "jp": "エリオットは？",
-   "en": "",
-   "term": "end"
+   "en": "What about Elliot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0134",
    "jp": "ジュリアンは？",
-   "en": "",
-   "term": "end"
+   "en": "What about Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0135",
    "jp": "ダンジョンを選ぶべし！",
-   "en": "",
-   "term": "end"
+   "en": "Choose your dungeon!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0136",
    "jp": "・{FFEE}不思議迷宮野郎{FFEF}の{FFF0}挑戦{FFF1}",
-   "en": "",
+   "en": "・{FFEE}Mysterious Dungeon Guy{FFEF}'s {FFF0}Challenge{FFF1}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0137",
    "jp": "・グローシアン遺跡－２９◯",
-   "en": "",
+   "en": "・Growsian Ruins -- 29 (O)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0138",
    "jp": "・フェザリアン遺跡－３０",
-   "en": "",
+   "en": "・Featherian Ruins -- 30",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0139",
    "jp": "・迷いの森の地下遺跡－３３",
-   "en": "",
+   "en": "・Underground Ruins of the Lost Forest -- 33",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0140",
    "jp": "・滝の洞窟－７０（入り口）＆４１（洞窟）",
-   "en": "",
+   "en": "・Waterfall Cave -- 70 (entrance) & 41 (cave)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0141",
@@ -969,117 +1102,134 @@
   {
    "id": "scen018.0145",
    "jp": "ようこそ、私の迷宮へ。{FFFB}{n}私の名は『{FFEE}ダンジョンマン{FFF1}』{n}これからあなたを迷宮へご案内します。",
-   "en": "",
-   "term": "end"
+   "en": "Welcome to my labyrinth.{FFFB} My name is '{FFEE}Dungeon Man{FFF1}'. I{n}shall now guide you into the labyrinth.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0146",
    "jp": "準備はよろしいですかな？",
-   "en": "",
-   "term": "end"
+   "en": "Are you quite ready?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0147",
    "jp": "それでは、また‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Until we meet again, then...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0148",
    "jp": "戦闘を選ぶべし！",
-   "en": "",
-   "term": "end"
+   "en": "Choose your battle!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0149",
    "jp": "・チュートリアル（メニュー変更後に修正予定）",
-   "en": "",
+   "en": "・Tutorial (to be revised after menu changes)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0150",
    "jp": "・盗賊オズワルドの巻（前編）",
-   "en": "",
+   "en": "・The Tale of Oswald the Bandit (Part 1)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0151",
    "jp": "・盗賊名前無しの巻",
-   "en": "",
+   "en": "・The Tale of the Nameless Bandit",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0152",
    "jp": "・盗賊オズワルドの巻（後編）",
-   "en": "",
+   "en": "・The Tale of Oswald the Bandit (Part 2)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0153",
    "jp": "・サンドラが仮面騎士に襲われる",
-   "en": "",
+   "en": "・Sandra is attacked by a Masked Knight",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0154",
    "jp": "・デカゲル－なまえボシューチュー",
-   "en": "",
+   "en": "・Big Gel -- Name wanted!",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0155",
    "jp": "・クイーンゲル－なまえボシーチー",
-   "en": "",
+   "en": "・Queen Gel -- Name waaanted!",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0156",
    "jp": "・姫の護送隊を襲ってレティシアを救出",
-   "en": "",
+   "en": "・Attack the princess's escort and rescue Leticia",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0157",
    "jp": "・姫と一緒にエリオットがピンチ",
-   "en": "",
+   "en": "・Elliot and the princess are in trouble",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0158",
    "jp": "・迷いの森で同盟決裂作戦",
-   "en": "",
+   "en": "・Operation: Break the alliance in the Lost Forest",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0159",
    "jp": "・ガラシールズ入り口でグレンガルと戦闘",
-   "en": "",
+   "en": "・Battle with Grengal at the entrance to Galashiels",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0160",
    "jp": "・メディス村でアイリーン救出",
-   "en": "",
+   "en": "・Rescue Irene in Medis Village",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0161",
    "jp": "・ニセ兄の襲撃　ＩＮ　宿屋",
-   "en": "",
+   "en": "・Fake brother's attack at the inn",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0162",
@@ -1091,9 +1241,10 @@
   {
    "id": "scen018.0163",
    "jp": "・ベルナード将軍ピンチ　ＩＮ　ノストリッジ",
-   "en": "",
+   "en": "・General Bernard in trouble in Nostridge",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0164",
@@ -1195,359 +1346,411 @@
   {
    "id": "scen018.0178",
    "jp": "一覧から選択して下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please select from the list.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0179",
    "jp": "・キャラメイク",
-   "en": "",
+   "en": "・Character creation",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0180",
    "jp": "・キャラメイク終了後",
-   "en": "",
+   "en": "・After character creation",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0181",
    "jp": "・岬のイベント",
-   "en": "",
+   "en": "・Cape event",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0182",
    "jp": "・イベント戦闘００１直後",
-   "en": "",
+   "en": "・Immediately after event battle 001",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0183",
    "jp": "・ルイセを仲間に入れた後",
-   "en": "",
+   "en": "・After Luise joins the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0184",
    "jp": "・デリス村について",
-   "en": "",
+   "en": "・Arrival in Delis Village",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0185",
    "jp": "・ウォレスを仲間に入れた後",
-   "en": "",
+   "en": "・After Wallace joins the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0186",
    "jp": "・イベント戦闘００２クリア後",
-   "en": "",
+   "en": "・After clearing event battle 002",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0187",
    "jp": "・宴後　～宿にて、ジュリアンと会話～",
-   "en": "",
+   "en": "・After the feast -- Talk with Julian at the inn",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0188",
    "jp": "・ルイセ、初テレポート",
-   "en": "",
+   "en": "・Luise's first Teleport",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0189",
    "jp": "・イベント戦闘００３クリア後～自宅",
-   "en": "",
+   "en": "・After clearing event battle 003 -- Home",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0190",
    "jp": "・母親が倒れた後",
-   "en": "",
+   "en": "・After Mother collapses",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0191",
    "jp": "・魔法学院へ",
-   "en": "",
+   "en": "・To the Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0192",
    "jp": "・飛行装置でフェザーランドへ",
-   "en": "",
+   "en": "・To Featherland in the flying apparatus",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0193",
    "jp": "・コロシアム",
-   "en": "",
+   "en": "・Coliseum",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0194",
    "jp": "・ランザック王と会う",
-   "en": "",
+   "en": "・Meet the King of Ranzak",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0195",
    "jp": "どちらのモードか選べ！",
-   "en": "",
-   "term": "end"
+   "en": "Choose a mode!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0196",
    "jp": "・１つずつチェック",
-   "en": "",
+   "en": "・Check one at a time",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0197",
    "jp": "・ランダムジャンプ",
-   "en": "",
+   "en": "・Jump at random",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0198",
    "jp": "どのフロアにする？",
-   "en": "",
-   "term": "end"
+   "en": "Which floor?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0199",
    "jp": "・４×４フロア",
-   "en": "",
+   "en": "・4 x 4 floor",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0200",
    "jp": "・５×５フロア",
-   "en": "",
+   "en": "・5 x 5 floor",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0201",
    "jp": "・６×６フロア",
-   "en": "",
+   "en": "・6 x 6 floor",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0202",
    "jp": "４×４どのマップ？",
-   "en": "",
-   "term": "end"
+   "en": "Which 4 x 4 map?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0203",
    "jp": "・１０１",
-   "en": "",
+   "en": "・101",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0204",
    "jp": "・１０２",
-   "en": "",
+   "en": "・102",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0205",
    "jp": "・１０３",
-   "en": "",
+   "en": "・103",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0206",
    "jp": "・１０４",
-   "en": "",
+   "en": "・104",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0207",
    "jp": "・１０５",
-   "en": "",
+   "en": "・105",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0208",
    "jp": "・１０６",
-   "en": "",
+   "en": "・106",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0209",
    "jp": "５×５どのマップ？",
-   "en": "",
-   "term": "end"
+   "en": "Which 5 x 5 map?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0210",
    "jp": "・１０７",
-   "en": "",
+   "en": "・107",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0211",
    "jp": "・１０８",
-   "en": "",
+   "en": "・108",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0212",
    "jp": "・１０９",
-   "en": "",
+   "en": "・109",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0213",
    "jp": "・１１０",
-   "en": "",
+   "en": "・110",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0214",
    "jp": "・１１１",
-   "en": "",
+   "en": "・111",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0215",
    "jp": "・１１２",
-   "en": "",
+   "en": "・112",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0216",
    "jp": "・１１３",
-   "en": "",
+   "en": "・113",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0217",
    "jp": "・１１４",
-   "en": "",
+   "en": "・114",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0218",
    "jp": "６×６のどのマップ？",
-   "en": "",
-   "term": "end"
+   "en": "Which 6 x 6 map?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0219",
    "jp": "・１１５",
-   "en": "",
+   "en": "・115",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0220",
    "jp": "・１１６",
-   "en": "",
+   "en": "・116",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0221",
    "jp": "・１１７",
-   "en": "",
+   "en": "・117",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0222",
    "jp": "・１１８",
-   "en": "",
+   "en": "・118",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0223",
    "jp": "・１１９",
-   "en": "",
+   "en": "・119",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0224",
    "jp": "・１２０",
-   "en": "",
+   "en": "・120",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0225",
    "jp": "・１２１",
-   "en": "",
+   "en": "・121",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0226",
    "jp": "・１２２",
-   "en": "",
+   "en": "・122",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0227",
    "jp": "・１２３",
-   "en": "",
+   "en": "・123",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0228",
    "jp": "・１２４",
-   "en": "",
+   "en": "・124",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0229",
    "jp": "顔グラチェックモード",
-   "en": "",
-   "term": "end"
+   "en": "Portrait Check Mode",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0230",
@@ -1566,30 +1769,34 @@
   {
    "id": "scen018.0232",
    "jp": "・男ＰＣ",
-   "en": "",
+   "en": "・Male player characters",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0233",
    "jp": "・女ＰＣ",
-   "en": "",
+   "en": "・Female player characters",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0234",
    "jp": "・ティピとその他",
-   "en": "",
+   "en": "・Tippi and others",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0235",
    "jp": "・顔グラスキップループチェック",
-   "en": "",
+   "en": "・Portrait skip loop check",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0236",
@@ -1712,20 +1919,23 @@
   {
    "id": "scen018.0253",
    "jp": "普通",
-   "en": "",
-   "term": "end"
+   "en": "Normal",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0254",
    "jp": "瀕死",
-   "en": "",
-   "term": "end"
+   "en": "Near death",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0255",
    "jp": "普通－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0256",
@@ -1736,8 +1946,9 @@
   {
    "id": "scen018.0257",
    "jp": "怒り－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0258",
@@ -1748,20 +1959,23 @@
   {
    "id": "scen018.0259",
    "jp": "照れる－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Blushing -- animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0260",
    "jp": "特殊１－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0261",
    "jp": "特殊２－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Special 2 -- animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0262",
@@ -1772,26 +1986,30 @@
   {
    "id": "scen018.0263",
    "jp": "怒り",
-   "en": "",
-   "term": "end"
+   "en": "Angry",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0264",
    "jp": "悲しい",
-   "en": "",
-   "term": "end"
+   "en": "Sad",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0265",
    "jp": "照れる",
-   "en": "",
-   "term": "end"
+   "en": "Blushing",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0266",
    "jp": "特殊１",
-   "en": "",
-   "term": "end"
+   "en": "Special 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0267",
@@ -1980,8 +2198,9 @@
   {
    "id": "scen018.0295",
    "jp": "男ＰＣの選択",
-   "en": "",
-   "term": "end"
+   "en": "Select a male player character",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0296",
@@ -1993,933 +2212,1082 @@
   {
    "id": "scen018.0297",
    "jp": "・ウォレス　－０＆１の瀕死",
-   "en": "",
+   "en": "・Wallace -- 0 & 1 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0298",
    "jp": "・ウォレス　－２＆３の義眼なし瀕死",
-   "en": "",
+   "en": "・Wallace -- 2 & 3 (near death, no artificial eyes)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0299",
    "jp": "・アリオスト－０＆１の瀕死",
-   "en": "",
+   "en": "・Ariost -- 0 & 1 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0300",
    "jp": "・エリオット－０＆３の瀕死",
-   "en": "",
+   "en": "・Elliot -- 0 & 3 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0301",
    "jp": "・エリオット－１（腕上げ関係）",
-   "en": "",
+   "en": "・Elliot -- 1 (arm raised)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0302",
    "jp": "・エリオット－２（腕上げ関係）",
-   "en": "",
+   "en": "・Elliot -- 2 (arm raised)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0303",
    "jp": "・ゼノス　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Xenos -- 0 & 1 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0304",
    "jp": "・ゼノス　　－３エプロン",
-   "en": "",
+   "en": "・Xenos -- 3 (apron)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0305",
    "jp": "・ゼノス　　－４＆５（覆面）の瀕死",
-   "en": "",
+   "en": "・Xenos -- 4 & 5 (masked, near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0306",
    "jp": "普通－口パクなし",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- no mouth animation",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0307",
    "jp": "怒り－口パクなし",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- no mouth animation",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0308",
    "jp": "特殊１－操られ",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- being controlled",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0309",
    "jp": "特殊２－操られの苦しい",
-   "en": "",
-   "term": "end"
+   "en": "Special 2 -- in pain while being controlled",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0310",
    "jp": "{FFF5}特殊３－目ウル付き悲しい",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}Special 3 -- sad, with teary eyes",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0311",
    "jp": "瀕死－主人公１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Hero portrait 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0312",
    "jp": "温泉普通－主人公２の顔",
-   "en": "",
-   "term": "end"
+   "en": "Hot spring, normal -- Hero portrait 2",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0313",
    "jp": "温泉悲しい－主人公２の顔",
-   "en": "",
-   "term": "end"
+   "en": "Hot spring, sad -- Hero portrait 2",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0314",
    "jp": "特殊１－義眼なし",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- no artificial eyes",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0315",
    "jp": "瀕死－ウォレス１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Wallace portrait 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0316",
    "jp": "怒り－焦り",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- flustered",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0317",
    "jp": "特殊１－焦りの別バージョン。口パクなし",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- alternate flustered expression. No{n}mouth animation.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0318",
    "jp": "瀕死－ウォレス３の顔。義眼無し",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Wallace portrait 3. No artificial eyes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0319",
    "jp": "４の普通{p}{FC02}怒り",
-   "en": "",
-   "term": "end"
+   "en": "Portrait 4, normal{p}{FC02}Angry",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0320",
    "jp": "瀕死－血なし",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- no blood",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0321",
    "jp": "悲しい－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0322",
    "jp": "照れる－アニメあり{p}{FB00}‥{FFFA}{n}－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Blushing -- animated{p}{FB00}...{FFFA} -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0323",
    "jp": "瀕死－アリオスト１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Ariost portrait 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0324",
    "jp": "温泉アリオスト{p}{FC02}怒り{p}{FC03}悲しい{p}{FC04}照れる",
-   "en": "",
-   "term": "end"
+   "en": "Hot spring Ariost{p}{FC02}Angry{p}{FC03}Sad{p}{FC04}Blushing",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0325",
    "jp": "瀕死－エリオット１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Elliot portrait 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0326",
    "jp": "悲しい－アニメあり{p}{FB00}‥{FFFA}{n}目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- animated{p}{FB00}...{FFFA} With teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0327",
    "jp": "特殊３－上げ後の固定用（普通顔）{n}アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Special 3 -- holds the pose after raising the arm{n}(normal expression). Animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0328",
    "jp": "ボクの演奏、聞いて下さい。{p}{FC00}{FA50}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Please listen to me play.{p}{FC00}{FA50}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0329",
    "jp": "特殊１－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0330",
    "jp": "瀕死－ゼノス１の顔。目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Xenos portrait 1. With teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0331",
    "jp": "特殊１－覆面着用",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- wearing a mask",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0332",
    "jp": "瀕死－ゼノス５の顔（覆面ナシ）",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Xenos portrait 5 (without mask)",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0333",
    "jp": "特殊１－ゼノス５の顔（覆面あり）",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- Xenos portrait 5 (with mask)",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0334",
    "jp": "女ＰＣ",
-   "en": "",
-   "term": "end"
+   "en": "Female player characters",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0335",
    "jp": "・ルイセ　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Luise -- 0 & 1 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0336",
    "jp": "・ルイセ　　－２（横向き）＆５（ブルー）",
-   "en": "",
+   "en": "・Luise -- 2 (side view) & 5 (blue)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0337",
    "jp": "・ルイセ　　－３（手を口に）",
-   "en": "",
+   "en": "・Luise -- 3 (hand to mouth)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0338",
    "jp": "・ルイセ　　－４（手を口に）",
-   "en": "",
+   "en": "・Luise -- 4 (hand to mouth)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0339",
    "jp": "・ミーシャ　－０＆１の瀕死（正面）",
-   "en": "",
+   "en": "・Misha -- 0 & 1 (near death, front view)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0340",
    "jp": "・ミーシャ　－２（横向き）",
-   "en": "",
+   "en": "・Misha -- 2 (side view)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0341",
    "jp": "・カレン　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Karen -- 0 & 1 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0342",
    "jp": "・カレン　　－２（祈り）",
-   "en": "",
+   "en": "・Karen -- 2 (praying)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0343",
    "jp": "・カレン　　－３（襲われる）",
-   "en": "",
+   "en": "・Karen -- 3 (being attacked)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0344",
    "jp": "・ジュリアン－０＆１の瀕死（正面）",
-   "en": "",
+   "en": "・Julian -- 0 & 1 (near death, front view)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0345",
    "jp": "・ジュリアン－２＆３の瀕死（ナイツ前）",
-   "en": "",
+   "en": "・Julian -- 2 & 3 (near death, before joining the Knights)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0346",
    "jp": "・ジュリアン－４＆５の瀕死（くわっ）",
-   "en": "",
+   "en": "・Julian -- 4 & 5 (near death, eyes wide)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0347",
    "jp": "・ジュリアン－６＆７＆８（ドレス）",
-   "en": "",
+   "en": "・Julian -- 6 & 7 & 8 (dress)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0348",
    "jp": "普通－目ウルあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0349",
    "jp": "怒り－目ウルあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0350",
    "jp": "悲しい－目ウルあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0351",
    "jp": "照れる－目ウルあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Blushing -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0352",
    "jp": "瀕死－ルイセ１の顔－目ウルあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Luise portrait 1 -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0353",
    "jp": "普通－ルイセ５の顔グラ",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- Luise portrait 5",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0354",
    "jp": "普通－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0355",
    "jp": "怒り－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0356",
    "jp": "悲しい－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0357",
    "jp": "照れる－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Blushing -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0358",
    "jp": "悲しい－目うるあり{p}{FFF5}‥目うる中。{n}－とほほアニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- with teary eyes{p}{FFF5}...Teary eyes active. -- Animated dejection{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0359",
    "jp": "普通－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0360",
    "jp": "怒り－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0361",
    "jp": "照れる－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Blushing -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0362",
    "jp": "特殊１　惚れてる　－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Special 1, lovestruck -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0363",
    "jp": "特殊２　楽しいね　－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Special 2, having fun -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0364",
    "jp": "瀕死－ミーシャ１の顔グラ",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Misha portrait 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0365",
    "jp": "普通－あせアニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- animated sweat{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0366",
    "jp": "悲しい－目うるあり{p}{FFF5}‥。目うる中。{n}アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- with teary eyes{p}{FFF5}...Teary eyes active. Animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0367",
    "jp": "特殊１－ごまかし{n}アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- playing innocent. Animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0368",
    "jp": "ギャグ悲しい{FB00}アニメ付き。{p}{FC05}驚き{FB00}アニメあり。",
-   "en": "",
-   "term": "end"
+   "en": "Comically sad{FB00}, animated.{p}{FC05}Surprised{FB00}, animated.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0369",
    "jp": "特殊１－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0370",
    "jp": "瀕死－カレン１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Karen portrait 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0371",
    "jp": "抵抗（怒り）－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Resisting (angry) -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0372",
    "jp": "ショックさめやらぬ（悲しい）－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Still in shock (sad) -- with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0373",
    "jp": "普通{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Normal{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0374",
    "jp": "怒り{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Angry{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0375",
    "jp": "悲しい{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Sad{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0376",
    "jp": "照れる{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Blushing{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0377",
    "jp": "特殊１（惚れる）{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 (lovestruck){p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0378",
    "jp": "瀕死－ジュリアン１の顔{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Julian portrait 1{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0379",
    "jp": "特殊１－視線そらし{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- averting eyes{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0380",
    "jp": "普通－闘技場での決闘で負けた{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- defeated in the arena duel{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0381",
    "jp": "瀕死－本当の瀕死{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- actually near death{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0382",
    "jp": "特殊１－にらんでる{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- glaring{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0383",
    "jp": "瀕死－ジュリアン５の顔{n}目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Julian portrait 5. With teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0384",
    "jp": "特殊１－惚れる{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- lovestruck{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0385",
    "jp": "ティピとその他の人たち",
-   "en": "",
-   "term": "end"
+   "en": "Tippi and the others",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0386",
    "jp": "・ティピ　　－０",
-   "en": "",
+   "en": "・Tippi -- 0",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0387",
    "jp": "・ティピ　　－１（腰に手）",
-   "en": "",
+   "en": "・Tippi -- 1 (hands on hips)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0388",
    "jp": "・ティピ　　－２（お願い）＆３（ふるふる）",
-   "en": "",
+   "en": "・Tippi -- 2 (pleading) & 3 (shaking)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0389",
    "jp": "・ティピ　　－４～７（キック＆乱舞）",
-   "en": "",
+   "en": "・Tippi -- 4-7 (kick & Flurry Dance)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0390",
    "jp": "・サンドラ　－０＆１",
-   "en": "",
+   "en": "・Sandra -- 0 & 1",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0391",
    "jp": "・リシャール　－０＆１の瀕死（未完成）",
-   "en": "",
+   "en": "・Richard -- 0 & 1 (near death, unfinished)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0392",
    "jp": "・ライエル　　－０＆１の瀕死と悲しい",
-   "en": "",
+   "en": "・Lyell -- 0 & 1 (near death and sad)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0393",
    "jp": "・リーヴス　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Reeves -- 0 & 1 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0394",
    "jp": "・ヴェンツェル－０＆１＆２＆３",
-   "en": "",
+   "en": "・Wenzel -- 0 & 1 & 2 & 3",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0395",
    "jp": "・ガムラン　　－０＆１の瀕死（未完成）",
-   "en": "",
+   "en": "・Gamlan -- 0 & 1 (near death, unfinished)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0396",
    "jp": "・ウェーバー　－０＆１の瀕死（未完成）",
-   "en": "",
+   "en": "・Weber -- 0 & 1 (near death, unfinished)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0397",
    "jp": "・ゲヴェル　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Gevel -- 0 & 1 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0398",
    "jp": "・仮面騎士　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Masked Knight -- 0 & 1 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0399",
    "jp": "・仮面なし騎士－２＆３（瀕死）＆４（溶ける）",
-   "en": "",
+   "en": "・Unmasked Knight -- 2 & 3 (near death) & 4 (melting)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0400",
    "jp": "・ラルフ　　　－０＆１（瀕死）＆２（溶ける）",
-   "en": "",
+   "en": "・Ralph -- 0 & 1 (near death) & 2 (melting)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0401",
    "jp": "ティピ４　普通{n}そして‥‥{FFFB}{FB00}指折り！",
-   "en": "",
-   "term": "end"
+   "en": "Tippi 4, normal. And now...{FFFB}{FB00}Counting on her fingers!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0402",
    "jp": "ティピ４　特殊１{n}スクロールさせるよ{p}{FB00}それ",
-   "en": "",
-   "term": "end"
+   "en": "Tippi 4, special 1. Let's scroll!{p}{FB00}There!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0403",
    "jp": "ティピ５　普通",
-   "en": "",
-   "term": "end"
+   "en": "Tippi 5, normal",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0404",
    "jp": "ティピ５　特殊１{n}スクロール０はこれ{FFFB}{n}{FB00}{FFFA}{p}スクロール１はこれ{FFFB}{n}{FC05}{FA01}　",
-   "en": "",
-   "term": "end"
+   "en": "Tippi 5, special 1. Here's scroll 0{FFFB}{FB00}{FFFA}{p}Here's scroll 1{FFFB}{n}{FC05}{FA01}　",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0405",
    "jp": "ティピ６　普通",
-   "en": "",
-   "term": "end"
+   "en": "Tippi 6, normal",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0406",
    "jp": "ティピ６　特殊１{n}スクロール０はこれ{FFFB}{n}{FB00}{FFFA}{p}スクロール１はこれ{FFFB}{n}{FC05}{FA01}　",
-   "en": "",
-   "term": "end"
+   "en": "Tippi 6, special 1. Here's scroll 0{FFFB}{FB00}{FFFA}{p}Here's scroll 1{FFFB}{n}{FC05}{FA01}　",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0407",
    "jp": "ティピ７　普通",
-   "en": "",
-   "term": "end"
+   "en": "Tippi 7, normal",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0408",
    "jp": "ティピ７　特殊１{n}スクロール０はこれ{FFFB}{n}{FB00}{FFFA}{p}スクロール１はこれ{FFFB}{n}{FC05}{FA01}　",
-   "en": "",
-   "term": "end"
+   "en": "Tippi 7, special 1. Here's scroll 0{FFFB}{FB00}{FFFA}{p}Here's scroll 1{FFFB}{n}{FC05}{FA01}　",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0409",
    "jp": "ティピちゃん乱舞を見る？",
-   "en": "",
-   "term": "end"
+   "en": "Wanna see Tippi-chan's Flurry Dance?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0410",
    "jp": "{FB00}{FFFA}{FFEC}　　　超{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{FFFA}{FFEC}　　　Super{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0411",
    "jp": "{FB00}{FFFA}{FFEC}ティピちゃん{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{FFFA}{FFEC}Tippi-chan{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0412",
    "jp": "{FB00}{FFFA}{FFEC}　　　乱{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{FFFA}{FFEC}　　　Flurry{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0413",
    "jp": "{FB00}{FFFA}{FC00}{FB00}{FFEC}　　　舞{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{FFFA}{FC00}{FB00}{FFEC}　　　Dance{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0414",
    "jp": "普通{p}{FFF5}そしてウル",
-   "en": "",
-   "term": "end"
+   "en": "Normal{p}{FFF5}Now with teary eyes",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0415",
    "jp": "怒り{p}{FFF5}そしてウル",
-   "en": "",
-   "term": "end"
+   "en": "Angry{p}{FFF5}Now with teary eyes",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0416",
    "jp": "悲しい{p}{FFF5}そしてウル",
-   "en": "",
-   "term": "end"
+   "en": "Sad{p}{FFF5}Now with teary eyes",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0417",
    "jp": "特殊１（毒状態）{p}{FFF5}そしてウル",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 (poisoned){p}{FFF5}Now with teary eyes",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0418",
    "jp": "特殊２（毒状態になるとき）{p}{FFF5}そしてウル",
-   "en": "",
-   "term": "end"
+   "en": "Special 2 (when the poison takes effect){p}{FFF5}Now with teary eyes",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0419",
    "jp": "瀕死{p}{FFF5}そしてウル",
-   "en": "",
-   "term": "end"
+   "en": "Near death{p}{FFF5}Now with teary eyes",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0420",
    "jp": "特殊１－焦り",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- flustered",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0421",
    "jp": "瀕死－ライエルの顔１",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Lyell portrait 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0422",
    "jp": "悲しい－ライエル１の顔{n}目うるあり－{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- Lyell portrait 1. With teary eyes --{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0423",
    "jp": "瀕死－リーヴス１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Reeves portrait 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0424",
    "jp": "普通－善人状態",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- kindly persona",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0425",
    "jp": "怒り－本性発揮",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- true nature revealed",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0426",
    "jp": "特殊１－本性発揮",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- true nature revealed",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0427",
    "jp": "瀕死－善人",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- kindly persona",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0428",
    "jp": "ヴェンツェル２の普通{n}いわゆる黒ヴェンツェル",
-   "en": "",
-   "term": "end"
+   "en": "Wenzel 2, normal. Also known as Dark Wenzel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0429",
    "jp": "ヴェンツェル２の怒り{n}いわゆる黒ヴェンツェル",
-   "en": "",
-   "term": "end"
+   "en": "Wenzel 2, angry. Also known as Dark Wenzel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0430",
    "jp": "ヴェンツェル３の死{n}いわゆる黒ヴェンツェルの死",
-   "en": "",
-   "term": "end"
+   "en": "Wenzel 3, dead. Also known as Dark Wenzel's death.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0431",
    "jp": "ヴェンツェル３の怒り{n}いわゆる黒ヴェンツェル、怒りの死",
-   "en": "",
-   "term": "end"
+   "en": "Wenzel 3, angry. Also known as Dark Wenzel dying{n}in anger.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0432",
    "jp": "暴走状態",
-   "en": "",
-   "term": "end"
+   "en": "Berserk state",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0433",
    "jp": "暴走状態の死",
-   "en": "",
-   "term": "end"
+   "en": "Death in berserk state",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0434",
    "jp": "未完成だってば",
-   "en": "",
-   "term": "end"
+   "en": "I told you, it's unfinished!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0435",
    "jp": "瀕死－ゲヴェル１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Gevel 1's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0436",
    "jp": "瀕死－仮面騎士１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Masked Knight 1's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0437",
    "jp": "照れる－仮面騎士１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Embarrassed -- Masked Knight 1's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0438",
    "jp": "瀕死仮面騎士３の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Masked Knight 3's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0439",
    "jp": "照れる仮面騎士３の顔",
-   "en": "",
-   "term": "end"
+   "en": "Embarrassed -- Masked Knight 3's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0440",
    "jp": "瀕死－仮面騎士４の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Masked Knight 4's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0441",
    "jp": "特殊１－本性を出した",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- true nature revealed",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0442",
    "jp": "普通－半ニヤの死",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- death with a half-smirk",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0443",
    "jp": "普通－（溶け続ける）半ニヤの死",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- death with a half-smirk (keeps melting)",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0444",
    "jp": "瀕死－（溶け続ける）",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- (keeps melting)",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0445",
    "jp": "さらに無限ループしたい？",
-   "en": "",
-   "term": "end"
+   "en": "Want to keep looping forever?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0446",
@@ -2986,9 +3354,10 @@
   {
    "id": "scen018.0455",
    "jp": "・その他",
-   "en": "",
+   "en": "・Others",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0456",
@@ -3055,9 +3424,10 @@
   {
    "id": "scen018.0465",
    "jp": "・その他",
-   "en": "",
+   "en": "・Others",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0466",
@@ -3124,9 +3494,10 @@
   {
    "id": "scen018.0475",
    "jp": "・その他",
-   "en": "",
+   "en": "・Others",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0476",
@@ -3193,9 +3564,10 @@
   {
    "id": "scen018.0485",
    "jp": "・その他",
-   "en": "",
+   "en": "・Others",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0486",
@@ -3262,9 +3634,10 @@
   {
    "id": "scen018.0495",
    "jp": "・その他",
-   "en": "",
+   "en": "・Others",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0496",
@@ -3491,450 +3864,519 @@
   {
    "id": "scen018.0528",
    "jp": "変更するキャラを選択",
-   "en": "",
-   "term": "end"
+   "en": "Select the character to modify.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0529",
    "jp": "・{s:0000}",
-   "en": "",
+   "en": "・{s:0000}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0530",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0531",
    "jp": "・ウォレス",
-   "en": "",
+   "en": "・Wallace",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0532",
    "jp": "・アリオスト",
-   "en": "",
+   "en": "・Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0533",
    "jp": "・ゼノス",
-   "en": "",
+   "en": "・Xenos",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0534",
    "jp": "・エリオット",
-   "en": "",
+   "en": "・Elliot",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0535",
    "jp": "・ミーシャ",
-   "en": "",
+   "en": "・Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0536",
    "jp": "・カレン",
-   "en": "",
+   "en": "・Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0537",
    "jp": "・ジュリアン",
-   "en": "",
+   "en": "・Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0538",
    "jp": "先に変更数値を指定して～。上限下限に注意してね。",
-   "en": "",
-   "term": "end"
+   "en": "First, pick how much to change it by! Mind the limits.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0539",
    "jp": "・＋２５５",
-   "en": "",
+   "en": "・+255",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0540",
    "jp": "・＋１２７",
-   "en": "",
+   "en": "・+127",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0541",
    "jp": "・＋１００",
-   "en": "",
+   "en": "・+100",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0542",
    "jp": "・＋７５",
-   "en": "",
+   "en": "・+75",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0543",
    "jp": "・＋５０",
-   "en": "",
+   "en": "・+50",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0544",
    "jp": "・＋２５",
-   "en": "",
+   "en": "・+25",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0545",
    "jp": "・＋１５",
-   "en": "",
+   "en": "・+15",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0546",
    "jp": "・＋７",
-   "en": "",
+   "en": "・+7",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0547",
    "jp": "・－７",
-   "en": "",
+   "en": "・-7",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0548",
    "jp": "・－１５",
-   "en": "",
+   "en": "・-15",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0549",
    "jp": "・－２５",
-   "en": "",
+   "en": "・-25",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0550",
    "jp": "・－５０",
-   "en": "",
+   "en": "・-50",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0551",
    "jp": "・－７５",
-   "en": "",
+   "en": "・-75",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0552",
    "jp": "・－１００",
-   "en": "",
+   "en": "・-100",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0553",
    "jp": "・－１２７",
-   "en": "",
+   "en": "・-127",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0554",
    "jp": "・－２５５",
-   "en": "",
+   "en": "・-255",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0555",
    "jp": "{FFEB}、選択したいパラメータを選択",
-   "en": "",
-   "term": "end"
+   "en": "{FFEB}, select the parameter you want.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0556",
    "jp": "・経験値／変更可能値：０～６５５３５",
-   "en": "",
+   "en": "・Experience / Range: 0 to 65535",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0557",
    "jp": "・強さ／変更可能値：－１２７～＋１２７",
-   "en": "",
+   "en": "・Strength / Range: -127 to +127",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0558",
    "jp": "・守り／変更可能値：－１２７～＋１２７",
-   "en": "",
+   "en": "・Defense / Range: -127 to +127",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0559",
    "jp": "・知力／変更可能値：－１２７～＋１２７",
-   "en": "",
+   "en": "・Intelligence / Range: -127 to +127",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0560",
    "jp": "・体力／変更可能値：－１２７～＋１２７",
-   "en": "",
+   "en": "・Vitality / Range: -127 to +127",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0561",
    "jp": "・ＭＶ／変更可能値：－１２７～＋１２７",
-   "en": "",
+   "en": "・MV / Range: -127 to +127",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0562",
    "jp": "・攻撃速度／変更可能値：－１２７～＋１２７",
-   "en": "",
+   "en": "・Attack Speed / Range: -127 to +127",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0563",
    "jp": "・回避修正／変更可能値：－１２７～＋１２７",
-   "en": "",
+   "en": "・Evasion Modifier / Range: -127 to +127",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0564",
    "jp": "・修得ポイント／変更可能値：０～＋９",
-   "en": "",
+   "en": "・Learning Points / Range: 0 to +9",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen018.0565",
    "jp": "{FFEE}ゲームショー会場{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Game Show Venue{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0566",
    "jp": "うわぁ！{n}アンタ、ちょっと見なさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Whoa! Hey, you! Take a look!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0567",
    "jp": "こんなにいっぱいのお客さんなんて{FE14}‥{FE14}‥{FFFB}{n}{FC05}{FB00}ちょっと感動～{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Look at all these people{FE14}...{FE14}...{FFFB}{FC05}{FB00}I'm kinda touched{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0568",
    "jp": "それにしても、遅いわねぇ、ミーシャ‥‥‥。{FFFB}{n}{FC02}何やってんのかしら！？",
-   "en": "",
-   "term": "end"
+   "en": "Misha sure is taking her time...{FFFB}{FC02}What's she DOING?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0569",
    "jp": "ティピちゃん！{n}お兄さま～～！",
-   "en": "",
-   "term": "end"
+   "en": "Tippi-chan! Big Brotherrr!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0570",
    "jp": "お、お待たせしましたぁ[01BE]{n}ミーシャ、ただいま到着しました！",
-   "en": "",
-   "term": "end"
+   "en": "S-sorry to keep you waaaiting![01BE] Misha has arrived!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0571",
    "jp": "アンタ、大丈夫？{n}すっっごく、豪快にコケてたけど‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "You okay? That was one HECK of a fall...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0572",
    "jp": "{FB00}{FFF2}あ、あははは‥‥。{n}{FFF4}お恥ずかしいところをお見せしました[01BE]{p}{FC00}でも、アタシってばしょっちゅう転んでるから、{n}全然平気です！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{FFF2}Ah, ahahaha... {FFF4}How embarrassing! You saw that...[01BE]{p}{FC00}But I fall over all the time, so I'm perfectly fine!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0573",
    "jp": "{FFF3}{FB00}‥{FE14}‥{FE14}{FFF4}慣れって、怖いわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{FB00}...{FE14}...{FE14}{FFF4}Scary what you can get used to...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0574",
    "jp": "それにしても、今まで何してたのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Anyway, what were you doing all this time?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0575",
    "jp": "ちょっとお化粧直しを‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Just touching up my makeup...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0576",
    "jp": "‥{FE14}‥{FE14}{FC02}素材が良くなきゃ、{n}化粧したって変わらないわよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{FE14}...{FE14}{FC02}Makeup won't help if you haven't got the looks to{n}begin with.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0577",
    "jp": "がーーーーーん！",
-   "en": "",
-   "term": "end"
+   "en": "I'm crushed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0578",
    "jp": "もっとも、アタシのように、{n}綺麗で、可愛いけりゃ、{n}お化粧の必要なんてないけどねぇ～！",
-   "en": "",
-   "term": "end"
+   "en": "Of course, when you're as pretty and cute as I am, you{n}don't NEED makeup!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0579",
    "jp": "{FFF3}‥{FE14}‥{FE14}‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FE14}...{FE14}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0580",
    "jp": "あれ？{n}もっと悔しがると思ったのに、{n}なんだか余裕じゃない？",
-   "en": "",
-   "term": "end"
+   "en": "Huh? I thought that'd really get to you. You're{n}awfully calm!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0581",
    "jp": "{FFF3}‥‥フッフッフッ、わかる？{n}アタシのこの余裕が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...Heh heh heh. Can you tell? Just how cool and collected{n}I am...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0582",
    "jp": "何よ、何よ、何よ！{n}ちょっと、教えなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "What, what, WHAT?! Come on, tell me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0583",
    "jp": "ど～しよ～かなぁ～♪",
-   "en": "",
-   "term": "end"
+   "en": "Hmm, should I tell yooou?♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0584",
    "jp": "うぬぅ～！{n}ミーシャのいじわる～！",
-   "en": "",
-   "term": "end"
+   "en": "Grrr! Misha, you meanyyy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0585",
    "jp": "へへん★{n}ちょっと、仕返しです～！",
-   "en": "",
-   "term": "end"
+   "en": "Hehe! Just a little paybaaack!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0586",
    "jp": "で、いったいどうしたのよ？",
-   "en": "",
-   "term": "end"
+   "en": "So what on earth happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0587",
    "jp": "実はですね、{n}さっき控え室を出たところで{n}男の人とぶつかったんですけどぉ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Well, you see, I bumped into a man just as I was leaving{n}the dressing room...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0588",
    "jp": "{FB00}はぁ‥またぶつかったの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}Ugh... You bumped into someone AGAIN...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0589",
    "jp": "その時に、その方が優しくアタシの手を取って、{p}{FC02}{FFEE}やぁ、キュートなお嬢さん。{n}お怪我はありませんか？{FFF1}{FFFB}{n}{FC06}‥‥だって！",
-   "en": "",
-   "term": "end"
+   "en": "Then he gently took my hand and said...{p}{FC02}{FFEE}\"Hello there, lovely young lady. Are you hurt?\"{FFF1}{FFFB}{FC06}...Can{n}you believe it?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0590",
    "jp": "‥{FE14}‥{FE14}‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{FE14}...{FE14}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0591",
    "jp": "あ、でも、心配しないで下さいね★{n}アタシは、お兄さま一筋ですから！{p}{FC04}お兄さまも寡黙でカッコイイですけど、{n}時には言葉たくみに口説いて欲しいものなんですよ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Oh, but don't you worry! You're the only one for me,{n}Big Brother!{p}{FC04}You're handsome and quiet, Big Brother, but sometimes{n}a girl wants you to sweep her off her feet with sweet{n}words{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0592",
    "jp": "{FFF6}でも、お兄さまに口説かれたらどうしよう{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}But what would I do if you really did woo me, Big{n}Brother?{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0593",
    "jp": "‥‥また始まったよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...There she goes again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0594",
    "jp": "もう、アタシ、真っ赤になっちゃって{n}小さく　『{FFF0}うん♥{FFF1}』　って、うなずくの★{p}するとその仕草に、クラっときたお兄さまは、{n}アタシのこと、ぎゅーって抱きしめてくれて、{n}もう、とってもいいムード{FFF0}♥{FFF1}{p}そんなときに幕張の潮風をうけながら{n}夕陽なんか眺めちゃったりしたらもう！",
-   "en": "",
-   "term": "end"
+   "en": "I'd blush bright red, whisper '{FFF0}Yes♥{FFF1}', and nod!{p}And that little gesture would make Big Brother swoon!{n}He'd hold me sooo tight, and it'd be so romantic{FFF0}♥{FFF1}{p}Then, if we watched the sunset with Makuhari's sea{n}breeze blowing around us... Oh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0595",
    "jp": "{FFEC}ティピちゃん、きーっく{FC05}{FA01}！{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}Tippi-chan kiiick{FC05}{FA01}!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen018.0596",
    "jp": "{FB00}‥‥ま、こんな変な奴もいるけど、{n}アタシ達が活躍する、{n}　{FFEC}{FFEF}グローランサー{FFF1}{FFED}　をよろしくね！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}...Well, we've got a weirdo like her, but come see us in{n}action in {FFEC}{FFEF}Growlanser{FFF1}{FFED}!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

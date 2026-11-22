@@ -15,230 +15,268 @@
   {
    "id": "scen237.0001",
    "jp": "{FFEE}エリオットを救え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Save Elliot!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0002",
    "jp": "{v:002B}やめなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Stop it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0003",
    "jp": "{v:002C}どうしてこんな事するの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Why are you doing this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0004",
    "jp": "{v:002D}どんな事情か知らんが、見逃せんな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Don't know what this is about, but I can't let it slide.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0005",
    "jp": "{v:002F}やめるんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Stop!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0006",
    "jp": "{v:0030}やめて、兄さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Stop, Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0007",
    "jp": "{v:0031}邪魔をするな！{n}邪魔をすれば、たとえお前でも‥‥{n}斬る！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Stay out of my way! If you interfere, I'll cut you{n}down... even you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0008",
    "jp": "{v:0032}うぅっ‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Ugh...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0009",
    "jp": "{v:0033}バカ！{n}なにぼうっとしてんのよ！{n}死にたくなかったら戦いなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Idiot! What are you standing around for?! Fight if you{n}don't wanna die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0010",
    "jp": "{v:0034}僕も‥‥戦う？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}I have to... fight too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0011",
    "jp": "{v:0035}自分の身は自分で守るモンでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}You've gotta defend yourself, don't you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0012",
    "jp": "{v:0036}だけど、人を傷つけるなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}But hurting someone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0013",
    "jp": "{v:0037}いいから、やりなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Just do it already!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0014",
    "jp": "‥‥{v:0038}やっぱり‥ダメだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0038}I knew it... I can't do it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0015",
    "jp": "‥‥{v:0039}任務完了。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0039}Mission complete.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0016",
    "jp": "{v:003A}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}No...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0017",
    "jp": "そんな‥‥俺がしくじるなんて‥‥",
-   "en": "",
-   "term": "end"
+   "en": "No way... How could I screw this up...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0018",
    "jp": "つ‥‥強すぎる‥‥",
-   "en": "",
-   "term": "end"
+   "en": "T-too strong...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0019",
    "jp": "{v:004B}大丈夫か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}You all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0020",
    "jp": "{v:004C}はい。{n}助かりました‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Yes. You saved me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0021",
    "jp": "{v:0026}ツッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Tch!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0022",
    "jp": "！！",
-   "en": "",
-   "term": "end"
+   "en": "!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0023",
    "jp": "{v:0027}そんな‥兄さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}No... Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0024",
    "jp": "{v:0028}ゼノスさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Xenos-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0025",
    "jp": "{v:0029}チッ！{n}バレちまったか‥‥。{p}{v:002A}だがここまできて引き下がれるか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Tch! So you found me out...{p}{v:002A}But I've come too far to back down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0026",
    "jp": "{v:003B}チッ！{n}たった３人じゃ分が悪いぜ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Tch! With just three of us, the odds ain't good...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0027",
    "jp": "{v:003C}ちょっと！{n}どうしてこんな事するのよ！{n}まるで盗賊じゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Hey! Why are you doing this?! You're acting like a bandit!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0028",
    "jp": "{v:003D}俺だってな、なりたくてこうなったわけじゃねぇ！{p}{v:003E}元はといえば、お前らが悪いんだ！{n}お前らが俺の人生を狂わせた！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}You think I wanted to end up like this?!{p}{v:003E}This is all your fault! You're the ones who ruined{n}my life!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0029",
    "jp": "{v:003F}わたし達が‥‥？{n}何のこと‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}We did...? What do you mean...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0030",
    "jp": "{v:0040}ふん！{n}とぼけるなよ。{p}‥‥{v:0041}俺はな、知ってるんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Hmph! Don't play dumb.{p}...{v:0041}I know what you did.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0031",
    "jp": "‥‥{v:0041}俺はな、知ってるんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0041}I know what you did.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0032",
    "jp": "{v:0042}何をよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Know WHAT?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0033",
    "jp": "{v:0043}まだしらを切るのか？{n}ならば言ってやる！{p}{v:0044}あの闘技大会の時、俺の控え室に来たお前は、{n}俺の飲み水に毒を盛った！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Still playing innocent? Then I'll spell it out!{p}{v:0044}When you came to my waiting room at the{n}tournament, you poisoned my drinking water!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0034",
    "jp": "‥‥{v:0045}な‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0045}Wh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0035",
    "jp": "{v:0046}おかげで俺は大会で負け、{n}士官に取り立てられなかった！{n}お前は順調な昇進をしているようだな？{p}{v:0047}今やお前はこの国の英雄だ！{n}だが俺は‥‥くそっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Thanks to you, I lost the tournament and wasn't made{n}an officer! You've been moving up the ranks just fine,{n}haven't you?{p}{v:0047}Now you're this country's hero! But me... Damn it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0036",
    "jp": "{v:0049}待って！　兄さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Wait! Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0037",
    "jp": "{v:0048}あ、待ちなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Hey, wait!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen237.0038",
    "jp": "{v:004A}ゼノスさん‥‥どうして‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Xenos-san... Why...?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

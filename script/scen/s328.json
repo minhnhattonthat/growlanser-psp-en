@@ -15,26 +15,30 @@
   {
    "id": "scen328.0001",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen328.0002",
    "jp": "父親",
-   "en": "",
-   "term": "null"
+   "en": "Father",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen328.0003",
    "jp": "？？？",
-   "en": "",
-   "term": "null"
+   "en": "???",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen328.0004",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen328.0005",
@@ -93,14 +97,16 @@
   {
    "id": "scen328.0014",
    "jp": "‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "......",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen328.0015",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen328.0016",
@@ -204,8 +210,9 @@
   {
    "id": "scen328.0032",
    "jp": "なんと言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen328.0033",
@@ -459,8 +466,9 @@
   {
    "id": "scen328.0074",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen328.0075",
@@ -626,8 +634,9 @@
   {
    "id": "scen328.0101",
    "jp": "なんと言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen328.0102",

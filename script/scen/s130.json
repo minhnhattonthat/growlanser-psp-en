@@ -15,14 +15,16 @@
   {
    "id": "scen130.0001",
    "jp": "モンスターは逃げ出した！",
-   "en": "",
-   "term": "end"
+   "en": "The monster fled!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen130.0002",
    "jp": "　{n}　　　　　　　中は空っぽだった！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　It was empty inside!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen130.0003",
@@ -33,8 +35,9 @@
   {
    "id": "scen130.0004",
    "jp": "　{n}　　　　　　　お宝、ゲットだぜ！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　All right, got the treasure!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

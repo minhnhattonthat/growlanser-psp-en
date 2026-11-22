@@ -15,460 +15,534 @@
   {
    "id": "scen217.0001",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen217.0002",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen217.0003",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen217.0004",
    "jp": "盗賊",
-   "en": "",
-   "term": "null"
+   "en": "Bandit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen217.0005",
    "jp": "{FFEE}エリオットとレティシアを守れ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect Elliot and Leticia!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0006",
    "jp": "{v:0030}ぼ、僕はどうすれば良いのでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}W-what should I do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0007",
    "jp": "どう指示しますか？",
-   "en": "",
-   "term": "end"
+   "en": "What orders will you give?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0008",
    "jp": "・その場で防御させる",
-   "en": "",
+   "en": "・Defend where you are",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0009",
    "jp": "・敵を攻撃させる",
-   "en": "",
+   "en": "・Attack the enemy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0010",
    "jp": "・こちらへ来させる",
-   "en": "",
+   "en": "・Come over here",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0011",
    "jp": "・パーティーの誰かに追従させる",
-   "en": "",
+   "en": "・Follow a party member",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0012",
    "jp": "どこを通らせて、こちらへ来させますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which route should he take to reach you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0013",
    "jp": "・南へ向かう通路の左側",
-   "en": "",
+   "en": "・Left side of the path heading south",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0014",
    "jp": "・南へ向かう通路の右側",
-   "en": "",
+   "en": "・Right side of the path heading south",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0015",
    "jp": "・池の上にある通路",
-   "en": "",
+   "en": "・The path over the pond",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0016",
    "jp": "このルートで良いですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is this route all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0017",
    "jp": "誰の後を追従させますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who should he follow?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0018",
    "jp": "・{s:0000}",
-   "en": "",
+   "en": "・{s:0000}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0019",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0020",
    "jp": "・ウォレス",
-   "en": "",
+   "en": "・Wallace",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0021",
    "jp": "・ミーシャ",
-   "en": "",
+   "en": "・Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0022",
    "jp": "{s:0000}を追従させますか？",
-   "en": "",
-   "term": "end"
+   "en": "Have him follow {s:0000}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0023",
    "jp": "{v:0031}わかりました！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Understood!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0024",
    "jp": "{s:0000}さんは、いませんけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "But {s:0000} isn't here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0025",
    "jp": "ルイセを追従させますか？",
-   "en": "",
-   "term": "end"
+   "en": "Have him follow Luise?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0026",
    "jp": "ルイセさんは、いませんけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "But Luise-san isn't here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0027",
    "jp": "ウォレスを追従させますか？",
-   "en": "",
-   "term": "end"
+   "en": "Have him follow Wallace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0028",
    "jp": "ウォレスさんは、いませんけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "But Wallace-san isn't here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0029",
    "jp": "ミーシャを追従させますか？",
-   "en": "",
-   "term": "end"
+   "en": "Have him follow Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0030",
    "jp": "ミーシャさんは、いませんけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "But Misha-san isn't here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0031",
    "jp": "{v:002F}姫は下がっててね！{n}アタシたちが何とかするから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Stay back, Princess! We'll handle this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0032",
    "jp": "{v:001C}はい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0033",
    "jp": "{v:0032}やはり本物の姫だ‥‥。{n}奴らが連れ戻したのか‥‥。{p}{v:0033}となれば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}It really is the princess... So they brought her back...{p}{v:0033}In that case...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0034",
    "jp": "{v:0034}無事に帰れたと思っているようだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}You seem to think you've made it home safely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0035",
    "jp": "{v:0035}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0036",
    "jp": "‥‥{v:0036}まあ、死ぬ場所が変わっただけのことだ。{n}覚悟しろ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0036}Well, all you've changed is where you'll die. Prepare{n}yourselves.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0037",
    "jp": "{v:0008}もぉ～～！{n}ドジなんだからぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Ughhh! You're such a klutz!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0038",
    "jp": "{v:005B}お兄ちゃんごめんね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}I'm sorry, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0039",
    "jp": "{v:0016}すまん‥‥不覚をとった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Sorry... Let my guard down...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0040",
    "jp": "{v:007E}ふみぃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}Fwhee...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0041",
    "jp": "{v:0037}きゃああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0042",
    "jp": "{v:0038}ああっ！{n}そんな‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Ah! No...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0043",
    "jp": "{v:0039}うわぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Uwaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0044",
    "jp": "{v:003A}バカ、バカ！{n}何やってんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Idiot! Idiot! What are you doing?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0045",
    "jp": "いや～っ！",
-   "en": "",
-   "term": "end"
+   "en": "Nooo!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0046",
    "jp": "そ、そんなひどい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "H-how could you...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0047",
    "jp": "まだ死にたくない‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I don't want to die yet...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0048",
    "jp": "あぁ‥‥。{n}空が青い‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Ah... The sky is so blue...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0049",
    "jp": "ぼ、僕、もうダメ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I-I can't go on...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0050",
    "jp": "もっと遊びたかったよ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I wanted to play some more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0051",
    "jp": "うぅ‥‥。{n}寒いよ～‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Ooh... I'm so cold...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0052",
    "jp": "{v:003D}グッ！{n}やはり‥‥まぐれではなかったか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Guh! So... it wasn't a fluke after all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0053",
    "jp": "{v:003F}ああ、逃げられちゃう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Oh, he's getting away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0054",
    "jp": "{v:0040}ぐぅぅ‥‥。{n}なぜ勝てねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Grrgh... Why can't I win...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0055",
    "jp": "{v:0046}もう敵はいないよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}That's all the enemies, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0056",
    "jp": "{v:0047}ふぅっ、助かった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Whew... I'm safe...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0057",
    "jp": "{v:003C}行くぞ、卑怯者‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Here I come, coward...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0058",
    "jp": "{v:003B}なかなかやるな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}You're good...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0059",
    "jp": "{v:0048}行くぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Here I come!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0060",
    "jp": "‥‥{v:003E}後は任せるぞ‥‥。{n}絶対に任務は果たせ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003E}I'll leave the rest to you... Complete the mission, no{n}matter what...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0061",
    "jp": "{v:00A3}みなさんのおかげで、助かりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A3}You all saved my life.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0062",
    "jp": "{v:0041}これ以上失敗できねぇぞ‥‥。{FFF9}{FFFB}{n}{v:0042}野郎ども、絶対にそいつらを殺せ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}We can't afford to screw up again...{FFF9}{FFFB}{v:0042}Boys, make damn{n}sure you kill them!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0063",
    "jp": "{v:0043}へいっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Yeah, boss!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0064",
    "jp": "{v:0044}ええい、こんなことで命を捨てられるか！{n}金は返す！{n}この仕事はキャンセルだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Damn it! I'm not throwing my life away for this! I'll give{n}the money back! This job's off!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0065",
    "jp": "{v:0045}使えぬ男だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}What a useless man...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0066",
    "jp": "何で俺様がザコのように扱われるんだ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "How'd a big shot like me get treated like small fry...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0067",
    "jp": "し、死ぬ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I-I'm dying...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0068",
    "jp": "ちくしょう！",
-   "en": "",
-   "term": "end"
+   "en": "Damn it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0069",
    "jp": "い、いてぇ～！{n}た、助けてくれ～！",
-   "en": "",
-   "term": "end"
+   "en": "O-owww! H-help me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0070",
    "jp": "な、何か俺、かっこわるい‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I-I must look pretty pathetic...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0071",
    "jp": "どう指示しますか？",
-   "en": "",
-   "term": "end"
+   "en": "What orders will you give?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen217.0072",
    "jp": "・敵を攻撃させる",
-   "en": "",
+   "en": "・Attack the enemy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0073",
    "jp": "・パーティーの誰かに追従させる",
-   "en": "",
+   "en": "・Follow a party member",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen217.0074",
    "jp": "・その場で防御させる",
-   "en": "",
+   "en": "・Defend where you are",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   }
  ]
 }

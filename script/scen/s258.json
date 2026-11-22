@@ -15,809 +15,943 @@
   {
    "id": "scen258.0001",
    "jp": "{v:0005}ここの床の色も変わってる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}The floor here is a different color too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0002",
    "jp": "{v:0006}ということは、重力を制御するものが{n}どこかにあるはずじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Then there must be something controlling gravity{n}somewhere about here, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0003",
    "jp": "{v:0007}う～んと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Hmm, let's see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0004",
    "jp": "{v:0008}あ、あった！{n}アレだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Oh, found it! There it is!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0005",
    "jp": "{v:0009}送魔線張りひとすじ４０年。最後の仕事じゃ！{n}行くぞ、若者たちよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Forty years devoted to laying mana lines. This is my{n}last job! Come along, you youngsters!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0006",
    "jp": "{FFEE}送魔線技師を守りながら戦え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Fight while protecting the Mana Line Engineer!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0007",
    "jp": "{v:0033}入ってきたのがあそこだから、{n}指向性を、こう変えて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}We came in over there, so if I adjust the direction{n}like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0008",
    "jp": "{v:0034}お、やっと魔力の反応があったぞ！{n}あと一息じゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Ah, finally a magical response! Just a little more now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0009",
    "jp": "{v:0036}どうじゃ、やったぞ！{p}{v:0037}さぁ、遠慮なく化け物を倒してくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}How's that? I did it!{p}{v:0037}Now, go and finish off those monsters!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0010",
    "jp": "{v:0038}さんきゅ～！{n}おじちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Thaaanks, mister!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0011",
    "jp": "それじゃ、わしゃ、先に帰るぞ。{n}フェザリアンにでも送ってもらうわい。",
-   "en": "",
-   "term": "end"
+   "en": "Well then, this old fellow will head back first. I'll get a{n}Featherian to take me, or some such.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0012",
    "jp": "{v:000A}ねぇ、ねぇ、なんだかこっちに向かってきてる{n}気がするんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Hey, hey! Is it just me, or are they coming this way...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0013",
    "jp": "{v:000B}ねぇ‥。{n}このゲヴェルもどき、こっちに来るみたいなんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Um... That creature that looks like Gevel seems to be{n}coming this way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0014",
    "jp": "{v:000C}ん？{n}奴ら、俺を狙ってるのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Hm? Are those things after me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0015",
    "jp": "{v:000E}あのモンスター、アタシを狙ってるような‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}That monster seems to have its eye on me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0016",
    "jp": "{v:000D}モンスターが僕を狙っているような気がするが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}I have a feeling that monster is targeting me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0017",
    "jp": "{v:000F}なんだか、モンスターが{n}私を狙っているような気がします‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Somehow, I get the feeling that monster is after me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0018",
    "jp": "{v:0010}何だ？{n}化け物が俺に向かってるようだが‥‥。{p}{v:0011}気のせいか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}What? That monster looks like it's heading for me...{p}{v:0011}Or am I imagining it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0019",
    "jp": "{v:0012}気のせいかも知れませんが、{n}モンスターが僕のところへ来るみたいに{n}思えるんですけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}I might be imagining things, but it looks as though that{n}monster is coming toward me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0020",
    "jp": "{v:0013}化け物が私の方に来るように思えるのだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}That monster appears to be approaching me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0021",
    "jp": "{v:0014}アタシ達との違いは‥‥。{p}{FC02}{v:0015}やっぱり、あの匂い袋のせいだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}What makes them different from the rest of us...?{p}{FC02}{v:0015}I knew it! It's that scent pouch!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0022",
    "jp": "{v:0016}やっぱりあの匂い袋を持っている奴を狙ってるのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}So they really are after whoever's carrying that{n}scent pouch?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0023",
    "jp": "{v:0017}だったら、匂い袋を受け渡しすれば、{n}上手くモンスターを誘導できるんじゃない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Then couldn't we lead the monsters around by passing{n}the scent pouch back and forth?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0024",
    "jp": "{v:0018}その作戦は使えるかもな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}That plan might work.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0025",
    "jp": "重力障壁操作パネルがある。{n}どこに合わせますか？",
-   "en": "",
-   "term": "end"
+   "en": "There is a gravity barrier control panel. Which setting{n}will you choose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0026",
    "jp": "・ＯＮ　＋",
-   "en": "",
+   "en": "・ON +",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen258.0027",
    "jp": "・ＯＮ　×",
-   "en": "",
+   "en": "・ON x",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen258.0028",
    "jp": "・ＯＦＦ",
-   "en": "",
+   "en": "・OFF",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen258.0029",
    "jp": "{s:0000}からルイセに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from {s:0000}{n}to Luise?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0030",
    "jp": "ルイセから{s:0000}に{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Luise to{n}{s:0000}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0031",
    "jp": "{s:0000}からウォレスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from {s:0000}{n}to Wallace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0032",
    "jp": "ウォレスから{s:0000}に{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Wallace to{n}{s:0000}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0033",
    "jp": "{s:0000}からミーシャに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from {s:0000}{n}to Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0034",
    "jp": "ミーシャから{s:0000}に{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Misha to{n}{s:0000}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0035",
    "jp": "{s:0000}からアリオストに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from {s:0000}{n}to Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0036",
    "jp": "アリオストから{s:0000}に{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Ariost to{n}{s:0000}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0037",
    "jp": "{s:0000}からカレンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from {s:0000}{n}to Karen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0038",
    "jp": "カレンから{s:0000}に{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Karen to{n}{s:0000}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0039",
    "jp": "{s:0000}からゼノスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from {s:0000}{n}to Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0040",
    "jp": "ゼノスから{s:0000}に{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Xenos to{n}{s:0000}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0041",
    "jp": "{s:0000}からエリオットに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from {s:0000}{n}to Elliot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0042",
    "jp": "エリオットから{s:0000}に{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Elliot to{n}{s:0000}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0043",
    "jp": "{s:0000}からジュリアンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from {s:0000}{n}to Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0044",
    "jp": "ジュリアンから{s:0000}に{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Julian to{n}{s:0000}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0045",
    "jp": "ルイセからウォレスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Luise to Wallace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0046",
    "jp": "ウォレスからルイセに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Wallace to Luise?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0047",
    "jp": "ルイセからミーシャに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Luise to Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0048",
    "jp": "ミーシャからルイセに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Misha to Luise?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0049",
    "jp": "ルイセからアリオストに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Luise to Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0050",
    "jp": "アリオストからルイセに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Ariost to Luise?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0051",
    "jp": "ルイセからカレンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Luise to Karen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0052",
    "jp": "カレンからルイセに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Karen to Luise?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0053",
    "jp": "ルイセからゼノスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Luise to Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0054",
    "jp": "ゼノスからルイセに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Xenos to Luise?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0055",
    "jp": "ルイセからエリオットに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Luise to Elliot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0056",
    "jp": "エリオットからルイセに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Elliot to Luise?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0057",
    "jp": "ルイセからジュリアンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Luise to Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0058",
    "jp": "ジュリアンからルイセに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Julian to Luise?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0059",
    "jp": "ウォレスからミーシャに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Wallace to Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0060",
    "jp": "ミーシャからウォレスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Misha to Wallace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0061",
    "jp": "ウォレスからアリオストに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Wallace to Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0062",
    "jp": "アリオストからウォレスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Ariost to Wallace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0063",
    "jp": "ウォレスからカレンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Wallace to Karen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0064",
    "jp": "カレンからウォレスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Karen to Wallace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0065",
    "jp": "ウォレスからゼノスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Wallace to Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0066",
    "jp": "ゼノスからウォレスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Xenos to Wallace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0067",
    "jp": "ウォレスからエリオットに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Wallace to Elliot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0068",
    "jp": "エリオットからウォレスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Elliot to Wallace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0069",
    "jp": "ウォレスからジュリアンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Wallace to Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0070",
    "jp": "ジュリアンからウォレスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Julian to Wallace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0071",
    "jp": "ミーシャからアリオストに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Misha to Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0072",
    "jp": "アリオストからミーシャに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Ariost to Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0073",
    "jp": "ミーシャからカレンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Misha to Karen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0074",
    "jp": "カレンからミーシャに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Karen to Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0075",
    "jp": "ミーシャからゼノスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Misha to Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0076",
    "jp": "ゼノスからミーシャに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Xenos to Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0077",
    "jp": "ミーシャからエリオットに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Misha to Elliot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0078",
    "jp": "エリオットからミーシャに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Elliot to Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0079",
    "jp": "ミーシャからジュリアンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Misha to Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0080",
    "jp": "ジュリアンからミーシャに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Julian to Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0081",
    "jp": "アリオストからカレンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Ariost to Karen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0082",
    "jp": "カレンからアリオストに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Karen to Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0083",
    "jp": "アリオストからゼノスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Ariost to Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0084",
    "jp": "ゼノスからアリオストに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Xenos to Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0085",
    "jp": "アリオストからエリオットに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Ariost to Elliot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0086",
    "jp": "エリオットからアリオストに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Elliot to Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0087",
    "jp": "アリオストからジュリアンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Ariost to Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0088",
    "jp": "ジュリアンからアリオストに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Julian to Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0089",
    "jp": "カレンからゼノスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Karen to Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0090",
    "jp": "ゼノスからカレンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Xenos to Karen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0091",
    "jp": "カレンからエリオットに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Karen to Elliot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0092",
    "jp": "エリオットからカレンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Elliot to Karen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0093",
    "jp": "カレンからジュリアンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Karen to Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0094",
    "jp": "ジュリアンからカレンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Julian to Karen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0095",
    "jp": "ゼノスからエリオットに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Xenos to Elliot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0096",
    "jp": "エリオットからゼノスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Elliot to Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0097",
    "jp": "ゼノスからジュリアンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Xenos to Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0098",
    "jp": "ジュリアンからゼノスに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Julian to Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0099",
    "jp": "エリオットからジュリアンに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Elliot to Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0100",
    "jp": "ジュリアンからエリオットに{n}匂い袋を渡しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Pass the scent pouch from Julian to Elliot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0101",
    "jp": "{v:002B}さて、ここに立てるとするか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Well now, I'll set it up here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0102",
    "jp": "‥‥{v:002C}ん？{n}反応がない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002C}Hm? No response...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0103",
    "jp": "{v:002D}どうしたんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}What's the matter?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0104",
    "jp": "{v:002E}どうしたんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}What's the matter?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0105",
    "jp": "{v:002F}うむ、ここまで魔力を送信することが出来んようじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Hmm, seems the magical power can't be transmitted{n}this far.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0106",
    "jp": "{v:0030}えぇっ！？{n}ど、どうすんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Whaaat?! Wh-what are we supposed to do?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0107",
    "jp": "{v:0031}調整しなければダメじゃな。{n}もう少し待ってくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}I'll have to make some adjustments, then. Give me a{n}little more time!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0108",
    "jp": "{v:0032}頼むぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}We're counting on you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0109",
    "jp": "{v:0040}やれやれ、やっとたどり着いたわい。{p}{v:0041}ワシはこれで帰らせてもらう。{n}後はお前さんたち次第じゃ！{p}{v:0042}がんばってくれよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Whew, finally made it, eh?{p}{v:0041}I'll be heading back now. The rest is up to{n}you youngsters!{p}{v:0042}Give it your best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0110",
    "jp": "{v:0043}ありがとね、おじちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Thanks, mister!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0111",
    "jp": "{v:0044}人生で一番の思い出になったわい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Ah, this'll be the finest memory of my life.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0112",
    "jp": "{v:0019}これ、お願い！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Here, take this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0113",
    "jp": "{v:001A}これ、お願い！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Here, take this, please!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0114",
    "jp": "{v:001B}これを頼む！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Take care of this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0115",
    "jp": "{v:001C}受け取ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Take this, would you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0116",
    "jp": "{v:001D}これ、貰って！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Here, take it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0117",
    "jp": "{v:001E}すみません、お願いします！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}I'm sorry, but please take this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0118",
    "jp": "{v:001F}こいつを頼む！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Handle this for me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0119",
    "jp": "{v:0020}これ、頼みます！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Please take this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0120",
    "jp": "{v:0021}これを頼む！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}I entrust this to you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0121",
    "jp": "{v:0022}は～い。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Okaaay.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0122",
    "jp": "{v:0023}うん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Okay.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0123",
    "jp": "{v:0024}任せろ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Leave it to me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0124",
    "jp": "{v:0025}任せてくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}You can count on me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0125",
    "jp": "{v:0026}え～、アタシぃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Aww, me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0126",
    "jp": "{v:0027}わ、わかりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}O-of course.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0127",
    "jp": "{v:0028}しょうがねぇな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Guess I've got no choice.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0128",
    "jp": "{v:0029}わ、わかりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}A-all right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0129",
    "jp": "{v:002A}承知した！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Understood!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0130",
    "jp": "{v:003A}うおぉっ！{p}{v:003B}ワ、ワシがやらねば‥‥誰が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Uwaaagh!{p}{v:003B}I-if this old man doesn't do it... who will...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0131",
    "jp": "{v:003C}うぐぐ‥‥。{p}{v:003D}最後に人助けが出来て‥‥本望じゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Urgh...{p}{v:003D}To help someone at the very end... I can die content...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0132",
    "jp": "{v:003E}ごめんね‥‥。{n}アタシたちが、もっとしっかりしていれば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}I'm sorry... If only we'd done a better job...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0133",
    "jp": "{v:003F}じいさんの死は無駄にしないぜ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}We won't let the old man die for nothing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen258.0134",
    "jp": "‥‥{v:0035}これでいいはずじゃ。{n}スイッチ、オン！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0035}That should do it, then. Switching it on!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

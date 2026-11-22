@@ -15,301 +15,350 @@
   {
    "id": "scen256.0001",
    "jp": "{v:008E}無駄だ、無駄、無駄！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008E}Useless, useless, useless!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0002",
    "jp": "{v:0033}復活したぁ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}It came back?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0003",
    "jp": "{v:0034}ここが我が体内であることを忘れるなよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Do not forget that you are inside my body!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0004",
    "jp": "{v:0035}このままじゃキリがねぇな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}At this rate, we'll never get anywhere...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0005",
    "jp": "{v:0036}手っ取り早く、本体を叩いた方がいいかもな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Might be quicker to go straight for the main body!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0006",
    "jp": "{v:0037}ならば本体を集中攻撃するか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Then shall we concentrate our attacks on the{n}main body?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0007",
    "jp": "{v:0038}木の葉を積んでも時間がかかる。{n}ならば幹を倒せばいいさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Plucking leaves takes time. Better to cut down{n}the trunk.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0008",
    "jp": "{v:0039}我を倒すことに何の迷いもないようだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}You seem to have no qualms about killing me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0009",
    "jp": "{v:003A}何を言ってんのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}What are you talking about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0010",
    "jp": "{v:003B}ここに１人、我と命を共有する者がいる‥‥。{n}誰だかわかるか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}One among you shares my life... Can you guess who?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0011",
    "jp": "{v:003C}ま、まさか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Y-You can't mean...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0012",
    "jp": "{v:003D}ま、まさか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Y-You can't mean...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0013",
    "jp": "{v:003A}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}No...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0014",
    "jp": "{v:003E}考えていなかったのか？{n}我が私兵は、すべからく我が能力の{n}波動を受けて生きている。{p}{v:003F}我を倒すということは、命の供給源を絶つことだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Had you not considered it? Every soldier in my private{n}army lives by receiving waves of my power.{p}{v:003F}To kill me is to cut off their source of life!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0015",
    "jp": "{v:0040}う、ウソよ、そんなの！{n}脅しに決まってるわ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Th-That's a lie! You're just trying to scare us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0016",
    "jp": "{v:0041}そうかな？{n}そいつは我に操られたことがなかったか？{p}{v:0042}我が声や、他の私兵の声を聞いたことがなかったか？{p}{v:0043}それが我と精神的なつながりがあるという{n}証拠だと思わんか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Is that so? Has he never fallen under my control?{p}{v:0042}Has he never heard my voice, or the voices of my{n}other soldiers?{p}{v:0043}Do you not think that proves his mind is linked to mine?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0017",
    "jp": "{v:0044}それがお兄ちゃんの夢になって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}And that's what Big Brother saw in his dreams...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0018",
    "jp": "{v:0045}それだけではない。{n}我を倒した後、この迷宮も無事で済むかは、{n}我にもわからん。{p}{v:0046}貴様たちが生きて出られる保証はないのだ！{n}それでも我を倒せるか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}That is not all. Even I do not know whether this{n}labyrinth will survive my death.{p}{v:0046}There is no guarantee you will escape alive! Will you{n}still kill me?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0019",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0020",
    "jp": "・何のためらいもない",
-   "en": "",
+   "en": "・I have no hesitation",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen256.0021",
    "jp": "・人々を助けるために仕方ない",
-   "en": "",
+   "en": "・I must, to save everyone",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen256.0022",
    "jp": "・他に方法がない",
-   "en": "",
+   "en": "・There is no other way",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen256.0023",
    "jp": "・死にたくはない",
-   "en": "",
+   "en": "・I don't want to die",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen256.0024",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen256.0025",
    "jp": "{v:0047}お兄さま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0026",
    "jp": "‥‥{v:0048}コイツが覚悟を決めてるんなら、{n}俺たちにだって迷いはねぇよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0048}If he's made up his mind, we ain't hesitating either.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0027",
    "jp": "{FFF5}{v:0049}お兄ちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0049}Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0028",
    "jp": "{v:004A}そうよ！{n}アタシ達は一心同体だからね！{n}死ぬも生きるも一緒なんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}That's right! We're all in this together! Whether we live{n}or die, we're sticking together!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0029",
    "jp": "{v:004B}つらいかも知れねぇが、{n}それしかねぇんだよな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}It might be hard, but it's the only way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0030",
    "jp": "{v:004C}今は個人よりも、全体を考えるときか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Now is the time to think of everyone, rather{n}than ourselves...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0031",
    "jp": "‥‥{v:004D}僕でも同じ事を答えただろうね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004D}I would have given the same answer.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0032",
    "jp": "{v:004E}たしかにこのまま地下で、死ぬかも知れねぇ。{n}だがな！　たとえそうだとしても、{n}貴様を生かしちゃおけねぇんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Sure, we might die down here. But listen! Even if we do,{n}there's no way we're letting you live!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0033",
    "jp": "{v:004F}そうよ！{n}みんなの幸せのためなら、{n}どんな覚悟だって出来てるんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}That's right! If it means everyone can be happy, we're{n}ready for anything!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0034",
    "jp": "{v:0050}死にたい人なんて、どこにもいませんよ。{n}だけど僕たちには、{n}命を懸けてでも守りたいものがある！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}No one wants to die. But we have things we want to{n}protect, even at the cost of our lives!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0035",
    "jp": "{v:0051}自分たちが犠牲になっても、多くの人が救われるなら、{n}何のためらいがありましょうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}If our sacrifice can save so many people, what reason{n}is there to hesitate?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0036",
    "jp": "{v:0052}多くを救うために、少数が犠牲になる。{n}‥‥何だか、フェザリアンの考えが少しだけ{n}分かった気がしますね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}The few sacrifice themselves to save the many... I{n}feel as though I understand the Featherian way of{n}thinking a little better now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0037",
    "jp": "{v:0053}ま、そう言うことだ。{n}他に方法がない以上、俺たちはためらわねぇぜ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Well, there you have it. As long as there's no other{n}way, we ain't hesitating.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0038",
    "jp": "{v:0054}当たり前じゃない！{n}誰が好きこのんで死にたがるのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Of course not! Who would WANT to die?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0039",
    "jp": "{v:0055}それでもここへ来た、{n}わたしたちの気持ちが分かりますか？{p}{v:0056}みんな、世界中の人たちを救いたいんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Can you understand why we came here despite that?{p}{v:0056}We all want to save the people of this world.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0040",
    "jp": "{v:0057}答えられるわけねぇよな。{n}だけどここへ来た時点で、答えは出ているんだぜ？{p}{FC02}{v:0058}お前を倒して、この世界の人たちを救うんだってな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Can't blame you for not answering. But we gave our{n}answer the moment we came here, didn't we?{p}{FC02}{v:0058}We're gonna defeat you and save the people of{n}this world!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0041",
    "jp": "{v:0059}そうよ！{n}アタシ達が死ぬ時は、アンタが死ぬ時よ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}That's right! If we die, you're dying with us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0042",
    "jp": "{v:005A}ええい、虫酸が走るわ！{n}ならば望み通り殺してやる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Bah! You sicken me! Then I shall kill you, as you wish!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0043",
    "jp": "{v:005B}えぇい！{n}しぶとい奴らだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Curse you! Why will you not die?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0044",
    "jp": "{v:005C}今度は何！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}What now?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0045",
    "jp": "{v:005D}忌々しいグローシアンめ！{n}あの時を思い出すわ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Accursed Growsian! You remind me of that time!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0046",
    "jp": "{v:005E}あの時？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}That time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0047",
    "jp": "{v:005F}我を水晶に封じたあの時！{n}あの時も５人のグローシアンが、{n}自らの命を水晶にして我を封じた！{p}{v:0060}周囲の水晶からは、我を苦しめるグローシュの波動！{n}あの身動きできぬ水晶の中で、{n}永遠とも思われる時を１人過ごした。{p}{v:0061}もう二度とあの中には戻らぬ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}When I was sealed in crystal! Five Growsians turned{n}their own lives into crystals to seal me away!{p}{v:0060}Waves of Grosh from the surrounding crystals{n}tormented me! Trapped motionless within that crystal,{n}I spent what felt like an eternity alone.{p}{v:0061}Never again will I return there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0048",
    "jp": "{v:0062}まさか‥まさか‥お前たちごときに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}Impossible... Impossible... To the likes of you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen256.0049",
    "jp": "{v:0063}ぐわあぁぁぁぁぁ‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}Gwaaaaaaah...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

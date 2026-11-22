@@ -15,50 +15,58 @@
   {
    "id": "scen169.0001",
    "jp": "鉱夫",
-   "en": "",
-   "term": "null"
+   "en": "Miner",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen169.0002",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen169.0003",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen169.0004",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen169.0005",
    "jp": "さすらいの拳法家",
-   "en": "",
-   "term": "null"
+   "en": "Wandering Martial Artist",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen169.0006",
    "jp": "素敵なパパ",
-   "en": "",
-   "term": "null"
+   "en": "Wonderful Dad",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen169.0007",
    "jp": "アダル",
-   "en": "",
-   "term": "null"
+   "en": "Adal",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen169.0008",
    "jp": "？？？",
-   "en": "",
-   "term": "null"
+   "en": "???",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen169.0009",
@@ -69,8 +77,9 @@
   {
    "id": "scen169.0010",
    "jp": "鉱山街ヴァルミエ",
-   "en": "",
-   "term": "end"
+   "en": "Valmier Mining Town",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0011",
@@ -159,20 +168,23 @@
   {
    "id": "scen169.0025",
    "jp": "{v:000D}ここは関係者以外立入禁止だ。{n}許可のない者を通すことは出来ない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}This area is off limits to unauthorized personnel. I{n}cannot let you through without permission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0026",
    "jp": "{v:000E}失礼しました！{n}どうぞ、お通り下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}My apologies! Please, go right through!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0027",
    "jp": "{v:000F}お疲れさまです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Thank you for your service.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0028",
@@ -183,8 +195,9 @@
   {
    "id": "scen169.0029",
    "jp": "生まれたときからこの街に住んでいるが、{n}この雰囲気は全然変わらないなぁ。{n}時代から取り残されているみたいだ。{p}もっとも水晶が見つかる前は、{n}この辺りには誰も住んでいなかったらしいがな。",
-   "en": "",
-   "term": "end"
+   "en": "I've lived in this town since I was born, and it hasn't{n}changed a bit. Feels like time's passed us by.{p}Mind you, they say nobody lived around here before{n}they found the crystals.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0030",
@@ -201,8 +214,9 @@
   {
    "id": "scen169.0032",
    "jp": "こんなに大きな水晶鉱山は{n}ここヴァルミエだけだからな。{p}裏で色々ともうけようとする奴がいても{n}不思議じゃない。",
-   "en": "",
-   "term": "end"
+   "en": "You won't find a crystal mine this big anywhere{n}but Valmier.{p}Wouldn't surprise me if someone was trying to make a{n}little money on the sly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0033",
@@ -249,8 +263,9 @@
   {
    "id": "scen169.0040",
    "jp": "最近、あのゴツイ人をみないなぁ。{n}ハゲで、眼帯をしてる奴なんだよ。{p}あんた達が盗掘者を倒すちょっと前までは、{n}結構頻繁に来ていたんだけどね。",
-   "en": "",
-   "term": "end"
+   "en": "Haven't seen that burly fellow lately. Bald, wears{n}an eyepatch.{p}He used to come around pretty often, right up until{n}shortly before you beat those tomb robbers.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0041",
@@ -261,14 +276,16 @@
   {
    "id": "scen169.0042",
    "jp": "もう２０年ほど前になるかな。{n}ここを警護してくれていた傭兵団があったんだ。{p}その団長さんってのが、いい人でねぇ。{n}名前は‥{FE1E}‥{FE1E}忘れてしまったがね[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Must be about twenty years ago now. There was a{n}mercenary band that guarded this place.{p}Their captain was a good man. His name was...{FE1E}...{FE1E}I've{n}forgotten it, though...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0043",
    "jp": "鍵がかかっているようだ。",
-   "en": "",
-   "term": "end"
+   "en": "It seems to be locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0044",
@@ -285,262 +302,304 @@
   {
    "id": "scen169.0046",
    "jp": "{v:0026}ようお出でなさった。{n}ここでは、いろんな装備品を扱っておるんじゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Welcome, welcome. We carry all sorts of equipment{n}here, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0047",
    "jp": "{v:0028}それで何のご用かのぉ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Now then, what can I do for you, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0048",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen169.0049",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen169.0050",
    "jp": "他にも用はあるかのぉ？",
-   "en": "",
-   "term": "end"
+   "en": "Anything else you need, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0051",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen169.0052",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen169.0053",
    "jp": "{v:0031}また来ておくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Do come again, won't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0054",
    "jp": "お待ちなされ！{n}客室に行かれるなら、{n}お金を払ってからにして下され！",
-   "en": "",
-   "term": "end"
+   "en": "Hold on there! If you're going up to the guest rooms,{n}kindly pay first!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0055",
    "jp": "あっ！{n}お兄ちゃんだ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh! It's Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0056",
    "jp": "おじいちゃん、パパ、ママ！{n}この人だよ！{n}いろいろアタシにしてくれた人！",
-   "en": "",
-   "term": "end"
+   "en": "Grandpa! Dad! Mom! It's him! He's the one who did all{n}those things for me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0057",
    "jp": "おお、この方々か。{n}お前に良くしてくれたのは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, so these are the people who were so kind to you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0058",
    "jp": "まぁ、娘に良くして頂いて‥‥。{n}どうお礼をすれば良いのやら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, you've been so kind to our daughter... How can we{n}ever thank you...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0059",
    "jp": "わしらは商人じゃ。{n}だから、できるだけお安くご利用いただけるように{n}しようではないか？",
-   "en": "",
-   "term": "end"
+   "en": "Well, we're merchants, after all. Why don't we give them{n}the best prices we can, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0060",
    "jp": "そうですわね。{n}そうしましょう。",
-   "en": "",
-   "term": "end"
+   "en": "Why, yes, you're right. Let's do just that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0061",
    "jp": "パパ！{n}あれは、あれ！",
-   "en": "",
-   "term": "end"
+   "en": "Dad! What about that thing? You know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0062",
    "jp": "うむ。{n}わかっておる。",
-   "en": "",
-   "term": "end"
+   "en": "Yes. I know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0063",
    "jp": "瞳の色が異なる不思議な少年よ。{n}君に授けたいものがある。{n}私が旅の間に修得したものだ。",
-   "en": "",
-   "term": "end"
+   "en": "Mysterious boy with eyes of different colors, there is{n}something I wish to pass on to you. Something I{n}learned during my travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0064",
    "jp": "{s:0000}は‥‥{n}ＡＴが５アップした！{n}ＤＦが５アップした！{n}ＳＴＲが５アップした！{n}ＩＮＴが５アップした！{n}ＭＶが５アップした！",
-   "en": "",
-   "term": "end"
+   "en": "{s:0000}...{n}AT increased by 5!{n}DF increased by 5!{p}STR increased by 5!{n}INT increased by 5!{n}MV increased by 5!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0065",
    "jp": "　{n}{FFEF}{s:0000}は弓が扱えるようになった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}{FFEF}{s:0000} can now use bows!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0066",
    "jp": "　{n}{FFEF}{s:0000}は槍が扱えるようになった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}{FFEF}{s:0000} can now use spears!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0067",
    "jp": "私が君に教えられるのは、それだけだ。{p}娘のことはありがとう。{n}君のおかげで、治療薬を探して各地を{n}さすらう必要がなくなった。{p}そしてこれからの私は、娘のため{n}よき父親として生きることにしたよ。",
-   "en": "",
-   "term": "end"
+   "en": "That is all I can teach you.{p}Thank you for helping my daughter. Thanks to you, I no{n}longer need to wander from place to place in search of{n}a cure.{p}From now on, I have decided to devote myself to being{n}a good father to her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0068",
    "jp": "改名完了！",
-   "en": "",
-   "term": "end"
+   "en": "Name change complete!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0069",
    "jp": "というわけだ。{n}君たちや娘のおかげで、私も妻も目がさめたよ。{n}本当にありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "And there you have it. You and our daughter have{n}opened my eyes, and my wife's as well. Thank{n}you, truly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0070",
    "jp": "１泊、{FFEB}エルムになりますが、よろしいかな？",
-   "en": "",
-   "term": "end"
+   "en": "A night's stay will cost {FFEB} Elm. Will that suit you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0071",
    "jp": "いい夢は見られましたかな？{n}また来て下され。",
-   "en": "",
-   "term": "end"
+   "en": "Pleasant dreams, I hope? Do come again, won't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0072",
    "jp": "お客さん‥‥[01BE]{n}お金が足りませぬ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "My dear guest...[01BE] I'm afraid you haven't{n}enough money...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0073",
    "jp": "また来て下され！",
-   "en": "",
-   "term": "end"
+   "en": "Do come again, won't you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0074",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0075",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0076",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen169.0077",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen169.0078",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0079",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen169.0080",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen169.0081",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0082",
    "jp": "親というのは、子から学ぶことも多いのだな。",
-   "en": "",
-   "term": "end"
+   "en": "It seems parents have much to learn from their{n}children, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0083",
    "jp": "パパとママがケンカしなくなるように{n}いろいろと、がんばったんだ～。{p}そしたら前みたいに、{n}とっても仲良しになったの。{n}アタシ、すごくうれしいよ～♪",
-   "en": "",
-   "term": "end"
+   "en": "I tried all sorts of things to make Dad and Mom{n}stop fighting!{p}And now they get along really well, just like before. I'm{n}so happyyy♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0084",
    "jp": "はぁ‥‥。{n}僕の才能を認めてくれる人はいないかなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "*sigh*... Isn't there anyone who'll recognize{n}my talent...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0085",
    "jp": "僕は本当は彫刻家なんだ！{n}魔水晶で像を造れたらって、軽い気持ちでここへ来て、{n}気がついたら鉱夫の一人になってたんだ。{p}だけどこんな事じゃダメなんだよ！{n}このままじゃ、僕の才能はくさってしまう！{n}せめて個展でも開ければ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm actually a sculptor! I came here on a whim, thinking I{n}could make statues out of magic crystal. Before I knew{n}it, I'd become one of the miners.{p}But this can't go on! My talent will go to waste at this{n}rate! If only I could hold an exhibition of my own...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0086",
    "jp": "この彫刻家を雇いますか？",
-   "en": "",
-   "term": "end"
+   "en": "Hire this sculptor?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0087",
    "jp": "えっ！{n}僕の個展を開いてもいいのかい？{n}やった！{p}今までに創った作品を持って行くよ！",
-   "en": "",
-   "term": "end"
+   "en": "What?! You'll let me hold my own exhibition? Yes!{p}I'll bring the works I've made so far!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0088",
@@ -593,8 +652,9 @@
   {
    "id": "scen169.0096",
    "jp": "{v:0032}間に合わなかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}We didn't make it in time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen169.0097",

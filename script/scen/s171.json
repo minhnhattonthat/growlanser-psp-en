@@ -15,38 +15,44 @@
   {
    "id": "scen171.0001",
    "jp": "ランザック兵",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen171.0002",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen171.0003",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen171.0004",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen171.0005",
    "jp": "オヤジ",
-   "en": "",
-   "term": "null"
+   "en": "Old Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen171.0006",
    "jp": "ランザック王都",
-   "en": "",
-   "term": "end"
+   "en": "Ranzak Royal Capital",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0007",
@@ -63,8 +69,9 @@
   {
    "id": "scen171.0009",
    "jp": "どこへ行こうってのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0010",
@@ -87,38 +94,44 @@
   {
    "id": "scen171.0013",
    "jp": "ここは{FFEF}ランザック王都{FFF1}だ。{n}変な騒ぎは起こすなよ。",
-   "en": "",
-   "term": "end"
+   "en": "This is the {FFEF}Ranzak Royal Capital{FFF1}. Don't go{n}causing trouble.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0014",
    "jp": "ちょっと、勝手にそっちへ行かれちゃ困るよ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you can't just wander off that way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0015",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0016",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0017",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0018",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0019",
@@ -171,158 +184,182 @@
   {
    "id": "scen171.0027",
    "jp": "{v:001A}おう、いらっしゃい。{n}ここは道具を売ってる店だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Hey, welcome. This here's an item shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0028",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0029",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0030",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0031",
    "jp": "まだ何か用か？",
-   "en": "",
-   "term": "end"
+   "en": "Need anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0032",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0033",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0034",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}See ya.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0035",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0036",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}So, are you here to buy or to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0037",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0038",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0039",
    "jp": "で、他にも何かある？",
-   "en": "",
-   "term": "end"
+   "en": "So, anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0040",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0041",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0042",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Come back again, won't you? I'll have a lovely smile{n}waiting for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0043",
    "jp": "{v:0032}いらっしゃいませ。{n}この店では、様々な装備品をお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Welcome. We offer a wide variety of equipment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0044",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0045",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0046",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0047",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0048",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0049",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen171.0050",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0051",
@@ -447,14 +484,16 @@
   {
    "id": "scen171.0071",
    "jp": "今はそんな時じゃないでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "We don't have time for that now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0072",
    "jp": "鍵がかかっている。{n}どうやら留守のようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It's locked. It seems no one's home...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0073",
@@ -495,14 +534,16 @@
   {
    "id": "scen171.0079",
    "jp": "へい、らっしゃい。{n}スキマ屋へようこそ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey there! Welcome to the Nook Shop!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0080",
    "jp": "まいどありぃ～。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks for your business!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0081",
@@ -573,14 +614,16 @@
   {
    "id": "scen171.0092",
    "jp": "{v:000F}こ、こんなことが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}H-how could this...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0093",
    "jp": "{v:0011}お城も‥何もかも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}The castle... Everything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0094",
@@ -717,8 +760,9 @@
   {
    "id": "scen171.0116",
    "jp": "お兄ちゃん、{n}状況を考えてよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, think about the situation we're in...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen171.0117",

@@ -15,50 +15,58 @@
   {
    "id": "boot.names.0001",
    "jp": "ルイセ",
-   "en": "",
-   "term": "null"
+   "en": "Luise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0002",
    "jp": "ウォレス",
-   "en": "",
-   "term": "null"
+   "en": "Wallace",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0003",
    "jp": "アリオスト",
-   "en": "",
-   "term": "null"
+   "en": "Ariost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0004",
    "jp": "エリオット",
-   "en": "",
-   "term": "null"
+   "en": "Elliot",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0005",
    "jp": "ゼノス",
-   "en": "",
-   "term": "null"
+   "en": "Xenos",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0006",
    "jp": "ミーシャ",
-   "en": "",
-   "term": "null"
+   "en": "Misha",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0007",
    "jp": "カレン",
-   "en": "",
-   "term": "null"
+   "en": "Karen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0008",
    "jp": "ジュリアン",
-   "en": "",
-   "term": "null"
+   "en": "Julian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0009",
@@ -69,8 +77,9 @@
   {
    "id": "boot.names.0010",
    "jp": "リシャール",
-   "en": "",
-   "term": "null"
+   "en": "Richard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0011",
@@ -81,14 +90,16 @@
   {
    "id": "boot.names.0012",
    "jp": "ジュリア",
-   "en": "",
-   "term": "null"
+   "en": "Julia",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0013",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0014",
@@ -99,584 +110,681 @@
   {
    "id": "boot.names.0015",
    "jp": "アルカディウス王",
-   "en": "",
-   "term": "null"
+   "en": "King Alcadius",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0016",
    "jp": "魔術師サンドラ",
-   "en": "",
-   "term": "null"
+   "en": "Magician Sandra",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0017",
    "jp": "送魔線技師",
-   "en": "",
-   "term": "null"
+   "en": "Mana Line Engineer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0018",
    "jp": "ブラッドレー副学院長",
-   "en": "",
-   "term": "null"
+   "en": "Vice Headmaster Bradley",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0019",
    "jp": "アイリーン",
-   "en": "",
-   "term": "null"
+   "en": "Irene",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0020",
    "jp": "レティシア姫",
-   "en": "",
-   "term": "null"
+   "en": "Princess Leticia",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0021",
    "jp": "王母アンジェラ",
-   "en": "",
-   "term": "null"
+   "en": "Queen Mother Angela",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0022",
    "jp": "女王ステラ",
-   "en": "",
-   "term": "null"
+   "en": "Queen Stella",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0023",
    "jp": "オスカー・リーヴス",
-   "en": "",
-   "term": "null"
+   "en": "Oscar Reeves",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0024",
    "jp": "アーネスト・ライエル",
-   "en": "",
-   "term": "null"
+   "en": "Ernest Lyell",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0025",
    "jp": "リシャール王",
-   "en": "",
-   "term": "null"
+   "en": "King Richard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0026",
    "jp": "ガムラン",
-   "en": "",
-   "term": "null"
+   "en": "Gamlan",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0027",
    "jp": "ベルナード将軍",
-   "en": "",
-   "term": "null"
+   "en": "General Bernard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0028",
    "jp": "ブロンソン将軍",
-   "en": "",
-   "term": "null"
+   "en": "General Bronson",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0029",
    "jp": "ウェーバー将軍",
-   "en": "",
-   "term": "null"
+   "en": "General Weber",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0030",
    "jp": "ヴェンツェル",
-   "en": "",
-   "term": "null"
+   "en": "Wenzel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0031",
    "jp": "変身ヴェンツェル",
-   "en": "",
-   "term": "null"
+   "en": "Transformed Wenzel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0032",
    "jp": "シエラ",
-   "en": "",
-   "term": "null"
+   "en": "Sierra",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0033",
    "jp": "ベルガー",
-   "en": "",
-   "term": "null"
+   "en": "Berger",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0034",
    "jp": "エリオット父",
-   "en": "",
-   "term": "null"
+   "en": "Elliot's Father",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0035",
    "jp": "エリオット母",
-   "en": "",
-   "term": "null"
+   "en": "Elliot's Mother",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0036",
    "jp": "父親",
-   "en": "",
-   "term": "null"
+   "en": "Father",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0037",
    "jp": "母親",
-   "en": "",
-   "term": "null"
+   "en": "Mother",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0038",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0039",
    "jp": "旅人",
-   "en": "",
-   "term": "null"
+   "en": "Traveler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0040",
    "jp": "侍女",
-   "en": "",
-   "term": "null"
+   "en": "Lady-in-Waiting",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0041",
    "jp": "オヤジ",
-   "en": "",
-   "term": "null"
+   "en": "Old Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0042",
    "jp": "看護婦長",
-   "en": "",
-   "term": "null"
+   "en": "Head Nurse",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0043",
    "jp": "看護婦",
-   "en": "",
-   "term": "null"
+   "en": "Nurse",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0044",
    "jp": "患者",
-   "en": "",
-   "term": "null"
+   "en": "Patient",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0045",
    "jp": "医者",
-   "en": "",
-   "term": "null"
+   "en": "Doctor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0046",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0047",
    "jp": "マクスウェル学院長",
-   "en": "",
-   "term": "null"
+   "en": "Headmaster Maxwell",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0048",
    "jp": "ブラッドレー学院長",
-   "en": "",
-   "term": "null"
+   "en": "Headmaster Bradley",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0049",
    "jp": "学院長秘書",
-   "en": "",
-   "term": "null"
+   "en": "Headmaster's Secretary",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0050",
    "jp": "副学院長秘書",
-   "en": "",
-   "term": "null"
+   "en": "Vice Headmaster Secretary",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0051",
    "jp": "教授",
-   "en": "",
-   "term": "null"
+   "en": "Professor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0052",
    "jp": "魔法学院生徒",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0053",
    "jp": "魔導技師",
-   "en": "",
-   "term": "null"
+   "en": "Magitech Engineer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0054",
    "jp": "エレナ",
-   "en": "",
-   "term": "null"
+   "en": "Elena",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0055",
    "jp": "レダ",
-   "en": "",
-   "term": "null"
+   "en": "Leda",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0056",
    "jp": "好事家",
-   "en": "",
-   "term": "null"
+   "en": "Collector",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0057",
    "jp": "作業員",
-   "en": "",
-   "term": "null"
+   "en": "Worker",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0058",
    "jp": "番兵",
-   "en": "",
-   "term": "null"
+   "en": "Sentry",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0059",
    "jp": "兵士",
-   "en": "",
-   "term": "null"
+   "en": "Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0060",
    "jp": "警備兵",
-   "en": "",
-   "term": "null"
+   "en": "Guard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0061",
    "jp": "盗掘者",
-   "en": "",
-   "term": "null"
+   "en": "Tomb Robber",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0062",
    "jp": "開催責任者",
-   "en": "",
-   "term": "null"
+   "en": "Organizer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0063",
    "jp": "パートナー",
-   "en": "",
-   "term": "null"
+   "en": "Partner",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0064",
    "jp": "闘技大会参加者",
-   "en": "",
-   "term": "null"
+   "en": "Tournament Entrant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0065",
    "jp": "ローランディア軍司令官",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Army Commander",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0066",
    "jp": "ローランディア兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0067",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0068",
    "jp": "輸送兵長",
-   "en": "",
-   "term": "null"
+   "en": "Transport Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0069",
    "jp": "輸送兵",
-   "en": "",
-   "term": "null"
+   "en": "Transport Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0070",
    "jp": "輸送用動物",
-   "en": "",
-   "term": "null"
+   "en": "Pack Animal",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0071",
    "jp": "バーンシュタイン軍司令官",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Army Commander",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0072",
    "jp": "バーンシュタイン兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0073",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0074",
    "jp": "ランザック軍司令官",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Army Commander",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0075",
    "jp": "ランザック兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0076",
    "jp": "ランザック兵",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0077",
    "jp": "村長",
-   "en": "",
-   "term": "null"
+   "en": "Village Chief",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0078",
    "jp": "村人",
-   "en": "",
-   "term": "null"
+   "en": "Villager",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0079",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0080",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0081",
    "jp": "オズワルド",
-   "en": "",
-   "term": "null"
+   "en": "Oswald",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0082",
    "jp": "盗賊頭",
-   "en": "",
-   "term": "null"
+   "en": "Bandit Chief",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0083",
    "jp": "盗賊",
-   "en": "",
-   "term": "null"
+   "en": "Bandit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0084",
    "jp": "覆面の男",
-   "en": "",
-   "term": "null"
+   "en": "Masked Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0085",
    "jp": "仮面騎士",
-   "en": "",
-   "term": "null"
+   "en": "Masked Knight",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0086",
    "jp": "ユング",
-   "en": "",
-   "term": "null"
+   "en": "Jung",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0087",
    "jp": "ゲーヴ",
-   "en": "",
-   "term": "null"
+   "en": "Gev",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0088",
    "jp": "部下",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0089",
    "jp": "大鷲",
-   "en": "",
-   "term": "null"
+   "en": "Giant Eagle",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0090",
    "jp": "モンスター使い",
-   "en": "",
-   "term": "null"
+   "en": "Monster Tamer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0091",
    "jp": "モンスター",
-   "en": "",
-   "term": "null"
+   "en": "Monster",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0092",
    "jp": "バーンシュタイン工作兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Saboteur",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0093",
    "jp": "馬車",
-   "en": "",
-   "term": "null"
+   "en": "Carriage",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0094",
    "jp": "マスター・ガーディアン",
-   "en": "",
-   "term": "null"
+   "en": "Master Guardian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0095",
    "jp": "ガーディアン",
-   "en": "",
-   "term": "null"
+   "en": "Guardian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0096",
    "jp": "？？？？",
-   "en": "",
-   "term": "null"
+   "en": "????",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0097",
    "jp": "グレンガル",
-   "en": "",
-   "term": "null"
+   "en": "Grengal",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0098",
    "jp": "ゲヴェル",
-   "en": "",
-   "term": "null"
+   "en": "Gevel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0099",
    "jp": "ラルフ",
-   "en": "",
-   "term": "null"
+   "en": "Ralph",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0100",
    "jp": "ニック",
-   "en": "",
-   "term": "null"
+   "en": "Nick",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0101",
    "jp": "謎の男",
-   "en": "",
-   "term": "null"
+   "en": "Mysterious Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0102",
    "jp": "行商人",
-   "en": "",
-   "term": "null"
+   "en": "Peddler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0103",
    "jp": "ダグラス卿",
-   "en": "",
-   "term": "null"
+   "en": "Lord Douglas",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0104",
    "jp": "デカゲル",
-   "en": "",
-   "term": "null"
+   "en": "Big Gel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0105",
    "jp": "副官",
-   "en": "",
-   "term": "null"
+   "en": "Adjutant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0106",
    "jp": "ジーナ",
-   "en": "",
-   "term": "null"
+   "en": "Gina",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0107",
    "jp": "選手",
-   "en": "",
-   "term": "null"
+   "en": "Contestant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0108",
    "jp": "市長",
-   "en": "",
-   "term": "null"
+   "en": "Mayor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0109",
    "jp": "目",
-   "en": "",
-   "term": "null"
+   "en": "Eye",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0110",
    "jp": "爪",
-   "en": "",
-   "term": "null"
+   "en": "Claw",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0111",
    "jp": "ランザック国王",
-   "en": "",
-   "term": "null"
+   "en": "King of Ranzak",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0112",
@@ -693,8 +801,9 @@
   {
    "id": "boot.names.0114",
    "jp": "占い師",
-   "en": "",
-   "term": "null"
+   "en": "Fortune Teller",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0115",
@@ -741,8 +850,9 @@
   {
    "id": "boot.names.0122",
    "jp": "サンドラ",
-   "en": "",
-   "term": "null"
+   "en": "Sandra",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0123",
@@ -777,8 +887,9 @@
   {
    "id": "boot.names.0128",
    "jp": "オスカー",
-   "en": "",
-   "term": "null"
+   "en": "Oscar",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0129",
@@ -789,14 +900,16 @@
   {
    "id": "boot.names.0130",
    "jp": "アーネスト",
-   "en": "",
-   "term": "null"
+   "en": "Ernest",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0131",
    "jp": "ベルナード",
-   "en": "",
-   "term": "null"
+   "en": "Bernard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0132",
@@ -837,8 +950,9 @@
   {
    "id": "boot.names.0138",
    "jp": "コムスプリングス",
-   "en": "",
-   "term": "null"
+   "en": "Comsprings",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0139",
@@ -879,8 +993,9 @@
   {
    "id": "boot.names.0145",
    "jp": "フェザーランド",
-   "en": "",
-   "term": "null"
+   "en": "Featherland",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.names.0146",

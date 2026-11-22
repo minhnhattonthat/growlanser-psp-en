@@ -15,440 +15,513 @@
   {
    "id": "scen053.0001",
    "jp": "ランザック兵",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen053.0002",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen053.0003",
    "jp": "ランザック兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen053.0004",
    "jp": "男",
-   "en": "",
-   "term": "null"
+   "en": "Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen053.0005",
    "jp": "ウェーバー将軍",
-   "en": "",
-   "term": "null"
+   "en": "General Weber",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen053.0006",
    "jp": "ランザック王城",
-   "en": "",
-   "term": "end"
+   "en": "Ranzak Castle",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0007",
    "jp": "お兄ちゃん、どこへ行くつもり？",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, where are you going?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0008",
    "jp": "{v:000F}さて、運良くヴェンツェルって奴に{n}会えるといいが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Well, let's hope we're lucky enough to find this{n}Wenzel fellow...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0009",
    "jp": "{v:0010}本当に僕が、本物なんでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Do you really think I'm the real one?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0010",
    "jp": "{v:0011}それを確かめるために来たんだろうが。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}That's what we came to find out, isn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0011",
    "jp": "{v:0012}ちょっと、ここまで来て怖じ気づいたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Hey, don't tell me you're getting cold feet after coming{n}all this way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0012",
    "jp": "{v:0013}何をごちゃごちゃ言っている？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}What are you all muttering about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0013",
    "jp": "‥‥{v:0014}ん？{n}お前、どこかで見たような顔だな？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0014}Hm? Haven't I seen your face somewhere before?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0014",
    "jp": "{v:0015}えっ、ぼ、僕‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Huh? M-me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0015",
    "jp": "{v:0016}こんな顔した奴、どこにでもいますって★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Oh, guys with faces like his are everywhere, ya know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0016",
    "jp": "{v:0017}ん～。{n}そんなもんか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Hmm. I suppose so.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0017",
    "jp": "{FB00}‥‥{v:0018}ふぅ、ちょっと、ドキドキしちゃったよ！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}...{v:0018}Whew! That had my heart pounding!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0018",
    "jp": "{v:0019}そういや、ランザックはバーンシュタインと{n}戦争中だったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Come to think of it, Ranzak's at war with Burnstein.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0019",
    "jp": "悪いが今は勤務中なんだ。{n}だから話すことが出来ない。",
-   "en": "",
-   "term": "end"
+   "en": "Sorry, I'm on duty right now. I can't talk.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0020",
    "jp": "今、思いっきり喋ってるじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "You're doing plenty of talking right now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0021",
    "jp": "‥‥お前たちから話しかけてきたんだ。{n}無視することなんか出来ないじゃないか。",
-   "en": "",
-   "term": "end"
+   "en": "...You're the ones who spoke to me first. I can't just{n}ignore you, can I?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0022",
    "jp": "そう言いながら、ちゃんと答えてくれるんだね。",
-   "en": "",
-   "term": "end"
+   "en": "You say that, but you still answer us every time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0023",
    "jp": "あまりランザック王にそそうのないようにな。",
-   "en": "",
-   "term": "end"
+   "en": "Mind your manners before the King of Ranzak.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0024",
    "jp": "う～む。{n}最近来客が多いな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm. We've had a lot of visitors lately...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0025",
    "jp": "謁見の間は{n}この奥の十字路を右に曲がったところだ。",
-   "en": "",
-   "term": "end"
+   "en": "For the audience chamber, turn right at the{n}intersection ahead.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0026",
    "jp": "謁見の間は{n}この奥の十字路を左に曲がったところだ。",
-   "en": "",
-   "term": "end"
+   "en": "For the audience chamber, turn left at the{n}intersection ahead.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0027",
    "jp": "お前たちはローランディアの者か。{n}この間はあやうくバーンシュタインの奴に{n}騙される所だったよ。",
-   "en": "",
-   "term": "end"
+   "en": "You're from Rolandia? Those Burnstein bastards nearly{n}fooled us the other day.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0028",
    "jp": "ここから先への立ち入りはご遠慮願います。",
-   "en": "",
-   "term": "end"
+   "en": "Please do not proceed beyond this point.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0029",
    "jp": "謁見の間はこちらと逆だ。",
-   "en": "",
-   "term": "end"
+   "en": "The audience chamber is the other way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0030",
    "jp": "あっちの２体の石像に囲まれた入り口だ。",
-   "en": "",
-   "term": "end"
+   "en": "It's that entrance over there, between the two{n}stone statues.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0031",
    "jp": "どうぞ、お入り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please, come in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0032",
    "jp": "こっちだ。",
-   "en": "",
-   "term": "end"
+   "en": "This way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0033",
    "jp": "{v:0027}しばらく中をかりるぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}We'll be using this room for a while.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0034",
    "jp": "{v:0028}は、はい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Y-yes, sir.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0035",
    "jp": "あまり無礼な真似はしないでいただきたい。",
-   "en": "",
-   "term": "end"
+   "en": "I would ask that you conduct yourselves respectfully.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0036",
    "jp": "{v:0006}そなた達がローランディア王国からの使者か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Are you the envoys from the Kingdom of Rolandia?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0037",
    "jp": "{v:0007}はは。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Yes, Your Majesty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0038",
    "jp": "{v:0008}遠いところ、ご苦労だったな。{p}{v:0009}この書簡をアルカディウス王に届け、{n}互いに不可侵とする同盟の件、{n}確かに了承したと伝えてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}You have our thanks for making the long journey.{p}{v:0009}Deliver this letter to King Alcadius. Tell him that we{n}have agreed to the alliance and its pledge of{n}mutual nonaggression.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0039",
    "jp": "　{n}　　『{FFEF}ランザック国王からの書簡{FFF1}』を受け取った！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Received the '{FFEF}Letter from the King of Ranzak{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0040",
    "jp": "{v:000A}かしこまりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}As you wish, Your Majesty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0041",
    "jp": "{v:001A}おお、お前たちか。{n}そのちっこいのを覚えているぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Oh, it's you. I remember that tiny one there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0042",
    "jp": "{FB00}{v:001B}そ、そりゃどうも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:001B}W-well, thanks for that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0043",
    "jp": "{v:0020}我が国も、そなたの国も、突如戦争を仕掛けた{n}バーンシュタイン王国による被害を受ける存在。{n}せめて我々だけは友好でありたいものだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Both our nation and yours suffer at the hands of the{n}Kingdom of Burnstein, which launched this war without{n}warning. Let us at least remain friends.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0044",
    "jp": "{v:000B}とりあえず、ランザックとは{n}友好関係をたもてそうだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Looks like we can stay on good terms with Ranzak{n}for now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0045",
    "jp": "{v:000C}そうだね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Sure does!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0046",
    "jp": "‥‥{v:000D}ん？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000D}Hm?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0047",
    "jp": "{v:000E}ウォレス‥‥？{FFF9}{FFFB}{n}{v:000F}ウォレスなのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Wallace...?{FFF9}{FFFB}{v:000F}Is that you, Wallace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0048",
    "jp": "{v:0010}その声は‥‥ウェーバーか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}That voice... Weber?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0049",
    "jp": "{v:0011}やはりウォレスか。{n}しかし、どうしてここに？{n}それにその格好は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}It is you, Wallace. But what brings you here? And what{n}happened to you...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0050",
    "jp": "{v:0012}詳しく話せば長くなるが、団長を探している間に、{n}俺は両目と利き腕を失っちまった。{p}{v:0013}この義眼と義手はこいつの母親に作ってもらったんだ。{p}{v:0014}そのお礼と、リハビリを兼ねて、{n}今はこいつらと行動を共にしている。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}It's a long story, but I lost both eyes and my{n}dominant arm while searching for the captain.{p}{v:0013}This kid's mother made this artificial eye and arm{n}for me.{p}{v:0014}I'm traveling with them now to repay her. Helps me get{n}used to this body, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0051",
    "jp": "{v:0015}そうか。{n}ここ１０年ほど連絡がなかったと思えば、{n}そんなことになっていたのか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}I see. I wondered why I hadn't heard from you in ten{n}years or so. So that's what happened.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0052",
    "jp": "{v:0016}すまないな、ウェーバー。{n}団長を探すなんて勝手なこと言って、{n}お前に部下を押しつけちまった。{p}{v:0017}おまけに、まだ団長は見つからねぇどころか、{n}俺はこんな体に‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Sorry, Weber. I went off to find the captain on my own{n}and dumped my men on you.{p}{v:0017}And after all that, I still haven't found him. Just ended{n}up like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0053",
    "jp": "{v:0018}お前にも辛いことがあったんだろう。{n}気にするな。{p}{v:0019}それよりお前の所在がわかってよかった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}You've had your share of hardship. Don't let it{n}trouble you.{p}{v:0019}I'm just glad to know where you are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0054",
    "jp": "{v:001A}ところでガムランはどうしてる？{n}奴とはまったく会っていないからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}How's Gamlan doing, anyway? Haven't seen him at all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0055",
    "jp": "‥‥{v:001B}いや、俺も会っていない。{n}お前が出て行く前だから、もう２０年近くなる。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001B}No, I haven't seen him either. Not since before you{n}left. Nearly twenty years now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0056",
    "jp": "{v:001C}そうか。{p}{v:001D}まだ仕事があるから、俺たちはローランディアに戻る。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}I see.{p}{v:001D}We've still got work to do, so we're heading back{n}to Rolandia.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0057",
    "jp": "{v:001E}ああ。{n}また機会があれば、会おう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Right. Let's meet again when we get the chance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0058",
    "jp": "‥‥{v:001F}あの人、ウソついた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001F}He lied...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0059",
    "jp": "{v:0020}うそ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Lied?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0060",
    "jp": "{v:0021}２０年近く会ってないって言ったけど、{n}この間、会ってたモン。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}He said they hadn't met in nearly twenty years, but{n}they did meet, just the other day!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0061",
    "jp": "{v:0022}バーンシュタインと同盟を結ぼうとしていたなんて、{n}ローランディアの俺たちに言えるわけないだろ？{p}{v:0023}仕方ないさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}He couldn't tell us he was trying to form an alliance with{n}Burnstein. We're from Rolandia, remember?{p}{v:0023}Can't blame him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0062",
    "jp": "{v:0021}さて、後は例の魔法使いを‥‥って、あれ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Well, now we just have to find that magician... Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0063",
    "jp": "{v:0022}それは私の事かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Would that be me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0064",
    "jp": "{v:0023}あなたは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}You're...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0065",
    "jp": "{v:0024}また会ったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}We meet again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0066",
    "jp": "{v:0025}おじちゃん、ひょっとして‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Mister, could you be...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0067",
    "jp": "{v:0026}ここでは詳しい話が出来ぬ。{n}ついてこい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}We cannot discuss the details here. Follow me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0068",
    "jp": "つもる話もあると思うが、{n}今は王に報告せねばならぬ事があるのでな。{n}また今度にしてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "We must have much to catch up on, but I have{n}something to report to the king. It will have to wait.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0069",
    "jp": "この部屋はすずし気だろ？{n}色から受ける印象というものもあるのだ。{p}一見関係なさそうだが、{n}心理的なことも考慮に入れるのも作戦には必要なのだ。",
-   "en": "",
-   "term": "end"
+   "en": "This room looks cool and refreshing, does it not? Colors{n}can influence our impressions.{p}It may seem unrelated, but psychological factors must{n}also be considered when planning a strategy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0070",
    "jp": "謁見の間はこちらではなく、{n}右側へ曲がったところにある。",
-   "en": "",
-   "term": "end"
+   "en": "The audience chamber is not this way. You will find it{n}around the corner to your right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0071",
    "jp": "{v:0029}さて、ここなら話を聞かれることもない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Now, no one will overhear us here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0072",
    "jp": "どこへ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where are you going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0073",
    "jp": "{v:002A}あの‥あなたは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Um... Who are you...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0074",
@@ -459,20 +532,23 @@
   {
    "id": "scen053.0075",
    "jp": "{v:002D}それじゃ、マスターの先生？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Then you're Master's teacher?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0076",
    "jp": "{v:002E}いかにも。{n}サンドラは優秀な生徒であった。{p}{v:002F}それにしても、エリオット。{n}君は何をしているのかね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Indeed. Sandra was an excellent pupil.{p}{v:002F}But Elliot, what are you doing here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0077",
    "jp": "{v:0030}何って‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}What am I...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0078",
@@ -483,56 +559,65 @@
   {
    "id": "scen053.0079",
    "jp": "{v:0032}それが‥‥怪しい者たちに襲われ、{n}手紙を奪われて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Well... some suspicious people attacked us and stole{n}the letter...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0080",
    "jp": "‥‥{v:0033}困ったものだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0033}How troubling...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0081",
    "jp": "{v:0034}それなら話は早い。{p}{v:0035}あんたならわかるだろう？{n}エリオットがリシャール王と瓜二つって事の理由をな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Then we can get straight to it.{p}{v:0035}You know why, don't you? Why Elliot looks exactly like{n}King Richard.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0082",
    "jp": "{v:0036}では、今から私が言うことをサンドラにも{n}聞かせてくれ。{n}証人は１人でも多い方がいい。{p}{v:0037}ホムンクルスのお前ならば出来るだろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Then let Sandra hear what I am about to say as well.{n}The more witnesses, the better.{p}{v:0037}As a homunculus, you should be capable of that, should{n}you not?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0083",
    "jp": "{v:0038}えっ、あ、はい！{p}{v:0039}マスター！　マスター！{n}今、ヴェンツェルさんと話してるんだけど、{n}こっちで起こったこと、一緒に見てて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Huh? Oh, yes!{p}{v:0039}Master! Master! We're talking to Wenzel-san! Watch{n}what's happening over here with us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0084",
    "jp": "{v:003A}はい、用意はいいそうです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}All right, she says she's ready.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0085",
    "jp": "{v:003B}久しぶりだな、サンドラ。{n}こちらからは君の事は見えぬが、{n}相変わらず美しいのだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}It has been a long time, Sandra. I cannot see you from{n}here, but I trust you are as beautiful as ever.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0086",
    "jp": "{v:003C}あ、マスターが照れてる★",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Oh, Master's blushing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0087",
    "jp": "{v:003D}さて前置きはこれくらいにして、本題に入ろう。{p}{v:003E}まず、お前たちがゲヴェルについてどこまで{n}知っているか、だが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Now, enough preliminaries. Let us get to the matter{n}at hand.{p}{v:003E}First, how much do you know about Gevel...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0088",
@@ -543,368 +628,429 @@
   {
    "id": "scen053.0089",
    "jp": "{v:0040}そうだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0090",
    "jp": "{v:0041}それとエリオット君とが、{n}どうつながるんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}What does that have to do with Elliot-kun?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0091",
    "jp": "{v:0042}どうつながるか、だと？{p}{v:0043}つながるも何も、すべては奴のせいなのだぞ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}What does it have to do with him, you ask?{p}{v:0043}Gevel is responsible for all of this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0092",
    "jp": "{v:0044}何だって！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0093",
    "jp": "{v:0045}はるか昔、グローシアンは人々を支配するために{n}ゲヴェルを生み出した。{p}{v:0046}そして人間を救おうとするグローシアンが、{n}魔法を駆使し、ゲヴェルを水晶鉱山に封じた。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Long ago, the Growsians created Gevel to rule{n}over humanity.{p}{v:0046}Then Growsians who sought to save humanity used{n}their magic to seal Gevel within the crystal mine.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0094",
    "jp": "{v:0047}それは知ってます。{n}そのゲヴェルが１８年前に水晶から現れたって事も。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}We know that. We also know Gevel emerged from the{n}crystal eighteen years ago.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0095",
    "jp": "{v:0048}うむ。{n}すべてはあの時から始まった。{p}{v:0049}いま起こっている戦争でさえ、{n}ゲヴェルが人々を支配するために起こしたものだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Indeed. That was when it all began.{p}{v:0049}Even the war being fought now was instigated by{n}Gevel to bring humanity under his rule.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0096",
    "jp": "{v:004A}どうしてそんなことを企むのかしら？{n}だって、ゲヴェルを操るグローシアンは{n}もういないんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Why would he plot something like that? The Growsians{n}who controlled Gevel are gone now, aren't they?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0097",
    "jp": "{v:004B}ゲヴェルとは人々を支配するためだけに{n}生み出された存在。{p}{v:004C}主であるグローシアンがいなくなっても、{n}その命令だけで動いている。{p}{v:004D}まず奴は、過去に自分が敗れ去った原因である、{n}魔法を得ようと考えた。{n}魔法を克服しなければ、また以前の二の舞になる。{p}{v:004E}だがどうやっても魔法を得られぬと知ると、{n}別の方法を考えたのだ。{p}{v:004F}『{FFEF}自分が使えぬなら、{n}　魔法を使える者を部下にすればいい{FFF1}』とな。{n}その時に裏から人間社会を支配することを思いついた。{p}{v:0050}まず、奴は自分の驚異的な増殖能力を使い、{n}生まれたばかりのリシャール王子の複製を作り、{n}すり替えた。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Gevel was created for the sole purpose of ruling{n}over humanity.{p}{v:004C}Even with his Growsian masters gone, he continues to{n}act on that command alone.{p}{v:004D}First, he sought to acquire magic, the very thing that{n}had defeated him before. Unless he overcame magic, he{n}would suffer the same fate again.{p}{v:004E}But when he learned that he could not acquire magic by{n}any means, he devised another approach.{p}{v:004F}'{FFEF}If I cannot use magic, I need only make those who can{n}my servants{FFF1}.' That was when he conceived the idea of{n}ruling human society from the shadows.{p}{v:0050}First, he used his extraordinary ability to reproduce to{n}create a replica of the newborn Prince Richard and{n}exchange it for the real prince.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0098",
    "jp": "{v:0051}ちょっと待った！{n}そのすり替えられた王子ってのは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Hold on! The prince he replaced... You mean...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0099",
    "jp": "{v:0052}その通りだ。{p}{v:0053}エリオット。{n}お前が本物のリシャール王だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Precisely.{p}{v:0053}Elliot. You are the true King Richard.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0100",
    "jp": "{v:0054}ぼ、僕が‥王‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}I-I'm... the king...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0101",
    "jp": "{v:0055}ヴェンツェルさん‥‥。{n}どうしてそんなに詳しいの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Wenzel-san... How do you know so much about all this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0102",
    "jp": "‥‥{v:0056}出来れば言いたくはなかったが‥‥。{p}{v:0057}王子の細胞を手に入れ、{n}そして偽の王子とすり替えたのが、{n}この私自身だからだ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0056}I had hoped I would not have to say this...{p}{v:0057}Because I was the one who obtained the prince's cells{n}and exchanged him for the false prince.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0103",
    "jp": "{v:0058}えぇっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0104",
    "jp": "{v:0059}あの頃の私はゲヴェルに従うしかなかった。{n}なにしろ奴は驚異的な力を持っている。{n}いつでも私を殺すことが出来たのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}At the time, I had no choice but to obey Gevel. His{n}power was extraordinary, after all. He could have killed{n}me at any moment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0105",
    "jp": "{v:005A}俺のいた傭兵団を壊滅させたくらいの力だからな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Strong enough to wipe out my mercenary company...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0106",
    "jp": "{v:005B}ゲヴェル自身が魔法を得るための研究。{n}すり替わった王子が政権を得るまでの面倒をみること。{p}{v:005C}来るべきゲヴェルの支配のための地盤固めをする{n}手駒として、私は２０年近くも働かされた。{p}{v:005D}他の手駒と違って、宮廷魔術師という身である私は、{n}かなり使い勝手が良かっただろうな。{p}{v:005E}よほどのことがない限り殺すつもりはなかった。{n}だが、そこに私の付け入る隙があった。{p}{v:005F}奴の行動に目を光らせ、監視するには、{n}手下のふりをするのが一番だったからな。{p}{v:0060}だからこそ、始末されそうになった本物の赤子を{n}こっそりと助け出し、育てることが出来た。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Research into how Gevel himself might acquire magic.{n}Tending to the replacement prince until he could{n}take power.{p}{v:005C}For nearly twenty years, I was forced to work as a{n}pawn, laying the groundwork for Gevel's eventual rule.{p}{v:005D}Unlike his other pawns, my position as Court Magician{n}must have made me particularly useful.{p}{v:005E}He had no intention of killing me without very good{n}reason. But that gave me an opening.{p}{v:005F}Pretending to serve him was the best way to keep a{n}close watch on his actions.{p}{v:0060}That was how I managed to secretly rescue the real{n}infant before he could be disposed of, and raise him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0107",
    "jp": "{v:0061}それじゃ、僕がこうしていられるのも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}Then the reason I'm still here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0108",
    "jp": "{v:0062}ヴェンツェルさんのおかげ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}...is thanks to you, Wenzel-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0109",
    "jp": "{v:0063}ありがとうございます！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}Thank you so much!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0110",
    "jp": "{v:0064}正直に言えば、私はゲヴェルの計画をつぶす{n}切り札を得るために君を利用しようとしたのだ。{p}{v:0065}結果として君の命を救ったことになるだけだ。{n}礼を言う必要はない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}To be frank, I intended to use you as a trump card to{n}foil Gevel's plans.{p}{v:0065}Saving your life was merely the result. There is no need{n}to thank me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0111",
    "jp": "‥‥{v:0066}でも、助けてくれただけでなく、{n}僕にちゃんとした教育を受けさせてくれました。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0066}But you didn't just save me. You made sure I received{n}a proper education, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0112",
    "jp": "{FFF3}‥‥‥‥。{p}{FFF4}{v:0067}お前は王位につくべき人間だ。{n}王が無教養では、国に住む全ての者が困るだろう？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}......{p}{FFF4}{v:0067}You are meant to take the throne. An uneducated king{n}would be a burden to everyone in his kingdom, would{n}he not?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0113",
    "jp": "{v:0068}はぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0068}Oh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0114",
    "jp": "‥‥{v:0069}話を進めよう。{p}{v:006A}先日の戴冠式で、ついにゲヴェルの操り人形が{n}王位についた。{p}{v:006B}役目を終えた私が奴らに始末されるのは、{n}火を見るより明らかだ。{p}{v:006C}私は魔法技術の確立されていなかった{n}このランザック王国に、魔法を教えることを条件に{n}かくまってもらうことにしたのだ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0069}Let us continue.{p}{v:006A}At the recent coronation, Gevel's puppet finally took{n}the throne.{p}{v:006B}With my role fulfilled, it was plain as day that they{n}would dispose of me.{p}{v:006C}So I sought refuge here in the Kingdom of Ranzak,{n}where the practice of magic was not yet established,{n}in exchange for teaching them magic.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0115",
    "jp": "{v:006D}それで突然いなくなったんだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006D}So that's why you suddenly disappeared.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0116",
    "jp": "{v:006E}あの‥‥さっき、ゲヴェルがエリオット君の複製を{n}作ったって言われましたけど、どうすれば、{n}そんなことが出来るんですか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}Um... You said Gevel made a replica of Elliot-kun. How is{n}something like that possible...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0117",
    "jp": "{v:006F}我々の体を構成するものすべてには、{n}その者の情報が詰まっているのだよ。{n}例え髪の毛一本でもな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006F}Every part of our bodies contains information about{n}us. Even a single strand of hair.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0118",
    "jp": "{v:0070}髪の毛一本！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0070}A single strand of hair?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0119",
    "jp": "{v:0071}子供が親に似るのは、{n}両親の情報を半分ずつ受け継ぐからだ。{p}{v:0072}だが１人の情報をそのまま受け継げば、{n}まったく同じ人間が産まれる。{p}{v:0073}簡単な例をあげれば、一卵性の双子だ。{n}１つの卵が２つに分かれ、母親の体の中で同じ情報を{n}受け継いだ存在が２体出来たのが、一卵性の双子だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}Children resemble their parents because they inherit{n}half of that information from each parent.{p}{v:0072}But if all the information is inherited unchanged from{n}one person, an identical person is born.{p}{v:0073}Identical twins are a simple example. A single egg divides{n}in two, creating two beings with identical information{n}inside their mother's body.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0120",
    "jp": "{v:0074}ああ、だからまったくそっくりなんですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0074}Oh, so that's why they look exactly alike.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0121",
    "jp": "{v:0075}なるほど。{n}僕も生命学は専門外だったからな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0075}I see. Biology was never my field of expertise...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0122",
    "jp": "{v:0076}ゲヴェルは自分の身体から、{n}自分の複製を作り出すことが出来る。{p}{v:0077}この能力を利用してエリオットと全く同じ情報を{n}持った赤子を作り出したのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}Gevel can create replicas of himself from his{n}own body.{p}{v:0077}He used that ability to create an infant with exactly{n}the same information as Elliot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0123",
    "jp": "{v:0078}それじゃ、あっちは偽者っていっても、{n}本物と同じなんじゃないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}Then even if you call him a fake, isn't he the same as{n}the real one?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0124",
    "jp": "{v:0079}半分は当たりだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}You are half right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0125",
    "jp": "{v:007A}それじゃ、ハズレの半分は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}Then what's the half I've got wrong?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0126",
    "jp": "{v:007B}ゲヴェルが自分の意のままになる人形を作る時に、{n}何の細工もしないと思うか？{p}{v:007C}例えばリシャールは、たったの１４歳でありながら、{n}他のインペリアル・ナイトを凌ぐ実力を持ち、{n}ナイツ・マスターとなった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007B}Do you think Gevel would create a puppet to obey his{n}every whim without making any alterations?{p}{v:007C}Consider Richard. At just fourteen, his abilities{n}surpassed those of the other Imperial Knights, and he{n}became Knight Master.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0127",
    "jp": "{v:007D}あ、なるほど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007D}Oh, now I get it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0128",
    "jp": "{v:007E}だんだん読めてきたぜ。{n}エリオットの複製を利用して、{n}自分にとって都合の良いように行動させる。{p}{v:007F}ひょっとして、ティピとサンドラ様の関係同様、{n}テレパシーで繋がってんじゃねぇか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}It's starting to make sense. He uses Elliot's replica to{n}do whatever suits him.{p}{v:007F}Maybe they're linked by telepathy, just like Tippi{n}and Sandra-sama?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0129",
    "jp": "{v:0080}まさにその通り。{n}それ故、奴が表舞台に出ることなく、{n}自分の手駒を動かすことが出来るのだ。{p}{v:0081}さらに奴は他の人材から自分を守るための兵を作った。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0080}Precisely. That allows him to move his pawns without{n}ever appearing in public himself.{p}{v:0081}He also created soldiers from other people to{n}protect himself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0130",
    "jp": "{v:0082}あっ、それって、あの仮面をかぶった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0082}Oh! You mean those masked...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0131",
    "jp": "{v:0083}俺の腕と目を奪った連中か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0083}The bastards who took my arm and eyes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0132",
    "jp": "{v:00AE}で、連中の目的はわかったが、{n}どうやってゲヴェルが作った偽者を王とする、{n}バーンシュタインを元に戻す？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AE}So, we know what they're after. But how do we set{n}Burnstein right when its king is a fake Gevel created?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0133",
    "jp": "{v:0084}あんたはそのためにエリオットを助けたんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0084}That's why you saved Elliot, isn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0134",
    "jp": "{v:0085}リシャール王も僕と同じ人間なんでしょ？{n}どうやって証明するんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}But King Richard is identical to me, isn't he? How can{n}we prove I'm the real one?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0135",
    "jp": "{v:0086}エリオットのつけている腕輪がその証だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0086}The bracelet Elliot wears is the proof.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0136",
    "jp": "{FC07}{FA60}{v:0087}これが？",
-   "en": "",
-   "term": "end"
+   "en": "{FC07}{FA60}{v:0087}This is?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0137",
    "jp": "{v:0088}それはバーンシュタイン王家の習わしに従い、{n}お前が産まれた当時の宮廷魔術師３人が、{n}王家の安泰を祈願して作った魔法金属の腕輪だ。{p}{v:0089}詳しいことはお前の本当の母から聞くがいい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0088}Following the tradition of Burnstein's royal family, the{n}three Court Magicians serving at your birth made that{n}bracelet of magical metal, praying for the royal family's{p}well-being.{p}{v:0089}Ask your true mother for the details.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0138",
    "jp": "{v:008A}本当の母って、王妃様？",
-   "en": "",
-   "term": "end"
+   "en": "{v:008A}His true mother? The queen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0139",
    "jp": "{v:008B}ガルアオス監獄から更に東に行ったところに、{n}王家の別荘がある。{p}{v:008C}そこには王妃‥‥いや、今は王母か、{n}アンジェラ様が幽閉されている。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008B}There is a royal villa farther east of Garuaos Prison.{p}{v:008C}The queen... No, the Queen Mother now. Angela-sama is{n}confined there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0140",
    "jp": "{v:008D}僕の本当のお母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008D}My real mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0141",
    "jp": "{v:008E}リシャールは自分が偽者だと気づかれないために、{n}アンジェラ様を幽閉したのだ。{n}実の母ならば、お前の言葉を信じるだろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008E}Richard confined Angela-sama to keep her from{n}discovering he was an impostor. Your own mother{n}should believe what you tell her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0142",
    "jp": "{v:008F}とにかく、その王母に会ってみることが先決か。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008F}Then our first move is to see this Queen Mother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0143",
    "jp": "{v:0090}この手紙を持っていくがいい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0090}Take this letter with you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0144",
    "jp": "　{n}　　ヴェンツェルから『{FFEF}[02A4]王母へ{FFF1}』を受け取った！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Received '{FFEF}[02A4]To Angela{FFF1}' from Wenzel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0145",
    "jp": "{v:0091}話が長くなったな。{p}{v:0092}エリオットの出生を証明する時には必ず駆けつけよう。{n}私はそれまでここに身を隠す。{p}{v:0093}そういうことだ、サンドラ。{n}彼らを導いてやってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0091}We have spoken at length.{p}{v:0092}When the time comes to prove Elliot's birthright, I{n}shall be there without fail. Until then, I shall remain{n}hidden here.{p}{v:0093}There you have it, Sandra. Guide them well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0146",
    "jp": "‥‥‥{v:0094}うん。{n}マスターが承知しましたって。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0094}Mm-hm. Master says she understands.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0147",
    "jp": "{v:0095}あ、待ってください。{n}あと１つだけ、{n}聞きたいことがあるんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0095}Oh, please wait. There's just one more thing I'd like{n}to ask.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0148",
    "jp": "{v:0096}何だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0096}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0149",
    "jp": "{v:0097}お兄ちゃんそっくりな人がわたしを襲った時、{n}助けてくれましたよね？{p}{v:0098}どうしてあの時、助けに来てくれたんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0097}When that man who looked just like Big Brother{n}attacked me, you saved me, didn't you?{p}{v:0098}Why did you come to help me then?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0150",
@@ -915,86 +1061,100 @@
   {
    "id": "scen053.0151",
    "jp": "{v:009D}シャドー・ナイツ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:009D}The Shadow Knights!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0152",
    "jp": "{v:009E}シャドー・ナイツは政治の裏の汚れ仕事を請け負う、{n}いわば必要悪の集団として作られた。{p}{v:009F}今やただの暗殺部隊に成り下がったがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009E}The Shadow Knights were formed to handle the dirty{n}work behind political affairs. A necessary evil, one{n}might say.{p}{v:009F}Now they have sunk to being a mere squad{n}of assassins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0153",
    "jp": "{v:00A0}ねぇ、ねぇ。{n}どうしてそんなに詳しいの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A0}Hey, wait a minute. How do you know so much{n}about them?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0154",
    "jp": "{v:00A1}シャドー・ナイツは私が先の王に進言して{n}作ったものだ。{n}もっとも、半分はゲヴェルに命じられたのだがな。{p}{v:00A2}そして私が初代マスターの座に就いていたからだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A1}Because I was the one who advised the previous king{n}to create the Shadow Knights. Though, truth be told,{n}half of that was on Gevel's orders.{p}{v:00A2}And because I served as their first Master.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0155",
    "jp": "{v:00A3}それなら今のマスターは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A3}Then who's their Master now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0156",
    "jp": "{v:00A4}おそらくガムランだ。{n}奴の狡猾さ、毒物や呪術の知識があれば{n}当然のことだろう。{p}{v:00A5}だが奴は残忍すぎる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A4}Most likely Gamlan. Given his cunning and knowledge of{n}poisons and curses, it would be a natural choice.{p}{v:00A5}But he is far too cruel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0157",
    "jp": "{v:00A6}ガムラン‥‥奴が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A6}Gamlan... That bastard...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0158",
    "jp": "{v:00A7}それで納得できたわね。{n}ガムランがランザック王国をたきつけて{n}ローランディアを挟み撃ちにしようとしたんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A7}Well, that explains it. Gamlan stirred up the Kingdom of{n}Ranzak, hoping to catch Rolandia between two armies.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0159",
    "jp": "{v:00A8}ルイセよ。{n}お前はグローシアンの中でも一番の能力を持つ。{p}{v:00A9}いわばゲヴェルを倒せる唯一の存在だ。{p}{v:00AA}だから守った。{n}それだけのことだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A8}Luise. Your powers are the greatest of all{n}the Growsians.{p}{v:00A9}In other words, you are the only one capable of{n}defeating Gevel.{p}{v:00AA}That is why I protected you. Nothing more.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0160",
    "jp": "{v:00AB}なんだか素直じゃない感じね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AB}You sure don't like admitting how you feel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0161",
    "jp": "{v:00AC}とにかく謎が解けて良かったな。{n}後は俺たちが出来ることをするだけだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AC}Well, at least we've got some answers. Now we just do{n}what we can.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0162",
    "jp": "{v:00AD}ええ。{n}ヴェンツェルさんに助けてもらったこの命にかけて、{n}ゲヴェルの支配を防いでみせます！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AD}Yes. I swear on this life Wenzel-san saved, I'll stop{n}Gevel from ruling over us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0163",
    "jp": "お兄ちゃん！{n}王様の前で、そんなことしちゃ、失礼だよ！",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother! It's rude to do that in front of the king!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen053.0164",
    "jp": "この状況で何処へ行こうってのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going at a time like this?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

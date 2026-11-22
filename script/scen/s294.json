@@ -15,20 +15,23 @@
   {
    "id": "scen294.0001",
    "jp": "今度はがんばっておいしいケーキを作りますね。",
-   "en": "",
-   "term": "end"
+   "en": "I'll do my best to make a delicious cake next time!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0002",
    "jp": "お兄さま、今日はルイセちゃんの{n}お誕生日だっておぼえてます？{p}ちなみにアタシの誕生日は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, you do remember it's Luise-chan's{n}birthday today, don't you?{p}By the way, my birthday is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0003",
    "jp": "聞いてないわよ！",
-   "en": "",
-   "term": "end"
+   "en": "Nobody asked!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0004",
@@ -39,272 +42,317 @@
   {
    "id": "scen294.0005",
    "jp": "さ～て、行こうか。",
-   "en": "",
-   "term": "end"
+   "en": "Well, let's get going.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0006",
    "jp": "あ、ティピちゃん、{n}お兄さま{FFF0}♥{FFF1}{n}何か面白いこと、ありましたか？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Tippi-chan! Big Brother{FFF0}♥{FFF1} Has anything{n}fun happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0007",
    "jp": "そうねぇ‥‥。{n}ボチボチかなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Let's see... A thing or two, I guess...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0008",
    "jp": "それじゃ、アタシが{n}『ためになる話』をしてあげますよ★",
-   "en": "",
-   "term": "end"
+   "en": "Then let me tell you something 'educational'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0009",
    "jp": "アンタに、そんな話できるのぉ～？",
-   "en": "",
-   "term": "end"
+   "en": "Youuu? You've got something educational to tell us?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0010",
    "jp": "あ、ヒッド～イ！{n}こう見えてもアタシ、{n}他の人に誇れることの１つくらいはあるんですよ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, how meean! I'll have you know there's at least ONE{n}thing I can be proud of!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0011",
    "jp": "へぇ～！{n}何よ、ソレ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, reaaally? What's that?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0012",
    "jp": "うふふ～♪{n}実は『花言葉』なんです！",
-   "en": "",
-   "term": "end"
+   "en": "Heehee♪ It's the 'language of flowers'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0013",
    "jp": "へぇ～！",
-   "en": "",
-   "term": "end"
+   "en": "Reaaally!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0014",
    "jp": "まず、最初はこれ！{n}情熱をあらわすような南国の赤い花、{n}ハイビスカス！{p}花言葉はずばり、{n}『新しい恋』なんです。",
-   "en": "",
-   "term": "end"
+   "en": "Let's start with this one! A red tropical flower that{n}seems to embody passion: the hibiscus!{p}In the language of flowers, it means 'new love'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0015",
    "jp": "うふふ、ぴったり{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Heehee, a perfect fit{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0016",
    "jp": "なるほどねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0017",
    "jp": "これからも、いっぱい教えてあげますね！{n}次回を楽しみにして下さいねぇ～！",
-   "en": "",
-   "term": "end"
+   "en": "I'll teach you lots more! Look forward to our{n}next lesson!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0018",
    "jp": "ピンクのバラの花言葉って『暖かい心』なんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "In the language of flowers, a pink rose means 'a{n}warm heart'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0019",
    "jp": "えへへ、アタシの心も{n}あったかいですよ～{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Heehee, my heart is warm, toooo{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0020",
    "jp": "カーネーションの花言葉って{n}『愛を信じる』事なんです。{p}もちろん、アタシはいつも信じてます。",
-   "en": "",
-   "term": "end"
+   "en": "In the language of flowers, a carnation means 'faith{n}in love'.{p}Of course, I always have faith!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0021",
    "jp": "赤いヒヤシンスの花言葉は『遊び心』{n}大切ですよね？{p}だからってお勉強しないわけじゃないですよ。",
-   "en": "",
-   "term": "end"
+   "en": "A red hyacinth means 'playfulness'. That's important,{n}isn't it?{p}But that doesn't mean I don't study!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0022",
    "jp": "お兄さまはヒマワリ好きですか？{n}ヒマワリの花言葉は{n}『あなたは素晴らしい』なんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Do you like sunflowers, Big Brother? In the language of{n}flowers, they mean 'you are wonderful'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0023",
    "jp": "オミナエシの花言葉は『美しさ』{n}アタシはまだまだですけど、{n}これからがあります！{p}{FC06}ファイト、ミーシャ、オー！！",
-   "en": "",
-   "term": "end"
+   "en": "Golden lace means 'beauty'. I've still got a long way to{n}go, but my time will come!{p}{FC06}Come on, Misha! You can do it! YEAH!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0024",
    "jp": "ジンチョウゲの花言葉は『永遠』{n}なんです。永遠に続く恋‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "In the language of flowers, daphne means 'eternity'. A{n}love that lasts forever...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0025",
    "jp": "ああ、素敵！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, how wonderful!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0026",
    "jp": "タチアオイの花言葉は『大きな望み』{n}なんです。{p}アタシの望みは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "In the language of flowers, hollyhocks mean{n}'great hopes'.{p}What I hope for is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0027",
    "jp": "きゃ～、はずかしい{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Eee! I'm too embarrassed{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0028",
    "jp": "ヒナゲシのようなアタシ‥‥。{p}えっ？{FFFB}{n}花言葉は『乙女らしさ』ですよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm just like a poppy...{p}Hmm?{FFFB}In the language of flowers, it means{n}'maidenly grace'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0029",
    "jp": "マリゴールドの花言葉は{n}『可憐な愛情』なんです。",
-   "en": "",
-   "term": "end"
+   "en": "In the language of flowers, a marigold means{n}'tender affection'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0030",
    "jp": "まるで誰かみたい‥‥{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Just like someone we know...{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0031",
    "jp": "マーガレットの花言葉は{n}『心に秘めた愛』",
-   "en": "",
-   "term": "end"
+   "en": "In the language of flowers, a marguerite means 'love{n}hidden in the heart'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0032",
    "jp": "ああ、想いを胸に秘めて生きるなんて素敵！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, how romantic, going through life with your love{n}hidden in your heart!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0033",
    "jp": "アマリリスの花言葉は『誇り』{n}ああ、お兄さまにぴったり！",
-   "en": "",
-   "term": "end"
+   "en": "Amaryllis means 'pride'. Oh, it suits you perfectly,{n}Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0034",
    "jp": "サクラソウの花言葉って『少年時代の希望』{n}なんですよ。{p}{FC04}ああ、お兄さまの少年時代って‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "In the language of flowers, a primrose means 'the{n}hopes of boyhood'.{p}{FC04}Oh, what you must have been like as a little boy,{n}Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0035",
    "jp": "お兄さまとの出会いはエーデルワイスのよう。{n}花言葉は‥‥{FE1E}{FC04}そう、『初恋の感動』",
-   "en": "",
-   "term": "end"
+   "en": "Meeting you was like edelweiss, Big Brother. In the{n}language of flowers, it means...{FE1E}{FC04}Yes, 'the thrill of{n}first love'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0036",
    "jp": "アタシ、キキョウの花言葉のような人が好きです。{n}『優しい温かさ』を持った人。{p}{FC04}もちろん、お兄さまのような。{FFFB}{n}きゃっ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "I like people with the 'gentle warmth' that balloon{n}flowers symbolize.{p}{FC04}Like you, of course, Big Brother.{FFFB}Eee{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0037",
    "jp": "{FFF6}{v:01A2}お兄さまはバイモユリ♪{n}いつかアタシにホウセンカ♪{n}アタシの心はサルビアで、{n}ラッパスイセン、スターチス♪{p}{v:01A3}ちっちゃなティピちゃん、アジサイで♪{n}ルイセちゃんはナデシコで♪{n}ウォレスさんならヘレニウム♪",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{v:01A2}Big Brother is a fritillary♪ Someday, balsam just for{n}me♪ My heart is salvia, A daffodil and statice♪{p}{v:01A3}Little Tippi-chan's a hydrangea♪ Luise-chan is dianthus♪{n}And Wallace-san is helenium♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0038",
    "jp": "アンタ、なに変な歌をうたってんのよ？",
-   "en": "",
-   "term": "end"
+   "en": "What's with that weird song you're singing?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0039",
    "jp": "あ、あの‥‥{n}これはみんなを花言葉にたとえた歌でぇ‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Oh, um... It's a song comparing everyone to the{n}meanings of flowers...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0040",
    "jp": "‥‥で、どういう意味よ？",
-   "en": "",
-   "term": "end"
+   "en": "...So, what does it mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0041",
    "jp": "えっと‥‥。{p}{FFF7}{v:01AB}ルイセちゃんのナデシコが『無邪気』{n}ウォレスさんのヘレニウムが『寛大な心』{n}お兄さまのバイモユリが『凛とした姿』‥‥。{p}{FC04}{v:01AC}きゃーっ！{n}恥ずかし～！",
-   "en": "",
-   "term": "end"
+   "en": "Well...{p}{FFF7}{v:01AB}Luise-chan's dianthus means 'innocence', Wallace-san's{n}helenium means 'a generous heart', and Big Brother's{n}fritillary means 'a dignified bearing'...{p}{FC04}{v:01AC}Eee! This is so embarrassing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0042",
    "jp": "だいだい色のマリゴールドは『真心』を{n}意味してるんですよ。{p}アタシの真心はどうやって伝えればいいのか{n}悩んじゃいます～。",
-   "en": "",
-   "term": "end"
+   "en": "Orange marigolds mean 'sincerity', you know.{p}I just can't figure out how to show you how sincere my{n}feelings are!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0043",
    "jp": "カスミソウってかわいいですよね？{n}でも、白いカスミソウの花言葉は『静心』{n}{FC06}‥‥アタシとは無縁かな？",
-   "en": "",
-   "term": "end"
+   "en": "Baby's breath is cute, isn't it? But white baby's breath{n}means 'tranquility' in the language of flowers. {FC06}...Not{n}really my strong suit, is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0044",
    "jp": "アザミの花言葉って『独立』なんです。{n}あこがれちゃう言葉ですよね？{n}あっ、でもお兄さまはとっくに独立してますね。{p}{FC04}あこがれちゃう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Thistles mean 'independence' in the language of flowers.{n}Isn't that something to aspire to? Oh, but you're{n}already independent, Big Brother.{p}{FC04}I do look up to you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0045",
    "jp": "オレンジの花言葉って『寛大』なんですよ。{n}昔は食べるものとしか思っていなかったけど、{n}よく見ると花もかわいいんですよね。",
-   "en": "",
-   "term": "end"
+   "en": "Orange blossoms mean 'generosity' in the language{n}of flowers.{p}I used to think oranges were just something to eat,{n}but the flowers are cute too, if you look closely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0046",
    "jp": "同じ花でも色によって花言葉は違うんですよ。{n}黄色いキクは『高潔』、赤なら『真の愛』{n}白は『真実』なんです。",
-   "en": "",
-   "term": "end"
+   "en": "Even the same flower means different things{n}depending on its color.{p}Yellow chrysanthemums mean 'nobility,' red ones mean{n}'true love,' and white ones mean 'truth.'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0047",
    "jp": "あっ、お兄さま。{n}さっきはどうも{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother. Thank you for earlier{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0048",
    "jp": "他の人たちはどう過ごしているんでしょうね？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder how everyone else is spending their time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen294.0049",
    "jp": "ルイセちゃんはどこへ行ったんでしょうね？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder where Luise-chan went.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

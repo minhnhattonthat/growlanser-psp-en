@@ -15,733 +15,854 @@
   {
    "id": "scen098.0001",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen098.0002",
    "jp": "ローランディア兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen098.0003",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen098.0004",
    "jp": "ノストリッジ平原駐留軍",
-   "en": "",
-   "term": "end"
+   "en": "Nostridge Plains Garrison",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0005",
    "jp": "あとは、どうやってバーンシュタイン軍を{n}追い払うかだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "All that remains is to find a way to drive off the{n}Burnstein army...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0006",
    "jp": "{v:0000}おお、君たちが物資輸送を手伝ってくれたそうだな。{n}おかげで初めてちゃんとした補給を受けられたよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Ah, I hear you helped transport the supplies. Thanks{n}to you, we've finally received a proper shipment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0007",
    "jp": "{v:0001}途中でシャドー・ナイトって奴が{n}邪魔してやがったんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Some bastard calling himself a Shadow Knight was{n}getting in the way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0008",
    "jp": "{v:0002}シャドー・ナイトだと！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}A Shadow Knight?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0009",
    "jp": "{v:0005}ええ。{n}たしかにそう記憶していますわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Yes. I distinctly remember that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0010",
    "jp": "{v:0004}たしかに言っていたな。{n}シャドー・ナイトとか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}He did say that. Something about being a{n}Shadow Knight...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0011",
    "jp": "{v:0003}うん、そんなこと言ってたね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Yeah, he said something like that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0012",
    "jp": "{v:0006}そのシャドー・ナイトって、何なの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}What's a Shadow Knight, anyway?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0013",
    "jp": "{v:0007}シャドー・ナイトは、{n}インペリアル・ナイトと全く逆の存在だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}A Shadow Knight is the exact opposite of an{n}Imperial Knight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0014",
    "jp": "{v:0008}それってどういうこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}What's that supposed to mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0015",
    "jp": "{v:0009}国の象徴であり国民のあこがれである{n}インペリアル・ナイツ。{p}{v:000A}それとは逆に公には認められぬ、まさに影の実行部隊。{n}それがシャドー・ナイツだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}The Imperial Knights are a symbol of their nation,{n}admired by its people.{p}{v:000A}Their counterparts are a force whose existence is{n}never publicly acknowledged, operating in the shadows.{n}Those are the Shadow Knights.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0016",
    "jp": "{v:000B}影の実行部隊‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}A force operating in the shadows...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0017",
    "jp": "{v:000C}そうだ。{n}特殊な存在だけに、一般にはまったく知られていない。{p}{v:000D}われわれ軍部がこのことを知ったのも、{n}つい最近のことだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}That's right. Because of their unusual role, the public{n}knows nothing about them.{p}{v:000D}Even we in the military only learned of them{n}very recently.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0018",
    "jp": "{v:0086}でも、今の奴、それほど強くなかったよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0086}But that guy wasn't all that strong, was he?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0019",
    "jp": "{v:000E}シャドー・ナイトの恐ろしさは、{n}一人一人の強さではない。{n}敵国内に忍び込み、妨害工作や暗殺を手がけることだ。{p}{v:000F}奴らの裏工作とインペリアル・ナイトの比肩なき強さ。{n}両者の連携の前に、{n}我々は苦しめられてきたということだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}What makes the Shadow Knights dangerous is not their{n}individual strength. They infiltrate enemy territory to{n}carry out sabotage and assassinations.{p}{v:000F}Their covert operations, combined with the unrivaled{n}strength of the Imperial Knights, have caused us no{n}end of trouble.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0020",
    "jp": "{v:0011}少なくともシャドー・ナイツの１人は{n}追い返しましたよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}At least we've driven off one of the Shadow Knights.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0021",
    "jp": "{v:0012}でも、今はシャドー・ナイトは{n}いなくなってしまいましたが。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}But the Shadow Knight is gone now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0022",
    "jp": "{v:0010}でもアタシたちがやっつけちゃったけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}But we already beat him, you know...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0023",
    "jp": "{v:0013}ああ、そうだな。{n}だからこそ、今が正面のインペリアル・ナイトを{n}押し返すチャンスだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Yes, that's right. Which is precisely why now is our{n}chance to push back the Imperial Knight facing us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0024",
    "jp": "{v:0014}あの、オリビエ湖ってここから遠いんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Um, is Lake Olivier far from here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0025",
    "jp": "{v:0015}オリビエ湖？{n}君たちはそこへ行きたいのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Lake Olivier? Is that where you want to go?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0026",
    "jp": "{v:0016}うん！{n}そこを調査するのが任務なんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Yep! Our mission is to investigate it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0027",
    "jp": "{v:0017}ふむ‥‥。{p}{v:0018}オリビエ湖はそれほど遠くないのだが、{n}すぐには行けんぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Hmm...{p}{v:0018}Lake Olivier isn't very far, but you won't be able to get{n}there right away.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0028",
    "jp": "{v:0019}たしか、ここからなら橋を越えてすぐだと思ったが？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}If I remember right, it's just across the bridge from{n}here, isn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0029",
    "jp": "{v:001A}その橋が渡れればの話だ。{p}{v:001B}バーンシュタイン軍は、橋を越えてこちら側まで{n}入り込んできている。{n}現在、総力をあげて押し返しているところだ。{p}{v:001C}何しろ今日は疲れただろう。{n}我が軍がバーンシュタイン軍を押し返すまで{n}休むといい。{p}{v:001D}といっても、テントしかないがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Assuming you can cross that bridge.{p}{v:001B}The Burnstein army has crossed the bridge and{n}advanced onto this side. We're doing everything we can{n}to push them back.{p}{v:001C}You must be tired after today. Get some rest while our{n}army drives the Burnstein army back.{p}{v:001D}Though all we can offer you is a tent.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0030",
    "jp": "お疲れさまです。{n}ベルナード将軍がお待ちです。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you for your efforts. General Bernard is waiting{n}for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0031",
    "jp": "お休みの用意が出来ています。{n}このテントをお使い下さい。",
-   "en": "",
-   "term": "end"
+   "en": "We've prepared a place for you to rest. Please use{n}this tent.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0032",
    "jp": "あと一押しで、バーンシュタイン軍を{n}橋の向こうへ追いやれるのだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Just one more push, and we could drive the Burnstein{n}army back across the bridge...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0033",
    "jp": "いよいよ、俺の出番だぜ！{n}飯さえ食えりゃ、百人力よ！{n}お前たちには、ほんと感謝してるぜ！",
-   "en": "",
-   "term": "end"
+   "en": "Finally, it's my turn! With a full belly, I can take on a{n}hundred men! I really owe you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0034",
    "jp": "‥‥いよいよ出撃かぁ‥‥。{p}戦いなんて、しなくて済めば、{n}ソレが一番だと思わないかい？",
-   "en": "",
-   "term": "end"
+   "en": "...So we're finally heading into battle...{p}Don't you think it'd be best if we didn't have to fight{n}at all?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0035",
    "jp": "何を腑抜けたこと、言ってんのよ！{n}負けたら、アンタのせいだからね！",
-   "en": "",
-   "term": "end"
+   "en": "Quit talking like a coward! If we lose, I'm blaming you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0036",
    "jp": "‥‥そりゃ、戦うときは真面目にやるけどさ。{n}僕だって死にたくはないからね。{n}けど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Sure, I'll take it seriously when we fight. I don't want{n}to die either. But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0037",
    "jp": "これで進軍できるわね！{n}私の魔法で、バーンシュタイン軍なんか{n}蹴散らしてあげるんだから！",
-   "en": "",
-   "term": "end"
+   "en": "Now we can advance! I'll scatter that Burnstein army{n}with my magic!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0038",
    "jp": "おい、君‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0039",
    "jp": "ありがとうございます。{n}あなた達のおかげで、{n}この戦に勝つことが出来そうです。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you. Thanks to you, it looks as though we can{n}win this battle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0040",
    "jp": "お疲れでしょうから、{n}今日はゆっくりとお休み下さい。",
-   "en": "",
-   "term": "end"
+   "en": "You must be tired. Please get plenty of rest today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0041",
    "jp": "テントで休みますか？",
-   "en": "",
-   "term": "end"
+   "en": "Rest in the tent?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0042",
    "jp": "‥‥{v:0041}終わったみたいね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0041}Looks like it's over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0043",
    "jp": "{v:0042}本当に君たちだけで{n}インペリアル・ナイトを追い払ってしまうとは‥‥。{p}{v:0043}まだ信じられん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}You really drove off the Imperial Knight all{n}by yourselves...{p}{v:0043}I still can't believe it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0044",
    "jp": "{v:0044}だから、任せてって言ったでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}See? Didn't I tell you to leave it to us?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0045",
    "jp": "{v:0045}これで先まで進めるね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Now we can keep going!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0046",
    "jp": "ありがとうございます。{n}きっと隊長もうかばれることでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you. I'm sure the captain can rest in peace now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0047",
    "jp": "{v:0000}みんながんばってくれ。{n}ここが正念場だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Give it your all, everyone. This is the decisive moment!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0048",
    "jp": "{v:0001}おおーっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Yeah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0049",
    "jp": "{v:0002}くっ！{n}さすがにインペリアル・ナイトは強い‥‥。{n}ほとんどが奴１人に防がれているとは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Damn! That Imperial Knight is as strong as they say...{n}He's holding almost all of us back single-handedly...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0050",
    "jp": "{v:0003}どうしたんだろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}I wonder what's wrong?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0051",
    "jp": "{v:0004}やっとここまで敵を押し返したというのに、{n}ここから先へ進めずにいるんだ。{p}{v:0005}敵のインペリアル・ナイトたった１人のせいでな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}We've finally pushed the enemy back this far, but now{n}we can't advance any farther.{p}{v:0005}All because of one enemy Imperial Knight...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0052",
    "jp": "{v:0006}どうするの？{n}わたしたちの目的地もあと少しなんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}What should we do? Our destination isn't much farther{n}either, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0053",
    "jp": "戦線は膠着していますが、どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "The battle has reached a stalemate. What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0054",
    "jp": "・自分たちが戦う",
-   "en": "",
+   "en": "・Fight them yourselves",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen098.0055",
    "jp": "・今は戦わない",
-   "en": "",
+   "en": "・Don't fight for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen098.0056",
    "jp": "・自分たちの出る幕じゃない",
-   "en": "",
+   "en": "・Leave this battle to the army",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen098.0057",
    "jp": "{v:0007}先へ進むためには仕方ねぇよな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}If we want to get through, we've got no choice.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0058",
    "jp": "{v:0008}しかし、君たちだけでは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}But surely you cannot face them alone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0059",
    "jp": "{v:0009}まぁ、見ててよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Just watch us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0060",
    "jp": "{v:000A}ちょっと手強そうだし、それなりの準備が必要よね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}He looks pretty tough. We'd better get{n}ourselves ready.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0061",
    "jp": "{v:000B}そうだ。{n}これ以上君たちに頼っては、{n}ローランディア軍の面目が立たん。{p}{v:000C}我々だけでここを切り抜けるんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Quite right. If we rely on you any more, Rolandia's army{n}will lose all dignity.{p}{v:000C}We shall break through on our own!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0062",
    "jp": "{v:000D}おおーーっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Yeaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0063",
    "jp": "{v:000E}何だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0064",
    "jp": "・自分たちが戦う",
-   "en": "",
+   "en": "・Fight them yourselves",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen098.0065",
    "jp": "・何でもない",
-   "en": "",
+   "en": "・Never mind",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen098.0066",
    "jp": "{v:000F}先へ進むためには仕方ねぇよな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}If we want to get through, we've got no choice.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0067",
    "jp": "{v:0010}しかし、君たちだけでは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}But surely you cannot face them alone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0068",
    "jp": "{v:0011}まぁ、見ててよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Just watch us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0069",
    "jp": "‥‥{v:0012}そうか。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0012}I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0070",
    "jp": "本当に信じられん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I can scarcely believe it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0071",
    "jp": "インペリアル・ナイト相手に、{n}この兵力で勝てるのか‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "Can we really defeat an Imperial Knight with so{n}few troops...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0072",
    "jp": "凄い‥‥。{n}ナイツ２人を追い払うなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Incredible... They drove off two Imperial Knights...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0073",
    "jp": "くそっ！{n}負けてたまるか！",
-   "en": "",
-   "term": "end"
+   "en": "Damn it! I won't let them beat me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0074",
    "jp": "我がローランディアの騎士が{n}インペリアル・ナイツと互角に戦えるとは‥‥。{n}何だか自分のことのように嬉しいよ。",
-   "en": "",
-   "term": "end"
+   "en": "To think Rolandia's own knight can fight the Imperial{n}Knights as an equal... I'm almost as happy as if I'd done{n}it myself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0075",
    "jp": "いったいどうすれば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What on earth can we do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0076",
    "jp": "まさか、あのインペリアル・ナイツを{n}退かせる者がいようとは‥‥。{n}未だに信じられん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I never imagined anyone could force those Imperial{n}Knights to retreat... I still can scarcely believe it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0077",
    "jp": "後は私たちに任せて、{n}君たちは君たちの任務に戻るといい。",
-   "en": "",
-   "term": "end"
+   "en": "Leave the rest to us. You should return to your{n}own mission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0078",
    "jp": "うん♪{n}将軍たちも頑張ってね★",
-   "en": "",
-   "term": "end"
+   "en": "Sure♪ Good luck to you all too, General!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0079",
    "jp": "いや～、君たちは本当に凄いな。{n}あのインペリアル・ナイトを退けるなんて‥‥。{p}私もその場面を見てみたかったな～。",
-   "en": "",
-   "term": "end"
+   "en": "Well, you really are remarkable. Driving off that{n}Imperial Knight...{p}I wish I could have seen it myself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0080",
    "jp": "やっぱり凄く強かったな、インペリアル・ナイトって。{n}俺なんか腰が引けちゃって、何もできなかったよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "That Imperial Knight really was strong. I lost my nerve{n}and couldn't do a thing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0081",
    "jp": "私たちであのインペリアル・ナイトを退けたのよね！{p}う～ん‥‥気分爽快{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "We actually drove off that Imperial Knight!{p}Mmm... What a wonderful feeling{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0082",
    "jp": "この辺りの敵を一掃することが出来ました。{n}これもあなた達のおかげですね。",
-   "en": "",
-   "term": "end"
+   "en": "We've managed to clear the enemy out of this area. We{n}owe that to you, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0083",
    "jp": "これからも頑張って下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Keep up the good work.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0084",
    "jp": "あなた達の戦いを見て士気の上がっている今なら、{n}バーンシュタイン兵を押し返す事ができるでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "Seeing you fight has raised our troops' spirits. We{n}should be able to push back the Burnstein{n}soldiers now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0085",
    "jp": "化け物の次は支配階級グローシアンの末裔か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "First a monster, now a descendant of the Growsian{n}ruling class...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0086",
    "jp": "バーンシュタインとの戦争は終わったが、{n}まだ事後処理があるからな。{n}しばらくこの陣をたたむことは出来んよ。",
-   "en": "",
-   "term": "end"
+   "en": "The war with Burnstein is over, but there's still work{n}to be done in its aftermath. We won't be breaking camp{n}for a while.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0087",
    "jp": "いや～、君たちは本当に凄いな。",
-   "en": "",
-   "term": "end"
+   "en": "Well, you really are remarkable.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0088",
    "jp": "戦いに比べりゃ、事後処理の方が気が楽だ。",
-   "en": "",
-   "term": "end"
+   "en": "Cleaning up after a war is a lot less nerve-racking than{n}fighting one.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0089",
    "jp": "人間を相手にしなくていいなんて、{n}う～ん‥‥気分爽快{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "We don't have to fight other people anymore. Mmm...{n}What a wonderful feeling{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0090",
    "jp": "ありがとうございます。{n}あなた達のおかげです。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you. It's all thanks to you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0091",
    "jp": "あなた達の戦いを見て、{n}自分の戦い方を見直しているところです‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "After watching you fight, I've been reconsidering my{n}own fighting style...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0092",
    "jp": "一人で何処へ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going all by yourself?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0093",
    "jp": "{v:0023}ワーッハハハッ！　本陣がこれほど手薄だとはな！{n}わざわざ遠回りをしてきた甲斐が{n}あったというものだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Wahahaha! To think their headquarters would be so{n}poorly defended! Taking the long way around was well{n}worth it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0094",
    "jp": "{v:0024}何だと！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0095",
    "jp": "{v:0025}物資不足で大きな行動を起こせなかったお前たちが{n}やっと物資を手に出来たんだ。{p}{v:0026}一斉に攻めるだろうと予想はしたが、{n}まさかここまでとはな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}You couldn't launch a major offensive without supplies,{n}and now you've finally got them.{p}{v:0026}I expected you to attack in force, but I never imagined{n}you'd go this far!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0096",
    "jp": "{v:0027}くっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Damn!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0097",
    "jp": "{v:0028}ベルナード将軍を倒せば、{n}ローランディア軍の士気は下がる！{n}奴を集中的にねらえ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Kill General Bernard, and Rolandia's army will lose heart!{n}Concentrate your attacks on him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0098",
    "jp": "{v:0029}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0099",
    "jp": "{v:002A}何だか大変なことになってる～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Uh-oh... Things are looking pretty bad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0100",
    "jp": "{v:002B}それにしてもタイミングが良すぎるな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Still, their timing's a little too good...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0101",
    "jp": "{v:002C}兵隊がいなくなった時を狙って‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}They waited until the soldiers were gone...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0102",
    "jp": "{v:002D}おおかた、あのモンスター使いが報告を入れたんで、{n}こっちが手薄になることを予測したんだろうよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}That Monster Tamer probably sent a report. They{n}must've figured we'd leave this place lightly defended...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0103",
    "jp": "{v:002E}自分が負けたことまでチャンスにしちゃうの？{n}それがシャドー・ナイト？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}He even turns his own defeat into an opportunity? Is{n}that what a Shadow Knight does?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0104",
    "jp": "{FB00}{v:002F}さすが非情の裏工作部隊だぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:002F}That's a ruthless covert squad for you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0105",
    "jp": "{v:0030}感心してる場合じゃないよ！{n}アタシ達でベルナード将軍を守ってあげないと！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}This is no time to be impressed! We've gotta protect{n}General Bernard!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0106",
    "jp": "{v:001E}おはようございます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Good morning.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0107",
    "jp": "{v:001F}ずいぶんゆっくり眠れたようだな。{p}{v:0020}君たちのおかげで物資も届き、兵の士気が高まったよ。{n}昨夜から総力をあげてバーンシュタイン軍を{n}押し戻しているところだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}It seems you had a good, long sleep.{p}{v:0020}Thanks to you, our supplies arrived and the troops'{n}spirits have risen. Since last night, we've been using our{n}full strength to drive back Burnstein's army.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0108",
    "jp": "{v:0021}それで兵隊がここに残ってないんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}So that's why there aren't any soldiers left here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0109",
    "jp": "{v:0085}まもなく橋の向こうまで押し返すことが出来るだろう。{p}{v:0022}そうすれば君たちもオリビエ湖まで行くことが{n}出来るはずだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}We should soon be able to push them back across{n}the bridge.{p}{v:0022}Then you should be able to reach Lake Olivier.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0110",
    "jp": "まさか、背後から襲ってくるとは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I never thought they'd attack from behind...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0111",
    "jp": "怖かった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I was so scared...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0112",
    "jp": "‥‥やれやれ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Good grief...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0113",
    "jp": "何とか将軍を守り抜きましたね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Somehow, we managed to keep the General safe...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0114",
    "jp": "危ないところだったね。",
-   "en": "",
-   "term": "end"
+   "en": "That was close.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0115",
    "jp": "どうしたんだい？",
-   "en": "",
-   "term": "end"
+   "en": "What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0116",
    "jp": "{v:0040}大丈夫ですか！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Are you all right?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0117",
    "jp": "{v:0041}ああ、ありがとう。{n}おかげで助かったよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Yes, thank you. You saved my life.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0118",
    "jp": "{v:0042}せっかく士気が上がったって時に、{n}将軍に死なれるわけにはいかねぇからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Couldn't let the General get killed just when the{n}troops' spirits were picking up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0119",
    "jp": "{v:0043}うむ、かたじけない。{p}{v:0044}しかし、今の連中は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Mm. I am in your debt.{p}{v:0044}But those men just now...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0120",
    "jp": "{v:0045}おそらくシャドー・ナイトの部下だろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Probably men serving under a Shadow Knight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0121",
    "jp": "{v:0046}うむむ‥‥油断のならん連中だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Hmm... We cannot let our guard down around them...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0122",
@@ -752,8 +873,9 @@
   {
    "id": "scen098.0123",
    "jp": "{v:0048}おお、そうか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Ah, excellent!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0124",
@@ -764,38 +886,44 @@
   {
    "id": "scen098.0125",
    "jp": "{v:004A}そうか。{n}あと一歩だな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}I see. Just a little farther...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0126",
    "jp": "{v:004B}橋が渡れないと、オリビエ湖には行けないね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}We can't get to Lake Olivier unless we can cross{n}the bridge.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0127",
    "jp": "{v:004C}そうだな。{n}なんとかしてバーンシュタイン王国を{n}橋の向こうへ追いやる必要がある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}That's right. We need to find a way to drive Burnstein's{n}forces back across it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0128",
    "jp": "{v:004D}何か決め手になるようなことがあれば、{n}連中を国内から追い出せるのだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}If only we had something to turn the tide, we could{n}drive them out of our country...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0129",
    "jp": "お休みになられますか？",
-   "en": "",
-   "term": "end"
+   "en": "Would you like to rest?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen098.0130",
    "jp": "いつでも声をかけて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Just let me know whenever you need anything.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,290 +15,336 @@
   {
    "id": "scen086.0001",
    "jp": "～フライシェベルグ～第３階層",
-   "en": "",
-   "term": "end"
+   "en": "Fleischeberg -- Level 3",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0002",
    "jp": "　{n}　　　　　まだ動いていないようだ。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　It still doesn't seem to be moving.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0003",
    "jp": "～フライシェベルグ～第３階層第２ブロック",
-   "en": "",
-   "term": "end"
+   "en": "Fleischeberg -- Level 3, Block 2",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0004",
    "jp": "みんな、敵よ！",
-   "en": "",
-   "term": "end"
+   "en": "Everyone, enemies!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0005",
    "jp": "足場が狭い。{n}よく考えて戦うんだ！",
-   "en": "",
-   "term": "end"
+   "en": "Not much room to stand. Think before you fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0006",
    "jp": "また通せんぼだよ！？",
-   "en": "",
-   "term": "end"
+   "en": "We're blocked again?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0007",
    "jp": "でも、床の印とか、怪しいよね？{n}こっちに３つ。{n}向こうに１つ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "But those marks on the floor look suspicious, don't{n}they? Three over here. One over there...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0008",
    "jp": "印をすべて踏まないとダメってやつか？{n}似たような仕掛けが以前にもあったな。",
-   "en": "",
-   "term": "end"
+   "en": "So we have to step on all the marks? We've seen a{n}mechanism like this before.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0009",
    "jp": "アタシ達のうち、３人が印を踏んで、道を作る。{n}残った者が先へ進んで、{n}あっちの印を踏むって段取りね。",
-   "en": "",
-   "term": "end"
+   "en": "Three of us step on the marks to make a path. Then{n}the others go ahead and step on the mark over there.{n}That's the plan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0010",
    "jp": "パーティーを分けることになる。{n}判断は頼んだぞ、{s:0000}。",
-   "en": "",
-   "term": "end"
+   "en": "We'll have to split the party. Your call,{n}{s:0000}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0011",
    "jp": "右上は誰にしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will take the upper right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0012",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0013",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0014",
    "jp": "・{s:FFEF}",
-   "en": "",
+   "en": "・{s:FFEF}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0015",
    "jp": "・{s:FFF0}",
-   "en": "",
+   "en": "・{s:FFF0}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0016",
    "jp": "・{s:FFF1}",
-   "en": "",
+   "en": "・{s:FFF1}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0017",
    "jp": "中央は誰にしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will take the center?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0018",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0019",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0020",
    "jp": "・{s:FFEF}",
-   "en": "",
+   "en": "・{s:FFEF}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0021",
    "jp": "・{s:FFF0}",
-   "en": "",
+   "en": "・{s:FFF0}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0022",
    "jp": "左下は誰にしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will take the lower left?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0023",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0024",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0025",
    "jp": "・{s:FFEF}",
-   "en": "",
+   "en": "・{s:FFEF}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen086.0026",
    "jp": "やったね★{p}後は向こうの印を踏むだけだよ！",
-   "en": "",
-   "term": "end"
+   "en": "We did it!{p}Now we just have to step on the mark over there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0027",
    "jp": "{v:001A}いよいよだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}This is it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0028",
    "jp": "{v:001B}うん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Yeah.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0029",
    "jp": "{v:001C}奴を倒しても、無事帰れる保証はねぇぜ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Even if we beat him, there's no guarantee we'll make it{n}back alive.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0030",
    "jp": "{v:001D}ちょっと、怖いけど、がんばる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}I'm a little scared, but I'll do my best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0031",
    "jp": "‥‥{v:001E}嫌だったら一緒に来ませんよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001E}I wouldn't be coming along if I didn't want to.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0032",
    "jp": "{v:001F}みんながいるから、怖くはありません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}With all of you here, I'm not afraid.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0033",
    "jp": "{v:0020}俺は他人任せってのだけは、好かねぇんだ。{n}どんな結果になっても、{n}自分で決めたなら後悔はねぇよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}If there's one thing I can't stand, it's leaving{n}everything to someone else. Whatever happens, I{n}won't regret making my own choice.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0034",
    "jp": "{v:0021}正直、怖いです。{n}でも、僕は逃げません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Honestly, I'm scared. But I won't run away.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0035",
    "jp": "{v:0022}こうして私が剣を握ったのは、{n}闘えぬ者に代わって戦うためだからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}I took up this sword to fight for those who cannot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0036",
    "jp": "{v:0023}最後のグローシアンとして、{n}ゲヴェルは絶対に倒さなきゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}As the last Growsian, I have to defeat Gevel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0037",
    "jp": "{v:0024}よぉし！{n}いくわよ、みんな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}All riiight! Let's go, everyone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0038",
    "jp": "{v:0064}終わったわね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}It's over...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0039",
    "jp": "{v:0065}長かった‥‥。{n}だがこれでやっと終わる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}It's been a long road... But now it'll finally end.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0040",
    "jp": "帰還・ローランディアへ",
-   "en": "",
-   "term": "end"
+   "en": "Return to Rolandia",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0041",
    "jp": "‥‥{v:0025}とうとうここまで来たか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0025}So, you have finally come this far...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0042",
    "jp": "{v:0026}お前の悪事もここまでだぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Your reign of terror ends here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0043",
    "jp": "‥‥{v:0028}この地下の城は我が肉体から造られている。{n}つまり、お前たちはこの中から逃げられはしないのだ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0028}This underground castle was created from my own{n}flesh. You cannot escape from within it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0044",
    "jp": "{v:0029}それは互いに同じです。{n}あなたはわたしがいるだけで苦しいはずでしょう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}That goes both ways. Surely my mere presence is{n}painful to you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0045",
    "jp": "{v:002A}忌々しい小娘だな‥‥。{p}{v:002B}だが、いずれわかるだろう。{n}自分たちの非力さがな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}You wretched little girl...{p}{v:002B}But soon you will understand just how powerless{n}you are!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0046",
    "jp": "{v:002C}絶対に負けないから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}I won't lose!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0047",
@@ -309,32 +355,37 @@
   {
    "id": "scen086.0048",
    "jp": "{v:002E}悲しい存在ですね。{n}私たちがその呪縛を解き放ってあげる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}What a sorrowful existence. We will free you from{n}that curse.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0049",
    "jp": "{v:002F}どっちにしろ、死ぬのはお前の方だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Either way, you're the one who's going to die.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0050",
    "jp": "{v:0030}僕は王として、自分の国の民を守ります！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}As king, I will protect the people of my country!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0051",
    "jp": "{v:0031}この世界によみがえったことを後悔するぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}You will regret returning to this world.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen086.0052",
    "jp": "{v:0032}いくわよ！{n}みんな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Let's go, everyone!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

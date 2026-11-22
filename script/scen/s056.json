@@ -15,262 +15,304 @@
   {
    "id": "scen056.0001",
    "jp": "衛兵",
-   "en": "",
-   "term": "null"
+   "en": "Guard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen056.0002",
    "jp": "使用人",
-   "en": "",
-   "term": "null"
+   "en": "Servant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen056.0003",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen056.0004",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen056.0005",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen056.0006",
    "jp": "謎の男",
-   "en": "",
-   "term": "null"
+   "en": "Mysterious Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen056.0007",
    "jp": "ダンジョンマン",
-   "en": "",
-   "term": "null"
+   "en": "Dungeon Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen056.0008",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen056.0009",
    "jp": "シュッツベルグ",
-   "en": "",
-   "term": "end"
+   "en": "Schutzberg",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0010",
    "jp": "{v:0000}ここがシュッツベルグなの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}So this is Schutzberg?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0011",
    "jp": "{v:0001}はい。{n}ここにダグラス卿が住んでいるはずなのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Yes. Lord Douglas should be living here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0012",
    "jp": "{v:0002}それじゃ、ダグラス卿の家を探しましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Then let's find Lord Douglas's home.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0013",
    "jp": "こ、これはリシャール王。{n}それにアンジェラ様。{n}どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "K-King Richard! And Angela-sama as well. Please, go{n}right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0014",
    "jp": "これは陛下！{n}どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Your Majesty! Please, go right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0015",
    "jp": "ここはダグラス卿が治めし領地、{n}シュッツベルグです。",
-   "en": "",
-   "term": "end"
+   "en": "This is Schutzberg, the domain governed by{n}Lord Douglas.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0016",
    "jp": "どうぞこの街でゆっくりお休み下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please enjoy a restful stay in our town.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0017",
    "jp": "{v:0003}失礼。{n}ダグラス卿はご在宅か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Excuse me. Is Lord Douglas at home?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0018",
    "jp": "{v:0004}こ、これは陛下！{p}{v:0005}今すぐダグラス様を呼んで参ります。{n}中でお待ち下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Y-Your Majesty!{p}{v:0005}I shall fetch Douglas-sama at once. Please wait inside!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0019",
    "jp": "{v:0006}やっぱり王様がくると、びびるのね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Having the king show up really does give people a{n}fright, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0020",
    "jp": "申し訳ありませんが、ダグラス様はご不在です。{n}前線で軍を指揮していらっしゃるので、{n}そちらへお訪ねになって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "I am sorry, but Douglas-sama is away. He is commanding{n}the army at the front. Please seek him there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0021",
    "jp": "どうぞ、お入り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please, come in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0022",
    "jp": "申しわけございませんが、{n}ダグラス卿は多忙のため、お会いできません。",
-   "en": "",
-   "term": "end"
+   "en": "My apologies, but Lord Douglas is too busy to{n}receive visitors.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0023",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0024",
    "jp": "{v:0002}さて、何の用かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Now, what can I do for you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0025",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0026",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0027",
    "jp": "まだ用事はあるかい？",
-   "en": "",
-   "term": "end"
+   "en": "Anything else you need?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0028",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0029",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0030",
    "jp": "{v:000B}またおいで～。待ってるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Come back soon! I'll be waiting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0031",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0032",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0033",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0034",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0035",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0036",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0037",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0038",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0039",
    "jp": "ダグラス卿が出陣なさったらしいぞ！{p}でも、西ではなく、東へ兵を進めていたけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I hear Lord Douglas has marched off to battle!{p}But he was leading his troops east, not west...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0040",
    "jp": "まさか偽者がこの国を操っていたなんてねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "To think an impostor was pulling this{n}country's strings...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0041",
    "jp": "ここのところの世界情勢はめまぐるしくて、{n}ついていけないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Things are changing so fast around the world lately, I{n}can't keep up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0042",
    "jp": "西の戦場でリーヴス様が負けたって話だが、{n}インペリアル・ナイトを倒せる奴なんて、{n}いるわけがない。{p}きっと何かの間違いだろ。",
-   "en": "",
-   "term": "end"
+   "en": "They say Reeves-sama lost on the western front, but{n}there's no way anyone could beat an Imperial Knight.{p}There must be some mistake.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0043",
@@ -281,663 +323,771 @@
   {
    "id": "scen056.0044",
    "jp": "エリオット様が王位を取り戻す戦いで、{n}我らが領主、ダグラス卿が大活躍したんだ。{n}領民として、鼻が高いよね。",
-   "en": "",
-   "term": "end"
+   "en": "Our own Lord Douglas played a major part in{n}Elliot-sama's fight to reclaim the throne. Makes you{n}proud to be one of his people, doesn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0045",
    "jp": "何かさ、災害事故が多いと思わないかい？{n}この近くでも竜巻が起こったって言うし‥‥。{p}でも、この現象って戦争が始まった前後なんだよね。",
-   "en": "",
-   "term": "end"
+   "en": "Don't you think there have been a lot of disasters and{n}accidents lately? They say there was even a{n}tornado nearby...{p}But all this started around the time the war broke{n}out, didn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0046",
    "jp": "ジュリア様のことは、みんなで秘密にしてたんだけど、{n}まさか自分から女性だと明かすなんて驚いたわ。{n}それに女ナイツまで認めさせるなんて‥‥。{p}やっぱりあのお方は凄いわ。{n}同じ女性として尊敬しちゃうな。",
-   "en": "",
-   "term": "end"
+   "en": "We'd all been keeping Julia-sama's secret, so I was{n}surprised she chose to reveal she was a woman.{p}And she even got them to accept women as{n}Imperial Knights...{p}She really is remarkable. As a fellow woman, I can't help{n}admiring her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0047",
    "jp": "ダグラス様のご長男は剣の腕もさることながら、{n}博学なうえに、誰にでも優しいのよ。{p}まさに心技体全てを兼ねそなえた方よね。",
-   "en": "",
-   "term": "end"
+   "en": "Douglas-sama's eldest son isn't just skilled with a{n}sword. He's learned and kind to everyone, too.{p}He truly has it all--character, skill, and strength.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0048",
    "jp": "ダグラス様が剣を握った姿を{n}久しぶりに見ましたよ。{n}やっぱり、りりしいお方だわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I saw Douglas-sama with a sword in his hand for the{n}first time in ages. He's as gallant as ever...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0049",
    "jp": "偽の王を捕らえたそうじゃありませんか。{n}さすがダグラス様ですわ。",
-   "en": "",
-   "term": "end"
+   "en": "I hear they've captured the false king. Just what you'd{n}expect of Douglas-sama.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0050",
    "jp": "‥‥げう゛ぇる‥‥？{n}はて、何でしょう？",
-   "en": "",
-   "term": "end"
+   "en": "...Gevel...? Hmm, what would that be?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0051",
    "jp": "アタシももう少し若けりゃアタックしてたのに‥‥、",
-   "en": "",
-   "term": "end"
+   "en": "If only I were a little younger, I'd make a move...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0052",
    "jp": "なんて思うほど、あの方は美しいのよねぇ‥‥。{n}ダグラス様のご子息は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "That's how handsome he is... Douglas-sama's son,{n}I mean...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0053",
    "jp": "ダグラス様、早く帰ってこないかなぁ。",
-   "en": "",
-   "term": "end"
+   "en": "I wonder if Douglas-sama will be home soon.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0054",
    "jp": "このよにあくのさかえたためしなし！{FFFB}{n}‥‥カッコイイ言葉だけど、意味がわかんないや。",
-   "en": "",
-   "term": "end"
+   "en": "Evil never prospers in this world!{FFFB} ...That sounds cool,{n}but I don't know what it means.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0055",
    "jp": "やっぱり正義は勝つんだよね？",
-   "en": "",
-   "term": "end"
+   "en": "The good guys always win, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0056",
    "jp": "ここのお兄ちゃんたち、いつ帰ってくるのかなぁ。{n}ジュリア兄ちゃんはナイツになってたけど、{n}弟兄ちゃんはどうしてるんだろ？{p}しゅぎょーのたびって、言ってたけど{n}それって楽しいのかな？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder when the big brothers who live here will come{n}home. Big Brother Julia became an Imperial Knight, but{n}what's Little Big Brother doing?{p}He said he was going on a training journey. Is that fun?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0057",
    "jp": "お待ちなさい。{n}ダグラス卿と会わずに、街を出る気ですか？",
-   "en": "",
-   "term": "end"
+   "en": "Wait. Do you intend to leave town without seeing{n}Lord Douglas?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0058",
    "jp": "事情はダグラス様からうかがっております。{p}しかし、まだ進軍の準備が整っていないため、{n}ここから先へはお通しできません。{p}申し訳ございませんが、{n}お戻りいただけますようお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "Douglas-sama has informed us of the situation.{p}However, preparations for the advance are not yet{n}complete, so we cannot let you through.{p}We apologize, but we must ask you to turn back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0059",
    "jp": "扉には鍵がかかっている。",
-   "en": "",
-   "term": "end"
+   "en": "The door is locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0060",
    "jp": "む？{n}そのまなざし‥‥。{n}さてはこの私の正体を見破ったか！",
-   "en": "",
-   "term": "end"
+   "en": "Hm? That look in your eyes... You have discovered my{n}true identity!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0061",
    "jp": "いや、しかし！{n}貴様には力が足らぬ！{n}圧倒的に足らぬ！{p}もっと力を付けて、また私の前に立て！{n}その時こそは、勝負を受けてやろう！",
-   "en": "",
-   "term": "end"
+   "en": "But no! You lack strength! You are woefully lacking!{p}Grow stronger, then stand before me again! Only then{n}will I accept your challenge!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0062",
    "jp": "良く気づいたな。{n}私こそフェザリアンに選ばれし男。{n}人呼んでダンジョンマン！",
-   "en": "",
-   "term": "end"
+   "en": "Well spotted! I am the man chosen by the Featherians.{n}They call me Dungeon Man!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0063",
    "jp": "さぁ、合い言葉を聞かせてもらおう！",
-   "en": "",
-   "term": "end"
+   "en": "Now, let me hear the password!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0064",
    "jp": "・しし",
-   "en": "",
+   "en": "・Lion",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0065",
    "jp": "・ぼけつ",
-   "en": "",
+   "en": "・Grave",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0066",
    "jp": "・なす",
-   "en": "",
+   "en": "・Eggplant",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0067",
    "jp": "ししはウサギをかるのにも、{n}子をせんじんの谷へ突き落とす‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Even when hunting a rabbit, a lion casts its cub into a{n}bottomless ravine...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0068",
    "jp": "ぼけつに入らずんば、こじを得ず！{n}‥‥やはり、貴様は本物か！？",
-   "en": "",
-   "term": "end"
+   "en": "Without entering the grave, you cannot catch the tiger{n}cub! ...Could you truly be the one?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0069",
    "jp": "さぁ、次の合い言葉を聞かせてもらおう！",
-   "en": "",
-   "term": "end"
+   "en": "Now, let me hear the next password!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0070",
    "jp": "・しし",
-   "en": "",
+   "en": "・Lion",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0071",
    "jp": "・なす",
-   "en": "",
+   "en": "・Eggplant",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0072",
    "jp": "ししはウサギをかるのにも、{n}子をせんじんの谷へ突き落とす！{p}‥‥やはりな！{n}やはり貴様こそ、本物！{n}貴様が奥様方に大評判の{s:0000}だな。{p}よかろう。{n}心技体すべてをそなえたお前だ。{n}必ずやあの洞窟を制覇してくれるだろう。{p}実は私は、フェザリアンにとある洞窟を任されておる。{n}そして念じるだけで、人をその中へ送り届けることが{n}できるのだ。{p}貴様もそこへ行きたいのだろう？{n}いいだろう。{n}準備が出来次第、{s:0010}で待っているぞ！",
-   "en": "",
-   "term": "end"
+   "en": "Even when hunting a rabbit, a lion casts its cub into a{n}bottomless ravine!{p}...I knew it! You truly are the one! You must be{n}{s:0000}, the talk of all the housewives!{p}Very well. You possess spirit, skill, and strength alike.{n}Surely you will conquer that cave!{p}You see, the Featherians have entrusted a certain cave{n}to me. With a mere thought, I can send people inside it.{p}You wish to go there too, do you not? Very well! Once{n}my preparations are complete, I shall await you at{n}{s:0010}!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0073",
    "jp": "なすがままなら、きゅうりはパパ！",
-   "en": "",
-   "term": "end"
+   "en": "If eggplant is the mother of invention, cucumber must{n}be the father!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0074",
    "jp": "‥‥‥‥‥‥。{n}どうやら私の勘違いだったようだな。{p}さっきの事は忘れてくれ。{n}これからの私は、ただの謎の男。{n}さらばだ！",
-   "en": "",
-   "term": "end"
+   "en": "......... It seems I was mistaken.{p}Forget what I said. From now on, I am merely a{n}mysterious man. Farewell!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0075",
    "jp": "何の用だ？{n}私のことを知っていて訪ねてきたわけでは{n}ないようだが？{p}私は私の力を必要とする者が訪れるのを待っている。{n}用がないなら帰るがいい。",
-   "en": "",
-   "term": "end"
+   "en": "What do you want? You do not seem to have come{n}here knowing who I am.{p}I await those who have need of my powers. If you{n}have no business here, leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0076",
    "jp": "ダグラス様はすでに進軍中です。{n}この先を進んでいけば、途中で合流できるでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "Douglas-sama is already on the march. Continue along{n}this road, and you should be able to join him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0077",
    "jp": "どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please, go right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0078",
    "jp": "これはアンジェラ様。{n}ダグラス様ならば屋敷かと。",
-   "en": "",
-   "term": "end"
+   "en": "Ah, Angela-sama. I believe Douglas-sama is at{n}his manor.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0079",
    "jp": "お泊まりは、こちらで手続きをしてからお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "If you wish to stay, please register here first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0080",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0081",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0082",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0083",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0084",
    "jp": "ダグラス卿の屋敷",
-   "en": "",
-   "term": "end"
+   "en": "Lord Douglas's Manor",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0085",
    "jp": "{v:0007}上手く協力してくれるといいね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}I hope we can get him to help!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0086",
    "jp": "{v:0008}もしダメだったらどうなるのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}What happens if we can't?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0087",
    "jp": "{v:0009}偽王に通報され、捕まっちまうだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}He'll report us to the false king, and we'll get caught.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0088",
    "jp": "{v:000A}そうなりたくはないですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}I would rather avoid that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0089",
    "jp": "{v:000B}おお、これは陛下！{n}わざわざこんなところまでお越しいただかなくとも、{n}私の方から出向きましたものを。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Oh, Your Majesty! You need not have troubled yourself{n}to come all this way. I would gladly have come to you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0090",
    "jp": "‥‥{v:000C}あ、あぁ‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000C}Y-yes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0091",
    "jp": "{v:000D}どうなされたのですか？{n}長旅でお疲れでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Is something the matter? Are you weary from your{n}long journey?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0092",
    "jp": "{v:000E}用事があるのは私の方なのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}It is I who have business with you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0093",
    "jp": "{v:000F}なんと。{n}して、アンジェラ様が私奴にどのような‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Indeed? And what might you require of your humble{n}servant, Angela-sama...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0094",
    "jp": "{v:0010}ダグラス卿。{n}あなたは彼を見て、どう思いますか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Lord Douglas. What do you make of this young man?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0095",
    "jp": "{v:0011}は？{n}彼、と言われましても、陛下のことでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Pardon? By \"this young man,\" do you mean{n}His Majesty?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0096",
    "jp": "{v:0012}そうです。{n}彼は私の本当の息子、リシャールです。{n}しかしあなたの知っているリシャールとは別人です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Yes. He is my true son, Richard. However, he is not the{n}Richard you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0097",
    "jp": "{v:0013}おっしゃる意味が分かりかねます。{n}その方はリシャール様だが、王ではない‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}I am afraid I do not follow. He is Richard-sama, yet he{n}is not the king...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0098",
    "jp": "{v:0014}ここに宮廷魔術師であったヴェンツェルからの{n}手紙があります。{n}これを元に詳しく話しましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}I have a letter here from Wenzel, the former Court{n}Magician. Allow me to explain in detail based on{n}its contents.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0099",
    "jp": "‥{FE14}‥{FE14}{v:0015}にわかに信じがたい事ですな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{FE14}...{FE14}{v:0015}This is rather difficult to believe...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0100",
    "jp": "{v:0016}ですが、これが事実なのです。{p}{v:0017}私はあの子から消えてしまった火傷の跡と、{n}近年変わってしまった性格とに不信を持っていました。{p}{v:0018}そこで彼は正体がばれることをおそれ、{n}私をあの館に幽閉したのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Nevertheless, it is the truth.{p}{v:0017}I grew suspicious when his burn scar vanished, and his{n}personality changed in recent years.{p}{v:0018}Fearing I would discover his true identity, he confined{n}me to that mansion.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0101",
    "jp": "{v:0019}つまり、今バーンシュタインの王位についている者は{n}ゲヴェルの生み出した本物そっくりの偽者で、ゲヴェ{n}ルはその偽王を使って人間を支配しようと企んでいる。{p}{v:001A}ヴェンツェルは、協力を強要されながらも、本物の{n}リシャール様を助け、この日の為に秘密に育てていた。{n}それがこのお方だと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Then the man now occupying Burnstein's throne is an{n}exact double created by Gevel, who plans to use this{n}false king to rule humanity.{p}{v:001A}Although forced to cooperate, Wenzel rescued the true{n}Richard-sama and secretly raised him in preparation{n}for this day. And this is that young man...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0102",
    "jp": "{v:001B}エリオットです。{n}今はまだそう呼んで下さい。{p}{v:001C}ずっとこの名前で育てられたので、{n}リシャールと呼ばれてもピンとこなくて。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Elliot. Please keep calling me that for now.{p}{v:001C}It's the name I grew up with, so being called Richard{n}doesn't quite feel real.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0103",
    "jp": "{v:001D}このままではバーンシュタイン王国はおろか、{n}この大陸に住む人間が危ない。{p}{v:001E}ダグラス卿。{n}俺たちに力を貸してくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}At this rate, the Kingdom of Burnstein is in danger. So{n}is everyone else on this continent.{p}{v:001E}Lord Douglas. Lend us your strength.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0104",
    "jp": "{v:001F}エリオット様に王位を取り戻させるのは当然だが、{n}本物であるという証拠はどうするのだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Naturally, we must restore Elliot-sama to the throne.{n}But how will we prove he is the rightful king?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0105",
    "jp": "{v:0020}あら、それは心配いらないの。{n}ね、エリオット？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Oh, there is no need to worry about that. Right, Elliot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0106",
    "jp": "{v:0021}ええ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0107",
    "jp": "{FC07}{FA60}{v:0022}このブレスレットを見て下さい。{n}これは僕が産まれてすぐ、時の宮廷魔術師たちが{n}つくってくれた魔法金属の腕輪です。{p}{v:0023}このブレスレットの裏側には当時の宮廷魔術師達の{n}署名が彫り込まれているらしいのです。{p}{v:0024}しかし偽王のブレスレットにはその署名が{n}彫り込まれていないはず。",
-   "en": "",
-   "term": "end"
+   "en": "{FC07}{FA60}{v:0022}Please look at this bracelet. It is made of magical{n}metal. The Court Magicians of the time made it for me{n}just after I was born.{p}{v:0023}I'm told their signatures are engraved on the inside of{n}this bracelet.{p}{v:0024}But those signatures should be missing from the false{n}king's bracelet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0108",
    "jp": "{v:0025}彼が偽王を追いつめたら、{n}ヴェンツェルさんが来てくれる事になっています。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Wenzel-san has promised to come once Elliot has{n}cornered the false king.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0109",
    "jp": "‥‥{v:0026}わかりました。{n}ダグラス家の名誉をかけて、リシャール様‥‥{n}いや、エリオット様に忠誠をつくしましょう。{p}{v:0027}しかしいくらエリオット様が本物としても、{n}全員が納得するか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0026}I understand. On the honor of House Douglas, I pledge{n}my loyalty to Richard-sama... No, to Elliot-sama.{p}{v:0027}However, even if Elliot-sama is the rightful king, will{n}everyone accept him...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0110",
    "jp": "{v:0028}そうですね。{n}王都はインペリアル・ナイツに守られています。{n}せめて互角に戦える兵力があれば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Indeed. The royal capital is guarded by the Imperial{n}Knights. If only we had enough troops to fight them on{n}equal terms...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0111",
    "jp": "‥‥{v:0029}インペリアル・ナイツ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0029}The Imperial Knights...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0112",
    "jp": "‥‥{v:002A}あてがなくもないのですが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002A}There may be someone we can turn to...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0113",
    "jp": "{v:002B}少しでも可能性があるなら、教えて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}If there is even a chance, please tell us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0114",
    "jp": "{v:002C}実は私の、む‥‥息子がインペリアル・ナイトの{n}称号を受けています。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}As it happens, my... son has been granted the title of{n}Imperial Knight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0115",
    "jp": "{v:002D}それって、ひょっとして‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Wait, could you mean...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0116",
    "jp": "ダグラス卿の息子とは誰だと思いますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who do you think Lord Douglas's son is?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0117",
    "jp": "・少し高慢なライエル",
-   "en": "",
+   "en": "・Lyell, who's a little arrogant",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0118",
    "jp": "・気の優しそうなリーヴス",
-   "en": "",
+   "en": "・Reeves, who seems kindhearted",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0119",
    "jp": "・最近インペリアル・ナイトになったジュリアン",
-   "en": "",
+   "en": "・Julian, the new Imperial Knight",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0120",
    "jp": "{v:002E}残念ながら違う。{n}私の息子は、ジュリアンというのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}I am afraid not. My son's name is Julian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0121",
    "jp": "{v:002F}そうだったんだ、ジュリアンが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Oh, so it's Julian...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0122",
    "jp": "{v:0030}おお、知っていたか。{n}いかにもジュリアンは私の息子だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Oh, you knew? Indeed, Julian is my son.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0123",
    "jp": "{v:0031}やっぱりね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}I knew it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0124",
    "jp": "{v:0032}ジュリアンへの手紙をしたためましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}I shall write a letter to Julian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0125",
    "jp": "{v:0033}これを届けてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Please deliver this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0126",
    "jp": "{v:0034}君は闘技大会で一度、{n}ジュリアンと手合わせをしているはず。{n}顔は知っているだろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}You fought Julian once in the tournament, did you not?{n}Surely you know his face.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0127",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0128",
    "jp": "・しっかり覚えている",
-   "en": "",
+   "en": "・I remember clearly",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0129",
    "jp": "・なんとなく覚えている",
-   "en": "",
+   "en": "・I vaguely remember",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0130",
    "jp": "・最近会っていないので、不安がある",
-   "en": "",
+   "en": "・It's been a while. I'm not sure",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0131",
    "jp": "{v:0035}よろしく頼む。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}I am counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0132",
    "jp": "{v:0036}そうか。{n}ジュリアンは記憶に残らぬような存在だったか。{p}{v:0037}ともかく、頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}I see. So Julian left little impression on you.{p}{v:0037}In any event, I am counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0133",
    "jp": "{v:0038}そんな弱気なことを言わずに、頼む。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Do not be so uncertain. Please see it done.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0134",
    "jp": "{v:0039}仮にもインペリアル・ナイツに名を連ねる者です。{n}たった１人でもかなり心強い味方となるでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Julian is, after all, a member of the Imperial Knights.{n}Even one such ally would be a great reassurance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0135",
    "jp": "　{n}　　『{FFEF}ダグラス卿からの手紙{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Received '{FFEF}Letter from Lord Douglas{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0136",
    "jp": "{v:003A}私はこれから秘密裏に兵を集めねばならない。{n}息子の事は君たちに任せる。{p}{v:003B}たしか今はランザック王国内へ攻め込んでいるはずだ。{n}よろしく頼む。{p}{v:003C}そうだ、これを渡しておこう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}I must now gather troops in secret. I leave my son in{n}your hands.{p}{v:003B}If I recall correctly, Julian is currently advancing into{n}the Kingdom of Ranzak. I am counting on you.{p}{v:003C}Ah, I should give you this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0137",
    "jp": "　{n}　　『{FFEF}ダグラス卿管轄区通行証{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Received '{FFEF}Lord Douglas's District Pass{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0138",
    "jp": "{v:003D}国の北側、つまり私の管轄領ならば、{n}この通行証で移動できるはずだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}This pass should allow you to travel through the north{n}of the country, the territory under my jurisdiction.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0139",
    "jp": "{v:003E}これは助かる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}This'll help.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0140",
    "jp": "{v:003F}私はダグラス卿と一緒に王都を目指します。{p}{v:0040}リシャール‥‥いいえ、エリオットを{n}よろしくお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}I will head for the royal capital with Lord Douglas.{p}{v:0040}Please take care of Richard... No, Elliot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0141",
    "jp": "{v:0044}さて、単刀直入に言おう。{p}{v:0045}君はジュリアンの秘密を知っているかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Now, let me come straight to the point.{p}{v:0045}Do you know Julian's secret?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0142",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0143",
    "jp": "・秘密を知っている",
-   "en": "",
+   "en": "・I know the secret",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0144",
    "jp": "・秘密など知らない",
-   "en": "",
+   "en": "・I don't know any secret",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0145",
    "jp": "{v:0046}やはり知っていたか‥‥。{FFF9}{FFFB}{n}{v:0047}あれはそうそう隠し通せるものではないからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}So you did know...{FFF9}{FFFB}{v:0047}It is hardly something that can be{n}kept hidden forever.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0146",
    "jp": "{v:0048}隠す必要はない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}There is no need to hide that you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0147",
    "jp": "{v:0049}私の教育のせいで、あんな風に育ってしまった。{n}ジュリアには悪いことをしたと思っている‥‥。{p}{v:004A}私が息子にばかり目をかけていたせいで、{n}娘にはずいぶんと辛い思いをさせたようだ。{p}{v:004B}今さら謝ってすむことではないが、{n}せめてわびを言いたい。{p}{v:004C}それでこの手紙を娘に渡して欲しいのだ。{n}これに私の気持ちが書かれていると伝えてくれれば{n}わかると思う。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}She turned out this way because of how I raised her. I{n}feel I have wronged Julia...{p}{v:004A}By lavishing all my attention on my son, I seem to have{n}caused my daughter a great deal of pain.{p}{v:004B}An apology now cannot put things right, but I would at{n}least like to offer one.{p}{v:004C}So I would like you to give this letter to my daughter.{n}Tell her I have written my feelings in it. I believe she{n}will understand.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0148",
    "jp": "{v:004D}うん。{n}ちゃんと渡すよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Yes. I'll make sure she gets it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0149",
    "jp": "{v:004E}うむ、頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Good. I am counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0150",
    "jp": "　{n}　　　　『{FFEF}[02A4]もう１通の手紙{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Received '{FFEF}[02A4]Another Letter{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0151",
    "jp": "エリオット様をよろしくお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "Please take care of Elliot-sama.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0152",
@@ -948,76 +1098,88 @@
   {
    "id": "scen056.0153",
    "jp": "今ではこの街の領主をなさっておりますが、{n}ダグラス卿はインペリアル・ナイトを{n}なさっておりました。",
-   "en": "",
-   "term": "end"
+   "en": "Lord Douglas now governs this town, but he once{n}served as an Imperial Knight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0154",
    "jp": "はっ？{n}私になんのご用でしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Yes? What can I do for you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0155",
    "jp": "私と話す気がないのなら、無理にとは言わないが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "If you do not wish to speak with me, I will not insist...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0156",
    "jp": "・このまま屋敷を出る",
-   "en": "",
+   "en": "・Leave the mansion",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0157",
    "jp": "・話を聞く",
-   "en": "",
+   "en": "・Hear him out",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen056.0158",
    "jp": "人の家の中をかってにうろつくなんて、{n}マスターのしつけを疑われちゃうでしょ！{n}お行儀よくしましょ！",
-   "en": "",
-   "term": "end"
+   "en": "Wandering around someone's house without permission?{n}They'll think Master never taught you any manners!{n}Behave yourself!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0159",
    "jp": "高級そうなワインがある。",
-   "en": "",
-   "term": "end"
+   "en": "There is some expensive-looking wine.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0160",
    "jp": "世界中の焼き物が並んでいる。",
-   "en": "",
-   "term": "end"
+   "en": "Pottery from around the world is on display.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0161",
    "jp": "ちょっと待ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "Wait a moment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0162",
    "jp": "{v:0041}それから‥‥すまないが君、{n}ちょっと２人で話したいことがある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}One more thing... Forgive me, but I would like a word{n}with you alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0163",
    "jp": "{v:0042}なら、俺たちは先に外で待ってる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Then we'll wait outside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen056.0164",
    "jp": "{v:0043}すまない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}My apologies.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

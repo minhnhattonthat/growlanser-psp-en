@@ -15,188 +15,217 @@
   {
    "id": "scen238.0001",
    "jp": "{FFEE}王母とエリオットを守りながら敵を倒せ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Defeat the enemy while protecting the Queen Mother{n}and Elliot!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0002",
    "jp": "‥‥{v:0005}私は今まで戦ったことがありません。{n}このようなときにはどうすればよいのでしょう？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0005}I have never fought before. What should I do in a{n}situation like this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0003",
    "jp": "王母アンジェラに、どのように指示しますか？",
-   "en": "",
-   "term": "end"
+   "en": "What orders will you give Queen Mother Angela?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0004",
    "jp": "・その場で防御",
-   "en": "",
+   "en": "・Defend in place",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0005",
    "jp": "・誰かの後についてくる",
-   "en": "",
+   "en": "・Follow someone",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0006",
    "jp": "・先に向こうまで行かせる",
-   "en": "",
+   "en": "・Go on ahead to the other side",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0007",
    "jp": "誰の後について行かせますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who should she follow?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0008",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0009",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0010",
    "jp": "・{s:FFEF}",
-   "en": "",
+   "en": "・{s:FFEF}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0011",
    "jp": "・{s:FFF0}",
-   "en": "",
+   "en": "・{s:FFF0}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0012",
    "jp": "・{s:FFF1}",
-   "en": "",
+   "en": "・{s:FFF1}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0013",
    "jp": "誰の後について行かせますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who should she follow?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0014",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0015",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0016",
    "jp": "・{s:FFEF}",
-   "en": "",
+   "en": "・{s:FFEF}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0017",
    "jp": "・{s:FFF0}",
-   "en": "",
+   "en": "・{s:FFF0}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen238.0018",
    "jp": "わかりました。",
-   "en": "",
-   "term": "end"
+   "en": "Understood.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0019",
    "jp": "{v:0007}ふんっ。{n}本当に似ているな‥‥。{p}{v:0008}お前もついでに死ぬがいい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Hmph. You really do look alike...{p}{v:0008}You may as well die too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0020",
    "jp": "{v:0009}くっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Ugh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0021",
    "jp": "{v:000C}う‥‥うぅ‥‥。{n}こんな‥ところで‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}U... ugh... Not... here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0022",
    "jp": "{v:000D}あぁっ！{n}エリオットが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Ah! Elliot...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0023",
    "jp": "{v:000A}今、お前に動かれるとまずいのでな。{n}ここで死んでもらう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}It would be inconvenient if you took action now. You{n}will die here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0024",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0025",
    "jp": "{v:000E}ああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Aah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0026",
    "jp": "{v:000F}あぁっ！{n}アンジェラ様がっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Ah! Angela-sama!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0027",
    "jp": "{v:0010}う‥ぐふ‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}U... urgh...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0028",
    "jp": "{v:0006}気をつけてっ！{n}後ろからもモンスターが来たよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Watch out! Monsters are coming from behind us too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen238.0029",
    "jp": "‥‥{v:0011}まさか‥人間にこれほどの力が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0011}Impossible... Humans possess such power...?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

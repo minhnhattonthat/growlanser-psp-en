@@ -15,280 +15,325 @@
   {
    "id": "scen316.0001",
    "jp": "よう、{s:0000}。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, {s:0000}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0002",
    "jp": "あれ？{n}ゼノスが読書？",
-   "en": "",
-   "term": "end"
+   "en": "Huh? Xenos, reading a book?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0003",
    "jp": "俺だって本くらい読むぜ。{n}戦場で長い間待つのも仕事だからな。",
-   "en": "",
-   "term": "end"
+   "en": "Even I read books, you know. Long waits on the{n}battlefield are part of the job.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0004",
    "jp": "どんな本を読むの？",
-   "en": "",
-   "term": "end"
+   "en": "What kind of books do you read?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0005",
    "jp": "いろいろ読むけどな、{n}これは料理の本だ。",
-   "en": "",
-   "term": "end"
+   "en": "All kinds. This one's a cookbook.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0006",
    "jp": "{FB00}へっ‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}Huh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0007",
    "jp": "どう反応しますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you react?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0008",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen316.0009",
    "jp": "・似合わないと言う",
-   "en": "",
+   "en": "・Say it doesn't suit him",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen316.0010",
    "jp": "・ゼノスの料理を食べてみたいと言う",
-   "en": "",
+   "en": "・Say you'd like to try Xenos's cooking",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen316.0011",
    "jp": "意外だったみたいだな。",
-   "en": "",
-   "term": "end"
+   "en": "Looks like that surprised you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0012",
    "jp": "なんだと？{n}もう一度、言ってみやがれ。",
-   "en": "",
-   "term": "end"
+   "en": "What was that? Say that again. I dare you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0013",
    "jp": "嬉しい事、言ってくれるじゃねぇか！",
-   "en": "",
-   "term": "end"
+   "en": "Now that's what I like to hear!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0014",
    "jp": "まあ、機会があったら{n}ごちそうしてやるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Well, if we get the chance, I'll cook you a meal.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0015",
    "jp": "そうだ、これからうちに来ないか？{n}俺がごちそうしてやるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, why don't you come over to my place now? I'll{n}cook you a meal.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0016",
    "jp": "{FB00}これからグランシル？{n}あんた正気？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}To Grancil, now? Are you out of your mind?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0017",
    "jp": "テレポートがあるだろ？{n}さっさとルイセを連れてこい！",
-   "en": "",
-   "term": "end"
+   "en": "We've got Teleport, don't we? Hurry up and get Luise!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0018",
    "jp": "よし、行こうぜ！",
-   "en": "",
-   "term": "end"
+   "en": "All right, let's go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0019",
    "jp": "どうした？{n}さっさとルイセを連れて来いよ。",
-   "en": "",
-   "term": "end"
+   "en": "What's the holdup? Hurry up and get Luise.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0020",
    "jp": "あれ、ゼノスじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, hey, Xenos!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0021",
    "jp": "ん？{n}{s:0000}にティピか。",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Oh, it's {s:0000} and Tippi.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0022",
    "jp": "この前はずいぶんと世話になった。",
-   "en": "",
-   "term": "end"
+   "en": "You really helped me out the other day.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0023",
    "jp": "カレンの見舞いまでしてもらって。",
-   "en": "",
-   "term": "end"
+   "en": "You even came to visit Karen while she was sick.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0024",
    "jp": "この前は、カレンの見舞い、ありがとよ。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks for visiting Karen the other day while she{n}was sick.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0025",
    "jp": "ゼノスはこんなところで何してるの？",
-   "en": "",
-   "term": "end"
+   "en": "What are you doing here, Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0026",
    "jp": "ああ、俺か？{n}仕事が見つかってな。{n}それが始まるまでぶらぶらしてる。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, me? Found myself a job. Just killing time till{n}it starts.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0027",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0028",
    "jp": "・仕事の事を聞く",
-   "en": "",
+   "en": "・Ask about his job",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen316.0029",
    "jp": "・カレンの事を聞く",
-   "en": "",
+   "en": "・Ask about Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen316.0030",
    "jp": "・いろいろ大変だろうと言う",
-   "en": "",
+   "en": "・Say he must have a lot to deal with",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen316.0031",
    "jp": "あんまり人のことを詮索するもんじゃねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "You shouldn't go poking your nose into other{n}people's business.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0032",
    "jp": "カレンなら、元気でやってるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "Karen's doing fine.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0033",
    "jp": "なんだ、心配してくれてるのか。{n}まあ、お前にも妹がいるからわかるよな。",
-   "en": "",
-   "term": "end"
+   "en": "What, you're worried about me? Well, you've got a little{n}sister too. You know how it is.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0034",
    "jp": "ゼノスはずっとカレンさんと２人なの？",
-   "en": "",
-   "term": "end"
+   "en": "Has it always been just you and Karen-san, Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0035",
    "jp": "俺がガキの頃、おやじが失踪しちまってな。{n}おふくろは女手一つで俺とカレンを育ててくれたが、{n}過労がたたって死んじまった。",
-   "en": "",
-   "term": "end"
+   "en": "My old man disappeared when I was a kid. Mom raised{n}me and Karen all on her own, but working herself so{n}hard killed her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0036",
    "jp": "それで、傭兵なんて危険な仕事を‥‥",
-   "en": "",
-   "term": "end"
+   "en": "So that's why you took such a dangerous job as{n}a mercenary...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0037",
    "jp": "ああ、腕っぷしだけはガキの頃から強かった。{n}おやじゆずりらしいぜ。",
-   "en": "",
-   "term": "end"
+   "en": "Yeah. Fighting's the one thing I've always been good at,{n}even as a kid. Got that from my old man, apparently.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0038",
    "jp": "なんと言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0039",
    "jp": "・カレンを大切にと言う",
-   "en": "",
+   "en": "・Tell him to take good care of Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen316.0040",
    "jp": "・ゼノスも無理するなと言う",
-   "en": "",
+   "en": "・Tell Xenos not to overdo it either",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen316.0041",
    "jp": "言われるまでもねぇ。{n}カレンは俺が守るさ。",
-   "en": "",
-   "term": "end"
+   "en": "You don't have to tell me. I'll protect Karen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0042",
    "jp": "あ、ああ。{n}ありがとよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Y-yeah. Thanks...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0043",
    "jp": "さて、俺はしばらくぶらぶらしてるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "Well, I'll be killing time around here for a while.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0044",
    "jp": "じゃあ、またね。",
-   "en": "",
-   "term": "end"
+   "en": "See you later, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen316.0045",
    "jp": "さて、アタシたちも行こうか？",
-   "en": "",
-   "term": "end"
+   "en": "Well, shall we get going too?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

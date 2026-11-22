@@ -15,296 +15,345 @@
   {
    "id": "scen265.0001",
    "jp": "{v:0025}もうやめましょう！{n}僕は‥‥、{n}これ以上戦いたくありません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Please, let's stop! I... I don't want to fight anymore!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0002",
    "jp": "‥‥{v:0026}何を甘えている。{n}敵は倒す！{n}これが戦場の掟だ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0026}Stop being so soft. You defeat your enemies! That is{n}the law of the battlefield!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0003",
    "jp": "{v:0028}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0004",
    "jp": "{v:0027}戦いたくなければじっとしているがいい。{n}一思いにあの世に送ってやる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}If you do not wish to fight, stand still. I will send you to{n}the next world in one stroke.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0005",
    "jp": "{v:0029}どうしてヴェンツェルの言うことなんか聞くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Why are you listening to someone like Wenzel?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0006",
    "jp": "{v:002A}これが任務だからだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Because it is our mission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0007",
    "jp": "{v:002B}エリオット君のことを、本当の親子だと思うって、{n}言ったじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}You said you thought of Elliot-kun as your own son!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0008",
    "jp": "{v:002C}そう思い込むことも、任務だったからだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Convincing ourselves of that was part of the{n}mission, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0009",
    "jp": "‥‥{v:0037}終わったわね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0037}It's over...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0010",
    "jp": "{FFF5}{v:0038}父さん、母さん、しっかりして！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0038}Dad, Mom, hang on!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0011",
    "jp": "‥‥{v:0039}少し見ない間に立派になったな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0039}You've grown into a fine young man in the short time{n}we've been apart...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0012",
    "jp": "{FFF5}{v:003A}父さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:003A}Dad...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0013",
    "jp": "{v:003B}最後にお前に会えるなんて、夢のようだよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Seeing you one last time... It's like a dream...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0014",
    "jp": "{FFF5}{v:003C}お母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:003C}Mom...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0015",
    "jp": "‥‥{v:003D}泣くな。{n}そんなに弱い子に育てた覚えはない。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003D}Don't cry. I don't remember raising such a weak boy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0016",
    "jp": "{FFF5}{v:003E}でも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:003E}But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0017",
    "jp": "{v:003F}こうするしかなかったのよ‥‥。{p}{v:0040}私たちは、ヴェンツェル様にある術を{n}かけられていてね‥‥。{n}命令に逆らうと、死んでしまうの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}We had no other choice...{p}{v:0040}Wenzel-sama cast a spell on us, you see... If we{n}disobeyed his orders, we would die...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0018",
    "jp": "{v:0041}お前と戦わなければ、そこで死んでいた。{n}お前が悪いわけじゃないんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}If we hadn't fought you, we'd have died right then. This{n}isn't your fault.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0019",
    "jp": "{FFF5}‥{v:0042}でも、そんなのって、ヒド過ぎます！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:0042}But that's just too cruel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0020",
    "jp": "{v:0043}それがヴェンツェルのやり方なんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}That's how Wenzel does things.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0021",
    "jp": "‥‥{v:0044}それももうおしまい。{n}これ以上、苦しむ必要はなくなったわ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0044}But it's over now. We don't have to suffer anymore.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0022",
    "jp": "{v:0045}ヴェンツェルを止めるんだ、エリオット。{n}お前なら‥‥、{n}‥‥すばらしい仲間を持ったお前なら出来る。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Stop Wenzel, Elliot. You can... With such wonderful{n}friends at your side, you can do it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0023",
    "jp": "‥‥{v:0046}そうよね。{n}私たちの自慢の息子ですもの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0046}Yes, you can. You're our pride and joy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0024",
    "jp": "‥‥{v:0047}頼むぞ。{n}この世界の人々を‥‥導いてやってくれ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0047}We're counting on you. Guide... the people of{n}this world...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0025",
    "jp": "{v:0048}私たちも見守っているから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}We'll be watching over you, too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0026",
    "jp": "‥‥{v:0049}うん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0049}I will...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0027",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0028",
    "jp": "{FFF5}‥‥{v:004A}父さん？{n}‥‥母さん？{p}‥‥{FFF6}{v:004B}クッ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:004A}Dad? ...Mom?{p}...{FFF6}{v:004B}Ngh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0029",
    "jp": "{v:004C}エリオット君‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Elliot-kun...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0030",
    "jp": "{FFF3}‥‥{FFF4}{FFF6}{v:005C}泣きませんよ‥‥。{n}僕は泣きませんよ。{p}{FFF7}{v:004D}泣いたら、父さんに怒られちゃいますからね。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FFF4}{FFF6}{v:005C}I won't cry... I won't cry.{p}{FFF7}{v:004D}Dad would scold me if I did.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0031",
    "jp": "{v:004E}あんたら、死ぬ気だっただろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}You two meant to die here, didn't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0032",
    "jp": "‥‥{v:004F}どうやら見抜かれていたようですね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004F}It seems you saw through us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0033",
    "jp": "{v:0050}どうして？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Why?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0034",
    "jp": "{v:0053}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}That's awful...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0035",
    "jp": "{v:0054}それがヴェンツェルのやり方なんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}That's how Wenzel does things.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0036",
    "jp": "{v:0055}あの子に伝えて下さい。{n}本当に、実の子のように思っていたと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Please tell him... We truly thought of him as our{n}own son...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0037",
    "jp": "{v:0056}あの子がつくる、{n}新しいバーンシュタインを‥‥{n}見てみたかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}I wanted to see... the new Burnstein... he would build...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0038",
    "jp": "{v:0057}ねぇ、しっかりしてよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Hey, hang on!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0039",
    "jp": "{v:0058}ヴェンツェルを‥止めて‥くれ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Please... stop... Wenzel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0040",
    "jp": "{v:002D}うぅっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Ugh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0041",
    "jp": "{v:002E}大丈夫！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Are you all right?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0042",
    "jp": "‥‥{v:002F}すまん‥。{n}‥もう、無理のようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002F}I'm sorry... I don't think... I can go on...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0043",
    "jp": "{v:0030}この‥よくも！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}You... How dare you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0044",
    "jp": "‥‥{v:0035}父さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0035}Dad...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0045",
    "jp": "{v:0031}ああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Aah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0046",
    "jp": "{v:0032}しっかりしろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Hang on!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0047",
    "jp": "‥‥{v:0033}ごめんなさい‥‥。{n}もう、ダメみたい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0033}I'm sorry... I don't think I'm going to make it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0048",
    "jp": "{v:0034}おのれ！　よくも！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}You bastard! How dare you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen265.0049",
    "jp": "‥‥{v:0036}母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0036}Mom...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

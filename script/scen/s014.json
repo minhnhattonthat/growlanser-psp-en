@@ -15,230 +15,268 @@
   {
    "id": "scen014.0001",
    "jp": "剣士",
-   "en": "",
-   "term": "null"
+   "en": "Swordsman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen014.0002",
    "jp": "一夜明けて‥‥",
-   "en": "",
-   "term": "end"
+   "en": "The next morning...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0003",
    "jp": "　自宅に戻って‥‥　",
-   "en": "",
-   "term": "end"
+   "en": "　Back at home...　",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0004",
    "jp": "{v:0000}夕べは大変だったね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Last night was quite an ordeal, wasn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0005",
    "jp": "{v:0001}はい、お母さん。{n}取り戻した研究書だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Here, Mother. We got your research back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0006",
    "jp": "　{n}　　ルイセが『{FFEF}サンドラの研究書{FFF1}』を手渡した。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Luise handed over '{FFEF}Sandra's Study{FFF1}'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0007",
    "jp": "{v:0002}それじゃ‥‥。{n}そうですか、これを取り戻しに行っていたのですか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Then... I see. You went to retrieve this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0008",
    "jp": "{v:0003}ウォレスさんと、ジュリアンが協力してくれたしね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Wallace-san and Julian helped us, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0009",
    "jp": "{v:0004}ところでサンドラ様。{n}命を狙われるような心当たりはありますか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}By the way, Sandra-sama. Do you have any idea why{n}someone would want to kill you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0010",
    "jp": "{v:0005}特にありませんが、この研究書が奪われたことと{n}関係があるかも知れませんね。{p}{v:0006}それに先ほど襲ってきた者たちですが、{n}人ではないようです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Nothing comes to mind, but it may be connected to the{n}theft of my research.{p}{v:0006}And those who attacked us earlier... They do not{n}appear to have been human.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0011",
    "jp": "{v:0007}そうだよね。{n}普通の人ならドロドロに溶けたりしないもんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}That's true. Normal people don't melt into goo.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0012",
    "jp": "{v:0008}多分、フレッシュゴーレムかと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}I suspect they were Flesh Golems.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0013",
    "jp": "{v:0009}死体の肉で作ったゴーレム‥‥。{n}気持ち悪いなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Golems made from the flesh of corpses... Eww...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0014",
    "jp": "{v:000A}魔導を研究する者ならば、{n}他人の研究は気になるものです。{n}それを奪おうと考えたりはするかも知れませんが。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Anyone who studies magic takes an interest in the{n}research of others. Some might even consider{n}stealing it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0015",
    "jp": "{v:000B}まさか命まで取ろうとする者はいないでしょう。{n}自分に不利益をもたらすほどの者でなければ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}But surely no one would go so far as to take a life.{n}Unless the victim posed a serious threat to{n}their interests...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0016",
    "jp": "{v:000C}とにかく、みんなのおかげで助かりました。{n}もう一度、お礼を言わせてもらいます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}In any case, you all saved me. Allow me to thank you{n}once again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0017",
    "jp": "{v:000D}おい、ちょっといいか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Hey. Got a moment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0018",
    "jp": "自宅",
-   "en": "",
-   "term": "end"
+   "en": "Home",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0019",
    "jp": "ちょっと！{n}どこ行く気っ！？",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0020",
    "jp": "{v:0000}ただいま！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}We're home!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0021",
    "jp": "{v:0001}後はルイセちゃんが戻ってくるのを{n}待っていればいいんだね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Now we just wait for Luise-chan to come back, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0022",
    "jp": "{v:0002}ああ。{n}それよりサンドラ様の具合は大丈夫なのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Yeah. More importantly, is Sandra-sama doing all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0023",
    "jp": "フェザーランドへ",
-   "en": "",
-   "term": "end"
+   "en": "To Featherland",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0024",
    "jp": "{v:0008}お、お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}B-Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0025",
    "jp": "{v:0009}あら、早かったのね。{n}お薬は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Oh, you're back already. What about the medicine?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0026",
    "jp": "{FFF5}‥{v:000A}あの‥それが‥‥その‥‥うぅぅ‥‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:000A}Um... well... I... *sob*...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0027",
    "jp": "{v:000B}落ち着きなさい！{n}何があったのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Calm down! What happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0028",
    "jp": "{FFF5}‥{v:000C}うん‥ぐすっ。{n}あっちで‥‥大変なことに‥‥。{n}それで‥アリオストさんが‥あぅあぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:000C}Okay... *sniff* Something awful... happened over{n}there... And then... Ariost-san... *sob*...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0029",
    "jp": "{v:000D}？{n}よくわからんが、アリオストに何かあったのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Huh? I'm not following. Did something happen to Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0030",
    "jp": "{FFF5}{v:000E}と、とにかく一緒に来て！{p}{v:000F}場所は覚えてきたから、いつでもテレポート出来るよ。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:000E}J-Just come with me!{p}{v:000F}I remembered the location, so I can Teleport there{n}whenever we're ready.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0031",
    "jp": "{v:0010}それじゃ、急いで行きましょう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Then let's hurry over!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0032",
    "jp": "サンドラ様をそっちの部屋へ運ぶから、{n}ベッドの用意をしてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll carry Sandra-sama into that room. Get the{n}bed ready.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0033",
    "jp": "{v:0004}大丈夫でしたか？{n}それにしても、どうして私の研究室などに{n}いたのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Are you all right? And why were you in my laboratory,{n}of all places?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0034",
    "jp": "{v:0005}君は城にあるサンドラ様の研究室の中で{n}倒れていたんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}You were found unconscious in Sandra-sama's{n}laboratory at the castle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0035",
    "jp": "{v:0006}アタシから、もう一度説明するね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Let me explain it again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0036",
    "jp": "{v:0007}西の門の外で盗賊に襲われていた女の人を助けた後、{n}アンタは突然倒れちゃったんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}You helped a woman who was being attacked by bandits{n}outside the west gate. Then you suddenly collapsed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0037",
    "jp": "{v:0008}それでアタシ、慌てて人を呼びに行ったんだけど、{n}戻ったときにはアンタの姿はなかったの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}I panicked and went to get help, but when I came back,{n}you were gone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0038",
    "jp": "{v:0009}ティピ。{n}あなたには創造主である私と交信するという能力が{n}あったはずでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Tippi. You do have the ability to communicate with me,{n}your creator, do you not?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0039",
@@ -249,603 +287,702 @@
   {
    "id": "scen014.0040",
    "jp": "{v:0070}すみません、マスター！{n}慌ててたもので‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{v:0070}I'm sorry, Master! I was panicking...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0041",
    "jp": "‥‥{v:000B}仕方ないですね。{p}{FC00}{v:000C}とにかく、倒れたのは西門の外。{n}そして発見されたところは私の研究室‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000B}Well, what is done is done.{p}{FC00}{v:000C}In any case, you collapsed outside the west gate. Then{n}you were found in my laboratory...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0042",
    "jp": "{v:000D}あなたはどうやってこの２ヶ所を移動したのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}How did you get from one place to the other?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0043",
    "jp": "・覚えていない",
-   "en": "",
+   "en": "・I don't remember",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen014.0044",
    "jp": "・気がついたら研究室の中だった",
-   "en": "",
+   "en": "・I came to in the laboratory",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen014.0045",
    "jp": "{v:000E}そうですか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0046",
    "jp": "{v:000F}所々、記憶が抜けているようですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}There seem to be gaps in your memory.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0047",
    "jp": "{v:0010}研究室の中には、賊の一人の死体が残っていた。{p}{v:0011}おそらく君が倒したはずなんだ。{n}何しろ、君の剣に血が残っていたからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}The body of one of the thieves was left in{n}the laboratory.{p}{v:0011}You were probably the one who killed him. There was{n}still blood on your sword, after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0048",
    "jp": "{v:0012}それでね、お兄ちゃん。{n}お母さんの研究書が盗まれちゃったの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}And, Big Brother... Mother's research was stolen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0049",
    "jp": "{v:0013}無くなった研究書と、君が倒れていたことから、{n}賊は複数だったと考えられるんだ。{p}{v:0014}何でもいい。{n}思い出した事を教えてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Since the research was missing and you were{n}unconscious, we believe there was more than one thief.{p}{v:0014}Tell me anything you remember. Anything at all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0050",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0051",
    "jp": "・何も言わない",
-   "en": "",
+   "en": "・Say nothing",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen014.0052",
    "jp": "・賊が窓から逃げた事を教える",
-   "en": "",
+   "en": "・Say the thief fled through the window",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen014.0053",
    "jp": "{v:0016}しょうがない人ねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}You're hopeless...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0054",
    "jp": "{v:0017}う～ん、研究室の窓から逃げたんだろうと{n}予想は出来るんだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Hmm... I can guess that they escaped through the{n}laboratory window, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0055",
    "jp": "{v:0018}やっぱりそうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Just as I thought.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0056",
    "jp": "{v:0019}しかし誰が、何の目的でサンドラ様の研究を{n}盗んだのか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}But who stole Sandra-sama's research, and for{n}what purpose?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0057",
    "jp": "{v:001A}ね、マスター！{n}その研究書にはどんなことが書かれているの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Hey, Master! What's written in those research notes?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0058",
    "jp": "{v:001B}魔水晶の魔力成分についてです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}It concerns the magical components of magic crystals.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0059",
    "jp": "{v:001C}う～ん、よくわかんないよぉ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Hmm... I don't get it at aaall.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0060",
    "jp": "{v:001D}魔水晶は魔力が結晶化したものなのですが、{n}ある場所で採れる魔水晶の成分を調べてみると、{n}グローシュが含まれていることがわかったのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Magic crystals are crystallized magical energy. When I{n}examined the composition of crystals mined in a certain{n}location, I discovered that they contained Grosh.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0061",
    "jp": "{v:001E}グローシュって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Grosh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0062",
    "jp": "{v:001F}グローシアンの持つ特殊な魔力のことよ。{p}{v:0020}グローシュは普通の人にはないから、{n}それを取り出すことが出来れば、{n}魔導学は大きく変わる。{p}{v:0021}お母さんはそれに成功したの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}It's the special magical energy that Growsians have.{p}{v:0020}Ordinary people don't have Grosh, so if we could{n}extract it, it would transform the study of magic.{p}{v:0021}Mother managed to do it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0063",
    "jp": "{v:0022}ほとんどの人は忘れ去っていますが、私たち人類は、{n}本来この世界の住人ではありません。{p}{v:0023}我々がいた世界は、ある理由で滅びの危機を{n}迎えました。{p}{v:0024}５００年前、人間の持つ英知である魔法を結集し、{n}この世界に渡ってきたのです。{p}{v:0025}それまでは誰しもが強力な魔法を使えましたが、{n}この世界に来て以来、{n}わずかな魔力しか持てなくなってしまったのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Most people have forgotten, but we humans are not{n}originally inhabitants of this world.{p}{v:0023}For a certain reason, our former world{n}faced destruction.{p}{v:0024}Five hundred years ago, we pooled our magic, the{n}culmination of human wisdom, and crossed over to{n}this world.{p}{v:0025}Until then, everyone could use powerful magic. But since{n}coming here, we have been able to possess only a{n}small amount of magical energy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0064",
    "jp": "{v:0026}え、どうして？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Huh? Why?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0065",
    "jp": "{v:0027}この世界にはグローシュがなかったからです。{n}元の世界の大気には、多量のグローシュが{n}満ちていました。{p}{v:0028}人々はそのグローシュを用いて魔法を{n}使っていたのですが、グローシュのないこの世界では{n}自分の中の精神力だけで魔法をかけなくては{n}ならないのです。{p}{v:0029}今までのような魔法が使えるのは、{n}ルイセのようなグローシアンだけです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Because this world had no Grosh. The atmosphere of{n}our original world was filled with it.{p}{v:0028}People used that Grosh to cast magic. But in this world,{n}where there is no Grosh, we must cast spells using{n}only our own spiritual energy.{p}{v:0029}Only Growsians like Luise can use the magic we once did.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0066",
    "jp": "{v:002A}それじゃ、どうしてグローシアンは{n}普通の人が出来ない方法で魔法が使えるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Then how come Growsians can use magic in a way{n}ordinary people can't?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0067",
    "jp": "{v:002B}そのためにはグローシアンの生まれから{n}説明しなければなりませんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}To answer that, I must first explain how Growsians{n}are born.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0068",
    "jp": "{v:002C}えへへ★{n}お願いしま～す★",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Hehe! Yes, pleeease!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0069",
    "jp": "{v:002D}今私たちは空間を歪め、２つの世界を{n}重ね合わせることで、こちらの世界に存在しています。{p}{v:002E}しかしその空間の歪みは一定でないため、{n}たまに元の世界の影が現れることがあるのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}We exist in this world by warping space so that the{n}two worlds overlap.{p}{v:002E}However, that distortion is not constant, so a shadow{n}of our original world sometimes appears.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0070",
    "jp": "{v:002F}それが日食や月食として見えるのですが、{n}この時に生まれた者は、無意識にこの時の{n}空間の歪みを記憶し、自分の中に向こうの世界との{n}チャンネルを開けるようになるのです。{p}{v:0030}ルイセたちグローシアンは、{n}このチャンネルを利用して、{n}向こうの世界のグローシュを使うことが{n}出来るのです。{p}{v:0031}ですからグローシアンは、{n}精神力だけを利用する私たちと比べて、{n}はるかに強力な魔法を使う事ができるのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}We see it as a solar or lunar eclipse.{p}Those born during an eclipse unconsciously remember{n}the spatial distortion at that moment, allowing them to{n}open a channel to the other world within themselves.{p}{v:0030}Growsians like Luise can use this channel to draw upon{n}the Grosh in the other world.{p}{v:0031}That is why Growsians can use far more powerful{n}magic than those of us who rely solely on{n}spiritual energy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0071",
    "jp": "{v:0032}へぇ～。{n}ルイセちゃんて、すごいのねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Wooow. You're pretty amazing, Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0072",
    "jp": "{v:0033}そんなことないよ。{n}自分ではどうやってるかわかんないことだし。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Oh, not really. I don't even know how I do it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0073",
    "jp": "{v:0034}とにかく、このグローシュを人工的に取り出し、{n}活用出来れば、誰もが昔のように強力な魔法を{n}使うことが出来るようになるはずです。{p}{v:0035}たぶん、その方法を欲した者が{n}私の研究を奪ったのでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}In any case, if we can artificially extract and harness{n}Grosh, everyone should be able to use powerful magic{n}as we once did.{p}{v:0035}Someone who wanted that method probably stole{n}my research.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0074",
    "jp": "{v:0036}もし悪用されれば大変なことになりますぞ。{n}早く盗まれた研究書を取り戻さなければ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}It would be disastrous in the wrong hands! We must{n}recover the stolen research at once!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0075",
    "jp": "{v:0037}お母さんはこれからどうするの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}What will you do now, Mother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0076",
    "jp": "{v:0038}そうですね。{n}研究の内容を覚えている間に、{n}もう一度、研究書を書き直します。{p}{FC00}{v:0039}ルイセ。{n}悪いけど、あなたの魔導実習は一時中断ですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Let me see. I will write up my research again while I{n}still remember its contents.{p}{FC00}{v:0039}Luise. I am sorry, but we will have to suspend your{n}practical magic lessons for a while.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0077",
    "jp": "{v:003A}しかたないよ、お母さん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}It can't be helped, Mother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0078",
    "jp": "{v:003B}それから、１つ頼みたいことがあります。{p}{v:003D}ある人にこれを渡して欲しいのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}There is one more thing I would like to ask of you.{p}{v:003D}I would like you to deliver this to someone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0079",
    "jp": "　{n}　　　　　『{FFEF}魔法の眼{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Magic Eye{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0080",
    "jp": "{v:003E}何、これ？{n}メガネみたいだけど‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}What's this? It looks like a pair of glasses...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0081",
    "jp": "{v:003F}魔法の眼です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}It is a Magic Eye.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0082",
    "jp": "{v:0040}眼っ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}An eye?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0083",
    "jp": "{v:0041}失った視力を魔法により多少戻してくれる物で、{n}東のデリス村の剣士に頼まれていたのですが‥‥。{n}この状況では私が行く暇はありませんから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}It uses magic to partially restore lost sight. A{n}swordsman in Delis Village to the east requested it... But{n}with things as they are, I have no time to go myself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0084",
    "jp": "{v:0042}その人に渡せばいいのね、マスター？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}So we just give it to him, Master?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0085",
    "jp": "{v:0043}ええ。{n}ここから東、川を越えた先に小さな村があります。{n}その村の宿で待ち合わせています。{p}{v:0044}ウォレスという名の剣士です。{n}片腕が義手なので、すぐにわかるでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Yes. There is a small village east of here, across the{n}river. We arranged to meet at its inn.{p}{v:0044}He is a swordsman named Wallace. One of his arms is{n}artificial, so you should recognize him easily.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0086",
    "jp": "{v:0045}義手に義眼‥‥すごい怪我でもしたのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}An artificial arm and eye... I wonder if he was{n}badly hurt.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0087",
    "jp": "{v:0046}私は当分、城の研究室にこもることになるでしょう。{n}何かあったら、城の方に来なさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}I expect to be shut away in my laboratory at the{n}castle for some time. If anything happens, come to{n}the castle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0088",
    "jp": "{v:0047}まずは東のデリス村に行って、{n}ウォレスさんに魔法の眼を渡すのね。{n}それからはどうするの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}First we'll go east to Delis Village and give Wallace-san{n}the Magic Eye, right? What will we do after that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0089",
    "jp": "{v:0048}ねぇ、アンタ。犯人を見たんでしょ？{n}だったら、他の兵隊さんより、{n}アンタの方が見つけやすいと思うんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Hey, you saw the culprit, didn't you? Then I bet you'd{n}have an easier time finding them than the{n}soldiers would.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0090",
    "jp": "{v:0049}それって、お兄ちゃんが犯人を捕まえるってこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Does that mean Big Brother's going to catch the culprit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0091",
    "jp": "・捕まえない",
-   "en": "",
+   "en": "・I won't catch them",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen014.0092",
    "jp": "・捕まえる",
-   "en": "",
+   "en": "・I'll catch them",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen014.0093",
    "jp": "・興味ない",
-   "en": "",
+   "en": "・I'm not interested",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen014.0094",
    "jp": "{v:0052}そうだよね。{n}お兄ちゃん、{n}怖いめにあったばっかりだもんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}That's true. You've only just been through something{n}frightening, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0095",
    "jp": "{v:004A}やっぱり！{n}お兄ちゃんならそう言うと思ってたんだ★{n}さあ、行きましょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}I knew it! I knew you'd say that, Big Brother! Come on,{n}let's go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0096",
    "jp": "{v:004B}行きましょって、ルイセちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}What do you mean, \"let's go,\" Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0097",
    "jp": "{v:004C}決まってるじゃない。{n}わたしも行くの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Isn't it obvious? I'm coming too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0098",
    "jp": "{v:004D}だって、あの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Because, um...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0099",
    "jp": "{v:004E}お母さんも忙しくて魔導実習が出来ないから、{n}その間、私も一緒に行く！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Mother's too busy to give me magic lessons, so I'll come{n}along in the meantime!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0100",
    "jp": "‥‥{v:0050}そうなんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0050}Oh, I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0101",
    "jp": "{v:0051}アンタねぇ、{n}自分の母親が困ってるっていうのに、{n}そういう態度とる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Hey, you! Your own mother's in trouble, and that's all{n}you've got to say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0102",
    "jp": "{v:0053}とりあえず、ウォレスさんに届け物を{n}済ませましょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}For now, let's finish our delivery to Wallace-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0103",
    "jp": "{v:0054}って、ルイセちゃんも行くの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Wait, you're coming too, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0104",
    "jp": "{v:0055}うん！{n}だって実習が出来なくて、暇になっちゃったんだモン。{n}それにお兄ちゃんが一緒だから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Yes! I can't have my lessons, so I've got nothing to do.{n}Besides, you'll be with me, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0105",
    "jp": "　{n}　　　　　　{FFEF}ルイセが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Luise joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0106",
    "jp": "{v:004F}さ、行きましょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Come on, let's go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0107",
    "jp": "{v:0056}仕方ないなぁ‥‥。{n}おい、ちゃんと守ってあげるんだぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}Oh, all right... Hey, you'd better keep her safe!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0108",
    "jp": "ウォレスのもとへ",
-   "en": "",
-   "term": "end"
+   "en": "Off to See Wallace",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0109",
    "jp": "ベッドに寝かせた方がいいだろうな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We should get her into bed...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0110",
    "jp": "ジュリアンが待ってるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "Julian's waiting for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0111",
    "jp": "‥‥さて。",
-   "en": "",
-   "term": "end"
+   "en": "...Well, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0112",
    "jp": "{v:000E}お前の言った通りだな。{p}‥‥{v:000F}人々を守る。{n}これからはそのために剣を振るおう。{n}もう迷わぬ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}You were right.{p}...{v:000F}To protect the people. That is why I shall wield my{n}sword from now on. I will hesitate no longer.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0113",
    "jp": "{v:0011}何となく分かってきたんだ。{n}自分の目指す道が。{p}{v:0013}やっぱり私は剣に生きる。{n}人々を守るために剣を振るおうと思う。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}I am beginning to understand which path I wish{n}to follow.{p}{v:0013}My life belongs to the sword, after all. I intend to wield{n}it to protect the people.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0114",
    "jp": "{v:0029}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0115",
    "jp": "{v:002A}マスター、しっかりして！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Master, hold on!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0116",
    "jp": "{v:002B}毒を使ってまで確実に殺したかったのか。{n}ええい、いったい何者なんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}They even used poison to make sure she'd die. Damn it,{n}who the hell are they...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0117",
    "jp": "お友達が待っていますよ。",
-   "en": "",
-   "term": "end"
+   "en": "Your friends are waiting for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0118",
    "jp": "{v:0028}薬、貰ってくる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}I'll go get some medicine!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0119",
    "jp": "{v:001A}研究書も戻ったし、{n}これで明日からまた魔導実習だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Now that we've got the research papers back, we can{n}start magic lessons again tomorrow.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0120",
    "jp": "{v:001B}そのことで話があります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}There is something I must tell you about that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0121",
    "jp": "{v:001C}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0122",
    "jp": "{v:001D}今回の事といい、あなたは短期間の内に{n}かなり成長しました。{n}実習などを受けるより、実践で覚える方が{n}向いているのかも知れません。{p}{FC03}{v:001E}これからもみんなと行動して、{n}実践で魔法を鍛えなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}This latest incident shows how much you have grown in{n}such a short time. Perhaps you learn better through{n}experience than through lessons.{p}{FC03}{v:001E}Continue traveling with everyone, and strengthen your{n}magic through practice.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0123",
    "jp": "{v:001F}それって、一緒に行ってもいいってこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Does that mean I can go with everyone?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0124",
    "jp": "{v:0020}やったね、ルイセちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}You did it, Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0125",
    "jp": "{v:0021}うん★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Yes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0126",
    "jp": "{v:0022}それに、私は‥‥うぅ{FFF6}‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Besides, I... Ugh{FFF6}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0127",
    "jp": "{v:0023}サンドラ様！{p}{FFF3}‥{FE1E}‥{FE1E}‥{FE1E}{v:0024}{FFF4}ひどい熱だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Sandra-sama!{p}{FFF3}...{FE1E}...{FE1E}...{FE1E}{v:0024}{FFF4}What a terrible fever...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0128",
    "jp": "{v:0025}それに傷口が異常にはれている‥‥。{p}‥‥{v:0026}毒！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}And the wound is badly swollen...{p}...{v:0026}Poison?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0129",
    "jp": "{v:0027}それじゃ、さっきの連中が？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Then those men from earlier...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0130",
    "jp": "ジュリアンさんが待ってるよ？",
-   "en": "",
-   "term": "end"
+   "en": "Julian-san's waiting, you know?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0131",
    "jp": "{v:0015}さて、私はそろそろ自分の家に戻る。{n}今まで世話になったな。{p}{v:0016}機会があればまた会おう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Well, it is time I returned home. Thank you for all you{n}have done for me.{p}{v:0016}May we meet again!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0132",
    "jp": "{v:0017}さようなら、ジュリアンさん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Goodbye, Julian-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0133",
    "jp": "{v:0018}また会おう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Until we meet again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0134",
    "jp": "{v:0019}じゃあね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}See you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0135",
    "jp": "{v:0000}あ、気がついた！{n}大丈夫？{n}お兄ちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Oh, you're awake! Are you all right, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0136",
    "jp": "{v:0001}よかったね、ルイセちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}What a relief, huh, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0137",
    "jp": "{v:0002}うん。{n}わたし、お母さん達に知らせてくる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Yes. I'll go tell Mother and the others!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0138",
    "jp": "{v:0003}本当に大丈夫？{n}みんなも心配してるんだから、下に降りて、{n}元気な顔見せてあげなよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Are you really okay? Everyone's worried, you know. Go{n}downstairs and show them you're all right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0139",
@@ -856,468 +993,545 @@
   {
    "id": "scen014.0140",
    "jp": "ベッドで休みますか？",
-   "en": "",
-   "term": "end"
+   "en": "Rest in the bed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0141",
    "jp": "お兄ちゃん、早く降りてきてね。",
-   "en": "",
-   "term": "end"
+   "en": "Come downstairs soon, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0142",
    "jp": "皿がある。",
-   "en": "",
-   "term": "end"
+   "en": "There is a plate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0143",
    "jp": "読みかけの本だ。",
-   "en": "",
-   "term": "end"
+   "en": "It's a partly read book.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0144",
    "jp": "プロジェクト用重要書類{n}ここから、イベントのチェックポイントまで{n}ジャンプできます。",
-   "en": "",
-   "term": "end"
+   "en": "Important Project Documents. You can jump to event{n}checkpoints from here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0145",
    "jp": "チェックポイントへジャンプしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Jump to a checkpoint?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0146",
    "jp": "{v:002C}おお、サンドラ様！{n}ささ、万能毒消しですぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Oh, Sandra-sama! Here, here, the universal antidote!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0147",
    "jp": "{FFF3}‥‥{FFF4}{v:002E}うぅ{FFF3}‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FFF4}{v:002E}Ugh{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0148",
    "jp": "‥‥{FFF4}{v:002F}はぁ、はぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{FFF4}{v:002F}Hah... Hah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0149",
    "jp": "こんな時に、どこへ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going at a time like this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0150",
    "jp": "{FFF3}‥{FE1E}‥{FE1E}‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FE1E}...{FE1E}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0151",
    "jp": "{v:0003}マスター、眠ってるね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Master's asleep.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0152",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0153",
    "jp": "{v:0004}ルイセが薬を持ってくるまでだ。{n}そのフェザリアンってのは{n}人間よりも薬学が進んでるんだろ？{p}{v:0005}それなら安心だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}She just has to hold on until Luise brings the medicine.{n}Those Featherians know more about medicine than{n}humans, right?{p}{v:0005}Then we've got nothing to worry about.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0154",
    "jp": "{v:0006}とにかく、ここで騒ぐのはやめようよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Anyway, let's keep it down in here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0155",
    "jp": "{v:0007}ああ、外に出よう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Yeah. Let's go outside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0156",
    "jp": "{v:0046}サンドラ様のことは私に任せてください。{n}どうか、お気をつけて。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Leave Sandra-sama's care to me. Please, take care{n}of yourselves.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0157",
    "jp": "‥‥{v:002E}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002E}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0158",
    "jp": "‥‥サンドラ様の容態はどうだ？",
-   "en": "",
-   "term": "end"
+   "en": "...How is Sandra-sama doing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0159",
    "jp": "お母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0160",
    "jp": "{v:0030}少しは楽になったみたいだけど‥‥。{p}{v:0031}どうなの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}She seems a little more comfortable, but...{p}{v:0031}How is she?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0161",
    "jp": "{v:0032}そんな‥‥この薬が効かないなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}No... How could this medicine not work...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0162",
    "jp": "{v:0033}本当に効くの、コレ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Does this stuff really work?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0163",
    "jp": "{v:0034}これは今ある毒消しの中では１番の物なの。{n}たいていの毒なら、すぐに消えるはずなのに。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}It's the best antidote there is. It should neutralize{n}most poisons right away.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0164",
    "jp": "{v:0035}残念ですが、効果が不完全です。{n}進行を遅らせる事しかできません‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Unfortunately, it is not fully effective. It can only slow{n}the poison's progress...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0165",
    "jp": "{v:0036}それじゃ、いずれは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Then sooner or later...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0166",
    "jp": "{v:0037}もって、１ヶ月ほどかと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}I fear she has about a month at most...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0167",
    "jp": "{v:0038}どうすればいいのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}What are we supposed to do?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0168",
    "jp": "‥‥‥。{n}{v:0039}今の人間にはこれ以上の薬は作れない‥‥。{p}{v:003A}だけど‥‥人間以上の知識を持つ存在だったら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0039}Humans can't make any better medicine than{n}this yet...{p}{v:003A}But... beings with knowledge beyond ours might...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0169",
    "jp": "人間以上の知識を持つ存在とは？",
-   "en": "",
-   "term": "end"
+   "en": "Who has knowledge beyond that of humans?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0170",
    "jp": "・神様",
-   "en": "",
+   "en": "・God",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen014.0171",
    "jp": "・フェザリアン",
-   "en": "",
+   "en": "・Featherians",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen014.0172",
    "jp": "・存在しない",
-   "en": "",
+   "en": "・No one like that exists",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen014.0173",
    "jp": "・誰だかわからない",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen014.0174",
    "jp": "‥‥{v:003D}違うよ。{n}わたしが言ってるのは、フェザリアン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003D}No. I mean the Featherians...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0175",
    "jp": "{v:003E}いないのぉ？{n}それじゃ、マスターは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}There's no ooone? Then Master will...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0176",
    "jp": "{v:003F}大丈夫だよ、ティピ。{n}わたしが言っているのは、フェザリアン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}It's all right, Tippi. I mean the Featherians...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0177",
    "jp": "{v:0040}ちょっと浮かばないわねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}I can't think of anyone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0178",
    "jp": "{v:0041}答えはフェザリアン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}The answer is the Featherians...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0179",
    "jp": "{v:0042}フェザリアン？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Featherians?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0180",
    "jp": "‥‥{v:0043}そう。{n}彼らなら、治す方法を知っているかも。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0043}Yes. They might know how to cure her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0181",
    "jp": "{v:0044}他に方法はなさそうだな。{n}俺も力を貸すぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Doesn't look like we've got any other choice. I'll lend a{n}hand too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0182",
    "jp": "{v:0045}ありがとう、ウォレスさん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Thank you, Wallace-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0183",
    "jp": "{v:0047}マスターをお願いね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Take care of Master for us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0184",
    "jp": "悪夢の後で",
-   "en": "",
-   "term": "end"
+   "en": "After the Nightmare",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0185",
    "jp": "　　　　　　　{v:0000}{FFEF}‥‥‥奪え‥‥‥{FFFB}{n}　　　　　　　{v:0001}‥‥‥奪え‥‥‥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　　　　　　　　 {v:0000}{FFEF}...Take it...{FFFB} {v:0001}...Take it...{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0186",
    "jp": "{FFF3}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0187",
    "jp": "{v:0004}おい、あったぞ！{n}これがサンドラの魔導書だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Hey, found it! This is Sandra's spellbook.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0188",
    "jp": "{v:0005}よし、すぐにここを立ち去るぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Good. We're leaving. Now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0189",
    "jp": "{v:0006}むっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Hm?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0190",
    "jp": "{v:0007}その魔導書を貴様らにくれてやるわけにはいかん。{n}置いてゆけ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}I cannot allow you to take that spellbook. Leave it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0191",
    "jp": "{v:0008}ええい、貴様も外の番兵の様にしてくれるぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Damn you! You'll end up just like the sentry outside!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0192",
    "jp": "{v:0009}フッ‥‥。{n}勇ましいな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Heh... Such bravado.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0193",
    "jp": "{v:000A}この、ガキがっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}You little brat!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0194",
    "jp": "{v:000B}グッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0195",
    "jp": "{v:000C}な、何っ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Wh-what?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0196",
    "jp": "{v:000D}お前もこうなりたくなければ、{n}さっさと魔導書を置いてゆけ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Unless you wish to share his fate, put down the{n}spellbook and leave. Now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0197",
    "jp": "{v:000E}くっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Grr!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0198",
    "jp": "{v:000F}逃がすか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}You will not escape!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0199",
    "jp": "{v:0010}うぅっ！{n}こ、これは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Ugh! Wh-what is this...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0200",
    "jp": "{v:0011}んっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Hm?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0201",
    "jp": "{v:0012}お前か。{n}この辺りをかぎ回っている男は。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}So you are the man who has been snooping{n}around here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0202",
    "jp": "{v:0013}何者だ。{n}お前たちに用はねぇ。{n}道をあけろ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Who are you? I've got no business with you lot. Out of{n}my way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0203",
    "jp": "{v:0014}そうはいかん。{n}お前はここで死ぬのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}I cannot allow that. You die here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0204",
    "jp": "{v:0015}くっ！{p}{v:0016}手強い‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Tch!{p}{v:0016}They're tough...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0205",
    "jp": "{v:0017}フン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Hmph!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0206",
    "jp": "{v:0018}でやっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Hyaa!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0207",
    "jp": "{v:0019}もらった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Got you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0208",
    "jp": "{v:001A}くっ、くそっ！{n}‥‥眼が‥‥！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}D-damn it! ...My eyes...?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0209",
    "jp": "{v:001B}死ね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0210",
    "jp": "{v:001C}ぐぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Gwaaagh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0211",
    "jp": "‥‥{v:001D}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001D}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0212",
    "jp": "{FFF4}{v:001E}クックックッ。{p}{FC00}{v:001F}利き腕と眼を奪われ、ここから落ちれば助かるまい。{FFF9}{FFFB}{n}{FFF3}‥{FE1E}‥{FE1E}。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF4}{v:001E}Heh heh heh.{p}{FC00}{v:001F}With your sword arm crippled and your sight ruined,{n}you will never survive a fall from here.{FFF9}{FFFB}{FFF3}...{FE1E}...{FE1E}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0213",
    "jp": "フェザリアンに会う方法を探して",
-   "en": "",
-   "term": "end"
+   "en": "Seeking a Way to Meet the Featherians",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0214",
    "jp": "{v:0048}さて、どうやってフェザリアンに会いに行く？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Now, how do we get to the Featherians?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0215",
    "jp": "{v:0049}フェザリアンって、{n}あの高～い岩の上の方に住んでるんでしょ？{p}{v:004A}とてもじゃないけど、アタシは飛んでいけないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}The Featherians live way up on that reeeally tall{n}rock, right?{p}{v:004A}There's no way I can fly all the way up there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen014.0216",
    "jp": "{v:004B}わ、わたしもわかんない‥‥。{p}{v:004C}お兄ちゃん、お願いね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}I-I don't know either...{p}{v:004C}We're counting on you, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

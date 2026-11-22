@@ -15,632 +15,736 @@
   {
    "id": "scen197.0001",
    "jp": "女性",
-   "en": "",
-   "term": "null"
+   "en": "Woman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen197.0002",
    "jp": "盗賊",
-   "en": "",
-   "term": "null"
+   "en": "Bandit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen197.0003",
    "jp": "男",
-   "en": "",
-   "term": "null"
+   "en": "Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen197.0004",
    "jp": "{FFEE}盗賊に狙われた女性を救え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Save the woman from the bandits!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0005",
    "jp": "{v:0025}そうだ！{n}こんな時にこそ、マスターにもらった道具を{n}使うのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Oh, right! This is just the time to use that item Master{n}gave us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0006",
    "jp": "{v:0026}何してんのよ！{p}{v:0027}アイテムの中から『{FFEF}シビレ玉{FFF1}』を使うんだってば！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}What are you doing?!{p}{v:0027}I said to use the '{FFEF}Paralysis Orb{FFF1}' from your items!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0007",
    "jp": "{FFF5}{v:0018}きゃあっ！{n}は、放して！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0018}Aah! L-let go of me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0008",
    "jp": "{v:0019}大人しくこっちに来い！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Quit struggling and come here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0009",
    "jp": "{v:001A}ああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Aah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0010",
    "jp": "{v:001B}ほら、何してんのよ！{n}あの人、連れて行かれちゃうでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Hey, what are you doing?! They're going to take{n}her away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0011",
    "jp": "{FFEE}マップ端に連れ去られるな！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Don't let them take her to the edge of the map!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0012",
    "jp": "{v:001C}おっと！{n}ここからは行かせねぇぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Whoa there! You ain't getting past me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0013",
    "jp": "{v:001D}邪魔されるわけにゃいかねぇからな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Can't have you getting in our way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0014",
    "jp": "‥‥{v:001E}どうすんのよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001E}Now what are you gonna do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0015",
    "jp": "{v:0063}カレン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}Karen!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0016",
    "jp": "{v:0028}待っててね！{n}今助けるから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Hang on! We're coming to save you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0017",
    "jp": "{FFF5}{v:0029}は、はい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0029}Y-yes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0018",
    "jp": "{FFF5}{v:0062}ああ、助けて‥‥。{n}‥‥兄さーーん！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0062}Oh, help me... Brotheeer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0019",
    "jp": "{v:0064}バカ、バカ！{n}連れてかれちゃったじゃないの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}You idiot! You idiot! They got away with her!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0020",
    "jp": "あ、そうだ！{n}コレ、預かってたんだっけ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, right! I was given this to hold on to...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0021",
    "jp": "　{n}　　　　　『{FFEF}シビレ玉{FFF1}』を受け取った！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Received '{FFEF}Paralysis Orb{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0022",
    "jp": "はぁ～、重たかったよぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Whew... That was sooo heavy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0023",
    "jp": "おい！{n}お前らも、娘を狙え！{n}その小僧なら、無視してもいい！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! You lot go after the girl too! You can ignore{n}that brat!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0024",
    "jp": "へい！{n}わかりました！",
-   "en": "",
-   "term": "end"
+   "en": "Right! Got it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0025",
    "jp": "{v:0053}わかってますよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Yeah, I know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0026",
    "jp": "{v:0050}いいか、あのゼノスって奴は相当腕がたつぞ！{n}気をつけろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Listen up! That Xenos guy's damn good! Watch{n}yourselves!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0027",
    "jp": "{v:0051}さっきので十分わかりましたぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Yeah, I got a good taste of that just now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0028",
    "jp": "{v:0052}それに俺たちの仕事は奴の妹の方だ！{n}失敗は許されねぇぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Besides, our job's to grab his sister! Failure ain't{n}an option!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0029",
    "jp": "{v:001F}悪者は許さないんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}I won't let you villains get away with this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0030",
    "jp": "{v:0020}何だ？{n}今の声はどこから聞こえたんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Huh? Where'd that voice come from?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0031",
    "jp": "{v:0021}どこ見てんのよ！{n}アタシは、ココよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Where are you looking?! I'm right here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0032",
    "jp": "{v:0022}な、なんだ？{n}妖精が人間と一緒にいるだと？{p}{v:0023}だが、妖精に何が出来る！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Wh-what? A fairy with a human?{p}{v:0023}But what can a fairy do?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0033",
    "jp": "{v:0024}ムッカ～～ッ！{n}絶対、こいつやっつけちゃってよね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Grrr! You'd better clobber this guy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0034",
    "jp": "クソッ！{n}もう追い付きやがったか！",
-   "en": "",
-   "term": "end"
+   "en": "Damn! You've caught up already?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0035",
    "jp": "{v:0054}どうして彼女を狙うのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Why are you after her?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0036",
    "jp": "{v:0055}何だ？{n}女みてぇな声だしやがって？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Huh? What's with that girly voice?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0037",
    "jp": "{v:0056}女みたいじゃなくて、アタシは女の子なの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}I don't just sound like a girl! I AM a girl!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0038",
    "jp": "{v:0057}よ、妖精だと？{p}{v:0058}へへっ！{n}こんなに人なつこい妖精は初めて見たぜ！{n}よし、捕まえて売り飛ばしてやる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}A-a fairy?{p}{v:0058}Heh heh! Never seen a fairy so friendly with people!{n}Right, I'll catch you and sell you off!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0039",
    "jp": "{v:0059}ムカツク奴ぅ～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Ugh, you creep!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0040",
    "jp": "{v:005A}よくも、カレンを！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}How dare you do this to Karen!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0041",
    "jp": "‥‥{v:005B}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005B}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0042",
    "jp": "{v:005C}なに、アイツ！{n}盗賊風情のくせになかなかやるじゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}What's with him?! He's pretty good for a lousy bandit!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0043",
    "jp": "{v:005E}フン！{n}盗賊風情がなかなかやるじゃないか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}Hmph! You're pretty good for a lousy bandit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0044",
    "jp": "{v:005D}盗賊風情とは何だ！{n}このオズワルド様を甘く見るなよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Who're you calling a lousy bandit?! Don't underestimate{n}the great Oswald!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0045",
    "jp": "！！",
-   "en": "",
-   "term": "end"
+   "en": "!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0046",
    "jp": "{v:0065}きゃーーっ！{n}ちょっと、起きてよ！{n}目を開けてよーーっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}Aaaah! Hey, wake up! Open your eyes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0047",
    "jp": "な、なぜだ！？{n}この俺が‥‥",
-   "en": "",
-   "term": "end"
+   "en": "H-how?! How could I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0048",
    "jp": "く、苦しい‥‥",
-   "en": "",
-   "term": "end"
+   "en": "It... hurts...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0049",
    "jp": "さぁ、急いであの人を助けましょ！",
-   "en": "",
-   "term": "end"
+   "en": "Come on, let's hurry and save her!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0050",
    "jp": "ちっ！{n}そう簡単に追い付かれてたまるかよ！",
-   "en": "",
-   "term": "end"
+   "en": "Tch! You ain't catching up to me that easily!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0051",
    "jp": "{v:002A}ぐおっ！{p}{v:002B}す、すまねぇ‥オズワルドのアニキ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Gwah!{p}{v:002B}S-sorry... Boss Oswald...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0052",
    "jp": "{v:002C}やったぁ！{p}{v:002D}ね、大丈夫だった？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}We did it!{p}{v:002D}Hey, are you all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0053",
    "jp": "{v:002E}は、はい。{n}助かりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Y-yes. You saved me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0054",
    "jp": "{v:002F}ん？{n}何で、まだ娘がここにいるんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Huh? Why's the girl still here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0055",
    "jp": "{v:0030}オズワルドのアニキ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Boss Oswald!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0056",
    "jp": "{v:0032}何ボヤボヤしてんだよ！{n}せっかく俺が奴の注意を引きつけていたってのに！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}What're you standing around for?! I went to all that{n}trouble to keep him distracted!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0057",
    "jp": "{v:0033}す、すいやせん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}S-sorry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0058",
    "jp": "{v:0031}オズワルドのアニキ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Boss Oswald!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0059",
    "jp": "{v:0034}す、すいやせん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}S-sorry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0060",
    "jp": "{v:0035}こうなったら俺が直接やるしかねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Looks like I'll have to do it myself!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0061",
    "jp": "{v:0036}どうやらあいつが親玉みたいね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Looks like he's the ringleader!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0062",
    "jp": "{v:0037}あ、あの‥。{n}私はどうすれば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}U-um... What should I do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0063",
    "jp": "{v:0038}彼女、どうする？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}What do we do about her?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0064",
    "jp": "何と指示を与えますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you tell her to do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0065",
    "jp": "・その場に止まらせる",
-   "en": "",
+   "en": "・Have her stay where she is",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen197.0066",
    "jp": "・王都方面へ向かわせる",
-   "en": "",
+   "en": "・Send her toward the royal capital",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen197.0067",
    "jp": "・自分についてこさせる",
-   "en": "",
+   "en": "・Have her follow you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen197.0068",
    "jp": "{v:0039}そうね。{n}ヘンに動かれると守りづらいモンね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Right! It's harder to protect her if she's running all{n}over the place!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0069",
    "jp": "{v:003A}わかりました。{n}ここにいます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}All right. I'll stay here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0070",
    "jp": "{v:003B}アタシ達が敵と戦っているうちに街の方へ逃げて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Run toward town while we fight the enemy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0071",
    "jp": "{v:003C}は、はい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Y-yes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0072",
    "jp": "{v:003D}コイツから離れちゃダメだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Don't leave this guy's side, okay?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0073",
    "jp": "{v:003E}はい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Yes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0074",
    "jp": "{v:0066}くそっ！{n}まさかこんなことになるとは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}Damn! Never thought it'd turn out like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0075",
    "jp": "{v:003F}こんなところに居やがったか！{n}お前、何の恨みがあって俺を‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}So this is where you've been hiding! What've I ever done{n}to you that you'd...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0076",
    "jp": "{v:0040}チッ！{n}もう戻って来やがったか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Tch! The bastard's back already!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0077",
    "jp": "{v:0041}ゼノス兄さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Brother Xenos!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0078",
    "jp": "{v:0042}カレン！？{n}いったい何が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Karen?! What's going on...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0079",
    "jp": "{v:0043}お兄さんなの？{n}あなたの妹さんが、この悪漢にさらわれそうに{n}なってるのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}You're her brother? This villain's trying to kidnap{n}your sister!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0080",
    "jp": "{v:0044}何だと！　よくもカレンを！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}What?! How dare you do this to Karen!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0081",
    "jp": "‥‥{v:005B}うぅ‥‥。{p}{v:0067}ええい、引き上げだ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005B}Ugh...{p}{v:0067}Damn it, we're pulling out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0082",
    "jp": "{v:0066}くそっ！{n}まさかこんなことになるとは‥‥。{p}{v:0067}ええい、引き上げだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}Damn! Never thought it'd turn out like this...{p}{v:0067}Damn it, we're pulling out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0083",
    "jp": "{v:0068}待ちやがれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0068}Get back here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0084",
    "jp": "か、勝てねぇ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I... can't win...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0085",
    "jp": "げふっ！",
-   "en": "",
-   "term": "end"
+   "en": "Guh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0086",
    "jp": "{v:005F}何だと！？{n}俺の子分を倒しただと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}What?! You beat my men?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0087",
    "jp": "{v:0061}観念するんだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}Give it up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0088",
    "jp": "{v:0060}さぁ、観念しなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}Come on, give it up already!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0089",
    "jp": "{v:0045}ちょっと待ってよ！{n}今は協力するべきだと思わない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Hold on! Don't you think we should work together{n}right now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0090",
    "jp": "‥‥{v:0046}わかった。{n}どうして欲しい？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0046}All right. What do you want me to do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0091",
    "jp": "さぁ、次は何をすればいい？",
-   "en": "",
-   "term": "end"
+   "en": "Right, what do I do next?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0092",
    "jp": "ゼノスに何と指示を出しますか？",
-   "en": "",
-   "term": "end"
+   "en": "What orders will you give Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0093",
    "jp": "・カレンを頼む",
-   "en": "",
+   "en": "・Ask him to protect Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen197.0094",
    "jp": "・自由に戦ってもらう",
-   "en": "",
+   "en": "・Let him fight as he sees fit",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen197.0095",
    "jp": "・攻撃目標を指定する",
-   "en": "",
+   "en": "・Choose a target for him",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen197.0096",
    "jp": "{v:0047}わかった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Got it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0097",
    "jp": "{v:0049}こっちだ、カレン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}This way, Karen!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0098",
    "jp": "{v:0028}うるせぇ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Shut up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0099",
    "jp": "{FFF5}{v:001A}ああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:001A}Aah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0100",
    "jp": "{v:0048}では、私は兄さんのところへ行くんですね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Then I should go to my brother, is that right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0101",
    "jp": "{v:004A}それじゃ、どうするんだ？{p}{v:004B}さっさと決めてくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}So, what's it gonna be?{p}{v:004B}Hurry up and decide!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0102",
    "jp": "{v:004C}こいつでいいんだな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}This one, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0103",
    "jp": "{v:004D}わかった！{p}{v:004E}覚悟しやがれ、この野郎！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Got it!{p}{v:004E}You're in for it now, you bastard!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen197.0104",
    "jp": "{v:004D}わかった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Got it!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

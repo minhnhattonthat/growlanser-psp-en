@@ -15,62 +15,72 @@
   {
    "id": "scen299.0001",
    "jp": "カレン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Karen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen299.0002",
    "jp": "他の奴らはどうしてるんだろうな？",
-   "en": "",
-   "term": "end"
+   "en": "Wonder what the others are up to.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen299.0003",
    "jp": "俺もカレンと一緒に{n}ここを手伝おうと思ってな。",
-   "en": "",
-   "term": "end"
+   "en": "I figured I'd help out here with Karen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen299.0004",
    "jp": "よう、{s:0000}。{n}よく考えてみれば、お前に会えたのもガムランの{n}野郎がいたからだ。不思議なもんだな。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, {s:0000}. Come to think of it, I only met{n}you because of that bastard Gamlan. Funny how things{n}turn out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen299.0005",
    "jp": "おう、{s:0000}。{n}一度、一対一でお前と勝負したいもんだぜ。{n}来年の闘技大会には出るよな？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, {s:0000}. I'd like to take you on, one on{n}one, sometime. You're entering next year's{n}tournament, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen299.0006",
    "jp": "なあ、{s:0000}。{n}ルイセを大切にしろよ。{n}家族ってのは願っても得られないもんだからな。",
-   "en": "",
-   "term": "end"
+   "en": "Listen, {s:0000}. Take good care of Luise.{n}Wishing for a family won't give you one.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen299.0007",
    "jp": "よう、{s:0000}。{n}どっかうまい料理を食わせてくれる店、知らねぇか？{n}俺は、こう見えても味にうるさいんでな。{p}今度、俺の行きつけの店を教えてやるからよ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, {s:0000}. Know any places that serve{n}good food? I may not look it, but I'm picky about what{n}I eat.{p}I'll tell you about my usual place sometime.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen299.0008",
    "jp": "よう、{s:0000}。{n}俺もお前みたいに騎士になりたいと思っていたけどよ、{n}宮仕えってのはなかなか大変そうだな。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, {s:0000}. I wanted to become a knight{n}like you, but serving at court looks like a tough job.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen299.0009",
    "jp": "なんだか、気ままに遠くへ行きたい気分だぜ。{n}事が片づいたら旅にでも出るかな。",
-   "en": "",
-   "term": "end"
+   "en": "I feel like heading somewhere far away, with nothing{n}tying me down. Maybe I'll take a trip once all this{n}is settled.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen299.0010",
    "jp": "どこ行こうか？",
-   "en": "",
-   "term": "end"
+   "en": "Where should I go?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

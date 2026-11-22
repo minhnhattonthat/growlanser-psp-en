@@ -15,941 +15,1091 @@
   {
    "id": "scen069.0001",
    "jp": "アイリーン",
-   "en": "",
-   "term": "null"
+   "en": "Irene",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen069.0002",
    "jp": "ブラッドレー副学院長",
-   "en": "",
-   "term": "null"
+   "en": "Vice Headmaster Bradley",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen069.0003",
    "jp": "{v:00D1}あ、来た来た。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D1}Oh, here they come.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0004",
    "jp": "{v:00D2}どうだった？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D2}How did it go?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0005",
    "jp": "{v:00D3}ローランディアでも、独自に調査してくれてたみたい。{n}すぐにここへ来てくれるってさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D3}Looks like Rolandia was investigating on its own too.{n}They said they'd be right over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0006",
    "jp": "{v:00D4}よし、それじゃ行こうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D4}Good. Let's go, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0007",
    "jp": "秘密研究所",
-   "en": "",
-   "term": "end"
+   "en": "Secret Laboratory",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0008",
    "jp": "{v:0000}こんなところに家があるよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}There's a house all the way out here?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0009",
    "jp": "{v:0001}あの人、ここへ入っていったのかしら？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}I wonder if that person went in here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0010",
    "jp": "{v:0002}鍵がかかってないよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}It's not locked?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0011",
    "jp": "{v:0003}こんなところまで人が来るとは思えないからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}They wouldn't expect anyone to come this far.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0012",
    "jp": "{v:0004}洞窟の秘密通路が鍵みたいなもんだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}I guess the secret passage in the cave is all the lock{n}they need.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0013",
    "jp": "扉はかたく閉ざされている。",
-   "en": "",
-   "term": "end"
+   "en": "The door is firmly shut.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0014",
    "jp": "モニター上には、{n}『ロック１解除中』と表示されている。",
-   "en": "",
-   "term": "end"
+   "en": "The monitor displays 'Lock 1 disengaged.'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0015",
    "jp": "モニター上に文字が浮かび上がっており、{n}『正しい答えを選べ』と書いてある。",
-   "en": "",
-   "term": "end"
+   "en": "Words appear on the monitor: 'Select the{n}correct answer.'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0016",
    "jp": "質問に答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you answer the questions?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0017",
    "jp": "魔法学院の４階は？",
-   "en": "",
-   "term": "end"
+   "en": "What is on the fourth floor of the Magic Academy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0018",
    "jp": "・薬剤研究フロア",
-   "en": "",
+   "en": "・Pharmaceutical Research Floor",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0019",
    "jp": "・図書室",
-   "en": "",
+   "en": "・Library",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0020",
    "jp": "・講義室",
-   "en": "",
+   "en": "・Lecture Hall",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0021",
    "jp": "魔法学院の学食にある４人卓の数は？",
-   "en": "",
-   "term": "end"
+   "en": "Tables for four in the Magic Academy cafeteria?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0022",
    "jp": "・４卓",
-   "en": "",
+   "en": "・4 tables",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0023",
    "jp": "・６卓",
-   "en": "",
+   "en": "・6 tables",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0024",
    "jp": "・８卓",
-   "en": "",
+   "en": "・8 tables",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0025",
    "jp": "魔法学院に立っている集魔柱は？",
-   "en": "",
-   "term": "end"
+   "en": "Mana collection pillars at the Magic Academy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0026",
    "jp": "・６本",
-   "en": "",
+   "en": "・6 pillars",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0027",
    "jp": "・７本",
-   "en": "",
+   "en": "・7 pillars",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0028",
    "jp": "・８本",
-   "en": "",
+   "en": "・8 pillars",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0029",
    "jp": "机の上には数冊の古書が無造作に置かれているが、{n}その上にもほこりが積もっている。{n}どうやら長い間使われていないようだ。",
-   "en": "",
-   "term": "end"
+   "en": "Several old books lie haphazardly on the desk, covered{n}in dust. They don't seem to have been used in a{n}long time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0030",
    "jp": "一般魔導生命体論{n}高等魔導生命学概論{n}歴史に見るホムンクルス{p}どこでも手に入る、ありふれた本ばかりだ。",
-   "en": "",
-   "term": "end"
+   "en": "General Theory of Magical Life Forms{n}Introduction to Advanced Magical Biology{n}A History of the Homunculus{p}These are all ordinary books you could find anywhere.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0031",
    "jp": "季節と天体{n}一般次元時空論{n}日食・月食観測記録{p}どこでも手に入る、ありふれた本ばかりだ。",
-   "en": "",
-   "term": "end"
+   "en": "The Seasons and Celestial Bodies{n}General Theory of Dimensions and Space-Time{n}Solar and Lunar Eclipse Observation Records{p}These are all ordinary books you could find anywhere.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0032",
    "jp": "前世界史{n}グローシアン遺跡について{n}水晶鉱山調査記録{p}どこでも手に入る、ありふれた本ばかりだ。",
-   "en": "",
-   "term": "end"
+   "en": "History of the Previous World{n}On Growsian Ruins{n}Crystal Mine Survey Records{p}These are all ordinary books you could find anywhere.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0033",
    "jp": "不思議な光を放つ石の上には、{n}『ロック２解除中』と書いてある。",
-   "en": "",
-   "term": "end"
+   "en": "A stone emits a strange light. On it are the words 'Lock{n}2 disengaged.'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0034",
    "jp": "不思議な光を放つ石の上には、{n}『３桁の暗証番号を入力せよ』と書いてある。",
-   "en": "",
-   "term": "end"
+   "en": "A stone emits a strange light. On it are the words{n}'Enter the three-digit passcode.'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0035",
    "jp": "暗証番号を入力しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you enter the passcode?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0036",
    "jp": "百の位の数は？",
-   "en": "",
-   "term": "end"
+   "en": "What is the hundreds digit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0037",
    "jp": "・０",
-   "en": "",
+   "en": "・0",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0038",
    "jp": "・１",
-   "en": "",
+   "en": "・1",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0039",
    "jp": "・２",
-   "en": "",
+   "en": "・2",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0040",
    "jp": "・３",
-   "en": "",
+   "en": "・3",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0041",
    "jp": "・４",
-   "en": "",
+   "en": "・4",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0042",
    "jp": "・５",
-   "en": "",
+   "en": "・5",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0043",
    "jp": "・６",
-   "en": "",
+   "en": "・6",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0044",
    "jp": "・７",
-   "en": "",
+   "en": "・7",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0045",
    "jp": "・８",
-   "en": "",
+   "en": "・8",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0046",
    "jp": "・９",
-   "en": "",
+   "en": "・9",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0047",
    "jp": "十の位の数は？",
-   "en": "",
-   "term": "end"
+   "en": "What is the tens digit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0048",
    "jp": "・０",
-   "en": "",
+   "en": "・0",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0049",
    "jp": "・１",
-   "en": "",
+   "en": "・1",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0050",
    "jp": "・２",
-   "en": "",
+   "en": "・2",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0051",
    "jp": "・３",
-   "en": "",
+   "en": "・3",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0052",
    "jp": "・４",
-   "en": "",
+   "en": "・4",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0053",
    "jp": "・５",
-   "en": "",
+   "en": "・5",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0054",
    "jp": "・６",
-   "en": "",
+   "en": "・6",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0055",
    "jp": "・７",
-   "en": "",
+   "en": "・7",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0056",
    "jp": "・８",
-   "en": "",
+   "en": "・8",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0057",
    "jp": "・９",
-   "en": "",
+   "en": "・9",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0058",
    "jp": "一の位の数は？",
-   "en": "",
-   "term": "end"
+   "en": "What is the ones digit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0059",
    "jp": "・０",
-   "en": "",
+   "en": "・0",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0060",
    "jp": "・１",
-   "en": "",
+   "en": "・1",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0061",
    "jp": "・２",
-   "en": "",
+   "en": "・2",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0062",
    "jp": "・３",
-   "en": "",
+   "en": "・3",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0063",
    "jp": "・４",
-   "en": "",
+   "en": "・4",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0064",
    "jp": "・５",
-   "en": "",
+   "en": "・5",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0065",
    "jp": "・６",
-   "en": "",
+   "en": "・6",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0066",
    "jp": "・７",
-   "en": "",
+   "en": "・7",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0067",
    "jp": "・８",
-   "en": "",
+   "en": "・8",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0068",
    "jp": "・９",
-   "en": "",
+   "en": "・9",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen069.0069",
    "jp": "本の裏表紙に走り書きがあり、{n}『１年　＋　１日　＋　１時間』{n}と記されている。",
-   "en": "",
-   "term": "end"
+   "en": "A note scrawled on the book's back cover reads, '1{n}year + 1 day + 1 hour'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0070",
    "jp": "２４ページ、６０ページ、３６５ページに{n}印がついている。",
-   "en": "",
-   "term": "end"
+   "en": "Pages 24, 60, and 365 are marked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0071",
    "jp": "初歩の魔導学　全４巻{n}時空融合理論　全４巻{n}グローシアンと人類の歴史　全９巻",
-   "en": "",
-   "term": "end"
+   "en": "Introduction to Magic: 4 volumes{n}Space-Time Fusion Theory: 4 volumes{n}A History of Growsians and Humanity: 9 volumes",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0072",
    "jp": "特に手がかりになるようなものはない。",
-   "en": "",
-   "term": "end"
+   "en": "There is nothing here that looks like a clue.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0073",
    "jp": "古書が無造作に置かれているが、{n}かすれていて読みとれない。",
-   "en": "",
-   "term": "end"
+   "en": "Old books lie scattered about, but the writing is too{n}faded to read.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0074",
    "jp": "見慣れない文字で書かれた本だ。{n}読むことが出来ない。",
-   "en": "",
-   "term": "end"
+   "en": "This book is written in unfamiliar characters. You{n}cannot read it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0075",
    "jp": "{v:00B1}ふぅっ、助かった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B1}Whew... I'm saved...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0076",
    "jp": "{v:00A4}アイリーン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A4}Irene!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0077",
    "jp": "{v:00A5}あなたは、アイリーンさんの‥‥！{n}どうしてここへ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A5}You're Irene-san's...! What brings you here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0078",
    "jp": "{v:00A6}グローシアンが事件に巻き込まれていると知って、{n}じっとしていられなかったんだ。{p}{v:00A7}そして学院に行ったら、{n}君たちがこっちへ向かったと聞いてね。{n}それよりアイリーンは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A6}When I learned that Growsians were caught up in all{n}this, I couldn't just sit still.{p}{v:00A7}I went to the Academy and heard you'd come this way.{n}But what about Irene?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0079",
    "jp": "‥‥{v:00A8}誰‥呼んでる‥声‥なつかしい‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00A8}Who... calling... voice... so familiar...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0080",
    "jp": "‥‥{v:00A9}アイリーン‥‥うおぉぉぉっ！{n}俺のアイリーンをぉぉっ！！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00A9}Irene... Aaaaargh! What have you done to my Irene?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0081",
    "jp": "‥‥{v:00B2}う‥‥あ‥あ‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00B2}Uh... ah... ah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0082",
    "jp": "{v:00B3}アイリーン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B3}Irene...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0083",
    "jp": "{v:00B4}アイリーンさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B4}Irene-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0084",
    "jp": "{v:00B5}命は無事でも、彼女はもう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B5}Her life is out of danger, but she'll never be{n}the same...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0085",
    "jp": "{v:00B6}なんでこんな酷い事が出来るんだろう‥‥。{p}{v:00B7}いくら研究のためでも、人を傷つけていいなんて、{n}そんなの、間違ってるよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B6}How could anyone do something so cruel...?{p}{v:00B7}Hurting people can't be right, even if it's{n}for research...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0086",
    "jp": "{v:00B8}でも、このままじゃいられないよ。{n}すぐにお城に報告して、ここへ来てもらおうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B8}But we can't just stay here. Let's report this to the{n}castle right away and have them send someone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0087",
    "jp": "{v:00B9}そうだな。{n}だがお前のテレパシーは使えないんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B9}Right. But you can't use your telepathy, can you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0088",
    "jp": "{v:00BA}ん～、{n}マジックジャマーの範囲から出れば大丈夫だと思う。{p}{FC00}{v:00BB}アタシ、外に出てマスターに報告してくるから、{n}少ししてから来てね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BA}Hmm... I think it'll work once I'm out of the Magic{n}Jammer's range.{p}{FC00}{v:00BB}I'll go outside and report to Master. Give me a little{n}time, then come along!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0089",
    "jp": "{v:00BC}しかし、予想が当たったとはいえ、{n}本当に学院長が黒幕だったとはな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BC}Still, even if we suspected him, to think the Headmaster{n}really was behind it all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0090",
    "jp": "‥‥‥{v:00BD}ごめんね、ルイセちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00BD}I'm sorry, Luise-chan.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0091",
    "jp": "{v:00BE}元気出してよ、ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BE}Cheer up, Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0092",
    "jp": "‥‥{v:00BF}アタシ‥‥人じゃなかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00BF}I... wasn't human...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0093",
    "jp": "{v:00C0}何言ってるのよ！{n}ミーシャはミーシャでしょ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C0}What are you talking about?! You're still Misha,{n}aren't you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0094",
    "jp": "{v:00C1}それだけじゃなくって、{n}ルイセちゃんを監視するために作られたんだって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C1}That's not all... He said I was made to spy on{n}you, Luise-chan...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0095",
    "jp": "{v:00C2}わたし、ミーシャと一緒にいるとき、{n}とっても楽しかったよ？{p}{v:00C3}一緒に遊んだり、一緒におしゃべりしたり、{n}全部楽しかったよ！{p}{v:00C4}あのときの気持ちは本物だった！{n}あのときの友情は本物だった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C2}But I was so happy when we were together, Misha.{p}{v:00C3}Playing together, talking together... I enjoyed{n}every moment!{p}{v:00C4}Those feelings were real! Our friendship was real!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0096",
    "jp": "‥‥{v:00C5}ルイセちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00C5}Luise-chan...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0097",
    "jp": "{v:00C6}わたしたちの友情は本物だよ？{n}こんなことで壊れるのは偽物の友情だよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C6}Our friendship is real, isn't it? If something like this{n}could break it, it wouldn't have been real at all, would it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0098",
    "jp": "‥‥{v:00C7}ルイセちゃん‥‥ルイセちゃ～ん‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00C7}Luise-chan... Luise-chaaaan...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0099",
    "jp": "‥‥‥{v:00C8}ミーシャ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00C8}Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0100",
    "jp": "{v:00C9}僕たちは、他人とのつながりの中で生きている。{p}{v:00CA}信じあうこと。{n}それが大切だと思う。{p}‥‥{v:00CB}そう。{n}父が最後まで見捨てなかったように‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C9}We live through our connections with other people.{p}{v:00CA}Trusting one another... I think that's what matters.{p}...{v:00CB}Yes. Just as Father never turned his back, right to{n}the end...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0101",
    "jp": "{v:00CC}こっちも一段落ついたようだな。{p}{v:00CD}そろそろティピもいい頃だろう。{n}王都へ戻らないか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CC}Looks like things have settled down here, too.{p}{v:00CD}Tippi should be done by now. Shall we head back to{n}the capital?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0102",
    "jp": "{v:00CE}私は他の兵が来るまで、アイリーンとここにいます。{n}どうもありがとうございました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CE}I'll stay here with Irene until the other soldiers arrive.{n}Thank you for everything.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0103",
    "jp": "{v:00CF}私もここで待つことにするよ。{n}正直、腰が抜けてすぐには動けそうにない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CF}I shall wait here as well. To be honest, my legs have{n}given out. I doubt I could move just yet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0104",
    "jp": "{v:00D0}それじゃ、しっかり頼むぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D0}All right. We're counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0105",
    "jp": "{v:0005}やめて‥‥私の‥記憶‥‥やめて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Stop... my... memories... please stop...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0106",
    "jp": "{v:0006}大人しくしなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Keep still.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0107",
    "jp": "{v:0007}やめろ！{n}やめるんだっ！{p}{v:0008}そんなことをしたら、廃人になってしまうぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Stop! Stop this at once!{p}{v:0008}You'll destroy her mind if you do that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0108",
    "jp": "{v:0009}アイリーンさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Irene-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0109",
    "jp": "{v:000A}カ、カレン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}K-Karen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0110",
    "jp": "{v:000C}ああ、助けて‥し、死にたくない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Ah, help me... I-I don't want to die...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0111",
    "jp": "{v:0095}アイリーンさん、今助けるからね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0095}Irene-san, we're going to save you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0112",
    "jp": "{v:000D}おお、君たち！{n}早く助けてくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Oh, it's you! Hurry, help me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0113",
    "jp": "あ、こら！{n}こんな時に、どこへ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you! Where do you think you're going at a time{n}like this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0114",
    "jp": "{v:000E}お前たち、どうやってここに入った？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}How did you get in here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0115",
    "jp": "{v:000F}そんなこと関係ないでしょ！{n}アイリーンさん達を放しなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}What does that matter?! Let Irene-san and the{n}others go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0116",
    "jp": "‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "......",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0117",
    "jp": "{v:0010}ちょっと、聞いてるの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Hey! Are you even listening?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0118",
    "jp": "‥‥‥{v:0011}マスターの命令は絶対のはず。{n}お前は何をしている？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0011}Master's orders are absolute. What are you doing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0119",
    "jp": "{v:0012}えっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Huh?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0120",
    "jp": "{v:0013}なぜマスターに従わない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Why do you not obey Master?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0121",
    "jp": "‥‥{v:0014}マスター‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0014}Master...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0122",
    "jp": "{v:0015}その通りだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Precisely...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0123",
    "jp": "{v:0016}誰っ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Who's there?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0124",
    "jp": "{v:0017}まさかここを嗅ぎつけられるとはな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}I never expected you to sniff out this place...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0125",
    "jp": "{v:0018}やっぱりお前だったか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}So it was you after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0126",
    "jp": "{v:0019}どうして‥‥{n}どうしてアイリーンさん達をこんな目にあわせるの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Why...? Why are you doing this to Irene-san and{n}the others?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0127",
    "jp": "{v:001A}決まっている。{n}私がグローシアンになるためだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Isn't it obvious? So that I may become a Growsian!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0128",
    "jp": "‥‥{v:001B}なっ！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001B}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0129",
    "jp": "{v:001C}私はね、はるか過去に滅んだ{n}支配階級グローシアンの末裔なのだよ。{n}しかも王族のね。{p}{v:001D}だがいかなグローシアンといえど、普通の人間と{n}交わればグローシュの能力はそこで途絶える。{p}{v:001E}これでわかったかな？{n}ただの人間になった私がグローシュを欲するわけが！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}You see, I am descended from the Growsians, the ruling{n}class that perished in the distant past. Royal blood,{n}no less.{p}{v:001D}But even a Growsian's line loses the power of Grosh{n}upon breeding with an ordinary human.{p}{v:001E}Do you understand now? Why I, reduced to an ordinary{n}human, desire Grosh?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0130",
    "jp": "{v:001F}そしてもう一度、支配階級をよみがえらせようと{n}言うんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}And you intend to restore that ruling class?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0131",
    "jp": "{v:0020}それで自分がグローシアンになって、{n}昔のように支配者になろうってのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}So you'll make yourself a Growsian and rule over{n}everyone like they did in the old days?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0132",
    "jp": "{v:0021}ご名答。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Precisely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0133",
    "jp": "{FFF5}{v:0022}そのために‥‥そのためにアイリーンさんを‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0022}For that... You did this to Irene-san for that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0134",
    "jp": "{v:0023}研究に犠牲はつきものだよ。{p}{v:0024}では逆にこちらから質問しよう。{n}どうやってミーシャのテレパシーを遮断したのだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Research inevitably demands sacrifices.{p}{v:0024}Now, let me ask you a question. How did you block{n}Misha's telepathy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0135",
    "jp": "{v:0025}アタシ‥の‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}My... telepathy...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0136",
    "jp": "{v:0026}どういう事よ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}What's that supposed to mean?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0137",
    "jp": "{v:0027}何だ、気づいていなかったのか？{p}{v:0028}ふははははっ！{n}そうか、気づかなかったのか！{n}ふははははははははっ！{p}{v:0029}ならば教えてやろう！{n}その娘はな、人ではない！{n}その秘書と同じ、ホムンクルスなのだからな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}What? You hadn't noticed?{p}{v:0028}Hahahaha! I see! You hadn't noticed! Hahahahahahaha!{p}{v:0029}Then allow me to enlighten you! That girl is not human!{n}She is a homunculus, just like that secretary!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0138",
    "jp": "{v:002A}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0139",
    "jp": "{FFF5}‥‥{v:002B}アタシ‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:002B}I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0140",
    "jp": "{v:002C}そうよ。{n}私はマスターの手伝いをするために{n}作られた魔法生命体。{p}{v:002D}そして、ミーシャ。{n}あなたも。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}That's right. I am a magical life-form created to{n}assist Master.{p}{v:002D}And Misha... so are you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0141",
    "jp": "{v:002E}人間大のホムンクルス！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}A human-sized homunculus?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0142",
    "jp": "{FFF5}{v:002F}‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:002F}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0143",
    "jp": "{v:0030}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}It can't be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0144",
    "jp": "‥‥{v:0031}なんてこった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0031}What the hell...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0145",
    "jp": "{FFF5}‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0146",
    "jp": "{v:0032}しっかりして、ミーシャ！{n}あなたは、わたしの親友だよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Stay strong, Misha! You're my best friend!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0147",
    "jp": "{FFF5}‥‥{v:0033}ルイセちゃん‥‥アタシ‥‥アタシ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:0033}Luise-chan... I... I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0148",
    "jp": "{v:0034}お前を作ったのは、最高のグローシュを持つルイセを{n}見張らせるため。{n}そのために普通の人間として、近づかせたのだ。{p}{v:0035}本人も自分の存在を疑っていなかったようだな。{n}それを親友だと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}I created you to spy on Luise, whose Grosh is the most{n}powerful of all. That is why I had you approach her as{n}an ordinary human.{p}{v:0035}It seems she never even suspected what she really{n}was. And you call her your best friend?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0149",
    "jp": "‥‥{v:0036}許さない‥‥。{n}許さないんだから！{p}{v:0037}多くのグローシアンを、{n}そしてわたしの親友まで傷つけて！{n}絶対に許さないんだから！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0036}I won't forgive you... I won't!{p}{v:0037}You've hurt so many Growsians, and even my best{n}friend! I'll never forgive you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0150",
    "jp": "{v:0038}飛んで火にいる夏の虫！{n}貴様のグローシュも取り出してやる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Like a moth to the flame! I'll extract your Grosh{n}as well!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen069.0151",

@@ -15,14 +15,16 @@
   {
    "id": "scen291.0001",
    "jp": "{FFEE}送魔線技師を守りながら戦え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Fight while protecting the Mana Line Engineer!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen291.0002",
    "jp": "{v:0009}送魔線張りひとすじ４０年。最後の仕事じゃ！{n}行くぞ、若者たちよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Forty years devoted to laying mana lines. This is my{n}last job! Come along, you youngsters!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen291.0003",
@@ -81,8 +83,9 @@
   {
    "id": "scen291.0012",
    "jp": "何と言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen291.0013",
@@ -306,8 +309,9 @@
   {
    "id": "scen291.0049",
    "jp": "{v:003A}うおぉっ！{p}{v:003B}ワ、ワシがやらねば‥‥誰が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Uwaaagh!{p}{v:003B}I-if this old man doesn't do it... who will...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen291.0050",

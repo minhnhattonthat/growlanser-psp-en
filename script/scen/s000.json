@@ -15,696 +15,809 @@
   {
    "id": "scen000.0001",
    "jp": "妖精",
-   "en": "",
-   "term": "null"
+   "en": "Fairy",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen000.0002",
    "jp": "ルイセ",
-   "en": "",
-   "term": "null"
+   "en": "Luise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen000.0003",
    "jp": "女",
-   "en": "",
-   "term": "null"
+   "en": "Woman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen000.0004",
    "jp": "男",
-   "en": "",
-   "term": "null"
+   "en": "Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen000.0005",
    "jp": "？",
-   "en": "",
-   "term": "null"
+   "en": "?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen000.0006",
    "jp": "自宅",
-   "en": "",
-   "term": "end"
+   "en": "Home",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0007",
    "jp": "こっちだよ、お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "Over here, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0008",
    "jp": "もう、お兄ちゃん！{n}お母さんが待ってるよ！{n}早く！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother! Mother's waiting! Hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0009",
    "jp": "初めてのお買い物",
-   "en": "",
-   "term": "end"
+   "en": "First Shopping Trip",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0010",
    "jp": "{v:0012}おはよう。{n}私がいない間、何か変わったことは{n}ありませんでしたか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Good morning. Did anything unusual happen while I{n}was away?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0011",
    "jp": "{v:0013}いつも通りだったよね、お兄ちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Everything was just as usual, right, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0012",
    "jp": "{v:0014}そうですか。{n}それを聞いて安心しました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}I see. That is a relief to hear.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0013",
    "jp": "{v:0017}それより、マスター。{n}そろそろアタシのこと紹介して欲しいんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}More importantly, Master, isn't it about time you{n}introduced me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0014",
    "jp": "{v:0019}まだ自己紹介してなかったのですか？{p}{FC00}{v:001A}彼女の名前はティピ。{n}魔法で生み出された{FFEF}ホムンクルス{FFF1}（魔導生命）です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Have you not introduced yourself yet?{p}{FC00}{v:001A}Her name is Tippi. She is a {FFEF}homunculus{FFF1} (a magical{n}life-form), created through magic.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0015",
    "jp": "{v:001B}ティピだよ★{n}よろしくぅ♪{p}{v:0062}それで、アンタの名前はなんていうの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}I'm Tippi! Nice to meet ya♪{p}{v:0062}So, what's YOUR name?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0016",
    "jp": "{v:0063}言いにくい名前ねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}What a mouthful of a name...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0017",
    "jp": "{v:001C}やっぱりアンタって呼ばせてもらうね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}I'll just stick to calling you \"you,\" then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0018",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0019",
    "jp": "・ティピを無視する",
-   "en": "",
+   "en": "・Ignore Tippi",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0020",
    "jp": "・面白い奴だと言う",
-   "en": "",
+   "en": "・Tell her she's funny",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0021",
    "jp": "・口の悪い奴だと言う",
-   "en": "",
+   "en": "・Tell her she's got a nasty mouth",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0022",
    "jp": "{v:001F}なに、コイツ！{n}感じ悪～い！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}What's with this guy?! How ruuude!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0023",
    "jp": "{v:001D}何かトゲのある言い方ねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}That sounded like a bit of a dig...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0024",
    "jp": "{v:001E}むか～っ！{n}コイツ、アタシにけんか売ってる～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Oooh, I'm mad! This guy's picking a fight with me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0025",
    "jp": "{FB00}{v:0020}あはは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0020}Ahaha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0026",
    "jp": "{v:0021}ティピって妖精の格好してて、かわいいよね？{n}お兄ちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Tippi looks like a fairy. She's cute, isn't she,{n}Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0027",
    "jp": "・特に何も思わない",
-   "en": "",
+   "en": "・Don't feel anything in particular",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0028",
    "jp": "・可愛いと思う",
-   "en": "",
+   "en": "・Think she's cute",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0029",
    "jp": "・可愛いとは思えない",
-   "en": "",
+   "en": "・Don't think she's cute",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0030",
    "jp": "{v:0023}むぅ～‥‥。{FFF9}{FFFB}{n}{v:0024}どうでもいいやって顔してるぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Hmmmph...{FFF9}{FFFB} {v:0024}You've got \"Who cares?\" written all over{n}your faaace...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0031",
    "jp": "{v:0022}でしょ、でしょ♪{n}マスターに感謝★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Right? Right?♪ Thanks, Master!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0032",
    "jp": "{v:0025}何だとぉ！{n}またキックして欲しいの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Whaaat?! You want another kick?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0033",
    "jp": "{v:0026}さて、宮廷魔術師である私が、こんな時間にここへ{n}戻ってきたのには、いくつか理由があります。{n}１つはルイセの魔導実習のため。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Now, there are several reasons why I, the Court{n}Magician, have returned home at this hour. One is{n}Luise's magical practicum.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0034",
    "jp": "{v:0027}魔導実習って？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Magical practicum? What's that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0035",
    "jp": "{v:0028}わたしの行っている魔法学院の{n}カリキュラムの１つでね、{n}高名な魔導師の元で実際に魔導研究を手伝うの。{p}{v:0029}わたしはお母さんが宮廷魔術師をしているから、{n}得しちゃったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}It's part of the curriculum at the Magic Academy I go{n}to. We help a renowned mage with actual{n}magical research.{p}{v:0029}Since Mother is the Court Magician, I suppose I'm{n}pretty lucky.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0036",
    "jp": "{v:002A}甘えてはいけませんよ。{n}実の子供だからこそ、手加減せずに指導しますからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Don't get too comfortable. Precisely because you are{n}my own child, I will not go easy on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0037",
    "jp": "‥‥{v:002B}はぁい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002B}Yes, Mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0038",
    "jp": "{v:002C}それからもう１つの理由ですが、{n}こちらが本題なのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}There is another reason, and this is what I chiefly{n}wished to discuss.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0039",
    "jp": "{v:002D}捨て子だったあなたを私が引き取ってから、{n}もう１７年になりますね。{p}{v:002E}その間、あなたをこの王都から{n}１度も外へ出さなかった理由を話しましょう。{p}{v:002F}それはあなたの成長を占ったときでした。{p}{v:0030}ある時は『{FFEE}世を滅ぼす元凶となる{FFF1}』と現れ、{n}またある時は『{FFEE}世を救う光となる{FFF1}』と現れました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}It has been seventeen years since I took you in as an{n}abandoned child.{p}{v:002E}Let me explain why I have never allowed you to leave{n}the royal capital in all that time.{p}{v:002F}It began when I divined what you would become.{p}{v:0030}At times, the answer was, '{FFEE}He will bring about the{n}destruction of the world{FFF1}.' At others, it was, '{FFEE}He will{n}become the light that saves the world{FFF1}.'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0040",
    "jp": "{v:0031}うわぁ、極端ねぇ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Whoa, talk about extremes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0041",
    "jp": "{v:0032}そうなのです。{n}人には善と悪の心があり、{n}それがその者の未来を決定します。{p}{v:0033}ですが、その未来の幅は{n}それほど大きくはないはずなのです。{p}{FC00}{v:0035}そこであなたがある程度成長し、{n}強い心を持つようになるまで、外界との接触を{n}極力断つことにしたという訳なのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Indeed. Both good and evil dwell in the human heart, and{n}they determine a person's future.{p}{v:0033}However, the possible futures should not differ{n}so greatly.{p}{FC00}{v:0035}That is why I decided to limit your contact with the{n}outside world as much as possible until you had{n}matured somewhat and developed strength of heart.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0042",
    "jp": "{v:0036}それで、もう大丈夫なの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}So, is it okay now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0043",
    "jp": "{v:0037}私はあなたが正しい方向へ歩むように{n}教育してきました。{n}これからはあなた自身がその道を選ぶのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}I have raised you to follow the right path. From now{n}on, you must choose that path for yourself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0044",
    "jp": "{v:0038}今日からあなたには、{n}都の外へ旅に出てもらおうと思います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Starting today, I would like you to set out on a journey{n}beyond the capital.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0045",
    "jp": "{v:0039}人々との出会いや様々な体験を通して、{n}多くのことを学びなさい。{n}そしてそこから、自分が歩むべき道を決めるのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Learn all you can from the people you meet and the{n}many things you experience. Then use what you learn{n}to decide which path you should follow.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0046",
    "jp": "{v:003B}まずは、これで旅の仕度をしてきなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}First, take this and buy what you need for{n}your journey.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0047",
    "jp": "　{n}　７５エルムを受け取った！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　Received 75 Elm!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0048",
    "jp": "{v:003C}買い物が終わったら戻ってきなさい。{n}話の続きはそれからです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Return when you have finished shopping. We will{n}continue our discussion then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0049",
    "jp": "{v:0001}買い物は終わりましたか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Have you finished shopping?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0050",
    "jp": "・まだ終わってない",
-   "en": "",
+   "en": "・Not yet",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0051",
    "jp": "・終わった",
-   "en": "",
+   "en": "・Finished",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0052",
    "jp": "{v:0002}では、買い物が終わったら来て下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Then please return once you have finished shopping.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0053",
    "jp": "{v:0003}あのね、マスター。{n}買い物ついでに、コイツがどんな奴か見てみたんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Listen, Master. While we were shopping, I took a good{n}look at what kind of guy he is.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0054",
    "jp": "{v:0004}時間がないので、要点だけ教えて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}We have little time, so please give me only the{n}main points.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0055",
    "jp": "{v:0005}まとめるとこんな感じかな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}I'd sum him up like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0056",
    "jp": "{v:0006}なるほど、ティピはそう見たのですね。{p}{FC03}{v:0007}しかし自分の息子をここまでひどく言われるとは、{n}思いませんでした‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}I see. So that is your impression, Tippi.{p}{FC03}{v:0007}Still, I did not expect to hear my own son spoken of{n}so harshly...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0057",
    "jp": "{v:0008}あ‥その‥‥あははははっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Ah... Um... Ahahahaha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0058",
    "jp": "{v:0009}ごめんなさい、マスター！{n}調子に乗りすぎましたぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}I'm sorry, Master! I got carried awaaay!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0059",
    "jp": "{v:000A}ところで、どう？{n}アタシの評価に文句ある？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Anyway, what do you think? Got any complaints about{n}my assessment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0060",
    "jp": "{FFF0}・注意{FFF1}{n}　　{FFEE}もう１度、買い物をやり直しますか？{n}　　やり直す場合、買い物中の行動が初期化されます。{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}・Notice{FFF1} {FFEE}Would you like to go shopping again? If you{n}do, your actions during the shopping trip will be reset.{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0061",
    "jp": "・やり直す",
-   "en": "",
+   "en": "・Try again",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0062",
    "jp": "・この評価で我慢する",
-   "en": "",
+   "en": "・Put up with this assessment",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0063",
    "jp": "{v:000C}じゃ、買い物に行こうよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Then let's go shopping!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0064",
    "jp": "夢で見た岬へ",
-   "en": "",
-   "term": "end"
+   "en": "To the Cape from the Dream",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0065",
    "jp": "{v:000D}うんうん★{n}アタシの鋭い観察眼に、間違いは無いってことね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Yep, yep! That means my keen eye for people was{n}right on the mark!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0066",
    "jp": "{v:003D}それでは話を続けることにしましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Now, let us continue our discussion.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0067",
    "jp": "{v:003E}まず、何のためにどこに行くかよねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}First, we need to figure out where we're going and{n}what for...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0068",
    "jp": "{v:0040}どこか行きたい場所はありますか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Is there anywhere you would like to go?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0069",
    "jp": "どこへ行きたいのですか？",
-   "en": "",
-   "term": "end"
+   "en": "Where would you like to go?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0070",
    "jp": "・隣の国",
-   "en": "",
+   "en": "・The neighboring country",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0071",
    "jp": "・魔法学院",
-   "en": "",
+   "en": "・Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0072",
    "jp": "・特にない",
-   "en": "",
+   "en": "・Nothing in particular",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0073",
    "jp": "・夢で見た場所",
-   "en": "",
+   "en": "・The place from the dream",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0074",
    "jp": "{v:0041}いきなりそれは無理ですね。{n}国境を越えるための手続きなども、{n}色々と必要ですから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}You cannot do that straightaway. There are various{n}formalities to complete before you can cross{n}the border.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0075",
    "jp": "{v:0042}魔法学院ですか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}The Magic Academy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0076",
    "jp": "{v:0043}それだったら、わたしが案内してあげる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}If that's where you want to go, I'll show you around!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0077",
    "jp": "{v:0044}あなたは実習があるでしょう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}You have your practicum, remember?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0078",
    "jp": "‥‥{v:0045}それじゃ、お兄ちゃん。{n}実習が終わってからにしよう？{p}{v:0046}そうしたら、わたしが案内してあげる！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0045}Then, Big Brother, shall we wait until my practicum{n}is over?{p}{v:0046}Once it's finished, I'll show you around!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0079",
    "jp": "{v:0047}そう言えば、さっき起こしに行ったとき、{n}アンタ、うなされてたけど、怖い夢でも見たの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Come to think of it, you were tossing and turning when{n}I went to wake you earlier. Having a nightmare?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0080",
    "jp": "{v:0048}お母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0081",
    "jp": "‥‥{v:0049}そうですね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0049}Indeed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0082",
    "jp": "{v:004A}あなたは昔から奇妙な夢ばかり見ていましたね。{n}外の世界など知らないはずなのに、{n}隣の国だとしか思えない場所を見たり。{p}{v:004B}今回はどこを見たのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}You have always had strange dreams.{p}Though you should know nothing of the outside world,{n}you have dreamed of places that could only be in the{n}neighboring country.{p}{v:004B}What place did you see this time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0083",
    "jp": "夢の内容を話しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you tell them about your dream?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0084",
    "jp": "{v:004C}ちょっと！{n}何で話さないのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Hey! Why won't you tell us?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0085",
    "jp": "{FFEC}{v:004D}ティピちゃーん、{n}　　　きーっく！{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}{v:004D}Tippi-chan Kiiick!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0086",
    "jp": "{FFEE}{FE1E}テ{FE1E}ィ{FE1E}ピ{FE1E}ち{FE1E}ゃ{FE1E}ん{FE1E}キ{FE1E}ッ{FE1E}ク{FE1E}{n}{FE1E}ク{FE1E}リ{FE1E}テ{FE1E}ィ{FE1E}カ{FE1E}ル{FE1E}ヒ{FE1E}ッ{FE1E}ト{FE1E}！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}{FE1E}Tippi-chan{FE1E} {FE1E}K{FE1E}i{FE1E}c{FE1E}k{FE1E}!{FE1E} {FE1E}C{FE1E}r{FE1E}i{FE1E}t{FE1E}i{FE1E}c{FE1E}a{FE1E}l{FE1E} {FE1E}h{FE1E}it{FE1E}!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0087",
    "jp": "ティピに脅されて、話すことにした！",
-   "en": "",
-   "term": "end"
+   "en": "Threatened by Tippi, you decided to talk!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0088",
    "jp": "‥‥{v:004E}遠くに塔のような岩の見える、古びた遺跡ですか。{p}{FC00}{v:004F}それならば、この都を出て北西に行ったところの{n}岬かも知れません。{p}{v:0050}それほど遠いところではありませんし、{n}眺めも良いところです。{n}まずはそこに行ってみるといいでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004E}Old ruins, with a tower-like rock visible in the distance?{p}{FC00}{v:004F}Then it may be the cape to the northwest of{n}the capital.{p}{v:0050}It is not very far, and the view is lovely. That would be{n}a good place to visit first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0089",
    "jp": "{v:0051}いいなぁ‥‥。{p}{v:0052}ねぇ、わたしも一緒に行っていい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}That sounds so nice...{p}{v:0052}Hey, can I come along too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0090",
    "jp": "{v:0053}あなたは魔導実習があるでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}You have your magical practicum, remember?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0091",
    "jp": "{v:0054}でもお兄ちゃん１人で大丈夫かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}But will Big Brother be all right on his own?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0092",
    "jp": "{v:0055}そのためにアタシがいるんじゃない！{p}{v:0056}というわけだから、よろしくね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}That's what I'm here for!{p}{v:0056}So, looks like we're a team!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0093",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0094",
    "jp": "・よろしくする",
-   "en": "",
+   "en": "・Welcome her along",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0095",
    "jp": "・不安そうにする",
-   "en": "",
+   "en": "・Look uneasy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen000.0096",
    "jp": "{v:0057}そうと決まれば、さっそく出発ね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Now that's settled, let's get going!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0097",
    "jp": "{v:0058}なによ、その嫌そうな顔は！{n}困ったときに助けてあげないからね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}What's with that sour face?! Don't expect me to help{n}when you're in trouble!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0098",
    "jp": "{v:005E}困ったことがあったら、いつでも戻ってきなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}If you ever find yourself in trouble, you may return{n}home at any time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0099",
    "jp": "わたしがいない間に、勝手に部屋に入っちゃダメだよ。",
-   "en": "",
-   "term": "end"
+   "en": "Don't go into my room without asking while I'm{n}away, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0100",
    "jp": "まかせて、ルイセちゃん！{n}アタシがそんなことさせないから！",
-   "en": "",
-   "term": "end"
+   "en": "Leave it to me, Luise-chan! I won't let him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0101",
    "jp": "気をつけてね、お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "Take care, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0102",
    "jp": "あっ！そうだ！{n}お兄ちゃん、お金ないみたいだから{n}わたしのおこづかいを少しわけてあげるね。",
-   "en": "",
-   "term": "end"
+   "en": "Oh! I almost forgot! It looks like you don't have any{n}money, Big Brother, so I'll share some of my allowance{n}with you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0103",
    "jp": "　{n}　３０エルムを受け取った！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　Received 30 Elm!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0104",
    "jp": "どこへ行く気ですか？{n}早く買い物をすませて来なさい。",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you are going? Hurry and finish{n}your shopping.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0105",
    "jp": "どこへ行く気ですか？{n}早くこちらに来なさい。",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you are going? Come here at once.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0106",
    "jp": "待ちなさい。",
-   "en": "",
-   "term": "end"
+   "en": "Wait.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0107",
    "jp": "{v:0059}あなたにこれを渡しておきましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Let me give you these before you go.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0108",
    "jp": "　{n}　　　　『{FFEF}シビレ玉{FFF1}』を２個手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Received 2 '{FFEF}Paralysis Orbs{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0109",
    "jp": "{v:005A}なにコレ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}What's this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0110",
    "jp": "{v:005B}これを投げつければ、敵１体をしばらくの間、{n}マヒさせることが出来ます。{p}{v:005C}本当に危険になったときに、使うといいでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Throw one at an enemy, and it will paralyze that enemy{n}for a short time.{p}{v:005C}Use them when you are in real danger.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0111",
    "jp": "{v:005D}気をつけてね、お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Take care, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0112",
    "jp": "{v:000E}驚いた、お兄ちゃん？{p}{v:000F}詳しいことは下で教えてあげるから、{n}早く降りてきてね。{FFFB}{n}{v:0010}久しぶりにお母さんが帰ってきてるんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Surprised, Big Brother?{p}{v:000F}I'll explain downstairs, so hurry down, okay?{FFFB} {v:0010}Mother's{n}home for the first time in ages!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0113",
    "jp": "{v:0011}そういうことだから、早く降りてきなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}You heard her! Hurry up and come downstairs!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0114",
@@ -715,134 +828,156 @@
   {
    "id": "scen000.0115",
    "jp": "ベッドで休みますか？",
-   "en": "",
-   "term": "end"
+   "en": "Rest in the bed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0116",
    "jp": "アンタねぇ。{n}早く買い物をすませないと、みんな待ってるでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, come on! Hurry up and finish shopping! Everyone's{n}waiting, you know?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0117",
    "jp": "お兄ちゃん、早く降りてきてね。",
-   "en": "",
-   "term": "end"
+   "en": "Hurry downstairs, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0118",
    "jp": "皿がある。",
-   "en": "",
-   "term": "end"
+   "en": "There is a plate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0119",
    "jp": "読みかけの本だ。",
-   "en": "",
-   "term": "end"
+   "en": "It's a partly read book.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0120",
    "jp": "プロジェクト用重要書類{n}ここから、イベントのチェックポイントまで{n}ジャンプできます。",
-   "en": "",
-   "term": "end"
+   "en": "Important Project Documents. You can jump to event{n}checkpoints from here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0121",
    "jp": "チェックポイントへジャンプしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Jump to a checkpoint?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0122",
    "jp": "{v:000E}まず、いざって時に求められる{n}『{FFEE}判断力{FFF1}』からね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}First up is '{FFEE}judgment{FFF1}'--the kind you need when it{n}really counts...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0123",
    "jp": "{v:0011}状況に応じて、ちゃんと判断できてたみたい。{n}冷静沈着って感じで良かったよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}You seemed to make the right calls for each situation.{n}Cool and collected. Pretty good!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0124",
    "jp": "{v:0062}それに‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}Besides...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0125",
    "jp": "{v:0012}コイツできる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}\"This guy's got what it takes!\"",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0126",
    "jp": "{v:0013}って一瞬思ったんだけど、見かけ倒しね。{n}相手の挑発に乗って、すぐ熱くなるところなんか、{n}バカ丸出しって感じ。{p}{v:0014}アンタの人生、誰か他の人に{n}判断してもらうべきだと思うなぁ。{n}だって判断力ないもん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Or so I thought for a second. Turns out it's all for{n}show. You take the bait and lose your temper so{n}easily, you look like a complete idiot.{p}{v:0014}I think you should let someone else make all your life{n}decisions. You haven't got any judgment of your own!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0127",
    "jp": "{v:0015}道が二マタになってる時に、{n}棒を倒して決める人っているでしょ。{n}アンタってそんな感じ。{p}{v:0016}頭ん中、カラッポだよ、きっと。{n}蹴るといい音がしそうだもん。{p}{v:0017}これからこんな奴をお守りしていくと思うと、{n}気が重いなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}You know how some people let a stick fall to decide{n}which way to go at a fork in the road? That's you.{p}{v:0016}I bet your head's empty. Sounds like it'd make a nice{n}hollow noise if I kicked it.{p}{v:0017}Ugh... Just thinking about babysitting this guy from now{n}on wears me out...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0128",
    "jp": "{v:0018}本能で動いてるってのが、１番ピッタリかな？{n}面白ければ何でもいいって思ってるのかも{n}しれないけど‥‥。{p}{v:0019}コイツを野に放つのって、災厄をバラまくのと同じね。{n}マスターが今まで旅に出すのをためらった理由、{n}わかった気がする‥‥。{p}{v:001A}はぁ～あ。{n}こんな奴の面倒を見なきゃいけないアタシって、{n}不幸‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}I'd say you run on pure instinct. Maybe you think{n}anything goes as long as it's fun...{p}{v:0019}Letting this guy loose is like scattering disaster{n}everywhere. I think I get why Master was so reluctant{n}to let you travel...{p}{v:001A}Siiigh. And I'm the one who has to look after him. Poor{n}me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0129",
    "jp": "{v:0064}あと‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}Also...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0130",
    "jp": "{v:0066}ただ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}Though...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0131",
    "jp": "{v:001B}行動はキビキビしてたよ。{n}ま、アタシに言わせれば、{n}それぐらい当然って感じだけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}You were quick to act, at least. Of course, if you ask{n}me, that's the bare minimum.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0132",
    "jp": "{v:0065}それよりも‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}More importantly...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0133",
    "jp": "{v:0063}それと‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}And...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0134",
    "jp": "{v:001E}問題なのが、コケが体中に生えても{n}おかしくないぐらいのトロさ。{n}アタシにとっては、もう拷問と同じよ。{p}{v:001F}アンタなら隣町へ行くのに１０年かかっても、{n}不思議じゃないもん。{n}カタツムリだって、もっと早く動けるよ！{p}{v:0020}ひょっとしたら、ただの１本道でも遭難して{n}飢え死にするかも。{n}家に戻れたのが奇跡に近いわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}The problem is, you're so slow I wouldn't be surprised{n}if moss grew all over you. It's pure torture for me!{p}{v:001F}I wouldn't be surprised if you took ten years to reach{n}the next town. Even a snail moves faster!{p}{v:0020}You could probably get lost and starve on a road with{n}no turnoffs. It's a miracle you made it home.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0135",
    "jp": "{v:001C}行動がトロくてトロくて‥‥。{n}アタシ、何度も寝ちゃったもん。{p}{v:001D}コイツって、起きてるフリをしてるだけで、{n}今も寝ながら行動してるのよ、きっと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}You were sooo slow... I fell asleep over and over!{p}{v:001D}I'll bet this guy's only pretending to be awake. He's{n}probably still doing everything in his sleep!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0136",
    "jp": "{v:0021}そしてお次は『{FFEE}洞察力{FFF1}』だけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Next up is '{FFEE}Insight{FFF1}'...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0137",
@@ -859,326 +994,380 @@
   {
    "id": "scen000.0139",
    "jp": "{v:0022}なかなか鋭いよ。{n}謎解きは得意みたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}You're pretty sharp! Looks like you've got a knack{n}for puzzles.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0140",
    "jp": "{v:0067}でも‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0067}But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0141",
    "jp": "{v:0023}ん～、まぁまぁかなぁ‥‥。{p}{v:0024}あきらめの良さは評価できるけど、{n}限界まで木の実を口に詰め込むリスの方が、{n}よっぽど根性あるわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Hmm... So-so, I guess.{p}{v:0024}I'll give you points for knowing when to quit, but a{n}squirrel stuffing its mouth with every last nut it can{n}fit has way more determination!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0142",
    "jp": "{v:002B}もう期待するだけムダね。{n}アンタの洞察力なんて、あり以下だもん。{p}{v:002A}さらに無駄なあがきはするくせに、{n}やり通そうとする根性もない。{p}{v:0068}限界まで木の実を口に詰め込むリスの方が、{n}よっぽど根性あるわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}There's no point expecting anything from you. Even an{n}ant has more insight!{p}{v:002A}And for all that pointless flailing, you haven't got the{n}guts to see things through.{p}{v:0068}A squirrel stuffing its mouth with every last nut it can{n}fit has way more determination!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0143",
    "jp": "{v:002D}どう見ても悪人って奴に、気づかないのは困りものね。{n}疑うことを知らないってのじゃなくて、{n}な～んも考えてないって感じ。{p}{v:002E}だいたい、アタシがいなかったら{n}どうなったことか‥‥。{n}やっぱりアタシがついてないとダメみたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}It's a problem when you can't spot someone who's{n}obviously a bad guy. It's less that you're too trusting{n}and more that there's nooothing going on in your head.{p}{v:002E}Who knows what would've happened without me... Looks{n}like you really do need me around.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0144",
    "jp": "{v:002F}そして『{FFEE}注意力{FFF1}』だけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Now, about your '{FFEE}Awareness{FFF1}'...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0145",
    "jp": "{v:0030}なかなか凄かったよ。{n}もう、アタシもびっくりするくらい。{n}嗅覚とか聴力とか、犬並みにあるんじゃないかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}That was pretty amazing. Even I was surprised! Maybe{n}your nose and ears are as good as a dog's?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0146",
    "jp": "{v:0038}ひょっとして、ただ勘が鋭いだけかも{n}しれないけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Then again, maybe you've just got good instincts...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0147",
    "jp": "{v:003A}でも勘は鈍いのよね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Your instincts sure are lousy, though...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0148",
    "jp": "{v:0031}ちょっぴりだけ凄いかな？{n}でもアタシと比べると、全然まだまだね。{p}{v:0038}ひょっとして、ただ勘が鋭いだけかも{n}しれないけど‥‥。{p}{v:0032}耳で呼吸するぞってくらいの意気込みがないと{n}ダメね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Maybe I'm a teensy bit impressed? You've still got a{n}looong way to go to catch up with me, though.{p}{v:0038}Then again, maybe you've just got good instincts...{p}{v:0032}You've gotta try so hard you're ready to breathe{n}through your ears!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0149",
    "jp": "{v:0031}ちょっぴりだけ凄いかな？{n}でもアタシと比べると、全然まだまだね。{p}{v:0032}耳で呼吸するぞってくらいの{n}意気込みがないとダメね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Maybe I'm a teensy bit impressed? You've still got a{n}looong way to go to catch up with me, though.{p}{v:0032}You've gotta try so hard you're ready to breathe{n}through your ears!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0150",
    "jp": "{v:0035}そんな言葉、アンタには無縁かなぁ。{n}アンタなら矢が頭にささっても、{n}気づかずに生活できると思うよ。{p}{v:0039}でも勘だけは鋭いわね。{p}{v:0036}アタシくらいになりたかったら、海を全て飲み干した後に、魚だけ全て吐き出して、慈悲の心をアピールするぐらいの意気込みがないとダメね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}I don't think that word has anything to do with you. You{n}could go around with an arrow stuck in your head and{n}never even notice!{p}{v:0039}You do have good instincts, at least.{p}{v:0036}If you wanna be as good as me, you've gotta be ready{n}to drink the whole ocean dry, then spit out all the{n}fish, and only the fish, to show how merciful you are!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0151",
    "jp": "{v:0035}そんな言葉、アンタには無縁かなぁ。{n}アンタなら矢が頭にささっても、{n}気づかずに生活できると思うよ。{p}{v:003B}それに勘も鈍いのよね‥‥。{n}まるで良いところがないなぁ。{p}{v:0036}アタシくらいになりたかったら、海を全て飲み干した後に、魚だけ全て吐き出して、慈悲の心をアピールするぐらいの意気込みがないとダメね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}I don't think that word has anything to do with you. You{n}could go around with an arrow stuck in your head and{n}never even notice!{p}{v:003B}And your instincts are lousy, too... You don't have a{n}single thing going for you, huh?{p}{v:0036}If you wanna be as good as me, you've gotta be ready{n}to drink the whole ocean dry, then spit out all the{n}fish, and only the fish, to show how merciful you are!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0152",
    "jp": "{v:0035}そんな言葉、アンタには無縁かなぁ。{n}アンタなら矢が頭にささっても、{n}気づかずに生活できると思うよ。{p}{v:0036}アタシくらいになりたかったら、海を全て飲み干した後に、魚だけ全て吐き出して、慈悲の心をアピールするぐらいの意気込みがないとダメね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}I don't think that word has anything to do with you. You{n}could go around with an arrow stuck in your head and{n}never even notice!{p}{v:0036}If you wanna be as good as me, you've gotta be ready{n}to drink the whole ocean dry, then spit out all the{n}fish, and only the fish, to show how merciful you are!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0153",
    "jp": "{v:0033}アンタに求めるのは無理かなぁ。{n}デッカイ落とし穴が目の前に見えていても、{n}気づかずに落ちるよ、きっと。{p}{v:0039}でも勘だけは鋭いわね。{p}{v:0034}アタシぐらいになりたかったら、{n}街外れにいる犬についたノミを見分けるくらいの{n}意気込みがないとダメね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Maybe that's too much to ask of you. I'll bet you'd fall{n}into a huge pit right in front of you without even{n}noticing it!{p}{v:0039}You do have good instincts, at least.{p}{v:0034}If you wanna be as good as me, you've gotta aim to{n}spot the fleas on a dog way out on the edge of town!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0154",
    "jp": "{v:0033}アンタに求めるのは無理かなぁ。{n}デッカイ落とし穴が目の前に見えていても、{n}気づかずに落ちるよ、きっと。{p}{v:003B}それに勘も鈍いのよね‥‥。{n}まるで良いところがないなぁ。{p}{v:0034}アタシぐらいになりたかったら、{n}街外れにいる犬についたノミを見分けるくらいの{n}意気込みがないとダメね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Maybe that's too much to ask of you. I'll bet you'd fall{n}into a huge pit right in front of you without even{n}noticing it!{p}{v:003B}And your instincts are lousy, too... You don't have a{n}single thing going for you, huh?{p}{v:0034}If you wanna be as good as me, you've gotta aim to{n}spot the fleas on a dog way out on the edge of town!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0155",
    "jp": "{v:0033}アンタに求めるのは無理かなぁ。{n}デッカイ落とし穴が目の前に見えていても、{n}気づかずに落ちるよ、きっと。{p}{v:0034}アタシぐらいになりたかったら、{n}街外れにいる犬についたノミを見分けるくらいの{n}意気込みがないとダメね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Maybe that's too much to ask of you. I'll bet you'd fall{n}into a huge pit right in front of you without even{n}noticing it!{p}{v:0034}If you wanna be as good as me, you've gotta aim to{n}spot the fleas on a dog way out on the edge of town!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0156",
    "jp": "{v:0037}あ、一応たとえ話だからね。{n}念のため言っとかないと、{n}アンタならやりかねないからさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Oh, that's just a figure of speech, okay? I'd better say{n}so, just in case. Knowing you, you might actually try it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0157",
    "jp": "{v:006B}注意力うんぬんの前に、オニごっこの約束、{n}途中でほったらかしにしていいと思ってんの？{p}{v:006C}あの子たち、まだ隠れ続けてるかもよ？{n}あ～ぁ、かわいそうに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}Before we even get to awareness, you promised to{n}play tag! You think it's okay to just leave{n}halfway through?{p}{v:006C}Those kids might still be hiding, you know! Aww, the{n}poor things...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0158",
    "jp": "{v:003C}優等生って言ってもいいんじゃないかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}I guess we could call you a model student!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0159",
    "jp": "{v:003D}うわさ話大好き人間と同類ね。{n}何でも嗅ぎつけるのは得意なんだけど、{n}ただそれだけ‥‥。{p}{v:003E}もっと別の方面の能力もあるといいんだけどね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}You're just like one of those people who love gossip.{n}You're good at sniffing things out, but that's about it...{p}{v:003E}It'd be nice if you were good at something else, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0160",
    "jp": "{v:003F}少なくとも占いで出た、世界を破滅させたり{n}救ったりってのとは無縁だと思うよ。{p}{v:0040}だって旅に出たら、すぐのたれ死にしそうだもん。{n}何もない場所でつまづいて大怪我するぐらい、{n}コイツには朝飯前よ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}At least I don't think you'll have anything to do with{n}saving or destroying the world, like that fortune said.{p}{v:0040}You'd probably drop dead the minute you set out! This{n}guy could trip over nothing and seriously hurt himself{n}without even trying.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0161",
    "jp": "{v:0041}あと、装備ぐらいしときなさいよね！{n}まったく世話がやけるんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}And at least equip your gear, will you?! You're such{n}a handful!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0162",
    "jp": "{v:0042}今度は『{FFEE}知識{FFF1}』についてだけど、{n}けっこう出来るみたい。{p}{v:0043}もっともアタシより脳ミソが大きんだから、{n}当然と言えば当然だけどね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Now for '{FFEE}Knowledge{FFF1}'. Looks like you know quite a bit!{p}{v:0043}Then again, your brain's bigger than mine, so I guess{n}that's only natural.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0163",
    "jp": "{v:0044}今度は『{FFEE}知識{FFF1}』についてだけど‥‥、{n}ん～、人並みって感じかなぁ。{n}可もなく不可もなく。{p}{v:0045}面白みのない人間ね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Now for '{FFEE}Knowledge{FFF1}'... Hmm, I'd say you're about{n}average. Nothing good, nothing bad.{p}{v:0045}You're pretty boring, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0164",
    "jp": "{v:0046}今度は『{FFEE}知識{FFF1}』についてだけど、{n}まったくアテにできないよ。{n}適当なことばっかり言ってるのと同じだもん。{p}{v:0047}アンタに色々たずねるくらいなら、{n}道に落ちてる小石に聞いた方がマシね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Now for '{FFEE}Knowledge{FFF1}'. I can't count on you at all! You{n}might as well just be making everything up.{p}{v:0047}I'd be better off asking a pebble on the road than{n}asking you anything!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0165",
    "jp": "{v:0048}『{FFEE}素直さ{FFF1}』については、{n}言いつけはちゃんと守れるみたい。{p}{v:0049}でも小さい子供にも出来ることだから、{n}誉めるほどじゃないけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}As for '{FFEE}Sincerity{FFF1}', it looks like you do what you're told.{p}{v:0049}But even a little child can do that, so it's nothing to{n}praise you for.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0166",
    "jp": "{v:004A}『{FFEE}素直さ{FFF1}』については、{n}言いつけられた事が守れないみたい。{n}もうシツケがなってない悪ガキって感じね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}As for '{FFEE}Sincerity{FFF1}', it looks like you can't do what you're{n}told. You're just like a brat who was never taught{n}any manners!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0167",
    "jp": "{v:004B}あ、マスター、気を悪くしました？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Oh, Master, did I offend you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0168",
    "jp": "{v:0069}こいつ、お店の人がいないのをいいことに、{n}ネコババしようとしたんだよ。{n}アタシがいないと、どうなってたことか‥‥。{p}{v:006A}そんなんじゃ、人間失格よ！{n}ちゃんと反省しなさい、反省！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}This guy tried to steal while the shopkeeper was away!{n}Who knows what would've happened without me...{p}{v:006A}You don't even deserve to be called human if you act{n}like that! Think about what you've done! I mean it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0169",
    "jp": "{v:004C}あと約束を交わしたら、ちゃんと律儀に守ってたよ。{n}偉い、偉い。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}And whenever you made a promise, you made sure to{n}keep it. Good boy, good boy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0170",
    "jp": "{v:004D}あと、アンタとの口約束はちょっと信用できない。{n}難しい約束だと守れないよ、絶対。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}And I can't quite trust you to keep your word. If a{n}promise was hard to keep, you'd definitely break it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0171",
    "jp": "{v:004E}あと、アンタとの口約束はまったく信用できない。{n}気分次第で簡単に破るし。{p}{v:004F}守れない約束なら、交わしちゃダメでしょ！{n}ちゃんと反省しなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}And I can't trust your word at all. You break promises{n}whenever you feel like it!{p}{v:004F}You shouldn't make promises you can't keep! Think{n}about what you've done!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0172",
    "jp": "{v:0050}正直に人と話すのは好感持てたよ。{n}それは誉めてもいいかなぁ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}I liked how honest you were when you talked to people.{n}I guess I can praise you for that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0173",
    "jp": "{v:0051}アンタ、人と真面目に話す気ないでしょ？{n}だって相手に合わせて適当なこと言うし。{p}{v:0052}お調子者って感じで、{n}信頼するのはちょっと難しいわね。{n}少しはアタシを見習いなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}You don't mean a word you say to people, do you? You{n}just tell them whatever they want to hear.{p}{v:0052}You're such a people-pleaser, it's hard to trust you.{n}Try taking a lesson from me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0174",
    "jp": "{v:0053}アンタの言うことは、でまかせばっかり。{p}{v:0054}人を困らせて喜んでるか、{n}直前まで自分が言った内容も覚えてない大バカ者かの{n}どっちかね。{p}{v:0055}もうアンタと信頼関係を築くなんて無理無理。{n}ヘビとカエルをお友だちにするぐらい{n}ムチャな話だもん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Everything out of your mouth is made up!{p}{v:0054}Either you enjoy making trouble for people, or you're{n}such a huge idiot you can't even remember what you{n}just said.{p}{v:0055}Build a trusting relationship with you? No way, no how!{n}That's as hopeless as trying to make a snake and a{n}frog be friends.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0175",
    "jp": "{v:0056}次は『{FFEE}優しさ{FFF1}』だけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}Next is '{FFEE}Kindness{FFF1}'...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0176",
    "jp": "{v:0057}親切なんだけど、{n}悪人にだまされて利用されるタイプね。{n}そのへんに気をつけないと、{n}アンタって良い人を通り越して‥‥。{p}{v:0058}ただのバカよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}You're kind, but you're the type bad guys can fool and{n}take advantage of. If you're not careful, you'll go way{n}past being a nice guy...{p}{v:0058}And end up just being an idiot...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0177",
    "jp": "{v:005E}親切丁寧、礼儀もわかってて、格好いいよ。{n}ちょっとタイプかな？{n}てへへ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}You're kind, considerate, and you've got manners, too.{n}Pretty cool! Maybe you're my type? Heehee.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0178",
    "jp": "{v:005F}親切な奴だってのは認めるけど、{n}礼儀がなってないのよねぇ。{n}はっきり言って、誉められるもんじゃないわね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}I'll admit you're a kind guy, but your manners are{n}terrible. Honestly, that's nothing to praise you for.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0179",
    "jp": "{v:005A}そんな感情、アンタには無さそう。{n}困ってる人を助けてあげようとか、{n}思ったことないでしょ？{p}{v:005B}もう少し人に親切にしてもいいんじゃない？{n}アンタみたいな人、{n}困ったことがあっても誰も助けてくれないよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}I don't think you've got that feeling in you. Have you{n}ever even thought about helping someone in trouble?{p}{v:005B}Couldn't you be a little kinder to people? Nobody's{n}gonna help someone like you when you're in trouble,{n}you know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0180",
    "jp": "{v:0060}さらに女の子にモテたいって下心が見え見えね。{p}{v:0061}そんなので今時の娘のハートがゲットできるなんて{n}思ったら大間違いよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}And it's sooo obvious you're just trying to get girls to{n}like you!{p}{v:0061}If you think that's enough to win a girl's heart these{n}days, you've got another thing coming!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0181",
    "jp": "{v:0059}アンタ、親切なフリしてるだけの偽善者でしょ？{n}アタシの目はごまかせないわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}You're a hypocrite who's only pretending to be kind,{n}aren't you? You can't fool me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0182",
    "jp": "{v:005C}見事なまでに冷たい男ね。{n}優しさの片鱗も感じられないし。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}It's amazing how cold you are. I can't feel even a speck{n}of kindness in you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0183",
    "jp": "{v:005C}見事なまでに冷たい男ね。{n}優しさの片鱗も感じられないし。{p}{v:005D}アンタって、世界を破滅に導くんじゃない？{n}そんな感じするもん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}It's amazing how cold you are. I can't feel even a speck{n}of kindness in you.{p}{v:005D}Maybe you really will lead the world to ruin. I've got{n}that feeling about you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0184",
    "jp": "{v:000F}はっきり言って、アホね。{n}でも親切なところは評価できるよ。{p}{v:0010}ただ、後先考えずに行動してるから、{n}やっぱりアホね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Honestly, you're an idiot. But I'll give you credit for{n}being kind.{p}{v:0010}Still, you act without thinking about the consequences,{n}so... Yep, you're an idiot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0185",
    "jp": "目覚め",
-   "en": "",
-   "term": "end"
+   "en": "Awakening",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0186",
    "jp": "{v:000B}これは‥‥。{FFF9}{FFFB}{n}{v:000C}あなたが大切にしていた指輪‥‥。{p}{v:000D}いつ見ても綺麗。{n}不思議な光を放っているわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}This is...{FFF9}{FFFB}{v:000C}The ring you treasured so much...{p}{v:000D}It's beautiful every time I see it. It gives off such a{n}mysterious light.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0187",
    "jp": "{v:000E}これを君に貰って欲しいんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}I want you to have it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0188",
    "jp": "{v:000F}えっ‥‥それって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Oh... Does that mean...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0189",
    "jp": "{v:0007}俺はしがない傭兵だ。{n}戦うことでしか金を稼げない男だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}I'm just a lowly mercenary. Fighting's the only way I{n}can earn a living.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0190",
    "jp": "{v:0010}もし‥‥もしよかったら、俺と‥‥結婚して欲しい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}If... If you'll have me, I'd like you to... marry me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0191",
    "jp": "{v:0011}うれしい‥‥うれしいよ。{n}私、ずっとその言葉を待ってた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}I'm so happy... So happy. I've been waiting so long to{n}hear you say that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0192",
    "jp": "‥‥{v:0012}シエラ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0012}Sierra...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0193",
@@ -1189,68 +1378,79 @@
   {
    "id": "scen000.0194",
    "jp": "‥‥{v:0000}ねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0000}Hey...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0195",
    "jp": "‥‥{v:0001}起きてよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0001}Wake up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0196",
    "jp": "{v:0002}お兄ちゃん、起きてよぉ！！{n}お母さんが呼んでるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Big Brother, wake uuup!! Mother is calling you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0197",
    "jp": "{v:0003}もう、お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Oh, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0198",
    "jp": "‥‥{v:0004}ルイセちゃん、ここはアタシに任せて‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0004}Luise-chan, leave this to me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0199",
    "jp": "‥‥{v:0005}えっ、ティピ‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0005}Huh? Tippi...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0200",
    "jp": "{v:0006}こうやるのよ‥‥。{p}{v:0007}せ～の！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Here's how it's done...{p}{v:0007}Here we gooo!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0201",
    "jp": "‥‥{v:0008}あっ‥！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0008}Ah...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0202",
    "jp": "{FFF3}　{n}　　　　{FFF4}{v:0009}ティピちゃーーん、キーーーック！{FC05}{FA01}　{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}　{n}　　　　{FFF4}{v:0009}Tippi-chan Kiiiick!{FC05}{FA01}　{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0203",
    "jp": "{v:000A}やっと起きたか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Finally awake, huh?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0204",
    "jp": "{v:000B}何キョロキョロしてんのよ！{n}もっとシャキッとしなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}What are you looking all over the place for?! Get{n}it together!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen000.0205",
@@ -1261,8 +1461,9 @@
   {
    "id": "scen000.0206",
    "jp": "イベントチェックへ飛ばしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Jump to the event check?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,128 +15,149 @@
   {
    "id": "scen204.0001",
    "jp": "アナウンス",
-   "en": "",
-   "term": "null"
+   "en": "Announcer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen204.0002",
    "jp": "予選開始",
-   "en": "",
-   "term": "end"
+   "en": "Preliminary Round Begins",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0003",
    "jp": "{v:0008}もぉ～～！{n}ドジなんだからぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Ughhh! You're such a klutz!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0004",
    "jp": "{v:0054}きゃあっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Aah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0005",
    "jp": "{v:0055}ああっ！ルイセちゃんが！{n}もぅっ！敵討ちよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Oh, no! Luise-chan! Grrr! I'll get them for this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0006",
    "jp": "１匹倒したけど、{n}予選突破は無理だね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We got one, but we can't make it through the{n}preliminaries now...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0007",
    "jp": "よ～し、これで１匹！",
-   "en": "",
-   "term": "end"
+   "en": "All right! That's one down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0008",
    "jp": "２匹倒せたけど、{n}予選突破は無理だね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We got two, but we can't make it through the{n}preliminaries now...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0009",
    "jp": "２匹目ゲット！{n}この調子でどんどん行こう！",
-   "en": "",
-   "term": "end"
+   "en": "That's number two! Keep it up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0010",
    "jp": "やったね★{n}これで３匹目。{n}もう予選突破できたも同然だね！",
-   "en": "",
-   "term": "end"
+   "en": "We did it! That's number three! We've practically made{n}it through the preliminaries!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0011",
    "jp": "すご～い！{n}アタシ達だけで、４匹も倒したよ！",
-   "en": "",
-   "term": "end"
+   "en": "Wooow! We took down four all by ourselves!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0012",
    "jp": "ありゃりゃ？{n}全部、アタシ達だけで倒しちゃったね★",
-   "en": "",
-   "term": "end"
+   "en": "Well, whaddaya know? We took them ALL{n}down ourselves!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0013",
    "jp": "あぁ！{n}１匹、倒されちゃったよ！",
-   "en": "",
-   "term": "end"
+   "en": "Ah! Someone else got one!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0014",
    "jp": "あ～あ。{n}２匹目も倒されちゃった。",
-   "en": "",
-   "term": "end"
+   "en": "Aww... Someone else got the second one, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0015",
    "jp": "アンタ、もうちょっとがんばりなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you! Try a little harder!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0016",
    "jp": "よ、４匹目‥‥。{n}ダ、ダメだわ、これは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Th-the fourth one... Th-this isn't looking good...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0017",
    "jp": "く～っ！{n}１匹も倒せないなんて、アンタ、何やってるのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Grrr! You couldn't even take down ONE?! What are{n}you doing?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0018",
    "jp": "おおっ～と！{n}２組のグループがゲルを２匹ずつ倒しています！{n}つまりこの勝負は引き分け！{p}しかし予選を抜けられるグループは１組のみ。{n}この２組には、さらに勝負をしてもらいましょう！{p}まず、負けたグループは退場して下さい！",
-   "en": "",
-   "term": "end"
+   "en": "Ohhh! Two teams have defeated two Gels each! That{n}means we have a tie!{p}But only one team can advance past the preliminaries.{n}These two teams will have to face off again!{p}First, the losing teams must leave the arena!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0019",
    "jp": "さぁ、この２組に勝敗を付けてもらいましょう！{n}勝負は簡単。{p}１匹だけ出るゲルを、どちらが早く倒すか？{n}ゲルが出る場所は会場中央！{n}みなさん、ご注目下さい！",
-   "en": "",
-   "term": "end"
+   "en": "Now, let's have these two teams settle this! The rules{n}are simple.{p}Who can defeat a single Gel first? The Gel will appear in{n}the center of the arena! All eyes on the{n}center, everyone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0020",
    "jp": "ゲルが現れました！{n}さぁ、目が離せない展開になってきました！{n}試合、再開です！",
-   "en": "",
-   "term": "end"
+   "en": "The Gel has appeared! You won't want to take your{n}eyes off this! The match resumes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen204.0021",
    "jp": "悔し～！{n}負けちゃったよ～！",
-   "en": "",
-   "term": "end"
+   "en": "No faaair! We looost!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

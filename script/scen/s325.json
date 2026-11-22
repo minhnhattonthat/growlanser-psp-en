@@ -102,9 +102,10 @@
   {
    "id": "scen325.0015",
    "jp": "・わからない",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen325.0016",
@@ -256,8 +257,9 @@
   {
    "id": "scen325.0040",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen325.0041",
@@ -319,8 +321,9 @@
   {
    "id": "scen325.0050",
    "jp": "‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "......",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen325.0051",
@@ -430,8 +433,9 @@
   {
    "id": "scen325.0068",
    "jp": "うん！",
-   "en": "",
-   "term": "end"
+   "en": "Okay!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen325.0069",
@@ -442,8 +446,9 @@
   {
    "id": "scen325.0070",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen325.0071",
@@ -547,8 +552,9 @@
   {
    "id": "scen325.0087",
    "jp": "何と言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen325.0088",
@@ -603,8 +609,9 @@
   {
    "id": "scen325.0096",
    "jp": "何と言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen325.0097",
@@ -967,8 +974,9 @@
   {
    "id": "scen325.0155",
    "jp": "なんと言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen325.0156",
@@ -1017,8 +1025,9 @@
   {
    "id": "scen325.0163",
    "jp": "なんと言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen325.0164",
@@ -1037,9 +1046,10 @@
   {
    "id": "scen325.0166",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen325.0167",
@@ -1218,8 +1228,9 @@
   {
    "id": "scen325.0196",
    "jp": "どこ行こうか？",
-   "en": "",
-   "term": "end"
+   "en": "Where should I go?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

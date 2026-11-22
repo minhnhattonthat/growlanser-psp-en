@@ -15,158 +15,184 @@
   {
    "id": "scen225.0001",
    "jp": "村人",
-   "en": "",
-   "term": "null"
+   "en": "Villager",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen225.0002",
    "jp": "ユング",
-   "en": "",
-   "term": "null"
+   "en": "Jung",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen225.0003",
    "jp": "{FFEE}村人を助け出せ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Rescue the villagers!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0004",
    "jp": "‥‥{v:0063}う‥うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0063}Ugh... uhhh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0005",
    "jp": "{v:0064}人間のどこにここまでの力が‥‥。{n}だがここでの目的は既に果たした‥‥。{n}お前たちは‥‥手遅れ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}How can humans possess such power...? But my purpose{n}here is already fulfilled... You are... too late...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0006",
    "jp": "{v:0065}これで最後‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}Was that the last one...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0007",
    "jp": "‥‥{v:0066}そうみたい。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0066}Looks like it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0008",
    "jp": "{v:0067}どうやら、そうみたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0067}It certainly looks that way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0009",
    "jp": "‥‥{v:0068}もう、いないみたいです。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0068}There don't seem to be any more.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0010",
    "jp": "う、うわっ！{n}く、来るなっ！",
-   "en": "",
-   "term": "end"
+   "en": "A-aah! S-stay back!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0011",
    "jp": "{v:005E}ぐわぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}Gwaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0012",
    "jp": "た、助けてくれ～！",
-   "en": "",
-   "term": "end"
+   "en": "S-someone help me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0013",
    "jp": "{v:005F}ぎゃああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Aaaagh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0014",
    "jp": "も、もう‥ダメ‥だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I... can't... go on...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0015",
    "jp": "{v:0054}喰イコロス！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}DEVOUR YOU!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0016",
    "jp": "う、ぐはっ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ugh... gah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0017",
    "jp": "{v:0007}バカバカバカ！{n}なにやってんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Idiot, idiot, idiot! What are you doing?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0018",
    "jp": "{v:0060}ああっ！{n}１人食べられちゃった！{p}{v:0061}やばいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}Ahh! They ate one of them!{p}{v:0061}This is bad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0019",
    "jp": "{v:0055}人間風情がなかなかやるようだな。{p}{v:0056}ならばこれでどうだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}You fight rather well for mere humans.{p}{v:0056}Then how will you handle this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0020",
    "jp": "{v:0057}な、なんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}W-what...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0021",
    "jp": "{v:0058}まさか‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}You can't mean...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0022",
    "jp": "{v:0059}さぁ、こいつらを食らうがよい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Now, feast on these humans!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0023",
    "jp": "{v:005A}ニンゲン、喰ウ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}EAT HUMANS!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0024",
    "jp": "{v:005B}大変！あの人たち、食べられちゃう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Oh no! Those people are going to be eaten!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0025",
    "jp": "{v:005C}はっ！　彼らがあぶない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Ah! They're in danger!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen225.0026",
    "jp": "{v:005D}ああ、そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Oh, no...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

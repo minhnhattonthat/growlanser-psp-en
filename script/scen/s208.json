@@ -15,197 +15,229 @@
   {
    "id": "scen208.0001",
    "jp": "アナウンス",
-   "en": "",
-   "term": "null"
+   "en": "Announcer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen208.0002",
    "jp": "エキシビジョン開始",
-   "en": "",
-   "term": "end"
+   "en": "Exhibition match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0003",
    "jp": "{v:000E}お前の剣がどれほどのものか、見せてもらう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Let me see just how skilled you are with a sword!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0004",
    "jp": "{v:000F}思い切ってやっちゃいなさい！{n}いっけーーー！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Give it everything you've got! Gooo!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0005",
    "jp": "！！",
-   "en": "",
-   "term": "end"
+   "en": "!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0006",
    "jp": "{v:0013}ああ、やられちゃった‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Oh no, he got beaten...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0007",
    "jp": "{v:0014}ルイセちゃん、がんばってね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}You can do it, Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0008",
    "jp": "{v:0015}{FFF5}そんなぁ、無理だよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}{FFF5}Nooo, I can't do this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0009",
    "jp": "{v:000D}えーい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Hyaa!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0010",
    "jp": "{v:0010}きゃあっ！{p}{v:0011}{FFF5}やっぱりダメだった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Aaah!{p}{v:0011}{FFF5}I knew I couldn't do it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0011",
    "jp": "{v:0012}やっぱり強いわね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}You're just as strong as I thought.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0012",
    "jp": "{v:000C}お前たちと剣を交えるのは初めてだな。{n}{FC02}ゆくぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}This is the first time we have crossed swords.{FC02}Here{n}I come!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0013",
    "jp": "{v:0024}うぐっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Urgh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0014",
    "jp": "{v:0025}やった★{n}勝てたよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Yay! We won!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0015",
    "jp": "{v:0026}おぉっと！{n}ジュリアンが負けてしまった！{p}{v:0027}いくら２対１とはいえ、{n}エキスパートがフレッシュマンに負けるとは！{n}これは前代未聞だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Ohhh! Julian has been defeated!{p}{v:0027}Even with two against one, an Expert losing to{n}Freshman competitors?! This is unprecedented!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0016",
    "jp": "{v:0028}お前たちには素質があると思っていたが、{n}まさかこれほどとはな。{n}すでにフレッシュマンの域を越えているよ。{p}{v:0029}来年はエキスパートの部で直に戦うことになるだろう。{n}それまで腕をみがいておくよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}I knew you both had potential, but I never imagined{n}this much. You are already beyond the Freshman level.{p}{v:0029}Next year, we will likely face each other in the Expert{n}division. I shall hone my skills until then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0017",
    "jp": "{v:002A}ジュリアン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Julian...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0018",
    "jp": "{v:0016}そこまで！{p}{v:0017}勝者、ジュリアン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}That's enough!{p}{v:0017}The winner is Julian!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0019",
    "jp": "{v:0018}大丈夫か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Are you all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0020",
    "jp": "{v:0019}{FFF5}うん、なんとか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}{FFF5}Yes, more or less.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0021",
    "jp": "{v:001A}お前たちが大会初心者だということを、{n}つい失念してしまった。{n}許してくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}I quite forgot this was your first tournament. Forgive{n}me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0022",
    "jp": "何とジュリアンに返しますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0023",
    "jp": "・気にしないようフォローする",
-   "en": "",
+   "en": "・Reassure Julian it's all right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen208.0024",
    "jp": "・いい経験になったと喜ぶ",
-   "en": "",
+   "en": "・Say you're glad for the experience",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen208.0025",
    "jp": "・やりすぎだと怒る",
-   "en": "",
+   "en": "・Angrily say Julian went too far",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen208.0026",
    "jp": "{v:001B}そうだよ。{n}勝負は勝負だもんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}That's right. A match is a match, after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0027",
    "jp": "{v:001C}とにかく、すまなかった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Even so, I am sorry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0028",
    "jp": "{v:001D}そうそう。{n}強い人と戦う経験なんて、ないもんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Exactly! We've never had a chance to fight someone so{n}strong before.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0029",
    "jp": "{v:001E}それに今の自分の力が分かったから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}And now we know how strong we are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0030",
    "jp": "{v:001F}相変わらず前向きなんだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}As optimistic as ever, I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0031",
    "jp": "{v:0020}う～ん。{n}もうちょっと手加減して欲しかったかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Hmm... I would have liked you to go a little easier on us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen208.0032",
    "jp": "‥‥{v:0021}お前たちなら、大丈夫だと思っていたのだが‥‥。{p}{v:0022}とにかく、すまなかった。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0021}I thought you two could handle it...{p}{v:0022}In any case, I am sorry.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

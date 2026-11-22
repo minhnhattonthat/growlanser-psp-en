@@ -15,212 +15,247 @@
   {
    "id": "scen194.0001",
    "jp": "観光客",
-   "en": "",
-   "term": "null"
+   "en": "Tourist",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen194.0002",
    "jp": "旅人",
-   "en": "",
-   "term": "null"
+   "en": "Traveler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen194.0003",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen194.0004",
    "jp": "旅行者",
-   "en": "",
-   "term": "null"
+   "en": "Traveler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen194.0005",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen194.0006",
    "jp": "そろそろ集合時間だね。",
-   "en": "",
-   "term": "end"
+   "en": "It's almost time to meet up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0007",
    "jp": "温泉の街、{n}{FFEF}コムスプリングス{FFF1}へようこそ！",
-   "en": "",
-   "term": "end"
+   "en": "Welcome to {FFEF}Comsprings{FFF1}, the hot spring town!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0008",
    "jp": "イベントは{FFEB}番。",
-   "en": "",
-   "term": "end"
+   "en": "Event number: {FFEB}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0009",
    "jp": "カウンタ２は{FFEB}番。",
-   "en": "",
-   "term": "end"
+   "en": "Counter 2: {FFEB}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0010",
    "jp": "共通カウンタ０は{FFEB}番。",
-   "en": "",
-   "term": "end"
+   "en": "Shared counter 0: {FFEB}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0011",
    "jp": "仲間１はミーシャ。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Misha.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0012",
    "jp": "仲間１はアリオスト。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Ariost.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0013",
    "jp": "仲間１はカレン。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Karen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0014",
    "jp": "仲間１はエリオット。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Elliot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0015",
    "jp": "仲間１はジュリアン。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Julian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0016",
    "jp": "仲間１はゼノス。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Xenos.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0017",
    "jp": "仲間２はミーシャ。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Misha.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0018",
    "jp": "仲間２はアリオスト。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Ariost.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0019",
    "jp": "仲間２はカレン。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Karen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0020",
    "jp": "仲間２はエリオット。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Elliot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0021",
    "jp": "仲間２はジュリアン。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Julian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0022",
    "jp": "仲間２はゼノス。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Xenos.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0023",
    "jp": "あっ！？",
-   "en": "",
-   "term": "end"
+   "en": "Huh?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0024",
    "jp": "今のってもしかしてジュリアン‥‥？{n}バーンシュタインの人間だって言ってたけど{n}よく来るのかな‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "Was that Julian just now...? Julian did say something{n}about being from Burnstein. I wonder if this is a{n}regular stop...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0025",
    "jp": "この街ってとってもいいわね。{n}気に入っちゃった♪",
-   "en": "",
-   "term": "end"
+   "en": "This town is so lovely. I've taken quite a liking to it♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0026",
    "jp": "よそから来た人たちって、{n}み～んな、ここがいい所だって言うんだよね。{p}でも、そんなにいい場所なのかなぁ？{n}僕には、退屈で変化にトボしいつまらない場所に{n}見えるんだけどなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Everyone who visits says this is such a great place.{p}But is it really that great? To me, it's just a dull, boring{n}place where nothing ever changes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0027",
    "jp": "風の向くまま、気の向くまま‥‥。{n}気ままに旅を続けてきたけど、ここにいると{n}腰が重くなるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Wherever the wind blows, wherever the mood takes{n}me... I've always traveled as I pleased, but being here{n}makes it hard to get moving again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0028",
    "jp": "やあ、いらっしゃい。{n}いい天気だね。{n}買い物したくなるだろ？",
-   "en": "",
-   "term": "end"
+   "en": "Hello there! Welcome. Lovely weather, isn't it? Makes{n}you feel like shopping, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0029",
    "jp": "ここは観光客がお金を落として行くからね。{n}商売も楽だよ。",
-   "en": "",
-   "term": "end"
+   "en": "The tourists come and spend their money here, so{n}business is easy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0030",
    "jp": "あんたも観光かい？",
-   "en": "",
-   "term": "end"
+   "en": "You here to see the sights, too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0031",
    "jp": "観光地としてはここ、コムスプリングスが{n}有名だけど、北には保養地として名高い{n}ラシェルがあるんだ。{p}歳をとったらそっちに移ろうかな。",
-   "en": "",
-   "term": "end"
+   "en": "Comsprings is famous as a tourist destination, but to{n}the north there's Rachelle, a well-known health resort.{p}Maybe I'll move there when I'm older.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0032",
    "jp": "観光客はここでちょっときれいな景色でも見て帰れば{n}いいんだろうけどね。{n}人が多いと街が汚れて大変だよ。",
-   "en": "",
-   "term": "end"
+   "en": "Tourists can just enjoy the pretty scenery and go{n}home, I suppose. But all those people make a mess of{n}the town. It's a real headache.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0033",
    "jp": "いいながめだね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What a lovely view...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0034",
    "jp": "そうだね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It really is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0035",
    "jp": "風が気持ちいいわね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The breeze feels wonderful, doesn't it...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0036",
@@ -231,176 +266,205 @@
   {
    "id": "scen194.0037",
    "jp": "‥‥幸せだなぁ。{n}何がって、この街に生まれたことさ。",
-   "en": "",
-   "term": "end"
+   "en": "...I'm so happy. Why? Because I was born in this town.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0038",
    "jp": "今日は温泉解放日！{n}無料で温泉をご利用いただけます。{n}どうぞお立ち寄り下さい！",
-   "en": "",
-   "term": "end"
+   "en": "It's free admission day at the hot springs! You can use{n}the baths free of charge. Please stop by!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0039",
    "jp": "{v:0018}おじゃましま～す！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Coming iiin!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0040",
    "jp": "ご利用、ありがとうございます。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you for visiting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0041",
    "jp": "今日もウォレスさんからいろいろ聞いたんでしょ？{n}また、どんな話か後で教えてよね。",
-   "en": "",
-   "term": "end"
+   "en": "Wallace-san told you all sorts of things today too,{n}didn't he? Tell me about them later, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0042",
    "jp": "温泉のご利用の方は、{n}先にこちらで料金をお支払い下さい。",
-   "en": "",
-   "term": "end"
+   "en": "If you're here to use the hot springs, please pay{n}here first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0043",
    "jp": "今、入ったばっかりでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "You only just got in!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0044",
    "jp": "アタシはここで待ってるね。{n}アンタはゆっくりして来なよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll wait here. Go on, take your time and{n}enjoy yourself!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0045",
    "jp": "申し訳ありませんが、{n}宿の方は予約がいっぱいでご利用できません。",
-   "en": "",
-   "term": "end"
+   "en": "I'm terribly sorry, but the inn is fully booked. We cannot{n}offer you a room.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0046",
    "jp": "そっちに用はないでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "You've got no business over there, do you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0047",
    "jp": "{n}　　　　　　　鍵がかかっている。",
-   "en": "",
-   "term": "end"
+   "en": "{n}　　　　　　　It's locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0048",
    "jp": "君とコムスプリングスに{n}来られるなんて夢みたいだよ。{n}また、来ようね。",
-   "en": "",
-   "term": "end"
+   "en": "Coming to Comsprings with you feels like a dream. Let's{n}come again sometime.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0049",
    "jp": "だったら、もっと稼がないとね。",
-   "en": "",
-   "term": "end"
+   "en": "Then you'll have to earn more money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0050",
    "jp": "本日は温泉が無料でご利用いただけます。",
-   "en": "",
-   "term": "end"
+   "en": "The hot springs are free to use today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0051",
    "jp": "温泉のご利用ですか？{n}２０エルムになりますが。",
-   "en": "",
-   "term": "end"
+   "en": "Would you like to use the hot springs? That will be{n}20 Elm.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0052",
    "jp": "お客様、代金が足りませんよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm afraid you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0053",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0054",
    "jp": "いい湯だったぜ。",
-   "en": "",
-   "term": "end"
+   "en": "Now that was a good soak.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0055",
    "jp": "魔法学院長の許可がない限りお通しできません。",
-   "en": "",
-   "term": "end"
+   "en": "I cannot let you through without permission from the{n}Magic Academy's headmaster.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0056",
    "jp": "ここはコムスプリングスです。",
-   "en": "",
-   "term": "end"
+   "en": "This is Comsprings.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0057",
    "jp": "こら、外へ出たら連絡が取れなくなるでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! If you go outside, they won't be able to reach you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0058",
    "jp": "みんなを置いて、どこへ行こうってのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going, leaving{n}everyone behind?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0059",
    "jp": "今日はここで一日過ごすんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "We're spending the whole day here, remember?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0060",
    "jp": "さて、どこに行こうか？",
-   "en": "",
-   "term": "end"
+   "en": "Well, where shall we go?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0061",
    "jp": "俺は、温泉にでも入ってるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll be soaking in the hot springs.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0062",
    "jp": "お兄ちゃん。{n}わたし、どうしてもミーシャの事が気になるの。{n}ちょっと行ってくる。",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, I just can't stop worrying about Misha. I'm{n}going to go see her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0063",
    "jp": "僕も頼む！",
-   "en": "",
-   "term": "end"
+   "en": "Take me along, too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0064",
    "jp": "お兄ちゃん、アリオストさんのおかげで{n}ミーシャは立ち直ってくれたよ。",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, thanks to Ariost-san, Misha's feeling like{n}herself again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen194.0065",
    "jp": "みんなそろったね？{n}じゃあ、帰ろう。",
-   "en": "",
-   "term": "end"
+   "en": "Everyone here? Then let's head home.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

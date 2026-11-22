@@ -15,32 +15,37 @@
   {
    "id": "scen175.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen175.0002",
    "jp": "魔術師",
-   "en": "",
-   "term": "null"
+   "en": "Mage",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen175.0003",
    "jp": "看守",
-   "en": "",
-   "term": "null"
+   "en": "Jailer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen175.0004",
    "jp": "調理人",
-   "en": "",
-   "term": "null"
+   "en": "Cook",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen175.0005",
    "jp": "王母アンジェラ",
-   "en": "",
-   "term": "null"
+   "en": "Queen Mother Angela",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen175.0006",
@@ -57,26 +62,30 @@
   {
    "id": "scen175.0008",
    "jp": "アンタ、どこへ行こうって言うのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, where do you think you're going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0009",
    "jp": "陛下のことをよろしくお願いします！",
-   "en": "",
-   "term": "end"
+   "en": "Please keep His Majesty safe!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0010",
    "jp": "陛下が中でお待ちです。",
-   "en": "",
-   "term": "end"
+   "en": "His Majesty is waiting inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0011",
    "jp": "そんな事をしてる暇はないでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "We don't have time for that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0012",
@@ -243,8 +252,9 @@
   {
    "id": "scen175.0039",
    "jp": "なんと言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0040",
@@ -263,9 +273,10 @@
   {
    "id": "scen175.0042",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen175.0043",
@@ -378,58 +389,67 @@
   {
    "id": "scen175.0061",
    "jp": "私の力が必要か？",
-   "en": "",
-   "term": "end"
+   "en": "Do you need my help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0062",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "",
-   "term": "end"
+   "en": "But that would be too many of us. Someone will have to{n}leave the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0063",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will leave the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0064",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen175.0065",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen175.0066",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve {s:FFED}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0067",
    "jp": "　{n}　　　　{FFEF}{s:0008}が仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}{s:0008} joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0068",
    "jp": "頼りにしてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "You can count on me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0069",
    "jp": "早く平和を取り戻したい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I hope we can restore peace soon...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0070",
@@ -678,8 +698,9 @@
   {
    "id": "scen175.0110",
    "jp": "私語は禁じられているので‥‥。{n}申し訳ございません。",
-   "en": "",
-   "term": "end"
+   "en": "We are forbidden to engage in idle conversation... My{n}apologies.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0111",
@@ -690,38 +711,44 @@
   {
    "id": "scen175.0112",
    "jp": "陛下のお友達の方ですね。{n}ごゆっくりしていって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "You are His Majesty's friends, aren't you? Please make{n}yourselves comfortable.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0113",
    "jp": "この城のいたる所には{n}魔法を防ぐような仕掛けがしてあります。{p}回復魔法などなら大丈夫ですが、{n}強い魔力を感知すると、{n}かき消されてしまうことがあります。",
-   "en": "",
-   "term": "end"
+   "en": "Devices that ward off magic have been installed{n}throughout the castle.{p}Healing magic and the like pose no problem, but if they{n}detect powerful magic, they may dispel it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0114",
    "jp": "‥‥出番を待っている。",
-   "en": "",
-   "term": "end"
+   "en": "...I'm waiting to be called upon.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0115",
    "jp": "何かあったら、{n}謁見の間へ駆けつけられるように、{n}ここに詰めているのよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm stationed here so I can rush to the audience{n}chamber if anything happens.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0116",
    "jp": "‥‥精神を集中しているんだ。{n}話しかけないでくれ。",
-   "en": "",
-   "term": "end"
+   "en": "...I'm concentrating. Please don't speak to me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0117",
    "jp": "ここの待機は当番制なんだ。",
-   "en": "",
-   "term": "end"
+   "en": "We take turns being on standby here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0118",
@@ -732,8 +759,9 @@
   {
    "id": "scen175.0119",
    "jp": "もう少しで交替か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Almost time for the next shift...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0120",
@@ -816,15 +844,17 @@
   {
    "id": "scen175.0133",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0134",
    "jp": "・断る",
-   "en": "",
+   "en": "・Refuse",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen175.0135",
@@ -926,8 +956,9 @@
   {
    "id": "scen175.0151",
    "jp": "お気をつけて。",
-   "en": "",
-   "term": "end"
+   "en": "Take care.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0152",
@@ -944,8 +975,9 @@
   {
    "id": "scen175.0154",
    "jp": "異常はありません。",
-   "en": "",
-   "term": "end"
+   "en": "Nothing out of the ordinary.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0155",
@@ -1242,9 +1274,10 @@
   {
    "id": "scen175.0203",
    "jp": "・わからない",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen175.0204",
@@ -1424,16 +1457,18 @@
   {
    "id": "scen175.0233",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen175.0234",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen175.0235",
@@ -1468,26 +1503,30 @@
   {
    "id": "scen175.0240",
    "jp": "ここでは魔法の研究などをしている。{n}あまり邪魔などなさらぬよう、お願いします。",
-   "en": "",
-   "term": "end"
+   "en": "We conduct magical research and related work here.{n}Please take care not to disturb us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0241",
    "jp": "魔法を研究しているのは{n}魔法学院だけではありませんわ。",
-   "en": "",
-   "term": "end"
+   "en": "The Magic Academy isn't the only place where magic is{n}studied, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0242",
    "jp": "時には文献をあさり、{n}様々な事件のきっかけを探すのですわ。",
-   "en": "",
-   "term": "end"
+   "en": "Sometimes we pore over old writings, looking for the{n}origins of all manner of incidents.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0243",
    "jp": "勇ましき、小さき者の可能性を信じ、{n}ここに力を封ず。",
-   "en": "",
-   "term": "end"
+   "en": "With faith in the potential of the brave little one, this{n}power is sealed here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0244",
@@ -1498,32 +1537,37 @@
   {
    "id": "scen175.0245",
    "jp": "料理は盛りつけまでが芸術なんだ。",
-   "en": "",
-   "term": "end"
+   "en": "Cooking is an art, right down to arranging the food on{n}the plate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0246",
    "jp": "ふんふん♪{n}オイラは～、お城の～♪{n}おかかえ、コック～♪",
-   "en": "",
-   "term": "end"
+   "en": "Hmm-hmm♪ I'm the castle's♪ Very own cook♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0247",
    "jp": "早く焼けないかしら？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder if it'll be done baking soon?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0248",
    "jp": "{s:0004}をよろしくお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "Please take good care of {s:0004}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0249",
    "jp": "他人の国へ来ているんだぞ。{n}礼儀を重んじるのも騎士のつとめだ。{p}テレポートを使いたいなら、{n}城の外へ出てからにしろ。",
-   "en": "",
-   "term": "end"
+   "en": "We are guests in another country. Observing proper{n}etiquette is also a knight's duty.{p}If you wish to use Teleport, leave the castle first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen175.0250",

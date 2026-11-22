@@ -15,128 +15,149 @@
   {
    "id": "scen220.0001",
    "jp": "眼帯の男",
-   "en": "",
-   "term": "null"
+   "en": "Eyepatched Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen220.0002",
    "jp": "ぐぅ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Urgh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0003",
    "jp": "{v:0059}お前たちの目的は何だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}What are you after?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0004",
    "jp": "{v:005A}目的？{p}‥‥{v:005B}フン！{n}今戦争を止められるわけにはいかねぇんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}What am I after?{p}...{v:005B}Hmph! We can't have you stopping the war now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0005",
    "jp": "‥‥{v:005C}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005C}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0006",
    "jp": "{v:005D}さて、おしゃべりは終わりだ。{n}いつまでもお前たちに構ってるほど暇じゃないんだ。{p}{v:005E}じゃあな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Well, enough chitchat. I ain't got all day to waste on{n}you lot.{p}{v:005E}See ya!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0007",
    "jp": "{v:005F}無理だよ！{n}グローシアンじゃないあなたが、{n}この森を出られるわけない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}You can't! You're not a Growsian! There's no way you{n}can get out of this forest!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0008",
    "jp": "{v:0060}ハン！{n}こっちにはこれがある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}Hah! I've got this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0009",
    "jp": "{v:0061}グローシュ結晶！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}A Grosh crystal?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0010",
    "jp": "{v:0062}魔水晶から抽出したものだ。{n}これがありゃ、迷うことはないんだよ。{p}{v:0063}俺の名はグレンガル。{n}また会おう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}It's extracted from magic crystals. With this, you won't{n}get lost.{p}{v:0063}Name's Grengal. See you around.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0011",
    "jp": "つ、強えぇ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "T-too strong...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0012",
    "jp": "バ、バカな‥‥",
-   "en": "",
-   "term": "end"
+   "en": "N-no way...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0013",
    "jp": "‥‥{v:004D}こいつら、ランザックの兵じゃねぇぞ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004D}These aren't Ranzak soldiers...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0014",
    "jp": "{v:004E}えっ？{n}でも、あの格好は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Huh? But those uniforms...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0015",
    "jp": "‥‥{v:004F}偽装だ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004F}Disguises.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0016",
    "jp": "{v:0050}それに、あの人‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}And that man...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0017",
    "jp": "{v:0051}あっ！{p}{v:0052}確か、盗賊の‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Oh!{p}{v:0052}Wasn't he that bandit...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0018",
    "jp": "{v:0053}だよね！？{p}{FC03}{v:0054}でも、あの人、インペリアル・ナイトに{n}殺されたはずじゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Right?!{p}{FC03}{v:0054}But wasn't he killed by an Imperial Knight...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0019",
    "jp": "{v:0055}ほほぅ。{n}お前ら、俺の弟を知っていたか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Oh ho. So you lot knew my little brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0020",
    "jp": "{v:0056}弟！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}Your little brother?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen220.0021",
    "jp": "{v:0057}ゴチャゴチャと話す気はねぇ！{p}{v:0058}やっちまえ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}I ain't here to stand around talking!{p}{v:0058}Get 'em!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,224 +15,261 @@
   {
    "id": "scen251.0001",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen251.0002",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen251.0003",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen251.0004",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen251.0005",
    "jp": "ぐはっ！",
-   "en": "",
-   "term": "end"
+   "en": "Gaagh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0006",
    "jp": "{v:0000}サンドラ様、援軍が到着しました！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Sandra-sama, reinforcements have arrived!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0007",
    "jp": "{v:0001}逃げ遅れた市民の救助を優先させなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Make rescuing the civilians who could not escape{n}your priority.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0008",
    "jp": "{v:0002}はっ！{p}{v:0003}第１小隊は敵の足止めを！{n}第２小隊は市民の救助を{n}優先せよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Yes, ma'am!{p}{v:0003}First platoon, hold off the enemy! Second platoon,{n}prioritize rescuing the civilians!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0009",
    "jp": "{v:0004}了解！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Understood!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0010",
    "jp": "{v:0005}これ以上被害を出してはなりません！{n}なんとしてもここで食い止めるのです！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}We must prevent any further losses! We must stop{n}them here at all costs!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0011",
    "jp": "{v:0006}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Yes, ma'am!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0012",
    "jp": "{v:0007}まだ何とか持ちこたえてるみたい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Looks like they're still managing to hold out...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0013",
    "jp": "{v:0008}よし、俺たちも加勢するぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Right. Let's give them a hand!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0014",
    "jp": "{FFEE}ルイセ、サンドラを守りつつ市民を救出しろ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Rescue the civilians while protecting Luise and Sandra!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0015",
    "jp": "{v:0009}マスター！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Master!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0016",
    "jp": "{v:000A}あなたたち、間に合ったのですね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}You made it in time!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0017",
    "jp": "{v:000B}俺たちも戦うぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}We're joining the fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0018",
    "jp": "{v:000C}クックックッ、報告通りだな。{n}その娘のグローシュが弱っているというのは。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Heh heh heh. Just as the report said. That girl's Grosh{n}has weakened.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0019",
    "jp": "{v:000D}今まで我が兄弟たちをいたぶってきた、{n}礼をさせてもらおうか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Allow me to repay you for all the torment you have{n}inflicted on my brethren!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0020",
    "jp": "{v:0011}きゃあぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0021",
    "jp": "{v:0012}ルイセ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Luise!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0022",
    "jp": "{v:0013}ルイセちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0023",
    "jp": "いや～っ！",
-   "en": "",
-   "term": "end"
+   "en": "Nooo!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0024",
    "jp": "そ、そんなひどい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "H-how could you...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0025",
    "jp": "まだ死にたくない‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I don't want to die yet...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0026",
    "jp": "あぁ‥‥。{n}空が青い‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Ah... The sky is so blue...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0027",
    "jp": "ぼ、僕、もうダメ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I-I can't go on...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0028",
    "jp": "もっと遊びたかったよ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I wanted to play some more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0029",
    "jp": "うぅ‥‥。{n}寒いよ～‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Ooh... I'm so cold...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0030",
    "jp": "街の者たちを守らなければ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I must protect the townspeople...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0031",
    "jp": "まだ死ねぬ、まだ死ねぬのだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I cannot die yet. Not yet...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0032",
    "jp": "こ、ここは‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Th-this place...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0033",
    "jp": "後は頼んだぞ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "The rest is up to you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0034",
    "jp": "{v:000E}ああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Aaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0035",
    "jp": "{v:000F}サンドラ様！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Sandra-sama!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0036",
    "jp": "{v:0010}マスター！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Master!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen251.0037",
    "jp": "あぁ‥‥街の人たちを{n}１人も助けられなかった‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Oh... We couldn't save a single person in town...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

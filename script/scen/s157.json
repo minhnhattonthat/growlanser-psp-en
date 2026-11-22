@@ -15,44 +15,51 @@
   {
    "id": "scen157.0001",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen157.0002",
    "jp": "料理人",
-   "en": "",
-   "term": "null"
+   "en": "Cook",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen157.0003",
    "jp": "アルカディウス王",
-   "en": "",
-   "term": "null"
+   "en": "King Alcadius",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen157.0004",
    "jp": "文官",
-   "en": "",
-   "term": "null"
+   "en": "Civil Official",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen157.0005",
    "jp": "ローランディア王城",
-   "en": "",
-   "term": "end"
+   "en": "Rolandia Royal Castle",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0006",
    "jp": "ローランディア王城へようこそ。",
-   "en": "",
-   "term": "end"
+   "en": "Welcome to Rolandia Royal Castle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0007",
    "jp": "サンドラ様のご子息、{n}{s:0000}様ですね。{n}どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "You must be {s:0000}, Sandra-sama's son.{n}Please, go right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0008",
@@ -123,8 +130,9 @@
   {
    "id": "scen157.0019",
    "jp": "う～ん‥‥槍はリーチがあるけど、{n}攻撃に時間がかかるし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... Spears have reach, but they take a while to{n}attack with...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0020",
@@ -225,20 +233,23 @@
   {
    "id": "scen157.0036",
    "jp": "現在、国王は取り込み中だ。{n}別の機会にせよ。",
-   "en": "",
-   "term": "end"
+   "en": "The King is occupied at present. Return another time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0037",
    "jp": "通るがよい。",
-   "en": "",
-   "term": "end"
+   "en": "You may pass.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0038",
    "jp": "おつかれさまです。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you for your hard work, sir.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0039",
@@ -309,8 +320,9 @@
   {
    "id": "scen157.0050",
    "jp": "別につまみ食いをするつもりはないけど、{n}暇なときにここへ来るのが日課になってしまったよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm not here to sneak a bite or anything, but coming{n}here whenever I have some spare time has become a{n}daily habit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0051",
@@ -333,8 +345,9 @@
   {
    "id": "scen157.0054",
    "jp": "ここから先は宝物庫です。{n}いくらあなた方といえど、通すことは出来ません。",
-   "en": "",
-   "term": "end"
+   "en": "The treasury lies beyond here. Even you cannot be{n}allowed through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0055",
@@ -453,9 +466,10 @@
   {
    "id": "scen157.0074",
    "jp": "・その通りだ",
-   "en": "",
+   "en": "・That's right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen157.0075",
@@ -792,8 +806,9 @@
   {
    "id": "scen157.0129",
    "jp": "扉があるが、鍵がかかっている。",
-   "en": "",
-   "term": "end"
+   "en": "There is a door, but it is locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0130",
@@ -894,8 +909,9 @@
   {
    "id": "scen157.0146",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0147",
@@ -1055,8 +1071,9 @@
   {
    "id": "scen157.0172",
    "jp": "{v:0017}頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0173",
@@ -1073,8 +1090,9 @@
   {
    "id": "scen157.0175",
    "jp": "気を付けて行くがよい。",
-   "en": "",
-   "term": "end"
+   "en": "Go safely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0176",
@@ -1085,43 +1103,49 @@
   {
    "id": "scen157.0177",
    "jp": "・王都ローザリア",
-   "en": "",
+   "en": "・Royal Capital Rosaria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen157.0178",
    "jp": "・保養地ラシェル",
-   "en": "",
+   "en": "・Rachelle Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen157.0179",
    "jp": "・魔法学院",
-   "en": "",
+   "en": "・Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen157.0180",
    "jp": "・観光地コムスプリングス",
-   "en": "",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen157.0181",
    "jp": "・{s:0010}",
-   "en": "",
+   "en": "・{s:0010}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen157.0182",
    "jp": "　{n}　　　　こちらからは開けられない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　It won't open from this side...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0183",
@@ -1150,32 +1174,37 @@
   {
    "id": "scen157.0187",
    "jp": "３階は王とレティシア姫の居室となっています。",
-   "en": "",
-   "term": "end"
+   "en": "The third floor houses the private quarters of the{n}King and Princess Leticia.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0188",
    "jp": "ここはアルカディウス王の寝室です。",
-   "en": "",
-   "term": "end"
+   "en": "This is King Alcadius's bedchamber.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0189",
    "jp": "ここはレティシア姫の寝室です。",
-   "en": "",
-   "term": "end"
+   "en": "This is Princess Leticia's bedchamber.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0190",
    "jp": "お、お兄ちゃん‥‥。{n}王様の前で魔法を使うのは、よくないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "B-Big Brother... You shouldn't use magic in front of{n}the King...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen157.0191",
    "jp": "マスターをどこへ連れて行く気よ！？",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're taking Master?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

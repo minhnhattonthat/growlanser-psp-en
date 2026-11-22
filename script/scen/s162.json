@@ -15,8 +15,9 @@
   {
    "id": "scen162.0001",
    "jp": "魔法学院生徒",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen162.0002",
@@ -27,44 +28,51 @@
   {
    "id": "scen162.0003",
    "jp": "行商人",
-   "en": "",
-   "term": "null"
+   "en": "Peddler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen162.0004",
    "jp": "アリオスト",
-   "en": "",
-   "term": "null"
+   "en": "Ariost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen162.0005",
    "jp": "ウォレス",
-   "en": "",
-   "term": "null"
+   "en": "Wallace",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen162.0006",
    "jp": "フェザリアン",
-   "en": "",
-   "term": "null"
+   "en": "Featherian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen162.0007",
    "jp": "教授",
-   "en": "",
-   "term": "null"
+   "en": "Professor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen162.0008",
    "jp": "警備兵",
-   "en": "",
-   "term": "null"
+   "en": "Guard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen162.0009",
    "jp": "魔法学院",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0010",
@@ -288,8 +296,9 @@
   {
    "id": "scen162.0046",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0047",
@@ -578,15 +587,17 @@
   {
    "id": "scen162.0093",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0094",
    "jp": "・困る",
-   "en": "",
+   "en": "・Look troubled",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen162.0095",
@@ -694,8 +705,9 @@
   {
    "id": "scen162.0112",
    "jp": "やっとの思いで、学院に入ったのはいいけど、{n}勉強、勉強の毎日だ‥‥。{n}ああ、青春の日々が過ぎてゆく～。",
-   "en": "",
-   "term": "end"
+   "en": "I finally managed to get into the Academy, but now it's{n}nothing but studying, day in, day out... Ahh, my youth is{n}slipping away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0113",
@@ -766,8 +778,9 @@
   {
    "id": "scen162.0124",
    "jp": "俺って卒業できるのかな～？{n}村では一番だったけど、入ってみると{n}すごい奴ばっかりだし。{p}‥‥すっかり自信なくしたよ。",
-   "en": "",
-   "term": "end"
+   "en": "Will I ever manage to graduate? I was the best in my{n}village, but everyone here is amazing.{p}...I've completely lost my confidence.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0125",
@@ -778,8 +791,9 @@
   {
    "id": "scen162.0126",
    "jp": "俺って卒業できるのかな～？",
-   "en": "",
-   "term": "end"
+   "en": "Am I ever going to graduate?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0127",
@@ -790,8 +804,9 @@
   {
    "id": "scen162.0128",
    "jp": "魔法学院で培ってきた力が{n}人々の役に立てばいいんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "I hope the abilities I've developed at the Magic Academy{n}will help people.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0129",
@@ -814,8 +829,9 @@
   {
    "id": "scen162.0132",
    "jp": "あ～あ‥‥もっと魔水晶が手に入らないかな。{n}水晶鉱山がもっと発見されれば、{n}こんな悩みは解消されるんだけどな～。",
-   "en": "",
-   "term": "end"
+   "en": "*sigh*... I wish I could get my hands on more magic{n}crystals. If only they'd discover more crystal mines, I{n}wouldn't have this problem...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0133",
@@ -838,48 +854,55 @@
   {
    "id": "scen162.0136",
    "jp": "お買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "Would you like to buy or sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0137",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen162.0138",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen162.0139",
    "jp": "他にもご用はおありですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0140",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen162.0141",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen162.0142",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0143",
@@ -890,20 +913,23 @@
   {
    "id": "scen162.0144",
    "jp": "{v:0001}あ、みんな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Oh, everyone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0145",
    "jp": "‥‥{v:0000}アレ？{n}ねぇ、あれ見て、{FFEC}あれ！{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0000}Huh? Hey, look! Over {FFEC}there!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0146",
    "jp": "{v:000E}空飛ぶ遺跡だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Flying ruins...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0147",
@@ -920,92 +946,107 @@
   {
    "id": "scen162.0149",
    "jp": "{v:0021}ここにおったか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Ah, here you are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0150",
    "jp": "{v:0022}あ、フェザリアンの女王様‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Oh, the Featherian queen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0151",
    "jp": "{v:0023}それに、母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}And Mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0152",
    "jp": "{v:0024}困っているみたいですね、アリオスト。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}You seem to be having trouble, Ariost.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0153",
    "jp": "{v:0025}はい。{n}正直に言って、打つ手がありません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Yes. To be honest, there is nothing we can do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0154",
    "jp": "{v:0026}そうであろうな。{n}人間では、あの城を止めることは叶わぬ。{n}しかし、そう悲観するでない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}So I would imagine. Humans have no means of stopping{n}that castle. But do not despair.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0155",
    "jp": "{v:0027}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0156",
    "jp": "{v:0028}あの城が浮いている原理は、{n}我々フェザリアンが過去に確立した技術です。{p}{v:0029}そして我々が今住んでいるあの島も、{n}同じ技術で浮いています。{p}{v:002A}その技術とは、{n}この世界に、ある種の力を与え続けることで、{n}特定の装置に浮力を与える物。{p}{v:002B}その力を止めてしまえば、{n}あの城は浮いていられなくなります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}That castle floats using technology we Featherians{n}developed long ago.{p}{v:0029}The island where we now live is kept aloft by the{n}same technology.{p}{v:002A}By continuously supplying this world with a certain kind{n}of force, it allows specific devices to float.{p}{v:002B}If we stop supplying that force, the castle will no{n}longer be able to stay aloft.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0157",
    "jp": "{v:002C}ちょっと待ってよ、母さん！{n}その話からすると、その方法を使ったら‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Wait, Mother! From what you're saying, if you do that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0158",
    "jp": "{v:002D}我々のフェザーランドも、浮いてはいられぬな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Our Featherland will no longer remain aloft either.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0159",
    "jp": "{v:002E}でも、それしか方法はないのですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}But there is no other way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0160",
    "jp": "{v:002F}母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0161",
    "jp": "{v:0030}はるか昔、我々フェザリアンも、{n}この大地で生活していた民だった。{p}{v:0031}だが人間との思想の違いから、大地を捨て、{n}フェザーランドに移り住むこととなった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Long ago, we Featherians also lived upon this land.{p}{v:0031}But differences between our beliefs and those of{n}humans led us to abandon the land and settle{n}in Featherland.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0162",
    "jp": "{v:0032}しかし、そなたらがフェザーランドに来てから、{n}我々は今まで見ようとはしなかった{n}人間を見る機会を得られた。{p}{v:0033}そして人間の素晴らしさに、気づくことができたのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Yet since you came to Featherland, we have had the{n}chance to see the humans we had always refused to{n}look upon.{p}{v:0033}And we have come to realize how wonderful{n}humans are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0163",
    "jp": "{v:0034}それって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}You mean...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0164",
@@ -1022,32 +1063,37 @@
   {
    "id": "scen162.0166",
    "jp": "{v:0039}だが今こそ、我々も力を貸そう！{n}平和な世界のために！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}But now, we too shall lend our strength! For a world{n}at peace!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0167",
    "jp": "{v:003A}全員、地上へ避難してください！{n}まもなく浮遊システムが中和されます。{p}{v:003B}くりかえします。{n}全員、地上へ避難してください！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Everyone, please evacuate to the surface! The{n}levitation system will soon be neutralized.{p}{v:003B}I repeat. Everyone, please evacuate to the surface!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0168",
    "jp": "{v:003F}フェザリアンが自らの島を捨ててまで{n}作ってくれたチャンスだ。{n}無駄には出来ない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}The Featherians gave up their own island to give us{n}this chance. We cannot waste it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0169",
    "jp": "{v:0040}ああ、これが最後の戦いだ！{n}やってやろうぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Yeah. This is the final battle! Let's do this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0170",
    "jp": "{v:0041}よぉし！{n}みんな、がんばろー！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}All riiight! Let's give it our all, everyone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0171",
@@ -1178,20 +1224,23 @@
   {
    "id": "scen162.0192",
    "jp": "我々に出来るのはここまでじゃ。{n}後はそなた達に託すことしか出来ぬ。{n}頼むぞよ。",
-   "en": "",
-   "term": "end"
+   "en": "This is all we can do. We can only entrust the rest to{n}you. We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0193",
    "jp": "がんばるのですよ、アリオスト。",
-   "en": "",
-   "term": "end"
+   "en": "Do your best, Ariost.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0194",
    "jp": "我々の未来はあなた達にゆだねられました。{n}がんばって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Our future is in your hands. Please give it your all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0195",
@@ -1202,114 +1251,132 @@
   {
    "id": "scen162.0196",
    "jp": "あ、お兄さま。{n}アタシの力が必要なんですね！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother! You need my help, don't you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0197",
    "jp": "どうするの？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0198",
    "jp": "・ミーシャをメンバーに加える",
-   "en": "",
+   "en": "・Add Misha to the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen162.0199",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add anyone for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen162.0200",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "",
-   "term": "end"
+   "en": "But that would be too many of us. Someone will have to{n}leave the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0201",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will leave the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0202",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen162.0203",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen162.0204",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve {s:FFED}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0205",
    "jp": "{s:FFEE}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Reclaim {s:FFEE}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0206",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0207",
    "jp": "アタシ、がんばっちゃうね！",
-   "en": "",
-   "term": "end"
+   "en": "I'll give it my all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0208",
    "jp": "そうですか‥‥。{n}ちょっとガッカリ‥‥。{p}{FC00}でも、でも！{n}ご用があったら、いつでもどうぞ！{n}アタシ、がんばりますから！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I see... That's a little disappointing...{p}{FC00}But, but! If you need anything, just ask! I'll do my{n}very best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0209",
    "jp": "ん？{n}僕の力が必要なのかな？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Do you need my help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0210",
    "jp": "アリオストを仲間に加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add Ariost to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0211",
    "jp": "　{n}　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Ariost joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0212",
    "jp": "ありがとう、がんばるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks. I'll do my best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0213",
    "jp": "そうかい。{n}僕の力が必要になったら、{n}いつでも声をかけてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "I see. If you need my help, just let me know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0214",
@@ -1386,8 +1453,9 @@
   {
    "id": "scen162.0226",
    "jp": "怖いわ、私‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm scared...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0227",
@@ -1398,8 +1466,9 @@
   {
    "id": "scen162.0228",
    "jp": "人間の力なんて、ちっぽけなものね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Human strength counts for so little...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0229",
@@ -1434,26 +1503,30 @@
   {
    "id": "scen162.0234",
    "jp": "あの事件以来、ここは封鎖されているんだ。{n}入ることは出来ないよ。",
-   "en": "",
-   "term": "end"
+   "en": "This place has been sealed off since that incident. You{n}can't go in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0235",
    "jp": "鍵がかかっている。",
-   "en": "",
-   "term": "end"
+   "en": "It's locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0236",
    "jp": "内側からカギをかけられているようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It seems to be locked from the inside...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0237",
    "jp": "今、この僕ができることってなんだろう？{n}何か１つでも、あればいいのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What can I do right now? I wish there were{n}something... Anything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0238",
@@ -1464,8 +1537,9 @@
   {
    "id": "scen162.0239",
    "jp": "アリオストの研究室",
-   "en": "",
-   "term": "end"
+   "en": "Ariost's Laboratory",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0240",
@@ -1482,14 +1556,16 @@
   {
    "id": "scen162.0242",
    "jp": "多目的ホール",
-   "en": "",
-   "term": "end"
+   "en": "Multipurpose Hall",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen162.0243",
    "jp": "あのね、お兄ちゃん。{n}学院の施設内で大きな魔法を使うと、{n}怒られちゃうんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Um, Big Brother... We'll get in trouble if we use powerful{n}magic inside the Academy...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

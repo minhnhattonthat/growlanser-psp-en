@@ -9,386 +9,450 @@
   {
    "id": "boot.magic.0000",
    "jp": "テレポート",
-   "en": "",
-   "term": "null"
+   "en": "Teleport",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0001",
    "jp": "ファイアーボール",
-   "en": "",
-   "term": "null"
+   "en": "Fireball",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0002",
    "jp": "ブリザード",
-   "en": "",
-   "term": "null"
+   "en": "Blizzard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0003",
    "jp": "トルネード",
-   "en": "",
-   "term": "null"
+   "en": "Tornado",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0004",
    "jp": "サンダー",
-   "en": "",
-   "term": "null"
+   "en": "Thunder",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0005",
    "jp": "アースクエイク",
-   "en": "",
-   "term": "null"
+   "en": "Earthquake",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0006",
    "jp": "ホーリーライト",
-   "en": "",
-   "term": "null"
+   "en": "Holy Light",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0007",
    "jp": "ＭＰドレイン",
-   "en": "",
-   "term": "null"
+   "en": "MP Drain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0008",
    "jp": "デス",
-   "en": "",
-   "term": "null"
+   "en": "Death",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0009",
    "jp": "マジックアロー",
-   "en": "",
-   "term": "null"
+   "en": "Magic Arrow",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0010",
    "jp": "ソウルフォース",
-   "en": "",
-   "term": "null"
+   "en": "Soul Force",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0011",
    "jp": "メテオ",
-   "en": "",
-   "term": "null"
+   "en": "Meteor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0012",
    "jp": "スリープ",
-   "en": "",
-   "term": "null"
+   "en": "Sleep",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0013",
    "jp": "サイレンス",
-   "en": "",
-   "term": "null"
+   "en": "Silence",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0014",
    "jp": "スロー",
-   "en": "",
-   "term": "null"
+   "en": "Slow",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0015",
    "jp": "バインド",
-   "en": "",
-   "term": "null"
+   "en": "Bind",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0016",
    "jp": "ルスト",
-   "en": "",
-   "term": "null"
+   "en": "Rust",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0017",
    "jp": "ウィークネス",
-   "en": "",
-   "term": "null"
+   "en": "Weakness",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0018",
    "jp": "フィア",
-   "en": "",
-   "term": "null"
+   "en": "Fear",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0019",
    "jp": "アタック",
-   "en": "",
-   "term": "null"
+   "en": "Attack",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0020",
    "jp": "グローアタック",
-   "en": "",
-   "term": "null"
+   "en": "Grow Attack",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0021",
    "jp": "プロテクト",
-   "en": "",
-   "term": "null"
+   "en": "Protect",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0022",
    "jp": "グロープロテクト",
-   "en": "",
-   "term": "null"
+   "en": "Grow Protect",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0023",
    "jp": "レジスト",
-   "en": "",
-   "term": "null"
+   "en": "Resist",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0024",
    "jp": "グローレジスト",
-   "en": "",
-   "term": "null"
+   "en": "Grow Resist",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0025",
    "jp": "インビジビリティ",
-   "en": "",
-   "term": "null"
+   "en": "Invisibility",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0026",
    "jp": "マジックシェル",
-   "en": "",
-   "term": "null"
+   "en": "Magic Shell",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0027",
    "jp": "クイック",
-   "en": "",
-   "term": "null"
+   "en": "Quick",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0028",
    "jp": "キュア",
-   "en": "",
-   "term": "null"
+   "en": "Cure",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0029",
    "jp": "ヒーリング",
-   "en": "",
-   "term": "null"
+   "en": "Healing",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0030",
    "jp": "グローキュア",
-   "en": "",
-   "term": "null"
+   "en": "Grow Cure",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0031",
    "jp": "グローヒーリング",
-   "en": "",
-   "term": "null"
+   "en": "Grow Healing",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0032",
    "jp": "ファイン",
-   "en": "",
-   "term": "null"
+   "en": "Fine",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0033",
    "jp": "レイズ",
-   "en": "",
-   "term": "null"
+   "en": "Raise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0034",
    "jp": "単デ",
-   "en": "",
-   "term": "null"
+   "en": "Single De",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0035",
    "jp": "テ２",
-   "en": "",
-   "term": "null"
+   "en": "Te2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0036",
    "jp": "のぶ",
-   "en": "",
-   "term": "null"
+   "en": "Nobu",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0037",
    "jp": "最ゲブ",
-   "en": "",
-   "term": "null"
+   "en": "Final Ge Bu",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0038",
    "jp": "最ヴブ",
-   "en": "",
-   "term": "null"
+   "en": "Final Ve Bu",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0039",
    "jp": "最ヴレ",
-   "en": "",
-   "term": "null"
+   "en": "Final Ve Re",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0040",
    "jp": "接地",
-   "en": "",
-   "term": "null"
+   "en": "Ground Contact",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0041",
    "jp": "デ地",
-   "en": "",
-   "term": "null"
+   "en": "De Ground",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0042",
    "jp": "時波",
-   "en": "",
-   "term": "null"
+   "en": "Time Wave",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0043",
    "jp": "時指",
-   "en": "",
-   "term": "null"
+   "en": "Time Target",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0044",
    "jp": "爆",
-   "en": "",
-   "term": "null"
+   "en": "Explosion",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0045",
    "jp": "ゲ変",
-   "en": "",
-   "term": "null"
+   "en": "Ge Change",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0046",
    "jp": "Ｐ発",
-   "en": "",
-   "term": "null"
+   "en": "P Trigger",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0047",
    "jp": "横ゲ",
-   "en": "",
-   "term": "null"
+   "en": "Side Ge",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0048",
    "jp": "マロ",
-   "en": "",
-   "term": "null"
+   "en": "Maro",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0049",
    "jp": "最ゲレ",
-   "en": "",
-   "term": "null"
+   "en": "Final Ge Re",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0050",
    "jp": "お",
-   "en": "",
-   "term": "null"
+   "en": "o",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0051",
    "jp": "か",
-   "en": "",
-   "term": "null"
+   "en": "ka",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0052",
    "jp": "き",
-   "en": "",
-   "term": "null"
+   "en": "ki",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0053",
    "jp": "く",
-   "en": "",
-   "term": "null"
+   "en": "ku",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0054",
    "jp": "け",
-   "en": "",
-   "term": "null"
+   "en": "ke",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0055",
    "jp": "こ",
-   "en": "",
-   "term": "null"
+   "en": "ko",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0056",
    "jp": "さ",
-   "en": "",
-   "term": "null"
+   "en": "sa",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0057",
    "jp": "し",
-   "en": "",
-   "term": "null"
+   "en": "shi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0058",
    "jp": "す",
-   "en": "",
-   "term": "null"
+   "en": "su",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0059",
    "jp": "せ",
-   "en": "",
-   "term": "null"
+   "en": "se",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0060",
    "jp": "そ",
-   "en": "",
-   "term": "null"
+   "en": "so",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0061",
    "jp": "た",
-   "en": "",
-   "term": "null"
+   "en": "ta",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0062",
    "jp": "ち",
-   "en": "",
-   "term": "null"
+   "en": "chi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.magic.0063",
    "jp": "つ",
-   "en": "",
-   "term": "null"
+   "en": "tsu",
+   "term": "null",
+   "src": "ps1"
   }
  ]
 }

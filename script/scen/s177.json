@@ -51,14 +51,16 @@
   {
    "id": "scen177.0007",
    "jp": "{v:0019}うん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Yeah.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen177.0008",
    "jp": "{v:001A}ああ、なんとかな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Yeah, more or less.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen177.0009",
@@ -178,9 +180,10 @@
   {
    "id": "scen177.0028",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen177.0029",
@@ -363,8 +366,9 @@
   {
    "id": "scen177.0058",
    "jp": "{v:0029}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen177.0059",
@@ -430,9 +434,10 @@
   {
    "id": "scen177.0069",
    "jp": "・断る",
-   "en": "",
+   "en": "・Refuse",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen177.0070",
@@ -521,8 +526,9 @@
   {
    "id": "scen177.0084",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen177.0085",
@@ -534,9 +540,10 @@
   {
    "id": "scen177.0086",
    "jp": "・放っておく",
-   "en": "",
+   "en": "・Leave them alone",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen177.0087",
@@ -565,8 +572,9 @@
   {
    "id": "scen177.0091",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen177.0092",

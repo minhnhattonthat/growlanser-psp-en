@@ -15,14 +15,16 @@
   {
    "id": "scen066.0001",
    "jp": "管理人",
-   "en": "",
-   "term": "null"
+   "en": "Caretaker",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen066.0002",
    "jp": "ここはローランディア王直轄の御領地だ。{p}だからと言って立入禁止ということもないから{n}自由に出入りしてもらってかまわないよ。{n}眺めも綺麗だし、ゆっくりしていくといい。",
-   "en": "",
-   "term": "end"
+   "en": "This land is under the direct rule of the King{n}of Rolandia.{p}That doesn't mean it's off-limits, though. You're{n}welcome to come and go as you please. The view is{n}lovely, so stay a while.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

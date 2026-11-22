@@ -2,7 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate: not started (phase 5 done in session 8: width gate in docs/windows.md).
+- **Phase:** 6. Translate in progress: PS1 prefill done (28,326 strings), 7,321 PSP-only strings batched, not yet
+  translated.
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -53,12 +54,21 @@ Updated at the end of every session. Keep it to what the next session needs; his
   CONT_RA1 = 0x0886AAB4 (fixed, work/qa/s3c/wait). Torture line legible (work/qa/s4/tort). `tools/fit.py` +
   tests/test_fit.py ported (PSP: start rule after waits too). D12 (keep the 24-cell box: PS1 English fits as is).
   New warp entry gear_spell (spell list; empty: Luise not in party there).
-- **Next (phase 6, translate):** read `$SKILL/references/translation.md` first. (1) Prefill: copy the PS1 English for
-  the 28,401 PSP jp strings equal to a translated PS1 jp (scen 26,670; ids differ: match on jp text per pool, beware
-  one jp with several PS1 ens: take the same-scene one), mark them as reused; run `tools/fit.py` (expect 0: same
-  budgets). (2) The rest (~7,500 strings, PSP-only or changed lines): batches for translator agents with the PS1
-  translator brief / style-reference / glossary (copy PS1 docs/translator-brief.md, reviewer-brief.md, tools
-  batches.py, tl_run.py, newterms.py), reviewer pass. Pools: boot.sys 192-195 new, sys.0032 / 0146 changed.
+  Session 9 (phase 6): `tools/prefill.py --write` copied the PS1 English into 28,326 strings ("src": "ps1"; PS1 and
+  PSP scene numbers shift after ~s121, e.g. PSP s200 = PS1 s159: `scene_map` picks the matching PS1 scene);
+  `tools/fit.py` 0 errors. Ported from PS1: `tools/batches.py` (exe -> boot pools; split adds a `## PS1 reference`
+  part to build/terms_bNNN.txt: `near` = most similar PS1 line + English, `ctx` = translated neighbours),
+  `tools/tl_run.py` (codex pipeline; + `psp-scenes` = synopsis section 6 for PSP-only scenes), termscan.py,
+  newterms.py, docs/translator-brief.md (PSP header + PS1 reference), reviewer-brief.md, story-reviewer-brief.md,
+  synopsis.md (PS1 scene ids). `insert.needs_english`. Batches: work/tl/b001.. (`batches.py split --size 3500`).
+  work/tl/termscan.tsv: new PSP names to rule (メルフィ 178, アメリア 145, ジャスティン 113, デュンケルス 88, ラミィ 46,
+  ユリィ 21, コリン 14, 『るいせちゃんのお部屋』).
+  codex exec hit its usage limit (until 2026-11-26): tl_run.py can't run before then.
+- **Next (phase 6, translate):** (1) terms pass: rule the new PSP names (termscan.tsv) into glossary.md. (2) Synopsis
+  section 6 for the 43 PSP-only scenes in work/psp_scenes.txt (`tl_run.py psp-scenes` once codex works, or by hand).
+  (3) Translate work/tl/bNNN.tsv -> bNNN.out.tsv per docs/translator-brief.md, `batches.py check bNNN`, review
+  (reviewer-brief.md), `batches.py merge bNNN`; or `tl_run.py pipeline --all` with codex. Then fit.py 0 errors.
+  Pools: boot.sys 192-195 new, sys.0032 / 0146 changed.
   Phase 7 (fitting ports from PS1 insert.py): name-tag pad (frame = code count), popup width hook (find the PSP twin
   of PS1 0x8006BA48), caption centring, name-entry SLOTS (sys.0069). Measure in phase 8: battle UI (unit / class
   names, battle messages: bt_tutorial lands before the battle starts), captions (scen010.0114, scen014.0003), spell

@@ -8,212 +8,247 @@
   {
    "id": "msys.magic.0000",
    "jp": "力{F4C4}{F44B}のみが{F4D2}{F47A}{F451}{n}転移{F4D1}{F4C1}術者が行{F4CF}{F4BB}の{F4C4}街や{F4C0}ダンジョンなどの出口へ瞬時に移動{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "A teleportation spell said to be usable only by powerful{n}Growsians. Allows instant travel to towns the caster{n}has visited or to exits of dungeons and other places.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0001",
    "jp": "炎球を生みだし、目標地点で爆発{F48B}{F4C3}{F4D1}{F4BA}爆発規模こそ小さい{F4BE}長い射程{F482}{F4BB}が特徴{F4BA}{F4DA}：炎／目標：範囲内の敵",
-   "en": "",
-   "term": "null"
+   "en": "Attack magic that forms a fireball to explode at the{n}target point. Small blast, long range. Attribute: Fire.{n}Target: Enemies in area.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0002",
    "jp": "局地的な吹雪を発生させ、敵を凍てつかせる{F4C3}{F4D1}{F4BA}射程、{F4E2}範囲とも{F4D7}標準的{F4BA}{F4DA}：冷／目標：範囲内の敵",
-   "en": "",
-   "term": "null"
+   "en": "Attack magic that freezes foes in a local blizzard.{n}Average range and area of effect. Attribute: Ice.{n}Target: Enemies in area.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0003",
    "jp": "術者を中心に嵐を起こし、目標を切り刻む{F4C3}{F4D1}{F4BA}広範囲に影響を及ぼす{F4BB}が特徴{F4C1}また{F4F5}も{F4C4}{F4BA}{F4DA}：風／目標：術者を中心と{F4BC}範囲内にいる敵",
-   "en": "",
-   "term": "null"
+   "en": "Powerful attack magic that raises a wide storm around{n}the caster, slicing foes. Attribute: Wind. Target: Enemies{n}in area around caster.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0004",
    "jp": "無数の稲妻を指先{F4C7}放つ{F4C3}{F4D1}。術者を一端と{F4BC}射線上に{F4E2}を及ぼす{F4BB}が特徴{F4C1}{F4F5}も{F4C4}{F4BA}{F4DA}：雷／目標：術者を一端と{F4BC}射線上の敵",
-   "en": "",
-   "term": "null"
+   "en": "Powerful attack magic firing countless lightning bolts{n}from the fingertips along a line. Attribute: Lightning.{n}Target: Enemies in a line from caster.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0005",
    "jp": "{F4FC}を激しく揺さぶ{F4DC}敵をなぎ倒す禁断の{F4C3}{F4D1}{F4BA}戦場にいる全ての敵に影響を{F496}{F4BA}{F4DA}：地／目標：全ての敵",
-   "en": "",
-   "term": "null"
+   "en": "Forbidden attack magic that violently shakes the{n}earth, knocking down every foe on the battlefield.{n}Attribute: Earth. Target: All enemies.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0006",
    "jp": "邪悪な者に有害な、聖{F4EB}光を浴びせる{F4C3}{F4D1}{F4BA}{F47D}{F4E2}範囲が十字型を{F4CE}いる事が特徴{F4BA}{F4DA}：聖／目標：十字の型を{F4BC}範囲内にいる敵",
-   "en": "",
-   "term": "null"
+   "en": "Attack magic that bathes the wicked in harmful holy{n}light over a cross-shaped area. Attribute: Holy.{n}Target: Enemies in cross-shaped area.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0007",
    "jp": "目標{F4C7}ＭＰを奪い取{F4DC}術{F4EA}ＭＰを{F4F4}{F4BD}{F4C0}特殊な{F4C3}{F4D1}{F4BA}{F4DA}：闇／目標：敵１体",
-   "en": "",
-   "term": "null"
+   "en": "Special attack magic that steals the target's MP to{n}restore the caster's own. Attribute: Dark.{n}Target: 1 enemy.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0008",
    "jp": "冥府{F4DF}死神を召還し、対象の魂を奪い取る{F4D1}{F4BA}対象に与え{F47F}結末{F4C6}生か死のみ{F4BA}{F4DA}：闇／目標：範囲内の敵",
-   "en": "",
-   "term": "null"
+   "en": "Summons a reaper from the underworld to steal souls.{n}The target's fate is life or death. Attribute: Dark.{n}Target: Enemies in area.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0009",
    "jp": "{F48A}練り上げて生みだ{F4BC}、純エネルギー{F4CB}矢{F49A}、初歩の{F4C3}{F4D1}{F4BA}{F4DA}：物／目標：敵１体",
-   "en": "",
-   "term": "null"
+   "en": "Basic attack magic that shapes magical power into an{n}arrow of pure energy and fires it. Attribute: Physical.{n}Target: 1 enemy.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0010",
    "jp": "高度に練り上げた{F48A}物質化し、目標を破壊{F4BD}{n}{F4C3}{F4D1}。最強の{F49B}{F482}{F4BA}{F4DA}：物／目標：敵１体",
-   "en": "",
-   "term": "null"
+   "en": "Attack magic that solidifies refined magic to destroy a{n}target. Unmatched destructive power.{n}Attribute: Physical. Target: 1 enemy.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0011",
    "jp": "星界に{F4C4}隕石を召喚し、目標地点に落下{F48B}{n}究極の{F4C3}{F4D1}{F4BA}{F4DA}：物／目標：範囲内の敵",
-   "en": "",
-   "term": "null"
+   "en": "Ultimate attack magic summoning a meteor from the{n}astral realm to strike the target point.{n}Attribute: Physical. Target: Enemies in area.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0012",
    "jp": "{F4F9}に働きかけ、深い眠りへと誘う補助{F4D1}{F4BA}{F4DA}：精／目標：範囲内の敵{n}{F4F4}：ファイン、対象への{F4C3}行為、自然{F4F4}",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that works on the mind to induce deep{n}sleep. Attribute: Mental. Target: Enemies in area.{n}Recovery: Fine, attacks on target, time.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0013",
    "jp": "大気の振動を止める{F4BB}{F4C1}対象の{F46F}{F4CA}妨害{F4BD}補助{F4D1}{F4BA}{F4DA}：精／目標：敵１体／{F4F4}：ファイン、自然{F4F4}",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that stops vibrations in the air to{n}disrupt spellcasting. Attribute: Mental.{n}Target: 1 enemy. Recovery: Fine, time.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0014",
    "jp": "対象の{F4F9}を混乱させ、判断{F4C2}鈍らせる補助{F4D1}{F4BA}対象の行動{F4E3}短期間、遅く{F4BD}{F4BB}が可能{F4BA}{F4DA}：物／目標：範囲内の敵／{F4F4}：クイック",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that confuses the mind and clouds{n}judgment, briefly slowing actions. Attribute: Physical.{n}Target: Enemies in area. Recovery: Quick.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0015",
    "jp": "運動神経に{F478}を与え、軽いマヒを起こ{F48B}{n}補助{F4D1}。足下の自由を奪い、移動不能に{F4BD}{F4BA}{F4DA}：物／目標：範囲内の敵／{F4F4}：自然{F4F4}",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that damages motor nerves, causing{n}mild paralysis. Prevents movement. Attribute: Physical.{n}Target: Enemies in area. Recovery: Time.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0016",
    "jp": "対象が{F4FF}{F4E9}を鈍化{F48B}補助{F4D1}{F4BA}長期間、対象の直接{F4C3}{F478}を３０％低下{F48B}{F4BA}{F4DA}：物／目標：敵１体／{F4F4}：アタック系",
-   "en": "",
-   "term": "null"
+   "en": "Support magic dulling the target's weapon: direct attack{n}damage -30% for a long time. Attribute: Physical.{n}Target: 1 enemy. Recovery: Attack spells.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0017",
    "jp": "活{F4C2}奪い、防御能{F4C2}落とす補助{F4D1}。長期間{F4C0}対象に{F496}直接{F4C3}{F478}を３０％増加{F47A}{F4BA}{F4DA}：物／目標：敵１体／{F4F4}：プロテクト系",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that saps vigor and defense long-term:{n}direct attack damage taken +30%. Attribute: Physical.{n}Target: 1 enemy. Recovery: Protect spells.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0018",
    "jp": "恐怖を与えて混乱させ、{F4D1}耐性を下げる補助{F4D1}{F4BA}長期間、{F4C3}{F47D}{F478}を３０％増加{F47A}{F4BA}{F4DA}：－／目標：敵１体／{F4F4}：レジスト系",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that scares and confuses, lowering{n}magic resistance. Attack spell damage taken +30%,{n}long-term. Target: 1 enemy. Recovery: Resist spells.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0019",
    "jp": "対象{F4EA}{F4C3}{F4C2}、一時的に増加{F48B}補助{F4D1}{F4BA}直接{F4C3}{F478}を３０％増加{F4BD}{F4BA}目標：味方１体／消滅：ルスト／時間：長",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that temporarily raises attack power.{n}Direct attack damage +30%. Target: 1 ally.{n}Removed by: Rust. Duration: Long.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0020",
    "jp": "味方１グループの{F4C3}{F4C2}、一時的に増す補助{F4D1}{F4BA}直接{F4C3}{F478}を３０％増加{F4BD}{F4BA}目標：味方１グループ／消滅：ルスト／時間：長",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that temporarily raises attack power.{n}Direct attack damage +30%. Target: 1 ally group.{n}Removed by: Rust. Duration: Long.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0021",
    "jp": "対象の身の回り{F4D7}{F4FD}の防壁を{F4B5}す補助{F4D1}{F4BA}対象が受{F4DE}直接{F4C3}{F478}を３０％軽減{F4BD}{F4BA}目標：味方１体／消滅：ウィークネス／時間：長",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that forms a barrier around a target.{n}Direct attack damage taken -30%. Target: 1 ally.{n}Removed by: Weakness. Duration: Long.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0022",
    "jp": "味方１グループの回りに{F4FD}による防壁を{F4B5}す{n}補助{F4D1}。直接{F4C3}{F478}を３０％軽減{F4BD}{F4BA}目標：グループ／消滅：ウィークネス／時間：長",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that forms a barrier around a group of{n}allies. Direct attack damage taken -30%.{n}Target: Group. Removed by: Weakness. Duration: Long.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0023",
    "jp": "対象の生体エネルギーを活性化{F48B}補助{F4D1}{F4BA}{F4A3}よる{F478}を３０％軽減{F4BD}{F4BA}目標：味方１体／消滅：フィア／時間：長",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that activates the target's life energy,{n}reducing magic damage taken by 30%. Target: 1 ally.{n}Removed by: Fear. Duration: Long.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0024",
    "jp": "味方１グループの生体エネルギーを活性化{F48B}{n}補助{F4D1}{F4C1}{F4A3}よる{F478}を３０％軽減{F4BD}{F4BA}目標：味方１グループ／消滅：フィア／時間：長",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that activates a group of allies' life{n}energy, reducing magic damage taken by 30%.{n}Target: 1 ally group. Removed by: Fear. Duration: Long.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0025",
    "jp": "姿を消す{F4BB}{F4C1}敵{F4C7}{F4C3}を受け{F4D8}{F4C8}に{F4BD}補{n}助{F4D1}。{F4AD}範囲{F4D1}{F4C3}による{F478}は不可避{F4BA}目標：術者／時間：短",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that hides the caster from enemy{n}attacks. Area attack magic still deals damage.{n}Target: Caster. Duration: Short.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0026",
    "jp": "{F489}{F4F2}{F4BD}{F4D1}障壁を{F4B5}す補助{F4D1}{F4BA}{F4D1}{F4E2}中、対象に対{F4BD}{F4C3}系{F4D1}は{F4A7}{F486}{F4BA}目標：味方１体／時間：短",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that creates a barrier to neutralize{n}magic. Negates attack spells on the target while active.{n}Target: 1 ally. Duration: Short.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0027",
    "jp": "神経を極限まで研ぎ澄ませる{F4BB}{F4C1}{F467}行動{F4CA}機敏に{F4BD}補助{F4D1}{F4BA}目標：味方１体／消滅：スロー／時間：短",
-   "en": "",
-   "term": "null"
+   "en": "Support magic that hones the senses to the limit,{n}quickening all actions. Target: 1 ally. Removed by: Slow.{n}Duration: Short.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0028",
    "jp": "術{F4EA}手のひらに癒しの{F4C2}集め、傷を癒す{F4F4}{F4D1}{F4BA}術{F4EA}能力による{F4BE}ＨＰを５０前後、{F4F4}{F48B}{F4BA}目標：味方１体",
-   "en": "",
-   "term": "null"
+   "en": "Healing magic that gathers healing power in the{n}caster's palm to heal wounds. Restores about 50 HP,{n}depending on caster's ability. Target: 1 ally.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0029",
    "jp": "術{F4EA}{F4FA}、強力な癒しの{F4C2}{F4B5}す{F4F4}{F4D1}{F4BA}奇跡の力{F4C1}{F467}傷を完治{F4BD}{F4BA}目標：味方１体",
-   "en": "",
-   "term": "null"
+   "en": "Healing magic that fills the caster's hand with potent{n}healing power, miraculously curing all wounds.{n}Target: 1 ally.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0030",
    "jp": "{F4FC}の{F4FF}癒しの{F4C2}借り{F4E5}{F4F4}{F4D1}。術{F4EA}能力{n}による{F4BE}味方のＨＰ{F4E3}５０前後、{F4F4}{F48B}{F4BA}目標：味方１グループ",
-   "en": "",
-   "term": "null"
+   "en": "Healing magic that draws on the earth's healing power.{n}Restores about 50 HP, depending on caster's ability.{n}Target: 1 ally group.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0031",
    "jp": "{F4FC}の{F4FF}癒しの{F4C2}、極限まで高めて利用{F4BD}{n}{F4F4}{F4D1}。味方のＨＰを全{F4F4}{F47A}{F4BA}目標：味方１グループ",
-   "en": "",
-   "term": "null"
+   "en": "Healing magic that draws the utmost from the earth's{n}healing power to fully restore allies' HP.{n}Target: 1 ally group.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0032",
    "jp": "対象に働く{F4FD}エネルギーの歪みを取り去る{F4F4}{F4D1}{F4BA}瀕死以外の、悪影響を及ぼす全ステータス異常を{F4F4}{F4BA}目標：味方１体",
-   "en": "",
-   "term": "null"
+   "en": "Healing magic that removes distortions in the target's{n}magical energy. Cures all harmful status ailments except{n}near death. Target: 1 ally.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0033",
    "jp": "天への祈り{F475}、奇跡の{F4C2}呼び起こす{F4F4}{F4D1}{F4BA}戦闘不能状態{F4C7}の{F4F4}が可能{F4BA}目標：味方１体",
-   "en": "",
-   "term": "null"
+   "en": "Healing magic that invokes a miracle through prayer to{n}the heavens, restoring those unable to fight.{n}Target: 1 ally.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.magic.0034",
    "jp": "{F417}による発動のみ{F4BA}{F416}による発動は{F4D8}{F4BA}{F4DA}：闇／目標：敵１体",
-   "en": "",
-   "term": "null"
+   "en": "Activated only by items, never by a command.{n}Attribute: Dark. Target: 1 enemy.",
+   "term": "null",
+   "src": "ps1"
   }
  ]
 }

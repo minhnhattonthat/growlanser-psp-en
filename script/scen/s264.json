@@ -15,98 +15,114 @@
   {
    "id": "scen264.0001",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen264.0002",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen264.0003",
    "jp": "{FFEE}サンドラと市民を守りながら、敵を倒せ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Defeat the enemy while protecting Sandra and the{n}citizens!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0004",
    "jp": "{v:001A}どうしてヴェンツェルになんか従うのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Why are you taking orders from someone like Wenzel?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0005",
    "jp": "{v:001B}知っているだろう！{n}ゲヴェルが死んだ時点で、{n}我が命はいくばくもないものとなった。{p}{v:001C}それを救ってくれたのが、あのお方なのだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}You know why! The moment Gevel died, I had little time{n}left to live.{p}{v:001C}He was the one who saved me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0006",
    "jp": "{v:001D}お前を利用するために、助けただけじゃねぇか。{n}そんな事もわからないのか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}He only saved you so he could use you. Can't you even{n}see that?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0007",
    "jp": "{v:001E}それぐらい、分かっている。{p}{v:001F}だが私は、生命波を受け続けねば生きられぬ。{n}だから生きていくためにヴェンツェル様に{n}従っただけのこと。{p}{v:0020}そもそも自力で生きていける貴様らに、{n}どうこう言われる筋合いはない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}I know that much.{p}{v:001F}But I cannot live without a constant supply of life{n}energy. I obeyed Wenzel-sama simply to stay alive.{p}{v:0020}You can sustain your own lives. You have no right to{n}judge me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0008",
    "jp": "{v:0021}しかし、ヴェンツェルは人間を{n}支配しようとしているんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}But Wenzel intends to rule over humanity!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0009",
    "jp": "{v:0022}だからって、ヴェンツェルは{n}人間を支配しようとしてるんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Even so, Wenzel's trying to rule over humanity,{n}you know?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0010",
    "jp": "{v:0023}それがどうした？{p}{v:0024}しょせん人間は誰かの支配を受けなければ{n}生きられない。{n}貴様も、そうは思わぬか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}What of it?{p}{v:0024}In the end, humans cannot live without someone to rule{n}them. Do you not agree?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0011",
    "jp": "人は誰かの支配を受けなければ生きられませんか？",
-   "en": "",
-   "term": "end"
+   "en": "Must people be ruled by someone to live?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0012",
    "jp": "{v:0025}お兄ちゃん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Big Brother?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0013",
    "jp": "{v:0026}アンタ、何てこと言うのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}How can you SAY that?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0014",
    "jp": "{v:0027}とにかく、わたし達はあきらめません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Whatever you say, we won't give up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0015",
    "jp": "{v:002E}この真理が判らぬとは‥‥愚かな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}You cannot grasp this simple truth... How foolish.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0016",
    "jp": "{v:002F}アンタ、ヴェンツェルに騙されてるだけよ！{n}アタシ達は最後まであきらめないんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Wenzel's just fooling you! We'll never give up, not till the{n}very end!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0017",
@@ -117,68 +133,79 @@
   {
    "id": "scen264.0018",
    "jp": "{v:0034}時空を操る方法は他にもある！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}There are other ways to control space-time!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0019",
    "jp": "{v:0035}時空制御装置か？{n}だがパワーストーンがない今、{n}どうやって装置を動かすというのだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}The space-time control device? But without the Power{n}Stone, how do you intend to operate it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0020",
    "jp": "{v:0036}お前が力を貸してくれれば、パワーストーンは作れる。{n}だから我々に協力してくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}With your help, we can create a Power Stone. Join us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0021",
    "jp": "{v:0037}協力だと？{n}ヴェンツェル様を裏切り、死ねというのか？{p}‥‥{v:0038}ふははははっ！{p}{v:0085}面白い！{n}私の手を借りたければ、私を屈服させてみろ！{p}{v:0039}そうすれば私の命、貴様らにくれてやる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Join you? You would have me betray Wenzel-sama{n}and die?{p}...{v:0038}Ha ha ha ha!{p}{v:0085}How amusing! If you want my help, force me to submit!{p}{v:0039}Do that, and my life is yours!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0022",
    "jp": "{v:003A}哀れだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}You're pitiful.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0023",
    "jp": "{v:003B}哀れだと！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Pitiful?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0024",
    "jp": "{v:003C}男なら、自分の道は自分で切り開いてみろ！{p}{v:003D}ヴェンツェルなんかに媚びずにな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}If you're a man, carve out your own path!{p}{v:003D}Without groveling to the likes of Wenzel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0025",
    "jp": "{v:003E}人生は自分で作るものなんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Your life's what you make of it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0026",
    "jp": "{v:003F}だから、何だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}And your point is?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0027",
    "jp": "{v:0040}えっと‥‥。{p}{FC02}{v:0041}とにかく、{n}ヴェンツェルなんかに味方しちゃダメよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Well, um...{p}{FC02}{v:0041}Anyway, you can't side with someone like Wenzel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0028",
    "jp": "{v:0042}負けないわよ！{n}アンタには協力してもらわなくちゃダメなんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}We won't lose! We're going to get you to help us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0029",
@@ -189,278 +216,324 @@
   {
    "id": "scen264.0030",
    "jp": "{v:0043}フン！{n}やってみるがいい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Hmph! You are welcome to try!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0031",
    "jp": "{v:0045}ヴェンツェルは悪い人よ。{n}言いなりになんかならないで！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Wenzel is an evil man. Please don't do his bidding!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0032",
    "jp": "{v:0046}ヴェンツェルはあなたを利用しているだけよ。{n}それに気づいて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Wenzel is only using you. Please, open your eyes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0033",
    "jp": "{v:0047}ゲヴェルの次はヴェンツェルの言いなりか。{n}こりねぇ奴だぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}First you obey Gevel, now Wenzel. You just don't learn!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0034",
    "jp": "{v:0048}全ては私の意志で決めること。{n}誰の指図も受けぬ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}I make all my own decisions. I take orders from{n}no one!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0035",
    "jp": "{v:0049}聞いて下さい！{n}あなたが協力してくれれば{n}ヴェンツェルは倒せるんです！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Please listen! If you help us, we can defeat Wenzel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0036",
    "jp": "{v:004A}ゲヴェルに利用され、{n}今度はヴェンツェルにも利用され、{n}お前はそれで満足なのか？{p}{v:004B}お前さえその気になれば、人間は奴に勝てるんだぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Gevel used you, and now Wenzel is using you too. Are{n}you content with that?{p}{v:004B}If you were willing to help, humanity could defeat him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0037",
    "jp": "{v:004C}その後はどうなる？{p}{v:004D}ヴェンツェルが死ねば、我が肉体は朽ちる。{n}お前は私に死ねというのか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}And what happens then?{p}{v:004D}If Wenzel dies, my body will waste away. Are you telling{n}me to die?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0038",
    "jp": "{v:004E}アンタ、どうしてここにいるのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}What are YOU doing here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0039",
    "jp": "{v:004F}何故、ヴェンツェルについた？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Why did you side with Wenzel?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0040",
    "jp": "{v:0050}どうして敵になっちゃったの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Why have you become our enemy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0041",
    "jp": "{v:0051}どうして国を裏切ったの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Why did you betray your country?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0042",
    "jp": "{v:0052}君はバーンシュタインの騎士だったはずでは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Were you not a knight of Burnstein?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0043",
    "jp": "{v:0053}どうして騎士のあなたが国を裏切るの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}You're a knight. How could you betray your country?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0044",
    "jp": "{v:0054}俺が言えた義理じゃねぇが、{n}裏切りってのは後味悪いもんだぜ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}I'm hardly one to talk, but betrayal leaves a{n}bitter taste.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0045",
    "jp": "{v:0055}どうして、また敵になるんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Why are you fighting against us again?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0046",
    "jp": "{v:0056}お前はエリオットに忠誠を誓ったのではないのか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}Did you not swear allegiance to Elliot?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0047",
    "jp": "{v:0086}私が忠義を尽くすのは、リシャール様だけだ。{p}{v:0057}リシャール様がヴェンツェルに従うなら、{n}私も従うまで。{n}それだけのことだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0086}My loyalty belongs to Richard-sama alone.{p}{v:0057}If Richard-sama follows Wenzel, then so shall I. That{n}is all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0048",
    "jp": "{v:0058}うぐっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Urgh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0049",
    "jp": "{v:0059}リシャール様！{n}お下がり下さい、後は私めが！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Richard-sama! Fall back! Leave the rest to me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0050",
    "jp": "{v:005A}すまんな、ライエル‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Forgive me, Lyell...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0051",
    "jp": "{v:005B}ちょっと、待ちなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Hey! Get back here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0052",
    "jp": "{v:005C}さぁ、約束を守ってもらうわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Now, you're going to keep your promise!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0053",
    "jp": "‥‥{v:005D}何の事かな？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005D}Whatever do you mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0054",
    "jp": "{v:005E}とぼけないでよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}Don't play dumb!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0055",
    "jp": "{v:005F}ヴェンツェル様！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Wenzel-sama!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0056",
    "jp": "{v:0060}グッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}Guh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0057",
    "jp": "{v:0061}大丈夫か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}Are you all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0058",
    "jp": "{v:0062}大丈夫です。{n}まだ戦えます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}I am all right. I can still fight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0059",
    "jp": "{v:0063}無理をするな、アーネスト。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}Do not push yourself, Ernest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0060",
    "jp": "{v:0064}し、しかし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}B-but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0061",
    "jp": "{v:0065}ヴェンツェル様！{n}アーネストをお願いします！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}Wenzel-sama! Please take care of Ernest!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0062",
    "jp": "{v:0066}これでいい。{p}{v:0067}さぁ！{n}遠慮なくかかってくるがいい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}That will do.{p}{v:0067}Now! Come at me with all you have!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0063",
    "jp": "{v:0068}もう戦えないでしょ？{n}無駄な抵抗はしないでよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0068}You can't fight anymore, can you? Don't bother putting{n}up a fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0064",
    "jp": "‥‥{v:0069}抵抗はしない。{p}{v:006A}だが、大人しく捕まる気もない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0069}I will not resist.{p}{v:006A}But I have no intention of letting you capture{n}me, either...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0065",
    "jp": "{v:006B}ああ！？{n}また逃げられちゃった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}What?! He got away again!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0066",
    "jp": "あぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0067",
    "jp": "ふ、不覚‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "I... let my guard down...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0068",
    "jp": "やはり強い‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "So strong... just as I thought...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0069",
    "jp": "きゃああっ！",
-   "en": "",
-   "term": "end"
+   "en": "Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0070",
    "jp": "い、いやよ‥‥{n}こんな死に方なんて‥‥‥",
-   "en": "",
-   "term": "end"
+   "en": "N-no... I don't want to die like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0071",
    "jp": "いや～っ！",
-   "en": "",
-   "term": "end"
+   "en": "Nooo!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0072",
    "jp": "そ、そんなひどい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "H-how could you...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0073",
    "jp": "まだ死にたくない‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I don't want to die yet...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0074",
    "jp": "あぁ‥‥。{n}空が青い‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Ah... The sky is so blue...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen264.0075",
    "jp": "そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It can't be...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

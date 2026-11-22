@@ -15,349 +15,406 @@
   {
    "id": "scen005.0001",
    "jp": "多目的ホール",
-   "en": "",
-   "term": "end"
+   "en": "Multipurpose Hall",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0002",
    "jp": "{v:0029}ここの中にアイリーンさん達がいるんだね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Irene-san and the others are in here, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0003",
    "jp": "{v:002A}そのはずだけど‥‥。{FFF9}{FFFB}{n}{v:002B}静かだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}They should be, but...{FFF9}{FFFB}{v:002B}It's quiet...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0004",
    "jp": "‥‥{v:002C}人の気配がしねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002C}Can't sense anyone in there...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0005",
    "jp": "{v:002D}とにかく調べましょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Let's look around, anyway!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0006",
    "jp": "アンタ、この状況で外へ出る気！？",
-   "en": "",
-   "term": "end"
+   "en": "You're going outside at a time like this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0007",
    "jp": "{v:002E}アイリーンさん！{p}{FC03}‥‥{v:002F}って、誰もいないや‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Irene-san!{p}{FC03}...{v:002F}Wait, there's nobody here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0008",
    "jp": "{v:0030}どうなってやがるんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}What the hell's going on?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0009",
    "jp": "{v:0031}あ、あれ見て、あれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Oh, look! Over there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0010",
    "jp": "‥‥{v:0032}息してないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0032}He's not breathing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0011",
    "jp": "{v:0033}死んでるってこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}You mean he's dead?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0012",
    "jp": "‥‥{v:0034}うん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0034}Yes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0013",
    "jp": "{v:0035}こいつが犯人‥‥って事はねぇだろうな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}This guy couldn't be the culprit... could he?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0014",
    "jp": "{v:0036}この人、見たことある。{n}確か、副学院長の知り合いの人だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}I've seen this man before. I'm pretty sure he knows{n}the Vice Headmaster.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0015",
    "jp": "{v:0037}あ、手に何か握ってる‥‥。{n}ほら、ルイセちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Oh, he's clutching something... Come on, Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0016",
    "jp": "{FFF5}{v:0038}えっ？{n}わたしが取るの？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0038}Huh? You want me to take it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0017",
    "jp": "{v:0039}アタシがどうやって取るってのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}How do you expect ME to get it?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0018",
    "jp": "{v:003A}本当にやるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Do I really have to?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0019",
    "jp": "{v:003B}いいから、さっさとやりなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Oh, just hurry up and do it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0020",
    "jp": "‥‥{v:003C}う～～‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003C}Uuugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0021",
    "jp": "{FFF5}{v:003D}ふえ～ん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:003D}Waaah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0022",
    "jp": "　{n}　　　　　『{FFEF}赤いピアス{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Red Earring{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0023",
    "jp": "{v:003E}お兄ちゃん{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Big Brother{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0024",
    "jp": "男が死んでいる。{n}副学院長の知り合いだそうだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "A man lies dead. Apparently, he knew the{n}Vice Headmaster...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0025",
    "jp": "ここで男が死んでいた。{n}副学院長の知り合いだそうだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "A man lay dead here. Apparently, he knew the{n}Vice Headmaster...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0026",
    "jp": "{v:00F0}何ソレ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F0}What's that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0027",
    "jp": "‥‥{v:003F}ルビーでできた、赤いピアスだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003F}A Red Earring made of ruby...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0028",
    "jp": "{v:0040}この人のってことはないよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}It couldn't be his, could it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0029",
    "jp": "{v:0041}とりあえず、この場で起きたことを{n}推理してみようぜ。{p}{FC00}{v:0042}まず、ここにはグローシアンが{n}保護されていたはずなのに、１人もいない。{n}代わりに男が１人、死んでいた。{p}{v:0043}ここで死んでいる男は、副学院長の知り合いなんだな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Let's try to piece together what happened here.{p}{FC00}{v:0042}First, the Growsians were supposed to be under{n}protection here, but not one is left. Instead, we found{n}a dead man.{p}{v:0043}The dead man knew the Vice Headmaster. That right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0030",
    "jp": "{v:0044}うん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0031",
    "jp": "{v:0045}そして、その男は手に赤いピアスを握っていた。{p}{v:0046}グローシアンをどこかに連れ去った犯人は誰だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}And he was clutching a Red Earring.{p}{v:0046}So who took the Growsians away?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0032",
    "jp": "これらの情報から導き出せる推理は？",
-   "en": "",
-   "term": "end"
+   "en": "What can you deduce from this information?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0033",
    "jp": "・学院長があやしい",
-   "en": "",
+   "en": "・I suspect the Headmaster",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen005.0034",
    "jp": "・副学院長があやしい",
-   "en": "",
+   "en": "・I suspect the Vice Headmaster",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen005.0035",
    "jp": "・この男の仲間が連れ去った",
-   "en": "",
+   "en": "・This man's accomplices took them",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen005.0036",
    "jp": "・ピアスを落とした人が犯人",
-   "en": "",
+   "en": "・Whoever lost the earring did it",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen005.0037",
    "jp": "・グローシアンが反乱を起こした",
-   "en": "",
+   "en": "・The Growsians rebelled",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen005.0038",
    "jp": "{v:0047}えぇっ、どうして！？{n}おじさまは、とってもいい人だよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Whaaat?! Why?! Uncle is such a good person!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0039",
    "jp": "{v:0048}副院長先生なの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}The Vice Headmaster did it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0040",
    "jp": "‥‥{v:0049}確かに否定はできないわね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0049}Well, we certainly can't rule it out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0041",
    "jp": "{v:004A}この人が殺されたときに、{n}犯人の女性からピアスを奪ったんだね？{n}でも、ピアスをしてた人って誰だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}So when this man was killed, he snatched the earring{n}from the woman who did it? But who was wearing{n}an earring?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0042",
    "jp": "{v:004B}でも、いなくなったグローシアンが持ってた{n}ピアスだったら？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}But what if the earring belonged to one of the{n}missing Growsians?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0043",
    "jp": "{v:004C}う～ん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Hmm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0044",
    "jp": "{v:004D}そっか！{p}{v:004E}さらわれたんじゃなくて、{n}自分たちで出ていったのか！{n}で、このピアスはグローシアンの誰かの物なんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Oh, I get it!{p}{v:004E}They weren't kidnapped! They left on their own! And{n}this earring belongs to one of the Growsians!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0045",
    "jp": "‥‥{v:004F}なんだか無理があるような気がする‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004F}That seems like a bit of a stretch...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0046",
    "jp": "‥‥{v:0050}まだ証拠が足りないって事だな。{p}{v:0051}もっと証拠をそろえてみれば、{n}犯人像が浮かび上がってくるだろう。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0050}We still don't have enough evidence, then.{p}{v:0051}Find more, and we should get a clearer picture of who{n}did it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0047",
    "jp": "{v:0052}このピアスは証拠になるかもね。{n}持ってましょ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}This earring might be evidence. Let's hang on to it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0048",
    "jp": "何だか、妙な壁ね？",
-   "en": "",
-   "term": "end"
+   "en": "There's something odd about this wall, isn't there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0049",
    "jp": "調べてみますか？",
-   "en": "",
-   "term": "end"
+   "en": "Examine it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0050",
    "jp": "あ、開いた！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, it opened!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0051",
    "jp": "なだらかに下へくだってるね。{n}どうなってるのかな？",
-   "en": "",
-   "term": "end"
+   "en": "It slopes gently downward. I wonder where it leads?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0052",
    "jp": "でもその前に、みんなの所に戻ろうよ。",
-   "en": "",
-   "term": "end"
+   "en": "But let's go back to the others first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0053",
    "jp": "ここで、おしまいみたいだね。{n}この扉の向こうはどうなってるのかな？",
-   "en": "",
-   "term": "end"
+   "en": "Looks like it ends here. I wonder what's behind{n}this door?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0054",
    "jp": "開けて見ればわかるだろ。",
-   "en": "",
-   "term": "end"
+   "en": "Open it and we'll find out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0055",
    "jp": "あのね、お兄ちゃん。{n}学院の施設内で大きな魔法を使うと、{n}怒られちゃうんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Um, Big Brother... We'll get in trouble if we use powerful{n}magic inside the Academy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0056",
    "jp": "お兄ちゃん、ダメだよ！{n}もう透明になる薬はないんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, don't! We don't have any invisibility potions{n}left, remember?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen005.0057",
    "jp": "とにかく、徹底的に探してみましょ！",
-   "en": "",
-   "term": "end"
+   "en": "Anyway, let's search every last corner!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

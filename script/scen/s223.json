@@ -15,44 +15,51 @@
   {
    "id": "scen223.0001",
    "jp": "盗賊",
-   "en": "",
-   "term": "null"
+   "en": "Bandit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen223.0002",
    "jp": "いきなり何すんのよ！{n}もう～、アッタマ来た！{n}こんな奴ら、やっつけちゃってよね！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! What's the big idea, attacking us out of{n}nowhere?! Now I'm REALLY mad! Beat these jerks up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen223.0003",
    "jp": "こんなにあっさり‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Beaten so easily...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen223.0004",
    "jp": "ま、まぐれだ！{n}まぐれに決まっている‥‥",
-   "en": "",
-   "term": "end"
+   "en": "A-a fluke! It's gotta be a fluke...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen223.0005",
    "jp": "これじゃ、親分に怒られちまう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The boss is gonna be mad at us...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen223.0006",
    "jp": "うげっ！",
-   "en": "",
-   "term": "end"
+   "en": "Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen223.0007",
    "jp": "死んじゃうのか？　俺？",
-   "en": "",
-   "term": "end"
+   "en": "Am I... gonna die?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,134 +15,156 @@
   {
    "id": "scen247.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen247.0002",
    "jp": "バーンシュタイン兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen247.0003",
    "jp": "{FFEE}街の北西で集結しろ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Regroup in the northwest of town!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0004",
    "jp": "やっと着いた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Finally made it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0005",
    "jp": "‥‥ふうっ。",
-   "en": "",
-   "term": "end"
+   "en": "...Whew.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0006",
    "jp": "やれやれ。",
-   "en": "",
-   "term": "end"
+   "en": "Good grief.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0007",
    "jp": "よし、着いたぞ。",
-   "en": "",
-   "term": "end"
+   "en": "All right, we're here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0008",
    "jp": "疲れた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm exhausted...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0009",
    "jp": "‥‥ふへぇ。",
-   "en": "",
-   "term": "end"
+   "en": "...Whewww.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0010",
    "jp": "ったく、やっと着いたぜ。",
-   "en": "",
-   "term": "end"
+   "en": "Damn, we're finally here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0011",
    "jp": "ふぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Phew...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0012",
    "jp": "{v:0004}さすがに敵が多いな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}There are plenty of enemies, all right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0013",
    "jp": "{v:000C}みんな、用意はいいですか？{p}{v:000D}では行きましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Is everyone ready?{p}{v:000D}Then let us go.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0014",
    "jp": "{v:0003}そっちじゃない。{n}城は街の北西だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Not that way. The castle is in the northwest of town!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0015",
    "jp": "ま、まだ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "N-not yet...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0016",
    "jp": "グオォォーッ！",
-   "en": "",
-   "term": "end"
+   "en": "Graaagh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0017",
    "jp": "ガハッ！",
-   "en": "",
-   "term": "end"
+   "en": "Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0018",
    "jp": "グッ！",
-   "en": "",
-   "term": "end"
+   "en": "Gh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0019",
    "jp": "な、なぜ勝てない‥‥",
-   "en": "",
-   "term": "end"
+   "en": "W-why can't I win...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0020",
    "jp": "俺の力は、まだまだこんなものじゃないぞ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "This isn't anywhere near the limit of my strength...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0021",
    "jp": "やるわね‥‥",
-   "en": "",
-   "term": "end"
+   "en": "You're quite good...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen247.0022",
    "jp": "こ、これ程とは‥‥",
-   "en": "",
-   "term": "end"
+   "en": "S-so powerful...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

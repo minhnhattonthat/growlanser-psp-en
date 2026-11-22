@@ -15,116 +15,135 @@
   {
    "id": "scen228.0001",
    "jp": "{FFEE}ルイセを守れ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect Luise!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0002",
    "jp": "{v:0047}どうしてルイセちゃんを狙うの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Why are you after Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0003",
    "jp": "{v:0048}邪魔なんだよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}She's in the way...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0004",
    "jp": "{v:0049}邪魔？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}In the way?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0005",
    "jp": "{v:004A}グローシュを持つ者はな！{n}とくにヤツの持つグローシュは強すぎる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Anyone with Grosh is in the way! And hers is far{n}too strong!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0006",
    "jp": "{v:004B}まさか一連のグローシアン狩りはお前の仕業か！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Are you the one behind all these Growsian hunts?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0007",
    "jp": "{v:004C}さてな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Who knows?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0008",
    "jp": "{v:0053}きゃあっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Aah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0009",
    "jp": "{v:0054}そんな‥‥ルイセちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}No... Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0010",
    "jp": "{v:0055}くっくっくっ！{p}{v:0056}これで我々の邪魔をするものはいなくなったぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Heh heh heh!{p}{v:0056}Now no one remains to stand in our way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0011",
    "jp": "むぅぅ‥‥。{n}無理をしすぎたか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hrrm... Perhaps I pushed myself too hard...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0012",
    "jp": "{v:0057}ぐ‥‥まさか‥{FE1E}‥{FFF9}{FC01}{FE1E}‥{FE1E}‥{FE1E}‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Ugh... Impossible...{FE1E}...{FFF9}{FC01}{FE1E}...{FE1E}...{FE1E}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0013",
    "jp": "{v:0058}ふむ‥‥終わったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Hmm... It is over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0014",
    "jp": "{v:004D}ここか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Is this the place?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0015",
    "jp": "{v:004E}えっ？{n}敵？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Huh? An enemy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0016",
    "jp": "{v:004F}早とちりするでない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Now, now, do not jump to conclusions.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0017",
    "jp": "{v:0050}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0018",
    "jp": "{v:0051}お前ほどのグローシュを持つ者を{n}殺させるわけにはいかん。{n}及ばずながら手助けさせてもらうぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}I cannot let someone with Grosh as powerful as yours{n}be killed. Allow me to offer what help I can, meager as{n}it is.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen228.0019",
    "jp": "{v:0052}くっ！{n}邪魔なじじいめ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Tch! You meddling old fool!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

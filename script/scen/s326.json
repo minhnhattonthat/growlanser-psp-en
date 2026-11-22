@@ -15,8 +15,9 @@
   {
    "id": "scen326.0001",
    "jp": "？？？",
-   "en": "",
-   "term": "null"
+   "en": "???",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen326.0002",
@@ -249,8 +250,9 @@
   {
    "id": "scen326.0040",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen326.0041",
@@ -360,8 +362,9 @@
   {
    "id": "scen326.0058",
    "jp": "どこ行こうか？",
-   "en": "",
-   "term": "end"
+   "en": "Where should I go?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

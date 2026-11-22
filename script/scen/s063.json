@@ -15,518 +15,604 @@
   {
    "id": "scen063.0001",
    "jp": "声",
-   "en": "",
-   "term": "null"
+   "en": "Voice",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen063.0002",
    "jp": "フェザリアン",
-   "en": "",
-   "term": "null"
+   "en": "Featherian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen063.0003",
    "jp": "フェザーランド",
-   "en": "",
-   "term": "end"
+   "en": "Featherland",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0004",
    "jp": "{v:0000}ここがフェザリアンの世界‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}So this is the world of the Featherians...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0005",
    "jp": "{v:0001}こっちだよ。{n}来て！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}This way. Come on!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0006",
    "jp": "貯蔵庫{n}用なき者はあけるべからず",
-   "en": "",
-   "term": "end"
+   "en": "Storehouse. Do not open without good reason.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0007",
    "jp": "‥‥ん？{n}人間の匂いがするぞ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Hmm? I smell humans...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0008",
    "jp": "{v:0002}アリオストさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Ariost-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0009",
    "jp": "{v:0003}ああ、君たち‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Oh, it's you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0010",
    "jp": "‥‥{v:0004}また人間かえ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0004}More humans, eh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0011",
    "jp": "{v:0005}ムッ！{n}なんなの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Hmph! What's that supposed to mean...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0012",
    "jp": "{v:0006}そなたら、いかなる用件でここへ参った？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}What business brings you here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0013",
    "jp": "{v:0007}だから‥‥わたしの母が毒に冒されていて‥‥、{FFF9}{FFFB}{n}{v:0008}わたし達の世界の薬では治らないから‥‥。{p}{v:0009}それで、偉大な知恵を持つ皆さんなら{n}治す方法を知っているのではと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Well... my mother has been poisoned...{FFF9}{FFFB}{v:0008}And none of the{n}medicines in our world can cure her...{p}{v:0009}So we thought that, with your great wisdom, you{n}might know a way to cure her...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0014",
    "jp": "{v:000A}その毒はいかにして受けた？{n}まさか自然に受けたわけではあるまい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}How did she come to be poisoned? Surely it was not by{n}natural causes?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0015",
    "jp": "{FFF5}{v:000B}それは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:000B}Well...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0016",
    "jp": "{v:000C}人間は利己的で、他人を平気で傷つける。{p}{v:000D}治療薬を渡したところで、{n}今度はそれを巡って争いを起こすであろう。{n}かような種族に薬を渡すほど、我らは愚かでない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Humans are selfish and harm others without a{n}second thought.{p}{v:000D}Were we to give you a cure, you would only fight over{n}it next. We are not so foolish as to entrust medicine to{n}such a race.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0017",
    "jp": "{v:000E}そんなっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}But...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0018",
    "jp": "{v:000F}それにその男が己の欲望を満たすためだけに造った{n}飛行装置‥‥。{FFF9}{FFFB}{n}{v:0010}それも、やがて悪用されるであろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}And that flying apparatus this man built solely to{n}satisfy his own desires...{FFF9}{FFFB}{v:0010}That, too, will be put to ill{n}use in time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0019",
    "jp": "{v:0011}そんな、悪用だなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}But... put to ill use...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0020",
    "jp": "{v:0012}異議が、とでも申すか？{n}そなたら人間は、自分の行いが{n}他の者にいかなる影響を与えるかなど、考えもせぬ。{p}{v:0013}それがために幾度となく戦争が{n}起こってきたではないか？{p}{v:0014}しかも、我らフェザリアンにまで{n}被害を与えるほどのな。{p}{v:0015}おかげで我らは地上を捨てざるを得ない状況へ{n}追い込まれ、今のような生活を営むはめになった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Do you claim to disagree? You humans never consider{n}how your actions might affect others.{p}{v:0013}Have countless wars not arisen for that very reason?{p}{v:0014}Wars that have brought harm even to us Featherians.{p}{v:0015}Because of them, we were forced to abandon the{n}surface and live as we do now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0021",
    "jp": "{v:0016}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0022",
    "jp": "{v:0017}わかるかや？{n}愚かな人間よ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Do you understand now, foolish humans...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0023",
    "jp": "{v:0018}だけど、アタシ達は{n}マスターを毒から救ってあげたいだけなのよ？{p}{FC02}{v:0019}毒消しなんて、一回飲んじゃったら、{n}終わりじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}But all we want is to save Master from the poison!{p}{FC02}{v:0019}Once she drinks the antidote, it's gone! That's it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0024",
    "jp": "‥‥‥。{n}{v:001A}ならばこう致そう。{p}{v:001B}そなたら人間が、我らフェザリアンよりも優れている{n}点を、ただ１つでも良いから証明してみせよ。{n}さすれば１回分の解毒剤を与えようぞ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001A}Then let us do this.{p}{v:001B}Prove that you humans surpass us Featherians in even{n}one respect. Do so, and I shall grant you one dose{n}of antidote.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0025",
    "jp": "{v:001C}何だって‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}What...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0026",
    "jp": "{v:001D}それでよいな？{n}さぁ、我の気が変わらぬうちに、{n}即刻地上に帰るがよい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Agreed? Now, return to the surface at once, before I{n}change my mind.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0027",
    "jp": "{v:001E}ムッカ～ッ！{n}何、アレ？{n}頭に来るなぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Arrrgh! What was THAT?! I'm so mad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0028",
    "jp": "{v:001F}ま、仕方ねぇさ。{n}だけど、こっちが優れてるって証明を{n}１つでも立てられればいいんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Well, can't be helped. We just have to prove we're{n}better at one thing, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0029",
    "jp": "{v:0020}どうすればいいんだろう‥‥？{FFF9}{FFFB}{n}{v:0021}どうすればお母さんを助けられるの？{p}‥‥{FFF5}{v:0022}もしダメだったら‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}What should we do...?{FFF9}{FFFB}{v:0021}How can we save Mother?{p}...{FFF5}{v:0022}What if we can't...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0030",
    "jp": "{v:0023}もう、この娘はすぐに悪い方へ考えるんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Honestly! You always assume the worst!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0031",
    "jp": "{FFF5}‥‥{v:0024}ぐすっ。{n}で、でもぉ、どうやって証明したらいいのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:0024}*sniff* B-but... how are we supposed to prove it...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0032",
    "jp": "{v:0025}まずフェザリアンのことを調べて、{n}俺たちとの考え方の違いをしっかり知ることから、{n}始めなきゃならねぇだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}First, we'll have to learn about the Featherians. Get a{n}good grasp of how their thinking differs from ours.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0033",
    "jp": "{v:0000}何だ、お前たちか。{n}今はお前たちに構っている暇はない。{n}早々に立ち去れ！{p}{v:0001}お前たちが来なければ、こんなことには‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Oh, you again. I have no time for you now. Leave{n}at once!{p}{v:0001}Had you never come here, none of this would{n}have happened...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0034",
    "jp": "{v:0002}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0035",
    "jp": "{v:0003}議会の結果が出るぞ。{n}そんな奴ら放っておけ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}The council is about to announce its decision. Leave{n}them be!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0036",
    "jp": "{v:0004}おお！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Ah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0037",
    "jp": "{v:0005}何があったんだろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}I wonder what happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0038",
    "jp": "{v:0006}気になるな。{n}行ってみよう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}I'd like to know. Let's go and see!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0039",
    "jp": "{v:0007}では議会の結果を発表する。{p}{v:0008}被害率が高いと予想されるため、{n}救出は行わない事とする！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}I shall now announce the council's decision.{p}{v:0008}As casualties are expected to be high, no rescue will{n}be attempted!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0040",
    "jp": "{v:0009}やっぱりそうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Just as I thought.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0041",
    "jp": "{v:000A}仕方がないな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}It cannot be helped.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0042",
    "jp": "{v:000B}ああ、仕方がない。{p}{v:000C}さて、持ち場に戻るか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Indeed. It cannot be helped.{p}{v:000C}Well, back to our posts.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0043",
    "jp": "{v:000D}何だ、お前たち。{n}こんなところまで入ってきて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}You! What are you doing all the way in here?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0044",
    "jp": "{v:000E}今の話は何ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}What was that announcement about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0045",
    "jp": "{v:000F}白々しいことを抜かすな。{n}お前たちも奴の仲間だろう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Do not pretend you know nothing. You are{n}his accomplices!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0046",
    "jp": "{v:0010}奴？{n}仲間？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}His...? Accomplices?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0047",
    "jp": "{v:0011}とぼけるな！{n}人間の魔法使いが我が女王をさらっていったのだぞ！{p}{v:0012}お前たちの仲間だろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Do not play dumb! A human mage has abducted{n}our queen!{p}{v:0012}He is one of your companions, is he not?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0048",
    "jp": "{v:0013}女王様がさらわれた？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}The queen was abducted?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0049",
    "jp": "{v:0014}そうだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0050",
    "jp": "{v:0015}それで、どうするのぉ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Sooo, what are you going to do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0051",
    "jp": "{v:0016}それで、とは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}What do you mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0052",
    "jp": "{v:0017}助けないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Aren't you going to save her?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0053",
    "jp": "{v:0018}何故だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Why?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0054",
    "jp": "{v:0019}なぜって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Why...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0055",
    "jp": "{v:001A}もし我々が救出に向かえば、{n}人間との間に争いが起こるであろう。{n}そして犠牲者も出るはずだ。{p}{v:001B}女王は別の者がなればよいが、もし戦死者でも出せば、{n}ことはそれだけでは済まない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}If we attempt a rescue, it will lead to conflict with{n}humans. There will surely be casualties.{p}{v:001B}Another can take her place as queen, but if lives are{n}lost in battle, the matter will not end there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0056",
    "jp": "{v:001C}それが合理的だというのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}And you call that rational?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0057",
    "jp": "{v:001D}そうだ。{p}{v:001E}確かに今の女王は良くできた方だ。{n}あの方の代わりはそうそういまい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Yes.{p}{v:001E}Our queen is certainly an exceptional ruler. Few could{n}take her place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0058",
    "jp": "{v:001F}だったら、どうして助けないんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Then why won't you save her?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0059",
    "jp": "{v:0032}言っただろう。{p}{v:0020}同じではないにしろ代わりはいる。{n}助けだそうとすれば、他の者まで巻き込むことになる。{n}犠牲者は一人で十分だ。{p}{v:0021}それよりも早く帰るがいい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}I have already told you.{p}{v:0020}Her replacement may not be her equal, but a{n}replacement exists. Attempting a rescue would{n}endanger others as well. One victim is enough.{p}{v:0021}Now, leave at once.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0060",
    "jp": "{v:0022}待ってください！{n}最後に１つだけ聞かせてください！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Please wait! Let me ask just one last question!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0061",
    "jp": "{v:0023}何だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0062",
    "jp": "{v:0024}僕の母さんはどこですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Where is my mother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0063",
    "jp": "{v:0025}お前の母だと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Your mother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0064",
    "jp": "{v:0026}はい。{n}僕の中にはあなた達と同じ血が半分流れています。{p}{v:0027}最初に僕がここへ来たのも、{n}母さんに会いたかったからです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Yes. Half the blood in my veins is the same as yours.{p}{v:0027}I first came here because I wanted to see my mother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0065",
    "jp": "{v:0028}そうか、お前がジーナの息子なのか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}I see. You are Gina's son.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0066",
    "jp": "{v:0029}教えてください！{n}母さんは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Please tell me! My mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0067",
    "jp": "{v:002A}あいつは我々の掟を破り、人間と暮らした。{n}だが、まだその非を認めないために、{n}２０年も反省室にいる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}She broke our laws and lived with a human. She still{n}refuses to admit her wrongdoing, so she has spent{n}twenty years in the Reflection Room.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0068",
    "jp": "{v:002B}では、生きているのですね？{n}お願いです。会わせてください。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Then she is alive? Please, let me see her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0069",
    "jp": "{v:002C}それは出来ん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}That is not possible.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0070",
    "jp": "{v:002D}そんな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}But...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0071",
    "jp": "{v:002E}ええい、しつこい！{n}さっさと帰れ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Enough! Stop pestering me and leave!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0072",
    "jp": "{v:0000}は、女王様！{n}よくご無事で！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Y-Your Majesty! You are safe!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0073",
    "jp": "{v:0001}心配かけたな。{p}{v:0002}この者たちに助けられた。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}I have caused you concern.{p}{v:0002}These people rescued me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0074",
    "jp": "{v:0003}皆に知らせて参ります！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}I shall inform everyone at once!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0075",
    "jp": "{v:0004}お帰りなさいませ、女王。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Welcome home, Your Majesty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0076",
    "jp": "{v:0005}すまなかったな、みんな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}My apologies to you all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0077",
    "jp": "{v:0006}ご無事で何よりです！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}We are relieved to see you safe!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0078",
    "jp": "{v:0007}何を言ってやがる！{n}俺たちが助けなかったら、{n}女王様は死んでいたかも知れないんだぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}What the hell are you saying?! Your queen might be{n}dead if we hadn't rescued her!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0079",
    "jp": "{v:0008}そうだ、そうだ！{n}調子が良すぎるぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Yeah, exactly! You sure changed your tune!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0080",
    "jp": "{v:0009}そ、それは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}W-well...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0081",
    "jp": "{v:000A}それとも俺たちが助け出してくれるなんて、{n}甘い考えをしていたんじゃねぇだろうな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Or were you just sitting there hoping we'd rescue her{n}for you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0082",
    "jp": "{v:000B}そ、そんなことはない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}O-of course not!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0083",
    "jp": "{v:000C}元はと言えばお前たち人間が{n}女王をさらったのがはじまりだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}It was you humans who abducted our queen in the{n}first place!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0084",
    "jp": "{v:000D}だからって、見捨てていいの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}So that makes it all right to abandon her?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0085",
    "jp": "‥‥‥{v:000E}くっ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000E}Ghh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0086",
    "jp": "{v:000F}もうやめるのだ。{p}{v:0010}価値観の違う者同士が言い争っても接点はあるまい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Enough.{p}{v:0010}Those with different values will find no common ground{n}by arguing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0087",
@@ -537,365 +623,425 @@
   {
    "id": "scen063.0088",
    "jp": "{v:0012}女王‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Your Majesty...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0089",
    "jp": "{v:0013}おい、例の物をもて。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}You there. Bring me the item.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0090",
    "jp": "{v:0014}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}At once!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0091",
    "jp": "　{n}　　　　『{FFEF}フェザリアンの薬{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Featherian Cure{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0092",
    "jp": "{v:0015}借りは返す。{n}これで良かろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}I repay my debts. Will this suffice?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0093",
    "jp": "{v:0016}やったぁ★{n}これでマスターが助かるね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Yaaay! Now we can save Master!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0094",
    "jp": "{v:0017}うん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Yes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0095",
    "jp": "{v:0018}よかったね、ルイセちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}I'm so glad, Luise-chan.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0096",
    "jp": "{v:0019}あの、母さんに会わせてください。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Um, please let me see my mother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0097",
    "jp": "{v:001A}それは出来ぬ。{n}我々は彼女が過ちを認めるのを待っている。{n}今そなたが彼女の前に出ていっては、逆効果である。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}That I cannot allow. We are waiting for her to admit her{n}wrongdoing. Your presence now would only{n}hinder that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0098",
    "jp": "{v:001B}そんな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}But...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0099",
    "jp": "{v:001C}そなたらが本当に我々より優れていると証明すれば、{n}彼女に会わせるだけでなく、彼女を自由にしよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}If you prove that you truly surpass us, I shall not only{n}let you see her, but grant her freedom.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0100",
    "jp": "{v:001D}どうやら、まだ信じてはもらえていないらしいな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Seems we still haven't convinced you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0101",
    "jp": "‥‥{v:001E}わかりました。{p}{FC02}{v:001F}絶対に、認めさせてみせます！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001E}I understand.{p}{FC02}{v:001F}I'll make you acknowledge us. I promise!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0102",
    "jp": "母のもとへ",
-   "en": "",
-   "term": "end"
+   "en": "Back to Mother",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0103",
    "jp": "ちょっと！{n}この状況で、どこへ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going at a time{n}like this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0104",
    "jp": "フェザリアンの生態調査",
-   "en": "",
-   "term": "end"
+   "en": "Studying Featherian Life",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0105",
    "jp": "{FFF3}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0106",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0107",
    "jp": "・心配する",
-   "en": "",
+   "en": "・Show concern",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen063.0108",
    "jp": "・気にしすぎないよう慰める",
-   "en": "",
+   "en": "・Comfort him so he won't worry so much",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen063.0109",
    "jp": "・母親に会えたかたずねる",
-   "en": "",
+   "en": "・Ask if he saw his mother",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen063.0110",
    "jp": "{v:0028}ああ、ありがとう‥‥。{FFF9}{FFFB}{n}{v:0029}だけど、母さんには‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Yes, thank you...{FFF9}{FFFB}{v:0029}But my mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0111",
    "jp": "{v:002A}ああ‥‥。{FFF9}{FFFB}{n}{v:002B}だけどやっぱり気になるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Yes...{FFF9}{FFFB}{v:002B}But I still can't stop thinking about it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0112",
    "jp": "{v:002C}いいや‥‥。{FFF9}{FFFB}{n}{v:002D}会えないよ‥‥会えるもんか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}No...{FFF9}{FFFB}{v:002D}I can't see her... How could I...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0113",
    "jp": "{FFF3}‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0114",
    "jp": "{v:002E}僕は母さんに会うために研究をしたのに‥‥。{p}{v:002F}それが‥‥その行為自体が{n}間違えていただなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}I did all that research so I could see my mother...{p}{v:002F}And now... to be told that doing it was wrong in itself...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0115",
    "jp": "‥‥{v:0030}冷たいようだが、{n}いつまでもこうしていたところで、{n}事態は好転しないぞ。{p}{v:0031}一度戻って、今後の事を考えようじゃないか。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0030}This may sound cold, but sitting here forever won't{n}make things any better.{p}{v:0031}Let's head back and think about what to do next.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0116",
    "jp": "‥‥{v:0032}彼らのことなら、{n}色々と書物を調べてみると、いいかもね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0032}If we want to learn about them, we could try looking{n}through some books.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0117",
    "jp": "{v:0033}ああ、そうだな。{n}大抵のことならそれでわかるだろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Yeah, that's right. We should find out most of what we{n}need that way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0118",
    "jp": "{v:0034}本がいっぱいある場所かぁ。{n}退屈そう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Somewhere full of books, huh? Sounds boring...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0119",
    "jp": "　{n}　　　　{FFEF}アリオストが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Ariost joined as a companion!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0120",
    "jp": "女王のことには礼を言う。{p}だが、私はお前たちのことは認めていないからな！",
-   "en": "",
-   "term": "end"
+   "en": "I thank you for helping the queen.{p}But I still do not accept you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0121",
    "jp": "女王をさらっておきながら{n}よくもここへ来れたものだな！",
-   "en": "",
-   "term": "end"
+   "en": "You abducted our queen, and yet you dare come here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0122",
    "jp": "人間は早く帰れ！",
-   "en": "",
-   "term": "end"
+   "en": "You humans! Leave at once!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0123",
    "jp": "お前たちには我らを説き伏せることは無理だ。{p}‥‥ジーナを救いたくば、{n}その無理を何とかすることだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "You could never persuade us.{p}...If you wish to save Gina, you will have to find a way{n}to do the impossible...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0124",
    "jp": "だから人間は信じられぬのだ！",
-   "en": "",
-   "term": "end"
+   "en": "This is precisely why humans cannot be trusted!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0125",
    "jp": "この地を人間で汚す気か！",
-   "en": "",
-   "term": "end"
+   "en": "Do you intend to defile this land with humans?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0126",
    "jp": "‥‥お前たち人間に売る物はない。{n}さっさと帰れ！",
-   "en": "",
-   "term": "end"
+   "en": "...I have nothing to sell to you humans. Leave at once!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0127",
    "jp": "お前たちのことを、少しは認めてやろう。{p}だが、勘違いするな。{n}私は人間を認めたわけではないからな！",
-   "en": "",
-   "term": "end"
+   "en": "I will grant you some measure of respect.{p}But do not misunderstand. I have not{n}accepted humanity!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0128",
    "jp": "ここはお前たちが来られるような場所ではない！{n}早々に立ち去れ！",
-   "en": "",
-   "term": "end"
+   "en": "This is no place for the likes of you! Leave{n}immediately!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0129",
    "jp": "お前たちも、我らに認めて貰いたくば{n}それを証明できるものを持ってくることだな！",
-   "en": "",
-   "term": "end"
+   "en": "If you wish to earn our recognition, bring us something{n}that proves you deserve it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0130",
    "jp": "人間が起こした不祥事を{n}人間が収拾したに過ぎぬ。{n}‥‥当然のことだろう。",
-   "en": "",
-   "term": "end"
+   "en": "Humans have merely resolved a disgraceful affair of{n}their own making. ...Surely that is only to be expected.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0131",
    "jp": "人間の身勝手さに、我々は嫌悪を感じる。",
-   "en": "",
-   "term": "end"
+   "en": "We find human selfishness repugnant.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0132",
    "jp": "お前たちなら、あるいは‥‥。{p}いや、なんでもない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Perhaps you could...{p}No, it is nothing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0133",
    "jp": "お前たちとは、永遠に仲違えることだろうな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It seems we shall forever be at odds with you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0134",
    "jp": "ダメだよ、お兄ちゃん。{n}ちゃんと考えてから、指示してね。",
-   "en": "",
-   "term": "end"
+   "en": "That won't do, Big Brother. Please think it through{n}before you give us instructions.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0135",
    "jp": "どうした？{n}精神力が切れて、地上に帰れなくなったのか？",
-   "en": "",
-   "term": "end"
+   "en": "What is wrong? Has your mental energy run out, leaving{n}you unable to return to the surface?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0136",
    "jp": "ならば、そこの石像を{n}正面から調べてみるんだな。{p}お前たちの中にグローシアンが居るならば、{n}何かが起こるはずだ。",
-   "en": "",
-   "term": "end"
+   "en": "Then examine that stone statue from the front.{p}If there is a Growsian among you, something{n}should happen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0137",
    "jp": "ならばさっさと帰ることだ。",
-   "en": "",
-   "term": "end"
+   "en": "Then be on your way at once.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0138",
    "jp": "武力、魔力‥‥。{p}そのようなものがあったからこそ、{n}我らは違う道を歩んだのかも知れぬな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Might, magic...{p}Perhaps it was precisely because such powers existed{n}that we took different paths...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0139",
    "jp": "ジーナ‥‥。{p}ヤツは我らと違い人間を好いている‥‥。{n}何故だ？{n}私には理解できぬ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Gina...{p}Unlike us, she is fond of humans... Why? I cannot{n}understand it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0140",
    "jp": "なんだ？",
-   "en": "",
-   "term": "end"
+   "en": "What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0141",
    "jp": "に、人間！？{n}しかも左右の目の色が違う！？{n}ふ、不吉だ！",
-   "en": "",
-   "term": "end"
+   "en": "A-a human?! And your eyes are different colors?! A-an{n}ill omen!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0142",
    "jp": "ここは禁を破った者が反省をする部屋だ。",
-   "en": "",
-   "term": "end"
+   "en": "This is the room where those who break our laws{n}reflect on their actions.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0143",
    "jp": "今はジーナという者が一人で入っている。",
-   "en": "",
-   "term": "end"
+   "en": "At present, a woman named Gina is its sole occupant.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0144",
    "jp": "ここに母さんが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Mother is in here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0145",
    "jp": "いつまでもウロウロしてるんじゃないの！",
-   "en": "",
-   "term": "end"
+   "en": "Stop wandering around already!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0146",
    "jp": "反省室",
-   "en": "",
-   "term": "end"
+   "en": "Reflection Room",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen063.0147",
    "jp": "不思議な力で、魔法の効力は失われた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "A mysterious power dispelled the magic...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,50 +15,58 @@
   {
    "id": "boot.units.0001",
    "jp": "ルイセ",
-   "en": "",
-   "term": "null"
+   "en": "Luise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0002",
    "jp": "ウォレス",
-   "en": "",
-   "term": "null"
+   "en": "Wallace",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0003",
    "jp": "アリオスト",
-   "en": "",
-   "term": "null"
+   "en": "Ariost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0004",
    "jp": "エリオット",
-   "en": "",
-   "term": "null"
+   "en": "Elliot",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0005",
    "jp": "ゼノス",
-   "en": "",
-   "term": "null"
+   "en": "Xenos",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0006",
    "jp": "ミーシャ",
-   "en": "",
-   "term": "null"
+   "en": "Misha",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0007",
    "jp": "カレン",
-   "en": "",
-   "term": "null"
+   "en": "Karen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0008",
    "jp": "ジュリアン",
-   "en": "",
-   "term": "null"
+   "en": "Julian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0009",
@@ -69,8 +77,9 @@
   {
    "id": "boot.units.0010",
    "jp": "リシャール",
-   "en": "",
-   "term": "null"
+   "en": "Richard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0011",
@@ -81,14 +90,16 @@
   {
    "id": "boot.units.0012",
    "jp": "ジュリア",
-   "en": "",
-   "term": "null"
+   "en": "Julia",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0013",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0014",
@@ -99,1682 +110,1962 @@
   {
    "id": "boot.units.0015",
    "jp": "アルカディウス王",
-   "en": "",
-   "term": "null"
+   "en": "King Alcadius",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0016",
    "jp": "サンドラ",
-   "en": "",
-   "term": "null"
+   "en": "Sandra",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0017",
    "jp": "送魔線技師",
-   "en": "",
-   "term": "null"
+   "en": "Mana Line Engineer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0018",
    "jp": "ブラッドレー副学院長",
-   "en": "",
-   "term": "null"
+   "en": "Vice Headmaster Bradley",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0019",
    "jp": "アイリーン",
-   "en": "",
-   "term": "null"
+   "en": "Irene",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0020",
    "jp": "レティシア姫",
-   "en": "",
-   "term": "null"
+   "en": "Princess Leticia",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0021",
    "jp": "王母アンジェラ",
-   "en": "",
-   "term": "null"
+   "en": "Queen Mother Angela",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0022",
    "jp": "女王ステラ",
-   "en": "",
-   "term": "null"
+   "en": "Queen Stella",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0023",
    "jp": "オスカー・リーヴス",
-   "en": "",
-   "term": "null"
+   "en": "Oscar Reeves",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0024",
    "jp": "アーネスト・ライエル",
-   "en": "",
-   "term": "null"
+   "en": "Ernest Lyell",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0025",
    "jp": "リシャール王",
-   "en": "",
-   "term": "null"
+   "en": "King Richard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0026",
    "jp": "ガムラン",
-   "en": "",
-   "term": "null"
+   "en": "Gamlan",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0027",
    "jp": "ベルナード将軍",
-   "en": "",
-   "term": "null"
+   "en": "General Bernard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0028",
    "jp": "ブロンソン将軍",
-   "en": "",
-   "term": "null"
+   "en": "General Bronson",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0029",
    "jp": "ウェーバー将軍",
-   "en": "",
-   "term": "null"
+   "en": "General Weber",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0030",
    "jp": "ヴェンツェル",
-   "en": "",
-   "term": "null"
+   "en": "Wenzel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0031",
    "jp": "変身ヴェンツェル",
-   "en": "",
-   "term": "null"
+   "en": "Transformed Wenzel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0032",
    "jp": "シエラ",
-   "en": "",
-   "term": "null"
+   "en": "Sierra",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0033",
    "jp": "ベルガー",
-   "en": "",
-   "term": "null"
+   "en": "Berger",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0034",
    "jp": "エリオット父",
-   "en": "",
-   "term": "null"
+   "en": "Elliot's Father",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0035",
    "jp": "エリオット母",
-   "en": "",
-   "term": "null"
+   "en": "Elliot's Mother",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0036",
    "jp": "父親",
-   "en": "",
-   "term": "null"
+   "en": "Father",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0037",
    "jp": "母親",
-   "en": "",
-   "term": "null"
+   "en": "Mother",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0038",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0039",
    "jp": "旅人１",
-   "en": "",
-   "term": "null"
+   "en": "Traveler 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0040",
    "jp": "旅人２",
-   "en": "",
-   "term": "null"
+   "en": "Traveler 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0041",
    "jp": "侍女１",
-   "en": "",
-   "term": "null"
+   "en": "Lady-in-Waiting 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0042",
    "jp": "侍女２",
-   "en": "",
-   "term": "null"
+   "en": "Lady-in-Waiting 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0043",
    "jp": "侍女３",
-   "en": "",
-   "term": "null"
+   "en": "Lady-in-Waiting 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0044",
    "jp": "侍女４",
-   "en": "",
-   "term": "null"
+   "en": "Lady-in-Waiting 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0045",
    "jp": "侍女５",
-   "en": "",
-   "term": "null"
+   "en": "Lady-in-Waiting 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0046",
    "jp": "オヤジ",
-   "en": "",
-   "term": "null"
+   "en": "Old Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0047",
    "jp": "看護婦長",
-   "en": "",
-   "term": "null"
+   "en": "Head Nurse",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0048",
    "jp": "看護婦１",
-   "en": "",
-   "term": "null"
+   "en": "Nurse 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0049",
    "jp": "看護婦２",
-   "en": "",
-   "term": "null"
+   "en": "Nurse 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0050",
    "jp": "看護婦３",
-   "en": "",
-   "term": "null"
+   "en": "Nurse 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0051",
    "jp": "看護婦４",
-   "en": "",
-   "term": "null"
+   "en": "Nurse 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0052",
    "jp": "看護婦５",
-   "en": "",
-   "term": "null"
+   "en": "Nurse 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0053",
    "jp": "患者",
-   "en": "",
-   "term": "null"
+   "en": "Patient",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0054",
    "jp": "医者１",
-   "en": "",
-   "term": "null"
+   "en": "Doctor 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0055",
    "jp": "医者２",
-   "en": "",
-   "term": "null"
+   "en": "Doctor 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0056",
    "jp": "店員１",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0057",
    "jp": "店員２",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0058",
    "jp": "店員３",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0059",
    "jp": "店員４",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0060",
    "jp": "マクスウェル学院長",
-   "en": "",
-   "term": "null"
+   "en": "Headmaster Maxwell",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0061",
    "jp": "ブラッドレー学院長",
-   "en": "",
-   "term": "null"
+   "en": "Headmaster Bradley",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0062",
    "jp": "学院長秘書",
-   "en": "",
-   "term": "null"
+   "en": "Headmaster's Secretary",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0063",
    "jp": "副学院長秘書",
-   "en": "",
-   "term": "null"
+   "en": "Vice Headmaster's Aide",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0064",
    "jp": "教授１",
-   "en": "",
-   "term": "null"
+   "en": "Professor 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0065",
    "jp": "教授２",
-   "en": "",
-   "term": "null"
+   "en": "Professor 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0066",
    "jp": "教授３",
-   "en": "",
-   "term": "null"
+   "en": "Professor 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0067",
    "jp": "教授４",
-   "en": "",
-   "term": "null"
+   "en": "Professor 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0068",
    "jp": "教授５",
-   "en": "",
-   "term": "null"
+   "en": "Professor 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0069",
    "jp": "魔法学院生徒１",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0070",
    "jp": "魔法学院生徒２",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0071",
    "jp": "魔法学院生徒３",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0072",
    "jp": "魔法学院生徒４",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0073",
    "jp": "魔法学院生徒５",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0074",
    "jp": "魔法学院生徒６",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0075",
    "jp": "魔法学院生徒７",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0076",
    "jp": "魔法学院生徒８",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0077",
    "jp": "魔法学院生徒９",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student 9",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0078",
    "jp": "魔導技師",
-   "en": "",
-   "term": "null"
+   "en": "Magitech Engineer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0079",
    "jp": "エレナ",
-   "en": "",
-   "term": "null"
+   "en": "Elena",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0080",
    "jp": "レダ",
-   "en": "",
-   "term": "null"
+   "en": "Leda",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0081",
    "jp": "好事家",
-   "en": "",
-   "term": "null"
+   "en": "Enthusiast",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0082",
    "jp": "作業員１",
-   "en": "",
-   "term": "null"
+   "en": "Worker 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0083",
    "jp": "作業員２",
-   "en": "",
-   "term": "null"
+   "en": "Worker 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0084",
    "jp": "番兵１",
-   "en": "",
-   "term": "null"
+   "en": "Sentry 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0085",
    "jp": "兵士１",
-   "en": "",
-   "term": "null"
+   "en": "Soldier 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0086",
    "jp": "警備兵１",
-   "en": "",
-   "term": "null"
+   "en": "Guard 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0087",
    "jp": "警備兵２",
-   "en": "",
-   "term": "null"
+   "en": "Guard 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0088",
    "jp": "警備兵３",
-   "en": "",
-   "term": "null"
+   "en": "Guard 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0089",
    "jp": "警備兵４",
-   "en": "",
-   "term": "null"
+   "en": "Guard 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0090",
    "jp": "盗掘者１",
-   "en": "",
-   "term": "null"
+   "en": "Tomb Raider 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0091",
    "jp": "盗掘者２",
-   "en": "",
-   "term": "null"
+   "en": "Tomb Raider 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0092",
    "jp": "盗掘者３",
-   "en": "",
-   "term": "null"
+   "en": "Tomb Raider 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0093",
    "jp": "盗掘者４",
-   "en": "",
-   "term": "null"
+   "en": "Tomb Raider 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0094",
    "jp": "盗掘者５",
-   "en": "",
-   "term": "null"
+   "en": "Tomb Raider 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0095",
    "jp": "盗掘者６",
-   "en": "",
-   "term": "null"
+   "en": "Tomb Raider 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0096",
    "jp": "開催責任者",
-   "en": "",
-   "term": "null"
+   "en": "Event Organizer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0097",
    "jp": "パートナー",
-   "en": "",
-   "term": "null"
+   "en": "Partner",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0098",
    "jp": "闘技大会参加者１",
-   "en": "",
-   "term": "null"
+   "en": "Tournament Participant 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0099",
    "jp": "闘技大会参加者２",
-   "en": "",
-   "term": "null"
+   "en": "Tournament Participant 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0100",
    "jp": "闘技大会参加者３",
-   "en": "",
-   "term": "null"
+   "en": "Tournament Participant 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0101",
    "jp": "闘技大会参加者４",
-   "en": "",
-   "term": "null"
+   "en": "Tournament Participant 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0102",
    "jp": "闘技大会参加者５",
-   "en": "",
-   "term": "null"
+   "en": "Tournament Participant 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0103",
    "jp": "闘技大会参加者６",
-   "en": "",
-   "term": "null"
+   "en": "Tournament Participant 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0104",
    "jp": "闘技大会参加者７",
-   "en": "",
-   "term": "null"
+   "en": "Tournament Contestant 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0105",
    "jp": "闘技大会参加者８",
-   "en": "",
-   "term": "null"
+   "en": "Tournament Contestant 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0106",
    "jp": "ローランディア軍司令官",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Army Commander",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0107",
    "jp": "ローランディア兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0108",
    "jp": "ローランディア兵１",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0109",
    "jp": "ローランディア兵２",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0110",
    "jp": "ローランディア兵３",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0111",
    "jp": "ローランディア兵４",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0112",
    "jp": "ローランディア兵５",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0113",
    "jp": "ローランディア兵６",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0114",
    "jp": "ローランディア兵７",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0115",
    "jp": "ローランディア兵８",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0116",
    "jp": "ローランディア兵９",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier 9",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0117",
    "jp": "ローランディア兵１０",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier 10",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0118",
    "jp": "輸送兵長",
-   "en": "",
-   "term": "null"
+   "en": "Transport Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0119",
    "jp": "輸送兵１",
-   "en": "",
-   "term": "null"
+   "en": "Transport Soldier 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0120",
    "jp": "輸送兵２",
-   "en": "",
-   "term": "null"
+   "en": "Transport Soldier 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0121",
    "jp": "輸送用動物１",
-   "en": "",
-   "term": "null"
+   "en": "Pack Animal 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0122",
    "jp": "輸送用動物２",
-   "en": "",
-   "term": "null"
+   "en": "Pack Animal 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0123",
    "jp": "輸送用動物３",
-   "en": "",
-   "term": "null"
+   "en": "Pack Animal 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0124",
    "jp": "輸送用動物４",
-   "en": "",
-   "term": "null"
+   "en": "Pack Animal 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0125",
    "jp": "輸送用動物５",
-   "en": "",
-   "term": "null"
+   "en": "Pack Animal 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0126",
    "jp": "バーンシュタイン軍司令官",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Army Commander",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0127",
    "jp": "バーンシュタイン兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0128",
    "jp": "バーンシュタイン兵１",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0129",
    "jp": "バーンシュタイン兵２",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0130",
    "jp": "バーンシュタイン兵３",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0131",
    "jp": "バーンシュタイン兵４",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0132",
    "jp": "バーンシュタイン兵５",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0133",
    "jp": "バーンシュタイン兵６",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0134",
    "jp": "バーンシュタイン兵７",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0135",
    "jp": "バーンシュタイン兵８",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0136",
    "jp": "バーンシュタイン兵９",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 9",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0137",
    "jp": "バーンシュタイン兵１０",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 10",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0138",
    "jp": "バーンシュタイン兵１１",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 11",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0139",
    "jp": "バーンシュタイン兵１２",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 12",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0140",
    "jp": "バーンシュタイン兵１３",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier 13",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0141",
    "jp": "ランザック軍司令官",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Army Commander",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0142",
    "jp": "ランザック兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0143",
    "jp": "ランザック兵１",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0144",
    "jp": "ランザック兵２",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0145",
    "jp": "ランザック兵３",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0146",
    "jp": "ランザック兵４",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0147",
    "jp": "ランザック兵５",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0148",
    "jp": "ランザック兵６",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0149",
    "jp": "ランザック兵７",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0150",
    "jp": "ランザック兵８",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0151",
    "jp": "ランザック兵９",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 9",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0152",
    "jp": "ランザック兵１０",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 10",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0153",
    "jp": "ランザック兵１１",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 11",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0154",
    "jp": "ランザック兵１２",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 12",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0155",
    "jp": "ランザック兵１３",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier 13",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0156",
    "jp": "村長",
-   "en": "",
-   "term": "null"
+   "en": "Village Chief",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0157",
    "jp": "村人１",
-   "en": "",
-   "term": "null"
+   "en": "Villager 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0158",
    "jp": "村人２",
-   "en": "",
-   "term": "null"
+   "en": "Villager 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0159",
    "jp": "村人３",
-   "en": "",
-   "term": "null"
+   "en": "Villager 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0160",
    "jp": "村人４",
-   "en": "",
-   "term": "null"
+   "en": "Villager 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0161",
    "jp": "村人５",
-   "en": "",
-   "term": "null"
+   "en": "Villager 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0162",
    "jp": "村人６",
-   "en": "",
-   "term": "null"
+   "en": "Villager 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0163",
    "jp": "村人７",
-   "en": "",
-   "term": "null"
+   "en": "Villager 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0164",
    "jp": "村人８",
-   "en": "",
-   "term": "null"
+   "en": "Villager 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0165",
    "jp": "村人９",
-   "en": "",
-   "term": "null"
+   "en": "Villager 9",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0166",
    "jp": "村人１０",
-   "en": "",
-   "term": "null"
+   "en": "Villager 10",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0167",
    "jp": "市民１",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0168",
    "jp": "市民２",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0169",
    "jp": "市民３",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0170",
    "jp": "市民４",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0171",
    "jp": "市民５",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0172",
    "jp": "市民６",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0173",
    "jp": "市民７",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0174",
    "jp": "市民８",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0175",
    "jp": "市民９",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 9",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0176",
    "jp": "市民１０",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 10",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0177",
    "jp": "市民１１",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 11",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0178",
    "jp": "市民１２",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 12",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0179",
    "jp": "市民１３",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 13",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0180",
    "jp": "市民１４",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 14",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0181",
    "jp": "市民１５",
-   "en": "",
-   "term": "null"
+   "en": "Citizen 15",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0182",
    "jp": "子供１",
-   "en": "",
-   "term": "null"
+   "en": "Child 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0183",
    "jp": "子供２",
-   "en": "",
-   "term": "null"
+   "en": "Child 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0184",
    "jp": "子供３",
-   "en": "",
-   "term": "null"
+   "en": "Child 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0185",
    "jp": "子供４",
-   "en": "",
-   "term": "null"
+   "en": "Child 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0186",
    "jp": "オズワルド",
-   "en": "",
-   "term": "null"
+   "en": "Oswald",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0187",
    "jp": "盗賊頭",
-   "en": "",
-   "term": "null"
+   "en": "Bandit Leader",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0188",
    "jp": "盗賊１",
-   "en": "",
-   "term": "null"
+   "en": "Bandit 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0189",
    "jp": "盗賊２",
-   "en": "",
-   "term": "null"
+   "en": "Bandit 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0190",
    "jp": "盗賊３",
-   "en": "",
-   "term": "null"
+   "en": "Bandit 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0191",
    "jp": "盗賊４",
-   "en": "",
-   "term": "null"
+   "en": "Bandit 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0192",
    "jp": "盗賊５",
-   "en": "",
-   "term": "null"
+   "en": "Bandit 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0193",
    "jp": "盗賊６",
-   "en": "",
-   "term": "null"
+   "en": "Bandit 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0194",
    "jp": "盗賊７",
-   "en": "",
-   "term": "null"
+   "en": "Bandit 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0195",
    "jp": "盗賊８",
-   "en": "",
-   "term": "null"
+   "en": "Bandit 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0196",
    "jp": "覆面の男１",
-   "en": "",
-   "term": "null"
+   "en": "Masked Man 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0197",
    "jp": "覆面の男２",
-   "en": "",
-   "term": "null"
+   "en": "Masked Man 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0198",
    "jp": "覆面の男３",
-   "en": "",
-   "term": "null"
+   "en": "Masked Man 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0199",
    "jp": "覆面の男４",
-   "en": "",
-   "term": "null"
+   "en": "Masked Man 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0200",
    "jp": "覆面の男５",
-   "en": "",
-   "term": "null"
+   "en": "Masked Man 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0201",
    "jp": "覆面の男６",
-   "en": "",
-   "term": "null"
+   "en": "Masked Man 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0202",
    "jp": "覆面の男７",
-   "en": "",
-   "term": "null"
+   "en": "Masked Man 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0203",
    "jp": "仮面騎士１",
-   "en": "",
-   "term": "null"
+   "en": "Masked Knight 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0204",
    "jp": "仮面騎士２",
-   "en": "",
-   "term": "null"
+   "en": "Masked Knight 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0205",
    "jp": "仮面騎士３",
-   "en": "",
-   "term": "null"
+   "en": "Masked Knight 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0206",
    "jp": "仮面騎士４",
-   "en": "",
-   "term": "null"
+   "en": "Masked Knight 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0207",
    "jp": "仮面騎士５",
-   "en": "",
-   "term": "null"
+   "en": "Masked Knight 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0208",
    "jp": "ユング１",
-   "en": "",
-   "term": "null"
+   "en": "Jung 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0209",
    "jp": "ユング２",
-   "en": "",
-   "term": "null"
+   "en": "Jung 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0210",
    "jp": "ユング３",
-   "en": "",
-   "term": "null"
+   "en": "Jung 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0211",
    "jp": "ユング４",
-   "en": "",
-   "term": "null"
+   "en": "Jung 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0212",
    "jp": "ユング５",
-   "en": "",
-   "term": "null"
+   "en": "Jung 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0213",
    "jp": "ユング６",
-   "en": "",
-   "term": "null"
+   "en": "Jung 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0214",
    "jp": "ユング７",
-   "en": "",
-   "term": "null"
+   "en": "Jung 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0215",
    "jp": "ユング８",
-   "en": "",
-   "term": "null"
+   "en": "Jung 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0216",
    "jp": "ユング９",
-   "en": "",
-   "term": "null"
+   "en": "Jung 9",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0217",
    "jp": "ユング１０",
-   "en": "",
-   "term": "null"
+   "en": "Jung 10",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0218",
    "jp": "ユング１１",
-   "en": "",
-   "term": "null"
+   "en": "Jung 11",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0219",
    "jp": "ゲーヴ１",
-   "en": "",
-   "term": "null"
+   "en": "Gev 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0220",
    "jp": "ゲーヴ２",
-   "en": "",
-   "term": "null"
+   "en": "Gev 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0221",
    "jp": "ゲーヴ３",
-   "en": "",
-   "term": "null"
+   "en": "Gev 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0222",
    "jp": "ゲーヴ４",
-   "en": "",
-   "term": "null"
+   "en": "Gev 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0223",
    "jp": "ゲーヴ５",
-   "en": "",
-   "term": "null"
+   "en": "Gev 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0224",
    "jp": "ゲーヴ６",
-   "en": "",
-   "term": "null"
+   "en": "Gev 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0225",
    "jp": "ゲーヴ７",
-   "en": "",
-   "term": "null"
+   "en": "Gev 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0226",
    "jp": "ゲーヴ８",
-   "en": "",
-   "term": "null"
+   "en": "Gev 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0227",
    "jp": "部下１",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0228",
    "jp": "部下２",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0229",
    "jp": "部下３",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0230",
    "jp": "部下４",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0231",
    "jp": "部下５",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0232",
    "jp": "部下６",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0233",
    "jp": "部下７",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0234",
    "jp": "部下８",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0235",
    "jp": "部下９",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate 9",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0236",
    "jp": "大鷲",
-   "en": "",
-   "term": "null"
+   "en": "Giant Eagle",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0237",
    "jp": "モンスター使い",
-   "en": "",
-   "term": "null"
+   "en": "Monster Tamer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0238",
    "jp": "モンスター１",
-   "en": "",
-   "term": "null"
+   "en": "Monster 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0239",
    "jp": "モンスター２",
-   "en": "",
-   "term": "null"
+   "en": "Monster 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0240",
    "jp": "モンスター３",
-   "en": "",
-   "term": "null"
+   "en": "Monster 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0241",
    "jp": "モンスター４",
-   "en": "",
-   "term": "null"
+   "en": "Monster 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0242",
    "jp": "モンスター５",
-   "en": "",
-   "term": "null"
+   "en": "Monster 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0243",
    "jp": "モンスター６",
-   "en": "",
-   "term": "null"
+   "en": "Monster 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0244",
    "jp": "モンスター７",
-   "en": "",
-   "term": "null"
+   "en": "Monster 7",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0245",
    "jp": "モンスター８",
-   "en": "",
-   "term": "null"
+   "en": "Monster 8",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0246",
    "jp": "モンスター９",
-   "en": "",
-   "term": "null"
+   "en": "Monster 9",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0247",
    "jp": "モンスター１０",
-   "en": "",
-   "term": "null"
+   "en": "Monster 10",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0248",
    "jp": "モンスター１１",
-   "en": "",
-   "term": "null"
+   "en": "Monster 11",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0249",
    "jp": "モンスター１２",
-   "en": "",
-   "term": "null"
+   "en": "Monster 12",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0250",
    "jp": "モンスター１３",
-   "en": "",
-   "term": "null"
+   "en": "Monster 13",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0251",
    "jp": "モンスター１４",
-   "en": "",
-   "term": "null"
+   "en": "Monster 14",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0252",
    "jp": "モンスター１５",
-   "en": "",
-   "term": "null"
+   "en": "Monster 15",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0253",
    "jp": "バーンシュタイン工作兵１",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Saboteur 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0254",
    "jp": "バーンシュタイン工作兵２",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Saboteur 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0255",
    "jp": "バーンシュタイン工作兵３",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Saboteur 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0256",
    "jp": "バーンシュタイン工作兵４",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Saboteur 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0257",
    "jp": "バーンシュタイン工作兵５",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Saboteur 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0258",
    "jp": "馬車",
-   "en": "",
-   "term": "null"
+   "en": "Carriage",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0259",
    "jp": "マスター・ガーディアン",
-   "en": "",
-   "term": "null"
+   "en": "Master Guardian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0260",
    "jp": "ガーディアン１",
-   "en": "",
-   "term": "null"
+   "en": "Guardian 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0261",
    "jp": "ガーディアン２",
-   "en": "",
-   "term": "null"
+   "en": "Guardian 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0262",
    "jp": "ガーディアン３",
-   "en": "",
-   "term": "null"
+   "en": "Guardian 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0263",
    "jp": "ガーディアン４",
-   "en": "",
-   "term": "null"
+   "en": "Guardian 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0264",
    "jp": "ガーディアン５",
-   "en": "",
-   "term": "null"
+   "en": "Guardian 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0265",
    "jp": "ガーディアン６",
-   "en": "",
-   "term": "null"
+   "en": "Guardian 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0266",
    "jp": "？？？？",
-   "en": "",
-   "term": "null"
+   "en": "????",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0267",
    "jp": "グレンガル",
-   "en": "",
-   "term": "null"
+   "en": "Grengal",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0268",
    "jp": "ゲヴェル",
-   "en": "",
-   "term": "null"
+   "en": "Gevel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0269",
    "jp": "ラルフ",
-   "en": "",
-   "term": "null"
+   "en": "Ralph",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0270",
    "jp": "ニック",
-   "en": "",
-   "term": "null"
+   "en": "Nick",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0271",
    "jp": "謎の男",
-   "en": "",
-   "term": "null"
+   "en": "Mysterious Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0272",
    "jp": "行商人",
-   "en": "",
-   "term": "null"
+   "en": "Peddler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0273",
    "jp": "ダグラス卿",
-   "en": "",
-   "term": "null"
+   "en": "Lord Douglas",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0274",
    "jp": "デカゲル",
-   "en": "",
-   "term": "null"
+   "en": "Big Gel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0275",
    "jp": "副官",
-   "en": "",
-   "term": "null"
+   "en": "Adjutant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0276",
    "jp": "ジーナ",
-   "en": "",
-   "term": "null"
+   "en": "Gina",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0277",
    "jp": "選手１",
-   "en": "",
-   "term": "null"
+   "en": "Contestant 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0278",
    "jp": "選手２",
-   "en": "",
-   "term": "null"
+   "en": "Contestant 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0279",
    "jp": "選手３",
-   "en": "",
-   "term": "null"
+   "en": "Contestant 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0280",
    "jp": "選手４",
-   "en": "",
-   "term": "null"
+   "en": "Contestant 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0281",
    "jp": "選手５",
-   "en": "",
-   "term": "null"
+   "en": "Contestant 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0282",
    "jp": "選手６",
-   "en": "",
-   "term": "null"
+   "en": "Contestant 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0283",
    "jp": "市長",
-   "en": "",
-   "term": "null"
+   "en": "Mayor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0284",
    "jp": "目１",
-   "en": "",
-   "term": "null"
+   "en": "Eye 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0285",
    "jp": "目２",
-   "en": "",
-   "term": "null"
+   "en": "Eye 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0286",
    "jp": "目３",
-   "en": "",
-   "term": "null"
+   "en": "Eye 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0287",
    "jp": "目４",
-   "en": "",
-   "term": "null"
+   "en": "Eye 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0288",
    "jp": "爪１",
-   "en": "",
-   "term": "null"
+   "en": "Claw 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0289",
    "jp": "爪２",
-   "en": "",
-   "term": "null"
+   "en": "Claw 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0290",
    "jp": "爪３",
-   "en": "",
-   "term": "null"
+   "en": "Claw 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0291",
    "jp": "爪４",
-   "en": "",
-   "term": "null"
+   "en": "Claw 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0292",
    "jp": "爪５",
-   "en": "",
-   "term": "null"
+   "en": "Claw 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0293",
    "jp": "爪６",
-   "en": "",
-   "term": "null"
+   "en": "Claw 6",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0294",
    "jp": "ランザック国王",
-   "en": "",
-   "term": "null"
+   "en": "King of Ranzak",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0295",
@@ -1791,8 +2082,9 @@
   {
    "id": "boot.units.0297",
    "jp": "占い師",
-   "en": "",
-   "term": "null"
+   "en": "Fortune Teller",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0298",
@@ -1869,8 +2161,9 @@
   {
    "id": "boot.units.0310",
    "jp": "オスカー",
-   "en": "",
-   "term": "null"
+   "en": "Oscar",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0311",
@@ -1881,14 +2174,16 @@
   {
    "id": "boot.units.0312",
    "jp": "アーネスト",
-   "en": "",
-   "term": "null"
+   "en": "Ernest",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0313",
    "jp": "ベルナード",
-   "en": "",
-   "term": "null"
+   "en": "Bernard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0314",
@@ -1929,8 +2224,9 @@
   {
    "id": "boot.units.0320",
    "jp": "コムスプリングス",
-   "en": "",
-   "term": "null"
+   "en": "Comsprings",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0321",
@@ -1971,8 +2267,9 @@
   {
    "id": "boot.units.0327",
    "jp": "フェザーランド",
-   "en": "",
-   "term": "null"
+   "en": "Featherland",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.units.0328",

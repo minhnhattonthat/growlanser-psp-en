@@ -15,122 +15,142 @@
   {
    "id": "scen244.0001",
    "jp": "{FFEE}副学院長を守りながら戦え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Fight while protecting the Vice Headmaster!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0002",
    "jp": "{FFEE}副学院長を守りつつ、誰も地下室へ行かせるな！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect the Vice Headmaster and let no one reach the{n}basement!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0003",
    "jp": "{v:0018}俺たちがこいつらをくい止める！{n}お前は地下に行け！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}We'll hold these guys off! You head downstairs!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0004",
    "jp": "{v:0019}わかった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Got it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0005",
    "jp": "{v:001A}ああっ！{n}隣の部屋に行かれちゃったよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Ah! They got into the next room!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0006",
    "jp": "{v:001B}急ごう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Let's hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0007",
    "jp": "{v:001C}みんな、急いで隣に移動するのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Everyone, hurry into the next room!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0008",
    "jp": "{v:001D}待て！逃がすか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Stop! You're not getting away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0009",
    "jp": "{v:001E}待て！逃がすか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Stop! You're not getting away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0010",
    "jp": "く、くそ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "D-damn...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0011",
    "jp": "そんな‥‥",
-   "en": "",
-   "term": "end"
+   "en": "It can't be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0012",
    "jp": "く‥くそ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "D-damn...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0013",
    "jp": "　{n}　　　　　　『{FFEF}牢の鍵{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　Obtained the '{FFEF}Cell Key{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0014",
    "jp": "{v:001F}くぅっ、よくも！{p}{v:0020}お前たち、生かして返さんぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Grr, how dare you!{p}{v:0020}None of you are leaving here alive!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0015",
    "jp": "くぅっ、よくも！{p}お前たち、生かして返さんぞ！",
-   "en": "",
-   "term": "end"
+   "en": "Grr, how dare you!{p}None of you are leaving here alive!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0016",
    "jp": "{v:0021}誰も地下に行かせなかったよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}We didn't let anyone get downstairs, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0017",
    "jp": "{v:0022}何とか間に合ったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}We made it just in time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0018",
    "jp": "くっ！{n}やられたか！？{p}こうなったら俺があの女を殺してやる！",
-   "en": "",
-   "term": "end"
+   "en": "Damn! They were beaten?!{p}Then I'll kill that woman myself!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0019",
    "jp": "{v:0026}ああ、間に合わなかった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Oh, we didn't make it in time!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen244.0020",
    "jp": "わ、私が倒れてしまっては‥{n}‥誰が呪いを‥‥{n}‥‥うぅ‥‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I-if I fall... who will lift... the curse...? Ugh...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

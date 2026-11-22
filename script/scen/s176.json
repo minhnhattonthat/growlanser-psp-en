@@ -15,32 +15,37 @@
   {
    "id": "scen176.0001",
    "jp": "元祖スキマ屋店主",
-   "en": "",
-   "term": "null"
+   "en": "Original Nook Shop Owner",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen176.0002",
    "jp": "女王ステラ",
-   "en": "",
-   "term": "null"
+   "en": "Queen Stella",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen176.0003",
    "jp": "フェザリアン",
-   "en": "",
-   "term": "null"
+   "en": "Featherian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen176.0004",
    "jp": "ジーナ",
-   "en": "",
-   "term": "null"
+   "en": "Gina",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen176.0005",
    "jp": "送魔線技師",
-   "en": "",
-   "term": "null"
+   "en": "Mana Line Engineer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen176.0006",
@@ -51,14 +56,16 @@
   {
    "id": "scen176.0007",
    "jp": "？？？",
-   "en": "",
-   "term": "null"
+   "en": "???",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen176.0008",
    "jp": "フェザーランド",
-   "en": "",
-   "term": "end"
+   "en": "Featherland",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0009",
@@ -93,20 +100,23 @@
   {
    "id": "scen176.0014",
    "jp": "貯蔵庫{n}用なき者はあけるべからず",
-   "en": "",
-   "term": "end"
+   "en": "Storehouse. Do not open without good reason.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0015",
    "jp": "‥‥留守のようだ。",
-   "en": "",
-   "term": "end"
+   "en": "...No one seems to be home.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0016",
    "jp": "ちょっと！{n}この状況で、どこへ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going at a time{n}like this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0017",
@@ -117,26 +127,30 @@
   {
    "id": "scen176.0018",
    "jp": "‥‥元祖スキマ屋へようこそ。",
-   "en": "",
-   "term": "end"
+   "en": "...Welcome to the Original Nook Shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0019",
    "jp": "がんそ、すきま屋ぁ！？",
-   "en": "",
-   "term": "end"
+   "en": "The ORIGINAL Nook Shop?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0020",
    "jp": "人間たちにスキマ商売を教えたのはこの私だ。{p}そいつは{n}　　　　『天啓を受けた！』{n}　　　　　　　　　　　　　などと言っていたがな。{p}とにかくお前たち人間に売っても良いという{n}お達しが出たことだ。{n}さっそく商品を見ていくがいい。",
-   "en": "",
-   "term": "end"
+   "en": "I was the one who taught humans the Nook{n}Shop business.{p}That fellow claimed, 'I received a divine revelation!' or{n}some such nonsense.{p}In any case, I have been given permission to sell to you{n}humans. Go on, have a look at my wares.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0021",
    "jp": "フェザーランドに寄ったときは、よろしくな。",
-   "en": "",
-   "term": "end"
+   "en": "Do stop by whenever you visit Featherland.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0022",
@@ -189,8 +203,9 @@
   {
    "id": "scen176.0030",
    "jp": "うん、そうだね。",
-   "en": "",
-   "term": "end"
+   "en": "Yes, you're right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0031",
@@ -393,8 +408,9 @@
   {
    "id": "scen176.0064",
    "jp": "よく来るようになったな。{n}今度は何用だ？",
-   "en": "",
-   "term": "end"
+   "en": "You visit quite often now. What brings you here{n}this time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0065",
@@ -429,8 +445,9 @@
   {
    "id": "scen176.0070",
    "jp": "用事が済んだらすみやかにお引き取り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please leave promptly once your business is concluded.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0071",
@@ -453,8 +470,9 @@
   {
    "id": "scen176.0074",
    "jp": "なぜ人は争い続けるのだろうか？{n}私には理解できない思考ですわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Why do humans keep fighting, I wonder? I simply cannot{n}understand their way of thinking...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0075",
@@ -471,14 +489,16 @@
   {
    "id": "scen176.0077",
    "jp": "‥‥‥本当にお前たちがくじけぬなら、{n}私も信じてみることにするかな。{n}だから‥‥‥負けるなよ。",
-   "en": "",
-   "term": "end"
+   "en": "...If you truly refuse to lose heart, perhaps I shall try{n}believing in you, too. So... do not give in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0078",
    "jp": "争わず助け合う。{n}これが我々の生き方だ。",
-   "en": "",
-   "term": "end"
+   "en": "We help one another instead of fighting. That is our way{n}of life.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0079",
@@ -489,8 +509,9 @@
   {
    "id": "scen176.0080",
    "jp": "地上からこの浮島まで飛ぶには強靱な翼が必要だ。",
-   "en": "",
-   "term": "end"
+   "en": "It takes powerful wings to fly from the ground to this{n}floating island.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0081",
@@ -507,14 +528,16 @@
   {
    "id": "scen176.0083",
    "jp": "私の翼は飛ぶためだけにあるのではない。{n}では何か？{n}それは自分で考えてみるのだ。",
-   "en": "",
-   "term": "end"
+   "en": "My wings are not merely for flying. What else are they{n}for? Think about that yourself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0084",
    "jp": "ダメだよ、お兄ちゃん。{n}ちゃんと考えてから、指示してね。",
-   "en": "",
-   "term": "end"
+   "en": "That won't do, Big Brother. Please think it through{n}before you give us instructions.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0085",
@@ -525,20 +548,23 @@
   {
    "id": "scen176.0086",
    "jp": "どうした？{n}精神力が切れて、地上に帰れなくなったのか？",
-   "en": "",
-   "term": "end"
+   "en": "What is wrong? Have you exhausted your mental energy{n}and cannot return to the surface?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0087",
    "jp": "ならば、そこの石像を{n}正面から調べてみるんだな。{p}お前たちの中にグローシアンがいるならば、{n}何かが起こるはずだ。",
-   "en": "",
-   "term": "end"
+   "en": "Then examine that stone statue from the front.{p}If there is a Growsian among you, something{n}should happen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0088",
    "jp": "ならばさっさと帰ることだ。",
-   "en": "",
-   "term": "end"
+   "en": "Then be on your way at once.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0089",
@@ -549,14 +575,16 @@
   {
    "id": "scen176.0090",
    "jp": "ここは『資料保管庫』だ。{n}女王ステラに命じられ、過去の記録を調べている。{n}邪魔をしないでいただきたい。",
-   "en": "",
-   "term": "end"
+   "en": "These are the 'Archives'. I am examining historical{n}records on Queen Stella's orders. Kindly do not{n}disturb me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0091",
    "jp": "また来たのか。{n}さては私の紫の髪が気に入ったな？{p}だが私は、トガリ髪にしか興味がない。{n}残念だったな。",
-   "en": "",
-   "term": "end"
+   "en": "Back again? You must have taken a liking to my{n}purple hair.{p}Unfortunately for you, I am only interested in people{n}with spiky hair.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0092",
@@ -633,8 +661,9 @@
   {
    "id": "scen176.0104",
    "jp": "報告は受けている。{n}少々、待たれよ。",
-   "en": "",
-   "term": "end"
+   "en": "I have been informed. Wait a moment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0105",
@@ -663,8 +692,9 @@
   {
    "id": "scen176.0109",
    "jp": "なんと言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0110",
@@ -731,32 +761,37 @@
   {
    "id": "scen176.0120",
    "jp": "ここは禁を破った者が反省をする部屋だ。{n}今はジーナという者が一人で入っている。",
-   "en": "",
-   "term": "end"
+   "en": "This is a room where those who break our laws reflect{n}on their actions. Its only occupant at present is a{n}woman named Gina.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0121",
    "jp": "ここに母さんが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Mother is in here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0122",
    "jp": "まだ何か？",
-   "en": "",
-   "term": "end"
+   "en": "Is there something else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0123",
    "jp": "いつまでもウロウロしてるんじゃないの！",
-   "en": "",
-   "term": "end"
+   "en": "Stop wandering around already!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0124",
    "jp": "反省室",
-   "en": "",
-   "term": "end"
+   "en": "Reflection Room",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0125",
@@ -773,8 +808,9 @@
   {
    "id": "scen176.0127",
    "jp": "母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0128",
@@ -845,8 +881,9 @@
   {
    "id": "scen176.0139",
    "jp": "そ、そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "O-oh, I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0140",
@@ -917,8 +954,9 @@
   {
    "id": "scen176.0151",
    "jp": "そうか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0152",
@@ -1136,8 +1174,9 @@
   {
    "id": "scen176.0187",
    "jp": "お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0188",
@@ -1466,8 +1505,9 @@
   {
    "id": "scen176.0242",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0243",
@@ -1703,8 +1743,9 @@
   {
    "id": "scen176.0281",
    "jp": "不思議な力で、魔法の効力は失われた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "A mysterious power dispelled the magic...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen176.0282",

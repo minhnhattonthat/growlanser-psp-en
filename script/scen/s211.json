@@ -15,162 +15,188 @@
   {
    "id": "scen211.0001",
    "jp": "レティシア姫",
-   "en": "",
-   "term": "null"
+   "en": "Princess Leticia",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen211.0002",
    "jp": "騎士",
-   "en": "",
-   "term": "null"
+   "en": "Knight",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen211.0003",
    "jp": "{FFEE}レティシア姫を守れ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect Princess Leticia!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0004",
    "jp": "あの‥‥、{n}私はどうすればいいでしょう？",
-   "en": "",
-   "term": "end"
+   "en": "Um... What would you have me do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0005",
    "jp": "レティシア姫に、何と指示を出しますか？",
-   "en": "",
-   "term": "end"
+   "en": "What orders will you give Princess Leticia?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0006",
    "jp": "・その場にとどまり自由",
-   "en": "",
+   "en": "・Stay put and act freely",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen211.0007",
    "jp": "・その場にとどまり防御",
-   "en": "",
+   "en": "・Stay put and defend",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen211.0008",
    "jp": "・西へ下がらせる",
-   "en": "",
+   "en": "・Fall back to the west",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen211.0009",
    "jp": "・自由行動",
-   "en": "",
+   "en": "・Act freely",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen211.0010",
    "jp": "{v:0037}きゃああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0011",
    "jp": "‥‥{v:0038}そんな！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0038}It can't be!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0012",
    "jp": "{v:0022}邪魔だ！{n}どけ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}You're in my way! Move!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0013",
    "jp": "{v:0023}なによ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}What's your problem?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0014",
    "jp": "{v:0025}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0015",
    "jp": "{v:0024}邪魔は貴様の方だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}You're the one in the way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0016",
    "jp": "{v:0026}なんでよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}How am I?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0017",
    "jp": "{v:0027}うぐっ！{p}{v:0028}ま、またしても‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Urgh!{p}{v:0028}N-Not again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0018",
    "jp": "{v:0029}なんてざまだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}What a disgrace...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0019",
    "jp": "{v:002A}か、頭‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}B-Boss...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0020",
    "jp": "{v:002B}お前は下がっていろ。{n}後は俺がしとめてやる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}You fall back. I'll finish them off.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0021",
    "jp": "{v:002C}ん、何事だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Hm? What is happening?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0022",
    "jp": "{v:002D}はっ！{n}ライエル様！{n}あれを！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Sir! Lyell-sama! Look over there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0023",
    "jp": "{v:002E}何と無礼な‥‥。{p}{FC00}{v:002F}フッ。{n}我々の前で狼藉を働いたことを後悔させてくれよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Such insolence...{p}{FC00}{v:002F}Hmph. We shall make them regret committing such{n}violence in our presence.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0024",
    "jp": "{v:0030}なんだ、お前らは？{n}先にお前から血祭りに上げてやろうか！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Who the hell are you lot? Want me to butcher{n}you first?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0025",
    "jp": "{v:0031}無知とは恐ろしいものだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Ignorance is a frightening thing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0026",
    "jp": "{v:0032}どうやら死にたいらしいな！？{p}{v:0033}うりゃあっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Looks like you've got a death wish!{p}{v:0033}Hyaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0027",
@@ -187,32 +213,37 @@
   {
    "id": "scen211.0029",
    "jp": "楽な仕事だと思ったのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I thought this would be an easy job...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0030",
    "jp": "ぐをぉっ！",
-   "en": "",
-   "term": "end"
+   "en": "Gwaaagh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0031",
    "jp": "ぐふっ！",
-   "en": "",
-   "term": "end"
+   "en": "Urgh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0032",
    "jp": "つ、つよい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "T-Too strong...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen211.0033",
    "jp": "だ‥だめッス‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I... I can't go on...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,8 +15,9 @@
   {
    "id": "scen184.0001",
    "jp": "道標",
-   "en": "",
-   "term": "null"
+   "en": "Signpost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen184.0002",
@@ -27,8 +28,9 @@
   {
    "id": "scen184.0003",
    "jp": "時空制御塔～基部・外観～",
-   "en": "",
-   "term": "end"
+   "en": "Space-Time Control Tower -- Base Exterior",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0004",
@@ -149,50 +151,58 @@
   {
    "id": "scen184.0023",
    "jp": "ほら！{n}他の人が待ってるでしょ！{n}はやくパーティーを選びなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Come on! Everyone's waiting! Hurry up and choose{n}your party!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0024",
    "jp": "１人でどこへ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going all alone?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0025",
    "jp": "{v:0001}いよいよ最後の戦いだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}It's finally time for the last battle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0026",
    "jp": "がんばろうね、お兄ちゃん。{n}絶対、ぜったい、勝とうね？",
-   "en": "",
-   "term": "end"
+   "en": "Let's do our best, Big Brother. We'll win for sure...{n}absolutely for sure, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0027",
    "jp": "全てはお前にかかっている。{n}頼むぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Everything depends on you. We're counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0028",
    "jp": "お兄さま。わたし、ちょっと感動です。{p}だって、落ちこぼれなわたしが{n}世界を救う場にいるなんて。{n}絶対勝ちましょうね！",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, I'm a little overwhelmed.{p}I mean, a hopeless student like me, here to help save{n}the world! Let's make sure we win!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0029",
    "jp": "フェザリアンと人間の未来のために、{n}絶対負けられない戦いだね。",
-   "en": "",
-   "term": "end"
+   "en": "For the future of Featherians and humans alike, this is{n}a battle we simply can't lose.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0030",
    "jp": "あなたと出会った頃には、こんなことになるなんて、{n}思いもしませんでしたよ。{p}でも、これは現実。{n}悔いが残らないようにがんばりましょう！",
-   "en": "",
-   "term": "end"
+   "en": "When we first met, I never imagined things would turn{n}out like this.{p}But here we are. Let's give it our all, so we have{n}no regrets!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0031",
@@ -203,8 +213,9 @@
   {
    "id": "scen184.0032",
    "jp": "最初に出会った時から感じてはいたのだが、{n}本当に、お前は大した奴だな。{p}この戦い、負けられぬぞ？{n}絶対に勝とうな！",
-   "en": "",
-   "term": "end"
+   "en": "I have felt it since we first met, but you truly{n}are remarkable.{p}We cannot afford to lose this battle. We must win, no{n}matter what!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0033",
@@ -283,8 +294,9 @@
   {
    "id": "scen184.0045",
    "jp": "突入準備はいいかい？",
-   "en": "",
-   "term": "end"
+   "en": "Are you ready to go in?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0046",
@@ -296,9 +308,10 @@
   {
    "id": "scen184.0047",
    "jp": "・突入する",
-   "en": "",
+   "en": "・Go in",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen184.0048",
@@ -309,8 +322,9 @@
   {
    "id": "scen184.0049",
    "jp": "お気を付けて。",
-   "en": "",
-   "term": "end"
+   "en": "Please take care.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0050",
@@ -345,8 +359,9 @@
   {
    "id": "scen184.0055",
    "jp": "こんな時に、一人でどこへ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going all alone at a time{n}like this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen184.0056",

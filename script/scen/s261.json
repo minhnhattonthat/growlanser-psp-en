@@ -15,74 +15,86 @@
   {
    "id": "scen261.0001",
    "jp": "男子生徒",
-   "en": "",
-   "term": "null"
+   "en": "Male Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen261.0002",
    "jp": "女生徒",
-   "en": "",
-   "term": "null"
+   "en": "Female Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen261.0003",
    "jp": "{FFEE}生徒を救え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Rescue the students!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen261.0004",
    "jp": "{v:0046}人間は殺せ！{n}皆殺しにしろ！{n}だが研究自体には手をつけるなよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Kill the humans! Kill them all! But leave the research{n}itself untouched.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen261.0005",
    "jp": "{v:0047}何だって？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen261.0006",
    "jp": "{v:0048}お前たちの相手をしている暇はない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}I have no time to waste on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen261.0007",
    "jp": "{v:0049}また逃げる気！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Running away AGAIN?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen261.0008",
    "jp": "{v:004A}さらばだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Farewell!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen261.0009",
    "jp": "‥‥{v:004B}またテレポート‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004B}Teleport again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen261.0010",
    "jp": "{v:004C}うわぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Aaagh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen261.0011",
    "jp": "{v:004D}きゃあっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Eeeek!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen261.0012",
    "jp": "{v:004E}そんな‥‥学生たちが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}No... The students...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

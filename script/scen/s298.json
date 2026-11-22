@@ -15,56 +15,65 @@
   {
    "id": "scen298.0001",
    "jp": "他の仲間のところにも行ってみたらどうだ？",
-   "en": "",
-   "term": "end"
+   "en": "Why not go and see some of our other companions?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen298.0002",
    "jp": "私のところへ来ていただけるのは{n}うれしいのですが、{n}他の仲間への気遣いもお忘れなきよう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I am glad you have come to see me, but please{n}remember to spare a thought for our{n}other companions...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen298.0003",
    "jp": "ふっ、お前たちと共に休暇を{n}過ごすことになるとはな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Heh. To think I would end up spending my leave with all{n}of you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen298.0004",
    "jp": "いい天気だな。{n}こんな日は外にいるだけで体が休まる。",
-   "en": "",
-   "term": "end"
+   "en": "Fine weather today. Just being outdoors on a day like{n}this does the body good.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen298.0005",
    "jp": "剣でもなんでも、{n}心に余裕がないとダメだな。",
-   "en": "",
-   "term": "end"
+   "en": "Swordsmanship, or anything else, suffers if your mind{n}is not at ease.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen298.0006",
    "jp": "マイ＝ロード‥‥。{n}共に休暇を過ごす幸せ、噛みしめております。",
-   "en": "",
-   "term": "end"
+   "en": "My Lord... I am savoring the happiness of spending my{n}leave with you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen298.0007",
    "jp": "良いお日和です。{n}こんな日は外にいるだけで心が休まります。",
-   "en": "",
-   "term": "end"
+   "en": "What a lovely day. Simply being outdoors in weather like{n}this puts the heart at ease.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen298.0008",
    "jp": "差し出がましいようですが、{n}休暇の時は身体だけでなく、心もお休め下さい。",
-   "en": "",
-   "term": "end"
+   "en": "I hope I am not overstepping, but please rest your{n}mind as well as your body during your leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen298.0009",
    "jp": "どこ行こうか？",
-   "en": "",
-   "term": "end"
+   "en": "Where should I go?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,277 +15,322 @@
   {
    "id": "scen008.0001",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen008.0002",
    "jp": "輸送兵",
-   "en": "",
-   "term": "null"
+   "en": "Transport Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen008.0003",
    "jp": "輸送兵長",
-   "en": "",
-   "term": "null"
+   "en": "Transport Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen008.0004",
    "jp": "料理人",
-   "en": "",
-   "term": "null"
+   "en": "Cook",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen008.0005",
    "jp": "文官",
-   "en": "",
-   "term": "null"
+   "en": "Civil Official",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen008.0006",
    "jp": "アルカディウス王",
-   "en": "",
-   "term": "null"
+   "en": "King Alcadius",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen008.0007",
    "jp": "ローランディア王城",
-   "en": "",
-   "term": "end"
+   "en": "Rolandia Royal Castle",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0008",
    "jp": "ローランディア王城へようこそ。",
-   "en": "",
-   "term": "end"
+   "en": "Welcome to Rolandia Royal Castle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0009",
    "jp": "サンドラ様のご子息、{n}{s:0000}様ですね。{n}どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "You must be {s:0000}, Sandra-sama's son.{n}Please, go right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0010",
    "jp": "どうやらランザックとも同盟を結べたことだし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Looks like we've managed to form an alliance with{n}Ranzak, too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0011",
    "jp": "ああ、いよいよバーンシュタインの奴らに、{n}ひとあわ吹かせてやれるな。{p}君たちのおかげで何とかなりそうだ。",
-   "en": "",
-   "term": "end"
+   "en": "Yeah, now we can finally give those Burnstein bastards{n}a nasty surprise.{p}Thanks to you, we might just pull through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0012",
    "jp": "このお礼は戦争が終わった後にでも、{n}ゆっくり言わせて貰うよ。",
-   "en": "",
-   "term": "end"
+   "en": "Once the war's over, I'll take the time to thank{n}you properly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0013",
    "jp": "頑張ってくれよ！",
-   "en": "",
-   "term": "end"
+   "en": "Give it your best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0014",
    "jp": "君たちも戦に行くんだったら、{n}武器はちゃんと手入れをしておけよ。{n}戦闘中に折れたなんてしゃれにもならないからな。",
-   "en": "",
-   "term": "end"
+   "en": "If you're heading into battle, keep your weapons in good{n}shape. Having one snap in the middle of a fight is{n}no joke.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0015",
    "jp": "う～ん‥‥今日は何にしようかな？{n}‥‥やっぱり、槍かな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... What should I use today? ...A spear, I suppose...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0016",
    "jp": "へい、いらっしゃい！",
-   "en": "",
-   "term": "end"
+   "en": "Hey there! Welcome!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0017",
    "jp": "はっ、しまった‥‥[01BE]{n}家の手伝いをしていた時のくせがつい‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Ah, whoops...[01BE] Old habits from helping out at home...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0018",
    "jp": "魔術師って持てる武器が少ないのよね。{n}ま、その分は魔法で補ってるからいいけど。",
-   "en": "",
-   "term": "end"
+   "en": "There aren't many weapons a mage can use, you{n}know. Well, our magic makes up for it, so I don't mind.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0019",
    "jp": "{v:0000}しかし隊長、輸送路が完成して良かったですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}It's a relief to have the supply route finished, isn't{n}it, Captain?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0020",
    "jp": "{v:0001}そうだな。{n}これでノストリッジで戦っている同胞に、{n}すばやく物資を届けられる。{p}{v:0002}この荷を届けて、我が軍に勝利してもらわねば！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Indeed. Now we can get supplies to our comrades{n}fighting in Nostridge quickly.{p}{v:0002}We must deliver this cargo and give our army what it{n}needs to win!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0021",
    "jp": "{v:0003}よろしくお願いします。{n}お気をつけて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}We're counting on you. Take care!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0022",
    "jp": "{v:0004}うむ。{n}よし、出発！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Right. All men, move out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0023",
    "jp": "{v:0005}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0024",
    "jp": "現在、国王は取り込み中だ。{n}別の機会にせよ。",
-   "en": "",
-   "term": "end"
+   "en": "The King is occupied at present. Return another time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0025",
    "jp": "通るがよい。",
-   "en": "",
-   "term": "end"
+   "en": "You may pass.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0026",
    "jp": "不謹慎な事を言っていた罰かしら‥‥。{n}まさか戦争が始まってしまうなんて‥‥。{p}悲観してばかりはいられないわね。{n}私も一兵士として頑張らなくちゃ。",
-   "en": "",
-   "term": "end"
+   "en": "I wonder if this is my punishment for those{n}thoughtless remarks... I never imagined war would{n}actually break out...{p}I can't keep dwelling on the worst. I'm a soldier, too. I{n}have to do my part.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0027",
    "jp": "まさかグレッグ卿がご乱心なさるなんて‥‥。{n}未だに信じられん‥‥。{p}そうだ‥‥きっと何かの陰謀があるに違いない。{n}そうでなければ、あの方がご乱心されるわけがない。",
-   "en": "",
-   "term": "end"
+   "en": "To think Lord Greg would lose his senses... I still cannot{n}believe it...{p}Yes... There must be some conspiracy behind this.{n}Nothing else could explain a man like him going mad.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0028",
    "jp": "においにつられて来てみたものの、{n}つまみ食いなんて出来ないし‥‥。{n}見てしまったからよけい腹が減った‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The smell drew me in, but it's not like I can sneak a{n}bite... Now that I've seen the food, I'm even hungrier...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0029",
    "jp": "ほんとう。{n}おいしそうですわね。",
-   "en": "",
-   "term": "end"
+   "en": "Indeed. It looks quite delicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0030",
    "jp": "こ、これはレティシア姫！",
-   "en": "",
-   "term": "end"
+   "en": "P-Princess Leticia!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0031",
    "jp": "{FFF0}料理の基本②{FFF1}{n}野菜をゆでる時には、水からゆでるものと{n}お湯を作ってからゆでる物がある。{p}その野菜が土の中に出来るか、{n}地面より上に出来るかで分けられるぞ。{p}土の中に出来る野菜は水からゆでる。{n}こうして火の通りをよくするんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}Cooking Basics 2{FFF1}: Some vegetables should be put in cold{n}water and brought to a boil. Others go in once the{n}water is boiling.{p}It depends on whether the vegetable grows{n}underground or above the soil.{p}Start vegetables that grow underground in cold{n}water. That helps them cook all the way through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0032",
    "jp": "それにしてもこの魚‥‥。{n}う～ん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Still, this fish... Hmm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0033",
    "jp": "戦争だって？{n}こっちは毎日が戦争さ！{p}たった２人で{n}お城の兵隊さんの料理を作ってるんだからね！",
-   "en": "",
-   "term": "end"
+   "en": "War, you say? Every day's a war in here!{p}There are only two of us cooking for all the soldiers in{n}the castle!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0034",
    "jp": "あの兵隊さん、いっつも来てるけど、{n}暇なのかねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "That soldier's always coming by. Hasn't he got anything{n}to do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0035",
    "jp": "ここから先は宝物庫だ。{n}だから誰も通すことは出来ない。",
-   "en": "",
-   "term": "end"
+   "en": "The treasury is beyond this point. I cannot let{n}anyone pass.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0036",
    "jp": "{v:000E}あ、どうも！{p}{v:000F}ちょうどよかった。{n}あなたに聞きたいことがあったんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Oh, hello!{p}{v:000F}Perfect timing. There's something I've been wanting to{n}ask you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0037",
    "jp": "？",
-   "en": "",
-   "term": "end"
+   "en": "?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0038",
    "jp": "{v:0010}兄とか弟とかが欲しいって思ったことはありませんか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Have you ever wished you had an older or{n}younger brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0039",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0040",
    "jp": "・兄が欲しい",
-   "en": "",
+   "en": "・I'd like an older brother",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0041",
    "jp": "・弟が欲しい",
-   "en": "",
+   "en": "・I'd like a younger brother",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0042",
    "jp": "・欲しくない",
-   "en": "",
+   "en": "・I don't want either",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0043",
    "jp": "・ルイセがいるから‥‥",
-   "en": "",
+   "en": "・I have Luise, so...",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0044",
    "jp": "・姉が欲しい",
-   "en": "",
+   "en": "・I'd like an older sister",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0045",
    "jp": "{v:0011}そうですよね！{n}頼れる兄弟って言えば、やっぱりお兄さんですよね！{p}{v:0012}ありがとうございます！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Of course! If you want a brother you can count on, an{n}older brother is the obvious choice!{p}{v:0012}Thank you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0046",
@@ -296,1016 +341,1182 @@
   {
    "id": "scen008.0047",
    "jp": "‥‥{v:0015}そうですか‥‥。{p}{v:0016}いらないのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0015}I see...{p}{v:0016}You don't want one...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0048",
    "jp": "{v:0017}それは‥‥どっちの意味？{p}{v:0018}ルイセちゃんがいるから満足？{n}それとも煩わしいからいらないってこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}And which way do you mean THAT?{p}{v:0018}Are you happy because you have Luise-chan? Or is she{n}such a pain that you don't want another sibling?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0049",
    "jp": "‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0050",
    "jp": "{v:0019}答えなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Answer me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0051",
    "jp": "{v:001A}いいよぉ、ティピ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}It's all right, Tippi!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0052",
    "jp": "‥‥{v:001B}仲、いいんですね。{p}{v:001C}うらやましいなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001B}You're all so close, aren't you?{p}{v:001C}I'm a little jealous...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0053",
    "jp": "{v:001D}姉？{p}{FC02}{v:001E}僕は男の兄弟の話をしてるんですよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}An older sister?{p}{FC02}{v:001E}I'm talking about brothers!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0054",
    "jp": "{v:001F}男には興味ないって事じゃない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Maybe he's just not interested in men?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0055",
    "jp": "{v:0020}そ、そうですか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}O-Oh, I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0056",
    "jp": "{FB00}{v:0021}何だったんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0021}What was that all about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0057",
    "jp": "戦争がはやく終わるといいですね。{n}僕、争い事って嫌いなんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "I hope the war ends soon. I really don't like fighting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0058",
    "jp": "あっ、こんにちは。{n}お城での生活はひまですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, hello. Life at the castle is pretty dull.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0059",
    "jp": "ここは牢屋だぞ？{n}何か用なのか？{n}用がないのなら、上に戻りなさい。",
-   "en": "",
-   "term": "end"
+   "en": "This is the dungeon, you know. Do you need something?{n}If not, go back upstairs.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0060",
    "jp": "{v:0055}アンタ、夕べはうなされてたわよ。{n}また夢でも見たんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}You were moaning in your sleep last night. Had another{n}dream, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0061",
    "jp": "{v:0056}どんな夢だったの、お兄ちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}What sort of dream was it, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0062",
    "jp": "{v:0057}えっ？{p}{v:0058}グローシュがいっぱい飛んでる澄んだ湖？{p}{v:0059}湖のそばにユングがいっぱい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Huh?{p}{v:0058}A clear lake with lots of Grosh flying around?{p}{v:0059}And lots of Jung by the lake?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0063",
    "jp": "{v:005A}グローシュがいっぱい飛んでいるってことは、{n}北の方だよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}If there was that much Grosh flying around, it must be{n}somewhere up north, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0064",
    "jp": "{v:005B}たぶんオリビエ湖のことだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Probably Lake Olivier.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0065",
    "jp": "{v:005C}オリビエ湖‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Lake Olivier...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0066",
    "jp": "{v:005D}バーンシュタイン王国との国境沿いにある湖だ。{n}だが今、そのあたりは戦場になっているから、{n}そこへ行くのは大変だな。{p}{v:005E}せめて補給物資運搬用の道路ができれば、{n}少しは楽に行けるんだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}It's a lake along the border with the Kingdom of{n}Burnstein. But that area's a battlefield now. Getting{n}there won't be easy.{p}{v:005E}If they could at least finish the supply road, it'd make{n}the journey a little easier...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0067",
    "jp": "{v:005F}王都の西側につなごうとしている道だよね。{n}そろそろ完成してもいい頃だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}That's the road they're connecting to the west side of{n}the capital, right? It ought to be about done by now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0068",
    "jp": "{v:000A}休暇は終わりだ。{n}お前たちは次の任務についてもらう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Your leave is over. You will now undertake your{n}next mission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0069",
    "jp": "扉があるが、鍵がかけられている。",
-   "en": "",
-   "term": "end"
+   "en": "There is a door here, but it is locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0070",
    "jp": "{v:0002}今回の働きに対して与えられる休暇は３日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}For your service, you are granted three days of leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0071",
    "jp": "{v:0001}今回の働きに対して与えられる休暇は２日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}For your service, you are granted two days of leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0072",
    "jp": "{v:0000}今回の働きに対して与えられる休暇は１日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}For your service, you are granted one day of leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0073",
    "jp": "{v:0017}頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0074",
    "jp": "{v:000B}あら、どうしたのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Oh, what brings you here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0075",
    "jp": "何かたずねますか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything you would like to ask?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0076",
    "jp": "・調査方針の相談",
-   "en": "",
+   "en": "・Ask how to proceed with the investigation",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0077",
    "jp": "・特にない",
-   "en": "",
+   "en": "・Nothing in particular",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0078",
    "jp": "{v:000C}お兄ちゃんが夢で見た怪物を{n}調査しようと思うんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}We want to investigate the monster Big Brother saw in{n}his dream.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0079",
    "jp": "{v:000D}どこから調べたらいいのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Where should we start looking?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0080",
    "jp": "{v:000E}そうですね。{p}{v:000F}ウォレスに怪我を負わせた連中が、{n}本当にゲヴェルと関係があるのなら、{n}そこから探してみるというのはどうでしょう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Let me see.{p}{v:000F}If those who injured Wallace truly have some{n}connection to Gevel, perhaps you could begin your{n}search there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0081",
    "jp": "{v:0010}俺が目と腕を失った場所か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}The place where I lost my eyes and arm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0082",
    "jp": "{v:0011}たしかガルアオス監獄のあたりで、{n}そんなこと言ってたよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}You mentioned something about that near Garuaos{n}Prison, didn't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0083",
    "jp": "{v:0012}ああ。{n}あそこから北東に行ったところに村があるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Yeah. There's a village northeast of there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0084",
    "jp": "{v:0013}それじゃその村から調査すればいいのね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Then we should start looking in that village, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0085",
    "jp": "{v:0014}がんばるのですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Do your best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0086",
    "jp": "{v:0015}ところでマスター。{n}その村ってバーンシュタイン王国内にあるんだよね？{n}今、戦争中だし、どうやっていこうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}By the way, Master. That village is in the Kingdom of{n}Burnstein, right? How are we supposed to get there{n}with a war going on?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0087",
    "jp": "{v:0016}何かと思えば。{p}{v:0017}ルイセがいるじゃないですか。{n}あなた達は一度ガルアオス監獄へ行ったことが{n}あるのではないですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Oh, is that all?{p}{v:0017}You have Luise, do you not? Have you not already{n}been to Garuaos Prison once?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0088",
    "jp": "{v:0018}あ、そうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Oh, right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0089",
    "jp": "あまり人に頼りすぎると、{n}いざというときに自分で行動できなくなりますよ。",
-   "en": "",
-   "term": "end"
+   "en": "If you rely too much on others, you will find yourself{n}unable to act on your own when it truly matters.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0090",
    "jp": "{v:001B}う～ん、特に用事はないんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Hmm, we didn't really need anything in particular.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0091",
    "jp": "{v:001C}そうですか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0092",
    "jp": "気を付けて行くがよい。",
-   "en": "",
-   "term": "end"
+   "en": "Take care on your way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0093",
    "jp": "{v:0019}グローシアンの娘アイリーンを、{n}無事魔法学院まで送り届けました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}We have safely escorted the young Growsian woman,{n}Irene, to the Magic Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0094",
    "jp": "{v:001A}うむ、ご苦労であった。{p}{v:001B}では短いが休暇を楽しんでくるがよい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Very good. You have our thanks.{p}{v:001B}Now go and enjoy your leave, brief though it may be.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0095",
    "jp": "{v:0000}戻ったか。{n}それで、何か成果はあったかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}You have returned. Well, did you discover anything?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0096",
    "jp": "{v:0001}すごかったよ！{n}ゲヴェルの卵がいっぱいあったの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}You wouldn't believe it! There were Gevel{n}eggs everywhere!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0097",
    "jp": "{v:0002}ゲヴェルの卵？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Gevel eggs?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0098",
    "jp": "{v:0003}我々は彼の見た夢と、自分が腕を切り落とされた{n}場所を手がかりに調査を行いました。{p}{v:0004}そしてバーンシュタイン王国内の滝の裏に作られた、{n}ゲヴェルの卵が並ぶ場所へ行ったのです。{p}{v:0005}その辺りでは最近、人が行方不明になるとの事でした。{n}調査をすると、捕らえた人間を食料として、{n}小型の異形を繁殖させる場所だったのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}We based our investigation on his dream and the place{n}where my arm was cut off.{p}{v:0004}That led us to a place built behind a waterfall in the{n}Kingdom of Burnstein, where rows of Gevel eggs lay.{p}{v:0005}We heard that people had been disappearing in the{n}area recently.{p}Our investigation revealed that the place was used to{n}breed smaller abominations, with captured humans{n}as food.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0099",
    "jp": "{v:0006}確か、その異形はユングって呼ばれていたよ。{p}{v:0007}でも、全部やっつけちゃったけどね！{n}もうあそこに残っている卵は１つもないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}I think those abominations were called Jung.{p}{v:0007}But we wiped them all out! There's not a single egg left{n}there now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0100",
    "jp": "{v:0008}そうですか。{p}{v:0009}しかし、そのような場所があったとは‥‥。{p}{v:000A}それで問題のゲヴェルはどうでしたか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}I see.{p}{v:0009}Still, to think such a place existed...{p}{v:000A}And what of Gevel himself?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0101",
    "jp": "{v:000B}それはどこにもいませんでした。{p}{v:000C}いたのは、お母さんを襲ったあの仮面を着けた男と、{n}ユングって呼ばれた小さな異形だけで‥‥。{p}{v:000D}あ、それと、その側の小さな村で聞いた情報だけど、{n}バーンシュタイン王国内でグローシアンが{n}いなくなったり、変死したりしているらしいんです。{p}{v:000E}それでわたし達が洞窟を調査している間に、{n}グローシアンだった村長さんが殺されてしまって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}He was nowhere to be found.{p}{v:000C}The only ones there were that masked man who{n}attacked Mother, and the little abominations{n}called Jung...{p}{v:000D}Oh, and we heard something in a small village nearby.{p}Apparently, Growsians in the Kingdom of Burnstein have{n}been disappearing or dying under{n}mysterious circumstances.{p}{v:000E}And while we were investigating the cave, the village{n}chief, who was a Growsian, was murdered...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0102",
    "jp": "{v:000F}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0103",
    "jp": "{v:0010}むっ？{n}どうなされたのですか、陛下。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Hm? What is the matter, Your Majesty?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0104",
    "jp": "{v:0011}実は、我が国内でも、グローシアンが失踪するという{n}事件が多発しているのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}In fact, there have been many cases of Growsians{n}disappearing in our own kingdom as well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0105",
    "jp": "{v:0012}お前たちの報告を聞くと、{n}この事件が偶然のものとは思えなくなってきた。{n}早急に対応することにしよう。{p}{v:0013}まことに有益な情報であった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}After hearing your report, we can no longer regard{n}these incidents as a coincidence. We shall take{n}immediate action.{p}{v:0013}This information has been most valuable.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0106",
    "jp": "{v:0014}お褒めに与り、光栄です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}We are honored by your praise.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0107",
    "jp": "{v:0015}では今回の手柄に対し、休暇を授ける。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Now, we grant you leave in recognition of{n}your service.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0108",
    "jp": "{v:0000}おお、戻ったな。{p}{v:0001}ランザック王からの返事は、受け取ってきたか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Ah, you have returned.{p}{v:0001}Have you brought the King of Ranzak's reply?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0109",
    "jp": "{v:0001}ランザック王からの返事は、受け取ってきたか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Have you brought the King of Ranzak's reply?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0110",
    "jp": "　{n}　　『{FFEF}[02A4]ランザック王からの書簡{FFF1}』を渡した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Handed over the '{FFEF}[02A4]Letter from the King of{n}Ranzak{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0111",
    "jp": "{v:0002}どうやら、同盟は締結できたようだな。{n}これもお前たちの働きがあったからこそ{n}成し得たことだ。{p}{v:0003}迷いの森の遺跡を用い、バーンシュタインと{n}ランザックを戦わせるという事が無ければ、{n}決してこの同盟は成功していなかったであろう。{p}{v:0004}そしてバーンシュタインとランザックが戦っている{n}間に、我が方は防戦の準備をすることが出来た。{n}お前たちも安心して休暇を楽しむが良かろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}It seems we have secured the alliance. This was{n}possible only through your efforts.{p}{v:0003}Had you not used the Lost Forest ruins to set{n}Burnstein and Ranzak against one another, this alliance{n}would never have come to pass.{p}{v:0004}And while Burnstein and Ranzak were fighting, we were{n}able to prepare our defenses. You may enjoy your leave{n}with peace of mind.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0112",
    "jp": "{v:0000}おお、戻ったか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Ah, you have returned.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0113",
    "jp": "{v:0001}遺跡を起動し、{n}バーンシュタイン、ランザックの両軍の間に{n}戦闘を起こさせました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}We activated the ruins and provoked a battle between{n}the armies of Burnstein and Ranzak.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0114",
    "jp": "{v:0002}これでバーンシュタインとランザックの同盟も{n}決裂だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}So much for the alliance between Burnstein and Ranzak!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0115",
    "jp": "{v:0003}よくやってくれた。{p}{v:0004}本来ならばこの働きを評価し、{n}休暇を与えるところだが、今は事態が事態だ。{n}もう一働きしてもらうぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}You have done well.{p}{v:0004}Normally, we would reward your service with leave, but{n}circumstances do not permit it. We must ask one more{n}task of you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0116",
    "jp": "{v:0005}どんなことですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}What would that be?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0117",
    "jp": "{v:0006}お前たちに以前頼んだ、{n}ランザック王国との同盟の件だ。{p}{v:0007}彼らがバーンシュタインと戦争を始めた今なら、{n}同盟を結びやすいだろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}The alliance with the Kingdom of Ranzak that we asked{n}you to pursue earlier.{p}{v:0007}Now that they have gone to war with Burnstein, they{n}should be more willing to form an alliance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0118",
    "jp": "{v:0008}あ、そうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Oh, right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0119",
    "jp": "{v:0009}もうバーンシュタインの目を気にする必要はない。{n}我が国の特使として、{n}ランザック王国入りすればよかろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}You need no longer concern yourselves with Burnstein's{n}scrutiny. You may enter the Kingdom of Ranzak as our{n}special envoys.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0120",
    "jp": "　{n}　　『{FFEF}[02A4]ランザック王への書簡{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Obtained the '{FFEF}[02A4]Letter to the King of Ranzak{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0121",
    "jp": "{v:000A}これがランザック王国発行の通行証だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}This is a travel permit issued by the Kingdom{n}of Ranzak.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0122",
    "jp": "　{n}　『{FFEF}[0298]ランザック王国正規通行証{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　Obtained the '{FFEF}[0298]Official Ranzak Travel Permit{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0123",
    "jp": "{v:000B}頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0124",
    "jp": "{v:0051}おお、サンドラから聞いたぞ。{n}まさかあの２国が同盟を結ぼうとは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Ah, Sandra has told us. To think those two kingdoms{n}would form an alliance...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0125",
    "jp": "{v:0052}先を越されたようです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}It seems they have beaten us to it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0126",
    "jp": "{v:0053}この危機を救えるのはお前たちだけだ。{n}頼んだぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Only you can deliver us from this crisis. We are{n}counting on you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0127",
    "jp": "{v:0009}今日はどこへ行く？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Where shall we go today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0128",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Where will you spend your leave today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0129",
    "jp": "・王都ローザリア",
-   "en": "",
+   "en": "・Royal Capital Rosaria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0130",
    "jp": "・保養地ラシェル",
-   "en": "",
+   "en": "・Rachelle Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0131",
    "jp": "・魔法学院",
-   "en": "",
+   "en": "・Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0132",
    "jp": "・観光地コムスプリングス",
-   "en": "",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0133",
    "jp": "・{s:0010}",
-   "en": "",
+   "en": "・{s:0010}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0134",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Where will you spend your leave today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0135",
    "jp": "・王都ローザリア",
-   "en": "",
+   "en": "・Royal Capital Rosaria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0136",
    "jp": "・保養地ラシェル",
-   "en": "",
+   "en": "・Rachelle Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0137",
    "jp": "・魔法学院",
-   "en": "",
+   "en": "・Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0138",
    "jp": "・観光地コムスプリングス",
-   "en": "",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0139",
    "jp": "任務・ゲヴェルの調査",
-   "en": "",
-   "term": "end"
+   "en": "Mission: Investigate Gevel",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0140",
    "jp": "{v:0005}さて、次の任務だが、{n}急いで行うべきものは今のところない。{p}{v:0006}そこで、お前たちが調べたがっていた異形の件を{n}調査してくるというのはどうであろう？{p}{v:0007}もし異形があのゲヴェルだとすると、{n}遠からず我々人類と事を構えることになるはずだ。{p}{v:0008}その時のためにも異形の正体を知っておかねばならぬ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Now, as for your next assignment, there is nothing{n}that requires immediate attention.{p}{v:0006}With that in mind, why not investigate the abomination{n}you wished to learn more about?{p}{v:0007}If that abomination is indeed Gevel, it will surely come{n}into conflict with humanity before long.{p}{v:0008}We must learn its true nature in preparation for{n}that day.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0141",
    "jp": "{v:0009}そうだよね。{n}元々の目的って怪物の正体を探ることだもんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}That's right! Finding out what that monster is was our{n}goal in the first place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0142",
    "jp": "{v:000A}思い出すだけで、この目が、この腕がうずくぜ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Just thinking about it makes my eyes and arm ache...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0143",
    "jp": "任務・アイリーンを魔法学院へ",
-   "en": "",
-   "term": "end"
+   "en": "Mission: Escort Irene to the Magic Academy",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0144",
    "jp": "{v:0016}休暇はどうだったかな？{p}{v:0017}現在、お前たちの持ち帰った情報を重視し、{n}グローシアンの保護を進めることにした。{p}{v:0018}だが、１人だけ連絡の取れないグローシアンがいてな、{n}それで困っておる。{n}保養所に勤めている女性なのだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Did you enjoy your leave?{p}{v:0017}Taking the information you brought us seriously, we{n}have decided to take steps to protect the Growsians.{p}{v:0018}However, there is one Growsian we have been unable{n}to contact, and it concerns us. A woman who works at{n}the sanatorium...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0145",
    "jp": "{v:0019}それってあの人かな、ほら‥‥えっと、{n}{FC03}なんて名前だっけ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Could he mean her? You know... um... {FC03}What was her{n}name again?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0146",
    "jp": "保養所に勤めるグローシアンの名前は？",
-   "en": "",
-   "term": "end"
+   "en": "Name of the Growsian who works at the sanatorium?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0147",
    "jp": "・カレン",
-   "en": "",
+   "en": "・Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0148",
    "jp": "・アイリーン",
-   "en": "",
+   "en": "・Irene",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0149",
    "jp": "・名前は忘れたが、知っている",
-   "en": "",
+   "en": "・I know her, but I forgot her name",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0150",
    "jp": "・そんな女性は知らない",
-   "en": "",
+   "en": "・I don't know any such woman",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0151",
    "jp": "{v:001A}私はここにいますけど？{p}{v:001B}多分それはアイリーンさんのことだと思います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}But I'm right here...{p}{v:001B}I think he probably means Irene-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0152",
    "jp": "{v:001C}バカ！{n}なんでカレンさんなのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Idiot! Why would it be Karen-san?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0153",
    "jp": "{v:001D}アイリーンさんのことだと思う。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}I think he means Irene-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0154",
    "jp": "{v:001E}そうそう、その人！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Yes, yes, that's her!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0155",
    "jp": "{v:001F}それはアイリーンさんのことでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}That would be Irene-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0156",
    "jp": "{v:0020}確か、アイリーンさんの事だと思う。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}If I remember correctly, I think he means Irene-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0157",
    "jp": "{v:0021}何言ってんのよ！{n}会ったじゃない、カレンさんの恩人って人に！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}What are you talking about?! We met her! The woman{n}who helped Karen-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0158",
    "jp": "{v:0022}ほほぅ、知っているとは心強い。{n}それでは、お前たちが彼女を探し出して、{n}保護して欲しい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Ah, it is reassuring to hear that you know her. Then{n}we would like you to find her and bring her to safety.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0159",
    "jp": "{v:0023}アイリーンさんの保護ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}You want us to protect Irene-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0160",
    "jp": "{v:0024}そうだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Indeed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0161",
    "jp": "{v:0025}ひょっとするとアイリーンさんのことかしら？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}I wonder, could you mean Irene-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0162",
    "jp": "{v:0026}カレンさん、知ってるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Karen-san, you know her?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0163",
    "jp": "{v:0027}ええ。{n}私もあの保養所でお手伝いをしていましたから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Yes. I used to help out at that sanatorium myself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0164",
    "jp": "{v:0028}知り合いであれば心強い。{n}彼女を無事保護して欲しい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}It is reassuring that you know her. We would like you to{n}bring her safely into our protection.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0165",
    "jp": "{v:0029}女性なのですね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}A woman, you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0166",
    "jp": "{v:002A}名前はアイリーンというらしい。{p}‥‥{v:002B}ふむ。{n}ではそれを次の任務としよう。{n}お前たちに彼女の発見と保護を頼みたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}We are told her name is Irene.{p}...{v:002B}Hmm. Then this shall be your next assignment. We ask{n}that you find her and bring her to safety.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0167",
    "jp": "{v:002C}はぁい♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Okaaay♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0168",
    "jp": "{v:002D}それで、保護した後は、{n}どこへ連れていけばいいのでしょう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}And once she is safe, where should we take her?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0169",
    "jp": "{v:002E}お前のよく知っているところ、魔法学院だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Somewhere you know well: the Magic Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0170",
    "jp": "{v:002F}魔法学院に？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}To the Magic Academy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0171",
    "jp": "{v:0030}すでに学院長には、{n}協力してくれるよう連絡をとってある。{n}頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}We have already contacted the Headmaster to request{n}his cooperation. We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0172",
    "jp": "任務・オリビエ湖の調査",
-   "en": "",
-   "term": "end"
+   "en": "Mission: Investigate Lake Olivier",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0173",
    "jp": "{v:0020}休暇はどうだったかな？{p}{v:0021}さて、次の任務だが、{n}引き続きゲヴェルの調査を進めるのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Did you enjoy your leave?{p}{v:0021}Now, for your next assignment, you are to continue{n}your investigation of Gevel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0174",
    "jp": "{v:0024}承知いたしました。{n}ゲヴェルに関係あると思われる、{n}オリビエ湖を調査いたします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Understood. We will investigate Lake Olivier, which we{n}believe may be connected to Gevel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0175",
    "jp": "{v:0025}オリビエ湖だと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Lake Olivier, you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0176",
    "jp": "{v:0026}オリビエ湖のそばに怪物たちがいる夢を、{n}コイツが見たの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}This guy had a dream about monsters near Lake Olivier.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0177",
    "jp": "{v:0027}そうであったか。{n}ならば、街の西側から北に延びる、{n}シュテーム山沿いの道を使うがよかろう。{p}{v:0028}ノストリッジ平原の部隊に物資を送るために{n}作った道だが、ようやく完成したのだ。{p}{v:0029}北のオリビエ湖の辺りにはバーンシュタイン王国軍が{n}展開していて、たどり着くためには戦線を{n}バーンシュタイン王国側へ押し戻す必要がある。{p}{v:002A}だが物資がノストリッジ平原へ届けられるように{n}なったのだ。{n}そう遠くないうちに戦線を押し返せるであろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}We see. Then you should take the road that runs{n}north from the west side of the city, along{n}Mount Shutem.{p}{v:0028}It was built to carry supplies to our troops on the{n}Nostridge Plains, and it is finally complete.{p}{v:0029}The Kingdom of Burnstein's army is deployed around{n}Lake Olivier to the north. To reach it, we must push the{n}front line back toward Burnstein.{p}{v:002A}But now that supplies can reach the Nostridge Plains, we{n}should be able to push them back before long.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0178",
    "jp": "　{n}　　　　　こちらからは開けない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　It won't open from this side...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0179",
    "jp": "謁見の間に行きたければ、{n}正面から堂々と入ることだ。",
-   "en": "",
-   "term": "end"
+   "en": "If you wish to enter the audience chamber, do so{n}openly through the front entrance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0180",
    "jp": "これでようやく、同胞の敵が討てるのだな。{n}このチャンスを見逃す手はない。{n}一気にバーンシュタインに攻め込むとするか！",
-   "en": "",
-   "term": "end"
+   "en": "At last, we can avenge our countrymen. We can't let{n}this chance slip by. Let's strike straight into Burnstein!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0181",
    "jp": "どうした？{n}迷子にでもなったのか？",
-   "en": "",
-   "term": "end"
+   "en": "What's wrong? Get yourself lost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0182",
    "jp": "３階は王とレティシア姫の居室となっています。",
-   "en": "",
-   "term": "end"
+   "en": "The third floor houses the private quarters of the{n}King and Princess Leticia.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0183",
    "jp": "ここはアルカディウス王の寝室です。",
-   "en": "",
-   "term": "end"
+   "en": "This is King Alcadius's bedchamber.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0184",
    "jp": "ここはレティシア姫の寝室です。",
-   "en": "",
-   "term": "end"
+   "en": "This is Princess Leticia's bedchamber.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0185",
    "jp": "{v:0045}アイリーンさんの行き先がわからない以上、{n}どうやって探せばいいのかな？{p}{v:0046}アンタ、どこから探すつもり？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}How are we supposed to find Irene-san when we don't{n}even know where she went?{p}{v:0046}Where are you planning to start looking?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0186",
    "jp": "どこからアイリーンを探しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Where will you start looking for Irene?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0187",
    "jp": "・保養所から",
-   "en": "",
+   "en": "・At the sanatorium",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0188",
    "jp": "・魔法学院から",
-   "en": "",
+   "en": "・At the Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0189",
    "jp": "・見当もつかない",
-   "en": "",
+   "en": "・I have no idea",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen008.0190",
    "jp": "{v:0047}そうだな。{n}いないとわかっていても、手がかりくらい{n}つかめるかも知れんからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Right. We know she isn't there, but we might at least{n}find a lead.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0191",
    "jp": "{v:0048}魔法学院？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}The Magic Academy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0192",
    "jp": "{v:0049}もう学院に保護されてるかも知れないってこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}You mean she might already be under the{n}Academy's protection?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0193",
    "jp": "{v:004A}そりゃ、ないんじゃないか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}I doubt that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0194",
    "jp": "{v:004B}だらしないわね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}You're hopeless!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0195",
    "jp": "{v:004C}う～ん。{n}アイリーンさんを知っている人から、彼女が{n}行きそうな場所を聞いた方がいいと思うんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Hmm. I think we should ask someone who knows{n}Irene-san where she might go.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0196",
    "jp": "{v:004D}そうだな。{n}となると、保養所からか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Right. The sanatorium, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0197",
    "jp": "保養所かぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The sanatorium, huh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0198",
    "jp": "どうしたの、ミーシャ？",
-   "en": "",
-   "term": "end"
+   "en": "What's wrong, Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0199",
    "jp": "そこの西にね、{n}すっごく小さな田舎の村があるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "There's this really tiny country village to the west{n}of there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0200",
    "jp": "メディス村のこと？{n}アンタ、そこに住んでたって言ってたっけ？",
-   "en": "",
-   "term": "end"
+   "en": "You mean Medis Village? Didn't you say you used to{n}live there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0201",
    "jp": "うん★{n}アタシの生まれた村だよ。{p}本当に何もない所なんだけど、{n}自然に恵まれてるから、薬草とかいっぱい採れるんだ。{n}あとお気に入りのお花畑があるの！",
-   "en": "",
-   "term": "end"
+   "en": "Yep! That's where I was born.{p}There really isn't much there, but it's surrounded by{n}nature, so you can gather all sorts of herbs. And{n}there's my favorite flower meadow!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0202",
    "jp": "ミーシャって、本当にお花が好きなのね。",
-   "en": "",
-   "term": "end"
+   "en": "You really do love flowers, don't you, Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0203",
    "jp": "とくにあのお花畑は、{n}おじさまに車百合をもらった思い出があるから。",
-   "en": "",
-   "term": "end"
+   "en": "That meadow is especially dear to me. I remember Uncle{n}giving me a wheel lily there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0204",
    "jp": "‥‥あの学院長がお花をくれても、{n}あんまりいい思い出って感じがしないけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Flowers from that Headmaster? Doesn't sound like a{n}happy memory to me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0205",
    "jp": "だから、そんな花畑はなかったんだってば！",
-   "en": "",
-   "term": "end"
+   "en": "I told you, there wasn't any flower meadow like that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0206",
    "jp": "おっかしいなぁ‥‥。{p}確かにおじさまに車百合をもらった記憶が{n}あるんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "That's so strange...{p}I distinctly remember Uncle giving me a wheel{n}lily, though...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0207",
    "jp": "細かいことはどっちでもいいじゃない。{n}いい思い出なんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "The little details don't matter, do they? It's a happy{n}memory, isn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0208",
    "jp": "今度、みんなで遊びに行きましょうね！{n}のどかでいいところだよ★",
-   "en": "",
-   "term": "end"
+   "en": "Let's all go there sometime! It's such a lovely,{n}peaceful place!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0209",
    "jp": "ふ～ん、そののどかさのせいで、{n}アンタみたいなとぼけた奴が生まれちゃうんだ。",
-   "en": "",
-   "term": "end"
+   "en": "Huh. So that's how you ended up such an airhead. All{n}that peace and quiet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0210",
    "jp": "うぅ‥‥ヒドイよ、ティピちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Aww... That's mean, Tippi-chan...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0211",
    "jp": "ま、機会があったら寄ってあげてもいいよね？",
-   "en": "",
-   "term": "end"
+   "en": "Well, I guess we could drop by if we get the{n}chance, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0212",
    "jp": "お、お兄ちゃん‥‥。{n}王様の前で魔法を使うのは、よくないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "B-Big Brother... You shouldn't use magic in front of{n}the King...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen008.0213",
@@ -1316,8 +1527,9 @@
   {
    "id": "scen008.0214",
    "jp": "せっかくお兄さんと再会できたんだから、{n}もうちょっとゆっくりしていこうよ。",
-   "en": "",
-   "term": "end"
+   "en": "You've finally been reunited with your brother. Let's{n}stay a little longer.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

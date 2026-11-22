@@ -15,278 +15,323 @@
   {
    "id": "scen195.0001",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0002",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0003",
    "jp": "ブロンソン将軍",
-   "en": "",
-   "term": "null"
+   "en": "General Bronson",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0004",
    "jp": "王母アンジェラ",
-   "en": "",
-   "term": "null"
+   "en": "Queen Mother Angela",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0005",
    "jp": "ダグラス卿",
-   "en": "",
-   "term": "null"
+   "en": "Lord Douglas",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0006",
    "jp": "執事",
-   "en": "",
-   "term": "null"
+   "en": "Butler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0007",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0008",
    "jp": "仕立屋",
-   "en": "",
-   "term": "null"
+   "en": "Tailor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0009",
    "jp": "ジュリアン",
-   "en": "",
-   "term": "null"
+   "en": "Julian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0010",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0011",
    "jp": "警備兵",
-   "en": "",
-   "term": "null"
+   "en": "Guard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0012",
    "jp": "アナウンス",
-   "en": "",
-   "term": "null"
+   "en": "Announcer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen195.0013",
    "jp": "さて、着いたね。{n}お城に行かなくちゃ。",
-   "en": "",
-   "term": "end"
+   "en": "Well, here we are. We'd better go to the castle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0014",
    "jp": "来たか、お前たち。{n}パーティーまではまだ時間があるから{n}しばらくゆっくりしていてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "Ah, you have arrived. There is still some time before{n}the party, so make yourselves comfortable.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0015",
    "jp": "じゃあ、解散しようか？{n}みんな、お城で会おうね。",
-   "en": "",
-   "term": "end"
+   "en": "Shall we split up, then? See you all at the castle!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0016",
    "jp": "{v:009D}お前に少し頼みたいことがある。{n}実は今日の宴は、私のお披露目でもあるのだ‥‥。{p}{v:009E}どうも男として暮らすのが長かったせいか、{n}そういった感覚にうとくてな。{p}{v:009F}私はこの格好でもかまわないのだが、{n}陛下がぜひにというのだ‥‥。{p}{v:00A0}だから‥‥少しつき合ってもらえるか‥‥？{FFF9}{FFFB}{n}{v:00A1}アンジェラ様が私に服を譲って下さったので、{n}それを仕立屋で手直ししたいのだ。{p}{v:00A2}それに‥‥この服が似合うかどうか、{n}皆に見せる前に見てもらいたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009D}I have a small favor to ask of you. Tonight's banquet is{n}also to be my formal debut...{p}{v:009E}Perhaps I have lived as a man for too long. I have little{n}sense for such things.{p}{v:009F}I would be content to wear what I have on, but His{n}Majesty insists...{p}{v:00A0}So... would you accompany me for a{n}while...?{FFF9}{FFFB}{v:00A1}Angela-sama has given me a dress, and I{n}would like to have a tailor alter it.{p}{v:00A2}And... before everyone else sees me, I would like you to{n}tell me whether it suits me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0017",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0018",
    "jp": "・うなずく",
-   "en": "",
+   "en": "・Nod",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0019",
    "jp": "・自信がないと言う",
-   "en": "",
+   "en": "・Say you're not confident",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0020",
    "jp": "{v:00A3}かまわん。{n}お前なら大丈夫だろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A3}That does not matter. I am sure you will do{n}well enough.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0021",
    "jp": "{v:00A4}ところで腕の良い仕立屋がいると聞いているのだが、{n}どこにいるか知っているか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A4}By the way, I hear there is a skilled tailor here. Do you{n}know where to find him?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0022",
    "jp": "どう答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0023",
    "jp": "・知っていると言う",
-   "en": "",
+   "en": "・Say you know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0024",
    "jp": "・知らないので一緒に探そうと言う",
-   "en": "",
+   "en": "・Say you don't know; offer to help look",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0025",
    "jp": "{v:00A5}では行こうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A5}Shall we go, then?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0026",
    "jp": "{v:00A6}お前なら知っていると思ったが‥‥。{FFF9}{FFFB}{n}{v:00A7}しかたない。{n}少し探すとしよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A6}I thought you would know...{FFF9}{FFFB}{v:00A7}No matter. Let us{n}look around.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0027",
    "jp": "どこ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0028",
    "jp": "今日って、お城の方がなんだかにぎやかね。",
-   "en": "",
-   "term": "end"
+   "en": "The castle seems rather lively today, doesn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0029",
    "jp": "ここはバーンシュタイン王都だ。",
-   "en": "",
-   "term": "end"
+   "en": "This is the Burnstein Royal Capital.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0030",
    "jp": "{v:0100}ふぅ、危ないところだったな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0100}Whew... That was a close call.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0031",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0032",
    "jp": "・怪我はないか聞く",
-   "en": "",
+   "en": "・Ask if she's hurt",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0033",
    "jp": "・なぜ仮面騎士が現れたのか聞く",
-   "en": "",
+   "en": "・Ask why the Masked Knight appeared",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0034",
    "jp": "{v:0101}ああ、おかげでな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0101}I am unharmed, thanks to you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0035",
    "jp": "{v:0102}おおかた、お前たちが帰ったのを見計らって、{n}奇襲をかけたつもりだったのだろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0102}Most likely, he waited until you had all left, intending to{n}launch a surprise attack...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0036",
    "jp": "{v:0103}ふふふ、しかしまさかお前に助けられるとはな。{n}まるで夢でも見ているようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0103}Heh heh... Still, I never imagined you would come to my{n}rescue. It feels almost like a dream...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0037",
    "jp": "{v:0104}どうしたのジュリアン？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0104}What's wrong, Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0038",
    "jp": "{v:0105}いや、なんでもない‥‥。{n}少し嬉しかっただけだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0105}Nothing... I was just a little happy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0039",
    "jp": "{v:0106}大丈夫だったか！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0106}Are you all right?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0040",
    "jp": "{v:0107}ああ、彼のおかげでなんとか無事だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0107}Yes. Thanks to him, I came through unharmed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0041",
    "jp": "{v:0108}奴は陛下を狙ってきたのでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0108}He must have been after His Majesty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0042",
    "jp": "{v:0109}とりあえず奴は撃退できたようだが、{n}また次が来ないとも限らない。{n}城の見張りを厳重にしておこう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0109}We seem to have driven him off for now, but another{n}attack is possible. I will strengthen the castle guard.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0043",
    "jp": "{v:010A}申し訳ありません、{n}みなさんを騒ぎに巻き込んでしまったようです。{p}{v:010B}今日の所はこれでお開きにしましょう。{n}この埋め合わせは、{n}また次の機会にでもしたいと思います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:010A}My apologies. It seems I have drawn you all into{n}this disturbance.{p}{v:010B}Let us bring the festivities to a close for today. I{n}hope to make this up to you on another occasion.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0044",
    "jp": "{v:00EC}ふぅ‥‥お前が変なことをするから、{n}かえって暑くなってきたぞ。{p}‥‥{v:00ED}しかし不思議な男だ。{n}お前に愛される女は、きっと果報者なのだろうな‥‥。{p}{v:00EE}私はこれまで男という存在を{n}特別視したことはなかったが、{n}どうやらお前はそういうものに値するやもしれん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00EC}Whew... Your strange antics have only made me{n}feel warmer.{p}...{v:00ED}You are a curious man, though. Any woman you love{n}must surely be fortunate...{p}{v:00EE}I have never felt that way about a man before, but{n}perhaps you could be the exception...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0045",
    "jp": "{v:00EF}ふぅ‥‥、疲れたな。{p}‥‥{v:00F0}しかしお前は不思議な男だ。{n}お前に愛される女は、きっと果報者なのだろうな‥‥。{p}{v:00F1}私はこれまで男という存在を{n}特別視したことはなかったが、{n}どうやらお前はそういうものに値するやもしれん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00EF}Whew... I am tired.{p}...{v:00F0}You are a curious man, though. Any woman you love{n}must surely be fortunate...{p}{v:00F1}I have never felt that way about a man before, but{n}perhaps you could be the exception...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0046",
@@ -297,377 +342,439 @@
   {
    "id": "scen195.0047",
    "jp": "{v:00F2}貴様！{n}こんな時に現れるとは！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F2}You! Of all times to appear!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0048",
    "jp": "{v:00F3}くっ！{n}見つかったか！{n}もう少しで、王の所まで忍び寄れたものを！{p}{v:00F4}まぁいい。{n}欠陥品共々、ここで蹴散らしてくれる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F3}Damn! Spotted! I was so close to reaching the{n}king unnoticed!{p}{v:00F4}No matter. I'll crush you here, along with that{n}defective specimen!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0049",
    "jp": "ジュリアンを放ってどこ行くのよ！？",
-   "en": "",
-   "term": "end"
+   "en": "Where are you going?! You can't just leave Julian!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0050",
    "jp": "君は我が軍の誇りだよ。",
-   "en": "",
-   "term": "end"
+   "en": "You are the pride of our army.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0051",
    "jp": "{v:00DA}んふふふふ‥‥{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DA}Hee hee hee...{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0052",
    "jp": "{v:00DB}な、何だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DB}Wh-what is it...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0053",
    "jp": "{v:00DC}いやぁ、馬子にも衣装って言葉、思い出しちゃってさ。{n}あのジュリアンも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DC}Oh, I was just reminded of that saying, 'Even a{n}scarecrow looks fine in fine clothes.' Even Julian...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0054",
    "jp": "{v:00DD}こんな羽虫は放っておいて、{n}外で涼まないか？{p}‥‥{v:00DE}ここは少し暑い。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DD}Let us ignore this little gnat. Shall we go outside to{n}cool off?{p}...{v:00DE}It is a little warm in here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0055",
    "jp": "リーヴス、俺を酔わせてどうするつもりだ？",
-   "en": "",
-   "term": "end"
+   "en": "Reeves, what are you planning to do once you have{n}me drunk?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0056",
    "jp": "どうだいライエル？{n}このシュッツベルグ産のワインは絶品だよ。",
-   "en": "",
-   "term": "end"
+   "en": "What do you think, Lyell? This wine from Schutzberg{n}is exquisite.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0057",
    "jp": "あなた方には、お世話になりっぱなしですね。",
-   "en": "",
-   "term": "end"
+   "en": "You have done so much for us, time and again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0058",
    "jp": "おお、ジュリア‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Julia...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0059",
    "jp": "ジュリアを頼むぞ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Take good care of Julia...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0060",
    "jp": "すごいごちそうだね。",
-   "en": "",
-   "term": "end"
+   "en": "What an amazing feast!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0061",
    "jp": "周りがキラキラして目がまわりそう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Everything's so sparkly, it's making my head spin...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0062",
    "jp": "さすがはバーンシュタイン国王のパーティー。{n}格が違うね。",
-   "en": "",
-   "term": "end"
+   "en": "Just what you'd expect of a party hosted by the King{n}of Burnstein. It's in a class of its own.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0063",
    "jp": "どうも、こういった雰囲気にはなじめんな。",
-   "en": "",
-   "term": "end"
+   "en": "I just can't get used to this sort of atmosphere.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0064",
    "jp": "エリオットさん、{n}どんな王様になるんでしょうね？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder what kind of king Elliot-san will be?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0065",
    "jp": "カレン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Karen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0066",
    "jp": "どうも、肩身が狭いぜ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I feel like I don't belong here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0067",
    "jp": "慣れない演説なんかしたから{n}疲れちゃいましたよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm not used to making speeches. It's worn me out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0068",
    "jp": "{n}　　　　　　　鍵が閉まっている。",
-   "en": "",
-   "term": "end"
+   "en": "{n}　　　　　　　It's locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0069",
    "jp": "まず、国王陛下にご挨拶せねば。",
-   "en": "",
-   "term": "end"
+   "en": "First, I must pay my respects to His Majesty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0070",
    "jp": "招待客もそろった事ですし、{n}パーティーを始めましょう。",
-   "en": "",
-   "term": "end"
+   "en": "Now that all our guests are here, let us begin{n}the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0071",
    "jp": "{v:00C9}みなさま、ご静粛に。{n}これよりエリオット陛下のお言葉を頂こうと思います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C9}Your attention, please. His Majesty Elliot will now{n}address you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0072",
    "jp": "{v:00CA}今日こうして私が王位を取り戻すことができたのも、{n}ここに集まって頂いた皆様方のおかげです。{p}{v:00CB}まだ王の職務になれておりませんが、{n}皆様のご助言を頂きながら、{n}よりよい政治を執り行って行きたいと思います。{p}{v:00CC}どうかこれからも、よろしくお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CA}I owe my return to the throne today to all of you{n}gathered here.{p}{v:00CB}I am still unfamiliar with my duties as king, but with{n}your counsel, I hope to govern this kingdom better.{p}{v:00CC}I ask for your continued support.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0073",
    "jp": "{v:00CD}今日はもう１つ、{n}みなさんにお知らせしたいことがあります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CD}There is one more thing I would like to{n}announce today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0074",
    "jp": "{v:00CE}彼女の名はジュリア・ダグラス。{n}心技体すべてにおいて優れ、{n}人々の模範となれる素晴らしい女性です。{p}{v:00CF}そして私は、彼女を女性で最初の、{n}インペリアル・ナイトに任命します！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CE}Her name is Julia Douglas. She is an exceptional woman,{n}outstanding in character, skill, and strength, and an{n}example to us all.{p}{v:00CF}And I hereby appoint her our first female{n}Imperial Knight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0075",
    "jp": "{v:00D0}伝統あるインペリアル・ナイトの称号を{n}女性に与えることに批判的な方も{n}いらっしゃるでしょう。{p}{v:00D1}しかし思い出して下さい。{n}ナイツは国の威信と守護を目的とした、{n}最強の精鋭騎士団です。{p}{v:00D2}ならば優れた人の登用こそ、ナイツにとって{n}必要なことではないでしょうか。{n}人の評価に、性別や家柄など不要なのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D0}Some of you may object to granting the time-honored{n}title of Imperial Knight to a woman.{p}{v:00D1}But remember: the Knights are our finest elite order,{n}charged with upholding our nation's prestige and{n}defending it.{p}{v:00D2}Should we not, then, recruit the most capable people{n}into their ranks? Neither gender nor lineage has any{n}place in judging a person's worth.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0076",
    "jp": "{v:00D3}そこで私は宣言します。{p}{v:00D4}インペリアル・ナイトの称号は、{n}性別、家柄を問わず、{n}心技体すべてに優れた者に与えることを。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D3}I therefore declare:{p}{v:00D4}The title of Imperial Knight shall be granted to those{n}who excel in character, skill, and strength, regardless{n}of gender or lineage.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0077",
    "jp": "{v:00D5}彼女はこれまで、ジュリアン・ダグラスの名で{n}ナイトをつとめてきました。{p}{v:00D6}そこで混乱を防ぐ意味を含めて、{n}今しばらくはジュリアン・ダグラスで{n}通すとのことです。{p}{v:00D7}これまで同様、彼女の活躍に期待したいと思います。{n}頼みますよ、ジュリアン。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D5}Until now, she has served as a knight under the name{n}Julian Douglas.{p}{v:00D6}Partly to avoid confusion, she has chosen to continue{n}using the name Julian Douglas for the time being.{p}{v:00D7}I look forward to her continued achievements. We are{n}counting on you, Julian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0078",
    "jp": "{v:00D8}はっ、陛下！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D8}Yes, Your Majesty!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0079",
    "jp": "{v:00D9}今日は皆様方のために、{n}ささやかな宴を用意しました。{n}楽しんでいただけると幸いです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D9}We have prepared a modest banquet for you all today.{n}I hope you will enjoy yourselves.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0080",
    "jp": "パーティー行くんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "You're going to the party, aren't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0081",
    "jp": "古井戸の中の通路は頑丈な鉄格子で{n}内側から閉じられていた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The passage inside the old well was barred from within{n}by a sturdy iron grating...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0082",
    "jp": "ようこそ、エリオット王戴冠記念パーティーへ！",
-   "en": "",
-   "term": "end"
+   "en": "Welcome to the celebration of King Elliot's coronation!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0083",
    "jp": "バーンシュタイン王都",
-   "en": "",
-   "term": "end"
+   "en": "Burnstein Royal Capital",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0084",
    "jp": "ここから先は王家の直轄地である。{n}たとえ王の知人といえども、{n}一般人が足を踏み入れることはできません。",
-   "en": "",
-   "term": "end"
+   "en": "The land beyond this point is under the royal family's{n}direct control. Civilians may not enter, even if they are{n}acquainted with the king.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0085",
    "jp": "あれ以来、化け物の姿はなくなりました。",
-   "en": "",
-   "term": "end"
+   "en": "There have been no sightings of the monster{n}since then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0086",
    "jp": "お気をつけて。",
-   "en": "",
-   "term": "end"
+   "en": "Take care.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0087",
    "jp": "化け物はいなくなったようですが。",
-   "en": "",
-   "term": "end"
+   "en": "The monster seems to be gone, though.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0088",
    "jp": "この先です。{n}この先に化け物が住み着いているみたいです。",
-   "en": "",
-   "term": "end"
+   "en": "Just ahead. The monster seems to have made its home{n}up ahead.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0089",
    "jp": "ぼ、ぼっちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "Y-young master!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0090",
    "jp": "‥‥人違いでした。失礼。",
-   "en": "",
-   "term": "end"
+   "en": "...I mistook you for someone else. My apologies.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0091",
    "jp": "うちの坊ちゃんはしばらく前に家を{n}飛び出したっきり戻られなくて‥‥。{p}このままでは豪商といわれたハウエル家も‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Our young master ran away from home some time ago{n}and has not returned...{p}At this rate, even the Howell family, once renowned as{n}great merchants...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0092",
    "jp": "ラルフ坊ちゃんはいつ戻られるのだろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "When will young Master Ralph return...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0093",
    "jp": "お部屋のご利用は{n}宿代を払ってからにして下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please pay for your stay before using a room.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0094",
    "jp": "{v:00AF}いらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AF}Welcome.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0095",
    "jp": "{v:00B0}仕立屋さんっている？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B0}Is the tailor here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0096",
    "jp": "{v:00B1}ああ、うちの親父ですね。{n}そこにいますよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B1}Ah, you mean my father. He's right over there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0097",
    "jp": "親父になにか御用ですか？",
-   "en": "",
-   "term": "end"
+   "en": "Did you need something from my father?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0098",
    "jp": "いかがです、うちの親父の腕は？",
-   "en": "",
-   "term": "end"
+   "en": "What do you think of my father's handiwork?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0099",
    "jp": "{v:00B2}わしになにかご用かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B2}What can I do for you, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0100",
    "jp": "{v:00B3}実はこのドレスの仕立て直しを頼みたいのだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B3}I would like to have this dress altered...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0101",
    "jp": "{v:00B4}うむ、わしに任せておけ。{n}で、どんな具合に直して欲しいんじゃ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B4}Hmm, leave it to me. Now, what sort of changes did you{n}have in mind, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0102",
    "jp": "{v:00B5}お前はどんなのがいいと思う？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B5}What sort of style do you think would suit me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0103",
    "jp": "・おとなしい服",
-   "en": "",
+   "en": "・Something understated",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0104",
    "jp": "・露出の多い服",
-   "en": "",
+   "en": "・Something revealing",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0105",
    "jp": "・派手な服",
-   "en": "",
+   "en": "・Something flashy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0106",
    "jp": "{v:00B6}うむ、任せておけ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B6}Very well. Leave it to me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0107",
    "jp": "{v:00B7}難しい注文をしおるな‥‥。{FFF9}{FFFB}{n}{v:00B8}いくらわしでも、元のデザインを大きく変えることはできんぞ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B7}That's quite a tall order...{FFF9}{FFFB}{v:00B8}Even these old hands can't{n}change the original design all that much, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0108",
    "jp": "{v:015C}そうじゃな、それなりに布を足せば出来なくもない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:015C}Well now, it could be done if I added enough fabric.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0109",
@@ -678,396 +785,461 @@
   {
    "id": "scen195.0110",
    "jp": "{v:00BA}それは困る。{n}今夜には着なければならない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BA}That will not do. I must wear it tonight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0111",
    "jp": "{v:00BB}今夜じゃと！？{FFF9}{FFFB}{n}‥‥{v:00BC}うーむ。{n}サイズ直しだけでも、ぎりぎりというところじゃな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BB}Tonight, you say?!{FFF9}{FFFB}...{v:00BC}Hmm. Even just adjusting the fit{n}would be cutting it close.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0112",
    "jp": "{v:00BD}しかたあるまい。{n}それでお願いする。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BD}It cannot be helped. Please do it that way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0113",
    "jp": "{v:00BF}待たせたな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BF}Sorry to have kept you waiting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0114",
    "jp": "お城に行くんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "We're going to the castle, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0115",
    "jp": "仕立屋さんを探すんでしょ！？",
-   "en": "",
-   "term": "end"
+   "en": "We're supposed to be looking for a tailor, remember?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0116",
    "jp": "{v:015D}どうしたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:015D}What's wrong?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0117",
    "jp": "‥‥{v:015E}私、どこかおかしいか？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:015E}Is there something strange about me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0118",
    "jp": "{v:015F}別に。{n}普通だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:015F}Nope. You look fine.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0119",
    "jp": "{v:0160}なんだか、{n}みんなに見られているような気がするんだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0160}Somehow, I feel as though everyone is staring at me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0120",
    "jp": "{v:0161}ん？{n}なんでかわかんないの？{FFF9}{FFFB}{n}{v:0162}それじゃちょっと周りの声に耳を澄ましてみたら？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0161}Huh? You really don't know why?{FFF9}{FFFB}{v:0162}Then why don't you{n}listen to what people around us are saying?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0121",
    "jp": "{v:0163}あれ誰だ？　あんな美人、見かけたことないぞ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0163}Who's that? I've never seen a beauty like her{n}around here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0122",
    "jp": "{v:0164}きれい‥‥、あの人誰かしら‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0164}How beautiful... I wonder who she is...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0123",
    "jp": "{v:0165}な‥‥。{FFF9}{FFFB}{n}{v:0166}私が美人‥‥！？{p}{v:0167}そ、そんな‥‥。{p}{v:0169}そ、それは‥‥考えたこともなかった‥‥。{p}{v:016A}このまま消えてしまいたいくらい恥ずかしい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0165}Wha...{FFF9}{FFFB}{v:0166}I am beautiful...?!{p}{v:0167}B-but...{p}{v:0169}That... never even occurred to me...{p}{v:016A}I am so embarrassed, I wish I could disappear...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0124",
    "jp": "仕立屋さんなら宿屋の主人のおやじだよ。",
-   "en": "",
-   "term": "end"
+   "en": "The tailor? He's the innkeeper's father.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0125",
    "jp": "きれいな人を連れてるね。{n}うらやましい‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What a beauty you've got with you. I'm jealous...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0126",
    "jp": "仕立屋さん？{n}うーん、知らないな。",
-   "en": "",
-   "term": "end"
+   "en": "A tailor? Hmm, I don't know one.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0127",
    "jp": "おや、お城のパーティーに行くのかい？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, are you going to the party at the castle?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0128",
    "jp": "仕立屋さんと言えば腕のいいのがいたな。{n}どこに住んでいるのかはよく知らないけど。",
-   "en": "",
-   "term": "end"
+   "en": "A tailor, you say? There was a good one around here.{n}I'm not really sure where he lives, though.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0129",
    "jp": "おお、すばらしいドレスじゃないか。{n}どこで仕立ててもらったんだい？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, what a splendid dress! Where did you have it made?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0130",
    "jp": "今日はお城のパーティーなんですって。{n}ああ、行きたいわ。",
-   "en": "",
-   "term": "end"
+   "en": "I hear there's a party at the castle today. Oh, I'd love{n}to go.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0131",
    "jp": "仕立屋さん？{n}うーん、ドレスに縁がないからね。",
-   "en": "",
-   "term": "end"
+   "en": "A tailor? Hmm, dresses aren't really part of my life.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0132",
    "jp": "なんだい？{FFFB}{n}‥{FE0F}‥{FE0F}‥{FE0F}自慢しにきたの？",
-   "en": "",
-   "term": "end"
+   "en": "What is it?{FFFB}...{FE0F}...{FE0F}...{FE0F}Did you come here to show off?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0133",
    "jp": "不謹慎だけど、戦争が終わったら{n}武器の売り上げが落ちたな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I know it's a terrible thing to say, but weapon sales{n}have dropped since the war ended...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0134",
    "jp": "今日はお城から大量の注文があったよ。{n}おかげで大もうけよ。",
-   "en": "",
-   "term": "end"
+   "en": "The castle placed a huge order today. I've made a tidy{n}profit, thanks to that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0135",
    "jp": "王様が変わってからなんとなく{n}街が和やかになったよ。",
-   "en": "",
-   "term": "end"
+   "en": "The town somehow feels more peaceful since the new{n}king took over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0136",
    "jp": "うわっ、すごい美人を連れてるね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Wow, you've got quite a beauty with you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0137",
    "jp": "エリオット王ってなんだか頼りない感じだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "King Elliot doesn't exactly inspire confidence...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0138",
    "jp": "なんてきれいな人なんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What a beautiful woman...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0139",
    "jp": "王様が変わったって言うけど、{n}そもそもリシャール王ってどんな人だか{n}良く知らなかったよ。",
-   "en": "",
-   "term": "end"
+   "en": "They say we have a new king, but I never really knew{n}what King Richard was like in the first place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0140",
    "jp": "きれい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "So beautiful...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0141",
    "jp": "今日ってお城でパーティーなんですってね？",
-   "en": "",
-   "term": "end"
+   "en": "There's a party at the castle today, isn't there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0142",
    "jp": "あこがれちゃうわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, to be like her...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0143",
    "jp": "{v:00C0}どうだろう、似合うだろうか‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C0}Well? Does it suit me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0144",
    "jp": "どう答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0145",
    "jp": "・似合っていると言う",
-   "en": "",
+   "en": "・Say it suits her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0146",
    "jp": "・笑顔の方がいいと言う",
-   "en": "",
+   "en": "・Say she'd look better with a smile",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0147",
    "jp": "{v:00C1}そうか？{n}お前が似合うというなら、そうなのだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C1}Does it? If you say it suits me, then I suppose it must.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0148",
    "jp": "{v:00C2}こ‥‥こうか‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C2}L-like this...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0149",
    "jp": "{v:00C3}ジュリアンかわいぃ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C3}Julian, you're so cuuute!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0150",
    "jp": "‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0151",
    "jp": "{v:00C4}こんな服は初めて着たが‥‥なんだか頼りない感じだ。{n}普通の女性はこんなものを普段着ているのだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C4}I have never worn anything like this... It feels rather{n}flimsy. So this is what most women wear every day...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0152",
    "jp": "{v:00C5}ねぇ、そろそろ宴の時間じゃない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C5}Hey, isn't it almost time for the banquet?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0153",
    "jp": "{v:00C6}そうだな、そろそろ行くとしよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C6}Indeed. We should be on our way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0154",
    "jp": "{v:00DF}お前とは、ずいぶん長いつき合いのような気がするが、{n}実際には、まだそれほど経っていないのだな。{p}{v:00E0}やはり戦場などで会う機会が多かったせいか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DF}I feel as though I have known you for a very long{n}time, yet it has not actually been that long.{p}{v:00E0}Perhaps it is because we so often met on the{n}battlefield and the like?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0155",
    "jp": "{v:00E1}そうだね。{n}アタシもずいぶん前から知ってたような気がするし。{p}{v:00E2}お互いに、密度の濃い時間を過ごしたってことね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00E1}Yeah. I feel like I've known you forever, too.{p}{v:00E2}We've sure packed a lot into our time together, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0156",
    "jp": "{v:00E3}ふっ、良いことを言うな。{n}確かに、お前たちとの思い出は、ずいぶん多い。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00E3}Heh. Well said. I certainly have many memories of our{n}time together.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0157",
    "jp": "{v:00E4}どうだ、明日にでも闘技場へ来ないか？{n}私が聞いた哮によると、明日チャンピオンが闘技場へ来るらしい。{p}{v:00E5}今のお前の腕なら、チャンピオンといい勝負だろう。{n}どうだ、チャレンジしてみないか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00E4}How about coming to the arena tomorrow? From what{n}I have heard, the champion will be there.{p}{v:00E5}With your skills as they are now, you would be a good{n}match for the champion. What do you say? Will you{n}issue a challenge?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0158",
    "jp": "{v:00E7}それにしても、初めて闘技場で戦った頃とくらべると、{n}腕を上げたな。{n}今ならチャンピオンを獲れるんじゃないのか？{p}{v:00E8}そういえば明日、チャンピオンが闘技場へ来るらしい。{n}チャレンジしてみてはどうだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00E7}You have certainly improved since you first fought in{n}the arena. You might even be able to take the title now.{p}{v:00E8}Speaking of which, I hear the champion will be at the{n}arena tomorrow. Why not issue a challenge?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0159",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0160",
    "jp": "・チャレンジする",
-   "en": "",
+   "en": "・Take on the champion",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0161",
    "jp": "・やめておく",
-   "en": "",
+   "en": "・Decline",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0162",
    "jp": "{v:00E9}よし、明日は見物に出向くとしよう。{n}私の前で恥ずかしい試合をするんじゃないぞ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00E9}Good. I shall come to watch tomorrow. Do not embarrass{n}yourself in front of me, will you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0163",
    "jp": "{v:00EA}そうか‥‥。{n}お前の戦いぶりを見物しようと考えていたのだが‥‥。{n}残念だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00EA}I see... I was hoping to watch you fight... What{n}a shame.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0164",
    "jp": "{v:00EB}こ、こら、はずかしいからやめろ[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{v:00EB}H-hey, stop that! It is embarrassing![01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0165",
    "jp": "少し、足を痛めたらしい。",
-   "en": "",
-   "term": "end"
+   "en": "It seems I have hurt my foot a little.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0166",
    "jp": "ジュリアンを待ちなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, wait for Julian!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0167",
    "jp": "ジュリアンが待ってるでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "Julian's waiting for you, remember?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0168",
    "jp": "そっちじゃないでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "That's not the right way, is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0169",
    "jp": "{v:00A2}ちょっと待ってろよ。{n}今うまいのを作るからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A2}Hang on a bit. I'll whip up something good.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0170",
    "jp": "{v:00A3}うわぁ～ゼノス！？{n}なによ、そのエプロン！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A3}Whoa, Xenos?! What's with that apron?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0171",
    "jp": "{v:00A4}これか？　可愛いだろう。{n}カレンが作ってくれたんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A4}This? Cute, ain't it? Karen made it for me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0172",
    "jp": "{FB00}{v:00A5}可愛いって言うより、凶器だわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:00A5}Cute? More like a deadly weapon...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0173",
    "jp": "{v:00A6}なんか言ったか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A6}You say something?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0174",
    "jp": "{v:00A7}い～え～‥‥何にもぉ～‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A7}Nooo... Nothing at aaall...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0175",
@@ -1084,359 +1256,418 @@
   {
    "id": "scen195.0177",
    "jp": "{v:00AB}どんなのができるんだろう‥‥ものすごく不安‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AB}What's he going to serve us...? I've got a really bad{n}feeling about this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0178",
    "jp": "{v:00AC}よし、いっちょ上がり！{n}ほらできたぜ！{n}俺特製のスペシャルランチだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AC}All right, order up! Here you go! My very own{n}special lunch!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0179",
    "jp": "‥‥{v:00AD}においはまともね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00AD}Well, it smells normal...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0180",
    "jp": "{v:00AE}ほらほら、遠慮してないでたっぷり食え！{n}おかわりも沢山あるからな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AE}Come on, don't be shy! Eat up! There's plenty more{n}where that came from!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0181",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0182",
    "jp": "・思い切って食べる",
-   "en": "",
+   "en": "・Take the plunge and eat",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0183",
    "jp": "・ティピに食べさせる",
-   "en": "",
+   "en": "・Make Tippi eat",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0184",
    "jp": "・ゼノスが食べるのを待つ",
-   "en": "",
+   "en": "・Wait for Xenos to eat",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen195.0185",
    "jp": "{v:00AF}どうだ、うまいだろう？{n}そうかそうか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AF}Well? Good, isn't it? Yeah, that's what I thought!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0186",
    "jp": "{v:00B0}うそ？{n}ホントにおいしいの？{p}‥{FE0A}‥{FE0A}‥‥{FE1E}{v:00B1}{FC04}ホントだ！{n}これおいしい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B0}No way! It really tastes good?{p}...{FE0A}...{FE0A}...{FE1E}{v:00B1}{FC04}It does! This is delicious!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0187",
    "jp": "{v:00B2}え゛～！！{n}アタシが先に食べるのお゛～！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B2}Whaaat?! I have to eat it fiiirst?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0188",
    "jp": "{v:00B3}ほらほら、遠慮せずに食え。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B3}Come on, don't be shy. Dig in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0189",
    "jp": "{v:00B4}う゛～！{n}死んだらバケて出てやる～！！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B4}Ughhh! If I die, I'm coming back to haunt you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0190",
    "jp": "{v:00B5}{FC04}あれ？{n}これおいしい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B5}{FC04}Huh? This is delicious!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0191",
    "jp": "{v:00B6}遠慮深い奴らだな。{n}んじゃ、俺から食うぜ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B6}You lot are way too polite. Guess I'll dig in first, then!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0192",
    "jp": "{v:00B7}じーーっ‥‥。{p}{v:00B8}特に死んだりはしないみたいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B7}*stare*...{p}{v:00B8}Well, he doesn't seem to be dropping dead.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0193",
    "jp": "{v:00B9}ほらほら、お前らも食え！{n}それとも俺が作った飯が食えねぇのか！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B9}Come on, you two, eat up! Or is my cooking not good{n}enough for you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0194",
    "jp": "{v:00BA}えーい！{n}食べればいいんでしょ、食べれば！{p}{FC03}‥‥‥‥。{p}{v:00BB}{FC04}あれ？{n}これおいしい{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BA}Oh, fine! I'll eat it! Happy now?!{p}{FC03}......{p}{v:00BB}{FC04}Huh? This is delicious{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0195",
    "jp": "{v:00BC}だから言っただろう。{n}うまい物を食わせてやるってな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BC}Told you, didn't I? I said I'd make you something good.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0196",
    "jp": "{v:00BD}はぐはぐはぐ‥‥{FFF9}{FFFB}{n}{v:00BE}おっかわりぃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BD}*munch munch munch*...{FFF9}{FFFB}{v:00BE}Secooonds!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0197",
    "jp": "{v:00BF}まったく、うまいと分かったら途端にこれだ。{n}{FC04}ほら、ゆっくり食え。{n}飯は逃げたりしないからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BF}Sheesh, one taste and now you can't get enough. {FC04}Hey,{n}slow down. The food's not going anywhere.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0198",
    "jp": "{v:00C0}でも、どうしてこんなにゼノスは料理がうまいの？{n}カレンさんが料理を作ってたんじゃ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C0}But how'd you get so good at cooking, Xenos? Didn't{n}Karen-san do the cooking?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0199",
    "jp": "{v:00C1}ああ、傭兵だなんだと出稼ぎにでることが多くてな。{n}自然と料理の腕も鍛えられたのさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C1}Yeah, but I was away a lot, earning a living as a{n}mercenary and whatnot. Picked up cooking along{n}the way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0200",
    "jp": "{v:00C2}はぐはぐはぐ‥‥そうなんだ。{n}ん～、おいしい～{FFF0}♥{FFF1}{n}幸せ～{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C2}*munch munch munch*... Oh, I see. Mmm, sooo good{FFF0}♥{FFF1} I'm{n}in heaven{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0201",
    "jp": "{v:00C3}あーおいしかった♪{n}もーおなかいっぱい{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C3}Ahh, that was delicious♪ I'm absolutely stuffed{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0202",
    "jp": "{v:00C4}そりゃ、あれだけ食えばな‥‥あれだけの量の飯は、{n}いったいその身体のどこに入ったんだ‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C4}Well, after eating that much... Just where in that body{n}of yours did all that food go...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0203",
    "jp": "{v:00C5}うふっ、乙女の秘密ってやつよ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C5}Heehee, a maiden has her secrets{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0204",
    "jp": "{v:00C6}誰が乙女だ‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C6}Maiden, my foot...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0205",
    "jp": "{v:00C7}もう、いいじゃないの。{n}{FC00}ま、でも今日はごちそうさま。{n}またごちそうしてね{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C7}Oh, come on, who cares? {FC00}Anyway, thanks for the meal{n}today. You'll cook for us again, right{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0206",
    "jp": "{v:00C8}ああ、気が向いたらまた作ってやるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C8}Yeah, if I feel like it, I'll cook for you again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0207",
    "jp": "翌日",
-   "en": "",
-   "term": "end"
+   "en": "The next day",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0208",
    "jp": "グランシル闘技場控え室",
-   "en": "",
-   "term": "end"
+   "en": "Grancil Arena Waiting Room",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0209",
    "jp": "{v:010E}いよいよ、チャンピオンに挑戦ですね。{n}用意はよろしいですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:010E}It is finally time to challenge the champion. Are{n}you ready?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0210",
    "jp": "あによ、逃げんの？",
-   "en": "",
-   "term": "end"
+   "en": "What, you're running away?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0211",
    "jp": "がんばって下さい！",
-   "en": "",
-   "term": "end"
+   "en": "Good luck!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0212",
    "jp": "がんばってね、お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "Do your best, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0213",
    "jp": "エリオットのおかげで休暇も一日延びたしね。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks to Elliot, we got an extra day of leave, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0214",
    "jp": "勝ってこい。{n}‥‥{FE1E}お前ならやれるはずだ。",
-   "en": "",
-   "term": "end"
+   "en": "Go out there and win. ...{FE1E}You've got what it takes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0215",
    "jp": "{v:0125}来てくれたか。{p}‥‥{FE1E}{v:0127}私は今まで、自分の人生を剣に捧げてきた。{n}そしてその力を人々のために振るうことに、{n}喜びを感じてきた。{p}{v:0128}だが、最近の私は、{n}それだけでは無くなってしまった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0125}You came.{p}...{FE1E}{v:0127}Until now, I have devoted my life to the sword. I have{n}found joy in wielding that strength for the people.{p}{v:0128}But lately, that is no longer all I feel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0216",
    "jp": "{v:012A}たった１人の為だけに剣を振るうのも悪くはない。{n}いや、その人が喜んでくれるのなら、{n}全てを捨ててもいい。{n}そんな気持ちだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:012A}Wielding my sword for one person alone would not be so{n}bad. No, if it would make that person happy, I could{n}give up everything. That is how I feel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0217",
    "jp": "‥‥{v:012B}フッ。{n}ライエルがリシャール自身に忠誠を誓った様など{n}見てしまったからかもな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:012B}Heh. Perhaps it is because I saw Lyell swear his loyalty{n}to Richard himself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0218",
    "jp": "{v:012C}どうせ力を使うなら、{n}多くの人の幸せにつながった方がいい。{n}理屈ではそう分かっているのに、{n}心が別の答えを求める。{p}{v:012D}だが私が忠誠を誓う相手は、{n}私より優れたものであって欲しい。{n}だからこそ、自分の気持ちを試すために{n}戦いを挑むことにしたのだ。{p}{v:012E}戦いだけがその人の評価を{n}決めるわけではない事は知っている。{n}しかし私にとって、{n}自分より強いということは重要だった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:012C}If I am to use my strength, it should serve the{n}happiness of as many people as possible. I know that{n}in my head, yet my heart seeks another answer.{p}{v:012D}But I want the person to whom I pledge my loyalty to{n}be someone who surpasses me. That is why I decided{n}to challenge you, to put my feelings to the test.{p}{v:012E}I know that skill in battle alone does not determine a{n}person's worth. Yet to me, it mattered that you were{n}stronger than I.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0219",
    "jp": "{v:012F}その結果、私は負けてここにいる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:012F}And so, I lost, and here I am...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0220",
    "jp": "{v:0130}マイ＝ロード。{p}{v:0131}そう呼ばせてくれまいか？{p}{v:0132}私は今まで国に仕えていた。{n}これからも立場は変わらないだろう。{p}{v:0133}だが、心から仕えたい君主はあなたなのだ。{n}私の認めた唯一の男。{n}あなたに忠誠を誓いたい。{p}{v:0134}マイ＝ロード。{n}これからはそう呼ばせてくれまいか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0130}My Lord.{p}{v:0131}Would you permit me to call you that?{p}{v:0132}Until now, I have served my country. My position will{n}likely remain unchanged.{p}{v:0133}But you are the lord I wish to serve with all my heart.{n}The only man I have deemed worthy. I wish to pledge my{n}loyalty to you.{p}{v:0134}My Lord. Will you permit me to address you as such{n}from now on?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0221",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0222",
    "jp": "{v:0135}はっ！{n}ありがたき光栄に存じます。{p}{v:0136}私、ジュリア・ダグラスは、あなたに忠誠を誓います。{n}これから私は、マイ＝ロード、{n}あなたを守る剣となります。{p}‥‥{FE1E}{v:0138}申し訳ありません。{n}１つ言い忘れておりました。{p}{v:0139}私はインペリアル・ナイツとして{n}陛下に剣を捧げた者です。{p}{v:013A}対外的な問題もあり、{n}人前でマイ＝ロードとお呼びすることができません。{p}{v:013B}そのため、人目のない場所でのみ{n}マイ＝ロードと呼ぶことをお許しください。{p}{v:013C}それでは私は、インペリアル・ナイトとしての{n}仕事がありますので、一時、戻らせていただきます。{p}{v:013D}本日はありがとうございました。{n}これからも、よろしくお願いいたします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0135}Yes! You do me a great honor.{p}{v:0136}I, Julia Douglas, swear my loyalty to you. From this day{n}forth, My Lord, I shall be the sword that{n}protects you.{p}...{FE1E}{v:0138}Forgive me. There is one thing I forgot to mention.{p}{v:0139}As a member of the Imperial Knights, I have pledged my{n}sword to His Majesty.{p}{v:013A}Given the complications it would cause in our public{n}dealings, I cannot address you as My Lord{n}before others.{p}{v:013B}I therefore ask your permission to call you My Lord{n}only when we are alone.{p}{v:013C}Now, I have duties to attend to as an Imperial Knight,{n}so I must take my leave for a time.{p}{v:013D}Thank you for today. I look forward to serving you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0223",
    "jp": "‥‥{v:013E}そうか。{p}{v:013F}無理を言って済まなかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:013E}I see.{p}{v:013F}Forgive me for asking too much...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0224",
    "jp": "{v:0140}さっきは私のわがままにつき合わせて{n}すまなかったな。{n}だがこれでもう迷うことはあるまい。{p}{v:0141}さっきの戦いの中で、{n}自分の中にたまっていたものに{n}けりをつけることが出来た。{p}{v:0142}これもお前のおかげだな。{p}{v:0147}それでは私は少し用があるので、{n}これで失礼させてもらう。{p}{v:0148}また会おう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0140}I am sorry I made you indulge my selfish wishes earlier.{n}But now I shall have no more doubts.{p}{v:0141}During our battle, I was able to settle the feelings{n}that had been building within me.{p}{v:0142}I have you to thank for that.{p}{v:0147}Now, I have something to attend to, so I must take{n}my leave.{p}{v:0148}Until we meet again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0225",
    "jp": "‥‥{v:0121}おめでとう、新チャンピオン。{n}そして、ありがとう。{p}{v:0122}これでけじめをつけられる。{n}終わったら私の控え室に来てくれないか。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0121}Congratulations, new champion. And thank you.{p}{v:0122}Now I can put this behind me. Will you come to my{n}waiting room when this is over?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0226",
    "jp": "{v:0122}これでけじめをつけられる。{n}終わったら私の控え室に来てくれないか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0122}Now I can put this behind me. Will you come to my{n}waiting room when this is over?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0227",
    "jp": "{v:010F}本日のメインイベント！{n}挑戦者の登場です！",
-   "en": "",
-   "term": "end"
+   "en": "{v:010F}Today's main event! Here comes the challenger!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0228",
    "jp": "ジュリアンのところに行くんでしょ？！",
-   "en": "",
-   "term": "end"
+   "en": "You're going to see Julian, right?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0229",
    "jp": "なによ！{n}怖じ気づいたの！？",
-   "en": "",
-   "term": "end"
+   "en": "What's with you?! Getting cold feet?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0230",
    "jp": "{v:0110}そして、今まで無敗を誇るチャンピオンの登場です！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0110}And now, here comes our undefeated champion!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0231",
    "jp": "{FB00}{v:0111}げっ！{n}ジュリアン！？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0111}Ack! Julian?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0232",
    "jp": "{v:0114}私はお前ともう一度、正面から戦ってみたかった。{n}自分の中で、けじめをつけるために。{p}{v:0115}さあ、始めるぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0114}I wanted to face you in combat once more. To settle{n}things in my own heart.{p}{v:0115}Now, let us begin.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0233",
    "jp": "{v:0116}チャンピオンの防衛か！？{n}それとも新たなチャンピオンが誕生するのか？{n}とうとう世紀の瞬間がやってきました！{p}{v:0117}そして、今、試合開始です！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0116}Will the champion defend the title?! Or will a new{n}champion be crowned? The moment of the century is{n}finally here!{p}{v:0117}And now, the match begins!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0234",
    "jp": "さあ、お進み下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please, go on ahead.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen195.0235",
    "jp": "お疲れさまでした。",
-   "en": "",
-   "term": "end"
+   "en": "Well done out there.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

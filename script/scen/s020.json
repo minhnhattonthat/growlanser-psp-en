@@ -15,1088 +15,1267 @@
   {
    "id": "scen020.0001",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen020.0002",
    "jp": "ヴェンツェル",
-   "en": "",
-   "term": "null"
+   "en": "Wenzel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen020.0003",
    "jp": "ルイセ",
-   "en": "",
-   "term": "null"
+   "en": "Luise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen020.0004",
    "jp": "ミーシャ",
-   "en": "",
-   "term": "null"
+   "en": "Misha",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen020.0005",
    "jp": "カレン",
-   "en": "",
-   "term": "null"
+   "en": "Karen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen020.0006",
    "jp": "ジュリアン",
-   "en": "",
-   "term": "null"
+   "en": "Julian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen020.0007",
    "jp": "ウォレス",
-   "en": "",
-   "term": "null"
+   "en": "Wallace",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen020.0008",
    "jp": "アリオスト",
-   "en": "",
-   "term": "null"
+   "en": "Ariost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen020.0009",
    "jp": "エリオット",
-   "en": "",
-   "term": "null"
+   "en": "Elliot",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen020.0010",
    "jp": "ゼノス",
-   "en": "",
-   "term": "null"
+   "en": "Xenos",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen020.0011",
    "jp": "{v:0030}お母さんの塔の上で見るんだ？{n}大丈夫なの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}We're watching from the top of Mother's tower? Is{n}that all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0012",
    "jp": "{v:0031}任せて！{n}マスターに許可を取ってあるから★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Leave it to me! I've already got Master's permission!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0013",
    "jp": "{v:006A}サンドラ様の塔の上で見るのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}We will be watching from the top of{n}Sandra-sama's tower?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0014",
    "jp": "{v:006B}うん、マスターの許可を取ってるよ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}Yep, I've got Master's permission!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0015",
    "jp": "{v:004F}サンドラ様の塔の上で見るの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}We're watching from the top of Sandra-sama's tower?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0016",
    "jp": "{v:0050}うん、もうマスターから許可を取ってるんだ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Yep, I've already got Master's permission!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0017",
    "jp": "{v:0085}サンドラ様の塔の上で見るのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}We will be watching from the top of{n}Sandra-sama's tower?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0018",
    "jp": "{v:0086}サンドラ様の塔の上で見るのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0086}We're watching from the top of Sandra-sama's tower?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0019",
    "jp": "{v:0087}そうだよ。{n}もうマスターからは許可もらってるし★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0087}That's right! Master's already said we could!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0020",
    "jp": "{v:00A1}ん？{n}ここはサンドラ様の塔か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A1}Hm? This is Sandra-sama's tower?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0021",
    "jp": "{v:00AD}おや？{n}サンドラ様の塔で見るのかい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AD}Oh? Are we watching from Sandra-sama's tower?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0022",
    "jp": "{v:00AE}そうだよ。{n}マスターが許可をくれたんだ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AE}That's right! Master gave me permission!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0023",
    "jp": "{v:00BD}あれ？{n}サンドラ様の塔の上で見るんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BD}Oh? We're going to watch from the top of{n}Sandra-sama's tower?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0024",
    "jp": "{v:00BE}うん。{n}許可もらってるから大丈夫★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BE}Yep! I've got permission, so we're all set!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0025",
    "jp": "{v:00CE}へぇ、こんな所で見るのか。{n}勝手に入って大丈夫なのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CE}Huh, we're watching from here? Is it all right to just let{n}ourselves in?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0026",
    "jp": "{v:00CF}へーき、へーき。{n}さっきマスターに許可もらったもん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CF}It's fine, it's fine! Master just gave me permission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0027",
    "jp": "どこいくのよぉ～！{n}花火、見るんでしょぉ～！",
-   "en": "",
-   "term": "end"
+   "en": "Where are you goooing?! We're watching the{n}fireworks, remember?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0028",
    "jp": "サンドラ魔導研究所",
-   "en": "",
-   "term": "end"
+   "en": "Sandra's Magic Research Institute",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0029",
    "jp": "{v:0032}ちょっと早いみたいだね。{n}ここでもう少し待ってようよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Looks like we're a little early. Let's wait here a{n}bit longer.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0030",
    "jp": "{v:0051}まだ花火には早かったかな？{n}それじゃお兄さま、ここで少し待ってようよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Are we a little early for the fireworks? Then let's wait{n}here a bit, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0031",
    "jp": "{v:006C}まだ少し時間があるみたいですね。{n}ここで少し待ってましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}It seems we still have a little time. Let's wait here for{n}a bit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0032",
    "jp": "{v:0088}まだ時間には早かったようですね。{n}しばらく待っていましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0088}It seems we are a little early. Let us wait a while.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0033",
    "jp": "{v:0089}まだ時間には早いな。{n}しばらく待つとしよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0089}We're still early. Let's wait a while.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0034",
    "jp": "{v:00A2}まだ日は落ちきっていないようだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A2}Sun hasn't quite set yet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0035",
    "jp": "{v:00A3}んじゃ、日が暮れるまでここで待ってようよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A3}Then let's wait here till it gets dark!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0036",
    "jp": "{v:00AF}どうやらまだ時間はあるようだね。{n}ここでしばらく待っていようか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AF}It looks like we still have some time. Shall we wait here{n}a while?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0037",
    "jp": "{v:00B0}そうだね、そうしよう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B0}Yeah, let's do that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0038",
    "jp": "{v:00C0}いい眺めの場所ですね。{n}まだ、時間には早いみたいですけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C0}There's a lovely view from here. Though it looks like{n}we're still a little early...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0039",
    "jp": "{v:00C1}それじゃ、しばらくここで待ってましょ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C1}Then let's wait here a while.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0040",
    "jp": "{v:00D0}ちょいと早かったか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D0}Guess we're a bit early.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0041",
    "jp": "{v:00D1}んじゃ、しばらくここで待ってようよ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D1}Then let's wait here a while!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0042",
    "jp": "{v:0018}う～ん、楽しみ！{n}それじゃ、時間までちょっと待ってようよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Ooh, I can't wait! Let's wait here till it starts.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0043",
    "jp": "{v:0019}ちょっとアンタ、起きなさいよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Hey, you! Wake up already!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0044",
    "jp": "{v:001A}そろそろ花火が始まるわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}The fireworks are about to start!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0045",
    "jp": "{v:001B}わぁ‥‥綺麗‥‥{FFF2}。{FFF9}{FFFB}{n}{FFF4}{v:001C}アタシ、花火見るのは生まれて初めてなんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Wow... So pretty...{FFF2}.{FFF9}{FFFB} {FFF4}{v:001C}I've never seen fireworks before{n}in my life...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0046",
    "jp": "{v:001D}こんな綺麗なものをアンタの方が{n}いっぱい見てたと思うと、{n}ちょっとズルイ気がするな。{p}{v:001E}でもこんな綺麗な花火が、最後に見られてよかった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}You've seen way more beautiful things like this than I{n}have... That's kinda unfair.{p}{v:001E}But I'm glad I got to see such beautiful fireworks{n}before the end.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0047",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0048",
    "jp": "・もう一度聞き返す",
-   "en": "",
+   "en": "・Ask her to repeat that",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0049",
    "jp": "・最後とは？",
-   "en": "",
+   "en": "・What do you mean, \"before the end\"?",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0050",
    "jp": "{v:001F}え？{n}アタシなんか言った？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Huh? Did I say something?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0051",
    "jp": "{FB00}{v:0020}あはは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0020}Ahaha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0052",
    "jp": "{v:0021}アタシの役目はアンタの監視だったんだもの。{n}ヴェンツェルを倒したら、{n}もうお役ご免だよ‥‥。{p}{v:0022}ホントはもっとアンタと一緒にいたかったけど、{n}そうも言ってられないんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}My job was to keep an eye on you, after all. Once we{n}beat Wenzel, my work will be done...{p}{v:0022}I really wanted to stay with you longer, but... that's{n}just not possible...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0053",
    "jp": "{v:0023}ほら、アタシってホムンクルスでしょ‥‥。{n}だからあんまり長くは生きれないんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}You know how I'm a homunculus...? That means I can't{n}live very long...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0054",
    "jp": "{v:0024}ミーシャは長生きできるらしいんだけど、{n}アタシはね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Apparently Misha can live a long life, but me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0055",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0056",
    "jp": "・何とかならないのか",
-   "en": "",
+   "en": "・Isn't there anything we can do?",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0057",
    "jp": "・悲しいな",
-   "en": "",
+   "en": "・That's so sad",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0058",
    "jp": "{v:0025}無理よ。{n}何にも無ければ数年は生きられるらしいけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}No, there isn't. Apparently I can live a few years if{n}nothing goes wrong, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0059",
    "jp": "{v:0026}あ、悲しんだりしないでね。{n}アタシはそういうの嫌いだから。{p}{v:0027}それにこんな日なんだもの。{n}涙は禁物だよ！{n}すぐ死ぬって訳じゃないから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Oh, don't get all sad, okay? I hate that sort of thing.{p}{v:0027}Besides, on a day like this? No tears allowed! It's not{n}like I'm going to die right away.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0060",
    "jp": "{FFF5}{v:0028}でも、アタシ‥‥ホントは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0028}But I... The truth is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0061",
    "jp": "{v:0029}うん、サイコー！{n}アタシ、こんな綺麗なの見るの初めて‥‥。{p}{FC02}{v:002A}こんな綺麗なものを{n}アンタの方がいっぱい見てたって思うと、{n}なんだかムカついてきた。{p}{FC00}{v:002B}ま、でも花火が綺麗だから許しちゃう★{n}それにしても、毎日花火をあげればいいのにね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Yeah, it's amazing! I've never seen anything{n}this pretty...{p}{FC02}{v:002A}You've seen way more beautiful things like this than I{n}have. That's starting to tick me off!{p}{FC00}{v:002B}Well, the fireworks are so pretty, I'll forgive you! Still,{n}I wish they'd set off fireworks every day.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0062",
    "jp": "　　　　{FFEE}{v:00D8}聞こえるか、愚かな人間ども！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　　　　{FFEE}{v:00D8}Can you hear me, foolish humans?!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0063",
    "jp": "{v:00D9}また！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D9}Again?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0064",
    "jp": "{v:00E7}どうしよう！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00E7}What do we do?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0065",
    "jp": "{v:00F3}じゃ、とりあえず帰ろうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F3}Well, let's head back for now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0066",
    "jp": "‥‥{v:0033}お兄ちゃん‥‥お兄ちゃん、起きてよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0033}Big Brother... Big Brother, wake up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0067",
    "jp": "{v:0034}やっと起きたね、お兄ちゃん。{n}そろそろ時間だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}You're finally awake, Big Brother. It's almost time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0068",
    "jp": "{v:0035}うわぁ、綺麗‥‥。{n}花火なんて久しぶり。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Wow, they're beautiful... It's been so long since I last{n}saw fireworks.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0069",
    "jp": "{v:0036}花火ってこんなに綺麗だったんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}I'd forgotten how beautiful fireworks are...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0070",
    "jp": "{v:0037}そういえば、お兄ちゃんと一緒に花火を見るなんて、{n}何年ぶりかな‥‥。{p}{v:0038}小さい頃は、よく屋根の上に登って見てたよね‥‥。{p}{FE14}‥{FE14}‥{FE14}‥{v:003B}お兄ちゃん覚えてる？{n}わたしが小さい頃、屋根から落ちそうになって{n}大騒ぎになったこと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Come to think of it, how many years has it been since{n}we watched fireworks together, Big Brother...?{p}{v:0038}When we were little, we used to climb onto the roof to{n}watch them, didn't we...?{p}{FE14}.{FE14}.{FE14}.{v:003B}Do you remember, Big Brother? When I was little, I{n}nearly fell off the roof and caused such a fuss.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0071",
    "jp": "何と答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0072",
    "jp": "・覚えている",
-   "en": "",
+   "en": "・I remember",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0073",
    "jp": "・忘れた",
-   "en": "",
+   "en": "・I forgot",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0074",
    "jp": "{v:003C}そのせいで、お母さんから大目玉もらったんだよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Mother gave us such a scolding for that, didn't she?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0075",
    "jp": "{v:003D}覚えてないの？{p}{v:003E}そのせいでお母さんから大目玉もらったじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}You don't remember?{p}{v:003E}Mother gave us such a scolding for that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0076",
    "jp": "{v:003F}それでその後はどうなったの",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}So what happened after that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0077",
    "jp": "{v:0040}うん、屋根の上に登るのが禁止になっちゃった[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Well, we weren't allowed to climb onto the{n}roof anymore.[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0078",
    "jp": "{v:0041}しょうがないわねぇ、アンタたち‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Honestly, you two are hopeless...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0079",
    "jp": "{v:0042}もっとそばに行ってみようっと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}I think I'll go take a closer look!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0080",
    "jp": "{v:0043}気を付けないと、あぶないよ！{p}{FC04}{FFF3}‥‥{FFF4}{v:0044}あ～、行っちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Be careful! It's dangerous!{p}{FC04}{FFF3}...{FFF4}{v:0044}Oh, there she goes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0081",
    "jp": "{v:0045}綺麗だね‥‥。{p}{FFF3}‥‥‥。{p}‥‥{FFF4}{v:0046}あのね、お兄ちゃん。{n}‥‥わたし‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}They're beautiful, aren't they...?{p}{FFF3}...{p}...{FFF4}{v:0046}Um, Big Brother... ...I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0082",
    "jp": "{v:0047}そう言えばティピって花火初めてだっけ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Oh, Tippi, is this your first time seeing fireworks?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0083",
    "jp": "{v:0048}うん、初めてだよ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Yep, my very first!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0084",
    "jp": "{v:0049}でもみんなに活気が戻ってよかったね。{n}後はあのヴェンツェルをどうにかするだけだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}I'm glad everyone's in good spirits again. Now we just{n}have to do something about Wenzel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0085",
    "jp": "{v:004A}そうそう！{n}あんなヤツ、なんとかなるって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}That's right! We'll find a way to deal with that creep!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0086",
    "jp": "{v:00DA}ヴェンツェル！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DA}Wenzel?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0087",
    "jp": "{v:00E8}どうしよう、お兄ちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00E8}What should we do, Big Brother...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0088",
    "jp": "{v:00F4}じゃ、お兄ちゃん、帰ろうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F4}Well, shall we head back, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0089",
    "jp": "{v:0052}起きて、お兄さま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Wake up, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0090",
    "jp": "{v:0053}お兄さまったらぐっすり寝てるんだもん。{n}もうすぐ始まりますよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Oh, Big Brother, you were sleeping so soundly! It's{n}about to start, you know?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0091",
    "jp": "{v:0054}うわぁ‥‥綺麗‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Wow... So beautiful...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0092",
    "jp": "{v:0055}花火ってこんな物なんだ‥‥。{n}綺麗‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}So this is what fireworks are like... Beautiful...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0093",
    "jp": "{v:0056}もっとそばに行ってみようっと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}I think I'll go take a closer look!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0094",
    "jp": "{v:0057}アタシの記憶の中の花火よりずっと綺麗‥‥。{p}{v:0058}あ、誤解しないで下さい。{n}アタシまた暗くなってるわけじゃないです。{p}{FC05}{v:0059}自分が人間じゃないことでショックを受けたし、{n}嫌なことも色々あったのは事実ですけど‥‥。{p}{FC06}{v:005A}でもお兄さまに出会えたのも、{n}楽しいことをいっぱい経験できたのも、{n}こうして作られたおかげだって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}They're so much prettier than the fireworks in{n}my memories...{p}{v:0058}Oh, please don't misunderstand. I'm not getting{n}gloomy again.{p}{FC05}{v:0059}Finding out I wasn't human was a shock, and yes, I've{n}been through some awful things...{p}{FC06}{v:005A}But being created this way is what let me meet you,{n}Big Brother, and experience so many wonderful things.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0095",
    "jp": "{v:005B}綺麗ですね‥‥。{p}{FFF3}‥{FE14}‥{FE14}‥{FE14}{FFF4}{v:005C}ねぇ、お兄さま‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}They're beautiful...{p}{FFF3}...{FE14}...{FE14}...{FE14}{FFF4}{v:005C}Say, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0096",
    "jp": "{FFF3}‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0097",
    "jp": "{v:005D}？{n}どうしたのよ、ミーシャ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Huh? What's wrong, Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0098",
    "jp": "{FFF3}‥{FE14}‥{FE14}‥{FFF6}{FE14}{FFF4}{v:005E}そんなことされたら、{n}アタシ困っちゃう‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FE14}...{FE14}...{FFF6}{FE14}{FFF4}{v:005E}If you do that, I won't know what to do...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0099",
    "jp": "{FB00}{v:005F}おーい‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:005F}Hellooo...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0100",
    "jp": "‥{FE14}‥{FE14}{v:0060}そしたらきっと‥{FE14}‥えへへへ‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{FE14}...{FE14}{v:0060}And then, surely...{FE14}... Heeheehee...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0101",
    "jp": "{FB00}‥‥{v:0061}もどってこーい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}...{v:0061}Come baaack...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0102",
    "jp": "{v:0062}うふふふ‥‥もぉ、お兄さまったらぁ{FFF0}♥{FFF1}{p}‥‥{FC05}{v:0063}って、あれ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}Heeheehee... Oh, Big Brother, you're too much{FFF0}♥{FFF1}{p}...{FC05}{v:0063}Wait, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0103",
    "jp": "{v:0064}アンタって子は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}Honestly, you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0104",
    "jp": "{v:00DB}えっ、えっ？{n}ヴェンツェル！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DB}Huh? What?! Wenzel?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0105",
    "jp": "{v:00E9}お兄さま、どうしよう！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00E9}Big Brother, what should we do?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0106",
    "jp": "{v:00F5}それじゃ、お兄さま帰ろうよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F5}Then let's go home, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0107",
    "jp": "‥‥{v:006F}起きてください‥‥‥‥。{p}{v:0070}そろそろ時間ですよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:006F}Please wake up...{p}{v:0070}It's nearly time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0108",
    "jp": "{v:0071}目が覚めましたか？{n}そろそろですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}Are you awake? It's nearly time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0109",
    "jp": "{v:0072}綺麗‥‥。{p}{v:0073}こんな綺麗な花火は久しぶりに見ました‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}Beautiful...{p}{v:0073}It's been so long since I've seen such{n}beautiful fireworks...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0110",
    "jp": "{v:0112}花火ってこんなのなんだ‥‥。{n}綺麗なんだね★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0112}So this is what fireworks are like... They're so pretty!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0111",
    "jp": "{v:0076}うーん‥‥もっと近くでみようっと！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}Hmm... I think I'll get a closer look!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0112",
    "jp": "{v:0074}昔は兄と一緒に、こんな風に花火を{n}見に行ったものです。{p}{v:0075}最近は見に行く機会に恵まれなくて、{n}寂しい思いをしていましたけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0074}My brother and I used to go and watch fireworks{n}like this.{p}{v:0075}I haven't had the chance lately, and I've been{n}missing it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0113",
    "jp": "{v:0077}でも今はあなたがいる‥‥。{FFF9}{FFFB}{n}{v:0078}手を伸ばせば届く位置にあなたがいる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0077}But now you're here...{FFF9}{FFFB}{v:0078}You're close enough for me to{n}reach out and touch...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0114",
    "jp": "{v:0079}しばらくこのままいさせてください‥‥。{FFF9}{FFFB}{n}{v:007A}あなたの存在を確かめていたいから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}Please let me stay like this a little longer...{FFF9}{FFFB}{v:007A}I want to{n}feel that you're really here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0115",
    "jp": "{v:007C}昔はよく兄と２人で花火を見に行きましたが、{n}最近はぜんぜん見に行ってなかったので‥‥。{p}{v:007D}ヴェンツェルを倒したら、暇をみて兄と２人で{n}花火を見に行ってみようと思います。{p}{v:007E}きっとその時に見る花火も、{n}こんな感じで綺麗なんでしょうね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007C}My brother and I often used to go and watch{n}fireworks together, but we haven't gone at all lately...{p}{v:007D}Once we've defeated Wenzel, I'd like to find the time to{n}go with my brother again.{p}{v:007E}I'm sure the fireworks we see then will be just as{n}beautiful as these...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0116",
    "jp": "{v:00DC}また！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DC}Again?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0117",
    "jp": "{v:00EA}大変！{n}どうしましょう‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00EA}Oh, no! What should we do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0118",
    "jp": "{v:00F6}では帰りましょうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F6}Shall we go home, then?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0119",
    "jp": "‥‥{v:008A}マイ＝ロード‥‥。{FFF9}{FFFB}{n}{v:008B}起きてください、マイ＝ロード‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:008A}My Lord...{FFF9}{FFFB}{v:008B}Please wake up, My Lord...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0120",
    "jp": "‥‥{v:008C}おい、そろそろ起きたらどうだ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:008C}Hey, is it not time you woke up?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0121",
    "jp": "{v:008D}目が覚めましたか？{p}{v:008E}ぐっすりとお休みでしたので、{n}起こすのに気が引けたのですが、{n}そろそろ花火が始まる時間でしたので‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008D}Are you awake?{p}{v:008E}You were sleeping so soundly that I felt bad waking{n}you, but it is nearly time for the fireworks...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0122",
    "jp": "{v:008F}良く眠れたか？{n}そろそろだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008F}Did you sleep well? It is nearly time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0123",
    "jp": "‥‥{v:0090}美しい‥‥。{p}{v:0091}こんな美しい花火は初めてみました‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0090}Beautiful...{p}{v:0091}I have never seen such beautiful fireworks...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0124",
    "jp": "‥‥{v:0092}美しいな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0092}How beautiful...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0125",
    "jp": "{v:0093}ホントに綺麗だねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0093}They're sooo pretty...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0126",
    "jp": "{v:0094}もっとそばに行ってみようっと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0094}I think I'll go a little closer.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0127",
    "jp": "{v:0095}故郷でもこのように花火をあげていましたが、{n}今日ほど嬉しく感じたのは初めてです‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0095}We had fireworks like these back home, but never have{n}they brought me such joy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0128",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0129",
    "jp": "・そうなのかと問う",
-   "en": "",
+   "en": "・Ask if it's true",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0130",
    "jp": "・ジュリアンには負ける",
-   "en": "",
+   "en": "・They can't compare to you, Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0131",
    "jp": "‥‥{v:0096}はい。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0096}Yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0132",
    "jp": "{v:0097}そ、そんな、私は‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0097}Oh, surely not! I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0133",
    "jp": "{v:0098}マイ＝ロードのお側で花火を見られるなんて、{n}光栄です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0098}It is an honor to watch the fireworks at your side,{n}My Lord.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0134",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0135",
    "jp": "・優しく抱きしめる",
-   "en": "",
+   "en": "・Hold her tenderly",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0136",
    "jp": "・そばに寄りそう",
-   "en": "",
+   "en": "・Nestle close",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0137",
    "jp": "{v:0099}あっ‥‥。{p}{v:009A}しばらくこのままでいてくれますか？{n}こうしてぬくもりを感じていたいのです‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0099}Ah...{p}{v:009A}Would you stay like this a little longer? I want to keep{n}feeling your warmth...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0138",
    "jp": "{v:009B}この花火が人々の心に、{n}より大きな光をともしてくれるとよいな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009B}I hope these fireworks kindle an even brighter light in{n}people's hearts...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0139",
    "jp": "{v:009C}そうだね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009C}Yeah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0140",
    "jp": "{v:00DD}ヴェンツェル！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DD}Wenzel?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0141",
    "jp": "{v:00EB}おのれ、ヴェンツェルめ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00EB}Curse you, Wenzel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0142",
    "jp": "{FFF5}{v:00F7}全く、無粋な男です。{n}仕方がありません。{n}今日の所は引き上げましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:00F7}That man has no sense of occasion. We have little{n}choice. Let us withdraw for today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0143",
    "jp": "{FFF5}{v:00F8}今日の所は引き上げよう。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:00F8}Let us withdraw for today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0144",
    "jp": "{v:00A4}おい、そろそろ起きろ。{n}時間だぞ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A4}Hey, wake up. It's time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0145",
    "jp": "{v:00A5}よく眠れたか？{n}そろそろ時間なんで起こしてやったぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A5}Sleep well? Woke you since it's nearly time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0146",
    "jp": "{v:00A6}もう、ウォレスさんに感謝しなさいよ？{n}ウォレスさんがいなかったら、{n}アタシのキックをお見舞いしてたトコよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A6}You'd better thank Wallace-san! If he hadn't been{n}here, I'd have woken you with a kick!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0147",
    "jp": "{v:00A7}やはり、光が点滅するようにしか見えんな‥‥。{p}{v:00A8}だが腹の底に響くこの音が心地良い。{n}この力強い音が、俺には民衆の活気づいた勢いに{n}思えてな‥‥。{p}{v:00A9}ふっ、やる気が出てきたぜ。{n}あとはヴェンツェルを倒すだけだ！{p}{v:00AA}その時には俺を頼りにしてくれ。{n}この剣にかけて、必ずヤツを討ち倒す！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A7}Just flashes of light to me, as I thought...{p}{v:00A8}But that sound rumbling deep in my gut feels good. To{n}me, that powerful rumble is the sound of the people{n}finding their spirit again...{p}{v:00A9}Heh. Gets my blood up. All that's left is to{n}defeat Wenzel!{p}{v:00AA}Count on me when the time comes. I swear on this{n}sword, I'll bring him down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0148",
    "jp": "{v:00DE}くそっ、奴か！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DE}Damn, it's him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0149",
    "jp": "{v:00EC}ちっ！{n}あの野郎、やりやがったな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00EC}Tch! That bastard's done it now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0150",
    "jp": "{v:00F9}しょうがない、今日の所は引き上げるか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F9}No helping it. Let's head back for today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0151",
    "jp": "{v:00B1}そろそろ起きたらどうだい。{n}花火が始まってしまうよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B1}Isn't it time you woke up? The fireworks will start{n}without you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0152",
    "jp": "{v:00B2}起きたね。{n}そろそろ花火が始まるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B2}You're awake. The fireworks are about to begin.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0153",
    "jp": "{v:00B3}えへへ。{n}たぁのしみぃ～～★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B3}Heehee. I can't waaait!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0154",
    "jp": "{v:00B4}綺麗な花火だね。{n}これを見ていると、みんなの活気が戻ってきたって{n}実感がわくよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B4}Beautiful fireworks, aren't they? Watching them, I{n}really feel that everyone's spirits have lifted again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0155",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0156",
    "jp": "・どうだろうかと首をかしげる",
-   "en": "",
+   "en": "・Tilt your head doubtfully",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0157",
    "jp": "・きっとそうだとうなずく",
-   "en": "",
+   "en": "・Nod in firm agreement",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen020.0158",
    "jp": "{FB00}{v:00B5}はははっ。{n}君は意外と疑り深いね。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:00B5}Hahaha! You're more skeptical than I expected.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0159",
    "jp": "{v:00B6}とにかく、こうやって高まってきた活気を{n}殺さないためにも、{n}僕たちはヴェンツェルに勝つ必要がある。{p}{v:00B7}それがどんなに困難な事でも、{n}僕たちは勝たなければならない。{p}{v:00B8}今までそうやって、多くの困難を乗り越えてきたんだ。{p}{v:00B9}諦めずに挑み続ければ、かならず出来る。{n}だから頑張っていこう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B6}In any case, we need to defeat Wenzel to keep this{n}renewed spirit from dying out.{p}{v:00B7}However difficult it may be, we have to win.{p}{v:00B8}That's how we've overcome so many{n}difficulties already.{p}{v:00B9}If we keep trying without giving up, we'll succeed. So{n}let's keep at it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0160",
    "jp": "{v:00DF}また！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DF}Again?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0161",
    "jp": "{v:00ED}学院を破壊するだって？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00ED}He's going to destroy the Academy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0162",
    "jp": "{v:00FA}仕方ないね。{n}今日の所は引き上げよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00FA}We have no choice. Let's head back for today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0163",
    "jp": "‥‥‥‥{v:00C2}起きてください‥‥。{p}{v:00C3}そろそろ時間ですよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00C2}Please wake up...{p}{v:00C3}It's nearly time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0164",
    "jp": "{v:00C4}目が覚めましたか？{n}もう花火が始まりますよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C4}Are you awake? The fireworks are about to start.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0165",
    "jp": "{v:00C5}うわぁ‥‥。{n}綺麗な花火ですね‥‥。{p}{FC05}{v:00C6}こうやってみんなに活気が戻ったと思うと、{n}思わず嬉しくなります。{p}{FC00}{v:00C7}後はヴェンツェルを倒すだけですね。{n}僕たちなら‥‥いえ、あなたなら出来ます。{p}{v:00C8}これまでどんな困難があっても、{n}やり遂げてきたんですから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C5}Wow... What beautiful fireworks...{p}{FC05}{v:00C6}I can't help feeling happy when I think of how{n}everyone's spirits have lifted again.{p}{FC00}{v:00C7}All that's left is to defeat Wenzel. We can do it... No, you{n}can do it.{p}{v:00C8}You've always seen things through, no matter what{n}difficulties stood in your way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0166",
    "jp": "{v:00E0}ヴェンツェル！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00E0}Wenzel?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0167",
    "jp": "{v:00EE}そんな、学院を狙うだなんて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00EE}No! How could he target the Academy?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0168",
    "jp": "{v:00FB}仕方ありません。{n}花火大会は終わりですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00FB}There's nothing we can do. The fireworks festival{n}is over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0169",
    "jp": "{v:00D2}おい、起きろ！{n}いつまで寝てるんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D2}Hey, wake up! How long are you gonna sleep?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0170",
    "jp": "{v:00D3}やっと起きたか。{n}まったく、寝つきのいいやつだな。{p}{FC04}{v:00D4}そろそろ花火が始まるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D3}Finally awake, huh? You sure don't have any trouble{n}falling asleep.{p}{FC04}{v:00D4}The fireworks are about to start.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0171",
    "jp": "{v:00D5}なかなかいい感じだな。{n}もうちょい派手に上がってくれりゃもっといいんだが。{p}{FC04}‥‥{v:00D6}でもよ、こうやってみんなが活気づいてくれて{n}よかったぜ。{p}{FC05}{v:00D7}後はヴェンツェルの野郎を倒せば、それで終わりだ。{n}あいつを倒すときは頼りにしてくれ。{n}この剣でたたき切ってやるからよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D5}Not bad. Be even better if they put a little more flash{n}into it.{p}{FC04}...{v:00D6}Still, it's good to see everyone in high spirits again.{p}{FC05}{v:00D7}Now we just have to beat that bastard Wenzel, and{n}it's over. Count on me when we take him on. I'll cut him{n}down with this sword!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0172",
    "jp": "{v:00E1}くそっ、奴か！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00E1}Damn, it's him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0173",
    "jp": "{v:00EF}あの野郎！{n}とんでもねぇ事をしてくれやがって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00EF}That bastard! He's really gone too far this time!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0174",
    "jp": "{v:00FC}まったく、あの野郎はろくなことしねぇな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00FC}Damn it, that bastard never does anything but{n}cause trouble.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0175",
    "jp": "{FFEE}{v:00E2}　　　　お祭り騒ぎとは、いいご身分だな。{n}　　　　だがいかに努力しようとも、{n}　　　　この私に対抗することなどできぬ！{p}{v:00E3}　　　　私はいかなる時でも、{n}　　　　望む場所へ瞬時に行けるのだからな！{p}‥‥{v:00E4}ふむ。{n}まずは見せしめに、お前たちのサル知恵の粋を集めた、{n}魔法学院でも破壊してやろうか！{p}{v:00E5}　　時刻は‥‥そう、明日の正午だ。{n}　　最後の夜を、恐怖を抱いてすごすがよい！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}{v:00E2}　　　　How carefree you are, making merry. But no{n}matter{n}how hard you try, you cannot stand against me!{p}{v:00E3}I can travel anywhere I desire in an instant, whenever{n}I please!{p}...{v:00E4}Hmm. Perhaps I shall begin by making an example of{n}your Magic Academy, destroying that pinnacle of your{n}simian ingenuity!{p}{v:00E5}The hour shall be... yes, noon tomorrow. Spend your{n}final night trembling in terror!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0176",
    "jp": "{v:00E6}大変！{n}ヴェンツェルのヤツ、学院を破壊する気だよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00E6}Oh, no! That creep Wenzel's going to destroy{n}the Academy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0177",
    "jp": "{v:00F0}あ‥‥マスター？{n}うん、今聞こえたよ！{p}{FC03}{v:00F1}え‥‥朝まで‥‥？{n}‥‥‥あ、夜だから探せないのか。{n}うん、わかった、そう伝えるね！{p}{FC00}{v:00F2}マスターが、明日の朝に王様の所へ集まれって！{n}だから今日のところは家で待機してろってさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00F0}Oh... Master? Yeah, I just heard!{p}{FC03}{v:00F1}Huh... until morning...? ...Oh, it's too dark to search. Okay,{n}got it! I'll tell them!{p}{FC00}{v:00F2}Master says to meet with the king tomorrow morning!{n}We're to wait at home until then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0178",
    "jp": "ちょっと！{n}マスターを放って、どこ行く気？",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going, leaving{n}Master behind?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen020.0179",
    "jp": "マスターをどこへ連れ出す気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're taking Master?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

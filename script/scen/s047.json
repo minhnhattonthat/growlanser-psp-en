@@ -15,446 +15,520 @@
   {
    "id": "scen047.0001",
    "jp": "{v:000F}だ、誰だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}W-who's there?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0002",
    "jp": "{v:0010}げっ！？{n}人がいた！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Ack?! Someone's here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0003",
    "jp": "{v:0011}まさかお前たち、あの娘を‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Don't tell me you're here for that girl...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0004",
    "jp": "‥‥{v:0012}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0012}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0005",
    "jp": "{v:0013}おい、誰か、あのカレンとかいう娘を！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Hey! Someone deal with that girl, Karen or whatever{n}her name is!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0006",
    "jp": "{v:0014}そうだな。{n}可哀想だが殺すしかない。{p}{v:0015}ガムラン様の命令だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Right. Shame, but we'll have to kill her.{p}{v:0015}Gamlan-sama's orders.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0007",
    "jp": "{v:0016}まずいぞ！{n}急ごう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}This is bad! Hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0008",
    "jp": "{v:0017}ヤ、ヤバイよ！{n}急がなきゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Th-this is bad! We've gotta hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0009",
    "jp": "ちょっと！{n}カレンさんを助けるんじゃないの！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Aren't we here to save Karen-san?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0010",
    "jp": "そうだぞ。{n}今を逃せば、カレンは殺されるだろう。",
-   "en": "",
-   "term": "end"
+   "en": "That's right. Miss this chance and Karen will be killed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0011",
    "jp": "さ、お兄ちゃん。{n}カレンさんを助けに行こうよ！",
-   "en": "",
-   "term": "end"
+   "en": "Come on, Big Brother. Let's go save Karen-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0012",
    "jp": "{v:0016}静かにしなさいよ！{n}誰かいたらどうするの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Keep your voice down! What if someone's here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0013",
    "jp": "{v:0017}だからって蹴らないでよ！{n}バカになっちゃう～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}That doesn't mean you have to kick me! You'll make{n}me stupiiid!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0014",
    "jp": "‥‥{v:0018}それ以上、落ちる知能もないでしょ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0018}You can't get any dumber than you already are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0015",
    "jp": "{v:0019}あ、そっか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Oh, right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0016",
    "jp": "‥‥{v:001A}ミーシャも、そこで納得しないでよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001A}Misha, you're not supposed to agree with her...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0017",
    "jp": "風景画がある。",
-   "en": "",
-   "term": "end"
+   "en": "There's a landscape painting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0018",
    "jp": "美しいツボが並んでいる。",
-   "en": "",
-   "term": "end"
+   "en": "Beautiful vases are arranged in a row.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0019",
    "jp": "{v:0027}誰も地下に行かせなかったよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}We didn't let anyone get downstairs, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0020",
    "jp": "{v:0028}何とか間に合ったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}We made it just in time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0021",
    "jp": "{v:0023}急いで地下に行かねば！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}I must get downstairs, quickly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0022",
    "jp": "{v:0024}そうはさせないわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Oh, no you don't!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0023",
    "jp": "{v:0025}お前たちこそ、これ以上は進ませんぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}You're the ones who aren't going any farther!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0024",
    "jp": "{v:001B}ふぅ～ん。{n}なんだか怪しいわね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Hmm. Something's fishy here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0025",
    "jp": "‥‥{v:009D}終わったみたいね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:009D}Looks like it's over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0026",
    "jp": "{v:009E}みなさん、ありがとうございます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009E}Thank you, everyone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0027",
    "jp": "{v:009F}これでゼノスさんが{n}シャドー・ナイツの仕事、しなくてすむね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009F}Now Xenos-san won't have to work for the Shadow{n}Knights anymore.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0028",
    "jp": "‥‥{v:00A0}すまない。{n}お前たちには迷惑をかけてばかりだった。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00A0}I'm sorry. All I've done is cause you trouble.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0029",
    "jp": "{v:00A1}それにカレン。{n}俺のせいで、お前まで危険な目に‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A1}And Karen... I put you in danger, too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0030",
    "jp": "{v:00A2}いいえ、兄さんこそ、私のせいでこんなことに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A2}No, Brother. It's my fault you got caught up in{n}all this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0031",
    "jp": "‥‥{v:00A3}さぁ、家に帰ろう。{n}そして昔のように一緒に暮らそう。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00A3}Come on, let's go home. Let's live together like we{n}used to.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0032",
    "jp": "{v:00A4}兄さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A4}Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0033",
    "jp": "{v:00A5}ともかく一件落着だな。{n}良いことをした後は気持ちがいいわい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A5}Well, that's settled, then. Nothing like a good deed to lift{n}the spirits, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0034",
    "jp": "‥‥{v:00A6}兄妹っていいわね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00A6}It must be lovely to have a brother or sister.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0035",
    "jp": "{v:00A7}やっと再会できたんだもん。{n}今はそっとしておいてあげよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A7}They're finally together again. Let's give them some{n}time alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0036",
    "jp": "{v:001C}あ、カレンさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Oh, Karen-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0037",
    "jp": "‥‥{v:001D}みなさん！{n}どうしてここへ‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001D}Everyone! What are you doing here...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0038",
    "jp": "{v:001E}アンタを探しに来たんじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}We came looking for you, of course!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0039",
    "jp": "{v:001F}ゼノスさんから聞きました。{n}カレンさんが捕まったって。{p}{v:0020}さ、一緒に逃げましょう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Xenos-san told us you'd been captured, Karen-san.{p}{v:0020}Come on, let's get you out of here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0040",
    "jp": "{v:0021}どこかに鍵があるはずだ。{n}今探してくる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}There must be a key somewhere. I'll go find it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0041",
    "jp": "{v:0022}待って！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Wait!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0042",
    "jp": "{v:0023}どうしたの、カレンさん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}What's wrong, Karen-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0043",
    "jp": "‥‥{v:0024}私、行けません。{n}行っても意味がないんです‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0024}I can't go. There's no point in going...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0044",
    "jp": "{v:0025}どういう意味ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}What do you mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0045",
    "jp": "{v:0026}あのガムランって人に呪いをかけられているんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}That man Gamlan has put a curse on me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0046",
    "jp": "{v:0027}ガムランの奴‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}That bastard Gamlan...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0047",
    "jp": "{v:0028}私がどこにいても、ある言葉を言うだけで苦しめたり、{n}殺したり出来るって‥‥。{p}{v:0029}だから私がここから逃げ出しても同じなんです‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}He said that wherever I am, he can make me suffer or{n}kill me just by saying certain words...{p}{v:0029}So even if I escape from here, nothing will change...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0048",
    "jp": "{v:002A}カレンさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Karen-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0049",
    "jp": "{v:002B}私がいるせいで、兄が苦しむなら‥‥{n}私が生きているせいで‥‥。{FFF9}{FFFB}{n}{v:002C}私が死ねば、兄も‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}If my brother is suffering because of me... Because I am{n}alive...{FFF9}{FFFB}{v:002C}If I died, my brother could...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0050",
    "jp": "{v:002D}そんなこと言っちゃダメ！{n}アタシたちが助けるから！{p}{v:002E}絶対呪いを解いてあげるから！{n}だから、もう少し我慢して！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Don't say that! We're going to save you!{p}{v:002E}We'll break that curse, I promise! Just hang on a{n}little longer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0051",
    "jp": "{v:002F}自分を責めちゃダメだよ！{n}悪いのはアイツだもん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Don't blame yourself! It's all his fault!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0052",
    "jp": "{v:0030}わたし達が呪いを解く方法を見つけるから、{n}もう少し我慢して！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}We'll find a way to break the curse, so please hold on a{n}little longer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0053",
    "jp": "‥‥{v:0031}はい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0031}Yes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0054",
    "jp": "ごめんなさい‥‥。{n}私のせいで、みなさんまで危険な目に{n}あわせてしまって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorry... Because of me, all of you are in{n}danger, too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0055",
    "jp": "{v:002A}は、みなさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Oh, everyone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0056",
    "jp": "鍵が合わない！",
-   "en": "",
-   "term": "end"
+   "en": "The key doesn't fit!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0057",
    "jp": "　{n}　　　　　　　{FFEF}牢屋の錠を外した！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　{FFEF}Unlocked the cell!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0058",
    "jp": "{v:002B}今、呪いを解いてあげるから、もう少し待っててね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}We're going to break the curse now, so just wait a{n}little longer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0059",
    "jp": "{v:002C}ほら、早くしなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Come on, hurry up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0060",
    "jp": "{v:002D}乱暴はしないでくれたまえ！{n}物には順序というのがあってだね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Do stop manhandling me! There is a proper order to{n}these things, you know...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0061",
    "jp": "{v:002E}そんなこと言ってる暇があったらさっさと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}If you've got time to talk, then get on with...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0062",
    "jp": "{v:002F}クックックッ！{n}やっぱり来ましたね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Heh heh heh! So you came after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0063",
    "jp": "{v:0030}この声はガムラン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}That voice! Gamlan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0064",
    "jp": "{v:0031}この娘を助け出すためにお前たちが来ると{n}読んだのは正解だったな。{p}{v:0032}だがお前たちにその娘は助けられん。{n}我が呪いは、瞬時に発動するからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}I was right to expect you to come for this girl.{p}{v:0032}But you cannot save her. My curse takes effect in{n}an instant.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0065",
    "jp": "{v:0033}みなさん！{n}私のことはいいから早く逃げてください！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Everyone! Forget about me and get out of here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0066",
    "jp": "{v:0034}うるさい！{n}少し痛い目を見せてあげましょうか！{p}{FFF6}{FFF3}‥‥{FFF4}{v:0035}ギプト・カレン・サファー‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Silence! Shall I give you a little taste of pain?!{p}{FFF6}{FFF3}...{FFF4}{v:0035}Gipt Karen Suffer...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0067",
    "jp": "{v:0036}きゃああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0068",
    "jp": "{v:0037}どうです？{n}今は痛みだけでしたが、別の言葉で{n}その娘を殺すこともできるのですよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Well? That was merely pain, but with another word, I{n}can kill her. You understand?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0069",
    "jp": "{v:0038}ムカツクゥ～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Ooh, you make me sooo mad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0070",
    "jp": "{v:0039}その娘を助けたければ、お前たちが死ぬのです！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}If you want to save that girl, you must die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0071",
    "jp": "『{FFEF}ヴィンダル{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Vindar{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0072",
    "jp": "　{n}　　　　　『{FFEF}ヴィンダル{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Vindar{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0073",
    "jp": "おい、せっかくのチャンスを逃す気か？{n}今のうちに徹底的に調べるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you going to let this chance slip away? Search the{n}place thoroughly while we can.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen047.0074",
    "jp": "おい、娘を助けなくていいのか！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! What about saving the girl?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

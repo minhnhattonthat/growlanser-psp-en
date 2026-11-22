@@ -41,9 +41,10 @@
   {
    "id": "scen329.0005",
    "jp": "・特にない",
-   "en": "",
+   "en": "・Nothing in particular",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen329.0006",
@@ -295,16 +296,18 @@
   {
    "id": "scen329.0045",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen329.0046",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen329.0047",
@@ -662,9 +665,10 @@
   {
    "id": "scen329.0102",
    "jp": "・ティピ",
-   "en": "",
+   "en": "・Tippi",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen329.0103",
@@ -681,8 +685,9 @@
   {
    "id": "scen329.0105",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen329.0106",
@@ -767,8 +772,9 @@
   {
    "id": "scen329.0119",
    "jp": "何と言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen329.0120",

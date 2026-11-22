@@ -15,314 +15,366 @@
   {
    "id": "scen250.0001",
    "jp": "仮面騎士",
-   "en": "",
-   "term": "null"
+   "en": "Masked Knight",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen250.0002",
    "jp": "魔法学院生徒",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen250.0003",
    "jp": "{v:0019}よぉし！{n}行くわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}All riiight! Let's go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0004",
    "jp": "‥‥{v:001A}え‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001A}Huh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0005",
    "jp": "{v:001B}何、ぼうっとしてんの！{n}戦うのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}What are you spacing out for?! Fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0006",
    "jp": "{FFEE}ルイセを守りながら、生徒を救出しろ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Rescue the students while protecting Luise!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0007",
    "jp": "{v:001C}お、お前たちは！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Y-you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0008",
    "jp": "{v:001D}これ以上、好き勝手させないわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}You've had your way long enough!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0009",
    "jp": "‥‥{v:001E}えっと‥‥あの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001E}Um... I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0010",
    "jp": "{v:001F}何してんのよ！{n}ほら、戦って！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}What are you doing?! Come on, fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0011",
    "jp": "{v:002F}きゃあぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0012",
    "jp": "{v:0030}そんな、ルイセちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}No, Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0013",
    "jp": "{v:0020}お前たちは許さねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}You'll pay for this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0014",
    "jp": "{v:0021}この学院を壊すなんて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}How could you destroy this academy?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0015",
    "jp": "{v:0022}この学院を壊させはしない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}I will not let you destroy this academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0016",
    "jp": "{v:0023}私は、あなた達を許せません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}I cannot forgive you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0017",
    "jp": "{v:0024}死にやがれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Die, damn you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0018",
    "jp": "{v:0025}負けませんよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}I will not lose!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0019",
    "jp": "{v:0026}よくも我が国を混乱させてくれたな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}How dare you plunge my country into chaos!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0020",
    "jp": "{v:002E}今のお前なら、我々でも十分に倒せる。{n}さぁ、死ぬがよい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}In your present state, even we can defeat you easily.{n}Now, die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0021",
    "jp": "{v:002A}今は無理に戦う必要はない。{n}この施設にいる人間を片っ端から殺してやる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}We need not go out of our way to fight now. We will{n}slaughter every human in this facility!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0022",
    "jp": "{v:002B}ヤバイよ！{n}建物の中に入る気だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Oh, no! They're heading inside!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0023",
    "jp": "{v:002C}そうはさせるか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Like hell you will!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0024",
    "jp": "{v:002D}そんなこと、させないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}I won't let you do that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0025",
    "jp": "{FFEE}敵を校舎に入らせるな！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Keep the enemy out of the school building!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0026",
    "jp": "{v:0028}やはりそうか。{n}あの女、グローシュが弱っている。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Just as I thought. That girl's Grosh has weakened.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0027",
    "jp": "{v:0029}ヤバイよ！{n}ルイセちゃんのこと、気づかれたみたい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Oh, no! I think they've figured out what's wrong{n}with Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0028",
    "jp": "‥‥{v:0027}ん？{n}これは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0027}Hmm? This is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0029",
    "jp": "{v:0031}お前たちなんか、こうしてやる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Take this, you creeps!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0030",
    "jp": "{v:0032}私たちをなめないでよね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Don't underestimate us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0031",
    "jp": "{v:0033}うわぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Aaagh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0032",
    "jp": "{v:0034}きゃあっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Aaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0033",
    "jp": "{v:0035}ああ、やられちゃうよ！{n}早く助けてあげなよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Oh, no! They're going to get killed! Hurry up and{n}help them!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0034",
    "jp": "{v:0036}そんな‥、守りきれなかったなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}No... We couldn't protect them...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0035",
    "jp": "{v:0037}クックックッ！{n}大虐殺の始まりだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Heh heh heh! Let the slaughter begin!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0036",
    "jp": "{v:0038}ああ‥‥、中に入られちゃうなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Oh, no... We let them get inside...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0037",
    "jp": "‥‥{v:0039}さすが‥弱ってもグローシアンということか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0039}So... even weakened, a Growsian is still a Growsian...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0038",
    "jp": "{v:003A}ゲヴェルってどこにいるの？{n}答えなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Where's Gevel? Answer me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0039",
    "jp": "‥‥{v:003B}そう簡単に言うと思うか？{n}だが代わりに面白いことを教えてやる‥‥。{p}{v:003C}リシャールを見てわかっただろう‥‥。{n}ゲヴェル様はある人物の細胞から、{n}複製を作り出せる。{p}{v:003D}我々もそうして、何十体と作り出された。{n}‥‥そして、そのうち１体が{n}ローランディアの要人の家に引き取られた‥‥。{p}{v:003E}それがこの顔だ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003B}Do you think I would tell you so easily? But I will tell{n}you something amusing instead...{p}{v:003C}You must have realized it when you saw Richard...{n}Gevel-sama can create replicas from a certain{n}person's cells.{p}{v:003D}Dozens of us were created that way, too. ...And one of{n}us was taken into the household of an important figure{n}in Rolandia...{p}{v:003E}And this is his face!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0040",
    "jp": "{v:003F}フハハハハッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Hahahahaha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0041",
    "jp": "‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "......",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0042",
    "jp": "{v:0040}そ、そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}N-no...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0043",
    "jp": "‥{v:0041}バカな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0041}Impossible...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0044",
    "jp": "{v:0042}そんなことって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}How could that be...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0045",
    "jp": "‥‥{v:0043}なんてこったい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0043}What the hell...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0046",
    "jp": "{v:0044}ええっ、そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}What?! No...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0047",
    "jp": "{v:0045}ま、まさか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}I-it can't be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0048",
    "jp": "{v:0046}おい、何があったんだ！？　説明してくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Hey, what happened?! Tell me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0049",
    "jp": "{v:0047}お兄ちゃん、溶けちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Big Brother melted...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0050",
    "jp": "‥‥{v:0048}な！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0048}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0051",
    "jp": "{v:0049}えっと、正確に言うと今の奴、{n}コイツにそっくりだったの。{n}前みたいに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Um, to be exact, that guy looked just like this guy. Like{n}before...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen250.0052",
    "jp": "{v:004A}おい、それじゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Hey, then that means...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,158 +15,184 @@
   {
    "id": "scen015.0001",
    "jp": "異形",
-   "en": "",
-   "term": "null"
+   "en": "Monstrosity",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen015.0002",
    "jp": "自宅",
-   "en": "",
-   "term": "end"
+   "en": "Home",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0003",
    "jp": "どこ行く気よ！{n}せっかくマスターが王様に取りなしてくれる{n}って言ってるんでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going?! Master said she'd{n}put in a good word for you with the king!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0004",
    "jp": "ちょっと！{n}マスターを無視する気？",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Are you just going to ignore Master?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0005",
    "jp": "ちょっと！{n}マスターが呼んでるでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Master's calling you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0006",
    "jp": "{v:0027}あ、お兄さま！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Oh, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0007",
    "jp": "{v:0028}よ、おはよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Hey. Morning.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0008",
    "jp": "{v:0029}おはよう、お兄ちゃん。{n}またお寝坊さんだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Good morning, Big Brother. Slept in again, didn't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0009",
    "jp": "{v:002A}おはよう。{n}あなたが来るまでに、今までのことは{n}聞かせてもらいましたよ。{p}{v:002B}ゆっくり眠れましたか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Good morning. While we waited for you, everyone told{n}me what has happened so far.{p}{v:002B}Did you sleep well?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0010",
    "jp": "{v:002C}それが、マスター。{n}また変な夢を見たんだって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Well, Master... He says he had another strange dream.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0011",
    "jp": "{v:002D}夢ですか？{p}{v:002E}話してみなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}A dream?{p}{v:002E}Tell me about it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0012",
    "jp": "{v:002F}マスターを襲った仮面の男たちが、{n}見たこともない怪物に命令されてる夢だって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}He says the masked men who attacked you, Master,{n}were taking orders from a monster he'd never{n}seen before.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0013",
    "jp": "{FFF3}{v:0030}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{v:0030}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0014",
    "jp": "{v:0031}何だか変な夢でしょ？{p}{v:0032}仮面の男たちが出てくるのはいいとして、{n}怪物に命令されているなんて。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Weird dream, huh?{p}{v:0032}I can see why he'd dream about the masked men, but{n}taking orders from a monster?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0015",
    "jp": "{v:0033}つまり、その怪物が{n}サンドラ様に傷を負わせた仮面の男たちと{n}関係があるって言うんだな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}So you're saying that monster's connected to the{n}masked men who wounded Sandra-sama?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0016",
    "jp": "{v:0034}夢の内容から考えるとそうなるわね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}That's what the dream seems to mean.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0017",
    "jp": "{v:0035}その怪物はどんな格好をしていたんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}What did that monster look like?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0018",
    "jp": "{v:0036}あの仮面の男たちがつけてた鎧に似てて、{n}すごく大きいんだって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}He says it looked like the armor those masked men{n}wore, and it was huge.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0019",
    "jp": "{FFF3}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0020",
    "jp": "{v:0037}ちょっと聞いてくれ。{n}俺が昔、傭兵団に入っていて、{n}水晶鉱山の警備をしていたことは話したな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Listen a moment. I told you I used to guard a crystal{n}mine when I was with a mercenary company.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0021",
    "jp": "{v:0038}たしか、化け物が暴れて、って話だったよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}That's the story about a monster going on a{n}rampage, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0022",
    "jp": "{v:0039}ああ。{n}その化け物だが、似ているように思えるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Yeah. Sounds like that monster looked much the same.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0023",
    "jp": "{v:003A}この子が夢で見た異形にですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}You mean it resembled the monstrosity my son saw in{n}his dream?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0024",
    "jp": "{v:003B}そうです。{p}{v:003C}そして隊長は奴を追って行方不明となった。{n}その隊長を探していた俺の前に立ちはだかり、{n}俺の腕と眼を奪ったのは仮面の男たち‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Yes.{p}{v:003C}My captain went after it and disappeared. When I went{n}looking for him, masked men stood in my way. They're{n}the ones who crippled my arm and ruined my sight...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0025",
    "jp": "{v:003D}仮面の男たち？{p}{v:003E}それじゃ、マスターを襲った仮面の男たちって？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Masked men?{p}{v:003E}Then the masked men who attacked Master were...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0026",
    "jp": "{v:003F}このあいだ戦ったとき、似ていると思ったよ。{p}{v:0040}俺はこの通り、シルエットしか見えねぇが、{n}あんな形をしてりゃ、すぐに分かるぜ。{p}{v:0041}話を聞く限りじゃ同じ連中のようだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}I thought they looked familiar when we fought them the{n}other day.{p}{v:0040}I can only make out silhouettes with these eyes, but{n}I'd know that shape anywhere.{p}{v:0041}From what you've told me, they sound like the{n}same bunch.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0027",
@@ -177,272 +203,317 @@
   {
    "id": "scen015.0028",
    "jp": "{v:0043}えっ？{p}{v:0044}ウォレスさんが腕を斬られたときの夢を{n}見たことがあるって？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Huh?{p}{v:0044}You've had a dream about Wallace-san getting his{n}arm slashed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0029",
    "jp": "{v:0045}なんだって？{p}{v:0046}そのときの相手はどんな奴だった？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}What?{p}{v:0046}What did the one who attacked me look like?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0030",
    "jp": "‥‥{v:0047}やっぱりサンドラ様を襲った奴か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0047}So it was the one who attacked Sandra-sama{n}after all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0031",
    "jp": "{v:0048}お兄ちゃん、それっていつ見たの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Big Brother, when did you have that dream?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0032",
    "jp": "{v:0049}ウォレスさんと出会う前？{p}{v:004A}つまりマスターを襲った連中なんて{n}知らなかったときだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Before you met Wallace-san?{p}{v:004A}So you didn't even know about the people who{n}attacked Master yet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0033",
    "jp": "{v:004B}それでも見ていたってことは、{n}ただの夢だとは思えないなぁ。{n}お兄さまって、すごい特技があるんですね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}If you were seeing it even then, I don't think it could be{n}just a dream. What an amazing gift you have,{n}Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0034",
    "jp": "‥‥{v:004D}お母さん。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004D}Mother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0035",
    "jp": "{v:004E}夢に出てきた異形について少々心当たりがあります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}I have some idea what the strange creature in your{n}dream might be.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0036",
    "jp": "{v:004F}何だって？{n}サンドラ様、詳しく教えてくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}What? Sandra-sama, tell me more!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0037",
    "jp": "{v:0050}あくまでも伝承に残るだけなのですが‥‥。{p}{v:0051}昔、グローシアンが人間を支配していた時代に{n}人を襲うゲヴェルという怪物が現れたそうです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}This is only what the legends tell us...{p}{v:0051}Long ago, when the Growsians ruled over humans, a{n}monster called Gevel is said to have appeared and{n}attacked people.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0038",
    "jp": "{v:0052}それで、その怪物はどうなったの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}So, what happened to that monster?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0039",
    "jp": "{v:0053}伝承では、数人のグローシアンが{n}ゲヴェルと戦ったそうです。{p}{v:0054}くわしい事は分かりませんが、それ以降ゲヴェルも、{n}当時いたグローシアンもいなくなったそうです。{p}{v:0055}もし夢で見た異形がゲヴェルだったら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}According to the legends, several Growsians{n}fought Gevel.{p}{v:0054}The details are unclear, but afterward, both Gevel and{n}the Growsians of that time are said to have vanished.{p}{v:0055}If the creature you saw in your dream was Gevel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0040",
    "jp": "{v:0056}くっ！{p}{v:0057}調べてみたいのはやまやまだが、この体じゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}Damn!{p}{v:0057}I'd like nothing better than to investigate, but I'm in no{n}shape for it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0041",
    "jp": "{v:0058}それに、その怪物の姿を知っているのは、{n}夢を見たお兄さまだけじゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Besides, Big Brother is the only one who's seen that{n}monster, and that was in a dream...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0042",
    "jp": "{v:0059}調べるにしても、{n}水晶鉱山はバーンシュタイン王国にあるんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Even if we wanted to investigate, the crystal mine is in{n}the Kingdom of Burnstein, you know?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0043",
    "jp": "{v:005A}前の通行証じゃ、{n}コムスプリングスまでしか行けないし、{n}もう期限切れだし。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Our old travel permit only got us as far as{n}Comsprings, and it's already expired.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0044",
    "jp": "{v:005B}打つ手なしか‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}So our hands are tied...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0045",
    "jp": "{FFF3}‥{FE1E}‥{FE1E}。{p}{FFF4}{v:005C}方法はあります。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}.{FE1E}.{FE1E}.{p}{FFF4}{v:005C}There is a way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0046",
    "jp": "{v:005D}えっ！{n}なに、なに？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Huh?! What is it? Tell us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0047",
    "jp": "{v:005E}あなた達は闘技大会で優勝したんですね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}You won the tournament, did you not?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0048",
    "jp": "{v:005F}うん、それでコムスプリングスまで行って来たんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Yep! That's how we got to go all the way{n}to Comsprings!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0049",
    "jp": "{v:0060}その実力なら、我が国に仕官できるでしょう。{p}{v:0063}そうすれば公務として{n}バーンシュタイン王国に行くチャンスが{n}もらえるかも知れません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}With that kind of ability, you should be able to enter our{n}kingdom's service.{p}{v:0063}That might give you an opportunity to visit the Kingdom{n}of Burnstein on official business.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0050",
    "jp": "{v:0064}わぁ、すごいなぁ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}Wow, that's amazing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0051",
    "jp": "{v:0065}もちろん、国から受ける任務が優先されますから、{n}いつでも自由に動けるとは限りません。{p}{v:0066}それでもチャンスはかなりあるはずです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}Of course, your duties to the kingdom would take{n}precedence, so you would not always be free to act as{n}you please.{p}{v:0066}Even so, you should have plenty of opportunities.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0052",
    "jp": "{v:0067}やったね、お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0067}We did it, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0053",
    "jp": "{v:0068}できるだけ自由の利く任務をもらえるように、{n}私から国王に掛け合ってみましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0068}I will speak to the King about giving you assignments{n}that allow as much freedom as possible.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0054",
    "jp": "{v:0069}これでウォレスさんの目的にも、一歩近づいたね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}That brings us one step closer to your goal{n}too, Wallace-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0055",
    "jp": "{v:006A}ああ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}Yeah.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0056",
    "jp": "{v:006B}あなたにだけ話があります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}I need to speak with you alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0057",
    "jp": "ついてきなさい。",
-   "en": "",
-   "term": "end"
+   "en": "Come with me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0058",
    "jp": "行きましょうか。",
-   "en": "",
-   "term": "end"
+   "en": "Shall we go?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0059",
    "jp": "　{n}　　　　{FFEF}サンドラが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Sandra is now accompanying you!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0060",
    "jp": "ローランディア城へ",
-   "en": "",
-   "term": "end"
+   "en": "To Rolandia Castle",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0061",
    "jp": "水晶鉱山に出た化け物と、お前が夢で見た異形‥‥。{n}隊長の消息をつかむ手がかりが、{n}そこにあるかもしれんな。",
-   "en": "",
-   "term": "end"
+   "en": "The monster in the crystal mine, and the creature you{n}saw in your dream... There might be a clue there to the{n}captain's whereabouts.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0062",
    "jp": "お兄ちゃんの夢って、お母さんを助けた時みたいに{n}遠くの景色を見るだけだと思っていたけど、{n}昔のことも見たりするんだね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I thought your dreams only showed you faraway{n}places, like when we saved Mother. But you can see{n}things from the past too, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0063",
    "jp": "わたしがお兄ちゃんの本当の妹だったら、{n}わたしもお兄ちゃんみたいな夢を{n}見られたのかな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "If I were your sister by birth, would I have dreams like{n}yours too, Big Brother...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0064",
    "jp": "どうしてそんな夢を見るんでしょうね？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder why you have those dreams.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0065",
    "jp": "{v:001F}やっと起きた！{p}{v:0020}どうしてアンタはそう寝起きが悪いの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Finally, you're awake!{p}{v:0020}Why are you always so hard to wake up?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0066",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0067",
    "jp": "{v:0021}えっ？{n}また変な夢を見たって？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Huh? You had another weird dream?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0068",
    "jp": "{v:0022}マスターを襲った仮面の男たちが、{n}怪物に命令されている？{p}{v:0023}怪物ってどんな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}The masked men who attacked Master were taking{n}orders from a monster?{p}{v:0023}What kind of monster?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0069",
    "jp": "{v:0024}仮面の男たちの鎧に似てる？{n}それですごく大きいのね？{p}{FC03}{v:0025}その夢の話はマスターに話した方が良さそうね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}It looks like the masked men's armor? And it's{n}really huge?{p}{FC03}{v:0025}We'd better tell Master about that dream.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0070",
    "jp": "ティピにサンドラの様子をたずねますか？",
-   "en": "",
-   "term": "end"
+   "en": "Ask Tippi how Sandra is doing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0071",
    "jp": "{v:0026}うん！{n}マスターならもう大丈夫だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Yep! Master's all right now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0072",
    "jp": "ほら、行こう？",
-   "en": "",
-   "term": "end"
+   "en": "Come on, let's go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0073",
@@ -453,344 +524,401 @@
   {
    "id": "scen015.0074",
    "jp": "ベッドで休みますか？",
-   "en": "",
-   "term": "end"
+   "en": "Rest in the bed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0075",
    "jp": "{v:0055}アンタ、夕べはうなされてたわよ。{n}また夢でも見たんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}You were moaning in your sleep last night. Had another{n}dream, didn't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0076",
    "jp": "{v:0056}どんな夢だったの、お兄ちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}What kind of dream was it, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0077",
    "jp": "{v:0057}えっ？{p}{v:0058}グローシュがいっぱい飛んでる澄んだ湖？{p}{v:0059}湖のそばにユングがいっぱい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Huh?{p}{v:0058}A clear lake with lots of Grosh flying around?{p}{v:0059}And lots of Jung by the lake?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0078",
    "jp": "{v:005A}グローシュがいっぱい飛んでいるってことは、{n}北の方だよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}If there's that much Grosh flying around, it must be up{n}north, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0079",
    "jp": "{v:005B}たぶんオリビエ湖のことだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Probably Lake Olivier.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0080",
    "jp": "{v:005C}オリビエ湖‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Lake Olivier...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0081",
    "jp": "{v:005D}バーンシュタイン王国との国境沿いにある湖だ。{n}だが今、そのあたりは戦場になっているから、{n}そこへ行くのは大変だな。{p}{v:005E}せめて補給物資運搬用の道路ができれば、{n}少しは楽に行けるんだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}It's a lake along the border with the Kingdom of{n}Burnstein. But that area's a battlefield now. Getting{n}there won't be easy.{p}{v:005E}If they'd at least finish the road for transporting{n}supplies, it'd be a little easier...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0082",
    "jp": "{v:005F}王都の西側につなごうとしている道だよね。{n}そろそろ完成してもいい頃だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}That's the road they're trying to connect to the west{n}side of the capital, right? It should be finished any{n}day now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0083",
    "jp": "皿がある。",
-   "en": "",
-   "term": "end"
+   "en": "There is a plate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0084",
    "jp": "読みかけの本だ。",
-   "en": "",
-   "term": "end"
+   "en": "It's a partly read book.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0085",
    "jp": "プロジェクト用重要書類{n}ここから、イベントのチェックポイントまで{n}ジャンプできます。",
-   "en": "",
-   "term": "end"
+   "en": "Important Project Documents. You can jump to event{n}checkpoints from here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0086",
    "jp": "チェックポイントへジャンプしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Jump to a checkpoint?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0087",
    "jp": "{v:0000}ただいま。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}We're home.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0088",
    "jp": "{v:0001}おお、戻られましたか。{n}それで、薬は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Ah, you've returned. And the medicine?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0089",
    "jp": "{v:0002}ちゃんともらってきたよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}We got it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0090",
    "jp": "{FFF3}‥‥{FFF4}{v:0003}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FFF4}{v:0003}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0091",
    "jp": "{v:0004}お母さん、薬だよ。{n}さあ、飲んで。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Mother, here's your medicine. Come on, drink it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0092",
    "jp": "{FFF3}‥{FE1E}‥{FE1E}‥{FE1E}‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FE1E}...{FE1E}...{FE1E}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0093",
    "jp": "{v:0005}これで大丈夫だよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}She'll be all right now, won't she?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0094",
    "jp": "{v:0006}すぐには分かりません。{n}今夜一晩は様子を見ましょう。{p}{v:0007}私が看ていますから、{n}みなさんはお休みになってください。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}We cannot tell just yet. We will need to watch her{n}through the night.{p}{v:0007}I will look after her. Please, all of you, get some rest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0095",
    "jp": "{v:0008}おねがいします、先生。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Please take care of her, Doctor.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0096",
    "jp": "さあ、薬を飲ませてあげて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Now, please give her the medicine.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0097",
    "jp": "{v:0007}私が看ていますから、{n}みなさんはお休みになってください。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}I will look after her. Please, all of you, get some rest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0098",
    "jp": "‥‥{v:0003}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0003}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0099",
    "jp": "{v:006C}あなたは小さい頃から不思議な夢を見てきました。{n}それがどんな意味を持つのか？{n}あなたの生まれは何なのか？{p}{v:006D}それが、これからのあなた自身の旅の目的に{n}なるでしょう。{n}それがどんな結果に繋がるか、予想もできません。{p}{v:006E}ですが、これだけは覚えておきなさい。{p}{v:006F}私やルイセは、お前を本当の息子、{n}本当の兄だと思って来ました。{n}そして、これからも。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}You have had mysterious dreams since you were little.{n}What do they mean? What are your origins?{p}{v:006D}Finding those answers will likely become the purpose of{n}your own journey. I cannot begin to predict where it{n}will lead.{p}{v:006E}But remember this one thing.{p}{v:006F}I have always thought of you as my own son, and{n}Luise has always thought of you as her own brother.{n}And we always will.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0100",
    "jp": "さあ、みんなの所へ戻りましょう。",
-   "en": "",
-   "term": "end"
+   "en": "Now, let us go back to the others.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0101",
    "jp": "どうやら日が暮れたようだな。",
-   "en": "",
-   "term": "end"
+   "en": "Looks like the sun's gone down.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0102",
    "jp": "アンタ！{n}１人でどこへ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you! Where do you think you're going all{n}by yourself?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0103",
    "jp": "{v:0009}やるだけのことはやった。{n}後は天命を待つのみ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}We've done all we can. The rest is in fate's hands.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0104",
    "jp": "{v:000A}そうですね。{p}{v:000B}僕は家に戻って、もっと両親のことを調べてみます。{p}{v:000C}母が父を理解した具体的なきっかけがわかれば、{n}フェザリアンたちも人間を理解してくれるかも{n}知れない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}You're right.{p}{v:000B}I'll go home and see what else I can find out about{n}my parents.{p}{v:000C}If I can discover exactly what led my mother to{n}understand my father, perhaps the Featherians will{n}come to understand humans too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0105",
    "jp": "{v:000D}アリオストさん、ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Thank you, Ariost-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0106",
    "jp": "{v:000E}礼を言われるようなことはしてないよ。{n}それよりこっちがお礼を言いたいくらいだ。{p}{FC00}{v:000F}それじゃ、僕は村に戻るから。{n}何かあったら、村か研究室の方に来てくれれば{n}会えると思う。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}I haven't done anything worth thanking me for. If{n}anything, I should be thanking you.{p}{FC00}{v:000F}Well, I'm heading back to the village. If anything comes{n}up, you should be able to find me there or at{n}my laboratory.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0107",
    "jp": "{v:0010}気をつけてね、アリオストさん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Take care, Ariost-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0108",
    "jp": "{v:0011}さよなら。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Goodbye.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0109",
    "jp": "アリオストの装備を外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Remove Ariost's equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0110",
    "jp": "{v:0012}さて、俺たちも少し休むとしようか。{n}いろいろと疲れたしな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Well, we should get some rest too. We've been through{n}a lot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0111",
    "jp": "{v:0013}ルイセちゃん、一緒に寝よう♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Luise-chan, let's share a bed♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0112",
    "jp": "{v:0014}そうだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}All right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0113",
    "jp": "{v:0015}ウォレスさん、お兄ちゃん。{n}お休みなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Wallace-san, Big Brother. Good night.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0114",
    "jp": "{v:0016}お休みなさ～い！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Good niiight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0115",
    "jp": "俺はもう少し、ここで考え事をしている。{n}先に寝たらどうだ？",
-   "en": "",
-   "term": "end"
+   "en": "I'll stay here and think a little longer. Why don't you go{n}on to bed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0116",
    "jp": "せっかくだし、そっとしておいてあげようよ。",
-   "en": "",
-   "term": "end"
+   "en": "Let's give him a little peace and quiet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0117",
    "jp": "{v:0017}どうした。{n}ローランディア王国の宮廷魔術師はまだ生きているぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}What is the meaning of this? The Kingdom of Rolandia's{n}Court Magician still lives.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0118",
    "jp": "{v:0018}申し訳ございません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Please forgive us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0119",
    "jp": "{v:0019}もっとも、お前たちだけの責任ではないがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Though the blame is not yours alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0120",
    "jp": "{v:001A}はっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Sir?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0121",
    "jp": "{v:001B}作戦を多少急ぐ必要があるか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Perhaps we must hasten our plans somewhat.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0122",
    "jp": "{v:001C}では、我々はその準備にかかります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Then we shall begin preparations.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0123",
    "jp": "{v:001D}うむ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Very well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0124",
    "jp": "{v:001E}それにしても邪魔だな、あの娘は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Even so, that girl is a nuisance...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0125",
    "jp": "一夜明けて",
-   "en": "",
-   "term": "end"
+   "en": "The next morning",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0126",
    "jp": "もう遅いし、お母さんのこと心配だし‥‥。{n}外に出るのはまた明日にしようよ。",
-   "en": "",
-   "term": "end"
+   "en": "It's late, and I'm worried about Mother... Let's wait{n}until tomorrow to go out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0127",
    "jp": "‥‥で？{n}マスターをどこへ連れて行く気なの？",
-   "en": "",
-   "term": "end"
+   "en": "...Well? Where do you think you're taking Master?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0128",
    "jp": "ダメだよ、お兄ちゃん！{n}街の中を探さないと！",
-   "en": "",
-   "term": "end"
+   "en": "No, Big Brother! We have to search inside the city!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0129",
    "jp": "ちょっと！{n}今からどこへ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going now?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen015.0130",
    "jp": "せっかくお兄さんと再会できたんだから、{n}もうちょっとゆっくりしていこうよ。",
-   "en": "",
-   "term": "end"
+   "en": "You've finally been reunited with your brother. Let's{n}stay a little longer.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

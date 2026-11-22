@@ -15,882 +15,1022 @@
   {
    "id": "scen030.0001",
    "jp": "魔法学院生徒",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0002",
    "jp": "学食の親父",
-   "en": "",
-   "term": "null"
+   "en": "Cafeteria Owner",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0003",
    "jp": "バイト店員",
-   "en": "",
-   "term": "null"
+   "en": "Part-Time Clerk",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0004",
    "jp": "教授",
-   "en": "",
-   "term": "null"
+   "en": "Professor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0005",
    "jp": "ミーシャ",
-   "en": "",
-   "term": "null"
+   "en": "Misha",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0006",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0007",
    "jp": "ルイセ",
-   "en": "",
-   "term": "null"
+   "en": "Luise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0008",
    "jp": "アリオスト",
-   "en": "",
-   "term": "null"
+   "en": "Ariost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0009",
    "jp": "司書",
-   "en": "",
-   "term": "null"
+   "en": "Librarian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0010",
    "jp": "学院長秘書",
-   "en": "",
-   "term": "null"
+   "en": "Headmaster's Secretary",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0011",
    "jp": "マクスウェル学院長",
-   "en": "",
-   "term": "null"
+   "en": "Headmaster Maxwell",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0012",
    "jp": "アイリーン",
-   "en": "",
-   "term": "null"
+   "en": "Irene",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0013",
    "jp": "副学院長秘書",
-   "en": "",
-   "term": "null"
+   "en": "Vice Headmaster Secretary",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0014",
    "jp": "ブラッドレー副学院長",
-   "en": "",
-   "term": "null"
+   "en": "Vice Headmaster Bradley",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen030.0015",
    "jp": "せっかく追試が終わったのに、{n}今度は戦争だなんて‥‥。{n}いったい、いつになったらラシェルへ帰れるんだ！",
-   "en": "",
-   "term": "end"
+   "en": "I finally got through my makeup exams, and now{n}there's a war... When am I ever going to get back{n}to Rachelle?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0016",
    "jp": "この学院に入って３年ちょっとになるけど、{n}学生って気楽よね。{n}卒業なんかしたくないな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I've been at this Academy for a little over three years{n}now. Being a student is so carefree, isn't it? I don't{n}ever want to graduate...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0017",
    "jp": "それに、いま学院を出ていったら{n}戦争に巻き込まれちゃうモンね。",
-   "en": "",
-   "term": "end"
+   "en": "Besides, if I left the Academy now, I'd get caught up in{n}the war.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0018",
    "jp": "魔法学院・学食",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy - Cafeteria",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0019",
    "jp": "どの階に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which floor would you like to visit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0020",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0021",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "",
+   "en": "・7F Headmaster's Office",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0022",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0023",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0024",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0025",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0026",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0027",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "",
+   "en": "・B1 Special Research Labs",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0028",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0029",
    "jp": "いらっしゃい！{n}栄養満点で頭もさえる『マホガク定食』はどうだい？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome! How about an 'Academy Special'? Packed with{n}nutrients to keep your mind sharp!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0030",
    "jp": "{FFEB}エルムだ。",
-   "en": "",
-   "term": "end"
+   "en": "{FFEB} Elm.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0031",
    "jp": "おう、どんどん食ってくれ！",
-   "en": "",
-   "term": "end"
+   "en": "Yeah, eat up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0032",
    "jp": "毎度あり！",
-   "en": "",
-   "term": "end"
+   "en": "Thanks for your business!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0033",
    "jp": "金が足りねぇよ‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "You ain't got enough money...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0034",
    "jp": "またな。",
-   "en": "",
-   "term": "end"
+   "en": "See ya.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0035",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0036",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0037",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0038",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0039",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0040",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0041",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0042",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0043",
    "jp": "最近の学生って魔力は強いんだけど、{n}向学心に欠けるのよね‥‥。{n}教えがいのある学生はいないのかしら？",
-   "en": "",
-   "term": "end"
+   "en": "Students these days have plenty of magical power,{n}but so little desire to learn... I wonder if there are any{n}students who would make teaching worthwhile.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0044",
    "jp": "エレベーターは便利だけど、{n}運動不足が気になるよ。{n}まあ、屋上まで階段で上るのはごめんだけどね。",
-   "en": "",
-   "term": "end"
+   "en": "The elevator's convenient, but I worry I'm not getting{n}enough exercise. Still, I wouldn't want to take the stairs{n}all the way to the roof.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0045",
    "jp": "やあ、君たち。{n}マホガク定食は食べたかい？{p}あの定食を食べ続けたおかげで魔力が上がって、{n}今や実技ナンバーワンだよ。",
-   "en": "",
-   "term": "end"
+   "en": "Hello, you lot. Have you tried the Academy Special?{p}Eating it regularly has increased my magical power. Now{n}I'm top of the class in practical magic!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0046",
    "jp": "ねえ、最近なにか悩んでない？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, has something been worrying you lately?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0047",
    "jp": "うーん、悩んでるって言えば悩んでるかな。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... I suppose you could say something's{n}bothering me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0048",
    "jp": "よかったら聞かせてよ。",
-   "en": "",
-   "term": "end"
+   "en": "You can tell me, if you like.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0049",
    "jp": "それを言おうかどうか悩んでるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm worried about whether I should tell you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0050",
    "jp": "あいかわらず優柔不断だよね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "You're as indecisive as ever...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0051",
    "jp": "うーん、この性格が悩みの種だな～。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... That's what worries me about myself...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0052",
    "jp": "魔法学院・講義室",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy - Lecture Rooms",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0053",
    "jp": "どの階に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which floor would you like to visit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0054",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0055",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "",
+   "en": "・7F Headmaster's Office",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0056",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0057",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0058",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0059",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0060",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0061",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "",
+   "en": "・B1 Special Research Labs",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0062",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0063",
    "jp": "ランザックからの学生ってあんまり{n}いないんだよね。{p}あそこは魔法文化があまり発達してないからさ。{n}みんな都会の出で、肩身が狭いよ[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "There aren't many students from Ranzak here.{p}Magic hasn't really taken root back home. Everyone{n}else is from a big city, so I feel out of place.[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0064",
    "jp": "そういえば、{n}ランザックはローランディアとバーンシュタイン、{n}どっち側に肩入れするつもりなんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "Come to think of it, whose side is Ranzak planning to{n}take? Rolandia's or Burnstein's?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0065",
    "jp": "え？バーンシュタインとの同盟は破棄して、{n}今度はローランディアと同盟を結んだ？{n}ふ～ん、そうなんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Huh? We broke off our alliance with Burnstein and allied{n}with Rolandia instead? Oh... I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0066",
    "jp": "どうりで‥‥。{p}今まで冷たかったローランディアの友達が{n}急に優しくなったり、バーンシュタインの友達が{n}逆に冷たくなったりするわけだ‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "That explains it...{p}My friends from Rolandia used to be so cold to me, but{n}suddenly they're all friendly. And my friends from{n}Burnstein have started giving me the cold shoulder...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0067",
    "jp": "どうりで、今まで冷たかったローランディアの友達が{n}急に優しくなったり、バーンシュタインの友達が{n}逆に冷たくなったりするわけだ‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "That explains why my friends from Rolandia, who used{n}to be so cold to me, are suddenly all friendly, while my{n}friends from Burnstein have started giving me the cold{p}shoulder...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0068",
    "jp": "しょっちゅうぶつかってくる女の子がいるんだけど、{n}僕に気があるのかな？{n}ちょっと可愛い子なんだよな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "There's this girl who keeps bumping into me. Do you{n}think she likes me? She's kind of cute...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0069",
    "jp": "ひょっとして、アタシのことですかぁ？{p}やだ、可愛いだなんてぇ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Could you be talking about meee?{p}Oh, stop! You think I'm cute?{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0070",
    "jp": "アンタ、しょっちゅうこの人にぶつかってるの？",
-   "en": "",
-   "term": "end"
+   "en": "You keep bumping into this guy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0071",
    "jp": "‥‥アンタ、眼鏡かけた方がいいわよ。{p}その子のことが可愛いだなんて見えるようじゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...You should get yourself some glasses.{p}If that girl looks cute to you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0072",
    "jp": "何で？",
-   "en": "",
-   "term": "end"
+   "en": "Why?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0073",
    "jp": "アンタのことが可愛いなんて言ってんのよ！？{n}そりゃどう考えても、目が悪いって事じゃない。",
-   "en": "",
-   "term": "end"
+   "en": "He's calling YOU cute, you know?! What else could it{n}mean? There's obviously something wrong with{n}his eyes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0074",
    "jp": "なるほど～。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I seeee.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0075",
    "jp": "って、どういう意味よティピちゃん！？{n}ひどすぎる～。",
-   "en": "",
-   "term": "end"
+   "en": "Wait, what's THAT supposed to mean, Tippi-chan?!{n}You're so meeean!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0076",
    "jp": "そう言えばさ、{n}よくこの学院で見かける格好いい人‥‥、{n}の横を飛んでる虫。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, speaking of which, you know that handsome guy we{n}keep seeing around the Academy...? That bug flying{n}beside him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0077",
    "jp": "ああ、あれ虫だったの！？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, that thing was a bug?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0078",
    "jp": "ん～、よくわからないけど、{n}当たらずとも遠からずってとこでしょ？{p}でね、その虫がね、{n}事もあろうか、その格好いい人を蹴ってたのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hmm, I'm not really sure, but it's close enough, right?{p}Anyway, that bug actually had the nerve to kick that{n}handsome guy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0079",
    "jp": "うそぉ！？{n}とんでもない虫がいたものね～。",
-   "en": "",
-   "term": "end"
+   "en": "No way! What an outrageous little bug!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0080",
    "jp": "ティ、ティピ‥‥、{n}押さえてね、お願いだから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "T-Tippi... Please, keep calm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0081",
    "jp": "わかってるわよ！",
-   "en": "",
-   "term": "end"
+   "en": "I know, I know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0082",
    "jp": "おかしな虫もいたものね～。",
-   "en": "",
-   "term": "end"
+   "en": "What a strange little bug...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0083",
    "jp": "ホントね～。",
-   "en": "",
-   "term": "end"
+   "en": "It really is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0084",
    "jp": "むきーーーっ！{n}むっかつくーーーっ！",
-   "en": "",
-   "term": "end"
+   "en": "Grrrr! They make me SO MAAAD!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0085",
    "jp": "どの階に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which floor would you like to visit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0086",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0087",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "",
+   "en": "・7F Headmaster's Office",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0088",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0089",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0090",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0091",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0092",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0093",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "",
+   "en": "・B1 Special Research Labs",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0094",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0095",
    "jp": "アリオストさん、{n}今度は戦争を止めさせるような機械を{n}作ってくれないかな～。",
-   "en": "",
-   "term": "end"
+   "en": "Ariost-san, couldn't you build a machine to stop the{n}war next?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0096",
    "jp": "そんなのが簡単に作れたら、{n}こんなに苦労しないって[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "If building one were that easy, we wouldn't be having{n}all this trouble.[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0097",
    "jp": "アリオストさん、飛行装置を{n}完成させたんだってね。{n}次は何をやってくれるのかな～？",
-   "en": "",
-   "term": "end"
+   "en": "I hear you finished your flying apparatus, Ariost-san.{n}What will you come up with next?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0098",
    "jp": "最近、ストレス発散の場が無くて{n}欲求不満‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I haven't had anywhere to let off steam lately. It's{n}so frustrating...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0099",
    "jp": "闘技場にでも行こうかな。",
-   "en": "",
-   "term": "end"
+   "en": "Maybe I'll go to the arena.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0100",
    "jp": "温泉にでも行こうかな。",
-   "en": "",
-   "term": "end"
+   "en": "Maybe I'll go to the hot springs.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0101",
    "jp": "この学院、乗っ取っちゃおうかな。",
-   "en": "",
-   "term": "end"
+   "en": "Maybe I'll take over this Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0102",
    "jp": "ちょっと、ちょっと！？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, wait a minute?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0103",
    "jp": "冗談よ。{n}そんなに真に受けないでよね。",
-   "en": "",
-   "term": "end"
+   "en": "I'm joking. Don't take me so seriously.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0104",
    "jp": "学院長も副学院長もすごい研究者だけど‥‥。{n}人間としてはどうかと思うな。{n}僕はあんなになりたくないよ。",
-   "en": "",
-   "term": "end"
+   "en": "The Headmaster and Vice Headmaster are both{n}amazing researchers... But as people? I'm not so sure. I{n}don't want to turn out like them.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0105",
    "jp": "授業がつまらないと学生は聞かなくなる。{n}聞かないとやる気がなくなって授業はより{n}つまらなくなる‥‥。{p}なんとかならないものか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "When lectures are dull, students stop listening. When{n}they stop listening, we lose the will to teach, and the{n}lectures grow even duller...{p}Surely there must be some way to break the cycle...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0106",
    "jp": "魔法学院・図書室",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy - Library",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0107",
    "jp": "どの階に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which floor would you like to visit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0108",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0109",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "",
+   "en": "・7F Headmaster's Office",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0110",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0111",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0112",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0113",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0114",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0115",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "",
+   "en": "・B1 Special Research Labs",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0116",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0117",
    "jp": "『{FFEF}グローシアンの発生{FFF1}』{n}読んでみますか？",
-   "en": "",
-   "term": "end"
+   "en": "'{FFEF}The Emergence of Growsians{FFF1}' Would you like to read it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0118",
    "jp": "グローシアンは元々特別な存在ではなかった。{n}言いかえれば、誰しもがグローシアンであった。{p}だが、我々がこの世界にやって来て以来、{n}強力な魔法は封じられ、ごく希に、{n}以前同様の魔力を使える存在が生まれる。{n}これがグローシアンである。{p}この世界は不安定な重なりの上になりたっており、{n}もとの世界の影響が強くなる時がある。{n}この時、決まって日食や月食と言った現象が{n}確認される。{p}この間に生まれた者は本能的に元の世界と波長が合い、{n}元の世界の魔素であるグローシュを持ち出す事が{n}出来る。{p}基本的に日食時に生まれたグローシアンの方が{n}月食時に生まれた者より、{n}強いグローシュを持つことが確認されている。{p}特に皆既日食時に生まれたグローシアンは{n}想像を絶する潜在能力を持ち、{n}通常の人間がどのような修練を積もうが{n}この能力に到達することは不可能である。{p}マクスウェル魔法学院長　著{n}『グローシアンの発生』",
-   "en": "",
-   "term": "end"
+   "en": "Growsians were not originally exceptional beings. In{n}other words, everyone was a Growsian.{p}However, since we came to this world, powerful magic{n}has been sealed away. Only very rarely is someone born{n}who can wield the same magic as before.{p}Such individuals are Growsians.{p}This world rests upon an unstable overlap, and there{n}are times when the influence of our original world{n}grows stronger.{p}These periods invariably coincide with phenomena such{n}as solar and lunar eclipses.{p}Those born during these periods are instinctively{n}attuned to the original world and can draw upon its{n}magical essence, Grosh.{p}It has been established that, in general, Growsians born{n}during solar eclipses possess stronger Grosh than{n}those born during lunar eclipses.{p}In particular, Growsians born during total solar eclipses{n}possess unimaginable potential. No amount of training{n}can enable an ordinary human to attain such power.{p}By Maxwell, Headmaster of the Magic Academy. 'The{n}Emergence of Growsians'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0119",
    "jp": "『{FFEF}グローシアンの特殊能力{FFF1}』{n}読んでみますか？",
-   "en": "",
-   "term": "end"
+   "en": "'{FFEF}The Special Abilities of Growsians{FFF1}' Would you like to{n}read it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0120",
    "jp": "元々は『偉大な力（グローシュ）を有する者』という{n}語意から発生した言葉であり、その名の通り、{n}グローシアンは人間の魔力を越えた{n}強大な魔力を有する。{p}その全ての能力はいまだ明かされてはいないが、{n}人間が持つ最高位呪文のテレポートを例に{n}その説明を行う。{p}人間の場合、術者のみが有視界内でのテレポートを{n}行うことが限界と言われており、{n}この距離を伸ばそうとした場合、{n}サポート用の魔水晶を大量に必要とする。{p}しかし皆既日食のグローシアンならば、{n}１０人程度の人員を、既知の場所へ任意に{n}転送することが、独力で可能である。{n}しかも、この魔法詠唱の時間はきわめて短い。{p}現在の研究では、グローシアンの魔力波長には、{n}人間にはない成分が含まれることが観測されている。{p}マクスウェル魔法学院長　著{n}『グローシアンの特殊能力』",
-   "en": "",
-   "term": "end"
+   "en": "The term originally meant 'one who possesses great{n}power (Grosh).'{p}As the name suggests, Growsians possess immense{n}magical power surpassing that of humans.{p}The full extent of their abilities remains unknown, but{n}the following explanation uses Teleport, the{n}highest-level spell available to humans, as an example.{p}Humans are said to be limited to teleporting only{n}themselves, and only within their field of vision.{p}Extending this range requires the support of a large{n}quantity of magic crystals.{p}A Growsian born during a total solar eclipse, however,{n}can single-handedly transport around ten people to any{n}known location at will.{p}Furthermore, the chanting time for this spell is{n}extremely short.{p}Current research has observed components in the{n}wavelengths of Growsian magic that are absent from{n}human magic.{p}By Maxwell, Headmaster of the Magic Academy. 'The{n}Special Abilities of Growsians'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0121",
    "jp": "『{FFEF}魔水晶鉱山～概略～{FFF1}』{n}読んでみますか？",
-   "en": "",
-   "term": "end"
+   "en": "'{FFEF}The Magic Crystal Mine: An Overview{FFF1}' Would you like to{n}read it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0122",
    "jp": "この学院より北東に位置する山の中、{n}巨大な水晶の鉱脈が見つかった。{n}しかし最初に見つかった横穴は、{n}とある事故のため現在は封じられている。{p}現在では露天掘りを用いた掘削法に{n}切り替えられているが、これは測定の結果、{n}水晶が巨大なピラミッド型であることが{n}分かったためである。{p}この鉱山で産出される魔水晶は、{n}他の地域で発見される魔水晶より、多くの魔力を{n}含有していることが特徴であり、現在は悪用を{n}避けるため、魔法学院が管理を行っている。",
-   "en": "",
-   "term": "end"
+   "en": "A vast crystal vein was discovered within a mountain{n}northeast of this Academy. However, the first tunnel{n}discovered is now sealed following a certain accident.{p}Mining has since shifted to open-pit excavation, as{n}measurements revealed that the crystal forms an{n}enormous pyramid.{p}The magic crystals produced by this mine are{n}distinguished by their greater magical energy compared{n}with those found elsewhere.{p}The Magic Academy currently oversees the mine to{n}prevent their misuse.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0123",
    "jp": "『{FFEF}大戦の謎{FFF1}』{n}読んでみますか？",
-   "en": "",
-   "term": "end"
+   "en": "'{FFEF}Mysteries of the Great War{FFF1}' Would you like to read it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0124",
    "jp": "１００年前、人間とグローシアンの間に{n}戦争が起こった。{n}だがどこからか現れた化け物のため、{n}人間の人口は激減、戦争は中断された。{p}その際、数人のグローシアンが人間のために{n}化け物と命をかけて戦い、互いに姿を消した。{p}だが時を同じくして、全てのグローシアンも姿を消し、{n}彼らの支配は消えてしまった。{p}なぜ支配を行っていたグローシアンがいなくなったか、{n}化け物の正体は何だったのか、{n}いまだ真実は解明されていない。",
-   "en": "",
-   "term": "end"
+   "en": "A hundred years ago, war broke out between humans{n}and Growsians.{p}However, a monster of unknown origin appeared,{n}drastically reducing the human population and bringing{n}the war to a halt.{p}Several Growsians risked their lives fighting the{n}monster for humanity's sake, and both they and the{n}monster vanished.{p}At the same time, however, all other Growsians also{n}disappeared, bringing their rule to an end.{p}Why did the ruling Growsians disappear? What was the{n}monster's true identity? The truth remains unknown.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0125",
    "jp": "『{FFEF}古代遺跡とその出土品{FFF1}』{n}読んでみますか？",
-   "en": "",
-   "term": "end"
+   "en": "'{FFEF}Ancient Ruins and Their Artifacts{FFF1}' Would you like to{n}read it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0126",
    "jp": "この大陸には大きく分けて２種類の遺跡がある。{n}１つは１００年ほど前にその姿を消した{n}グローシアン達が残した物。{p}もう１つは、それより以前に地上を去った{n}フェザリアンが残した物である。{p}グローシアンの残した遺跡には、{n}出土品と呼べる物は少ない。{n}これは彼らが我々人間と同じ種族であることが大きい。{p}彼らの遺跡のほとんどは、目的を持った施設であり、{n}その中には原理や目的の分からない機器が{n}置かれている。{p}対するフェザリアンの遺跡からは我々にない技術、{n}魔法などが多く発見された。{p}だが残されていた物の多くは書物であり、{n}長年に渡り解読作業を行ったのだが、{n}ほとんどが倫理、道徳を語った物であった。",
-   "en": "",
-   "term": "end"
+   "en": "The ruins on this continent fall into two broad{n}categories. The first are those left by the Growsians,{n}who disappeared about a hundred years ago.{p}The second are those left by the Featherians, who{n}departed the surface even earlier.{p}Few objects that could be called artifacts have been{n}unearthed from Growsian ruins. This is largely because{n}they belong to the same race as we humans.{p}Most of their ruins are facilities built for specific{n}purposes. Some contain devices whose workings or{n}purpose remain unknown.{p}Featherian ruins, by contrast, have yielded many{n}discoveries of technology and magic unknown to us.{p}However, most of what they left behind was books. We{n}spent many years deciphering them, only to find that{n}nearly all discussed ethics and morality.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0127",
    "jp": "『{FFEF}水晶鉱山調査隊派遣記録{FFF1}』{n}読んでみますか？",
-   "en": "",
-   "term": "end"
+   "en": "'{FFEF}Crystal Mine Expedition Dispatch Records{FFF1}' Would you like{n}to read it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0128",
    "jp": "水晶鉱山の横穴にて怪物が暴れるという事件が発生。{n}多数の死傷者がでた。{p}魔法学院はローランディア、バーンシュタイン両国の{n}要請を受け、調査隊を組織、調査を行った。{p}　　　　　　　　（中略）{p}しかし、調査隊が足を踏み込むと、{n}突如天井が崩落するという事故が発生。{n}これにより横穴は途中から完全に埋没、{n}調査は入り口周辺のみに限定された。{p}調査の結果、怪物についての情報は得られなかった。{p}調査隊メンバー　ニコラ・Ｃ{n}　　　　　　　　マクスウェル・Ｊ{n}　　　　　　　　プロキンス・Ａ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both Rolandia and Burnstein, the{n}Magic Academy assembled an expedition to investigate.{p}(Passage omitted) However, upon the expedition's{n}entry, the ceiling suddenly collapsed.{p}The collapse completely blocked the tunnel beyond that{n}point, restricting the investigation to the area around{n}the entrance.{p}The investigation yielded no information about{n}the monster.{p}Expedition members:{n}Nicola C.{n}Maxwell J.{p}Prokins A....",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0129",
    "jp": "本が抜き取られた跡がある。{n}貸し出し中のようだ。",
-   "en": "",
-   "term": "end"
+   "en": "There is a gap where a book has been removed. It{n}seems to be on loan.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0130",
    "jp": "『{FFEF}迷いの森遺跡調査報告{FFF1}』{n}読んでみますか？",
-   "en": "",
-   "term": "end"
+   "en": "'{FFEF}Lost Forest Ruins Survey Report{FFF1}' Would you like to{n}read it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0131",
    "jp": "ラージン砦の南東部に広がる、迷いの森。{n}我々は、その名の由来となった装置の調査、{n}‥‥グローシアンが造った遺跡にあるとされる、{n}森にいる者の方向感覚を狂わす装置の{n}捜索と調査を行った。{p}遺跡内部の防衛機能は働いていたが、{n}マスター・ガーディアンの自己再生能力を解除。{n}安全が確保された時点で、{n}遺跡最深部にある装置の調査を開始。{p}装置自体の動力は切れていたため、{n}魔水晶による起動を行う。{n}結果、実際に迷いの森を発生させる機能があると判明。{n}装置起動中、グローシアン以外の知的生物は{n}遺跡に近づくことができなかった。{p}学院教授会は、悪用の危険があると判断。{n}我々はガーディアンの防衛機能を修復し、{n}かつ遺跡の入り口を封印。{n}ラージン砦の管理者がその鍵を持つこととなった。",
-   "en": "",
-   "term": "end"
+   "en": "The Lost Forest stretches southeast of Fort Rajin. We{n}sought to locate and investigate the device from which{n}it takes its name...{p}a device said to lie within ruins built by the Growsians,{n}which disrupts the sense of direction of those in{n}the forest.{p}The ruins' defenses remained active, but we disabled{n}the Master Guardian's regenerative ability.{p}Once the site was secure, we began investigating the{n}device in the deepest part of the ruins.{p}The device's power supply was depleted, so we{n}activated it using a magic crystal.{p}We confirmed that it could indeed produce the Lost{n}Forest's disorienting effect.{p}While the device was active, no intelligent beings other{n}than Growsians could approach the ruins.{p}The Academy's faculty council deemed the risk of{n}misuse too great. We restored the Guardian's{n}defenses and sealed the entrance to the ruins.{p}The key was entrusted to the commander of{n}Fort Rajin.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0132",
    "jp": "解説書が欲しい‥‥。{n}学院長の本は難しくて何を言っているのか{n}わからないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I wish there were a guide... The Headmaster's books{n}are so difficult, I can't make sense of them...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0133",
    "jp": "なんかさ、整理整頓されている本を散らかす{n}女の子がいるんだよ。{n}許せないと思わない？",
-   "en": "",
-   "term": "end"
+   "en": "There's this girl who keeps messing up the books after{n}they've been neatly arranged. Isn't that unforgivable?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0134",
    "jp": "本を散らかすなんて迷惑な人ですね！{n}アタシが注意してあげます！",
-   "en": "",
-   "term": "end"
+   "en": "What a nuisance, leaving books all over the place! I'll give{n}her a talking-to!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0135",
    "jp": "‥‥じゃあ、ちゃんと注意してくれよ、君自身にさ。",
-   "en": "",
-   "term": "end"
+   "en": "...Then make sure you do. Give yourself a{n}good talking-to.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0136",
    "jp": "あ‥‥アタシだったんだ、それって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh... You meant me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0137",
    "jp": "これからは注意します～。",
-   "en": "",
-   "term": "end"
+   "en": "Okaaay, I'll be more careful from now on.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0138",
    "jp": "読んでも読んでも、読み切れないよ。{n}ここは知識の宝庫よ！",
-   "en": "",
-   "term": "end"
+   "en": "No matter how much I read, there's always more! This{n}place is a treasure trove of knowledge!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0139",
    "jp": "北にあるグローシアンの遺跡には{n}様々な仕掛けがあって、{n}それ自体にも計り知れない研究価値があるのです。",
-   "en": "",
-   "term": "end"
+   "en": "The Growsian ruins to the north contain all manner of{n}mechanisms. Those alone are of incalculable value to{n}our research.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0140",
    "jp": "ふう‥‥疲れたよ‥‥。{n}最近じゃ事件ばかりでさ‥‥。{p}いい加減に辞めようかな、この学院‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "Whew... I'm exhausted... It's been one incident after{n}another lately...{p}Maybe it's about time I left this academy...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0141",
@@ -901,987 +1041,1144 @@
   {
    "id": "scen030.0142",
    "jp": "魔法学院・重要図書閲覧室",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy - Restricted Reading Room",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0143",
    "jp": "どの階に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which floor would you like to visit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0144",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0145",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "",
+   "en": "・7F Headmaster's Office",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0146",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0147",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0148",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0149",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0150",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0151",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "",
+   "en": "・B1 Special Research Labs",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0152",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0153",
    "jp": "ここに納められている重要書類を閲覧するには、{n}学院長、または副学院長の許可が必要です。{p}許可証はお持ちですか？",
-   "en": "",
-   "term": "end"
+   "en": "To consult the important documents kept here, you{n}need permission from the Headmaster or{n}Vice Headmaster.{p}Do you have a permit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0154",
    "jp": "えっ、そんなのないよ。",
-   "en": "",
-   "term": "end"
+   "en": "Huh? We don't have anything like that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0155",
    "jp": "それでは閲覧出来ません。",
-   "en": "",
-   "term": "end"
+   "en": "Then you may not consult them.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0156",
    "jp": "面倒くさいなぁ。",
-   "en": "",
-   "term": "end"
+   "en": "What a pain.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0157",
    "jp": "仕方ないよ。{n}貴重な書物は、持ち出しできないように{n}なっているんだから。",
-   "en": "",
-   "term": "end"
+   "en": "It can't be helped. You aren't allowed to take valuable{n}books out, after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0158",
    "jp": "魔法学院・薬剤研究フロア",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy - Pharmaceutical Research",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0159",
    "jp": "どの階に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which floor would you like to visit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0160",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0161",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "",
+   "en": "・7F Headmaster's Office",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0162",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0163",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0164",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0165",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0166",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0167",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "",
+   "en": "・B1 Special Research Labs",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0168",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0169",
    "jp": "{v:0023}おお、君たちか。{n}何の用事かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Oh, it's you. What brings you here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0170",
    "jp": "{v:0024}また透明になる薬がほしいんですが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}We'd like some more of that potion that makes{n}you invisible...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0171",
    "jp": "{v:0025}ちょうどいいタイミングだね。{n}実はおとといクリアノ草が届いて、{n}さっき薬が完成したところなんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Your timing is perfect. The Kuriano Herb arrived the day{n}before yesterday, and I just finished making{n}the potion.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0172",
    "jp": "{v:0026}頼む、少し分けてくれないか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Please, could you spare us some?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0173",
    "jp": "{v:0027}ああ、君たちには世話になったからね。{n}少しだけなら分けてあげるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Of course. You've been a great help to me. I can spare{n}a little.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0174",
    "jp": "　{n}　　　　　『{FFEF}透明化薬{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Invisibility Potion{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0175",
    "jp": "{v:0028}だが、これっきりだぞ？{n}そうそう使えるほど残っていないんだからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}But this is the last time, understood? There isn't{n}enough left to keep using it freely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0176",
    "jp": "{v:0029}うん、ありがとう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Okay, thank you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0177",
    "jp": "え～とぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ummm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0178",
    "jp": "あの薬なら、もうやらんぞ。",
-   "en": "",
-   "term": "end"
+   "en": "If it's that potion you're after, you're not getting{n}any more.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0179",
    "jp": "‥‥ちぇっ！",
-   "en": "",
-   "term": "end"
+   "en": "...Aww, darn!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0180",
    "jp": "顔見せに寄っただけ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Just stopped by to say hello{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0181",
    "jp": "そうかい。{n}邪魔だけはしないでくれよ。",
-   "en": "",
-   "term": "end"
+   "en": "Is that so? Just stay out of my way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0182",
    "jp": "‥‥はぁ～い‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Okaaay...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0183",
    "jp": "おお、お前たちか。{n}まさかあの薬が欲しくて来たのか？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, it's you lot. Don't tell me you've come for{n}that potion?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0184",
    "jp": "えへへっ。",
-   "en": "",
-   "term": "end"
+   "en": "Ehehe!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0185",
    "jp": "残念だが、もう薬はなくなってしまった。{n}あのクリアノ草の量からでは、{n}あれが精一杯の量なんだ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm afraid the potion is all gone. That was all I could{n}make with the amount of Kuriano Herb we had.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0186",
    "jp": "そうなんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0187",
    "jp": "だが他の人にクリアノ草を頼んである。{n}届くまでにはまだ時間がかかるだろうね。",
-   "en": "",
-   "term": "end"
+   "en": "But I've asked someone else to bring me some Kuriano{n}Herb. It'll probably be a while before it arrives.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0188",
    "jp": "魔法学院・学院長室フロア",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy - Headmaster's Office",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0189",
    "jp": "どの階に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which floor would you like to visit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0190",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0191",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0192",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0193",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0194",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0195",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0196",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0197",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "",
+   "en": "・B1 Special Research Labs",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0198",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0199",
    "jp": "{v:000E}失礼します。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Excuse me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0200",
    "jp": "{v:000B}やぁ、みんな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Hello, everyone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0201",
    "jp": "{v:000C}あ、アリオストさん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Oh, Ariost-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0202",
    "jp": "{v:000D}どうしたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}What's the matter?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0203",
    "jp": "{v:000E}実は君たちに話があるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Actually, there's something I need to discuss with you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0204",
    "jp": "{v:000F}なんの話？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}What about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0205",
    "jp": "{v:0010}戦争についてなんだ。{p}{v:0011}フェザリアンらを説得しようにも、{n}戦争している今の状態でそれができるとは思えない。{p}{v:0012}だけど１人で戦争を止めるなんて事は{n}とてもじゃないができない。{p}{v:0013}でも、君たちとならやれそうな気がする。{n}だから僕も一緒に連れていって欲しいんだ。{n}君たちに協力して、この戦争を終わらせたい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}It's about the war.{p}{v:0011}I want to persuade the Featherians, but I can't see{n}how that's possible while this war is going on.{p}{v:0012}Still, stopping a war all by myself is far beyond me.{p}{v:0013}But with you, I feel we might manage it. That's why I{n}want you to take me along. I want to help you end{n}this war!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0206",
    "jp": "{v:0014}どうするの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}What'll you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0207",
    "jp": "・アリオストをメンバーに加える",
-   "en": "",
+   "en": "・Have Ariost join the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0208",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add anyone for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0209",
    "jp": "{v:0015}でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}But that would be too many people. Someone will have{n}to leave the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0210",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will leave the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0211",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0212",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0213",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve {s:FFED}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0214",
    "jp": "{s:FFEE}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve {s:FFEE}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0215",
    "jp": "　{n}　　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Ariost joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0216",
    "jp": "{v:0016}ありがとう、がんばるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Thank you. I'll do my best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0217",
    "jp": "{v:0017}そうか、無理を言ってすまなかったね。{n}僕に出来ることがあったらいつでも声をかけてくれ。{p}{v:0018}たいがいは研究室か実家にいるから。{n}それじゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}I see. Sorry to ask so much of you. If there's anything{n}I can do, just let me know.{p}{v:0018}I'm usually in my laboratory or at my family home. See{n}you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0218",
    "jp": "２人とも、いないみたいだね。{n}どうしよう、ルイセちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "Looks like neither of them is here. What should we{n}do, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0219",
    "jp": "‥‥うん。{n}困ったね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Yes. What do we do now...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0220",
    "jp": "それでしたら、私がお預かりしましょう。",
-   "en": "",
-   "term": "end"
+   "en": "In that case, I can take it for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0221",
    "jp": "あ、はい。{n}ありがとうございます。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, yes. Thank you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0222",
    "jp": "　{n}　　　　　『{FFEF}実習終了の証明書{FFF1}』を渡した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Handed over the '{FFEF}Magic Practicum{n}Certificate{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0223",
    "jp": "それじゃ、お願いします。",
-   "en": "",
-   "term": "end"
+   "en": "Then I'll leave it with you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0224",
    "jp": "{v:0013}あの人、赤いピアスについて何か隠してる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}That person is hiding something about the red earring.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0225",
    "jp": "{v:0014}だが、動揺した気配は感じられなかったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Didn't seem rattled, though.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0226",
    "jp": "{v:0015}いずれにせよ、もう少し調べてみる必要が{n}ありそうだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Either way, it looks as though we need to investigate{n}a little further.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0227",
    "jp": "{v:0016}誰が怪しいにしても、もうちょっとよく調べないと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Whoever we suspect, we need to look into this a{n}little more.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0228",
    "jp": "{v:0017}そうだな。{n}たまたま同じピアスをしていたという事も{n}考えられるしな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Right. Could just happen to wear the same earring.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0229",
    "jp": "ご用件は済みましたか？",
-   "en": "",
-   "term": "end"
+   "en": "Have you finished your business?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0230",
    "jp": "どうぞお入りください。",
-   "en": "",
-   "term": "end"
+   "en": "Please come in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0231",
    "jp": "{v:0000}ローランディアからの使いで、{n}グローシアンのアイリーンさんをお連れしました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}We're here on behalf of Rolandia. We've brought{n}Irene-san, a Growsian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0232",
    "jp": "{v:0001}話はうかがっております。{n}どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}I have been informed. Please go through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0233",
    "jp": "どのようなご用でしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "What can I do for you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0234",
    "jp": "魔法実習の終了証明書を{n}持ってきたんですけれど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I've brought my Magic Practicum Certificate...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0235",
    "jp": "では私がお預かりします。",
-   "en": "",
-   "term": "end"
+   "en": "Then I will take it for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0236",
    "jp": "はぁ‥‥。{n}それじゃ、お願いします。",
-   "en": "",
-   "term": "end"
+   "en": "Oh... All right. I'll leave it with you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0237",
    "jp": "あの‥‥学院長先生は‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "Um... Is the Headmaster...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0238",
    "jp": "ただいま席を外しております。{n}間もなく戻られると思うのですが。",
-   "en": "",
-   "term": "end"
+   "en": "He has stepped out. I expect he will return shortly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0239",
    "jp": "学院長は席を外しております。{n}間もなく戻られると思うのですが‥‥。{p}お急ぎでしたら、ブラッドレー副学院長に{n}渡されると良いでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "The Headmaster has stepped out. I expect he will{n}return shortly...{p}If you are in a hurry, you could give it to Vice{n}Headmaster Bradley.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0240",
    "jp": "{v:0016}どのようなご用でしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}What brings you here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0241",
    "jp": "{v:0007}学院長は戻ってる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Is the Headmaster back?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0242",
    "jp": "{v:0002}いいえ。{n}ただいま席を外しておりますが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}No. He is away from his office at the moment...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0243",
    "jp": "{v:000A}ええと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Um...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0244",
    "jp": "{v:000B}あれ？{n}あの人、前とピアスが違うよ。{n}確か前は赤いピアスをしてたはず‥‥。{p}{v:000C}たしか拾ったのは赤いピアスだったよね‥‥？{n}どうする？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Huh? That earring's different from last time. I'm sure{n}it was a red earring before...{p}{v:000C}The one we picked up was red too, wasn't it...? What{n}should we do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0245",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0246",
    "jp": "・ピアスが違うことを指摘する",
-   "en": "",
+   "en": "・Point out the different earring",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0247",
    "jp": "・赤いピアスはどうしたのかたずねる",
-   "en": "",
+   "en": "・Ask what happened to the red earring",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0248",
    "jp": "・ピアスを集めるのが趣味なのかたずねる",
-   "en": "",
+   "en": "・Ask if collecting earrings is a hobby",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0249",
    "jp": "{v:000D}それがどうかなさいましたか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}And what of it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0250",
    "jp": "{v:000E}この前は赤いピアスをしてたから、{n}今日はどうしたのかなって思って。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}You were wearing a red earring last time, so I{n}wondered what happened to it today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0251",
    "jp": "{v:000F}個人的な質問に答える義務はありません。{p}{v:0010}ご用が無いのであれば、お引き取り願います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}I am under no obligation to answer personal questions.{p}{v:0010}If you have no business here, I must ask you to leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0252",
    "jp": "{v:0011}いくつか持っていますが、{n}それがどうかなさいましたか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}I own several. Why do you ask?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0253",
    "jp": "{v:0012}この前の赤いピアスも趣味が良かったけど、{n}今日のピアスも趣味がいいからきっと集めるのが{n}趣味なんだろうなって思って。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}That red earring you wore last time was lovely, and so{n}is today's. I thought collecting them must be a hobby{n}of yours.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0254",
    "jp": "何かご用でしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Can I help you with something?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0255",
    "jp": "{v:0003}おお、これで全員そろったようだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Ah, it seems everyone is here now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0256",
    "jp": "{v:0004}どうも、遅くなりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Sorry to have kept you waiting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0257",
    "jp": "{v:0005}いやいや、気にするな。{p}{v:0006}しかし、いったい誰がグローシアン狩りなんかを{n}始めたのやら。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}No, no, think nothing of it.{p}{v:0006}Still, who could have started this Growsian{n}hunting business?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0258",
    "jp": "{v:0007}グローシアン狩り？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Growsian hunting?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0259",
    "jp": "{v:0008}次々と襲われているからな、いつの間にか{n}そう呼ばれているんじゃよ。{p}{v:0009}だがこの学院にいれば安心だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}They keep getting attacked one after another, you{n}see. Before long, folks took to calling it that.{p}{v:0009}But you'll be safe here at the Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0260",
    "jp": "{v:000A}それではアイリーンさんをお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Then please take good care of Irene-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0261",
    "jp": "彼女のことは任せてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "You can leave her in my care.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0262",
    "jp": "いろいろ、ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you for everything.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0263",
    "jp": "{v:0018}いらっしゃいませ。{n}副学院長は、本日、お休みでして‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Welcome. The Vice Headmaster is taking the day off...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0264",
    "jp": "{v:0019}いらっしゃらないんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}He isn't here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0265",
    "jp": "{v:001A}ええ。実はこのところ、{n}研究に没頭しているようで‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}No. In fact, he seems to have been absorbed in his{n}research lately...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0266",
    "jp": "{v:001B}それじゃ、研究室とかに行けば会えるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Then we can find him in his laboratory or{n}somewhere, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0267",
    "jp": "{v:001C}少なくともこの学院にはいないみたいです。{n}私もいろいろと探しましたので。{p}{v:001D}あとは、いるとすれば、自宅の方ではないかと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}At any rate, he does not seem to be anywhere in the{n}Academy. I have looked all over for him myself.{p}{v:001D}The only other place I can think of is his home...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0268",
    "jp": "{v:001E}自宅？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}His home?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0269",
    "jp": "{v:001F}ええ。北の方にあるメディス村です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Yes. In Medis Village, to the north.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0270",
    "jp": "{v:0020}ありゃ、アタシの生まれ故郷だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Oh, hey! That's where I was born!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0271",
    "jp": "{v:0021}メディス村か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Medis Village...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0272",
    "jp": "副学院長は、メディス村にある自宅の方かと。",
-   "en": "",
-   "term": "end"
+   "en": "I believe the Vice Headmaster is at his home in{n}Medis Village.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0273",
    "jp": "副学院長にお話ですか？",
-   "en": "",
-   "term": "end"
+   "en": "Do you wish to speak to the Vice Headmaster?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0274",
    "jp": "どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please, go right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0275",
    "jp": "ん？{n}何か私に用かい？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Did you need something from me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0276",
    "jp": "あの‥‥、コムスプリングスへ行ってきたので、{n}許可証をお返しにきました。{p}お返しするのが遅れてゴメンなさい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Um... We've been to Comsprings, so I've come to return{n}the pass.{p}I'm sorry it took me so long to bring it back...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0277",
    "jp": "　{n}　　　ルイセが『{FFEF}[0298]温泉通行許可証{FFF1}』を手渡した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Luise handed over the '{FFEF}[0298]Spa Pass{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0278",
    "jp": "確かにお預かりしました。{n}学院長へは、後で私から渡しておきます。",
-   "en": "",
-   "term": "end"
+   "en": "I have it. I will give it to the Headmaster later.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0279",
    "jp": "そういえば、コムスプリングスへの通行証を{n}まだ返却していただいていないのですが？",
-   "en": "",
-   "term": "end"
+   "en": "By the way, you have yet to return the pass for{n}Comsprings, have you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0280",
    "jp": "あ！{n}ごめんなさい、すぐに返します！",
-   "en": "",
-   "term": "end"
+   "en": "Oh! I'm sorry! I'll give it back right away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0281",
    "jp": "魔法学院・屋上",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy - Rooftop",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0282",
    "jp": "どの階に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which floor would you like to visit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0283",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "",
+   "en": "・7F Headmaster's Office",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0284",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0285",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0286",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0287",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0288",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0289",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0290",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "",
+   "en": "・B1 Special Research Labs",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0291",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0292",
    "jp": "僕は地震予知の研究をしているんだ。{n}どうも地震の前には、特殊な雲が発生するようでね。{n}こうやって雲を観察しているのさ。{p}僕はその雲を『地震雲』って呼んでいるんだけど、{n}震源地を中心に、巨大な輪を描く{n}細い帯状の雲がその地震雲だよ。{p}その雲だけは風に流されないから、{n}見分けることは簡単だよ。{n}でも誰も信じてくれないんだよなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm researching earthquake prediction. It seems that{n}unusual clouds appear before an earthquake. That's why{n}I'm watching the clouds like this.{p}I call a cloud like that an 'earthquake cloud'. It's a thin{n}band of cloud that forms an enormous ring around{n}the epicenter.{p}Unlike other clouds, it doesn't drift with the wind, so{n}it's easy to identify. But no one believes me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0293",
    "jp": "どうやら地震雲は出てないようだな。",
-   "en": "",
-   "term": "end"
+   "en": "There don't seem to be any earthquake clouds.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0294",
    "jp": "怖いよ～、時空が歪んで２つの世界が離れたら{n}世界の破滅だよ～！{p}観測しなければ気づかないから{n}怖がる必要もないのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm scaaared! If space-time distorts and the two{n}worlds separate, it'll be the end of the world!{p}If I weren't watching, I wouldn't notice, so I wouldn't{n}have to be scared...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0295",
    "jp": "ここからのながめ、大好きなの。{n}人間がこんなに高い建物を造れるなんて。",
-   "en": "",
-   "term": "end"
+   "en": "I love the view from here. To think humans can build{n}something so tall.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0296",
    "jp": "でも、その人間同士が戦ってるのよね‥‥。{p}何が原因かは知らないけど、ホント迷惑な話よ。{n}この景色が見られなくなるかも知れないんだから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "But those same humans are fighting each other...{p}I don't know what started it, but it's such a nuisance.{n}I might never get to see this view again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0297",
    "jp": "何とか戦争を止める方法はないかしら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I wonder if there's some way to stop the war...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0298",
    "jp": "ほかに何か？",
-   "en": "",
-   "term": "end"
+   "en": "Anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0299",
@@ -1916,113 +2213,130 @@
   {
    "id": "scen030.0304",
    "jp": "魔法学院・特別研究室フロア",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy - Special Research Labs",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0305",
    "jp": "どの階に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which floor would you like to visit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0306",
    "jp": "・屋上",
-   "en": "",
+   "en": "・Rooftop",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0307",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "",
+   "en": "・7F Headmaster's Office",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0308",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0309",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0310",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0311",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0312",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0313",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0314",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen030.0315",
    "jp": "ここはおじさまの研究室だよ。",
-   "en": "",
-   "term": "end"
+   "en": "This is Uncle's laboratory.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0316",
    "jp": "ここはマクスウェル学院長の研究室だ。",
-   "en": "",
-   "term": "end"
+   "en": "This is Headmaster Maxwell's laboratory.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0317",
    "jp": "ここはマクスウェル学院長の研究室だよ。",
-   "en": "",
-   "term": "end"
+   "en": "This is Headmaster Maxwell's laboratory, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0318",
    "jp": "ここはブラッドレー副学院長の研究室だよ。",
-   "en": "",
-   "term": "end"
+   "en": "This is Vice Headmaster Bradley's laboratory,{n}you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0319",
    "jp": "ここはブラッドレー副学院長の研究室だ。",
-   "en": "",
-   "term": "end"
+   "en": "This is Vice Headmaster Bradley's laboratory.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen030.0320",
    "jp": "あのね、お兄ちゃん。{n}学院の施設内で大きな魔法を使うと、{n}怒られちゃうんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Um, Big Brother... We'll get in trouble if we use powerful{n}magic inside the Academy...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -9,56 +9,65 @@
   {
    "id": "boot.help.0000",
    "jp": "戦闘時での自動思考命令、{F413}の思考設定を行う{F416}{F4BA}{F4AD}主人公には{F413}思考はありません。",
-   "en": "",
-   "term": "null"
+   "en": "Sets behavior for the 'AUTO' command in battle. The{n}hero cannot use 'AUTO'.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0001",
    "jp": "移動{F4D3}{F415}隊列を並び替える{F416}{F4BA}{F410}並び替え{F40D}",
-   "en": "",
-   "term": "null"
+   "en": "Reorders the party's formation while traveling. Select{n}this command to open the formation menu.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0002",
    "jp": "{F413}{F4D3}、通常{F4C3}{F4F3}の設定{F416}{F4BA}{F410}設定{F40D}{n}{F40B}",
-   "en": "",
-   "term": "null"
+   "en": "Sets normal attacks in 'AUTO'. Select to open the{n}settings menu. Press left or right on the directional{n}buttons to switch characters.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0003",
    "jp": "{F413}{F4D3}、{F4D1}{F4D2}頻度の設定{F416}{F4BA}{F410}設定{F40D}{n}{F40B}",
-   "en": "",
-   "term": "null"
+   "en": "Sets spell frequency in 'AUTO'. Select to open the{n}settings menu. Press left or right on the directional{n}buttons to switch characters.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0004",
    "jp": "{F413}{F4D3}、{F4D2}{F4D1}内容の設定{F416}{F4BA}{F410}設定{F40D}{n}{F40B}",
-   "en": "",
-   "term": "null"
+   "en": "Sets which spells to use in 'AUTO'. Select to open the{n}settings menu. Press left or right on the directional{n}buttons to switch characters.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0005",
    "jp": "{F413}{F4D3}、{F417}{F4D2}頻度の設定{F416}{F4BA}{F410}設定{F40D}{n}{F40B}",
-   "en": "",
-   "term": "null"
+   "en": "Sets item frequency in 'AUTO'. Select to open the{n}settings menu. Press left or right on the directional{n}buttons to switch characters.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0006",
    "jp": "近くにいる弱い敵{F4C7}{F4C3}{F4BD}{F4C8}になり{F41B}",
-   "en": "",
-   "term": "null"
+   "en": "Attacks weaker nearby enemies first.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0007",
    "jp": "近くにいる{F4E7}敵{F4C7}{F4C3}{F4BD}{F4C8}になり{F41B}",
-   "en": "",
-   "term": "null"
+   "en": "Attacks stronger nearby enemies first.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0008",
    "jp": "敵{F4C7}一定の距離を保つ{F4C8}に移動し{F4C0}直接{F4C3}を極力、行わ{F4D8}{F4C8}に{F418}",
-   "en": "",
-   "term": "null"
+   "en": "Moves to keep a set distance from enemies, avoiding{n}direct attacks whenever possible.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0009",
@@ -69,152 +78,177 @@
   {
    "id": "boot.help.0010",
    "jp": "{F4D1}主体で戦闘行動を行わせ{F41B}{n}{F4D2}{F4BD}{F4D1}{F4C6}ＭＰ消費の多い強力な{F4E4}{F4FB}中心です。",
-   "en": "",
-   "term": "null"
+   "en": "Fights mainly with magic, favoring powerful spells with{n}high MP costs.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0011",
    "jp": "{F489}適度に{F4D2}させ{F41B}{n}ＭＰ消費の多い{F4D1}{F4C6}あまり使わなくなり{F41B}",
-   "en": "",
-   "term": "null"
+   "en": "Uses magic in moderation. Rarely uses spells with high{n}MP costs.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0012",
    "jp": "あまり{F489}使わせ{F4D8}{F4C8}に{F418}{n}{F4D2}{F4BD}{F4D1}も、ＭＰ消費の少{F4D8}{F4D1}が中心です。",
-   "en": "",
-   "term": "null"
+   "en": "Uses magic sparingly, favoring spells with low MP costs.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0013",
    "jp": "{F47D}{F4D2}を禁止{F418}",
-   "en": "",
-   "term": "null"
+   "en": "Prohibits the use of magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0014",
    "jp": "{F4C3}{F489}最優先し、次いで不利なステイタス{F4CA}{F496}{F489}{F412}",
-   "en": "",
-   "term": "null"
+   "en": "Prioritizes attack spells, followed by spells that inflict{n}harmful status effects.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0015",
    "jp": "{F415}の強化を最優先し、次いで{F4F4}{F4D1}{F4C0}敵に不利なステイタスを{F496}{F489}{F412}",
-   "en": "",
-   "term": "null"
+   "en": "Prioritizes strengthening the party, then healing{n}spells, then spells that inflict harmful status effects{n}on enemies.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0016",
    "jp": "{F4F4}{F489}最優先{F418}{n}{F4F4}が不要だ{F4EE}{F415}を強化{F4BD}{F489}{n}{F412}",
-   "en": "",
-   "term": "null"
+   "en": "Prioritizes healing spells. When healing is not needed,{n}prioritizes spells that strengthen the party.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0017",
    "jp": "{F417}を積極的に{F4D2}{F418}{n}{F40C}",
-   "en": "",
-   "term": "null"
+   "en": "Uses items freely. Prefers spells when one with the{n}same effect is available.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0018",
    "jp": "{F4F4}{F417}のみ、{F4D2}を許可{F418}{n}{F40C}",
-   "en": "",
-   "term": "null"
+   "en": "Allows only healing items. Prefers spells when one with{n}the same effect is available.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0019",
    "jp": "{F417}の{F4D2}を禁止{F418}",
-   "en": "",
-   "term": "null"
+   "en": "Prohibits the use of items.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0020",
    "jp": "{F415}隊列の並び替えメニュー{F4BA}移動元を選択後、移動先を選んで下さい{F4BA}左下が先頭になり{F41B}",
-   "en": "",
-   "term": "null"
+   "en": "Reorders the party formation. Select a member to{n}move, then the destination. The bottom-left position is{n}the front.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0021",
    "jp": "ＢＧＭをステレオに{F4BD}かモノラルに{F4BD}か{F4CA}{F40F}",
-   "en": "",
-   "term": "null"
+   "en": "Sets background music to stereo or mono.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0022",
    "jp": "ＢＧＭの{F414}を{F40F}{n}{F411}ＢＧＭ{F40E}",
-   "en": "",
-   "term": "null"
+   "en": "Sets the background music volume. Select OFF to{n}disable background music.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0023",
    "jp": "{F4E2}音の{F414}を{F40F}",
-   "en": "",
-   "term": "null"
+   "en": "Sets the sound effect volume.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0024",
    "jp": "メニュー操作{F4D3}、ティピの音声{F414}{F4CA}{F40F}{n}{F411}音声{F40E}",
-   "en": "",
-   "term": "null"
+   "en": "Sets Tippi's voice volume during menu navigation. Select{n}OFF to disable her menu voice.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0025",
    "jp": "メッセージ音声の{F414}を{F40F}{n}{F411}音声{F40E}",
-   "en": "",
-   "term": "null"
+   "en": "Sets dialogue voice volume. Select OFF to disable{n}dialogue voices.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0026",
    "jp": "ゲーム中メッセージの表示速度を{F40F}",
-   "en": "",
-   "term": "null"
+   "en": "Sets how quickly in-game messages appear.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0027",
    "jp": "{F416}の横に表示{F486}、ポップアップヘルプ{F4CB}ＯＮ／ＯＦＦを{F40F}",
-   "en": "",
-   "term": "null"
+   "en": "Turns the pop-up help displayed beside commands ON{n}or OFF.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0028",
    "jp": "戦闘中、{F4F6}{F4D1}選択時に{F4D1}範囲の確認を行うか{n}どうかを{F40F}",
-   "en": "",
-   "term": "null"
+   "en": "Sets whether to check spell range when selecting a{n}spell to cast in battle.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0029",
    "jp": "メニュー{F4D3}カーソル形状を選択{F4BD}{F416}{F4BA}変更{F4BD}{F4C5}には『ティピの可能性』を入手{F4BD}{n}必要があり{F41B}",
-   "en": "",
-   "term": "null"
+   "en": "Selects the menu cursor's shape. You must obtain{n}'Tippi's Potential' to change it.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0030",
    "jp": "修得{F419}を{F4D1}や{F41C}に{F41A}{F41B}{n}名前横の{F41A}部分が{F419}で一杯{F4AE}{F4EE}{n}それを『ＭＡＳＴＥＲ』し、{F4D2}{F4BD}事ができ{F41B}",
-   "en": "",
-   "term": "null"
+   "en": "Assigns learning points to spells and skills. Fill the gauge{n}beside a name to 'MASTER' that ability and make{n}it usable.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0031",
    "jp": "ＬＶアップ{F4BD}{F4EE}{FFEE}修得{F419}{FFF1}が得{F4EC}{F41B}{n}{F4D1}や{F41C}の修得{F483}{F4D0}{F419}{F4CA}{F41A}る必要があり{F41B}",
-   "en": "",
-   "term": "null"
+   "en": "Leveling up earns {FFEE}learning points{FFF1}. You must assign{n}these points to learn spells and skills.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0032",
    "jp": "{F4D1}や{F41C}の名称の横に{F4C4}ランプに{F419}{F4CA}{F41A}、全てのランプを満たせば{F4C0}{F4BF}{F4D1}や{F41C}が使える{F4C8}になり{F41B}",
-   "en": "",
-   "term": "null"
+   "en": "Assign points to the lamps beside a spell or skill's name.{n}Fill every lamp to make that spell or skill usable.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0033",
    "jp": "例えば『{FFEF}キュア{FFF1}』を修得{F4BD}{F483}{FFEE}修得{F419}{FFF1}{F4FB}{FFF0}３{F419}{FFF1}必要になり{F41B}",
-   "en": "",
-   "term": "null"
+   "en": "For example, learning '{FFEF}Cure{FFF1}' requires {FFF0}3{FFF1} {FFEE}learning points{FFF1}.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.help.0034",
    "jp": "{F419}の{F41A}{F4F3}{F4C6}修得{F4BC}い{F4D1}や{n}{F41C}にカーソルを合わせ、○ボタンを押{F4CE}下さい。",
-   "en": "",
-   "term": "null"
+   "en": "To assign points, move the cursor to the spell or skill{n}you want to learn and press the Circle button.",
+   "term": "null",
+   "src": "ps1"
   }
  ]
 }

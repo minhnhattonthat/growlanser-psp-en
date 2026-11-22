@@ -15,68 +15,79 @@
   {
    "id": "scen165.0001",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen165.0002",
    "jp": "看護婦",
-   "en": "",
-   "term": "null"
+   "en": "Nurse",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen165.0003",
    "jp": "行商人",
-   "en": "",
-   "term": "null"
+   "en": "Peddler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen165.0004",
    "jp": "医者",
-   "en": "",
-   "term": "null"
+   "en": "Doctor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen165.0005",
    "jp": "女の子",
-   "en": "",
-   "term": "null"
+   "en": "Girl",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen165.0006",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen165.0007",
    "jp": "忠犬ペチ",
-   "en": "",
-   "term": "null"
+   "en": "Loyal Dog Pechi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen165.0008",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen165.0009",
    "jp": "イズー",
-   "en": "",
-   "term": "null"
+   "en": "Izu",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen165.0010",
    "jp": "宿泊客",
-   "en": "",
-   "term": "null"
+   "en": "Guest",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen165.0011",
    "jp": "ラシェル",
-   "en": "",
-   "term": "end"
+   "en": "Rachelle",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0012",
@@ -195,8 +206,9 @@
   {
    "id": "scen165.0031",
    "jp": "俺は客でも患者でも、医者でもない。{n}それじゃ何だって？{p}ここがこれだけ整備されているのは、{n}俺たちが影ながら働いているからだ！",
-   "en": "",
-   "term": "end"
+   "en": "I'm not a guest, a patient, or a doctor. What am{n}I, then?{p}We're the ones working behind the scenes to keep this{n}place in such good shape!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0032",
@@ -225,8 +237,9 @@
   {
    "id": "scen165.0036",
    "jp": "ここはいいところですなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Such a lovely place this is, eh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0037",
@@ -261,8 +274,9 @@
   {
    "id": "scen165.0042",
    "jp": "最近の子供は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Children these days...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0043",
@@ -273,50 +287,58 @@
   {
    "id": "scen165.0044",
    "jp": "お兄ちゃんたち、{n}ボクのプロポーズをジャマしないでよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you guys! Don't interrupt my proposal!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0045",
    "jp": "ねぇ、いいだろ？{n}ぜったい、しあわせにするからさ。",
-   "en": "",
-   "term": "end"
+   "en": "Come on, say yes! I promise I'll make you happy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0046",
    "jp": "ボクたちのであいは、ぐうぜんじゃないとおもうんだ。",
-   "en": "",
-   "term": "end"
+   "en": "I don't think we met by chance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0047",
    "jp": "おお、マイ・エンジェル！{n}キミはカミがボクのためにつかわしたテンシだ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, my angel! You're an angel God sent just for me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0048",
    "jp": "‥‥月並みなセリフね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...What a tired old line...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0049",
    "jp": "‥‥ちょっとは考えちゃうかも{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "...I might give it a little thought{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0050",
    "jp": "‥‥でも、結婚するなら、お金持ちじゃないとね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...But if I'm going to marry someone, he'll have to{n}be rich...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0051",
    "jp": "保養所にご用ですか？{p}東にある宿屋の前を通って、北に行けばすぐですよ。{n}一本道ですから。",
-   "en": "",
-   "term": "end"
+   "en": "Do you need to visit the sanatorium?{p}Go past the inn to the east, then head north. It's just{n}along that road. There are no turnoffs.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0052",
@@ -339,8 +361,9 @@
   {
    "id": "scen165.0055",
    "jp": "ここラシェルは、大陸でも有名な保養地なんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Rachelle is a health resort famous throughout{n}the continent.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0056",
@@ -369,54 +392,62 @@
   {
    "id": "scen165.0060",
    "jp": "{v:0000}やぁ、いらっしゃい。{n}ここには、いろんな装備があるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hello, welcome! We've got all sorts of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0061",
    "jp": "{v:0002}さて、何の用かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Now, what can I do for you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0062",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen165.0063",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen165.0064",
    "jp": "まだ用事はあるかい？",
-   "en": "",
-   "term": "end"
+   "en": "Anything else you need?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0065",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen165.0066",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen165.0067",
    "jp": "{v:000B}またおいで～。待ってるよ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Come back soon! I'll be waiting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0068",
@@ -427,8 +458,9 @@
   {
    "id": "scen165.0069",
    "jp": "なんだね？{n}非番の日くらいゆっくりさせてくれ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What is it? At least let me relax on my day off...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0070",
@@ -457,8 +489,9 @@
   {
    "id": "scen165.0074",
    "jp": "　{n}　　　　　鍵がかかっていて開かない。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　It's locked and won't open.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0075",
@@ -469,26 +502,30 @@
   {
    "id": "scen165.0076",
    "jp": "うわ～、この妖精さんちっちゃいね～★",
-   "en": "",
-   "term": "end"
+   "en": "Wooow, this fairy's so tiny!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0077",
    "jp": "アンタもちっちゃいじゃない？",
-   "en": "",
-   "term": "end"
+   "en": "You're pretty tiny yourself, aren't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0078",
    "jp": "ちょっと！{n}れでぃーに失礼じゃない！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! That's no way to talk to a lady!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0079",
    "jp": "はいはい‥‥ゴメンなさいね‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Yes, yes... So sorry...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0080",
@@ -505,32 +542,37 @@
   {
    "id": "scen165.0082",
    "jp": "あの患者が、元気になれるとは‥‥。{n}奇跡が起こったとしか言いようがない。{n}これで無事にヴァルミエへ帰れただろう。",
-   "en": "",
-   "term": "end"
+   "en": "To think that patient recovered... I can only call it a{n}miracle. They should have made it safely back to Valmier{n}by now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0083",
    "jp": "保養所の前に犬がじっと待っているのを{n}知っているかね？",
-   "en": "",
-   "term": "end"
+   "en": "Have you noticed the dog waiting patiently outside{n}the sanatorium?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0084",
    "jp": "治療中の女の子が飼っている犬でね、{n}飼い主の帰りをずっと待っているようだ。{p}その子の容態は決して良くはないが‥‥。{n}ひょっとすると、また元のように{n}元気に戻れるかもしれん。",
-   "en": "",
-   "term": "end"
+   "en": "It belongs to a girl receiving treatment here. It seems{n}to be waiting for its owner to return.{p}The girl's condition is far from good... But perhaps she{n}might regain her health and be her old self again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0085",
    "jp": "治療中の女の子が飼っている犬でね、{n}飼い主の帰りをずっと待っているようだ。{n}だが、その子はもう‥‥。{p}もっと生きようとする強い意志があれば、{n}何とかなるかもしれないが‥‥。{n}きっと今まで辛いことが多かったのだろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "That dog belongs to a girl we're treating. He seems to{n}be waiting patiently for his owner to return. But the{n}girl is already...{p}If she had a stronger will to live, we might still be able{n}to help her... I imagine she has suffered a great deal...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0086",
    "jp": "保養所で亡くなった女の子が飼っていた犬でね、{n}もう会うこともできない飼い主の帰りを{n}ずっと待っているようだ。{p}あの犬の背中を見ていると、{n}もっと患者にしてやれる事があったのではないか？{n}という思いが、胸をしめつけるのだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "That dog belonged to a girl who died at the{n}sanatorium. He keeps waiting for his owner to return,{n}though he'll never see her again.{p}Watching him sit there, I cannot help wondering{n}whether there was more I could have done for my{n}patient. The thought tears at my heart...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0087",
@@ -547,8 +589,9 @@
   {
    "id": "scen165.0089",
    "jp": "メディスから来たそこのご夫婦、{n}とっても仲がいいのよね。{n}あてられちゃうわ[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "That couple over there came from Medis. They're so{n}close, you know. All that lovey-dovey talk is getting{n}to me[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0090",
@@ -571,20 +614,23 @@
   {
    "id": "scen165.0093",
    "jp": "くぅ～ん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "*whine*...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0094",
    "jp": "お互い、この歳まで生きられるとは{n}思わなかったのう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Neither of us thought we'd live to this ripe old{n}age, eh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0095",
    "jp": "そうですねぇ。{n}でも、あなたと一緒ならいつまでも{n}生きられそうな気がするわ。",
-   "en": "",
-   "term": "end"
+   "en": "No, we didn't, dear. But with you beside me, I feel as{n}though I could live forever.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0096",
@@ -601,112 +647,130 @@
   {
    "id": "scen165.0098",
    "jp": "当店をご利用でしたら、{n}こちらで記帳なさって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "If you would like to stay with us, please sign the{n}register here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0099",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0100",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0101",
    "jp": "お客さん‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Sir...[01BE] I'm afraid you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0102",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0103",
    "jp": "‥‥ふぅっ。{n}ボクは劇団『三国大陸』の団長をやっているんだ。{p}ここラシェルなら仕事があるだろうと思って、{n}探しに来たんだけど‥‥。{n}『うるさい芝居はダメだ』って、怒られちゃってさ。{p}仕事を取ってくるって大見得切っちゃった手前、{n}団員に何て言ったらいいのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...*sigh* I'm the director of the 'Three Kingdoms{n}Continent' theater troupe.{p}I came to Rachelle looking for work, thinking there must{n}be something here... But they scolded me, saying, 'No{n}noisy plays!'{p}After all my boasting about finding us work, what am I{n}supposed to tell the troupe...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0104",
    "jp": "ん？　僕たち劇団『三国大陸』に出演の依頼かい？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? You'd like to book a performance by our 'Three{n}Kingdoms Continent' theater troupe?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0105",
    "jp": "よし！　公演料は激安の８００エルムでいいぞ！",
-   "en": "",
-   "term": "end"
+   "en": "All right! Our fee is a mere 800 Elm! A bargain!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0106",
    "jp": "・やっぱりやめる",
-   "en": "",
+   "en": "・Change your mind",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen165.0107",
    "jp": "・公演を依頼する",
-   "en": "",
+   "en": "・Book a performance",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen165.0108",
    "jp": "やった！{n}よし！{n}他の団員に連絡だ！{p}場所は？{FFFB}{n}{s:0010}だね？",
-   "en": "",
-   "term": "end"
+   "en": "Wonderful! Right! I'd better tell the rest of the troupe!{p}Where will we perform?{FFFB} At {s:0010}, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0109",
    "jp": "なんだ、払う気がないのに、{n}ぬか喜びさせないでくれよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, come on. Don't get my hopes up if you aren't going{n}to pay...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0110",
    "jp": "ふぅっ‥‥。{n}他の団員に何て言おうか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "*sigh*... What am I going to tell the rest of{n}the troupe...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0111",
    "jp": "あの絵の前にいる人、すごく面白いのよ！{n}いっぱい笑っちゃった！",
-   "en": "",
-   "term": "end"
+   "en": "The person in front of that painting is so funny! I{n}laughed and laughed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0112",
    "jp": "ここはのんびりしていていいわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It's so peaceful here. How lovely...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0113",
    "jp": "ここも安全ではなくなったわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Even this place isn't safe anymore...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0114",
    "jp": "{v:0008}お父さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Father!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0115",
    "jp": "‥‥{v:006B}親父ぃ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:006B}Daaad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0116",
@@ -723,44 +787,51 @@
   {
    "id": "scen165.0118",
    "jp": "{v:004F}しっかりして、お父さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Hang on, Father!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0119",
    "jp": "{v:0050}親父、しっかりしろよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Dad, hang in there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0120",
    "jp": "‥‥{v:0052}ちょっと無理をしすぎたようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0052}It seems I pushed myself a little too far...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0121",
    "jp": "{v:0053}ベルガーさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Berger-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0122",
    "jp": "‥‥{v:0069}シエラ‥‥来てくれたのか‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0069}Sierra... You've come for me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0123",
    "jp": "{v:006A}隊長‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}Captain...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0124",
    "jp": "‥‥{v:006C}お父さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:006C}Father...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0125",
@@ -846,8 +917,9 @@
   {
    "id": "scen165.0138",
    "jp": "{v:0002}弱った‥波動‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}A weakened... aura...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0139",
@@ -858,14 +930,16 @@
   {
    "id": "scen165.0140",
    "jp": "‥‥{v:0007}くっ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0007}Ghh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0141",
    "jp": "{v:000A}ベルガー隊長！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Captain Berger?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0142",
@@ -906,8 +980,9 @@
   {
    "id": "scen165.0148",
    "jp": "そこの花畑は私が手入れしてるんですよ。{n}喜んでくれる人も多いし、{n}とってもやりがいがあります。",
-   "en": "",
-   "term": "end"
+   "en": "I tend the flower field over there. So many people enjoy{n}it. It's very rewarding.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0149",
@@ -918,8 +993,9 @@
   {
    "id": "scen165.0150",
    "jp": "さて、そろそろ花も育った頃だし、{n}保養所の方に持って行ってあげようかしらね。",
-   "en": "",
-   "term": "end"
+   "en": "Well, the flowers should be ready by now. Perhaps I'll{n}take some over to the sanatorium.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen165.0151",

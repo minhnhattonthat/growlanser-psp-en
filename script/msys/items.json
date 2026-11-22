@@ -8,602 +8,702 @@
   {
    "id": "msys.items.0000",
    "jp": "今{F4F7}時代遅れと{F4A1}青銅{F4DB}剣{F4BA}強度が低い{F4E1}なの{F4C1}剣術の練習用{F47B}{n}{F4F1}{F47F}場合が多い。",
-   "en": "",
-   "term": "null"
+   "en": "An outdated bronze sword. The metal's low strength{n}means it is often used for sword practice.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0001",
    "jp": "片手用のショートソード。扱い{F4AF}安価{F4C1}{n}それな{F4F0}{F4C3}力も備え{F498}{F4BB}{F4C7}{F4C0}下級兵士の基本装備{F47B}採用{F4D6}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "An inexpensive, easy-to-use, one-handed shortsword{n}with decent attack power. Standard equipment for{n}low-ranking soldiers.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0002",
    "jp": "最もポピュラーな片手用長剣{F4C1}鋭い切っ先は{n}突く{F4BB}{F4D7}両刃の{F4E0}は斬る{F4BB}に適{F4CE}い{F4CC}{n}{F474}大陸で広く普及{F4CE}い{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "The most common one-handed longsword. A sharp tip{n}for thrusts and two edges for slashes have made it{n}widespread across the continent.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0003",
    "jp": "一見、片刃の剣の{F4C8}だ{F4BE}切っ先部分が両刃{F4C9}な{F4D4}お{F4DC}突きによる{F4C3}も{F4B2}{F4BA}{F4A4}も鋭{F4EF}万能な剣{F487}。",
-   "en": "",
-   "term": "null"
+   "en": "Though seemingly single-edged, its tip has two edges{n}for thrusting attacks. A sharp, versatile sword.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0004",
    "jp": "{F4E0}に『弱体化』の{F465}がな{F4D6}{F480}{F4C0}{F4D5}の{F4A2}を下げる{F4BB}が{F4C4}{F4BA}{F4C3}後、まれにウィークネス発動",
-   "en": "",
-   "term": "null"
+   "en": "Its blade is enchanted with 'weakening' magic and may{n}lower an enemy's defense. Rarely activates Weakness{n}after attacking.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0005",
    "jp": "永久凍土に覆{F4F8}たゲンドゥール島に{F4C4}{F4C0}溶{F4DE}{F4BB}の{F4D8}氷を{F4E0}に使{F4CF}片刃剣{F4BA}冷{F4DA}・ブリザード{F4F6}可・{F481}５％",
-   "en": "",
-   "term": "null"
+   "en": "A single-edged sword with a blade of unmeltable ice from{n}permafrost-covered Gendul Island. Cold; grants{n}Blizzard; magic power 5%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0006",
    "jp": "雷神が封印{F4D6}{F480}、{F43C}とる{F4EE}{n}柄{F4C7}稲妻を発{F4BD}{F4BA}雷{F4DA}・サンダー{F4F6}可・{F481}５{F460}Ｅ",
-   "en": "",
-   "term": "null"
+   "en": "A sealed thunder god sends lightning from the hilt{n}when it senses battle. Lightning; grants Thunder;{n}magic power 5%; range E.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0007",
    "jp": "{F48D}に恨み{F482}刀鍛冶が{F4A0}{F4BC}片刃剣{F4BA}{F4D5}の知{F4E8}{F4D9}{F4DD}、{F4F5}が上がる{F451}{F4BE}{n}{F449}、{F4B4}のＭＰを大幅に下げ{F454}",
-   "en": "",
-   "term": "null"
+   "en": "A mage-hating smith forged this single-edged sword,{n}said to grow stronger with a foe's intellect but greatly{n}reduce its owner's MP.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0008",
    "jp": "人の血を{F4F1}て鍛え{F484}{F479}、呪{F4F8}た魔剣{F4BA}常に{F4E0}{F4C7}猛毒を滴らせ{F480}{F4C0}{F4C3}{F4BC}{F4D5}を毒で犯す{F4BB}が{F4C4}。",
-   "en": "",
-   "term": "null"
+   "en": "A cursed magic sword said to be forged with human{n}blood. Deadly venom constantly drips from its blade{n}and may poison those it strikes.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0009",
    "jp": "洞窟の奥に差し込む{F4A5}光{F4E3}５００年{F4E4}間{n}浴びせ続けて{F45F}剣。{F4E0}自体が淡い光{F49A}{F4BA}聖{F4DA}・ホーリーライト{F4F6}可・{F481}８{F460}Ｅ",
-   "en": "",
-   "term": "null"
+   "en": "A sword made by bathing it for 500 years in sacred{n}light reaching deep into a cave. Its blade glows faintly.{n}Holy; grants Holy Light; magic power 8%; range E.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0010",
    "jp": "東の果てに{F4C4}国の名匠{F4BE}秘伝の技で鍛えた業物{F4BA}{F4E0}に波打つ{F4C8}な{F488}模様{F48F}湾刀{F4C1}{n}{F4BF}{F4A4}{F4C6}{F4E1}鎧すら断ち斬{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A masterpiece forged with secret techniques by a{n}master smith in a far eastern land.{p}Its curved blade bears beautiful rippling patterns and{n}cuts even metal armor.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0011",
    "jp": "鋼{F4DF}堅い鱗に覆{F4F8}た邪竜でさえ、一刀両断に{F4BC}{n}{F492}名剣。{F4BF}真の力{F4C6}モンスターに{F49D}{n}振る{F4F8}たときに発揮{F486}{F4EE}い{F4F8}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A legendary sword that cleaved in two even an evil{n}dragon whose scales were harder than steel. Its true{n}power is said to emerge against monsters.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0012",
    "jp": "世界を破滅に導く{F4B8}{F47F}魔剣{F4C1}永遠{F4C9}燃え続{F4DE}灼熱の炎{F4E3}{F4BF}{F4E0}に{F49E}{F45E}{n}炎{F4DA}・{F481}５{F460}Ｅ{F469}",
-   "en": "",
-   "term": "null"
+   "en": "A magic sword said to doom the world, its blade clad in{n}searing flames that burn forever. Fire; magic power{n}5%; range E; area B.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0013",
    "jp": "盾を壊す{F4E4}{F479}名の由来{F48F}、{F476}剣{F4BA}{F4D5}の{F4A2}が{F4D9}{F4DD}、{F4BF}{F4A4}を増{F4CE}いく{F4BE}{n}{F4A2}が低い{F4D5}{F483}逆に{F4A4}が鈍く{F4EB}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "A mystical sword named 'shield breaker'. Its edge is{n}said to grow keener the higher a foe's defense, but{n}duller the lower it is.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0014",
    "jp": "戦う{F4D5}の弱点を見切{F4DC}{F4BF}{F4C2}自在に変化{F48B}{n}究極の魔剣。『偉大{F4EB}{F4EA}遺産』{F479}別名{F48F}{F4BA}全{F4DA}（{F4D5}の最も苦手と{F4BD}{F4DA}で{F4C3}）",
-   "en": "",
-   "term": "null"
+   "en": "The ultimate magic sword senses foes' weaknesses and{n}freely changes its power. Also called 'Legacy of the{n}Great One'.{p}All elements; attacks with the element each foe is{n}weakest against.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0015",
    "jp": "台座に弓が{F46C}{F47C}物{F4C1}引き金を引くだけ{F4C1}{n}矢が発射{F47A}{F4C8}にな{F4D4}い{F4CC}{n}{F4AD}矢をつがえる{F4C5}{F4D7}少し時間がかか{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A bow mounted on a stock, allowing arrows to be fired{n}with a simple pull of the trigger. Loading an arrow{n}takes a little time, however.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0016",
    "jp": "構造はボウガンに近い{F4BE}台座の先端に足をか{F4DE}{n}あぶみが{F4C4}。これで足の{F4C2}利用{F47A}{F4C5}{F4C0}手{F4F7}引け{F4D8}{F4DD}堅く{F4E7}弓を扱え{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "Like a bowgun, but a stirrup at the stock's tip uses leg{n}strength to draw a bow too stiff and powerful to{n}draw by hand.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0017",
    "jp": "機械式の巻き取り{F4FE}を{F466}{F4E5}大型クロスボウ{F4BA}{F4FE}の{F4C2}使う{F4C5}、ずば抜けた{F49B}{F482}弓{F4FB}扱える{F4BE}反面、矢をつがえるのに長い時間がかか{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A large crossbow with a mechanical winding device. It{n}allows an exceptionally powerful bow to be used, but{n}takes a long time to load.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0018",
    "jp": "{F4FD}{F475}闇を物質化させ、矢{F47B}放つ{n}クロスボウ。{F4BF}矢{F483}死{F47E}が宿る{F479}{F4BA}闇{F4DA}・{F4C3}{F4D5}に硬直＋１０ＣＴ・まれに即死{F4C3}",
-   "en": "",
-   "term": "null"
+   "en": "A crossbow that magically shapes darkness into{n}arrows said to harbor death spirits. Dark; target{n}recovery +10 CT; rare instant death.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0019",
    "jp": "護身用{F47B}{F4F1}{F4EC}{F498}、中空の{F4E1}杖{F4BA}殴る{F4BB}を目的{F47B}{F4B3}{F456}{F4C0}{F489}強化{F4BD}力{F4C6}持{F4D4}い{F4D8}。",
-   "en": "",
-   "term": "null"
+   "en": "A hollow metal staff used for self-defense. Made for{n}striking, it has no power to enhance magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0020",
    "jp": "初級術者{F497}、{F489}強化{F4BD}{F4C5}に{F4FA}{F4BD}{n}短い木{F4B7}{F474}、殴るには不向き{F487}{F4BA}{F481}５{F460}Ｄ",
-   "en": "",
-   "term": "null"
+   "en": "A short wooden staff novice casters use to enhance{n}magic. Unsuitable for striking. Magic power 5%; range D.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0021",
    "jp": "一人前と認め{F484}{F4D1}使いのみが所有を許{F486}{F4C0}身の丈{F4DD}も{F4C4}木{F4DB}杖{F4BA}{F481}５{F460}Ｄ{F469}",
-   "en": "",
-   "term": "null"
+   "en": "A wooden staff as tall as its wielder, reserved for{n}those recognized as fully fledged mages. Magic power{n}5%; range D; area B.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0022",
    "jp": "{F4B6}{F48D}の{F4C5}に{F45F}杖{F4C1}術{F4EA}{F4C2}{n}最大限に{F477}工夫がな{F4D6}{F45E}{n}{F455}{F460}Ｃ{F469}",
-   "en": "",
-   "term": "null"
+   "en": "A staff made for high-ranking mages, designed to draw{n}out a caster's full power. Magic power 10%; range C;{n}area B.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0023",
    "jp": "非力な{F48D}が戦士のごとく戦える{F4C8}{F4D7}{n}腕力{F4F7}な{F4EF}知恵の{F4C2}{F4BF}{F4F5}に転じ{F48B}杖{F4BA}{F481}５{F460}Ｄ",
-   "en": "",
-   "term": "null"
+   "en": "A staff that draws power from wisdom rather than{n}muscle, letting frail mages fight like warriors. Magic{n}power 5%; range D.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0024",
    "jp": "{F42B}家に代々伝わる{n}銀{F4DB}ワンド。表面に{F488}装飾がな{F4D6}{F45E}{n}{F455}{F460}Ｃ{F46E}",
-   "en": "",
-   "term": "null"
+   "en": "An exquisitely decorated silver wand passed down{n}through the family of Zemekis, chief of Crane Village.{n}Magic power 10%; range C; area A.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0025",
    "jp": "慈悲深い聖女が{F4A0}{F4BC}{F463}、癒し{F4B7}{n}戦闘{F4D3}{F4F4}{F4D1}{F4E2}が上昇{F4BD}{F48A}秘め{F45E}{n}{F455}{F460}Ｂ{F469}",
-   "en": "",
-   "term": "null"
+   "en": "A healing staff said to be made by a merciful holy{n}woman. Its magic boosts healing spells in battle. Magic{n}power 10%; range B; area B.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0026",
    "jp": "風を操る{F4E8}増す{F479}、{F476}杖{F4BA}風{F47E}王{F4BE}人間に与えた{F461}{F45E}{n}{F455}{F460}Ｂ{F46E}",
-   "en": "",
-   "term": "null"
+   "en": "A mystical staff said to enhance control over wind,{n}given to humans by the king of wind spirits. Magic{n}power 10%; range B; area A.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0027",
    "jp": "飾りにあしらう水晶球に{F46F}を記憶させ、様々な{n}{F489}操る{F4BB}を可能と{F4BC}、大{F48D}ヴィトの遺品{F4BA}{F453}{F460}Ａ{F46E}・{F4D2}{F4D1}増加",
-   "en": "",
-   "term": "null"
+   "en": "A relic of the great mage Vito. Its ornamental crystal{n}orb stores incantations, allowing use of various spells.{n}Magic power 15%; range A; area A; grants more spells.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0028",
    "jp": "眠りへ誘う{F48A}秘めた漆黒{F4B7}一部の{F4C3}{F4A3}{n}反応し、{F4BF}際、眠{F4F0}{F4C2}放つ{F461}{F45E}{n}{F453}{F460}Ｂ{F46E}",
-   "en": "",
-   "term": "null"
+   "en": "A jet-black staff with sleep magic, said to release it in{n}response to certain attack spells. Magic power 15%;{n}range B; area A.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0029",
    "jp": "{F46F}能{F4C2}{F491}秘文字を彫り込{F4ED}古代{F4B7}{n}今だに{F4BF}製造{F4F3}は謎のまま{F487}{F4BA}{F453}{F460}Ｓ{F46E}",
-   "en": "",
-   "term": "null"
+   "en": "An ancient staff carved with secret runes that enhance{n}spellcasting. How it was made remains a mystery. Magic{n}power 15%; range S; area A.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0030",
    "jp": "{F492}大賢者アルヴィースの魂が宿る{F461}、{F4D1}{n}に精通{F47A}{F452}、{F4F6}能力も{F491}{F4C2}もつ{F4BA}{F481}２０{F460}Ｓ・範囲Ｓ・{F4D2}{F4D1}増加",
-   "en": "",
-   "term": "null"
+   "en": "Said to house the soul of the legendary great sage{n}Alviss, it grants mastery of magic and{n}enhances spellcasting.{p}Magic power 20%; range S; area S; grants more spells.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0031",
    "jp": "身の丈{F4DD}の大きさが{F4C4}、両手用長剣。肉厚で{n}重量の{F4C4}{F4E0}{F482}{F4C5}、鎧ごと粉砕{F4BD}とい{F4CF}{n}使い方に向い{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A two-handed longsword as tall as its wielder. Its{n}thick, heavy blade is suited to crushing foes along with{n}their armor.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0032",
    "jp": "グレートソードをさらに大型化{F4BC}{F4C8}な剣{F4C1}{n}扱う{F483}{F4DF}腕{F4E8}必要{F463}{F4BA}{F4AD}{F4A4}が鋭{F4CD}め、殺傷能{F4E8}{F4D9}。",
-   "en": "",
-   "term": "null"
+   "en": "An even larger version of a greatsword, requiring{n}greater strength to wield. Its keen edge makes it{n}highly lethal.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0033",
    "jp": "北方の巨漢戦士{F4BE}好んで{F4D2}{F4CE}いる巨大な剣{F4BA}{F4A4}、耐久度ともに{F48E}{F495}業物だ{F4BE}{n}並みの戦士{F4B0}{F4BF}重量に振り回{F4D6}{F454}",
-   "en": "",
-   "term": "null"
+   "en": "A huge sword favored by towering northern warriors.{n}Very sharp and durable, but its weight throws ordinary{n}warriors off balance.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0034",
    "jp": "名の由来{F4C6}{F4E0}に使{F4F8}{F498}、{F48E}軽い{n}未知の黒色{F4E1}{F4C7}き{F45E}殺傷能力こそ低い{F4BE}{n}{F4AC}{F4C3}{F4C1}{F4DF}{F4A6}手数を出す{F4BB}が{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "Named for its blade's unknown, extremely light black{n}metal. Less lethal, but its swift attacks let the wielder{n}strike more often.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0035",
    "jp": "対{F48D}戦用{F4D7}{F4E0}に{F4FD}{F4F2}の儀式を施{F4BC}剣{F4BA}{F46F}中の術{F4EA}{F4F9}集中を妨げる{F4BB}に{F4DF}{F4C0}{F4F6}を中断{F47A}",
-   "en": "",
-   "term": "null"
+   "en": "A sword ritually imbued with magic-neutralizing power to{n}fight mages. It can interrupt spells by breaking the{n}caster's concentration.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0036",
    "jp": "狂戦士リーヴェイグが愛用{F4BC}、持ち主の活力{F4C9}反応{F4BD}魔剣。{F4D9}生命{F4C2}{F4B4}{F4DD}{F4C0}{F4DF}{F4E7}{F4C2}{F477}{F4BB}が{F47A}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "The berserker Liveig's favored magic sword responds{n}to its owner's vitality. Greater life force is said to draw{n}out more power.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0037",
    "jp": "{F4B4}に癒しの{F4C2}{F496}、{F492}聖剣{F4BA}邪悪を滅ぼす聖{F4EB}{F4C2}得{F47F}{F4BA}聖{F4DA}・{F481}５{F460}Ｄ{F469}",
-   "en": "",
-   "term": "null"
+   "en": "A legendary holy sword that grants its wielder healing{n}powers and sacred power to destroy evil. Holy; magic{n}power 5%; range D; area B.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0038",
    "jp": "丈夫な樫の木{F4D7}鋭利に加工{F4BC}黒曜石{F4CA}{F466}ただけの原始的な槍。軽くて使い{F4AF}安価{F4BA}{F43E}５％",
-   "en": "",
-   "term": "null"
+   "en": "A primitive spear of sharp obsidian fixed to sturdy oak.{n}Light, easy to use and inexpensive. Critical +5%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0039",
    "jp": "農業用に使{F4F8}るクマ手を大型化{F4BC}{F4E9}{F4C1}扱い{F4FB}簡単なわり{F4D7}{F4D9}殺傷能{F4C2}{F4FF}。リーチ{F4CA}活か{F4BC}戦いが向い{F45E}　　{F43E}５％",
-   "en": "",
-   "term": "null"
+   "en": "An enlarged farming fork, easy to wield yet highly{n}lethal. Best used by taking advantage of its reach.{n}Critical +5%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0040",
    "jp": "フォーク{F4C7}発達{F4BC}、切り裂く{F4BB}も可能な{n}幅広の穂先を{F466}た長槍。穂先{F483}{n}{F488}装飾が施{F4D6}{F45E}　　{F43E}５％",
-   "en": "",
-   "term": "null"
+   "en": "A long spear developed from a fork, with a broad head{n}that can also slash. Its head is beautifully decorated.{n}Critical +5%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0041",
    "jp": "{F4CD}ずら好きな妖精王{F4BE}面白半分に{F48C}槍{F4BA}戦闘開始時、装備{F4EA}能{F4C2}{F491}{F4BB}が{F4C4}{F4BA}{F43E}５％",
-   "en": "",
-   "term": "null"
+   "en": "A spear made for fun by a mischievous fairy king. May{n}boost its wielder's abilities at the start of battle.{n}Critical +5%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0042",
    "jp": "穂先に炎を{F49E}た魔槍。戦いを求めてさま{F4C8}とも{F4C0}戦いを引き寄せるとも伝え{F4EC}{F45E}{n}炎{F4DA}・{F43E}５％",
-   "en": "",
-   "term": "null"
+   "en": "A magic spear with a flaming tip, said to wander in{n}search of battle or draw battle to itself.{n}Fire; critical +5%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0043",
    "jp": "持ち主の{F48A}消費{F4B1}{F4F5}を発揮{F4BD}魔槍{F4BA}また槍自身に意志が{F4C4}{F4C5}、{F4C3}が外れ{F4D8}{F479}{F4BA}命中率＋２５{F4E6}{F4C3}時ＭＰ－３・{F43E}５％",
-   "en": "",
-   "term": "null"
+   "en": "A magic spear fueled by its owner's magic. With its own{n}will, it is said never to miss. Accuracy +25%; MP -3 per{n}attack; critical +5%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0044",
    "jp": "{F488}精霊が描{F49F}、{F450}{F4DB}カード{F4BA}触媒{F47B}使う{F4BB}{F4C1}{F4BF}{F439}{F4BA}{F43E}６％",
-   "en": "",
-   "term": "null"
+   "en": "A mithril silver card depicting a beautiful spirit. Used as{n}a catalyst, it can manifest that spirit's power.{n}Critical +6%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0045",
    "jp": "泥の巨兵{F424}う{F4BB}{F4C1}{F4BF}{F439}{F4BA}{F481}５{F4E6}{F43E}６％",
-   "en": "",
-   "term": "null"
+   "en": "A mithril silver card of a giant mud soldier. As a{n}catalyst, it can manifest the soldier's power. Magic{n}power 5%; critical +6%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0046",
    "jp": "死神が描{F49F}{F450}{F4DB}カード。秘め{F484}{n}負の力{F483}{F4D5}を即死{F48B}{F4E2}が{F4C4}{F479}{F4BA}闇{F4DA}・{F455}{F460}Ｄ・{F43E}６％",
-   "en": "",
-   "term": "null"
+   "en": "A mithril silver card of a reaper. Its hidden negative{n}power is said to kill instantly. Dark; magic power 10%;{n}range D; critical +6%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0047",
    "jp": "可愛らしい妖精が描{F49F}{F450}{F4DB}カード{F4BA}一説{F483}何か隠{F47C}{F4E8}{F4C4}{F461}{F45E}{n}{F43E}６％",
-   "en": "",
-   "term": "null"
+   "en": "A mithril silver card depicting a cute fairy. Some say it{n}has a hidden power. Critical +6%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0048",
    "jp": "{F488}大天使{F424}う{F4BB}{F4C1}{F4BF}{F439}{F4BA}{F481}５{F460}Ｅ・{F43E}２％",
-   "en": "",
-   "term": "null"
+   "en": "A mithril silver card of a beautiful archangel. As a{n}catalyst, it manifests the archangel's power. Magic{n}power 5%; range E; critical +2%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0049",
    "jp": "神々しい女性が描{F49F}、幻のカード。{F45C}{n}力{F452}、生命の奇跡を起こす{F4BB}も{F4C4}{F479}{F4BA}{F455}{F460}Ｄ{F469}・全ての毒を{F4A7}",
-   "en": "",
-   "term": "null"
+   "en": "A fabled card depicting a divine woman. Said to possess{n}extraordinary power and sometimes work miracles{n}of life.{p}Magic power 10%; range D; area B; nullifies all poison.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0050",
    "jp": "二振{F4F0}短剣をつなぎ合わせた{F4C8}な形状を{F4BC}{F4C0}ブーメランの{F4C8}に投げて使う{F4E9}。刃の部分{F4FB}高速回転しながら飛んでいく{F4C5}、{F4D9}殺傷{F4C2}もつ。",
-   "en": "",
-   "term": "null"
+   "en": "Shaped like two joined daggers, this weapon is thrown{n}like a boomerang. Its blades spin rapidly as it flies,{n}making it highly lethal.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0051",
    "jp": "二振{F4F0}ブロードソードをつなぎ合わせた大型{F4E9}{F4BA}高速回転させながら投げつ{F4DE}事{F4C1}重量{F452}{n}遠心力のスピードを活か{F4BC}{F4C3}が{F4B2}。",
-   "en": "",
-   "term": "null"
+   "en": "A large weapon of two joined broadswords. Thrown in{n}a fast spin, it strikes with both its weight and{n}centrifugal force.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0052",
    "jp": "{F4A6}血を吸{F4D4}きた魔性の剣{F4E3}変形十字型{F4C9}{F46C}{F441}切り裂{F4CD}{F4D5}の生気を吸い{F4C0}持ち主に{F496}{F4E8}{F4C4}{F479}。{F462}　　闇{F4DA}",
-   "en": "",
-   "term": "null"
+   "en": "Blood-drinking demon swords joined in an odd throwing{n}cross. Said to give their wielder life drained from foes{n}they cut. Dark element.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0053",
    "jp": "{F492}英雄、ロヴァルが使{F4D4}{F4CD}投擲{F4E9}{F4CB}レプリカ。両手剣を{F46C}せ{F4E5}巨大で重量{F4C4}{n}{F4D0}{F4E9}{F4C6}目標を板金鎧ごと一刀両断{F4BD}。",
-   "en": "",
-   "term": "null"
+   "en": "Replica of legendary hero Roval's throwing weapon:{n}joined two-handed swords, huge and heavy, cleaving{n}foes in two, plate armor and all.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0054",
    "jp": "光の{F4E0}を{F4B5}す{F4D1}剣を{F46C}{F441}{n}{F4BF}光の刃{F4C6}鋼すらやすやすと断ち切る{F452}{F4C0}大幅な軽量化につなが{F4DC}扱いやすさも向上{F4CE}い{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A throwing weapon of joined magic swords that form{n}blades of light. These cut steel with ease and weigh far{n}less, making it easier to wield.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0055",
    "jp": "『粉砕{F4BD}{F4E4}』と呼ばれた二振{F4F0}魔剣{F4E3}{n}{F46C}せて{F45F}投擲{F4E9}{F4BA}元と{F4A1}剣の名に恥じぬ、絶大な{F49B}を誇{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A throwing weapon made by joining two magic swords{n}called 'The Crusher.' Its immense destructive power{n}lives up to the swords' name.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0056",
    "jp": "拳闘士{F497}、拳を守る{F4C5}に付{F4DE}革{F4DB}グ{F46B}{n}わずか{F4F7}{F4C4}{F4BE}殴{F4CF}{F4D3}{F4F5}を上げる{F4BB}{F4FB}{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "Leather gloves boxers wear to protect their fists.{n}They also give punches a slight increase in power.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0057",
    "jp": "４つ{F4C4}穴に指を通{F4CE}握る、鉄{F4DB}拳{F4BA}{F4BF}重量を活か{F4CE}殴打す{F485}{F4D5}の骨{F4CA}砕く{F4DD}の{F4F5}が{F4C4}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "Iron knuckles gripped with four fingers through four{n}holes. A punch backed by their weight is said to be{n}powerful enough to shatter bones.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0058",
    "jp": "手首まで覆う、鉄{F4DB}こて{F4BA}殴打{F4D3}{F49B}を上げる{F4C5}、{F4C3}が命中{F4BC}際{F4D7}{n}拳の部分{F4C7}爆発が起こる{F4C8}{F465}{F4D6}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "Iron gauntlets that cover the wrists. To increase the{n}force of a punch, they are enchanted to trigger an{n}explosion at the fist on impact.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0059",
    "jp": "炎{F47E}を封じ込め{F4E5}{F47D}拳。消える{F4BB}なく{n}吹き出し続{F4DE}灼熱の炎{F4C6}{F4BF}高熱で{F4D5}{F4CA}焼き尽くす{F479}。{F462}{F462}{F462}炎{F4DA}",
-   "en": "",
-   "term": "null"
+   "en": "Magic knuckles with a fire spirit sealed inside. Their{n}endless jets of searing flame are said to burn foes to{n}ashes. Fire element.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0060",
    "jp": "殴打時にプラズマが発生{F4BD}{F4C8}{F465}{F47C}{n}鋼鉄のこて。{F4AD}プラズマを発生{F48B}{F483}{n}{F45C}拳の速度を要求{F486}。{F462}　雷{F4DA}",
-   "en": "",
-   "term": "null"
+   "en": "Steel gauntlets enchanted to generate plasma when{n}punching. But producing plasma requires extraordinary{n}punching speed. Lightning element.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0061",
    "jp": "神秘の輝きを宿す鉄拳。格闘技を得意と{F4BC}高名な{n}僧{F4BE}邪悪{F4EB}者を滅ぼす{F4C5}に作らせた{F479}{F4BA}聖{F4DA}",
-   "en": "",
-   "term": "null"
+   "en": "Iron knuckles with a mystic glow. A famed monk skilled{n}in martial arts is said to have had them made to{n}destroy evil beings. Holy element.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0062",
    "jp": "{F44B}の{F473}、最強と認め{F484}{n}拳奴にのみ与え{F484}{F479}、{F450}{F4DB}拳{F4BA}{F4BF}名に恥じぬ{F4D9}{F4C3}{F4C2}誇{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "Mithril silver knuckles said to have been awarded only{n}to slave boxers deemed the strongest during Growsian{n}rule. Their high attack power lives up to their name.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0063",
    "jp": "謎に満ちた純白の拳{F4BA}苦行の果てに真の{F4C2}得る{F479}言い伝えが{F4C4}{F4BE}{n}真偽の{F4DD}は定か{F4F7}{F4D8}。",
-   "en": "",
-   "term": "null"
+   "en": "Mysterious, pure white knuckles. Legend says their{n}true power is gained through grueling ordeals, but no{n}one knows if this is true.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0064",
    "jp": "数{F4A6}死地をくぐりぬけてきた猛者{F4BE}{F4BF}証と{n}{F4CE}得{F47F}{F492}拳。鮮やかな紅に染ま{F4CF}拳{F4BE}{n}これまで歩{F4ED}修羅の道を物語{F4D4}い{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "Legendary knuckles earned by veterans of countless{n}brushes with death. Their vivid crimson tells of the{n}bloody path they have walked.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0065",
    "jp": "１０００年に１度、降るかどうか{F479}、未知{F4CB}{F4E1}を含{F4ED}隕石で{F45F}、{F48E}珍しいこて{F4BA}会心の一撃を放{F4CF}時、{F4BF}真価が発揮{F486}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "Extremely rare gauntlets made from a meteorite of{n}unknown metal, of a kind that falls once in a thousand{n}years, if at all. Critical hits reveal their true worth.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0066",
    "jp": "麻酔薬の仕込まれた{F435}麻酔ガス{F4CA}まき散らす。爆薬の{F4F5}自体はさ{F4DD}でも{F4D8}{F4BE}{n}ガスを吸い込{F4ED}敵を眠らせる{F4BB}が{F4C4}。",
-   "en": "",
-   "term": "null"
+   "en": "An explosive laced with an anesthetic that releases{n}anesthetic gas when it bursts. The blast itself is weak,{n}but foes who inhale the gas may fall asleep.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0067",
    "jp": "硫黄成分を多く含{F4ED}{F435}{n}複合ガスをまき散らす。{F4BF}{F4E2}{F4C6}{F4D5}{F4CA}昏倒{F48B}{F452}、複数の毒の影響を{F496}。",
-   "en": "",
-   "term": "null"
+   "en": "An explosive rich in sulfur that releases a mixture of{n}gases when it bursts. It not only knocks foes{n}unconscious, but also inflicts several kinds of poisoning.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0068",
    "jp": "化学反応{F4D3}発熱を利用{F4B1}{F472}向上させた{n}{F427}安定{F4BC}{n}{F49B}{F482}。",
-   "en": "",
-   "term": "null"
+   "en": "An explosive whose blast is enhanced by heat from a{n}chemical reaction. It releases no gas, but has reliable{n}destructive power.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0069",
    "jp": "ハイドロゲンの発火速度を{F491}{F4BB}{F4C1}{F472}{n}増{F4BC}改良型{F427}{n}{F495}{F49B}{F482}。",
-   "en": "",
-   "term": "null"
+   "en": "An improved explosive made stronger by speeding up{n}Hydrogen's ignition. It releases no gas, but has{n}excellent destructive power.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0070",
    "jp": "わずかな衝撃を与えただけで爆発{F4BD}{F479}{F4C0}危険性の{F4D9}液体{F4E3}{F436}て{F48C}{n}爆薬。{F474}容易に扱う{F4BB}が可能と{F4A1}。",
-   "en": "",
-   "term": "null"
+   "en": "An explosive made by soaking sawdust in a highly{n}dangerous liquid said to explode at the slightest{n}impact. This makes it easy to handle.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0071",
    "jp": "ニトレイトを改良{F4BC}爆薬{F4C1}少量でも{F48E}{F4D9}{n}{F472}{F4FF}。{F4D0}液体も{F436}る{n}{F4BB}{F4C1}容易に扱う{F4BB}を可能{F47B}い{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "An improved form of Nitrate with immense explosive{n}power even in small amounts. This liquid is also soaked{n}into sawdust to make it easy to handle.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0072",
    "jp": "時折発見{F486}珍しい鉱石を原料と{F4BD}爆薬{F4C1}{n}想像を絶{F4BD}{F472}{F4FF}。単体{F4F7}爆発し{F4D8}{F4C5}{F4C0}起爆剤{F47B}トリニトレイトが{F4D2}{F4D6}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "An explosive made from a rare, seldom-found ore, with{n}power beyond imagination. It cannot explode on its{n}own, so Trinitrate is used to detonate it.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0073",
    "jp": "{F4D0}{F4AB}を{F4FA}{F4BC}者{F4C6}残像が残る{F4DD}の{F4AC}{n}{F4C3}を繰り出せる{F479}。１撃ごとの{F4F5}は低い{F4BE}{n}熟練{F4BC}戦士{F4DD}、{F4BF}{F4C2}{F477}{F4BB}が{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "This slender sword is said to strike fast enough to{n}leave afterimages. Each blow is weak, but skilled{n}warriors draw out more of its power.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0074",
    "jp": "切る{F4DF}も突く事に向{F4CD}細身の剣{F4BA}{F4AC}{F4C3}が{F4B2}{F4BE}不慣れな者が扱うと簡単{F4C9}{F4E0}を折{F4D4}しまう。",
-   "en": "",
-   "term": "null"
+   "en": "A slender sword suited to thrusting rather than{n}slashing. It allows swift attacks, but an unskilled{n}wielder can easily snap the blade.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0075",
    "jp": "レイピアを一回り大きく{F4BC}{F4AB}{F4C1}{F4DF}頑強{F4C9}{F4B3}{F45E}{F474}{F4E1}鎧を着用{F4BC}{F4D5}にも{n}致命傷を{F496}{F4BB}が{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "A slender sword slightly larger and sturdier than a{n}rapier. This allows it to inflict fatal wounds even on{n}foes wearing metal armor.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0076",
    "jp": "波打{F4CF}刃{F48F}、大型のレイピア。特殊な{F4E0}{F4CB}形状{F4C6}傷口を{F4DF}深く{F4BD}{F4C5}に考え出{F47C}{n}{F4E4}{F487}。",
-   "en": "",
-   "term": "null"
+   "en": "A large rapier with a wavy blade. Its unusual blade{n}shape was devised to inflict deeper wounds.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0077",
    "jp": "鋼の鎧や堅い表皮を貫く{F4C5}に{F45F}、頑丈な{n}{F4AB}。{F4D5}が重装備であれば{F4C4}{F4DD}{F4E2}が{F4C4}{F4BE}{n}反面、柔らかい防具をつけた{F4D5}{F483}不向き{F487}。",
-   "en": "",
-   "term": "null"
+   "en": "A sturdy, slender sword made to pierce steel armor and{n}tough hides. It is more effective against heavily{n}armored foes, but ill-suited to those in soft armor.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0078",
    "jp": "負の{F4C2}凝縮{F4CE}{F45F}{F4AB}{F4BA}{F4BF}{F4E0}{F4C7}放たれる{F4E7}{F4F9}波動{F4C6}貫{F4CD}{F4D5}{F4CB}{F4F9}にも{F478}を{F496}",
-   "en": "",
-   "term": "null"
+   "en": "A slender sword made from concentrated negative{n}energy. Powerful psychic waves from its blade also{n}damage the minds of those it pierces.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0079",
    "jp": "『大力無双の{F4E4}』{F457}、{F4D1}強化{F47C}{n}エストック。長所、短所もエストックと同じだ{F4BE}{n}{F4BF}貫通力{F4C6}{F4AB}最強{F461}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "An enchanted estoc called 'Peerless in Might.' It shares{n}the estoc's strengths and weaknesses, but is said to{n}pierce better than any slender sword.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0080",
    "jp": "長い柄の先に両刃の斧を{F466}、戦闘用に{F4BC}{n}大きな斧。{F4D9}{F4C3}{F4C2}{F4FF}{F4BE}{F48E}重いのが欠点{F4BA}{F43E}１４{F4E6}{F468}３％",
-   "en": "",
-   "term": "null"
+   "en": "A large battle axe with a double-edged head on a long{n}shaft. Powerful, but extremely heavy. Critical +14%;{n}Accuracy -3%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0081",
    "jp": "竿状{F4E9}の１種。複雑な形状の穂先を使いこなせば{F4C0}斬る以外にも、突{F4EF}引っか{F4DE}等、多彩な{F4C3}{F4FB}{F4B2}。{F494}{F43E}１４{F4E6}{F468}３％",
-   "en": "",
-   "term": "null"
+   "en": "A polearm whose complex head allows a skilled wielder to{n}slash, thrust, hook and perform many other attacks.{n}Critical +14%; Accuracy -3%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0082",
    "jp": "古代の強力な呪いがかか{F4CF}戦斧。{F4FA}{F4BC}者{F4C9}闇の{F4C2}授{F4DE}{F4BE}防御がおろそか{F4AE}{F479}{F4BA}{F43E}２５{F4E6}{F468}６％",
-   "en": "",
-   "term": "null"
+   "en": "A battle axe bearing a powerful ancient curse. It grants{n}its wielder dark power, but is said to leave their guard{n}lax. Critical +25%; Accuracy -6%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0083",
    "jp": "人間を効率よく倒す{F4C5}だけに特化{F47C}戦斧{F4BA}殺人狂とあだ名{F47C}、ヴァルタム候が使{F4D4}{F4CD}{F4BA}{F43E}１４{F4E6}{F45A}率上昇",
-   "en": "",
-   "term": "null"
+   "en": "A battle axe designed solely to kill humans efficiently.{n}Wielded by Marquis Valtam, nicknamed the Murder{n}Maniac. Critical +14%; Counter rate increased.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0084",
    "jp": "拳大の鉄のハンマーを堅い棒の先に{F466}た道具{F4BA}本来は杭などを打つ{F4C5}の{F4E4}だ{F4BE}{F4BF}{F4F5}は{n}あなどれ{F4D8}。　{F43E}１５{F4E6}{F468}４％",
-   "en": "",
-   "term": "null"
+   "en": "A fist-sized iron hammer on a hard shaft, meant for{n}driving stakes and such. Its force is formidable. Critical{n}+15%; Accuracy -4%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0085",
    "jp": "{F49B}を増す{F4C5}、{F4E1}の板を放射状{F4C9}{F466}た{F4C8}な頭部{F482}打撃{F4E9}{F4BA}{F43E}１５{F4E6}{F468}４％",
-   "en": "",
-   "term": "null"
+   "en": "A striking weapon with a head shaped like metal plates{n}radiating outward to increase its destructive power.{n}Critical +15%; Accuracy -4%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0086",
    "jp": "{F4BF}名が示す通{F4F0}、巨大なハンマー。渾身の力で{n}振り下ろ{F47C}一撃{F4C6}堅い岩石さえも粉砕{F4BD}{F4BA}{F43E}１５{F4E6}{F468}４％",
-   "en": "",
-   "term": "null"
+   "en": "A gigantic hammer, just as its name suggests. Swung{n}with all one's might, it can shatter even hard rock.{n}Critical +15%; Accuracy -4%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0087",
    "jp": "目標を外す{F4BB}が{F4D8}と言い伝え{F47F}、{F47D}{n}ハンマー。先端部{F4C6}常に青い稲妻を{F49E}{F45E}{n}雷{F4DA}・{F43E}８{F4E6}命中率＋２５％",
-   "en": "",
-   "term": "null"
+   "en": "A magic hammer said never to miss. Its head is always{n}wreathed in blue lightning. Lightning element; Critical{n}+8%; Accuracy +25%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0088",
    "jp": "究極の{F49B}を目指{F4CE}{F45F}魔鉄槌だ{F4BE}{n}{F48A}制御しきれず、力の一部が反動{F47B}{F4D2}者{F4C9}返{F4D4}く{F4CC}　{F43E}２０{F4E6}{F468}３％",
-   "en": "",
-   "term": "null"
+   "en": "A magic hammer built for ultimate power. Its unruly{n}magic sends some force back at its wielder. Critical{n}+20%; Accuracy -3%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0089",
    "jp": "火炎{F420}燃やす{F4BB}が{F47A}{F4BA}炎{F4DA}{F42E}",
-   "en": "",
-   "term": "null"
+   "en": "Bottled fire magic. Throwing and breaking the bottle{n}releases the magic to burn the target. Fire element;{n}Attack power proportional to Strength and Level.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0090",
    "jp": "冷気{F420}凍てつかせ{F4CC}{n}冷{F4DA}{F42E}",
-   "en": "",
-   "term": "null"
+   "en": "Bottled cold magic. Throwing and breaking the bottle{n}releases the magic to freeze the target. Cold element;{n}Attack power proportional to Strength and Level.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0091",
    "jp": "雷撃{F420}感電{F48B}{F4BA}雷{F4DA}{F42E}",
-   "en": "",
-   "term": "null"
+   "en": "Bottled lightning magic. Throw and break it to shock the{n}target. Lightning element; Attack power proportional to{n}Strength and Level.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0092",
    "jp": "風{F420}かま{F4CD}ちで切り裂く{F4BA}風{F4DA}{F42E}",
-   "en": "",
-   "term": "null"
+   "en": "Bottled wind magic. Throw and break it to unleash wind{n}blades that slash the target. Wind element; Attack{n}power proportional to Strength and Level.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0093",
    "jp": "{F41E}{F462}毒{F42A}",
-   "en": "",
-   "term": "null"
+   "en": "An enlarged medical tool for injecting fluids into the{n}body. Effects vary by fluid. Poison attack; Attack power{n}rises with proficiency.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0094",
    "jp": "{F41E}{F494}猛毒{F42A}",
-   "en": "",
-   "term": "null"
+   "en": "An enlarged medical tool for injecting fluids into the{n}body. Effects vary by fluid. Severe poison attack;{n}Attack power rises with proficiency.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0095",
    "jp": "{F41E}マヒ＋猛毒{F42A}",
-   "en": "",
-   "term": "null"
+   "en": "An enlarged medical tool for injecting fluids into the{n}body. Effects vary by fluid. Paralysis + severe poison{n}attack; Attack power rises with proficiency.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0096",
    "jp": "{F41E}{F494}石化{F42A}",
-   "en": "",
-   "term": "null"
+   "en": "An enlarged medical tool for injecting fluids into the{n}body. Effects vary by fluid. Petrification attack; Attack{n}power rises with proficiency.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0097",
    "jp": "先端に分銅を{F466}{F4E5}くさりで{F48C}ムチ{F4BA}扱いが難し{F4EF}{F4AC}{F4C3}に向か{F4D8}{F4BE}{F4BF}一撃は{n}簡単に肉をそぎ落とす。{F462}{F43E}４％",
-   "en": "",
-   "term": "null"
+   "en": "A chain whip with a weight at its tip. Hard to wield and{n}unsuited to swift attacks, but one strike easily tears{n}flesh away. Critical +4%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0098",
    "jp": "幻の生物{F461}た雷獣の革を素材に{F4BC}ムチ{F4BA}{F4C3}が当たると電気ショックが発生し、対象{F4CA}マヒ状態に{F4BD}{F4BB}が{F47A}。　{F43E}４％",
-   "en": "",
-   "term": "null"
+   "en": "A whip of hide from the supposedly mythical thunder{n}beast. Hits deliver electric shocks that can paralyze{n}the target. Critical +4%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0099",
    "jp": "６又に{F4A1}{F450}{F4DB}ムチ{F4C1}虹と同じ７色{F4C9}発光{F4CE}い{F4CC}{F4D5}を絡め取り動きを封じる{F4E8}{F4C4}{F4BA}{F4C3}{F4D5}に硬直＋２０ＣＴ・{F43E}４％",
-   "en": "",
-   "term": "null"
+   "en": "A six-tailed mithril silver whip glowing in seven rainbow{n}colors. Entangles and immobilizes foes. Target recovery{n}delay +20 time units; Critical +4%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0100",
@@ -668,494 +768,576 @@
   {
    "id": "msys.items.0110",
    "jp": "ただの服なの{F4C1}防具{F47B}の{F4E2}は期待{F46D}{F4BA}{F4AD}何も着用し{F4D8}{F4DF}{F4C6}いくらかまし{F487}。",
-   "en": "",
-   "term": "null"
+   "en": "Ordinary clothes offer no real protection, though they{n}are somewhat better than wearing nothing.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0111",
    "jp": "{F4A9}布で{F45F}、丈夫な服{F4BA}昔{F4C7}旅人たちの間で愛用{F4D6}てきた{F4BA}防具{F47B}の{F4E2}も、少しは期待{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "Sturdy clothes made of thick fabric. Long favored by{n}travelers, they offer a little protection as armor.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0112",
    "jp": "乳白色の{F488}毛質{F482}、ニュト{F4C7}{F48C}毛皮{F4CB}コート。{F4D0}毛皮は丈夫な{F4BB}でも有名{F4C1}{n}見た目{F452}、防具{F47B}の機能も優れ{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A coat of beautiful, milky-white Nyuto fur, famed for{n}its durability. Both attractive and excellent as armor.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0113",
    "jp": "動物の皮で{F45F}服だ{F4BE}皮と皮の間{F4C9}{F44C}などを施{F4B1}{F464}{F447}{n}高め{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "Animal-hide clothing with quilting between the layers to{n}provide a little extra protection.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0114",
    "jp": "ソフトレザーに{F4E1}の鋲を打ち込んで強化{F4BC}{F4E4}{F4BA}鋲の頭部が大きく{F4B3}{F456}、簡単な加工{F4CB}わり{F483}{F464}が期待{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "Soft leather reinforced with metal studs. Their broad{n}heads offer effective protection despite the{n}simple workmanship.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0115",
    "jp": "オイルで煮固めた{F4A9}革を{F4F1}て{F45F}{F4C0}ハードレザー・アーマーの一種。{F4C3}を受けやすい{n}上半身{F483}特に厚めの革を使{F4D4}い{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "Hard leather armor made of thick hide boiled hard in{n}oil. Extra-thick leather covers the upper body, where{n}blows most often land.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0116",
    "jp": "メイドさんなどが着用{F4BD}、純白のエプロンが付{F4CD}{n}{F471}名職人、カダーオ親方の{F4FA}よる{F4D0}逸品{F4C6}{n}{F465}の{F4D8}衣装ながら、{F4D9}{F4A2}{F48F}。",
-   "en": "",
-   "term": "null"
+   "en": "A dress with a pure white apron, worn by maids and{n}the like.{p}Master craftsman Kadao's fine work offers strong{n}protection without enchantments.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0117",
    "jp": "戦闘用に考案{F47C}、{F4A9}革{F44A}内側には{n}{F44C}{F4E3}狙{F4F8}やすい場所には鎖帷子{F4CA}{F4F1}て補強{F4CE}お{F4DC}見た目以上に{F464}が{F4D9}。",
-   "en": "",
-   "term": "null"
+   "en": "A thick leather battle jacket. Quilted lining and chain{n}mail over vulnerable areas offer more protection than{n}its looks suggest.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0118",
    "jp": "シーズ{F479}蛾の幼虫が吐く糸{F4C7}{F45F}、{F488}{n}光沢{F48F}{F44A}{F495}衝撃吸収能力{F4EE}槍{F4CA}も通さぬ丈夫さ{F482}{F4BE}幼虫の数が少な{F4EF}高価。",
-   "en": "",
-   "term": "null"
+   "en": "A lustrous jacket woven from silk spun by Shizu{n}moth larvae.{p}It absorbs impacts superbly and resists even spear{n}thrusts, but the larvae are rare, making it costly.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0119",
    "jp": "細い鋼の糸を編んで{F45F}、{F4E1}{F4DB}{F44A}{n}多少重くは{F4EB}{F4BE}身体の動きを犠牲に{F4BD}{F4BB}な{F4EF}{n}{F495}防御能{F4C2}発揮{F4BD}。",
-   "en": "",
-   "term": "null"
+   "en": "A metal jacket woven from fine steel wire. Though{n}somewhat heavy, it offers excellent protection without{n}restricting movement.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0120",
    "jp": "シーズの幼虫{F4C7}{F45F}{F45B}{F4D7}幻影{F4E2}{F4CA}{F465}{F4BC}{F4E4}。{F4C3}をしかけてきた{F4D5}{F4D7}{n}自分の姿を何重にも見せる{F479}。{F494}{F4A8}７％",
-   "en": "",
-   "term": "null"
+   "en": "A jacket of Shizu larval silk, enchanted with illusions{n}said to make attackers see multiple images of its{n}wearer. Evasion: 7%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0121",
    "jp": "{F4D1}防御を{F465}{F4BC}{F4E1}板をメタル{F45B}{F4CB}肩や胸部{F4D7}{F466}{F470}{F4E9}による{F4C3}だけで{n}な{F4EF}{F4A3}{F49D}も{F4C4}程度の耐性{F48F}。",
-   "en": "",
-   "term": "null"
+   "en": "A metal jacket with plates enchanted against magic on{n}its shoulders and chest. Resists weapon attacks and,{n}to a degree, magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0122",
    "jp": "メタル{F45B}の防御能{F4C2}上げる{F4C5}、鋼{F4DF}も{n}堅い{F451}ドラゴンのウロコ{F4E3}胸部など{F4C9}{F4F1}{F4E5}最高品質の{F44A}",
-   "en": "",
-   "term": "null"
+   "en": "A jacket of the finest quality, with dragon scales said{n}to be harder than steel reinforcing the chest and{n}other parts of a metal jacket.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0123",
    "jp": "支配者{F44B}の中でも、{F4B6}貴族{F497}{n}決闘の際に着用{F4BC}{F451}{F44A}華やか{F4C9}彩{F484}外見に似合わず、{F4D9}{F464}{F482}。",
-   "en": "",
-   "term": "null"
+   "en": "A jacket said to have been worn in duels by high-ranking{n}nobles among the ruling Growsians. Its showy colors{n}belie its strong protection.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0124",
    "jp": "{F44B}{F473}を終焉へと向かわせ{F4E5}名も{n}なき勇者が着{F499}{F463}{F44A}遙かな時{F4CA}経た今でも、当{F4D3}ままの外見と{F4E2}を保{F4D4}い{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A jacket said to have been worn by the nameless hero{n}who set the age of Growsian rule on the path to{n}its end.{p}Even after countless years, its appearance and{n}protective power remain unchanged.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0125",
    "jp": "地{F47E}、スプリガンの加護を受けた{F44A}{n}{F4BF}表面{F4E3}うっすらと光り輝く{F4D1}防御壁{F4FB}守{F4D4}いる{F4C5}、{F495}防御能{F4C2}{F4FF}。",
-   "en": "",
-   "term": "null"
+   "en": "A jacket blessed by Spriggan, an earth spirit. A faintly{n}glowing magical barrier shields its surface, offering{n}excellent protection.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0126",
    "jp": "{F43B}王家に伝わる、深紅に輝くミスリル{n}{F4DB}{F44A}代々の王が祭事などで{F459}{F4BA}{F49C}に活力と聡明さを授{F4DE}{F461}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A mithril jacket that gleams crimson, passed down in{n}Burnstein's royal family.{p}Successive kings wore it for ceremonies and the like. It{n}is said to grant vigor and wisdom.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0127",
    "jp": "{F467}{F4E1}{F4DF}も{F4E7}、グレイプニル{F457}{n}絹の糸{F4C7}{F45F}{F44A}{F49C}{F4C6}極限まで{n}{F4F9}が研ぎ澄ま{F4D6}、機敏な行動が{F47A}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "A jacket woven from Gleipnir, silk stronger than any{n}metal. Said to hone the wearer's mind to its utmost{n}and allow swift movement.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0128",
    "jp": "鎖を編んで造{F484}鎧{F4C1}プレート式の鎧と比べると{n}軽量で動きやすい。{F45C}{F4A2}のわりには{n}安価な{F4C5}、{F4A6}重武装兵士に愛用{F4D6}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "Woven chain armor, lighter and more flexible than plate.{n}Cheap for its superb protection, it is popular with{n}heavily armed soldiers.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0129",
    "jp": "チェインメイルの胸部に板金を{F4F1}た鎧{F4BA}{F4DF}重量が増す{F4BB}と{F4EB}{F4BE}身体の動き{F4CA}損なう{F4BB}な{F4EF}{F464}を高め{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "Chain mail with a sheet-metal breastplate. Though{n}heavier, it offers greater protection without{n}restricting movement.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0130",
    "jp": "闇の{F4C2}引き寄せる{F451}、漆黒の{F4D1}{F4E1}で{n}{F45F}ブレストプレート{F4BA}重さは鋼と大差{F4D8}{F4BE}{F4DF}{F4D9}強度を有{F4BD}。",
-   "en": "",
-   "term": "null"
+   "en": "A breastplate of jet-black magical metal said to draw{n}dark power. It weighs about as much as steel, but{n}is stronger.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0131",
    "jp": "{F4D1}{F4E1}、{F450}で{F45F}鎧。{F49C}自身{F4CB}オーラを強化し、{F4BF}身を護る防壁を{F4B5}す{F4BA}並の{F4C3}{F4B0}傷１つ{F496}{F4BB}が{F46D}。",
-   "en": "",
-   "term": "null"
+   "en": "Armor of magical mithril silver. It strengthens the{n}wearer's aura to form a barrier that ordinary attacks{n}cannot even scratch.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0132",
    "jp": "ＩＫ専用の鎧。鋼で{F4B3}ながらも、{F4BF}{F464}は{n}{F450}をも凌ぐ。{F4BF}製造{F4F3}は門外不出と{F4D6}{F4C0}哮{F4F7}人の手以外によるの{F4F7}{F4D8}か{F461}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "Armor made exclusively for Imperial Knights. Though{n}made of steel, it protects better than mithril silver.{p}Its manufacture is a closely guarded secret, and rumor{n}claims it is not made by human hands.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0133",
    "jp": "{F4D0}地に舞い降りた戦{F4B9}、{F4BF}身に{F49E}て{n}{F4CD}{F479}白く輝く鎧。{F48E}軽{F4EF}また動きやすい{n}{F4C5}、{F4C3}を受けにくい。{F462}{F494}{F4A8}７％",
-   "en": "",
-   "term": "null"
+   "en": "Gleaming white armor said to have clad a Valkyrie{n}who descended here. Very light and flexible, it helps{n}evade attacks. Evasion: 7%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0134",
    "jp": "魔界の深奥で{F45F}{F463}、禍々しい鎧{F4BA}{F49C}{F4D7}邪悪な力と災厄をもたらす{F461}{n}忌み嫌{F445}真偽の{F4DD}は定か{F4F7}{F4D8}。",
-   "en": "",
-   "term": "null"
+   "en": "Sinister armor said to have been forged in the depths{n}of the demon realm.{p}It is shunned for supposedly bringing evil power and{n}calamity upon its wearer, though the truth is uncertain.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0135",
    "jp": "全身を覆う{F4C8}に{F45F}、{F4A9}革のスーツ{F4BA}内側には{F44C}も施{F4D6}{F480}、予想以上{F4C9}{F464}が{F4D9}。",
-   "en": "",
-   "term": "null"
+   "en": "A thick leather suit covering the whole body. Its quilted{n}lining provides more protection than one would expect.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0136",
    "jp": "{F44D}{F4D7}{F4E1}板で{F45F}プロテクター{F4CA}{F46C}せ{F470}拳に生きる男たち{F4C6}動き{F4AF}{F4C0}また{F464}も兼ね合わせた{F4D0}スーツを好む。",
-   "en": "",
-   "term": "null"
+   "en": "A leather suit fitted with metal plate guards. Men who{n}live by their fists favor its combination of freedom of{n}movement and protection.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0137",
    "jp": "{F450}{F4DB}プロテクター{F4E3}惜しげもなく贅沢{F4C9}使{F4CF}{F44D}。革本来の利点を活か{F4BC}まま{F4C0}最高水準の{F464}を持{F4D4}い{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A leather suit lavishly fitted with mithril silver guards.{n}It offers the finest protection while retaining leather's{n}natural advantages.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0138",
    "jp": "魔狼フェンリルの皮をなめ{F4CE}{F48C}{F4B8}{F47F}{n}{F44D}。{F4BF}秘め{F484}力{F4C6}{F49C}{F4CB}運動能{F4C2}最大限に{F477}{F479}。　　{F4A8}３％",
-   "en": "",
-   "term": "null"
+   "en": "A leather suit said to be made from the tanned hide of{n}Fenrir, the demon wolf. Its hidden power is said to draw{n}out the wearer's full physical potential. Evasion: 3%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0139",
    "jp": "何重にも防御の{F465}をかけ{F4E5}{F4A9}{F46B}{n}{F4B6}{F48D}の{F4C5}に{F45F}{F4E4}{F4C1}並み{F4CB}ローブとは比べ物になら{F4D8}{F4DD}の{F464}が{F4C4}。",
-   "en": "",
-   "term": "null"
+   "en": "A thick robe layered with protective enchantments.{n}Made for high-ranking mages, it offers protection far{n}beyond that of ordinary robes.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0140",
    "jp": "森の妖精が織り上げ{F4E5}{F48A}秘めた布を使{F4D4}{n}{F45F}{F46B}{F4BF}繊細なデザイン{F4C6}{n}芸術品{F47B}も通用{F4BD}。",
-   "en": "",
-   "term": "null"
+   "en": "A robe made from magical cloth woven by forest{n}fairies. Its delicate design makes it a work of art in its{n}own right.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0141",
    "jp": "地{F47E}王{F4BE}善良な農夫に与えた{F463}{F46B}{n}精霊王の加護を得{F456}か、身に{F49E}た者{F4C6}{n}{F4FC}の象徴{F487}再生の{F4E8}得{F47F}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "A robe said to have been given to a good-hearted{n}farmer by the Earth Spirit King.{p}Perhaps through his blessing, its wearer is said to gain{n}the power of regeneration, a symbol of the earth.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0142",
    "jp": "{F4A5}{F4C2}宿す{F4C8}{F4D7}新月の夜に儀式を行{F4CF}{F4E4}{F4BA}上質の絹のローブを銀皿の聖水に浸し、１２人{F4CB}{F4B9}祈りを捧げる{F4BB}{F4C1}{F4A0}す{F4BB}が{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "A robe imbued with sacred power through a{n}new-moon ritual.{p}It is made by soaking a fine silk robe in holy water in a{n}silver dish while twelve maidens offer prayers.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0143",
    "jp": "大自然の{F4C2}宿{F4BC}、淡い白光{F49A}{F46B}{n}北方の森に住んで{F4CD}シャーマン達の長{F4BE}{n}代々受け継いできた{F4E4}だ{F461}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A robe imbued with nature's power, glowing pale white.{p}It is said to have been passed down through{n}generations of leaders of the shamans who lived in the{n}northern forests.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0144",
    "jp": "己の{F4C2}過信{F4BC}召喚術師{F4BE}異界{F4DF}喚びだ{F4BC}{n}魔物と交渉{F4CE}得た{F463}{F47D}ガーブ。しかし{F4C0}{F449}、自身は異世界へ連れ去{F484}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "A magical garment said to have been obtained by an{n}overconfident summoner{p}through bargaining with a demon summoned from{n}another world. In payment, the summoner was taken to{n}that other world.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0145",
    "jp": "{F44F}の謎を解き明か{F4BC}{F463}{F492}大賢者{F4C0}アルヴィースが{F4A0}{F4BC}着衣。強力な{F4D1}障壁{F4CA}{F465}{F4CE}い{F4CC}{F462}{F4D1}{F478}２０％軽減",
-   "en": "",
-   "term": "null"
+   "en": "A garment created by Alviss, the legendary great sage{n}said to have unraveled the mysteries of Grosh.{p}Enchanted with a powerful magical barrier. Reduces{n}magic damage by 20%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0146",
    "jp": "天空{F4DF}舞い降りた{F488}{F4B9}、{F4BF}身に{F49E}て{n}{F4CD}{F463}薄い絹の羽衣。空を飛ぶ{F4FD}{F4C6}すで{F4C9}失{F445}{F495}{F464}は未だ衰えてい{F4D8}。",
-   "en": "",
-   "term": "null"
+   "en": "A thin silk mantle said to have been worn by a beautiful{n}maiden who descended from the sky.{p}Its power of flight is lost, but its excellent protection{n}remains undiminished.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0147",
    "jp": "{F4D0}地方で暴れ{F499}残虐な妖魔を封じた女性{F4BE}{n}着用{F4CE}{F4CD}{F46B}今{F4B0}それを祝{F4D4}行{F4F8}る{n}封魔祭{F4D7}祭衣{F47B}{F4F1}{F4EC}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A robe worn by the woman who sealed away a cruel{n}demon that ravaged this region.{p}It is now worn as ceremonial attire at the Demon{n}Sealing Festival celebrating her deed.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0148",
    "jp": "{F492}聖女、ソフィーが{F49E}{F499}薄手の{F471}{n}質素な作りに見える{F4BE}着用{F4BD}{F4EE}ドレス全体{F4FB}まばゆいばか{F4F0}光に包まれ{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A thin dress worn by the legendary saint Sophie. It{n}looks simply made, but when worn, the entire dress is{n}enveloped in dazzling light.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0149",
    "jp": "糸の{F4C8}に細い{F450}を織{F4DC}表面を鏡の{F4C8}{F4C9}仕上げた{F471}これに{F4D1}反射の{F465}を行い{F4C0}悪意{F4C4}{F489}はね返す{F4C2}もたせ{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A dress woven from thread-fine mithril silver with a{n}mirror finish. Enchanted to reflect magic, it can repel{n}hostile spells.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0150",
    "jp": "世界樹の樹皮{F4C7}採れる繊維を織{F4D4}{F45F}{F471}{n}{F488}緑色の光沢{F49A}{F4BF}ドレス{F4C6}世界樹の{F4FF}{n}{F476}生命{F4C2}、{F459}者に分け{F496}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "A dress woven from fibers taken from the World{n}Tree's bark. With its beautiful green sheen, it is said to{n}share the tree's mysterious life force with its wearer.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0151",
    "jp": "かつて精霊王{F4BE}友好の証{F47B}人間の女性{F4C9}贈{F4CF}{F463}、鮮やかな色彩の羽衣。{F4E7}{F48A}{n}秘め{F480}、特に{F4A3}{F49D}{F495}耐性{F48F}。",
-   "en": "",
-   "term": "null"
+   "en": "A vividly colored mantle said to have been given to a{n}human woman by the Spirit King as a token{n}of friendship.{p}It holds powerful magic and offers especially strong{n}resistance to spells.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0152",
    "jp": "{F44B}{F473}、王族用に{F45F}{F471}{n}加工の難しい{F44F}の結晶{F4E3}繊維の中に織り{n}込んでい{F4CC}{F494}ＭＰ{F4F4}・{F47D}{F446}",
-   "en": "",
-   "term": "null"
+   "en": "A dress made for royalty during the age of{n}Growsian rule.{p}Grosh crystals, difficult to work with, are woven into its{n}fibers. Restores MP; spells cost 3/4 of their usual MP.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0153",
    "jp": "脚部を守る{F4C5}のスネあてが付{F4CD}、革{F4DB}ブーツ{F4BA}ヒザまで丈が{F4C4}{F4C5}、意外と{F464}が{F4D9}{F4BA}{F4A6}旅人が愛用{F4CE}い{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "Leather boots with shin guards. Their knee-high length{n}offers surprising protection, making them popular{n}with travelers.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0154",
    "jp": "東の大平原にすむ妖精が履い{F498}{F451}{F4C0}不思議な{F47D}ブーツ。履{F4CD}者は体が軽くな{F4DC}{n}飛ぶ{F4C8}に走る{F4BB}が{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "Odd magical boots said to be worn by fairies of the{n}great eastern plains. They make the wearer's body{n}light enough to run as if flying.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0155",
    "jp": "{F4FC}創造の時{F4DF}、捨て{F484}革の切れ端を集めて{n}作{F4D4}きた{F451}、{F48E}堅い{F47D}ブーツ{F4BA}鋭い針の山ですら、安全に渡る{F4BB}が{F47A}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "Extremely tough magical boots said to have been made{n}from discarded leather scraps gathered since the{n}earth's creation.{p}They supposedly let one safely cross even mountains{n}of sharp needles.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0156",
    "jp": "頭部に巻いて{F4D2}{F4BD}布{F4BA}額の辺り{F483}{F4E1}片がぬいつけ{F4EC}{F480}{F4C0}頭部への{F4C3}{F447}軽減{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "A cloth worn around the head, with metal pieces sewn{n}over the forehead to slightly reduce damage from blows{n}to the head.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0157",
    "jp": "顔の下半分がオープンに{F4A1}、鋼鉄{F4DB}ヘルメット{F4BA}後頭部が尾の{F4C8}に伸び{F4E5}特殊な形状を{F4CE}い{F4CC}{n}フルフェイス型とくらべ、首への負担が少なくてすむ。",
-   "en": "",
-   "term": "null"
+   "en": "A steel helmet leaving the lower face exposed, with a{n}distinctive tail-like extension at the back. It puts less{n}strain on the neck than a full-face helmet.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0158",
    "jp": "花飾{F4F0}付{F4CD}、可愛らしいリボン{F4BA}清めの儀式{F475}、{F4E7}浄化能{F4C2}付加{F4D6}{F480}{F4C0}{F49C}の身体を様々な毒物{F4C7}守{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A pretty ribbon with floral decorations. A cleansing{n}ritual grants it strong purifying power, protecting its{n}wearer from various poisons.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0159",
    "jp": "弓の達人{F461}た森人、ルーヴァダシルが好{F4ED}{n}{F47D}帽子。弓などの射程を伸ばす{F452}{F4C0}敵の間接{F4C3}を避け{F4AF}{F4EB}{F461}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A magical hat favored by Ruvadashiru, a forest dweller{n}famed as a master archer.{p}It is said to extend the range of bows and similar{n}weapons, and make enemy ranged attacks easier{n}to evade.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0160",
    "jp": "{F450}{F4DB}{F488}ティアラ。額部に埋め込まれた{n}トパーズ{F483}{F4FD}増幅と毒物浄化の{F465}{F4FB}施{F4D6}{F498}{F479}。{F462}{F453}{F460}Ａ",
-   "en": "",
-   "term": "null"
+   "en": "A beautiful mithril silver tiara. The topaz set at its{n}brow is said to be enchanted to amplify magic and{n}purify poisons. Magic power +15%. Range: A.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0161",
    "jp": "{F44B}の女王{F4BE}{F4BF}娘に贈{F4CF}{F463}{F4C0}光り輝く{F4A5}ヴェール。敵の{F489}２０％{F4A7}{F4BA}{F481}２０{F4E6}{F4F6}時間短縮・{F47D}{F446}",
-   "en": "",
-   "term": "null"
+   "en": "A shining holy veil said to be the Growsian queen's gift{n}to her daughter. Negates 20% of enemy spells; magic{n}power +20%; faster casting; spell MP cost 3/4.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0162",
    "jp": "{F4FA}{F4BC}者{F4C6}{F4D0}世界を統べる{F4B8}{F47F}{F4C0}{F492}王冠。計り知れ{F4D8}程の{F4FD}が込め{F4EC}{F45E}{n}リジェネレート・ＭＰ{F4F4}・{F4D1}{F478}１０％軽減",
-   "en": "",
-   "term": "null"
+   "en": "A legendary crown whose bearer is said to rule the{n}world. Holds immeasurable magic. Regenerate; restores{n}MP; magic damage -10%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0163",
    "jp": "小さな鏡を飾{F4CF}ピアス。{F4BF}鏡{F4C6}一点の曇りなく{n}磨{F49F}、{F450}{F4C7}でき{F45E}邪悪な{F489}{n}弾き返す{F490}{F47B}、貴婦人{F497}身につけ{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "An earring set with a small mirror of mithril silver,{n}polished to a flawless shine. Noblewomen wear it as a{n}charm to repel evil magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0164",
    "jp": "プラチナで{F45F}三日月型ピアス{F4C1}{F46F}{F4D3}{n}{F4F9}集中を促し、{F47D}{F4E2}を{F491}{F4BB}が{F47A}{F4BA}{F455}{F460}Ｃ{F469}",
-   "en": "",
-   "term": "null"
+   "en": "A crescent-shaped platinum earring that aids focus{n}when casting spells, enhancing their effects. Magic{n}power +10%; range C; area B.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0165",
    "jp": "{F4B4}に幸運を授{F4DE}{F461}{F498}、異国の{F490}{F4BA}微弱ながら{F48A}{F491}{F4E2}を持{F4D4}い{F4CC}{n}{F481}５％",
-   "en": "",
-   "term": "null"
+   "en": "A foreign charm said to bring its bearer good luck. It{n}slightly increases magical power. Magic power +5%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0166",
    "jp": "大盗賊アルスィオーブ{F4BE}悪魔をだま{F4CE}かすめ{n}取{F4CF}{F463}{F490}の、複製品。物を盗{F4ED}り{n}拾{F4CF}り{F4BD}確率が高く{F4EB}と信じ{F4EC}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A replica of a charm the master thief Arusiobu is said{n}to have stolen by tricking a demon. Believed to improve{n}the chances of stealing or finding items.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0167",
    "jp": "エメラルドをあしら{F4CF}メダル{F4D7}対{F4D1}障壁{F4CB}{F4D1}付加を施{F4BC}{F490}。これを{F459}者{F4C6}{n}敵の{F4A3}{F49D}、{F4E7}耐性を有{F4BD}。",
-   "en": "",
-   "term": "null"
+   "en": "An emerald-studded medal enchanted with an{n}anti-magic barrier. This charm grants its wearer{n}strong resistance to enemy spells.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0168",
    "jp": "{F44F}の結晶を内包{F4BC}黒いオーブ{F4C1}結晶{F4BE}{n}夜空に浮かぶ星屑の{F4C8}に見え{F4CC}強力な{F489}{n}操る{F4B6}{F48D}{F4DD}、{F4D0}オーブを重宝{F4BD}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "A black orb with Grosh crystals like stars in the night{n}sky. Said to be prized most by high-ranking mages who{n}wield the strongest magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0169",
    "jp": "聖母クローディア{F4BE}祈り{F475}{F4B5}{F4BC}と{n}伝え{F47F}、{F476}首飾り。込め{F484}慈愛の{F4E8}{F4C0}全ての{F4A3}対{F4BD}耐性を与えてくれ{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A mystical necklace said to have been born of the Holy{n}Mother Claudia's prayers. Its power of compassion{n}grants resistance to all magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0170",
    "jp": "所有{F4EA}周りに{F4FD}フィールドを形成{F4BD}{F4BB}{F4C1}{n}自分に対{F4BD}{F4C3}をそらす{F4C2}も{F4D4}い{F4CC}{n}{F4A8}１０{F4E6}敵の{F489}１５％{F4A7}",
-   "en": "",
-   "term": "null"
+   "en": "Creates a magical field around the wearer to deflect{n}attacks. Evasion +10%; negates 15% of enemy spells.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0171",
    "jp": "{F44B}{F473}、レジスタンス{F497}{n}{F4A0}{F4BC}{F451}{F490}。{F44F}の{F4C2}{n}{F4F2}{F4BD}効{F4C2}{F4FF}。{F494}敵の{F489}２５％{F4A7}",
-   "en": "",
-   "term": "null"
+   "en": "A charm said to have been made by resistance{n}fighters during Growsian rule. Neutralizes the power of{n}Grosh. Negates 25% of enemy spells.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0172",
    "jp": "戦{F4B9}勇者と認めた人間に{F49D}、貸し{F496}と{n}い{F4F8}る乙女像のペンダント。動体視力、反応速度{F4FB}高ま{F4DC}{F45A}{F4C3}を狙い{F4AF}{F4EB}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "A maiden pendant a Valkyrie is said to lend to worthy{n}heroes. Improves tracking of movement and quickens{n}reflexes, easing counterattacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0173",
    "jp": "力{F4C4}言葉『言霊』{F4E3}初めて言葉がうまれた時{F4C7}{n}吸収し続けた{F463}太古の{F490}。{F46F}など{F4CB}{F4E7}{F4E8}放たれる言葉{F4E3}繰り返す{F4BB}が{F4C4}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "An ancient charm said to have absorbed 'word spirits',{n}words of power, since speech began. May echo potent{n}words such as spell incantations.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0174",
    "jp": "『戦士の目をくらます{F4E4}』{F479}意味{F48F}{F490}{F4BA}周囲の空間を歪ませる{F4BB}{F4C1}{F4D5}の目をあざむき{F4C0}狙いをずら{F4CE}しまう。{F462}{F494}{F4A8}２５％",
-   "en": "",
-   "term": "null"
+   "en": "A charm named 'that which blinds warriors'. It warps{n}space around it to deceive foes' eyes and throw off{n}their aim. Evasion +25%.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0175",
    "jp": "戦乙女を閉じこめ{F499}茨で{F45F}首飾り。身{F4C9}つ{F4DE}と強烈な眠気に襲{F4F8}、身体が鉛の{F4C8}に重く{n}{F4EB}。{F4E7}{F4F9}{F4C2}もつ苦行者が荒行に{F4F1}る{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "A necklace of thorns that held a Valkyrie captive.{n}Wearing it brings deep drowsiness and makes the body{n}heavy as lead.{p}Said to serve strong-willed ascetics in harsh training.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0176",
    "jp": "飾り気の{F4D8}腕輪だ{F4BE}{F43C}る{F4EE}{n}小さな盾の{F4C8}な{F47D}力場を形成し、{F49C}{F4CA}{F4D5}の{F4C3}{F4C7}護る{F4BB}が{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "A plain bracelet that senses impending battle and{n}forms a small, shield-like magical field to protect its{n}wearer from enemy attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0177",
    "jp": "生命のルーンを彫り込{F4ED}、銀の腕輪。{F459}{n}{F4EA}傷{F4E3}ゆっくりとだが癒す{F4E8}{F4C4}。正直{F4EA}{n}木こり{F4BE}森{F47E}{F4C7}譲り受けた{F461}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A silver bracelet carved with the rune of life. Slowly{n}heals its wearer's wounds. Said to have been given to{n}an honest woodcutter by a forest spirit.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0178",
    "jp": "妖精王ラウリンが所有{F4CE}{F4CD}{F47D}指輪{F4BA}黄金色に輝く{F4D0}指輪{F4C6}{F459}{F4EA}体{F4C2}{n}{F491}{F4E2}を持{F4D4}い{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A magical ring once owned by Laurin, king of the{n}fairies. This golden, shining ring increases its{n}wearer's vitality.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0179",
    "jp": "炎{F47E}王アミィ{F42D}真紅{F4CB}{F493}{F467}炎{F438}{F43F}{n}{F430}",
-   "en": "",
-   "term": "null"
+   "en": "A crimson gem brought into this world by Amy, king of{n}the fire spirits. Said to guarantee maximum protection{n}against all flames.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0180",
    "jp": "氷{F47E}王ウェンディゴ{F42D}{n}白色の{F493}冷{F41F}",
-   "en": "",
-   "term": "null"
+   "en": "A white gem brought into this world by Wendigo, king{n}of the ice spirits. Said to guarantee maximum protection{n}against all cold attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0181",
    "jp": "地{F47E}王ベヒモス{F42D}{n}うす茶色の{F493}地の{F41F}",
-   "en": "",
-   "term": "null"
+   "en": "A light brown gem brought into this world by Behemoth,{n}king of the earth spirits. Said to guarantee maximum{n}protection against all earth attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0182",
    "jp": "風{F47E}王パズズ{F42D}{n}無色透明な{F493}{F467}風の{F4D1}{F438}{n}{F43F}{F430}",
-   "en": "",
-   "term": "null"
+   "en": "A colorless, transparent gem brought into this world{n}by Pazuzu, king of the wind spirits. Said to guarantee{n}maximum protection against all wind magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0183",
    "jp": "雷{F47E}王バール{F42D}青白く{n}輝く{F493}落雷{F438}{F43F}{n}{F430}",
-   "en": "",
-   "term": "null"
+   "en": "A gem with a pale blue glow, brought into this world by{n}Baal, king of the lightning spirits. Said to guarantee{n}maximum protection against lightning strikes.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0184",
    "jp": "光{F47E}王フェニックス{F42D}{n}オレンジ色の{F493}{F4A5}力{F438}{n}{F43F}{F430}",
-   "en": "",
-   "term": "null"
+   "en": "An orange gem brought into this world by Phoenix, king{n}of the light spirits. Said to guarantee maximum{n}protection against sacred power.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0185",
    "jp": "闇{F47E}王アバドン{F42D}黒色{F4CB}{F493}{F467}闇{F438}{n}{F43F}{F430}",
-   "en": "",
-   "term": "null"
+   "en": "A black gem brought into this world by Abaddon, king{n}of the dark spirits. Said to guarantee maximum{n}protection against all darkness.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0186",
    "jp": "闇{F47E}王リリス{F42D}虹色{F4C9}輝く{F493}{F467}{F4F9}{F4C3}{F438}{n}{F43F}{F430}",
-   "en": "",
-   "term": "null"
+   "en": "An iridescent gem brought into this world by Lilith, king{n}of the dark spirits. Said to guarantee maximum{n}protection against all mental attacks.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0187",
    "jp": "ペガサスの翼をかたど{F4CF}指輪。所有{F4EA}判断{F4C2}{n}高め、{F467}行動を素早く実行{F47A}{F479}{F4BA}{F4C3}、{F4F6}、道具実行時間を短縮{F4BD}。",
-   "en": "",
-   "term": "null"
+   "en": "A ring shaped like a pegasus's wings. Said to sharpen{n}judgment and hasten all actions. Shortens attack,{n}spellcasting and item use times.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0188",
    "jp": "大天使が地上に落{F47B}い{F4CF}{F463}、光り輝く{n}黄金の指輪。{F4FA}{F4BC}者は聖{F4EB}輝きに包まれ{F4C0}{F467}{F4D1}{F4C7}護{F47F}{F461}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A radiant gold ring said to have been dropped to earth{n}by an archangel. Said to bathe its bearer in holy light{n}and ward off all magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0189",
    "jp": "薬草をせんじて{F48C}傷薬。患部に塗る{F4BB}{F4C1}{n}治癒能{F4C2}{F491}{F4BB}が{F47A}{F4BA}ＨＰ{F4F4}、３０～３７",
-   "en": "",
-   "term": "null"
+   "en": "A salve made from boiled medicinal herbs. Applying it to{n}a wound enhances healing. Restores 30-37 HP.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0190",
    "jp": "メディス村で採れる珍しい薬草を使{F4D4}{F45F}傷薬{F4BA}値段は少々{F4D9}{F4BE}{F4BF}ぶん{F4F4}{F4E2}が優れ{F45E}{n}ＨＰ{F4F4}、１００～１１５",
-   "en": "",
-   "term": "null"
+   "en": "A salve made from rare herbs found in Medis village. A{n}little costly, but its superior healing makes up for it.{n}Restores 100-115 HP.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0191",
    "jp": "不死の薬の研究中に発明{F47C}{F479}、貴重な石{F4BA}{F4E7}生命{F4E8}秘め{F4EC}{F480}、{F4BF}{F4C2}解放す{F485}{n}まわ{F4F0}者たちの傷{F4BE}瞬時に{F4F4}{F4BD}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "A precious stone said to have been invented in{n}research into an elixir of immortality.{p}Releasing its potent life force instantly heals the{n}wounds of those nearby.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0192",
@@ -1166,260 +1348,303 @@
   {
    "id": "msys.items.0193",
    "jp": "体内に入{F4CF}毒を{F4F2}{F4BD}薬草{F4BA}傷口に葉の部分をはるだけで{F4E2}が{F4C4}{F4BA}毒性の{F4D9}猛毒も、{F4D0}薬草で解毒が{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "An herb that neutralizes poison in the body. Simply{n}apply its leaves to a wound. It can cure even the most{n}potent poisons.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0194",
    "jp": "体内に入{F4CF}マヒ毒を{F4F2}{F4BD}薬草{F4BA}{F4BF}茎{F4C7}にじみでるエキスを飲ませ{F485}{n}体の痺れが瞬時に消え去{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "An herb that neutralizes paralytic poison in the body.{n}Drinking the extract that seeps from its stem{n}instantly banishes numbness.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0195",
    "jp": "南方で採れる、{F4E7}香り{F49A}薬草をせんじた薬{F4BA}石化毒を{F4F2}{F4BD}{F4E8}あ{F4DC}患者に{F4D0}薬を塗{F485}{n}再び全身に血が通う{F4C8}{F4AE}。",
-   "en": "",
-   "term": "null"
+   "en": "A medicine of boiled, pungent southern herbs.{n}Neutralizes petrifying poison. Apply to a patient to{n}restore blood flow throughout the body.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0196",
    "jp": "賢者{F497}{F4A0}{F4BC}、『万能薬』{F479}名{F482}{n}{F47D}液体。患者に{F4D0}薬をかけ{F485}{F467}{n}悪影響を及ぼす{F4E2}を{F4F2}{F4BD}{F461}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A magical liquid created by sages, whose name means{n}'cure-all'. Pouring it over a patient is said to neutralize{n}all harmful effects.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0197",
    "jp": "天上界の果物{F4C7}{F45F}{F451}お酒。戦いで{n}倒れた{F4EA}体にかけ{F485}たちどころに傷がふさが{F4DC}{n}戦線に復帰{F48B}{F4BB}が{F47A}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "A liquor said to be made from heavenly fruit. Pouring it{n}over someone fallen in battle is said to close their{n}wounds at once and return them to the fight.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0198",
    "jp": "{F400}",
-   "en": "",
-   "term": "null"
+   "en": "A snack of thinly sliced, fried potatoes. Sold in bags{n}with a bonus card inside. Restores 30-37 HP.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0199",
    "jp": "{F48D}サンドラが{F48C}、{F47D}玉{F4BA}投げつ{F4DE}{F4EE}中に入{F4CF}粉末が飛び散{F4DC}{n}{F4D5}をマヒ{F48B}{F4BB}が{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "A magical ball made by the mage Sandra. Throwing it{n}scatters the powder inside, paralyzing the target.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0200",
    "jp": "炎の{F422}炎{F421}",
-   "en": "",
-   "term": "null"
+   "en": "A magical powder that neutralizes fire. Apply to the{n}body to temporarily nullify fire magic. Cannot be used{n}with other magical powders.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0201",
    "jp": "冷気の{F422}冷気{F421}",
-   "en": "",
-   "term": "null"
+   "en": "A magical powder that neutralizes cold. Apply to the{n}body to temporarily nullify cold magic. Cannot be used{n}with other magical powders.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0202",
    "jp": "地の{F422}{F4FC}{F421}",
-   "en": "",
-   "term": "null"
+   "en": "A magical powder that neutralizes the power of earth.{n}Apply to the body to temporarily nullify earth magic.{n}Cannot be used with other magical powders.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0203",
    "jp": "風の{F422}風{F421}",
-   "en": "",
-   "term": "null"
+   "en": "A magical powder that neutralizes wind. Apply to the{n}body to temporarily nullify wind magic. Cannot be used{n}with other magical powders.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0204",
    "jp": "雷の{F422}雷{F421}",
-   "en": "",
-   "term": "null"
+   "en": "A magical powder that neutralizes lightning. Apply to{n}the body to temporarily nullify lightning magic. Cannot be{n}used with other magical powders.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0205",
    "jp": "元素{F47D}{F4C2}{F4F2}{F4BD}{F4D1}{F437}{F4BB}{F4C1}{F440}物理{F421}",
-   "en": "",
-   "term": "null"
+   "en": "A magical powder that neutralizes elemental magic.{n}Apply to the body to temporarily nullify physical magic.{n}Cannot be used with other magical powders.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0206",
    "jp": "{F4A5}{F422}聖{F421}",
-   "en": "",
-   "term": "null"
+   "en": "A magical powder that neutralizes sacred power. Apply{n}to the body to temporarily nullify holy magic. Cannot be{n}used with other magical powders.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0207",
    "jp": "暗黒の{F422}闇{F421}",
-   "en": "",
-   "term": "null"
+   "en": "A magical powder that neutralizes dark power. Apply to{n}the body to temporarily nullify dark magic. Cannot be{n}used with other magical powders.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0208",
    "jp": "{F4F9}への影響{F4C2}{F4F2}{F4BD}{F4D1}{F437}{F4BB}{F4C1}{F440}{F4F9}{F421}",
-   "en": "",
-   "term": "null"
+   "en": "A magical powder that neutralizes mental influences.{n}Apply to the body to temporarily nullify mental magic.{n}Cannot be used with other magical powders.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0209",
    "jp": "果汁{F4D7}筋{F4C2}強く{F4BD}成分が含まれた{F47D}{F4AA}{F4BA}魔導学の進歩{F475}{F4B5}{F47C}{F4E4}だ{F4BE}{n}１本の木{F4C7}、た{F4CF}１個しか採取{F46D}。",
-   "en": "",
-   "term": "null"
+   "en": "A magical apple whose juice contains a substance that{n}strengthens muscles. Created through advances in{n}magical science, but each tree yields just one apple.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0210",
    "jp": "原生林の奥深くに自生{F4BD}{F479}、幻の{F4AA}{F4BA}決{F4CE}熟す{F4BB}の{F4D8}、{F4BF}青い実を食{F4BC}者{F4C6}{n}忍耐{F4C2}得る{F479}言い伝えが{F4C4}。",
-   "en": "",
-   "term": "null"
+   "en": "A fabled apple said to grow wild deep in primeval{n}forests. Legend says that eating its green fruit, which{n}never ripens, grants endurance.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0211",
    "jp": "{F4FC}の女神をまつる神官{F497}、神木とあがめる{n}{F4AA}の木{F4C7}採れ{F470}甘い果汁を多く含む{F4C0}{F4D0}{F4AA}を食{F4BD}{F4EE}全身に活{F4E8}みなぎる{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "An apple from a tree revered as sacred by priests of{n}the earth goddess. Rich in sweet juice, it is said to fill{n}the whole body with vitality when eaten.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0212",
    "jp": "世界創造の時{F4DF}、天界{F457}場所に{F4C4}と{n}{F486}、黄金色の実を付{F4DE}{F4AA}の木。食す{F485}{n}太古{F4C7}の{F4A6}知識を授かる{F461}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "An apple tree bearing golden fruit, said to have stood{n}in the celestial realm since creation. Eating its fruit is{n}said to bestow a wealth of ancient knowledge.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0213",
    "jp": "天使が流{F4BC}涙{F4BE}泉に{F4A1}{F4B8}{F47F}{n}{F4A5}泉の水{F4E3}クリスタルの小瓶に詰め{F470}{n}{F4D0}水を飲{F4ED}者{F4C6}飛ぶ{F4C8}に地を駆{F4DE}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "Water in a crystal vial from a sacred spring said to{n}have formed from an angel's tears. Those who drink it{n}are said to run across the land as though flying.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0214",
    "jp": "いけてる男が読む、身だしなみ{F46A}書{F49F}本{F4BA}{F4BF}内容を会得{F4BC}者{F4C6}異性、同性にかかわらず{F4C0}{F4D5}をひきつ{F4DE}魅{F4C2}放つ。",
-   "en": "",
-   "term": "null"
+   "en": "A book on grooming read by stylish men. Those who{n}master its teachings radiate a charm that attracts{n}others, regardless of gender.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0215",
    "jp": "祝福の{F4C2}授け{F484}、黄金{F4DB}ハンドベル{F4BA}{F4D0}鐘を鳴ら{F4BC}者{F4D7}奇跡が起こる{F461}{F45E}{n}{F4AD}、一度鳴ら{F4BC}だけ{F4C1}ヒビ割れ{F454}",
-   "en": "",
-   "term": "null"
+   "en": "A golden handbell endowed with blessings. Ringing it is{n}said to bring a miracle to the person who rings it.{n}However, it cracks after a single use.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0216",
    "jp": "{F41C}や{F47D}修得{F4F3}{F4E3}{F4DF}深く記{F4BC}巻物{F4BA}秘伝の事柄{F4BE}多く書かれ{F498}{F479}{F4BA}修得{F419}を１{F419}得る",
-   "en": "",
-   "term": "null"
+   "en": "A detailed scroll on learning skills and magic, said to{n}contain many secret teachings. Grants 1{n}Learning Point.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0217",
    "jp": "{F4FC}{F45D}地{F47E}の高度な使役{F4F3}が記{F47C}{n}魔導書。{F4FC}{F46A}{F42F}{n}アースクエイク{F429}",
-   "en": "",
-   "term": "null"
+   "en": "A grimoire on the earth's structure and advanced{n}control of earth spirits. Deepens knowledge of the{n}earth. Enables Earthquake (learning begins).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0218",
    "jp": "星界{F45D}隕石の召喚{F4F3}が記{F47C}魔導書{F4BA}星界{F46A}{F42F}{n}メテオ修得を可能（修得開始状態{F4AE}）",
-   "en": "",
-   "term": "null"
+   "en": "A grimoire on the astral realm's structure and{n}summoning meteors. Deepens knowledge of that realm.{n}Enables Meteor (learning begins).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0219",
    "jp": "人体{F45D}生命の秘密{F46A}記{F47C}魔導書{F4BA}治癒能力{F46A}{F42F}{n}グローヒーリング{F429}",
-   "en": "",
-   "term": "null"
+   "en": "A grimoire on anatomy and life's secrets. Deepens{n}knowledge of healing. Enables Grow Healing{n}(learning begins).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0220",
    "jp": "マヒ毒{F433}{F46A}{F43D}{n}マヒ毒{F432}{F434}マヒ無効{F429}",
-   "en": "",
-   "term": "null"
+   "en": "A scroll on paralytic poison's effects and antidotes,{n}and how to make the body immune. Enables Paralysis{n}Immunity (learning begins).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0221",
    "jp": "石化毒{F433}{F46A}{F43D}{n}石化毒{F432}{F434}石化無効{F429}",
-   "en": "",
-   "term": "null"
+   "en": "A scroll on petrifying poison's effects and antidotes,{n}and how to make the body immune. Enables Petrify{n}Immunity (learning begins).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0222",
    "jp": "即死{F47D}{F4E2}{F4EE}{F4BF}回避法{F46A}{F43D}{n}即死{F489}{F4A7}{F4BD}{F4F3}{F4E3}{F434}デス無効{F429}",
-   "en": "",
-   "term": "null"
+   "en": "A scroll on instant-death magic's effects and how to{n}avoid it, teaching how to nullify it. Enables Death{n}Immunity (learning begins).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0223",
    "jp": "{F4D5}の{F4C3}を見切{F4DC}反撃を{F4BD}{F4F3}{F46A}{n}{F43D}{n}{F45A}{F425}",
-   "en": "",
-   "term": "null"
+   "en": "A scroll on reading an enemy's attacks and striking{n}back. Raises Counter's rank (grants rank 1{n}if unlearned).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0224",
    "jp": "{F4C3}{F4D3}反動を利用{F4B1}{F4AC}連続{F4C3}を行う{n}{F4F3}が{F43D}{n}連続{F4C3}{F425}",
-   "en": "",
-   "term": "null"
+   "en": "A scroll on using an attack's recoil for rapid successive{n}strikes. Raises Chain Attack's rank (grants rank 1{n}if unlearned).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0225",
    "jp": "{F4E9}の扱いに習熟{F4BD}{F4BB}{F4C1}そばにいる全ての敵{F4C9}{F49D}{F4C3}をしか{F4DE}{F4F3}{F4BE}{F43D}{n}全周囲{F4C3}{F425}",
-   "en": "",
-   "term": "null"
+   "en": "A scroll on mastering weapons to strike every nearby{n}enemy. Raises Whirlwind Attack's rank (grants rank 1{n}if unlearned).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0226",
    "jp": "人体の{F431}{n}生命{F4C2}{F426}{n}ＨＰアップ{F425}",
-   "en": "",
-   "term": "null"
+   "en": "A scroll on the body's workings and secret ways to{n}boost vitality. Raises HP Up's rank (grants rank 1{n}if unlearned).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0227",
    "jp": "心の{F431}{n}{F4F9}{F4C2}{F426}{n}ＭＰアップ{F425}",
-   "en": "",
-   "term": "null"
+   "en": "A scroll on the mind's workings and secret ways to{n}boost mental strength. Raises MP Up's rank (grants{n}rank 1 if unlearned).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0228",
    "jp": "{F44F}{F46A}の理解を深める{F4BB}{F4C1}{F48A}{n}{F491}、秘伝の法が{F43D}{n}{F4FD}アップ{F425}",
-   "en": "",
-   "term": "null"
+   "en": "A scroll on secret ways to boost magic through deeper{n}knowledge of Grosh. Raises Magic Power Up's rank{n}(grants rank 1 if unlearned).",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0229",
    "jp": "{F41D}１{F428}",
-   "en": "",
-   "term": "null"
+   "en": "A magic coin that develops new powers in Tippi, a{n}homunculus of limitless potential. Her face is embossed{n}on the front, and the number 1 on the back.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0230",
    "jp": "{F41D}２{F428}",
-   "en": "",
-   "term": "null"
+   "en": "A magic coin that develops new powers in Tippi, a{n}homunculus of limitless potential. Her face is embossed{n}on the front, and the number 2 on the back.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0231",
    "jp": "{F41D}３{F428}",
-   "en": "",
-   "term": "null"
+   "en": "A magic coin that develops new powers in Tippi, a{n}homunculus of limitless potential. Her face is embossed{n}on the front, and the number 3 on the back.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0232",
    "jp": "{F41D}４{F428}",
-   "en": "",
-   "term": "null"
+   "en": "A magic coin that develops new powers in Tippi, a{n}homunculus of limitless potential. Her face is embossed{n}on the front, and the number 4 on the back.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0233",
    "jp": "{F41D}５{F428}",
-   "en": "",
-   "term": "null"
+   "en": "A magic coin that develops new powers in Tippi, a{n}homunculus of limitless potential. Her face is embossed{n}on the front, and the number 5 on the back.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0234",
    "jp": "{F41D}６{F428}",
-   "en": "",
-   "term": "null"
+   "en": "A magic coin that develops new powers in Tippi, a{n}homunculus of limitless potential. Her face is embossed{n}on the front, and the number 6 on the back.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0235",
    "jp": "{F41D}７{F428}",
-   "en": "",
-   "term": "null"
+   "en": "A magic coin that develops new powers in Tippi, a{n}homunculus of limitless potential. Her face is embossed{n}on the front, and the number 7 on the back.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0236",
@@ -1430,236 +1655,275 @@
   {
    "id": "msys.items.0237",
    "jp": "{F401}",
-   "en": "",
-   "term": "null"
+   "en": "A magical, self-playing instrument fairies used for{n}moonlit dances. It is said to play many different tunes,{n}but no one knows how to use it.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0238",
    "jp": "{F402}",
-   "en": "",
-   "term": "null"
+   "en": "A mysterious ring entrusted to you by Sierra on the{n}cape west of Rolandia's capital. It holds{n}powerful magic.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0239",
    "jp": "{F403}",
-   "en": "",
-   "term": "null"
+   "en": "A magic device Sandra made for Wallace, the blind{n}swordsman. Worn like goggles, it is said to let him make{n}out objects' silhouettes.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0240",
    "jp": "{F404}",
-   "en": "",
-   "term": "null"
+   "en": "Research notes by Sandra, Rolandia's Court Magician,{n}recording experimental results on the relationship{n}between Grosh and magic crystals.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0241",
    "jp": "{F4D1}学院５階に{F4C4}重要図書閲覧室{F4C1}{n}{F44E}関係の書籍を閲覧{F4BD}許可証。",
-   "en": "",
-   "term": "null"
+   "en": "A permit to read books on Featherians in the{n}restricted reading room on the Magic Academy's{n}fifth floor.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0242",
    "jp": "{F406}",
-   "en": "",
-   "term": "null"
+   "en": "The prize for winning the Freshman division of the{n}tournament in Grancil. Take it to the Magic Academy to{n}receive a travel permit.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0243",
    "jp": "色とりど{F4F0}花で飾{F484}花束{F4BA}女性へのプレゼント{F47B}、{F48E}人気が{F4C4}。",
-   "en": "",
-   "term": "null"
+   "en": "A bouquet of colorful flowers. A very popular gift{n}for women.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0244",
    "jp": "{F4D0}ペンダントに誓いを立てる{F4EE}{n}誓いを達成{F4BC}時{F4D7}望みが叶え{F47F}と{n}信じ{F4EC}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "It is believed that if you swear an oath on this{n}pendant, your wish will come true when you fulfill{n}that oath.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0245",
    "jp": "{F44E}が{F48C}、{F467}毒を{F4F2}{F4BD}飲み薬{F4BA}パナシアでも解毒{F46D}新種の毒に{F49D}も{F4C0}{F495}{F4E2}を発揮{F4BD}。",
-   "en": "",
-   "term": "null"
+   "en": "An oral remedy made by Featherians to neutralize all{n}poisons. Highly effective even against new poisons{n}that Panacea cannot cure.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0246",
    "jp": "ミーシャが一生懸命つく{F4CF}花冠{F4BA}ちょっと不細工な作りだ{F4BE}愛情がこも{F4D4}い{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "A flower crown Misha worked hard to make. A little{n}clumsy in its construction, but full of love.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0247",
    "jp": "ブレーム火山の火口付近に生息{F4BD}、多年草{F4BA}硫黄ガスが吹き出す{F4C8}な場所を好む{F4C5}{F4C0}採取{F4BD}{F483}{F48E}危険がつきまとう。",
-   "en": "",
-   "term": "null"
+   "en": "A perennial herb found near Brehm Volcano's crater. It{n}favors places where sulfurous gas escapes, making it{n}extremely dangerous to gather.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0248",
    "jp": "クリアノ草を材料に{F4CE}{F45F}、透明{F4AE}薬{F4BA}{F4D0}緑色の液体を飲めば、{F440}{n}服用{F4EA}身体を見えなく{F4BD}{F479}。",
-   "en": "",
-   "term": "null"
+   "en": "A green invisibility potion made from Kuriano Herb.{n}Drinking it is said to make the user's body invisible for{n}a short time.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0249",
    "jp": "迷いの森の起動{F4FE}を護る{F4C5}に{F45F}マスター・{n}ガーディアンの、再生制御{F4FE}を稼働{F48B}カギ{F4BA}{F4FE}を動かせば、再生機能の停止命令が可能。",
-   "en": "",
-   "term": "null"
+   "en": "A key to the regeneration controls of the Master{n}Guardian built to protect the Lost Forest's{n}activation device.{p}Operating the controls allows its regeneration to{n}be disabled.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0250",
    "jp": "{F42B}息子が愛用{F4CE}{F4CD}{n}小型のナイフ。{F4E9}{F479}{F4DF}も、{F490}{F47B}{n}扱{F4F8}{F499}。",
-   "en": "",
-   "term": "null"
+   "en": "A small knife treasured by the son of Zemekis, chief of{n}Crane Village. He treated it more as a good luck charm{n}than a weapon.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0251",
    "jp": "水晶鉱山{F4C7}採掘{F486}、{F44F}を含{F4ED}{n}魔水晶のかけら。短時間であ{F485}大型の魔導{F4FE}{F4CA}動かす{F4BB}も{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "A shard of magic crystal containing Grosh, mined from{n}the Crystal Mine. It can power even large magical{n}devices for a short time.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0252",
    "jp": "ホールで殺{F4D6}{F499}男が{F4FA}持{F4D4}{F4CD}{F4C0}ルビーで{F45F}赤いピアス。",
-   "en": "",
-   "term": "null"
+   "en": "A red ruby earring held by the man found murdered in{n}the hall.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0253",
    "jp": "ホムンクルス{F442}妨害{F4BD}{F417}{F4BA}{F448}{F485}ティピ{F442}{n}傍受{F486}{F4BB}が{F4D8}。",
-   "en": "",
-   "term": "null"
+   "en": "An item that disrupts homunculus telepathy. Carrying it{n}prevents anyone from intercepting Tippi's{n}telepathic messages.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0254",
    "jp": "{F44F}が長い間、{F4FC}にしみこんで出来{F4E5}{n}淡い光{F49A}土{F4BA}呪いを解く身代わり人形の材料に使{F4F8}{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "Faintly glowing soil formed as Grosh seeped into the{n}earth over many years. Used to make Substitute{n}Dolls, which lift curses.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0255",
    "jp": "長{F4EF}しなやかなカレンの金髪{F4BA}{F4FA}{F4FF}{F4EE}かすかに花の香りがただ{F4C8}。",
-   "en": "",
-   "term": "null"
+   "en": "Karen's long, supple blond hair. Holding it releases a{n}faint floral scent.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0256",
    "jp": "オペレーターの意志を読みと{F4DC}任意の場所へ{n}影響を与え{F4EC}{F4D8}パワーストーンに指向性{F4CA}{F496}{F4C5}の{F4FE}。{F44E}の科学技術{F487}。",
-   "en": "",
-   "term": "null"
+   "en": "A device that reads the operator's will to direct a{n}Power Stone's effects at a chosen location, which the{n}stone alone cannot do. Featherian technology.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0257",
    "jp": "{F405}",
-   "en": "",
-   "term": "null"
+   "en": "A permit to enter the Featherian ruins south of the{n}Magic Academy. Issued by the Magic Academy, which{n}oversees the site.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0258",
    "jp": "{F43B}に{F4C4}、コムスプリングスへ{F4CB}通行許可証{F4BA}{F4D1}学院が発行{F4BC}{F4E4}。",
-   "en": "",
-   "term": "null"
+   "en": "A travel permit for Comsprings in Burnstein, issued by{n}the Magic Academy.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0259",
    "jp": "{F407}",
-   "en": "",
-   "term": "null"
+   "en": "A commercial permit for Ranzak. Allows its holder to{n}peddle goods within Galashiels.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0260",
    "jp": "{F408}",
-   "en": "",
-   "term": "null"
+   "en": "A travel permit issued by Ranzak's government to{n}Rolandia's envoys bound for it. Allows passage as far as{n}Ranzak's capital.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0261",
    "jp": "{F409}{n}マクスウェル学院長が発行{F4BC}。",
-   "en": "",
-   "term": "null"
+   "en": "A permit to inspect the Crystal Mine, approved by the{n}Magic Academy that manages it. Issued by{n}Headmaster Maxwell.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0262",
    "jp": "{F40A}",
-   "en": "",
-   "term": "null"
+   "en": "A permit to cross Lord Douglas's lands in northern{n}Burnstein. Used to pass the checkpoint east of{n}Lake Olivier.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0263",
    "jp": "水晶鉱山への立入許可を受け{F47F}{F4C8}{F4D7}{n}{F43A}がマクスウェル学院長に宛てた{n}依頼書。",
-   "en": "",
-   "term": "null"
+   "en": "A letter from King Alcadius to Headmaster Maxwell,{n}requesting permission to enter the Crystal Mine.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0264",
    "jp": "ラージン砦の司令官、ブロンソン将軍{F4BE}{n}{F43A}に宛てた書簡。防戦の{F4C5}{F4CB}援軍要請{F46A}記{F4D6}{F45E}",
-   "en": "",
-   "term": "null"
+   "en": "A letter from General Bronson, commander of Fort{n}Rajin, to King Alcadius. It requests reinforcements for{n}the defense.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0265",
    "jp": "{F43A}が{F458}王へ宛てた書簡{F4BA}{F448}{F485}特使{F47B}{n}{F458}王城へ入城{F47A}。",
-   "en": "",
-   "term": "null"
+   "en": "A letter from King Alcadius to the King of Ranzak.{n}Allows its bearer to enter Ranzak's royal castle as a{n}special envoy.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0266",
    "jp": "{F43A}{F4C7}の同盟要請の返答{F47B}{F4C0}{F458}王が{F4BC}{F4C5}た書簡。",
-   "en": "",
-   "term": "null"
+   "en": "A letter written by the King of Ranzak in reply to King{n}Alcadius's request for an alliance.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0267",
    "jp": "ルイセの実習が終了{F4BC}{F4BB}を証明{F4BD}書状{F4BA}学院長か副学院長に渡せば、あとは卒業研究{F4CA}残すだけ{F4AE}。",
-   "en": "",
-   "term": "null"
+   "en": "Certifies Luise completed her practical training. Give it{n}to the headmaster or vice-headmaster; only her{n}graduation research will remain.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0268",
    "jp": "ヴェンツェルが{F4BC}{F4C5}{F4E5}エリオットをかくまい{F4C0}今まで育てた{F4BB}を王母アンジェラに伝える{F4C5}{F4CB}手紙。",
-   "en": "",
-   "term": "null"
+   "en": "Wenzel's letter to Queen Mother Angela, telling her he{n}has sheltered and raised Elliot all this time.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0269",
    "jp": "{F443}ジュリアン{F444}{n}エリオットの{F4BB}が詳しく記{F4D6}{F480}、偽王{F487}{n}リシャールを討つ{F4C8}、協{F4C2}頼んでい{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "Lord Douglas's letter to Julian. It details Elliot's{n}circumstances and asks for help defeating Richard, the{n}false king.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0270",
    "jp": "{F443}娘{F487}ジュリア{F444}{n}記{F47C}内容ま{F4B0}わ{F4C7}{F4D8}。",
-   "en": "",
-   "term": "null"
+   "en": "A letter from Lord Douglas to his daughter Julia. Its{n}contents are unknown.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0271",
    "jp": "{F423}１{F42C}",
-   "en": "",
-   "term": "null"
+   "en": "A cell key obtained after defeating Gamlan's men. The{n}number '1' is engraved on its surface.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0272",
    "jp": "{F423}３{F42C}",
-   "en": "",
-   "term": "null"
+   "en": "A cell key obtained after defeating Gamlan's men. The{n}number '3' is engraved on its surface.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0273",
    "jp": "時空制御{F4FE}を稼働状態に{F4BD}{F4C5}に必要な{F417}{F4BA}時空の歪みエネルギーを吸収{F4BD}{F4E8}{F4C4}。",
-   "en": "",
-   "term": "null"
+   "en": "Needed to activate the space-time control device. It can{n}absorb energy from distortions in space-time.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0274",
    "jp": "{F43A}が公務{F47B}通行を許可{F4BC}証{F4BA}水晶鉱山の採掘を行{F4D4}いるヴァルミエまで{n}通行出来{F4CC}",
-   "en": "",
-   "term": "null"
+   "en": "King Alcadius's permit for passage on official business.{n}Grants access to Valmier, where crystals are mined.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0275",
    "jp": "ヒ・ミ・ツ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "null"
+   "en": "It's a se-cret{FFF0}♥{FFF1}",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "msys.items.0276",

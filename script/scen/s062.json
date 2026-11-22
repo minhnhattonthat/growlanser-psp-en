@@ -15,74 +15,86 @@
   {
    "id": "scen062.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen062.0002",
    "jp": "魔術師",
-   "en": "",
-   "term": "null"
+   "en": "Mage",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen062.0003",
    "jp": "看守",
-   "en": "",
-   "term": "null"
+   "en": "Jailer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen062.0004",
    "jp": "調理人",
-   "en": "",
-   "term": "null"
+   "en": "Cook",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen062.0005",
    "jp": "バーンシュタイン王城",
-   "en": "",
-   "term": "end"
+   "en": "Burnstein Royal Castle",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0006",
    "jp": "申し訳ございません。{n}ここから先へはお通しできません。{n}お戻り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "My apologies. I cannot let you pass beyond this point.{n}Please turn back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0007",
    "jp": "お疲れさまです。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you for your hard work.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0008",
    "jp": "申し訳ございませんが、{n}ここはお通しできません。",
-   "en": "",
-   "term": "end"
+   "en": "My apologies, but I cannot let you through here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0009",
    "jp": "もう少し早く駆けつけられれば、{n}私も手を貸せたのだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "If only I had arrived a little sooner, I could{n}have helped...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0010",
    "jp": "‥‥私はナイツの名にかけて、市民を守る‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...On my honor as an Imperial Knight, I will protect{n}the citizens...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0011",
    "jp": "君たちには頭が上がらないよ。",
-   "en": "",
-   "term": "end"
+   "en": "I am deeply in your debt.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0012",
    "jp": "後はゲヴェルをなんとかしないとな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Now we must do something about Gevel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0013",
@@ -93,292 +105,340 @@
   {
    "id": "scen062.0014",
    "jp": "これでゲヴェルの脅威が去った。{n}また元のような平和な世界になるな。",
-   "en": "",
-   "term": "end"
+   "en": "The threat of Gevel is gone. The world will be peaceful{n}again, as it once was.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0015",
    "jp": "私の力が必要か？",
-   "en": "",
-   "term": "end"
+   "en": "Do you need my help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0016",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "",
-   "term": "end"
+   "en": "But that would be too many of us. Someone will have to{n}leave the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0017",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will leave the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0018",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen062.0019",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen062.0020",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve {s:FFED}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0021",
    "jp": "　{n}　　　　{FFEF}ジュリアンが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Julian joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0022",
    "jp": "頼りにしてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "You can count on me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0023",
    "jp": "早く平和を取り戻したい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I hope we can restore peace soon...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0024",
    "jp": "これ以上、国民に不安を与えてはおけぬ。{n}早急に事態を解決せねば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We cannot let our people live in fear any longer. We{n}must resolve this swiftly...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0025",
    "jp": "いろいろとありがとうございました。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you for everything.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0026",
    "jp": "あのゲヴェルを倒すなんて、{n}さすが僕が認めた人ですね。",
-   "en": "",
-   "term": "end"
+   "en": "You defeated Gevel himself. I knew I was right to{n}believe in you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0027",
    "jp": "ねぇ、エリオット！{n}地下牢にリシャールがいないんだけど、{n}どうしちゃったの？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, Elliot! Richard isn't in the dungeon. What{n}happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0028",
    "jp": "衛兵とおぼしき奴も死んでいたぞ。",
-   "en": "",
-   "term": "end"
+   "en": "There was a dead man who looked like a guard, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0029",
    "jp": "えっ！{n}それは一体‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What?! What could have...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0030",
    "jp": "陛下！{n}お取り込み中のところ、申し訳ありません。",
-   "en": "",
-   "term": "end"
+   "en": "Your Majesty! Forgive me for interrupting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0031",
    "jp": "どうしました？",
-   "en": "",
-   "term": "end"
+   "en": "What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0032",
    "jp": "実は、ライエルがどこにも見あたらないのです。",
-   "en": "",
-   "term": "end"
+   "en": "We cannot find Lyell anywhere.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0033",
    "jp": "えっ！？{n}ライエルまで？",
-   "en": "",
-   "term": "end"
+   "en": "What?! Lyell too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0034",
    "jp": "‥‥？{n}他にも誰か‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...? Is someone else missing...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0035",
    "jp": "地下牢にいた、リシャールもいないんです。",
-   "en": "",
-   "term": "end"
+   "en": "Richard is missing from the dungeon as well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0036",
    "jp": "何だって？",
-   "en": "",
-   "term": "end"
+   "en": "What?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0037",
    "jp": "ヴェンツェルを倒すのに{n}リシャールが必要だっていうのに！",
-   "en": "",
-   "term": "end"
+   "en": "But we need Richard to defeat Wenzel!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0038",
    "jp": "‥‥何があったのでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "...What could have happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0039",
    "jp": "私が調査して参ります。{n}よろしいでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "I shall investigate. Do I have your permission?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0040",
    "jp": "そうですね。{n}よろしくお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "Yes. Please do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0041",
    "jp": "はっ！",
-   "en": "",
-   "term": "end"
+   "en": "Yes, Your Majesty!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0042",
    "jp": "嫌な予感がするぜ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I've got a bad feeling about this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0043",
    "jp": "何事もなければ良いのですが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I hope nothing is wrong...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0044",
    "jp": "リシャールとライエルがいないそうですね。{n}先ほどリーヴスから報告を受けました‥‥。{n}何事もなければ良いのですが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I hear that Richard and Lyell are missing. Reeves{n}reported it to me a little while ago... I hope nothing{n}is wrong...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0045",
    "jp": "僕の力が必要ですか？",
-   "en": "",
-   "term": "end"
+   "en": "Do you need my help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0046",
    "jp": "　{n}　　　　{FFEF}エリオットが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Elliot joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0047",
    "jp": "はりきって行きましょう！",
-   "en": "",
-   "term": "end"
+   "en": "Let's give it our all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0048",
    "jp": "はやくゲヴェルを倒して、{n}平和な世界を作りたいですね。",
-   "en": "",
-   "term": "end"
+   "en": "I hope we can defeat Gevel soon and make the{n}world peaceful.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0049",
    "jp": "‥‥いったい、いつになったら{n}平和な世界が来るのでしょう？",
-   "en": "",
-   "term": "end"
+   "en": "...When will the world finally know peace?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0050",
    "jp": "申し訳ございません。{n}ここから先へはお通しできません。",
-   "en": "",
-   "term": "end"
+   "en": "My apologies. I cannot allow you to pass.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0051",
    "jp": "ここへは入れません。{n}お戻り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "You cannot enter here. Please turn back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0052",
    "jp": "これは、エリオット陛下。{n}ご機嫌うるわしゅう。",
-   "en": "",
-   "term": "end"
+   "en": "Your Majesty, King Elliot. I trust you are well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0053",
    "jp": "この城の至る所には{n}魔法を防ぐような仕掛けがしてあります。{p}回復魔法などなら大丈夫ですが、{n}強い魔力を感知すると、{n}かき消されてしまうことがあります。",
-   "en": "",
-   "term": "end"
+   "en": "There are mechanisms throughout this castle that{n}ward off magic.{p}Healing spells and the like are safe, but when these{n}mechanisms detect powerful magic, they may dispel it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0054",
    "jp": "申し訳ございません。{n}お戻り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "My apologies. Please turn back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0055",
    "jp": "扉には鍵がかかっている。{n}どうやら入れないようだ。",
-   "en": "",
-   "term": "end"
+   "en": "The door is locked. There seems to be no way in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0056",
    "jp": "ここから先へはお通しできません。{n}お戻り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "I cannot allow you to pass. Please turn back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0057",
    "jp": "　{n}　　　　　　　鍵がかかっている！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　It's locked!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0058",
    "jp": "ここは兵士の待機室ですよ。",
-   "en": "",
-   "term": "end"
+   "en": "This is where the soldiers wait for duty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0059",
    "jp": "もう少しで交替か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Nearly time for the next shift...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0060",
    "jp": "ここはお客様用の待合室です。{n}といっても、あなた方には必要ありませんよね。{p}あなた方は特別待遇ですから。",
-   "en": "",
-   "term": "end"
+   "en": "This is the waiting room for visitors. Though you have{n}no need of it, of course.{p}You receive special treatment, after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0061",
    "jp": "異常はありません。",
-   "en": "",
-   "term": "end"
+   "en": "Nothing out of the ordinary.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0062",
@@ -425,16 +485,18 @@
   {
    "id": "scen062.0069",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen062.0070",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen062.0071",
@@ -469,20 +531,23 @@
   {
    "id": "scen062.0076",
    "jp": "{FFF3}{FFF6}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{FFF6}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0077",
    "jp": "{v:003F}元気ないわね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Not looking too lively, huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0078",
    "jp": "{v:0040}ゲヴェルが死んじまったせいだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Probably because Gevel's dead.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0079",
@@ -543,9 +608,10 @@
   {
    "id": "scen062.0088",
    "jp": "・ルイセのおかげ",
-   "en": "",
+   "en": "・It's all thanks to Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen062.0089",
@@ -557,9 +623,10 @@
   {
    "id": "scen062.0090",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen062.0091",
@@ -614,9 +681,10 @@
   {
    "id": "scen062.0099",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen062.0100",
@@ -663,38 +731,44 @@
   {
    "id": "scen062.0107",
    "jp": "‥‥何だ‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...What is it...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0108",
    "jp": "料理は盛りつけまでが芸術なんだ。",
-   "en": "",
-   "term": "end"
+   "en": "Cooking is an art, right down to how you arrange it on{n}the plate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0109",
    "jp": "ふんふん♪{n}オイラは～、お城の～♪{n}おかかえ、コック～♪",
-   "en": "",
-   "term": "end"
+   "en": "Hmm-hmm♪ I'm the castle's♪ Very own cook♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0110",
    "jp": "早く焼けないかしら？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder if it'll be done baking soon.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0111",
    "jp": "エリオットをよろしくお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "Please take good care of Elliot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0112",
    "jp": "他人の国へ来ているんだぞ。{n}礼儀を重んじるのも騎士のつとめだ。{p}テレポートを使いたいなら、{n}城の外へ出てからにしろ。",
-   "en": "",
-   "term": "end"
+   "en": "You're a guest in another country. Showing proper{n}courtesy is part of a knight's duty.{p}If you want to use Teleport, leave the castle first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen062.0113",

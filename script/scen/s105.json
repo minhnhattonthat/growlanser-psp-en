@@ -15,20 +15,23 @@
   {
    "id": "scen105.0001",
    "jp": "道標",
-   "en": "",
-   "term": "null"
+   "en": "Signpost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen105.0002",
    "jp": "盗賊",
-   "en": "",
-   "term": "null"
+   "en": "Bandit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen105.0003",
    "jp": "ランザック兵",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen105.0004",
@@ -39,341 +42,397 @@
   {
    "id": "scen105.0005",
    "jp": "なんだったんだろう、この人たち‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What was with those people...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0006",
    "jp": "どうせ、さっき戦ったグレンガルの手下でしょ？{n}これも世のため人のため。{n}ザコはそういう運命をたどるのよ。",
-   "en": "",
-   "term": "end"
+   "en": "Probably henchmen of that Grengal we just fought,{n}right? We're doing the world a favor. That's just how it{n}ends for small fry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0007",
    "jp": "くそっ！{n}ランザックの追っ手か！？{p}野郎ども、やっちまえ！",
-   "en": "",
-   "term": "end"
+   "en": "Damn! Ranzak's sent men after us?!{p}Get 'em, boys!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0008",
    "jp": "一度、みんなのところへ戻りましょ！",
-   "en": "",
-   "term": "end"
+   "en": "Let's head back to the others for now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0009",
    "jp": "　{n}　　　　　　この先、ランザック王都",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　Ranzak Royal Capital ahead",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0010",
    "jp": "ジュリアンの事は、そっとしておこうよ。{n}それより、みんなの所に戻ろ？",
-   "en": "",
-   "term": "end"
+   "en": "Let's leave Julian alone. Come on, let's go back to{n}the others.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0011",
    "jp": "ねぇ、ジュリアンのこと、放っておいてもいいの？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, are you sure we should just leave Julian alone?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0012",
    "jp": "{v:004E}待ちなさいよ、ジュリアン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Hold it, Julian!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0013",
    "jp": "‥‥{v:004F}くっ！{n}やはり逃げ切れんか‥‥。{p}{v:0050}ならば！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004F}Gah! So I cannot escape you...{p}{v:0050}Then I must fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0014",
    "jp": "{v:0051}そんな体でやりあって、勝てると思うの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}You think you can win a fight in that condition?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0015",
    "jp": "{v:0052}例え勝てずとも‥せめて相打ちに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Even if I cannot win... I can at least take you with me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0016",
    "jp": "{v:0053}バカ！{FFF9}{FFFB}{n}{v:0054}自分が何言ってるかわかってるの？{FFF9}{FFFB}{n}{v:0055}それにコイツがそんなこと望むと思ってんの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}You idiot!{FFF9}{FFFB} {v:0054}Do you even hear what you're saying?!{FFF9}{FFFB} {v:0055}And{n}do you really think this guy wants that?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0017",
    "jp": "{FFF6}{FFF3}{v:0056}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{FFF3}{v:0056}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0018",
    "jp": "{FFF3}‥‥{FFF4}{v:0057}なぜだ{FFF3}‥‥。{p}{FFF4}{v:0058}なぜお前は私の前に現れた！？{n}なぜお前は敵なのだ！？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FFF4}{v:0057}Why{FFF3}...?{p}{FFF4}{v:0058}Why did you have to come into my life?! Why must you{n}be my enemy?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0019",
    "jp": "どう答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0020",
    "jp": "・辛いのはジュリアンだけじゃない",
-   "en": "",
+   "en": "・Julian isn't the only one hurting",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen105.0021",
    "jp": "・全て戦争のせい",
-   "en": "",
+   "en": "・The war is to blame for everything",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen105.0022",
    "jp": "・全ては運命",
-   "en": "",
+   "en": "・It's all fate",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen105.0023",
    "jp": "{v:0059}そうよ。{n}辛いのはアンタだけじゃないんだから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}That's right! You're not the only one hurting, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0024",
    "jp": "{v:005A}戦争が‥‥戦争が全てを狂わせてしまった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}The war... The war has twisted everything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0025",
    "jp": "{v:005B}運命か‥‥。{FFF9}{FFFB}{n}{v:005C}その一言で片づけられれば、どんなに楽だろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Fate...{FFF9}{FFFB} {v:005C}How easy it would be if that one word could{n}explain it all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0026",
    "jp": "{v:005D}ジュリアン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Julian...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0027",
    "jp": "‥‥{v:005E}どうしてこんな時代に生まれてしまったのだろう。{n}別の時代に生まれていれば、{n}私は女として生きてゆけたはず。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005E}Why did I have to be born in an age like this? Had I{n}been born in another time, I could have lived as{n}a woman.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0028",
    "jp": "{v:005F}そうすれば、こんな辛い思いをしなくてすんだ。{n}誰もが苦しまずにすんだ‥‥。{p}{FC02}{v:0060}だが私はインペリアル・ナイトだ。{n}バーンシュタイン王国のために、{n}私情を捨てねばならない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Then I would never have had to suffer like this. None of{n}us would have...{p}{FC02}{v:0060}But I am an Imperial Knight. For the Kingdom of{n}Burnstein, I must put aside my personal feelings.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0029",
    "jp": "{FFF3}‥{FE14}‥{FE14}{v:0061}{FFF4}追えないよね、やっぱり{FFF9}{FFF3}‥{FE14}‥{FE14}。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FE14}...{FE14}{v:0061}{FFF4}We really can't go after her, can we{FFF9}{FFF3}...{FE14}...{FE14}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0030",
    "jp": "{v:0043}終わったみたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Looks like it's over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0031",
    "jp": "{v:0044}改めて礼を言おう。{FFF9}{FFFB}{n}{v:0045}君たちのおかげで王都の民が救われた。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Allow me to thank you again.{FFF9}{FFFB} {v:0045}Thanks to you, the{n}people of the royal capital are safe.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0032",
    "jp": "{v:0046}でも、街が占領されたままなんでしょう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}But the city's still occupied, isn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0033",
    "jp": "{v:0047}ああ。{n}だがガラシールズを取り戻すのは、我々の仕事だ。{p}{v:0048}急いで攻め込んで、街の民を危険にさらしたくはない。{n}ゆっくりと持久戦に持ち込む。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Yes. But retaking Galashiels is our responsibility.{p}{v:0048}I will not endanger its people with a hasty assault. We{n}will take our time and wear the enemy down.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0034",
    "jp": "{v:0049}そうか。{p}{v:004A}また困った事があったら、いつでも呼んでくれ。{n}力になる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}I see.{p}{v:004A}If you're in trouble again, just call. We'll lend a hand.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0035",
    "jp": "{v:004B}すまんな、ウォレス。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}I appreciate it, Wallace.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0036",
    "jp": "{v:004C}俺とお前の仲だ。{n}気にするな。{p}{v:004D}よし。{n}元の任務に戻ろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}After all we've been through? Think nothing of it.{p}{v:004D}All right. Back to our mission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0037",
    "jp": "{v:0013}将軍！{n}敵と接触しました！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}General! We've made contact with the enemy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0038",
    "jp": "{v:0014}うむ。{p}{v:0015}ガラシールズが陥とされた以上、{n}ローザリアの援軍は到着しない。{n}我々の負けはランザック王国の敗北を意味する。{p}{v:0016}ここで食いとめるぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Very well.{p}{v:0015}With Galashiels fallen, the reinforcements from Rosaria{n}will not arrive. If we lose, the Kingdom of Ranzak falls{n}with us.{p}{v:0016}We will stop them here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0039",
    "jp": "{v:0017}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0040",
    "jp": "{v:0018}ランザック軍です！{n}接触しました！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}It's the Ranzak army! We've made contact!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0041",
    "jp": "{v:0019}将軍の手をわずらわせる必要はない。{n}我々だけで連中を倒すぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}No need to trouble the General. We'll defeat{n}them ourselves.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0042",
    "jp": "{v:001A}了解！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Understood!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0043",
    "jp": "{v:001B}戦端が開かれたのか！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Has the fighting begun?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0044",
    "jp": "{v:001C}そうみたい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Looks like it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0045",
    "jp": "{v:001D}アタシたちも戦いましょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Let's get in there and fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0046",
    "jp": "はいはい、そこまで～。{n}ちゃんとみんなの所に戻りましょ～ね。",
-   "en": "",
-   "term": "end"
+   "en": "All right, all riiight, that's far enough! Back to the{n}others we go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0047",
    "jp": "{v:003F}ここは我々に任せて、君は奴を追うんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Leave this to us. You go after that one.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0048",
    "jp": "インペリアル・ナイトはどうなったんだ？",
-   "en": "",
-   "term": "end"
+   "en": "What happened to the Imperial Knight?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0049",
    "jp": "{FB00}えっと‥‥その‥‥。{n}逃げられちゃった‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}Um... Well... The Imperial Knight got away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0050",
    "jp": "‥‥そうか。{p}ま、ガラシールズにいることは間違いないだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "...I see.{p}Well, the Imperial Knight is bound to be in Galashiels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0051",
    "jp": "{v:0049}そうか。{FFF9}{FFFB}{n}{v:004A}また困った事があったら、いつでも呼んでくれ。{n}力になる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}I see.{FFF9}{FFFB} {v:004A}If you're in trouble again, just call. We'll lend{n}a hand.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0052",
    "jp": "やったな。",
-   "en": "",
-   "term": "end"
+   "en": "We did it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0053",
    "jp": "大丈夫、お兄ちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "Are you all right, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0054",
    "jp": "はあ～‥‥、怖かった～。",
-   "en": "",
-   "term": "end"
+   "en": "Ahhh... That was so scary...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0055",
    "jp": "ふう‥‥。{n}何とか退けられたな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Whew... We managed to drive them back...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0056",
    "jp": "危ないところでしたね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "That was a close call...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0057",
    "jp": "ふぅ～。{n}助かった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Phew... We're safe...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0058",
    "jp": "やったぞ！{n}王都を守りきったぞ！",
-   "en": "",
-   "term": "end"
+   "en": "We did it! We defended the royal capital!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0059",
    "jp": "まさかインペリアル・ナイトを退かせるとは‥‥。{n}そんな人がこの大陸にいるとは、思いませんでした。",
-   "en": "",
-   "term": "end"
+   "en": "To think you drove back an Imperial Knight... I never{n}imagined anyone on this continent could do that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen105.0060",
    "jp": "ありがとうございました。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

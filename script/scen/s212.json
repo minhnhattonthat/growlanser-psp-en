@@ -15,50 +15,58 @@
   {
    "id": "scen212.0001",
    "jp": "{FFEE}クリアノ草を採取しろ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Gather the Kuriano Herb!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0002",
    "jp": "あぁ‥‥{n}クリアノ草を持っていたのに、{n}やられちゃうなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh... We already had the Kuriano Herb, and we still{n}got beaten...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0003",
    "jp": "なんだか倒しても倒しても{n}きりがないよ！",
-   "en": "",
-   "term": "end"
+   "en": "No matter how many we beat, they just keep coming!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0004",
    "jp": "どういうことだ？{n}これじゃいくら倒しても、きりがねぇぞ！",
-   "en": "",
-   "term": "end"
+   "en": "What's going on? There's no end to these things, no{n}matter how many we kill!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0005",
    "jp": "うん、アタシもそう思ってた。{n}だから、さっさと脱出しようよ！",
-   "en": "",
-   "term": "end"
+   "en": "Yeah, I was thinking that too. So let's hurry up and get{n}out of here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0006",
    "jp": "うん、アタシもそう思ってた。{n}さっさとあの草を取って、脱出しようよ。",
-   "en": "",
-   "term": "end"
+   "en": "Yeah, I was thinking that too. Let's grab that herb and{n}get out of here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0007",
    "jp": "モンスターがあんまり減ってない気がするよ？{n}これじゃ、きりがないよ！",
-   "en": "",
-   "term": "end"
+   "en": "Doesn't it seem like there are still just as many{n}monsters? This'll never end!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0008",
    "jp": "{v:0016}もういないみたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Looks like there aren't any more.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0009",
@@ -69,86 +77,100 @@
   {
    "id": "scen212.0010",
    "jp": "時間がない。{n}急いでクリアノ草を取って、脱出するぞ！",
-   "en": "",
-   "term": "end"
+   "en": "We're out of time. Grab the Kuriano Herb and get{n}out, quick!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0011",
    "jp": "{v:002B}これだね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}This is it, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0012",
    "jp": "{v:002C}よし、これだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Right, this is it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0013",
    "jp": "{v:002D}取った！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Got it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0014",
    "jp": "{v:002E}取ったよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}I've got it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0015",
    "jp": "　{n}　　　　　『{FFEF}クリアノ草{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained the '{FFEF}Kuriano Herb{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0016",
    "jp": "{FFEE}{s:FFED}を守って脱出しろ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect {s:FFED} and escape!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0017",
    "jp": "クリアノ草を取らないと！",
-   "en": "",
-   "term": "end"
+   "en": "We've got to get the Kuriano Herb!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0018",
    "jp": "あ～、もう、何なのよ一体！{n}あったま来るわねぇ～！",
-   "en": "",
-   "term": "end"
+   "en": "Aaagh, what IS all this?! It's driving me crazy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0019",
    "jp": "またモンスターが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "More monsters...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0020",
    "jp": "くそっ！{n}まだモンスターがいたのか！",
-   "en": "",
-   "term": "end"
+   "en": "Damn it! There were still more monsters?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0021",
    "jp": "まだモンスターがいたんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "So there were still more monsters...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0022",
    "jp": "{v:0029}こ、これ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Th-this is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0023",
    "jp": "{v:002A}しまった、ガスだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Damn, it's gas!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0024",
@@ -159,20 +181,23 @@
   {
    "id": "scen212.0025",
    "jp": "{v:0025}えっ？{n}ミー‥シャ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Huh? Mi...sha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0026",
    "jp": "{v:0026}ん？{n}何？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Hm? What?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0027",
    "jp": "‥‥‥{v:0027}何でもない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0027}Never mind...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0028",
@@ -183,14 +208,16 @@
   {
    "id": "scen212.0029",
    "jp": "{FFF6}{FFF3}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0030",
    "jp": "{v:0019}どうしたの、ミーシャ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}What's wrong, Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0031",
@@ -201,32 +228,37 @@
   {
    "id": "scen212.0032",
    "jp": "{v:001B}えっ！{n}それ、本当なの、ミーシャ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}What?! Is that true, Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0033",
    "jp": "‥‥{v:001C}ん？{n}なに？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001C}Hm? What?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0034",
    "jp": "{v:001D}う～！{n}この娘、変だよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Ugh! This girl's acting so weird!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0035",
    "jp": "{v:001E}えーっ？{n}なに、なに？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Huuuh? What? What's going on?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen212.0036",
    "jp": "‥‥{v:001F}もう、いい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001F}Oh, forget it...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

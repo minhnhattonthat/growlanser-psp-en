@@ -15,8 +15,9 @@
   {
    "id": "scen277.0001",
    "jp": "さあ、お前の力を私に見せてみろ！{FFFB}{n}そして、私が私だという証明をさせてくれ！",
-   "en": "",
-   "term": "end"
+   "en": "Come, show me your strength!{FFFB} And let me prove who{n}I am!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen277.0002",
@@ -27,32 +28,37 @@
   {
    "id": "scen277.0003",
    "jp": "はあ！！",
-   "en": "",
-   "term": "end"
+   "en": "Hah!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen277.0004",
    "jp": "さすがだ‥‥。{FFFB}{n}これならば、私は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "You live up to your reputation...{FFFB} With this, I can...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen277.0005",
    "jp": "どうした！{n}そんなことで私を変えられると思っているのか！？",
-   "en": "",
-   "term": "end"
+   "en": "What is wrong?! Do you think you can change me{n}like that?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen277.0006",
    "jp": "！！",
-   "en": "",
-   "term": "end"
+   "en": "!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen277.0007",
    "jp": "くっ！！",
-   "en": "",
-   "term": "end"
+   "en": "Gh!!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

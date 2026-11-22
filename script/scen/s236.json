@@ -15,749 +15,872 @@
   {
    "id": "scen236.0001",
    "jp": "アイリーン",
-   "en": "",
-   "term": "null"
+   "en": "Irene",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen236.0002",
    "jp": "部下",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen236.0003",
    "jp": "盗賊",
-   "en": "",
-   "term": "null"
+   "en": "Bandit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen236.0004",
    "jp": "ニック",
-   "en": "",
-   "term": "null"
+   "en": "Nick",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen236.0005",
    "jp": "{FFEE}ルイセ、ミーシャ、副学院長を守って戦え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect Luise, Misha, and the Vice Headmaster as you{n}fight!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0006",
    "jp": "{v:0039}あいつらの役目はもう終わった。{n}始末は任せる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}They have served their purpose. I leave their disposal{n}to you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0007",
    "jp": "{v:003A}はっ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Yes, sir.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0008",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0009",
    "jp": "‥‥{v:003B}た、助けてくれ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003B}H-help me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0010",
    "jp": "{v:003C}お前はよくやってくれたぞ。{n}さすがワシの傑作だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}You have done well. Just as I would expect of{n}my masterpiece.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0011",
    "jp": "‥‥{v:003D}おじさま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003D}Uncle...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0012",
    "jp": "{v:003E}感情の希薄なあの女より、よほど人間らしいわい。{p}{v:003F}だが、その感情が今後は邪魔になるのだ！{n}いますぐ破棄してくれる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}You are far more human than that unfeeling{n}woman, eh?{p}{v:003F}But those emotions will only get in the way from now{n}on! I shall dispose of you at once!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0013",
    "jp": "{FFF3}{v:0040}‥‥‥っ！！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{v:0040}...!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0014",
    "jp": "{v:0041}そうか。{p}{v:0042}今まで俺たちの行動を読んでいたのは、{n}ティピじゃなくミーシャの見たことを{n}傍受していたからか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}I see.{p}{v:0042}You knew our every move because you were watching{n}through Misha's eyes, not Tippi's...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0015",
    "jp": "{v:0043}アタシじゃなかったんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}So it wasn't me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0016",
    "jp": "{v:0044}今頃気づいたか。{p}{v:0045}お前たちの行動を監視させるためにミーシャを{n}近づかせた。{n}それももう必要ない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Only now do you realize?{p}{v:0045}I sent Misha to befriend you so she could monitor your{n}movements. That is no longer necessary!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0017",
    "jp": "{v:0098}しっかりして、アイリーンさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0098}Hold on, Irene-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0018",
    "jp": "{v:0094}アイリーンさん、しっかりしてよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0094}Irene-san, stay with us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0019",
    "jp": "‥‥{v:004D}アタシ‥‥人じゃない‥‥",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004D}I'm... not human...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0020",
    "jp": "{v:004E}こんな時、どうすればいいんだろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}What am I supposed to do at a time like this...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0021",
    "jp": "{v:0073}ふん、お前の力はこの程度か！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0073}Hmph! Is that the extent of your power?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0022",
    "jp": "{v:0046}はっ、マクスウェル様！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Ah, Maxwell-sama?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0023",
    "jp": "{v:0047}おお、丁度いい！{p}{v:0048}ん？{n}グレンガルはどうした？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Oh, just in time!{p}{v:0048}Hm? Where is Grengal?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0024",
    "jp": "{v:0049}はっ？{n}御一緒だったのでは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Pardon? Wasn't he with you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0025",
    "jp": "{v:004A}ぬぅ、グレンガルめ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Grr... That wretch Grengal!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0026",
    "jp": "{v:004B}グレンガル？{n}あの男とどんな関係が？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Grengal? What is your connection to that man?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0027",
    "jp": "{v:004C}学院長が黒幕だったようだな。{n}戦争を隠れ蓑にして、己の好きなように{n}やっていたんだろ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Looks like the Headmaster was behind it all. Used the{n}war as cover to do whatever he pleased, I'll bet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0028",
    "jp": "{v:004F}何してるのよ、ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}What are you doing, Misha?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0029",
    "jp": "{v:0050}ティピちゃん‥‥お兄さま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Tippi-chan... Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0030",
    "jp": "ミーシャにかける言葉は？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say to Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0031",
    "jp": "・元気になるよう励ます",
-   "en": "",
+   "en": "・Encourage her to cheer up",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen236.0032",
    "jp": "・ミーシャは仲間だ",
-   "en": "",
+   "en": "・Misha is one of us",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen236.0033",
    "jp": "・憎しみは学院長にぶつけるように言う",
-   "en": "",
+   "en": "・Tell her to lash out at the Headmaster",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen236.0034",
    "jp": "・今は戦わせる",
-   "en": "",
+   "en": "・Have her fight for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen236.0035",
    "jp": "{v:006C}お兄さま‥‥。{p}{v:006D}うれしいけど‥‥やっぱりダメ‥‥。{n}アタシ‥‥闘えないよぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}Big Brother...{p}{v:006D}I'm glad... but I still can't... I... I can't fight...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0036",
    "jp": "‥‥{v:006E}仕方ないわね。{n}アタシ達だけで戦いましょ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:006E}Oh, fine. We'll just have to fight on our own, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0037",
    "jp": "‥‥{v:0051}なかま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0051}One of you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0038",
    "jp": "{v:0052}そうよ！{n}アタシだって、作られた存在だよ？{p}{v:0053}だけど、コイツやルイセちゃんやウォレスさん、{n}みんな優しくしてくれるじゃない！？{p}{v:0054}アンタは１人じゃないんだよ、ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}That's right! I was created too, you know?{p}{v:0053}But this guy, Luise-chan, Wallace-san... everyone's kind{n}to me, aren't they?!{p}{v:0054}You're not alone, Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0039",
    "jp": "‥{v:0055}１人じゃ‥‥ない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0055}I'm not... alone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0040",
    "jp": "{v:0056}あいつのやっていることは、絶対いけないことだよ？{n}それを止められるのはアタシ達だけじゃない！{p}{v:0057}そうでしょ、ミーシャ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}What he's doing is absolutely wrong! And we're the only{n}ones who can stop him!{p}{v:0057}Right, Misha?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0041",
    "jp": "{v:0058}で、でも‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}B-but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0042",
    "jp": "{v:0059}せっかくこの世に生を受けたんでしょ！{n}こんなところで死んじゃってもいいの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}You were given life in this world! Are you really okay{n}with dying here?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0043",
    "jp": "‥‥{v:005A}し、死‥ぬ‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005A}D-dy...ing...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0044",
    "jp": "{v:005B}死んじゃったら、もう遊べないんだよ？{n}みんなとお話だって出来なくなっちゃうんだよ？{p}{v:005C}それでもいいの？嫌でしょ？{n}それにこのままじゃ、ルイセちゃんだって、{n}狙われるんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}If you die, you won't get to play anymore, you know?{n}You won't even get to talk to any of us!{p}{v:005C}Are you okay with that? Of course you're not! And if{n}this keeps up, he'll come after Luise-chan too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0045",
    "jp": "{v:005D}このままじゃ、ルイセちゃんも‥‥？{p}{FC00}‥‥{v:005E}そうか、‥そうだよね。{n}まだアタシは戦う意味があるんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}If this keeps up, Luise-chan too...?{p}{FC00}...{v:005E}Oh... you're right. I still have something to fight for...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0046",
    "jp": "{v:005F}ミーシャ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0047",
    "jp": "{v:0060}お兄さま、アタシ、戦う！{n}自分のために、そして大切な人を守るために！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}Big Brother, I'll fight! For myself, and to protect the{n}people I care about!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0048",
    "jp": "‥‥{v:0061}学院長に‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0061}The Headmaster...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0049",
    "jp": "{v:0062}アンタだって被害者だもん。{n}怒ったっていいんだよ？{p}{v:0063}悪いのはあいつなんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}You're a victim too. You're allowed to be angry,{n}you know?{p}{v:0063}He's the one to blame!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0050",
    "jp": "{v:0064}でも‥でも‥‥。{n}アタシ‥こんな状態じゃ闘えないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}But... but... I... I can't fight like this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0051",
    "jp": "{v:0065}で、でも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}B-but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0052",
    "jp": "{v:0066}せっかくこの世に生を受けたんでしょ！{n}こんなところで死んじゃってもいいの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}You were given life in this world! Are you really okay{n}with dying here?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0053",
    "jp": "‥‥{v:0067}死‥ぬ‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0067}Dy...ing...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0054",
    "jp": "{v:0068}死んじゃったら、もう遊べないんだよ？{n}みんなとお話だって出来なくなっちゃうんだよ？{p}{v:0069}それでもいいの？{n}嫌でしょ？{n}だったら戦ってよ、ミーシャ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0068}If you die, you won't get to play anymore, you know?{n}You won't even get to talk to any of us!{p}{v:0069}Are you okay with that? Of course you're not! Then{n}fight, Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0055",
    "jp": "{v:006A}う、うん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}O-okay...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0056",
    "jp": "{v:006F}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006F}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0057",
    "jp": "{v:0070}お前だけは絶対に我が物とするのだ！{n}覚悟しろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0070}You, above all, shall be mine! Prepare yourself!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0058",
    "jp": "{v:0071}うわぁっ！{n}は、早く助けてくれぇ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}Aaaah! H-hurry and help me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0059",
    "jp": "{v:0072}ちょっと、副学院長がヤバイわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}Hey, the Vice Headmaster's in trouble!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0060",
    "jp": "{v:0083}きゃああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0083}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0061",
    "jp": "{v:0084}ルイセちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0084}Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0062",
    "jp": "{v:0085}ふははははっ！{p}{v:0086}さぁ、貴重な実験体を手に入れたぞ！{n}ワシがグローシュを得るのも時間の問題だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}Mwahahaha!{p}{v:0086}Now I have a precious test subject! It is only a matter{n}of time before I obtain Grosh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0063",
    "jp": "‥‥{v:0087}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0087}No...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0064",
    "jp": "{v:0088}あぁ‥‥。{p}{v:0089}みんな‥‥今までありがとう‥‥。{n}そして‥‥さようなら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0088}Ah...{p}{v:0089}Everyone... thank you for everything... And... goodbye...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0065",
    "jp": "‥‥{v:008A}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:008A}No...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0066",
    "jp": "{v:0081}うぎゃぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0081}Aaaargh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0067",
    "jp": "{v:0082}ああ、やられちゃったじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0082}Oh, now they've got him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0068",
    "jp": "{v:00AC}うぐっ！{p}‥‥{v:00AD}くそっ！　ドジったぜ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AC}Urgh!{p}...{v:00AD}Damn! I screwed up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0069",
    "jp": "{v:00AE}それ以上は無理しないで！{n}アイリーンさんのためにも！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AE}Don't push yourself any further! For Irene-san's{n}sake too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0070",
    "jp": "{v:00AF}すまない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AF}Sorry...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0071",
    "jp": "{v:008B}絶対許さないんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008B}I'll never forgive you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0072",
    "jp": "‥‥{v:008C}ミーシャをもてあそんで、絶対に許さない！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:008C}You toyed with Misha's life! I'll never forgive you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0073",
    "jp": "{v:008D}俺はお前のような奴が一番嫌いなんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008D}There's nothing I hate more than scum like you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0074",
    "jp": "{v:0091}ほう‥‥。{n}創造主に刃向かうというのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0091}Oh...? You would defy your creator?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0075",
    "jp": "‥‥{v:0092}いくらアタシを作ったのがおじさまでも、{n}アタシはアタシよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0092}Even if you made me, Uncle, I'm still me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0076",
    "jp": "{v:0093}この、人形がっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0093}You wretched doll!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0077",
    "jp": "{v:008E}僕は研究者として、あなたを尊敬していました。{n}しかし、人としてあなたを許すことは出来ません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008E}As a researcher, I respected you. But as a human{n}being, I cannot forgive you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0078",
    "jp": "{v:008F}尊い命を軽んじる人は許せません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008F}I cannot forgive anyone who treats precious lives{n}so lightly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0079",
    "jp": "{v:0090}ふん！{n}死ぬがいい、愚民ども！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0090}Hmph! Die, you ignorant rabble!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0080",
    "jp": "{v:0095}アイリーンさん、今助けるからね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0095}Hang on, Irene-san! I'm coming!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0081",
    "jp": "{v:0096}しっかりしろ。{n}今助ける！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0096}Hang on. I'll get you out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0082",
    "jp": "{v:0097}しっかりしてください。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0097}Please, hold on.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0083",
    "jp": "{v:00A4}アイリーン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A4}Irene!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0084",
    "jp": "{v:00A5}あなたは、アイリーンさんの‥‥！{n}どうしてここへ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A5}You're Irene-san's...! What are you doing here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0085",
    "jp": "{v:00A6}グローシアンが事件に巻き込まれていると知って、{n}じっとしていられなかったんだ。{p}{v:00A7}そして学院に行ったら、{n}君たちがこっちへ向かったと聞いてね。{n}それよりアイリーンは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A6}When I learned that Growsians were caught up in all{n}this, I couldn't just sit still.{p}{v:00A7}I went to the Academy and heard you'd come this way.{n}But what about Irene?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0086",
    "jp": "‥‥{v:00A8}誰‥呼んでる‥声‥なつかしい‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00A8}Who... calling... that voice... so familiar...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0087",
    "jp": "‥‥{v:00A9}アイリーン‥‥うおぉぉぉっ！{n}俺のアイリーンをぉぉっ！！{p}{v:00AA}頼む、俺にも戦わせてくれ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00A9}Irene... Aaaargh! How dare you hurt my Irene!!{p}{v:00AA}Please, let me fight too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0088",
    "jp": "{v:007E}ば‥ばかな‥‥このワシが‥‥。{p}{v:00DA}グレンガルめ‥最後にきて‥裏切りおって‥‥{FFF9}{FFFB}{n}{v:00DB}ぐはっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}I-impossible... Me, of all people...{p}{v:00DA}That wretch Grengal... betraying me... at the very end...{FFF9}{FFFB}{n}{v:00DB}Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0089",
    "jp": "{v:007F}マスター！{p}{v:0080}マスターの敵は私が倒す！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007F}Master!{p}{v:0080}I will destroy Master's enemies!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0090",
    "jp": "{v:0076}マ‥‥マスター‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}M... Master...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0091",
    "jp": "‥‥{v:0077}死んだか。{n}いや、無に返ったというべきか。{p}{v:0078}まあよい。{n}道具など新しく作ればいいだけだ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0077}Dead? No, perhaps I should say returned{n}to nothingness.{p}{v:0078}No matter. If I need another tool, I can simply{n}make one.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0092",
    "jp": "‥‥{v:0079}道具‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0079}A tool...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0093",
    "jp": "{v:007A}アタシは‥アタシは道具じゃない！{p}{v:007B}自分で考えて、自分で動ける！{n}道具なんかじゃないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}I'm... I'm not a tool!{p}{v:007B}I can think for myself and act for myself! I'm not{n}some tool!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0094",
    "jp": "{v:00DC}ミーシャ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DC}Misha?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0095",
    "jp": "{v:007C}アタシは道具なんかじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007C}I'm not some tool!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0096",
    "jp": "こんな奴と組むんじゃなかったぜ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I should never have teamed up with this bastard...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0097",
    "jp": "俺もここまでか‥‥",
-   "en": "",
-   "term": "end"
+   "en": "So this is it for me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0098",
    "jp": "うぐぐ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Urgh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0099",
    "jp": "おのれ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Damn you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0100",
    "jp": "嫌な予感がしてたんだ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I had a bad feeling about this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0101",
    "jp": "死ぬのはいやだ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I don't wanna die...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0102",
    "jp": "{v:0075}使えぬ奴らだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0075}Useless fools...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0103",
    "jp": "{v:00B0}終わったわね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B0}It's over...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0104",
    "jp": "次は何をすればいい？",
-   "en": "",
-   "term": "end"
+   "en": "What should I do next?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0105",
    "jp": "ニックに指示を出しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Give Nick orders?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0106",
    "jp": "・ルイセの護衛",
-   "en": "",
+   "en": "・Guard Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen236.0107",
    "jp": "・ミーシャの護衛",
-   "en": "",
+   "en": "・Guard Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen236.0108",
    "jp": "・副学院長の護衛",
-   "en": "",
+   "en": "・Guard the Vice Headmaster",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen236.0109",
    "jp": "・攻撃目標を指定",
-   "en": "",
+   "en": "・Choose an attack target",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen236.0110",
    "jp": "・好きにさせる",
-   "en": "",
+   "en": "・Let him act freely",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen236.0111",
    "jp": "こいつでいいな？",
-   "en": "",
-   "term": "end"
+   "en": "This one, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0112",
    "jp": "{v:00AB}わかった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AB}Got it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0113",
    "jp": "{v:0099}誰‥‥アイリーン‥‥あなた‥‥誰‥‥{n}‥‥私‥‥怖い‥‥{n}‥‥わからない‥‥なぜ‥‥ここ‥‥消える‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0099}Who... Irene... you... who... ...I... scared... ...don't{n}understand... why... here... fading away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0114",
    "jp": "{v:009A}アイリーンさん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:009A}Irene-san?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0115",
    "jp": "{v:009B}どうやらまた失敗か。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009B}Another failure, it seems.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0116",
    "jp": "{v:009C}彼女に何をしたの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:009C}What did you do to her?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0117",
    "jp": "{v:009D}魔水晶からグローシュを分離したように、{n}その女からもグローシュを抜き取ったのだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009D}Just as I separated Grosh from magic crystals, I{n}extracted Grosh from that woman.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0118",
    "jp": "‥‥{v:009E}グローシュを抜き取る？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:009E}Extracted Grosh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0119",
    "jp": "{v:009F}魔水晶のグローシュはいわば燃えカスだ。{n}そしてグローシアンが能力を使ったときに発生する{n}グローシュも、燃えカスだ。{p}{v:00A0}だからまだ使われていないグローシュを、{n}強制的に抜き取るのだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009F}The Grosh in magic crystals is, so to speak, burnt-out{n}residue. So is the Grosh produced when Growsians use{n}their abilities.{p}{v:00A0}That is why I forcibly extract Grosh that has not yet{n}been used.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0120",
    "jp": "{v:00A1}そうやって、いったい何人の人を、{n}こんなふうにしちゃったの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A1}Just how many people have you left like this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0121",
    "jp": "{v:00A2}そんなことはどうでも良い。{n}要は私がグローシアンになることこそ、{n}重要なことなのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A2}That is of no consequence. What matters is that I{n}become a Growsian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0122",
    "jp": "{v:00A3}貴様、我欲のためにそこまでして！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A3}You would go this far for your own selfish desires?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen236.0123",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,20 +15,23 @@
   {
    "id": "scen201.0001",
    "jp": "なに、アレ[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "What's THAT[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen201.0002",
    "jp": "気持ち悪～い。",
-   "en": "",
-   "term": "end"
+   "en": "Ewww, gross!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen201.0003",
    "jp": "ふぅ～。{n}やっと片づいた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Phew... Finally got that taken care of...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

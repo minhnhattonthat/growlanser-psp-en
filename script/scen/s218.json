@@ -15,32 +15,37 @@
   {
    "id": "scen218.0001",
    "jp": "{v:0014}あのボール、魔法を使うよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}That ball can use magic?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen218.0002",
    "jp": "{v:0015}やっかいだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}That's trouble...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen218.0003",
    "jp": "‥‥{v:0016}損傷度‥‥９５％オーバー‥‥。{n}自己修復不能‥‥機能‥停止‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0016}Damage... exceeds 95%... Self-repair impossible...{n}Functions... ceasing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen218.0004",
    "jp": "{v:0017}やった、壊れた！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Yes! It's broken!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen218.0005",
    "jp": "{v:001B}こわかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}That was scary...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

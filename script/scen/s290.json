@@ -15,8 +15,9 @@
   {
    "id": "scen290.0001",
    "jp": "ブロンソン将軍",
-   "en": "",
-   "term": "null"
+   "en": "General Bronson",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen290.0002",
@@ -27,8 +28,9 @@
   {
    "id": "scen290.0003",
    "jp": "？？？",
-   "en": "",
-   "term": "null"
+   "en": "???",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen290.0004",
@@ -213,8 +215,9 @@
   {
    "id": "scen290.0034",
    "jp": "{v:0032}間に合わなかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}We didn't make it in time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen290.0035",

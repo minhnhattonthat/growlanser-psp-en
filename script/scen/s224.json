@@ -15,152 +15,177 @@
   {
    "id": "scen224.0001",
    "jp": "行け、ユングども！{n}お前たちは奴らを食い殺せ！",
-   "en": "",
-   "term": "end"
+   "en": "Go, Jung! Eat them alive!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0002",
    "jp": "俺は入り口に{FFEF}マジックロック{FFF1}をかける！",
-   "en": "",
-   "term": "end"
+   "en": "I'll cast {FFEF}Magic Lock{FFF1} on the entrance!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0003",
    "jp": "{v:001F}マジックロック！？{p}{v:0020}そんなのかけられちゃったら、{n}わたし、開けられないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Magic Lock?!{p}{v:0020}If he casts that, I won't be able to open it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0004",
    "jp": "{v:0021}あいつを行かせちゃだめだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Don't let him get away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0005",
    "jp": "{v:0022}あいつを止めなきゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}We've gotta stop him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0006",
    "jp": "{v:0023}あの人を止めないと！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}We have to stop him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0007",
    "jp": "{v:0024}とにかく急ぎましょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Whatever we do, let's hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0008",
    "jp": "{FFEE}ロックされる前に仮面騎士を倒せ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Defeat the Masked Knight before he locks the{n}entrance!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0009",
    "jp": "{v:002D}ゲヴェルの名において、{n}言葉を知らぬ者を拒む扉となれ！{n}マジック・ロック！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}In Gevel's name, become a door that bars those who{n}know not the word! Magic Lock!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0010",
    "jp": "‥‥{v:002E}フン！{n}これでお前たちは入れまい！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002E}Hmph! Now you cannot enter!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0011",
    "jp": "{v:002F}ああ、せっかくの手がかりが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Oh, we finally had a lead...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0012",
    "jp": "あとはマジックロックをかけるだけだ。",
-   "en": "",
-   "term": "end"
+   "en": "Now all that remains is to cast Magic Lock.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0013",
    "jp": "まずい！{n}急いでヤツを倒すぞ！",
-   "en": "",
-   "term": "end"
+   "en": "This is bad! Take him down, quickly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0014",
    "jp": "{v:0027}負けるかぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}I won't lose!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0015",
    "jp": "{v:0028}えいっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Hyah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0016",
    "jp": "{v:0029}２年前のようにはいかんぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}This won't be like two years ago!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0017",
    "jp": "{v:002A}負けないもん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}I'm not losing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0018",
    "jp": "{v:002B}こんなところで死ぬわけにはいかないんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}I can't die in a place like this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0019",
    "jp": "{v:002C}負けられません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}I cannot afford to lose!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0020",
    "jp": "{v:0030}ぐ‥おぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Guh... ohhh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0021",
    "jp": "{v:0031}また溶けちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}He melted again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0022",
    "jp": "{v:0026}死ぬがよい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0023",
    "jp": "くっ！{n}これではマジックロックが使えん‥‥。{p}ならば、力ずくでお前たちを倒すのみ！",
-   "en": "",
-   "term": "end"
+   "en": "Tch! I cannot use Magic Lock like this...{p}Then I shall crush you by force!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0024",
    "jp": "{v:0025}死ネ、死ネ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}DIE, DIE!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen224.0025",
    "jp": "{v:001D}グルル‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Grrr...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

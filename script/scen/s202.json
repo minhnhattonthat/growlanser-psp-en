@@ -15,205 +15,238 @@
   {
    "id": "scen202.0001",
    "jp": "{FFEE}アリオストを救出せよ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Rescue Ariost!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0002",
    "jp": "僕はどうしたらいいだろう？{n}できる限りの事はやってみるつもりだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What should I do? I intend to do everything I{n}can, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0003",
    "jp": "{v:0019}１つ忠告がある。{n}この部屋には色の違う床があるだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}One word of warning. See those discolored patches on{n}the floor?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0004",
    "jp": "{v:001A}この床が腐っちゃってる部分ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}You mean these rotten parts of the floor?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0005",
    "jp": "{v:001B}腐った床がどうかしたのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}What about the rotten floor?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0006",
    "jp": "{v:001C}そこだけは踏まないことだ。{p}{v:001D}この塔のエネルギーがもれているらしくて、{n}定期的に放電する。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Keep off those patches.{p}{v:001D}It seems energy is leaking from the tower. They{n}discharge electricity at regular intervals.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0007",
    "jp": "{v:001E}放電！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Electricity?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0008",
    "jp": "{v:001F}下手に巻き込まれると、ダメージを受けるからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}You'll get hurt if you're caught in a discharge.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0009",
    "jp": "{v:0020}わ、わかりました！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}I-I understand!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0010",
    "jp": "戦況が変わってきたようだね。{n}僕も行動を変えた方がいいかな？",
-   "en": "",
-   "term": "end"
+   "en": "It seems the battle has taken a turn. Should I change{n}what I'm doing, too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0011",
    "jp": "{v:0021}もうちょっとだから、がんばって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Just a little longer! Hang in there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0012",
    "jp": "{v:0022}ああ、すまない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Yes, thank you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0013",
    "jp": "{v:0023}今助けます！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}I'll help you right away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0014",
    "jp": "{v:0024}すまない、ルイセ君。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Thank you, Luise-kun.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0015",
    "jp": "{v:0025}待ってろ、今助ける！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Hang on! I'm coming!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0016",
    "jp": "{v:0026}お願いします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Please do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0017",
    "jp": "{v:002A}うっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Ugh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0018",
    "jp": "{v:002B}バカ、何やってんの！{n}アリオストさんがやられちゃうじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}You idiot! What are you doing?! Ariost-san's going to{n}get killed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0019",
    "jp": "{v:002C}ぐぅっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Guh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0020",
    "jp": "{v:002D}ああ、アリオストさん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Oh, Ariost-san?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0021",
    "jp": "‥‥{v:002E}あと少しだったのに‥‥。{n}ゴメンよ‥父さん‥母さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002E}I was so close... I'm sorry... Father... Mother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0022",
    "jp": "{v:002F}やったぁ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Yaaay!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0023",
    "jp": "アリオストへ、どう指示しますか？",
-   "en": "",
-   "term": "end"
+   "en": "What orders will you give Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0024",
    "jp": "・その場で防御",
-   "en": "",
+   "en": "・Defend in place",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen202.0025",
    "jp": "・自由に戦ってもらう",
-   "en": "",
+   "en": "・Let him fight freely",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen202.0026",
    "jp": "・{s:0000}のそばにいさせる",
-   "en": "",
+   "en": "・Have him stay near {s:0000}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen202.0027",
    "jp": "・ルイセのそばにいさせる",
-   "en": "",
+   "en": "・Have him stay near Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen202.0028",
    "jp": "・ウォレスのそばにいさせる",
-   "en": "",
+   "en": "・Have him stay near Wallace",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen202.0029",
    "jp": "誰の事を言っているんだい？",
-   "en": "",
-   "term": "end"
+   "en": "Who do you mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0030",
    "jp": "わかった。{n}がんばるよ！",
-   "en": "",
-   "term": "end"
+   "en": "Understood. I'll do my best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0031",
    "jp": "{v:0027}ちょ、ちょっと、気をつけてよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}H-hey, be careful!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0032",
    "jp": "{v:0028}きゃあぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen202.0033",
    "jp": "{v:0029}ぬうぅっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Ngh!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

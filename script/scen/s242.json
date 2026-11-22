@@ -15,104 +15,121 @@
   {
    "id": "scen242.0001",
    "jp": "バーンシュタイン兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen242.0002",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen242.0003",
    "jp": "もう、たまらん‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I can't take any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0004",
    "jp": "ひ、ひでぇや‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Th-this is brutal...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0005",
    "jp": "ぬをっ！",
-   "en": "",
-   "term": "end"
+   "en": "Gwah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0006",
    "jp": "{v:0035}何だか妙だな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Something's odd...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0007",
    "jp": "{v:0036}妙？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Odd?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0008",
    "jp": "{v:0037}奴ら、バーンシュタインの連中じゃねぇぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}These guys ain't from Burnstein.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0009",
    "jp": "{v:0038}それじゃ、何だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Then who could they be?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0010",
    "jp": "{v:0039}さっきから聞き覚えのある名前が出てるじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}They keep mentioning a name we've heard before,{n}don't they?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0011",
    "jp": "{v:0031}くっ！{n}このままでは突破されてしまう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Damn! At this rate, they'll break through...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0012",
    "jp": "{v:0032}俺はグレンガル様に伝えてくる！{n}それまでなんとしても奴らを防ぐんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}I'm going to tell Grengal-sama! Hold them off until{n}then, whatever it takes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0013",
    "jp": "{v:0033}わ、わかりました！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Y-yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0014",
    "jp": "{v:0034}ああ、連絡されちゃうよ！{n}急がなきゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Ah! He's going to warn them! We've gotta hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0015",
    "jp": "{FFEE}隊長を逃がすな！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Don't let the captain escape!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0016",
    "jp": "よし、ここまで来れば。{n}味方と連絡が取れるぞ！！",
-   "en": "",
-   "term": "end"
+   "en": "Good, I've made it this far. Now I can contact our allies!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen242.0017",
    "jp": "{v:003B}バカ、バカ！{n}逃げられちゃったじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Idiot! Idiot! You let him get away!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

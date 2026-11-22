@@ -15,182 +15,212 @@
   {
    "id": "scen230.0001",
    "jp": "覆面の男",
-   "en": "",
-   "term": "null"
+   "en": "Masked Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen230.0002",
    "jp": "{v:006A}さぁ、来い、ラファガ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}Come, Rafaga!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0003",
    "jp": "{v:006B}さらばだ、ローランディアの諸君！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}Farewell, my friends from Rolandia!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0004",
    "jp": "{v:006C}に、逃げられちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}H-he got away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0005",
    "jp": "{v:006D}ぐっ、ぐぐぐ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006D}Ghh... Grrr...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0006",
    "jp": "{v:006E}さぁ、もうおしまいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}Now you've had it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0007",
    "jp": "{v:006F}さて、それはどうかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006F}Well, we shall see about that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0008",
    "jp": "{v:0070}あんな大きな鳥がいたなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0070}I never knew birds could get that big...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0009",
    "jp": "うぐ‥‥！！",
-   "en": "",
-   "term": "end"
+   "en": "Ugh...!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0010",
    "jp": "無念‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Curses...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0011",
    "jp": "これまでか‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Is this the end...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0012",
    "jp": "{v:0054}いい風だ‥‥。{p}{v:0055}さあ、こっちへおいで‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}A fine breeze...{p}{v:0055}Now, come this way...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0013",
    "jp": "{v:0056}あいつらは敵です。{n}さあ、戦いなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}They are your enemies. Now, fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0014",
    "jp": "{v:0062}なかなかやるな。{n}お前たちが我々の邪魔をしている{n}ローランディアの騎士だな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}You fight well. You must be the knights of Rolandia who{n}have been interfering with our plans.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0015",
    "jp": "{v:0063}ならば無駄に戦うのは愚かというものだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}Then it would be foolish to fight a pointless battle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0016",
    "jp": "‥‥{v:0064}そうか。{FFF9}{FFFB}{n}{v:0065}どのみち私は戦闘が苦手だからな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0064}I see.{FFF9}{FFFB}{v:0065}I am no good at fighting in any case.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0017",
    "jp": "{v:0062}なかなかやるな。{n}お前たちが我々の邪魔をしている{n}ローランディアの騎士だな？{p}{v:0063}ならば無駄に戦うのは愚かというものだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}You fight well. You must be the knights of Rolandia who{n}have been interfering with our plans.{p}{v:0063}Then it would be foolish to fight a pointless battle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0018",
    "jp": "{v:0066}逃げる気！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}You're running away?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0019",
    "jp": "{v:0067}その通りだ。{n}自分の任務は、発見されずに{n}物資輸送の妨害をすることだ。{p}{v:0068}別にここからでなくても、{n}モンスターは操れるのでね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0067}Precisely. My mission is to disrupt the transport of{n}supplies without being discovered.{p}{v:0068}I can control the monsters from elsewhere, you see!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0020",
    "jp": "{v:0069}ちっ！{n}逃がすか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}Tch! You're not getting away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0021",
    "jp": "{FFEE}モンスター使いを逃がすな！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Don't let the monster tamer escape!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0022",
    "jp": "{v:0057}がんばってるようだな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Working hard, are you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0023",
    "jp": "{v:0058}あっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Ah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0024",
    "jp": "{v:0059}あんたはっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}You?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0025",
    "jp": "{v:005A}グレンガル様だ。{n}そろそろ覚えてくれてもいいだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}It's Grengal-sama. Isn't it about time you remembered?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0026",
    "jp": "{v:005B}チッ！{n}こんな時に！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Tch! Of all times!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0027",
    "jp": "{v:005C}おっと！{n}勘違いしてくれるなよ！{p}{v:005D}今日は敵じゃない。{n}むしろ、味方だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Whoa! Don't get the wrong idea!{p}{v:005D}I'm not your enemy today. Quite the opposite. I'm on{n}your side.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0028",
    "jp": "{v:005E}何だと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}What?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0029",
    "jp": "{v:005F}今、ローランディアに負けられるわけには{n}いかんからな！{p}{v:0060}いくぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}I can't have Rolandia losing just yet!{p}{v:0060}Here goes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen230.0030",
    "jp": "{v:0061}ええい、また邪魔な奴が！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}Damn! Another nuisance!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

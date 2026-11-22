@@ -15,74 +15,86 @@
   {
    "id": "scen203.0001",
    "jp": "アナウンス",
-   "en": "",
-   "term": "null"
+   "en": "Announcer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen203.0002",
    "jp": "適性テスト開始",
-   "en": "",
-   "term": "end"
+   "en": "Aptitude Test Begins",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen203.0003",
    "jp": "さぁ、残り時間があと半分になりました！",
-   "en": "",
-   "term": "end"
+   "en": "And now, half the time has elapsed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen203.0004",
    "jp": "さぁ、残り時間もあとわずかです！",
-   "en": "",
-   "term": "end"
+   "en": "Only a little time remains!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen203.0005",
    "jp": "適性テスト終了",
-   "en": "",
-   "term": "end"
+   "en": "Aptitude Test Ends",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen203.0006",
    "jp": "時間終了！{p}さあ、この２人の結果は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Time's up!{p}Now, let's see how these two did...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen203.0007",
    "jp": "適性テスト結果発表",
-   "en": "",
-   "term": "end"
+   "en": "Aptitude Test Results",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen203.0008",
    "jp": "残念ながら、{FFEB}ポイント。{n}規定の２００ダメージにはいたらなかったようです。{n}闘技大会への参加は却下されます。",
-   "en": "",
-   "term": "end"
+   "en": "Unfortunately, just {FFEB} points. It seems you fell short of{n}the required 200 damage. You will not be allowed to{n}enter the tournament.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen203.0009",
    "jp": "アンタねぇ。{n}もうちょっと真剣に戦いなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you! Take this fight a little more seriously!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen203.0010",
    "jp": "{v:0007}バカバカバカ！{n}なにやってんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Idiot, idiot, idiot! What are you doing?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen203.0011",
    "jp": "{v:005B}お兄ちゃんごめんね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}I'm sorry, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen203.0012",
    "jp": "おおっ～と残念。{n}ここでパートナーがやられてしまった。{p}残念ながら、適性テストは不合格。{n}闘技大会への参加は却下されます。",
-   "en": "",
-   "term": "end"
+   "en": "Ohhh, what a shame! The partner has been defeated!{p}Unfortunately, you have failed the aptitude test. You{n}will not be allowed to enter the tournament.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

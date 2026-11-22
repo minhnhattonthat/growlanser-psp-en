@@ -15,208 +15,242 @@
   {
    "id": "scen025.0001",
    "jp": "魔法学院生徒",
-   "en": "",
-   "term": "null"
+   "en": "Magic Academy Student",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen025.0002",
    "jp": "ニック",
-   "en": "",
-   "term": "null"
+   "en": "Nick",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen025.0003",
    "jp": "教授",
-   "en": "",
-   "term": "null"
+   "en": "Professor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen025.0004",
    "jp": "魔法学院",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0005",
    "jp": "{v:0000}あ、お兄さま、いらっしゃいませ！{n}今日は何のご用ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Oh, Big Brother! Welcome! What brings you here today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0006",
    "jp": "{v:0001}別にアンタに用があって来たんじゃないわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}We didn't come here to see YOU, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0007",
    "jp": "{v:0002}あのね、魔法実習が終わったから、{n}その終了証明書を院長先生に届けるようにって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Well, I finished my magic practicum, so I was told to{n}bring my certificate of completion to the Headmaster.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0008",
    "jp": "{v:0003}えぇっ！{n}ルイセちゃん、もう実習終わったの？{p}{FC03}{v:0004}うぅ～、また差を付けられちゃった‥‥。{p}{FC02}{v:0005}こうなったら、{n}アタシもルイセちゃんを見習わないとっ！{p}{FC00}{v:0006}見習うためにはルイセちゃんのそばにいなきゃ！{p}{FC06}{v:0007}というわけで、しばらくやっかいになりま～す！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Whaaat?! Luise-chan, you've finished your{n}practicum already?{p}{FC03}{v:0004}Ughhh, you've pulled ahead of me again...{p}{FC02}{v:0005}Well, then I'll just have to learn from your{n}example, Luise-chan!{p}{FC00}{v:0006}And to do that, I need to stay close to you!{p}{FC06}{v:0007}Sooo, I'll be tagging along for a while!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0009",
    "jp": "　{n}　　　　{FFEF}ミーシャが無理矢理仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Misha forced her way into the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0010",
    "jp": "メンバーが多すぎます。{n}１人外してください。",
-   "en": "",
-   "term": "end"
+   "en": "There are too many party members. Please{n}remove one.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0011",
    "jp": "どちらをパーティーから外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will you remove from the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0012",
    "jp": "・アリオスト",
-   "en": "",
+   "en": "・Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen025.0013",
    "jp": "・カレン",
-   "en": "",
+   "en": "・Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen025.0014",
    "jp": "アリオストの装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve Ariost's equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0015",
    "jp": "{v:0008}ごめんなさい、アリオストさん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}I'm sorry, Ariost-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0016",
    "jp": "{v:0009}ああ、気にしないでくれ。{n}君のためなら、おやすいごようさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Oh, don't worry about it. For you, it's no trouble at all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0017",
    "jp": "{v:000A}アタシ、しっかり勉強します！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}I'll study hard!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0018",
    "jp": "カレンの装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve Karen's equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0019",
    "jp": "{v:000B}せっかくここまで来たからアイリーンさんに{n}会いたかったけど、ミーシャちゃんのためだもの、{n}また今度にするわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Since we'd come all this way, I was hoping to see{n}Irene-san. But it's for Misha-chan's sake, so I'll visit{n}another time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0020",
    "jp": "{v:000C}ごめんなさい、カレンさん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}I'm sorry, Karen-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0021",
    "jp": "{v:000D}そのかわり、しっかりお勉強してね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Just promise you'll study hard, all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0022",
    "jp": "{v:0000}アイリーンさん、大丈夫かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}I wonder if Irene-san is all right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0023",
    "jp": "{v:0001}そりゃ、行ってみなきゃわからんな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Won't know till we go and see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0024",
    "jp": "‥‥{v:0002}ここ、どこ？{n}何するとこ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0002}Where are we? What do people do here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0025",
    "jp": "{v:0003}何言ってるのよルイセちゃん！{n}ここはアタシたちが勉強してる魔法学院じゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}What are you talking about, Luise-chan?! This is the{n}Magic Academy, where we study!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0026",
    "jp": "{v:0004}この学院のことを忘れてしまったのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Have you forgotten the Academy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0027",
    "jp": "{v:0005}さっきから気になってたんだけど、あなた達‥‥誰？{n}お兄ちゃんのお友だち？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}I've been wondering for a while now... Who are you all?{n}Are you Big Brother's friends?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0028",
    "jp": "{v:0006}ルイセ君‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Luise-kun...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0029",
    "jp": "{v:0007}そんな！{n}アタシたちのこと忘れちゃったのぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}No way! You've forgotten us?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0030",
    "jp": "{v:000B}えーー！？{n}ひどいよ、ルイセちゃん！{n}親友だって言ってくれたじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Whaaat?! That's awful, Luise-chan! You said we were{n}best friends!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0031",
    "jp": "{v:000A}ルイセ君、僕を忘れてしまったのかい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Luise-kun, have you forgotten me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0032",
    "jp": "{v:000C}ここはルイセちゃんが通ってた魔法学院じゃない！{p}{v:000D}まさか、ミーシャもアリオストさんのことも{n}覚えてないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}This is the Magic Academy you went to, Luise-chan!{p}{v:000D}Don't tell me you don't remember Misha or{n}Ariost-san, either?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0033",
    "jp": "{v:000E}ん？{n}‥‥誰、それ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Hmm? ...Who are they?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0034",
    "jp": "{v:000F}グローシュを奪われた後遺症か？{p}‥‥{v:0010}急いだ方がいいな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Is this from having her Grosh stolen?{p}...{v:0010}We'd better hurry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0035",
@@ -349,44 +383,51 @@
   {
    "id": "scen025.0056",
    "jp": "{v:0009}さっきから気になってたんだけど、{n}あなたは‥‥誰ですか？{n}お兄ちゃんのお友達？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}I've been wondering for a while now... Who are you?{n}Are you Big Brother's friend?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0057",
    "jp": "{v:0008}う‥う～ん‥‥。{n}‥‥ごめんなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}U-umm... ...I'm sorry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0058",
    "jp": "学院長の秘書なら西の方へ向かったけど。{n}あの美人秘書がどうしたの？",
-   "en": "",
-   "term": "end"
+   "en": "The Headmaster's secretary went west. What do you{n}want with that lovely secretary?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0059",
    "jp": "ここは研究に向いてていいよね～。{n}グローシアン遺跡やフェザリアン遺跡が{n}そばにあるし、水晶鉱山もそこそこ近いし。{p}それにローランディアとバーンシュタインの{n}国境沿いでもあるから、学院の立地条件としては{n}まさに最高って感じだな～。",
-   "en": "",
-   "term": "end"
+   "en": "This is a great place for research, isn't it? Growsian and{n}Featherian ruins nearby, and the crystal mine isn't too{n}far away, either.{p}Plus, we're right on the border between Rolandia and{n}Burnstein. You couldn't ask for a better location for{n}the Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0060",
    "jp": "私は薬学を専攻しているから、{n}メディス村とラシェルにしか、用はないけどね。",
-   "en": "",
-   "term": "end"
+   "en": "I specialize in pharmacology, so Medis Village and{n}Rachelle are the only places I need to visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0061",
    "jp": "この前、効能の研究だって、{n}コムスプリングスへ遊びに行ってなかったっけ？",
-   "en": "",
-   "term": "end"
+   "en": "Didn't you go off to Comsprings for fun the other day,{n}claiming you were researching its health benefits?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0062",
    "jp": "失礼ね！{n}温泉だって、立派な研究対象よ！",
-   "en": "",
-   "term": "end"
+   "en": "How rude! Hot springs are a perfectly valid subject{n}of research!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0063",
@@ -403,140 +444,163 @@
   {
    "id": "scen025.0065",
    "jp": "机にかじりつくだけが学問ではないと思うの。{n}やっぱり外に出ていろいろな経験を積まないと。",
-   "en": "",
-   "term": "end"
+   "en": "I don't believe studying means spending all your time{n}hunched over a desk. You need to go out and{n}experience all sorts of things.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0066",
    "jp": "って言うかさ～。{n}魔法の才能がある人間を押し込めて、{n}管理してるんじゃないの？{p}教授とかもさ～、アブナイ奴いるからな～。{n}ま、俺は魔法の勉強が出来ればいいや。",
-   "en": "",
-   "term": "end"
+   "en": "Or maybe they're just keeping everyone with a talent{n}for magic cooped up here so they can control us?{p}Some of the professors are pretty dangerous{n}characters, too. Oh well. As long as I get to study{n}magic, I'm happy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0067",
    "jp": "やっとの思いで、学院に入ったのはいいけど、{n}勉強、勉強の毎日だ‥‥。{n}ああ、青春の日々が過ぎてゆく～。",
-   "en": "",
-   "term": "end"
+   "en": "I finally managed to get into the Academy, but now it's{n}nothing but studying, day in, day out... Ahh, my youth is{n}slipping away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0068",
    "jp": "ん？{n}最近、よく見かける顔だな。{n}まさかここの学生じゃないよね？",
-   "en": "",
-   "term": "end"
+   "en": "Hmm? I've seen you around a lot lately. You're not{n}students here, are you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0069",
    "jp": "{v:0085}アイリーンさんはどうしているかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}I wonder how Irene-san is doing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0070",
    "jp": "{v:0086}ちょっと会ってみたかったね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0086}It would've been nice to see her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0071",
    "jp": "ああ、アイリーンさんは大丈夫でしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I do hope Irene-san is all right...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0072",
    "jp": "何としてでも、ホールの中を調べたいところだな。",
-   "en": "",
-   "term": "end"
+   "en": "We've got to find some way to search the hall.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0073",
    "jp": "俺って卒業できるのかな～？{n}村では一番だったけど、入ってみると{n}すごい奴ばっかりだし。{p}‥‥すっかり自信なくしたよ。",
-   "en": "",
-   "term": "end"
+   "en": "Am I ever going to graduate? I was the best in my{n}village, but everyone here is amazing.{p}...I've completely lost confidence in myself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0074",
    "jp": "え？{n}君はもう実習が終わってる？{n}あとは卒業研究だけ？",
-   "en": "",
-   "term": "end"
+   "en": "Huh? You've already finished your practicum? All you{n}have left is your graduation research?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0075",
    "jp": "いいなぁ～‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Lucky you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0076",
    "jp": "俺って卒業できるのかな～？",
-   "en": "",
-   "term": "end"
+   "en": "Am I ever going to graduate?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0077",
    "jp": "魔法学院で培ってきた力が{n}人々の役に立てばいいんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "I hope the abilities I've developed at the Magic Academy{n}can help people.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0078",
    "jp": "とうとう戦乱の世の中になってしまったか‥‥。{n}魔法学院で培ってきた力が役に立てばいいんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "So the world's finally been plunged into war... I hope the{n}abilities I've developed at the Magic Academy will be{n}of use.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0079",
    "jp": "あ～あ‥‥もっと魔水晶が手に入らないかな。{n}水晶鉱山がもっと発見されれば、{n}こんな悩みは解消されるんだけどな～。",
-   "en": "",
-   "term": "end"
+   "en": "*sigh*... I wish I could get my hands on more magic{n}crystals. If only they'd discover more crystal mines, I{n}wouldn't have this problem...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0080",
    "jp": "私の友達がアリオストさんの研究室の方に行ったけど、{n}何してるのかしら、彼？",
-   "en": "",
-   "term": "end"
+   "en": "My friend went over toward Ariost-san's laboratory. I{n}wonder what he's doing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0081",
    "jp": "‥‥{v:0038}あっ、感じる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0038}Oh, I can feel it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0082",
    "jp": "{v:0039}どうしたの、ルイセちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}What's wrong, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0083",
    "jp": "{v:003A}これはゲヴェルの波動‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}This is Gevel's energy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0084",
    "jp": "{v:003B}方角はここから‥‥。{p}{FFF3}‥‥{FFF4}{FC02}{v:003C}あっ！{n}先に、バーンシュタインの王都へ急ぎましょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}From here, it's coming from...{p}{FFF3}...{FFF4}{FC02}{v:003C}Oh! Let's hurry to Burnstein's capital first!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0085",
    "jp": "{v:003D}え？{n}どうしたのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Huh? What's happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0086",
    "jp": "{v:003E}王都がどうかしたのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}What's wrong at the capital?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0087",
    "jp": "{v:003F}あの、仮面の男たちが、攻撃してる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Those masked men are attacking!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0088",
@@ -547,1203 +611,1402 @@
   {
    "id": "scen025.0089",
    "jp": "{v:0041}いくらインペリアル・ナイツがいるといえど、{n}あの仮面の男たち相手では分が悪い。{n}それにいつゲヴェルが出てくるか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Even with the Imperial Knights there, they're at a{n}disadvantage against those masked men. And there's{n}no telling when Gevel might appear...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0090",
    "jp": "{v:0042}急いだほうがよさそうだな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}We'd better hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0091",
    "jp": "バーンシュタインが危ない！",
-   "en": "",
-   "term": "end"
+   "en": "Burnstein is in danger!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0092",
    "jp": "おや、君たちは‥‥。{n}この前は、ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, it's you... Thank you for your help the other day.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0093",
    "jp": "ニックさん‥‥。{n}アイリーンさんに会いに来たのですか？",
-   "en": "",
-   "term": "end"
+   "en": "Nick-san... Have you come to see Irene-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0094",
    "jp": "ニックか？{n}アイリーンに会いに来たのか？",
-   "en": "",
-   "term": "end"
+   "en": "Nick? Here to see Irene?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0095",
    "jp": "あぁ。{n}彼女が欲しがっていた薬草が手に入ったのでね。{n}差し入れと一緒に、持ってきたんだ。{p}それで学院長か副学院長に、{n}彼女に会う許可をもらおうと思っているところさ。",
-   "en": "",
-   "term": "end"
+   "en": "Yes. I managed to get the medicinal herbs she wanted,{n}so I brought them along with some things for her.{p}I was just about to ask the Headmaster or Vice{n}Headmaster for permission to see her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0096",
    "jp": "ふ～ん。{n}でも、２人とも、７階にはいなかったわよ。{n}それに副学院長はメディス村にいるかも。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm. Well, neither of them was on the seventh floor.{n}And the Vice Headmaster might be in Medis Village.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0097",
    "jp": "そうか。{n}じゃあ、とりあえず校舎を探してみるよ。{p}君たちも、学院長か副学院長を見かけたら{n}僕に教えてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "I see. I'll try looking around the school building{n}for now.{p}If you see the Headmaster or Vice Headmaster, let{n}me know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0098",
    "jp": "アイリーンさん、元気にしてるかしら？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder how Irene-san is doing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0099",
    "jp": "アイリーンさん、元気にしてるかな？",
-   "en": "",
-   "term": "end"
+   "en": "Is Irene-san doing all right, I wonder?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0100",
    "jp": "そうだね。{n}遊びに行ってみようよ。",
-   "en": "",
-   "term": "end"
+   "en": "Yes, I wonder too. Let's go visit her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0101",
    "jp": "だが、多目的ホールに入るには、許可が必要だ。{n}今は無理だな。",
-   "en": "",
-   "term": "end"
+   "en": "But we need permission to enter the multipurpose hall.{n}We can't go now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0102",
    "jp": "うるさい見張りがいなければいいのにね。",
-   "en": "",
-   "term": "end"
+   "en": "If only that pesky guard weren't there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0103",
    "jp": "グローシアンを狙っている奴がいるんだ。{n}それは仕方ないだろう。",
-   "en": "",
-   "term": "end"
+   "en": "Someone's after the Growsians. Can't be helped.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0104",
    "jp": "学院のどこかに、保護されているはずだが‥‥。{n}一体、どこだろうな？",
-   "en": "",
-   "term": "end"
+   "en": "She should be under protection somewhere in the{n}Academy... But where?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0105",
    "jp": "多目的ホールじゃないかな？{n}しばらく、何にも使ってなかったし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Maybe in the multipurpose hall? It hasn't been used{n}for anything in a while...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0106",
    "jp": "あっ！{n}ニックさんだ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh! It's Nick-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0107",
    "jp": "やあ、君たちか。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, hello again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0108",
    "jp": "アイリーンさんに会いに来たの？",
-   "en": "",
-   "term": "end"
+   "en": "Have you come to see Irene-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0109",
    "jp": "その通りさ。{n}それで、ホールに入る許可をもらおうと、{n}責任者を捜しているんだが、見つからなくてね。",
-   "en": "",
-   "term": "end"
+   "en": "That's right. I've been looking for whoever's in charge{n}to get permission to enter the hall, but I can't{n}find them.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0110",
    "jp": "アイリーンさんに会う許可は、もらえましたか？",
-   "en": "",
-   "term": "end"
+   "en": "Did you get permission to see Irene-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0111",
    "jp": "アイリーンに会う許可はもらえたのか？",
-   "en": "",
-   "term": "end"
+   "en": "Did you get permission to see Irene?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0112",
    "jp": "‥‥責任者が見つからなくてね。{n}今度は校庭を探してみようかと思って{n}外に出たところさ。",
-   "en": "",
-   "term": "end"
+   "en": "...I couldn't find anyone in charge. I just came outside{n}to try searching the school grounds.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0113",
    "jp": "それが、ちょっと気になる事があるのよ。{n}多目的ホールから、人の気配がしないの。",
-   "en": "",
-   "term": "end"
+   "en": "Well, something's bothering me. I can't sense anyone in{n}the multipurpose hall.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0114",
    "jp": "何だって！？{n}それは一体‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What?! What could that mean...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0115",
    "jp": "とにかく、僕は僕で何とかしてみる。{n}君たちも、アイリーンの事がわかったら、{n}僕に教えてくれ！",
-   "en": "",
-   "term": "end"
+   "en": "Anyway, I'll see what I can do on my own. If you find{n}out anything about Irene, let me know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0116",
    "jp": "とにかく、何とか探し出さないとな‥‥。{n}それじゃ！",
-   "en": "",
-   "term": "end"
+   "en": "Anyway, I've got to find her somehow... See you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0117",
    "jp": "{v:0000}ただいま戻りました、先生。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}I'm back, Professor.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0118",
    "jp": "{v:0001}ご苦労さま。{n}それで、どうだったかね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Thank you for your efforts. Well, what did you find?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0119",
    "jp": "{v:0002}やっぱり先生のおっしゃるとおりです。{n}グローシュの放出量が増えているようです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}It was just as you said, Professor. The amount of{n}Grosh being released seems to be increasing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0120",
    "jp": "‥‥{v:0003}そうか‥‥。{FFF9}{FFFB}{n}{v:0004}出来たら、思い過ごしであって欲しかったが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0003}I see...{FFF9}{FFFB}{v:0004}I had hoped I was merely worrying{n}over nothing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0121",
    "jp": "‥‥{v:0005}あの、どうしたんですか？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0005}Um, is something wrong?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0122",
    "jp": "{v:0006}おお、ルイセ君か。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Oh, Luise-kun.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0123",
    "jp": "{v:0007}何だか、深刻そうですが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}You seem so troubled...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0124",
    "jp": "‥‥{v:0008}うむ。{p}{v:0009}実は『歪み計』が異常な歪みを検出してな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0008}Indeed.{p}{v:0009}You see, the 'distortion gauge' has detected an{n}abnormal distortion.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0125",
    "jp": "{v:000A}歪み計ってなんだっけ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}What's a distortion gauge again?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0126",
    "jp": "{v:000B}この世界が、２つの世界を重ねているって話は{n}ずっと前にしたことあったよね？{n}その重なりのずれを計る装置のこと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Remember how we talked ages ago about this world{n}being two worlds overlaid? It's a device that measures{n}how far out of alignment they are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0127",
    "jp": "{v:000C}あ、屋上にあったやつだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Oh, that thing on the roof!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0128",
    "jp": "{v:000D}この歪み量は自然のものとも思えんのだ。{p}{v:000E}何か悪いことが起きなければいいのだが‥‥。{p}{v:000F}とにかく、観測を怠らずに慎重に調べてみる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}I cannot believe this degree of distortion is natural.{p}{v:000E}I only hope nothing dreadful comes of it...{p}{v:000F}In any case, I will keep a close watch and{n}investigate carefully.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0129",
    "jp": "{v:0010}がんばって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Good luck with your research.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0130",
    "jp": "元々別の世界を、無理矢理重ねている世界だからな。{n}このような状況も予想はされるのだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "This world was formed by forcibly overlaying two{n}separate worlds, after all. Such a situation is to be{n}expected, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0131",
    "jp": "野外授業の説明をしているんだ。{n}邪魔をしないでくれ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm explaining the field lesson. Please don't interrupt.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0132",
    "jp": "え？{n}学院長の秘書さん？{n}きれいな人だよね！{p}さっき正門の方へ歩いていったよ。",
-   "en": "",
-   "term": "end"
+   "en": "Huh? The Headmaster's secretary? She's beautiful,{n}isn't she!{p}She was heading toward the main gate a little{n}while ago.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0133",
    "jp": "この世界はどうなってしまうんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What's going to happen to this world...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0134",
    "jp": "ふう、死ぬかと思った‥‥。{n}やっぱり単位欲しさにブレーム火山へ行ったのは{n}間違いだったな。",
-   "en": "",
-   "term": "end"
+   "en": "Phew, I thought I was going to die... Going to Brehm{n}Volcano just for the credits was a mistake after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0135",
    "jp": "まさか、世界が分かれるなんて事は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Surely the world isn't going to split apart...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0136",
    "jp": "教室で講義を聴くより、{n}実践で覚える方が向いているみたい。",
-   "en": "",
-   "term": "end"
+   "en": "I think I learn better through practice than by listening{n}to lectures in a classroom.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0137",
    "jp": "あ、お兄さま。{n}アタシの力が必要なんですね！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother! You need my help, don't you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0138",
    "jp": "どうするの？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0139",
    "jp": "・ミーシャをメンバーに加える",
-   "en": "",
+   "en": "・Add Misha to the party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen025.0140",
    "jp": "・今はメンバーに加えない",
-   "en": "",
+   "en": "・Don't add anyone for now",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen025.0141",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを外さないと。",
-   "en": "",
-   "term": "end"
+   "en": "But we'd have too many people. Someone will have to{n}leave the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0142",
    "jp": "僕が外れるしかないね。",
-   "en": "",
-   "term": "end"
+   "en": "I suppose I'll have to leave the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0143",
    "jp": "{s:FFED}をメンバーから外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Remove {s:FFED} from the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0144",
    "jp": "誰をメンバーから外しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will leave the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0145",
    "jp": "・{s:FFED}",
-   "en": "",
+   "en": "・{s:FFED}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen025.0146",
    "jp": "・{s:FFEE}",
-   "en": "",
+   "en": "・{s:FFEE}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen025.0147",
    "jp": "{s:FFED}の装備を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve {s:FFED}'s equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0148",
    "jp": "　{n}　　　　　　{FFEF}ミーシャが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Misha joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0149",
    "jp": "アタシ、がんばっちゃうね！",
-   "en": "",
-   "term": "end"
+   "en": "I'll give it my all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0150",
    "jp": "ちょっとガッカリ‥‥。{p}{FC00}でも、でも！{n}ご用があったら、いつでもどうぞ！",
-   "en": "",
-   "term": "end"
+   "en": "That's a little disappointing...{p}{FC00}But, but! Whenever you need me, just say the word!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0151",
    "jp": "人間の力なんて、ちっぽけなものね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We humans have so little power...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0152",
    "jp": "ううっ、ひっく‥‥",
-   "en": "",
-   "term": "end"
+   "en": "*sob* *hic*...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0153",
    "jp": "何で私たちがこんな目に‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Why is this happening to us...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0154",
    "jp": "怖いわ、私‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm scared...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0155",
    "jp": "ねえ、学院長の秘書ってさ、全然愛想がないよね～。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, the Headmaster's secretary isn't friendly at all,{n}is she?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0156",
    "jp": "あ、それ私も思った。{n}私、あの人が笑ったところとか見たこと無いよ。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I thought so too. I've never even seen her smile.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0157",
    "jp": "あ、それアタシも！{n}というかさ～、{n}無表情以外の表情ってしたことあるのかしら？",
-   "en": "",
-   "term": "end"
+   "en": "Me neither! Actually, I wonder if she's ever had any{n}expression besides that blank stare?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0158",
    "jp": "ないと思うわよ～。{p}あの人も表情変えればもっと美人に見えるのにね～。",
-   "en": "",
-   "term": "end"
+   "en": "I doubt it!{p}She'd look even prettier if she showed a little{n}expression, though.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0159",
    "jp": "‥‥それって表情変えなくても美人ってことよね。",
-   "en": "",
-   "term": "end"
+   "en": "...So you're saying she's pretty even without{n}any expression.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0160",
    "jp": "どうして、あんなに愛想ないのかしらね～。",
-   "en": "",
-   "term": "end"
+   "en": "I wonder why she's so unfriendly?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0161",
    "jp": "ほんとよね～。",
-   "en": "",
-   "term": "end"
+   "en": "I know, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0162",
    "jp": "はぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "*sigh*...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0163",
    "jp": "ねえ、聞いた？{n}学院長ってさ、裏でかなり酷いことしてたらしいよ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, did you hear? Apparently the Headmaster was{n}doing some really awful things in secret.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0164",
    "jp": "あ、聞いた聞いた。{n}学院に来たグローシアンがいなくなったのって、{n}学院長の仕業だって哮じゃない？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I heard! Isn't the Headmaster supposed to be{n}behind the Growsians who came to the{n}Academy disappearing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0165",
    "jp": "ヒドイ話よね～。",
-   "en": "",
-   "term": "end"
+   "en": "It's awful, isn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0166",
    "jp": "ホント、人間ってうわべだけで信じちゃだめね。",
-   "en": "",
-   "term": "end"
+   "en": "Really, you just can't trust people on{n}appearances alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0167",
    "jp": "うん、うん。",
-   "en": "",
-   "term": "end"
+   "en": "Exactly, exactly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0168",
    "jp": "{v:0092}なんだ、お前たち。{n}まだ用があるのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0092}What is it, you lot? Do you still need something?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0169",
    "jp": "{v:0093}何言ってんのよ！{n}中のグローシアンの人たち、{n}いなくなってるじゃないの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0093}What are you talking about?! The Growsians inside{n}are gone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0170",
    "jp": "{v:0094}そんな、バカな！{n}ここからは誰も‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0094}Impossible! No one came through here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0171",
    "jp": "{v:0095}やっぱり、あっちから、らしいな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0095}Looks like they went out the other way, just as{n}we thought.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0172",
    "jp": "すまないが、学院長か副学院長にこのことを{n}伝えてくれないか？{p}自分はここで、{n}現場が荒らされないように見張っているから。{p}頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Sorry, but could you report this to the Headmaster or{n}Vice Headmaster?{p}I'll stand guard here to make sure no one disturbs{n}the scene.{p}I'm counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0173",
    "jp": "ここで見たことは、しばらくの間、{n}内密にして欲しいとのことだ。",
-   "en": "",
-   "term": "end"
+   "en": "They would like you to keep what you saw here{n}confidential for the time being.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0174",
    "jp": "{v:000E}ここにはグローシアンの方々が保護されて{n}おられるのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}The Growsians are being kept here for{n}their protection.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0175",
    "jp": "{v:000F}知り合いがいるんですけど、{n}会わせていただけないでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Someone we know is inside. Could you please let us{n}see them?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0176",
    "jp": "{v:0010}中にアイリーンさんって知り合いがいるんだけど、{n}会わせてくれる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}We know someone inside called Irene-san. Will you let us{n}see her?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0177",
    "jp": "{v:0011}自分には許可を与える権利はない。{n}中の人に会いたければ、学院長か副学院長に許可を{n}もらうことだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}I have no authority to grant permission. If you wish to{n}see anyone inside, ask the Headmaster or Vice{n}Headmaster for permission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0178",
    "jp": "{v:0012}ちぇっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Tch!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0179",
    "jp": "{v:0013}なんだ、また来たのか。{n}何度来ようと、会わせるわけにはいかん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}What, you again? No matter how often you come, I{n}cannot let you see them.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0180",
    "jp": "‥‥{v:0014}ケチッ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0014}Meany!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0181",
    "jp": "{v:0015}仕事だからな。{p}{v:0016}それにしても、最近中が静かだな。{n}そう思わんか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}It's my job.{p}{v:0016}Still, it's been quiet in there lately. Don't you think?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0182",
    "jp": "{v:0017}アタシたちにわかるわけないでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}How would WE know?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0183",
    "jp": "{v:0018}それもそうだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Fair point.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0184",
    "jp": "このホールは閉鎖されている。{n}立入許可の無い者は、{n}この中へ入ることはできん。",
-   "en": "",
-   "term": "end"
+   "en": "This hall is closed. No one may enter{n}without permission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0185",
    "jp": "おい、警備兵から{n}できるだけ離れて使った方がいいぜ。{n}バレないようにな。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, better use it as far from the guard as you can.{n}Don't let him catch you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0186",
    "jp": "{FFEC}ティピちゃーん、きーっく{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}Tippi-chan Kiiick!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0187",
    "jp": "{v:0027}ん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Hm?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0188",
    "jp": "{v:00EF}何だ、今の音は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00EF}What was that noise?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0189",
    "jp": "{v:0028}お約束はしないの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}We're not doing that old routine!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0190",
    "jp": "{v:0058}ここって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}This is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0191",
    "jp": "{v:0059}校庭の隅だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}A corner of the school grounds.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0192",
    "jp": "{v:005A}ここから大きな箱が運び出されたっていってたよね？{n}それじゃ、その中身って‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}They said large boxes were carried out of here, right?{n}Then what was inside them must have been...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0193",
    "jp": "{v:005B}たぶんその通りだ。{p}{v:005C}徐々に見えてきたな。{n}もう一息だ。{n}がんばろうぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Probably just what you're thinking.{p}{v:005C}It's starting to make sense. We're almost there. Let's{n}keep at it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0194",
    "jp": "‥‥（びっくりしたなぁ、ドキドキ）‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...(That gave me a fright! *thump thump*)...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0195",
    "jp": "{v:0083}学院長か副学院長の許可がなければ入れないホール。{n}それから、地下にある専用の研究室‥‥。{p}{v:0084}なんだかにおうわね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0083}A hall you can't enter without the Headmaster's or Vice{n}Headmaster's permission. And a private{n}laboratory underground...{p}{v:0084}Something smells fishy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0196",
    "jp": "内側からカギをかけられているようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It seems to be locked from the inside...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0197",
    "jp": "中へ入ってみたんだけど‥‥。{n}怖くなって途中で引き返して来ちゃったよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I went inside, but... I got scared and turned back{n}partway through...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0198",
    "jp": "君たちがここを開けてくれたおかげで、{n}やっと中に入れるよ。{n}ありがとう！",
-   "en": "",
-   "term": "end"
+   "en": "Now that you've opened this, I can finally get inside.{n}Thank you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0199",
    "jp": "{v:005F}う～ん‥‥。{n}開かないなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Hmm... It won't open...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0200",
    "jp": "{v:0060}どうしたんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}What's the matter?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0201",
    "jp": "{v:0061}この前の夜に、ここで知らない男たちが{n}箱を出し入れしてるのを見たんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}The other night, I saw some men I didn't recognize{n}carrying boxes in and out of here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0202",
    "jp": "{v:0062}箱？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}Boxes?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0203",
    "jp": "{v:0063}ああ。大人が入れそうな大きな木箱だったよ。{n}それも１つじゃなかったんだ。{p}{v:0064}それで何を運び出したのか興味があって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}Yes. Wooden boxes big enough to fit an adult inside. And{n}there was more than one.{p}{v:0064}So I was curious about what they'd carried out...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0204",
    "jp": "{v:0065}だが鍵がかかっていて入れない、と。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}But it's locked, so you can't get in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0205",
    "jp": "{v:0066}そうなんだ。{p}{v:0067}しかたない。あきらめるとするか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}That's right.{p}{v:0067}Oh well. I suppose I'll give up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0206",
    "jp": "{v:0078}ああ、あんた達か。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}Oh, it's you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0207",
    "jp": "{v:0079}まだここを開けようと思ってるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}Still trying to get this open?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0208",
    "jp": "{v:007A}内側から鍵がかかってるから、{n}無理だと思うけどね。{n}やっぱり気になるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}It's locked from the inside, so I doubt I can. But I still{n}want to know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0209",
    "jp": "‥う～ん‥‥{n}‥‥あの薬を使えれば、姿を見られずに‥‥{n}‥‥‥ブツブツ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Hmm... If I could use that medicine, I could avoid being{n}seen... *mutter mutter*...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0210",
    "jp": "{v:0082}それじゃ、僕はこのへんで。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0082}Well, I'll be going now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0211",
    "jp": "{v:007B}そういえば、ここから運び出された箱だが、{n}どこに持って行かれたかわかるか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007B}By the way, those boxes carried out of here. Do you{n}know where they were taken?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0212",
    "jp": "{v:007C}あれ、言わなかったっけ？{p}{v:007D}校内に持ち込まれたんだけど、{n}どこにも見あたらないんだ。{n}となるとおそらく地下だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007C}Oh, didn't I tell you?{p}{v:007D}They were taken into the school building, but they're{n}nowhere to be seen. That probably means{n}they're underground.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0213",
    "jp": "{v:007E}地下？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}Underground?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0214",
    "jp": "{v:007F}ってことは、上級職員用研究室だね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007F}That would mean the senior staff laboratory, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0215",
    "jp": "{v:0080}なんなの、その『上級職員』って？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0080}Who exactly are these 'senior staff'?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0216",
    "jp": "{v:0081}おじさま達。{n}つまり、学院長と副学院長のことだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0081}Uncle and the others. I mean, the Headmaster and{n}Vice Headmaster.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0217",
    "jp": "{v:0068}なんだか怪しいな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0068}Something's suspicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0218",
    "jp": "{v:0069}そうねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}Yes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0219",
    "jp": "{v:006A}最近静かになったホール。{n}運び出された大きな箱。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}The hall that's gone quiet lately. Those large boxes{n}carried out...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0220",
    "jp": "{v:006B}アンタ、箱の中に何が入ってたと思う？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}What do you think was in that box?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0221",
    "jp": "箱の中には何が入っていたと思いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What do you think was inside the box?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0222",
    "jp": "・財宝",
-   "en": "",
+   "en": "・Treasure",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen025.0223",
    "jp": "・人間",
-   "en": "",
+   "en": "・A person",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen025.0224",
    "jp": "・書類",
-   "en": "",
+   "en": "・Documents",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen025.0225",
    "jp": "{v:006C}財宝かぁ‥‥。{p}{v:006D}だからこっそり運び出していたんですね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}Treasure, huh...{p}{v:006D}So that's why they were sneaking it out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0226",
    "jp": "{v:001D}人間っていうと、やっぱり‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}A person? Then it must have been...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0227",
    "jp": "{v:006E}グローシアンしかねぇだろうな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}Had to be a Growsian...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0228",
    "jp": "{v:006F}書類かぁ‥‥。{p}{v:0070}たしかに学校には、{n}たくさんの書類がありますからねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006F}Documents, huh...{p}{v:0070}Well, a school certainly does have plenty{n}of documents!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0229",
    "jp": "{v:0071}だーーーっ！{n}どうしてこの会話の流れでそうなるのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}Aaargh! How did you get THAT from what we've{n}been saying?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0230",
    "jp": "{v:0072}最近静かになったグローシアンのホール。{n}大人が入れるくらいの箱。{p}{v:0073}そうしたら、中にグローシアンが入ってたって{n}考えるのが自然だよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}The Growsian hall's gone quiet lately. The box was big{n}enough to hold an adult.{p}{v:0073}Put those together, and you'd think there was a{n}Growsian inside, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0231",
    "jp": "{v:0074}でも、何のために？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0074}But what for?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0232",
    "jp": "{v:0075}とにかく、徹底的に調べてみる必要があるな。{p}{v:0076}そのためにも、何とかしてホールに入らねぇと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0075}Either way, we need to get to the bottom of this.{p}{v:0076}And to do that, we've gotta find a way into the hall.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0233",
    "jp": "{v:0077}警備員に見つからないで中に入る方法って{n}なんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0077}How can we get inside without the guards spotting us?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0234",
    "jp": "アリオストの研究室",
-   "en": "",
-   "term": "end"
+   "en": "Ariost's Laboratory",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0235",
    "jp": "どうしたんだい？",
-   "en": "",
-   "term": "end"
+   "en": "What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0236",
    "jp": "あの‥‥、{n}ミーシャを探してるんですけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Um... We're looking for Misha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0237",
    "jp": "う～ん‥‥。{n}学院内では見かけなかったなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... I haven't seen her around the Academy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0238",
    "jp": "そうですか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0239",
    "jp": "ん？{n}僕の力が必要なのかな？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Do you need my help?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0240",
    "jp": "アリオストを仲間に加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add Ariost to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0241",
    "jp": "{v:002A}お、お兄さま！{n}アタシを捨てちゃイヤ～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}B-Big Brother! Don't abandon meee!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0242",
    "jp": "{v:002B}それでは私が外れましょう。{n}ミーシャちゃん、しっかりお勉強してね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Then I'll leave the party. Study hard, Misha-chan.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0243",
    "jp": "{v:002C}はい。{n}しっかり勉強します！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Yes! I'll study hard!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0244",
    "jp": "カレンの装備品を回収しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Retrieve Karen's equipment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0245",
    "jp": "それでは私が外れましょう。{n}ミーシャちゃんのこと、お願いしますね。",
-   "en": "",
-   "term": "end"
+   "en": "Then I'll leave the party. Please take care{n}of Misha-chan.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0246",
    "jp": "ゼノスさん‥‥。{n}頑張って下さいね。",
-   "en": "",
-   "term": "end"
+   "en": "Xenos-san... Do your best, all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0247",
    "jp": "でもこれ以上は多すぎるよ。{n}誰かを仲間から外さないと。",
-   "en": "",
-   "term": "end"
+   "en": "But that would be too many of us. Someone will have to{n}leave the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0248",
    "jp": "　{n}　　　　　　{FFEF}アリオストが仲間になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　{FFEF}Ariost joined the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0249",
    "jp": "ありがとう、がんばるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks. I'll do my best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0250",
    "jp": "僕の力が必要になったら、{n}いつでも声をかけてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "If you need my help, just let me know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0251",
    "jp": "でも、エリオット君は外せないから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "But we can't leave Elliot-kun behind...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0252",
    "jp": "うぅ‥‥、{n}アタシが外れるしかないんですね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ugh... So I'm the one who has to leave...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0253",
    "jp": "では、私が外れますね。",
-   "en": "",
-   "term": "end"
+   "en": "Then I'll leave the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0254",
    "jp": "仕方ねぇ‥‥。{n}俺が抜ければいいんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "Fine... You want me to leave, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0255",
    "jp": "‥‥頼む。{n}カレンの仇がとりたいんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Please. I want to avenge Karen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0256",
    "jp": "ここって、いろんな物があるんですね。",
-   "en": "",
-   "term": "end"
+   "en": "There are all sorts of things here, aren't there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0257",
    "jp": "面白いですね。",
-   "en": "",
-   "term": "end"
+   "en": "How interesting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0258",
    "jp": "薬草の本もあるのかしら？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder if there are any books on medicinal herbs?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0259",
    "jp": "{v:004B}さっきの話が本当だったら、お兄さまも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}If what we just heard is true, then Big Brother, too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0260",
    "jp": "{v:004C}さっきの話が本当だとすると、彼も‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}If what we just heard is true, then he, too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0261",
    "jp": "{v:004D}今の話が本当なら、彼は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}If that's true, then he's...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0262",
    "jp": "{v:004E}こいつもリシャール同様、{n}作られた存在って事になるな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}That'd mean he was created, just like Richard.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0263",
    "jp": "{v:004F}まさか、作られた‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Could he really have been... created?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0264",
    "jp": "{v:0051}作られた存在か、それともエリオットのように本人か。{n}どうも、ややこしくなってきたな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Was he created, or is he the original, like Elliot? This is{n}getting complicated...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0265",
    "jp": "{v:0052}と、とにかく！{n}今はルイセちゃんを治すことが先じゃない？{n}ね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}A-anyway! Shouldn't we focus on getting Luise-chan{n}better first? Right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0266",
    "jp": "{v:0053}わたしを治すの？{n}‥‥どっか壊れちゃったのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}You're going to fix me? ...Is something broken?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0267",
    "jp": "{v:0011}な、何だお前たちは！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}W-who are you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0268",
    "jp": "{v:0012}お前たちのしている研究は、{n}我々に害を及ぼしそうなのでな‥‥。{n}この施設を破壊する。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Your research threatens to harm us... We will destroy{n}this facility.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0269",
    "jp": "{v:0013}そ、そんなことさせるか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}I-I won't let you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0270",
    "jp": "{v:0014}おい、この声は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Hey, that voice...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0271",
    "jp": "{v:0015}大変だよ！{n}あの仮面の男たち、学院を壊すつもりよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}We've got trouble! Those masked men are going to{n}destroy the Academy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0272",
    "jp": "{v:0016}そんなことさせないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}We won't let you do that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0273",
    "jp": "{v:0017}そんなことさせるか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Like hell you will!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0274",
    "jp": "{v:0018}ここの学生じゃ、連中には勝てねぇ！{n}俺たちで奴らを倒すんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}The students here can't beat them! We've gotta take{n}them down ourselves!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0275",
    "jp": "奴ら、いったい何なんだ！",
-   "en": "",
-   "term": "end"
+   "en": "What the hell are those things?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0276",
    "jp": "くそっ！{n}許せねぇよ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Damn it! They won't get away with this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0277",
    "jp": "こ、怖かった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I-I was so scared...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0278",
    "jp": "{v:0087}あっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0087}Ah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0279",
    "jp": "{v:0088}どうしたの、ティピ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0088}What's wrong, Tippi?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0280",
    "jp": "{v:0089}ちょっと待って！{p}‥‥{v:008A}うん、みんなここにいるけど。{n}どうしたの、マスター？{p}{FFF3}‥‥‥。{p}{FC02}{FFF4}{v:008B}えぇっ！？{n}バーンシュタイン軍がランザック王国に？{p}‥‥{v:008C}うん、わかった。{n}ちゃんと伝えるから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0089}Hang on a second!{p}...{v:008A}Yeah, everyone's here. What's up, Master?{p}{FFF3}...{p}{FC02}{FFF4}{v:008B}What?! The Burnstein army's attacking the Kingdom{n}of Ranzak?{p}...{v:008C}Okay, got it. I'll tell them!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0281",
    "jp": "{v:008D}バーンシュタイン軍が進行を開始したのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:008D}The Burnstein army's started its advance?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0282",
    "jp": "{v:008E}うん！{n}それで、ランザック王国から応援要請が{n}出てるんだって。{p}{FC03}{v:008F}もしアタシたちも行けたら、行くようにって、{n}言われちゃったんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008E}Yeah! And the Kingdom of Ranzak's asking{n}for reinforcements.{p}{FC03}{v:008F}She told us to go too, if we can...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0283",
    "jp": "{v:0090}どうしよう、お兄ちゃん？{n}いなくなったアイリーンさんたちを探すのと、{n}ランザック王国の応援と、どっちにするの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0090}What should we do, Big Brother? Should we look for{n}Irene-san and the others who've gone missing, or go{n}help the Kingdom of Ranzak?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0284",
    "jp": "{v:0091}どうするかはお前に任せる。{n}ただ、ランザックに向かうなら時間はないぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0091}It's your call. But if we're heading to Ranzak, there's no{n}time to waste.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0285",
    "jp": "お兄ちゃん、ダメだよ！{n}もう透明になる薬はないんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, don't! We don't have any invisibility potions{n}left, remember?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0286",
    "jp": "とにかく、ホールの中を{n}徹底的に探しましょ！",
-   "en": "",
-   "term": "end"
+   "en": "Anyway, let's search every corner of the hall!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen025.0287",
    "jp": "あのね、お兄ちゃん。{n}学院の施設内で大きな魔法を使うと、{n}怒られちゃうんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Um, Big Brother... We'll get in trouble if we use powerful{n}magic inside the Academy...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

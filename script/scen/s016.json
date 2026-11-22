@@ -15,104 +15,121 @@
   {
    "id": "scen016.0001",
    "jp": "一夜明けて",
-   "en": "",
-   "term": "end"
+   "en": "The next morning",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0002",
    "jp": "‥‥{v:003A}ルイセちゃん、大丈夫かな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003A}I wonder if Luise-chan will be all right...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0003",
    "jp": "{v:003B}まさか、御師様がこんなことをするなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}I never imagined my teacher would do such a thing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0004",
    "jp": "{v:003C}これじゃ、あの学院長と同じじゃねぇか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}He's no different from that damn Headmaster!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0005",
    "jp": "{v:003D}あの人、アタシたちを油断させるために{n}今まで助けてくれたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Was he helping us all this time just to make us let our{n}guard down?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0006",
    "jp": "{v:003E}彼が我々を助けてくれたのは、{n}油断させるためだったのだろうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Could he have helped us in order to make us lower{n}our guard?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0007",
    "jp": "{v:003F}今までの彼の行動は、私たちを油断させるため‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Everything he has done until now... Was it all to make{n}us lower our guard?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0008",
    "jp": "{v:0040}人を油断させておいて、これが狙いだったのかよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}So this is what he was after? Get us to drop our{n}guard, then pull this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0009",
    "jp": "{v:0041}僕たちを油断させるために、{n}今まで助けてくれたのでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Was he helping us all this time so that we would lower{n}our guard?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0010",
    "jp": "{v:0042}我々を油断させておいて、{n}ルイセのグローシュを狙っていたのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Was he after Luise's Grosh, making us lower our{n}guard first?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0011",
    "jp": "あの人、アタシたちを油断させるために{n}今まで助けてくれたのかなぁ‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "Was he helping us all this time just to make us let our{n}guard down...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0012",
    "jp": "{v:0043}そうとはいい切れんがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Can't say that for sure.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0013",
    "jp": "{v:0044}どうして？{n}だってルイセちゃんは能力を奪われちゃったんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Why not? He took Luise-chan's power away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0014",
    "jp": "{v:0045}考えてみろ。{n}ゲヴェルが現れた頃は、{n}まだルイセは生まれちゃいなかった。{p}{v:0046}その後エリオットが生まれ、すり替え事件の際に、{n}奴はエリオットを助けた。{n}さらにその後、ルイセが生まれた。{p}{v:0047}順番的にはちょっとおかしい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Think about it. Luise hadn't even been born when{n}Gevel appeared.{p}{v:0046}Then Elliot was born, and he saved Elliot when the{n}infants were switched. Luise was born after that.{p}{v:0047}The timing doesn't quite add up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0015",
    "jp": "{v:0048}そうですね。{n}それに、グローシュを奪う事が目的ならば、{n}他のグローシアンがいた頃に出来たはず。{p}{FC03}{v:0049}彼がルイセからグローシュを奪ったのは、{n}途中経過なのかも知れません‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}That is true. Besides, if stealing Grosh was his goal, he{n}could have done so when there were other{n}Growsians around.{p}{FC03}{v:0049}Taking Luise's Grosh may have been only one step along{n}the way...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0016",
    "jp": "{v:004A}それじゃ、本当の目的って何だろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Then what's he really after?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0017",
    "jp": "{v:004B}それは、わかりませんが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}That, I do not know...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0018",
@@ -123,98 +140,114 @@
   {
    "id": "scen016.0019",
    "jp": "{v:004C}ルイセ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Luise!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0020",
    "jp": "{v:004D}大丈夫なの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Are you all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0021",
    "jp": "{v:004E}う～ん‥‥。{n}わたし、どうしたの？{n}‥‥なんだか頭が重いよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Mmm... What happened to me? ...My head feels{n}so heavy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0022",
    "jp": "{v:004F}寝てた方がいいんじゃねぇか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Shouldn't you be in bed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0023",
    "jp": "‥‥{v:0050}わたし、どうして寝てたの？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0050}Why was I in bed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0024",
    "jp": "{v:0051}ルイセちゃん、覚えてないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Luise-chan, don't you remember?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0025",
    "jp": "{v:0052}えっ？{n}何かあったっけ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Huh? Did something happen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0026",
    "jp": "{v:0053}お前は、ヴェンツェルにグローシュを奪われたんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Wenzel took your Grosh.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0027",
    "jp": "{v:0054}ヴェン‥ツェ‥‥誰？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Wen...zel... Who?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0028",
    "jp": "{v:0055}おい、本当に忘れちまったのかよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Hey, have you really forgotten?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0029",
    "jp": "{v:0056}あの‥‥、同じようにグローシュを奪われた{n}アイリーンさんは学院で治療をしていましたよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}Um... Irene-san had her Grosh taken away too, and she{n}was being treated at the Academy, wasn't she?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0030",
    "jp": "{v:0057}そういえば、力を奪われちゃったグローシアン達を{n}学院で治療してたよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Come to think of it, they were treating the Growsians{n}who'd lost their powers at the Academy, weren't they?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0031",
    "jp": "{v:0058}そういえば、学院長にグローシュを奪われた人を、{n}学院で治療していたな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Come to think of it, the Academy was treating people{n}whose Grosh the Headmaster had stolen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0032",
    "jp": "アイリーンさんはどうなっただろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I wonder what happened to Irene-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0033",
    "jp": "{v:0059}そうか。{n}魔法学院に行けば、何かわかるかも知れねぇな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}I see. Might learn something at the Magic Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0034",
    "jp": "{v:005A}それじゃ、急いで出発しようよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Then let's hurry and get going!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0035",
@@ -261,149 +294,173 @@
   {
    "id": "scen016.0042",
    "jp": "{v:005B}私も出来る限りのことは調べてみます。{n}何かわかったらすぐに戻ってくるのですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}I will investigate everything I can as well. Come back as{n}soon as you learn anything.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0043",
    "jp": "自宅",
-   "en": "",
-   "term": "end"
+   "en": "Home",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0044",
    "jp": "ちょっと、一人でどこへ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going all by yourself?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0045",
    "jp": "{v:0022}それではあなた達の話を‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Now, let us hear what you have to say...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0046",
    "jp": "{v:0023}ルイセ、疲れちゃった‥‥。{n}もう寝るぅ～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Luise's tired... I'm going to bed nowww.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0047",
    "jp": "‥‥{v:0024}どうやらダメだったようですね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0024}It seems you had no success.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0048",
    "jp": "{v:0025}まったく無駄だったわけじゃないけど今のところはね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}It wasn't a total waste, but no luck so far.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0049",
    "jp": "{v:0026}副学院長がいろいろ調べてくれているが、{n}これっていう決め手がない。{p}{v:0027}だが手がかりになりそうなのが３つほどあって、{n}え～と‥‥{n}『グローシアンは時空の歪みの祝福を受けている』{p}{v:0028}『グローシュとは誰しもが持っていたはずの能力』{FFF9}{FFFB}{n}{v:0029}それから『真のグローシュの発現の鍵は‥‥』{n}何だったっけな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}The Vice Headmaster's looking into all sorts of things,{n}but there's nothing conclusive.{p}{v:0027}We've got three possible leads, though. Let's see...{n}'Growsians are blessed by distortions in space-time.'{p}{v:0028}'Grosh is an ability everyone must once have{n}possessed.'{FFF9}{FFFB} {v:0029}Then there's 'The key to awakening true{n}Grosh is...' How did the rest go?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0050",
    "jp": "『真のグローシュの発現の鍵は‥‥』の後に{n}続く言葉は？",
-   "en": "",
-   "term": "end"
+   "en": "What follows 'The key to awakening true Grosh is...'?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0051",
    "jp": "・時空の歪みに関係がある",
-   "en": "",
+   "en": "・Related to distortions in space-time",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0052",
    "jp": "・グローシアンの発生の元となる現象",
-   "en": "",
+   "en": "・The phenomenon that gives rise to Growsians",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0053",
    "jp": "・まったく解明されていない",
-   "en": "",
+   "en": "・Entirely unknown",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0054",
    "jp": "{v:002A}それだと、一番最初に言ったことと{n}同じになってしまいますね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}That would be the same as the very first point.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0055",
    "jp": "{v:002B}そう、それだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Yeah, that's it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0056",
    "jp": "‥‥{v:002C}ちぇっ！{p}{FC03}{v:002E}せっかく覚えてたのに～っ！{n}出る幕なかったぁ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002C}Hmph!{p}{FC03}{v:002E}I actually remembered that one! You didn't even give{n}me a chaaance!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0057",
    "jp": "{v:002F}それでは何の手がかりにもなりませんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}That would give us no lead at all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0058",
    "jp": "{v:0031}ふっふっふっ‥‥。アタシは覚えてるわよぉ。{p}{v:0032}『真のグローシュの発現の鍵は、{n}グローシアンの発生の元となる現象』これが答えよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Heh heh heh... I rememberrr!{p}{v:0032}'The key to awakening true Grosh is the phenomenon{n}that gives rise to Growsians.' There's your answer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0059",
    "jp": "{v:0033}でかしたぞ、ティピ。{n}よく覚えてたな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Good work, Tippi. Glad you remembered.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0060",
    "jp": "{FB00}‥‥{v:0034}コレだけだったんだケドね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}...{v:0034}That was the ONLY bit I remembered, though...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0061",
    "jp": "{v:00DC}『真のグローシュの発現の鍵は、{n}グローシアンの発生の元となる現象』{n}‥‥何やら意味深ですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DC}'The key to awakening true Grosh is the phenomenon{n}that gives rise to Growsians.' ...That seems{n}quite significant.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0062",
    "jp": "{v:0035}でしょ？{n}それで覚えてたんだけど‥‥。{p}{v:0036}どういう意味、マスター？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Right? That's why I remembered it, but...{p}{v:0036}What does it mean, Master?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0063",
    "jp": "{v:0037}『真のグローシュ』という言葉からするに、{n}今までのグローシュは{n}本当の力ではないということですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}The words 'true Grosh' suggest that the Grosh we{n}have used until now is not its true power.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0064",
    "jp": "{v:0038}ああ、副学院長もそう言っていたな。{n}真の能力が発現すると、{n}倍の力が出せることもあるとか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Yeah, the Vice Headmaster said that too. Apparently,{n}awakening that true ability can sometimes double{n}its power.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0065",
    "jp": "{v:0039}なるほど。{n}しかし問題は{n}『{FFEF}鍵は、グローシアンの発生の元となる現象{FFF1}』{n}の方ですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}I see. But the part we must consider is '{FFEF}the key is the{n}phenomenon that gives rise to Growsians{FFF1}.'",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0066",
@@ -414,42 +471,48 @@
   {
    "id": "scen016.0067",
    "jp": "・人々の結びつき",
-   "en": "",
+   "en": "・The bonds between people",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0068",
    "jp": "・星々の祝福",
-   "en": "",
+   "en": "・The blessing of the stars",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0069",
    "jp": "・日食や月食",
-   "en": "",
+   "en": "・Solar and lunar eclipses",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0070",
    "jp": "・わからない",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0071",
    "jp": "{v:003B}それは現象とは言いませんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}That is not what we would call a phenomenon.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0072",
    "jp": "{v:003C}その通りです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}That is correct.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0073",
@@ -460,326 +523,380 @@
   {
    "id": "scen016.0074",
    "jp": "{v:003E}グローシアンは必ず、{n}『{FFEF}日食{FFF1}』『{FFEF}月食{FFF1}』の間に生まれます。{n}このまれな天体現象がグローシアンには必要なのです。{p}{FC03}{v:003F}しかしそれは今のルイセには関係ないことでしょう。{p}{v:0040}問題はどうすればルイセが元に戻るのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Growsians are always born during a '{FFEF}solar eclipse{FFF1}' or a{n}'{FFEF}lunar eclipse{FFF1}.' These rare celestial phenomena are{n}necessary for Growsians to be born.{p}{FC03}{v:003F}But that likely has no bearing on Luise's{n}present condition.{p}{v:0040}The question is how to restore Luise to normal...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0075",
    "jp": "{v:0041}そうよねぇ。{n}ルイセちゃんったら、魔法学院のことや{n}ミーシャやアリオストさんまで忘れてるんだもん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Yeah... Luise-chan's forgotten the Magic Academy, and{n}even Misha and Ariost-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0076",
    "jp": "{v:0042}ちょっと気になってたんだが、どうしてグローシュが{n}無くなると記憶までなくなるんだ？{n}アイリーンの時もそうだったんだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Something's been bothering me. Why does losing your{n}Grosh take your memories with it? Same thing{n}happened to Irene...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0077",
    "jp": "{v:0043}たぶん、無理矢理グローシュを引き出されたための{n}後遺症でしょう。{p}{v:0044}グローシュを使うということは、{n}自分の中に元の世界とのチャンネルを開くと言うこと。{p}{v:0045}その方法を無意識に記憶しているわけですが、{n}その記憶を無理矢理に操作されたのです。{p}{v:0046}その影響で他の記憶も壊れ始めているのだと思います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}It is probably an aftereffect of having the Grosh{n}forcibly extracted.{p}{v:0044}Using Grosh means opening a channel within yourself to{n}the original world.{p}{v:0045}The memory of how to do that is held unconsciously,{n}but that memory was forcibly tampered with.{p}{v:0046}I believe the damage is causing her other memories to{n}break down as well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0078",
    "jp": "{v:0047}それじゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Then...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0079",
    "jp": "{v:0048}記憶を壊されるということは、今までのことを{n}忘れるだけでなく、知識を蓄え、新しい記憶を{n}することさえ出来なくなるということです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Having your memory destroyed means more than{n}forgetting the past. It also means losing the ability to{n}acquire knowledge or even form new memories.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0080",
    "jp": "{v:0049}そんな‥そんなのって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}No... That's just...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0081",
    "jp": "{v:004A}思ったより深刻だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Worse than I thought.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0082",
    "jp": "{v:004B}ルイセちゃんが直るなら‥‥、{n}アタシの事なんて忘れてもいいのに‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}If Luise-chan could just get better... I wouldn't care if{n}she forgot all about me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0083",
    "jp": "‥‥{v:004C}今の我々には手の施しようがありません。{p}{v:004D}とりあえず、今夜は休みましょう。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004C}There is nothing we can do for her at present.{p}{v:004D}For now, let us get some rest tonight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0084",
    "jp": "{v:0000}みんな、おはよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Good morning, everyone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0085",
    "jp": "‥‥{v:0001}よぉ、起きたか。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0001}Hey. You're up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0086",
    "jp": "{v:0002}みんなそろいましたね。{p}{v:0003}私も夕べはグローシアンについての学術書を{n}調べたのですが、あなた達が言っていた以上のことは{n}わかりませんでした。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Everyone is here now.{p}{v:0003}I consulted scholarly works on Growsians last night, but{n}learned nothing beyond what you told me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0087",
    "jp": "{v:0008}あの‥‥、これからどうすればいいのでしょう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Um... What should we do now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0088",
    "jp": "‥‥{v:0009}まいったな。{n}これからどうするつもりだ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0009}We're in a bind. What are you planning to do now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0089",
    "jp": "{v:0006}これからどうすればいいのでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}What should we do now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0090",
    "jp": "{v:0007}チッ！{n}これからどうするつもりだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Tch! What are you planning to do now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0091",
    "jp": "{v:0004}それじゃ、これからどうするの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}So, what are we going to do now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0092",
    "jp": "{v:0005}では、これからどうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Then, what shall we do now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0093",
    "jp": "それじゃ、これからどうするの？",
-   "en": "",
-   "term": "end"
+   "en": "So, what are we going to do now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0094",
    "jp": "{v:000B}それを考えなきゃならねぇんだがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}That's what we've got to figure out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0095",
    "jp": "{v:000C}お母さん、お兄ちゃん、おはよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Morning, Mother, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0096",
    "jp": "‥‥{v:000D}あ、いらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000D}Oh, hello. Welcome.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0097",
    "jp": "{v:000E}どうしたんだ、よそよそしいな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}What's wrong? You're acting like we're strangers.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0098",
    "jp": "‥‥{v:000F}おじちゃん、誰？{n}お母さんのお客さん？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000F}Who are you, mister? Are you here to see Mother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0099",
    "jp": "{FFF3}‥‥{v:0010}ん？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{v:0010}Hm?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0100",
    "jp": "{v:0011}ちょっと！{n}ウォレスさんじゃない！{n}忘れちゃったの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Hey! It's Wallace-san! Have you forgotten him?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0101",
    "jp": "‥‥{v:0012}なぁに、このちっちゃいの‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0012}What's this teeny little thing...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0102",
    "jp": "{v:0013}へっ！？{n}アタシのことも忘れちゃったの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Huh?! You've forgotten me too?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0103",
    "jp": "{v:0014}おもしろ～い♪{n}虫みたい★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}How funnyyy♪ Like a bug!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0104",
    "jp": "{v:0015}む‥むしぃ～っ？{n}何てこと言うのよ、アンタは！{p}{v:0016}う～、もうっ！{n}{FFEC}ティピちゃーん、キーック{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}A b-buuug?! How dare you call me that!{p}{v:0016}Grrr, that's it! {FFEC}Tippi-chan Kiiick!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0105",
    "jp": "{FFF5}{FFF3}{v:0017}く～っ！{n}{FFF4}どうしてアタシに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{FFF3}{v:0017}Grrr! {FFF4}Why me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0106",
    "jp": "％×＆★！？",
-   "en": "",
-   "term": "end"
+   "en": "%x&?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0107",
    "jp": "{v:0018}あぁっ！{n}虫がお兄ちゃん、蹴ったぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Ah! The bug kicked Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0108",
    "jp": "{v:0019}だって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0109",
    "jp": "{v:001A}ルイセ。{n}ちょっとマジックアローの魔法を使ってみなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Luise. Try casting Magic Arrow.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0110",
    "jp": "{v:001B}マジックアロー？{n}お家の中で使ったら、お部屋壊れちゃうよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Magic Arrow? But if I use it in the house, I'll{n}break things!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0111",
    "jp": "{v:001C}いいからやってみなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}It is all right. Try it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0112",
    "jp": "{v:001D}はぁい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Okaaay.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0113",
    "jp": "{FFF3}‥‥‥{FFF4}{v:0023}出来ない。{n}出来ないよ、お母さん！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FFF4}{v:0023}I can't. I can't do it, Mother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0114",
    "jp": "{v:0024}やっぱり‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}As I feared...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0115",
    "jp": "{FFF5}{v:0025}せっかく‥せっかく覚えたのに‥‥。{p}‥‥{v:0026}う‥‥うぅ{FFF6}{FFF2}‥‥うぇぇ～ん！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0025}But I... I worked so hard to learn it...{p}...{v:0026}Uh... *sob*{FFF6}{FFF2}... Waaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0116",
    "jp": "{v:0027}マスター、どういうこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Master, what's going on?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0117",
    "jp": "{v:0028}魔法の使い方も学習の積み重ねです。{n}記憶を失っていると言うことは、{n}その分の魔法が失われていることと同じです。{p}{v:0029}まさか初歩の魔法まで使えないほどになっているとは。{p}{FC03}{v:002A}このままではいずれ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Learning to use magic is also a gradual process. As{n}Luise loses those memories, she loses the spells she{n}learned with them.{p}{v:0029}I never imagined it had progressed so far that she{n}could no longer cast even a basic spell.{p}{FC03}{v:002A}If this continues, eventually...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0118",
    "jp": "{v:002B}一夜明けてこれだと、すぐにでも‥‥。{p}{v:002C}どうだろう？{n}保養所あたりで療養させた方がいいんじゃねぇのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}If she's this bad after one night, it won't be long...{p}{v:002C}What do you think? Wouldn't she be better off{n}recovering at a sanatorium or somewhere?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0119",
    "jp": "{v:002D}でも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0120",
    "jp": "{v:002E}仕方ねぇだろ、このままじゃ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}What choice have we got, with things like this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0121",
    "jp": "{v:002F}やむを得ませんね。{n}グローシュを戻す方法が見つかるまで、{n}保養所に預けましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}There is no other choice. We will leave her in the{n}sanatorium's care until we find a way to restore{n}her Grosh.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0122",
    "jp": "{FFF5}‥‥{v:0030}う‥ぐすっ。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:0030}Uh... *sniff*",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0123",
    "jp": "{v:0031}ルイセ。{n}お兄ちゃんとお出かけしなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Luise. Go on an outing with Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0124",
    "jp": "{FFF5}{v:0032}お出かけ？{p}{FC04}{v:0033}うん！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0032}An outing?{p}{FC04}{v:0033}Okay!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0125",
    "jp": "　{n}　　　　　{FFEF}ルイセが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Luise is now accompanying the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0126",
    "jp": "ルイセをラシェルへ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Take Luise to Rachelle...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0127",
    "jp": "{v:0034}私の方でも、いろいろ方法を調べてみます。{n}ルイセのことを頼みます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}I will investigate possible treatments as well. Please{n}take care of Luise.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0128",
@@ -790,881 +907,1022 @@
   {
    "id": "scen016.0129",
    "jp": "皿がある。",
-   "en": "",
-   "term": "end"
+   "en": "There is a plate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0130",
    "jp": "読みかけの本だ。",
-   "en": "",
-   "term": "end"
+   "en": "It's a partly read book.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0131",
    "jp": "ベッドで休みますか？",
-   "en": "",
-   "term": "end"
+   "en": "Rest in the bed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0132",
    "jp": "プロジェクト用重要書類{n}ここから、イベントのチェックポイントまで{n}ジャンプできます。",
-   "en": "",
-   "term": "end"
+   "en": "Important Project Documents. You can jump to event{n}checkpoints from here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0133",
    "jp": "チェックポイントへジャンプしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Jump to a checkpoint?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0134",
    "jp": "{v:00DD}お・に・い・ちゃん{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DD}Ohhh, Big Brother!{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0135",
    "jp": "{v:00AE}あら、ルイセちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AE}Oh, Luise-chan.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0136",
    "jp": "なんと声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0137",
    "jp": "・大丈夫かたずねる",
-   "en": "",
+   "en": "・Ask if she's all right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0138",
    "jp": "・寝てなくてもいいのかたずねる",
-   "en": "",
+   "en": "・Ask if she shouldn't be in bed",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0139",
    "jp": "{v:00AF}うん、だいじょうぶだよ♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AF}Yep, I'm okay♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0140",
    "jp": "{v:00B0}ルイセちゃん‥‥{FFF9}{FFFB}{n}{v:00B1}ううん、何でもないわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B0}Luise-chan...{FFF9}{FFFB} {v:00B1}No, it's nothing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0141",
    "jp": "{v:00B2}うん、もうねむくないもん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B2}Yep, I'm not sleepy anymore.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0142",
    "jp": "{v:00B3}ルイセちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B3}Luise-chan...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0143",
    "jp": "{v:00B4}あ～～、ヘンなムシィ～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B4}Aaah, a funny buuug!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0144",
    "jp": "{v:00B5}だから～！{n}アタシは虫じゃなくて、ティピだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B5}I told youuu! I'm Tippi, not a bug!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0145",
    "jp": "{v:00B6}ねぇ、ねぇ、おにいちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B6}Hey, hey, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0146",
    "jp": "‥‥{v:00B7}がーん‥ムシされた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00B7}Ouch... Ignored, like I'm some bug...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0147",
    "jp": "{v:00B8}ルイセね、おにいちゃんのこと、だ～いすきだよ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B8}You know, Big Brother, Luise loves you sooo much{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0148",
    "jp": "{FB00}{v:00B9}そーみたいね‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:00B9}Yeah, I can see that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0149",
    "jp": "{v:00BA}ねぇ、おにいちゃん！{n}ルイセ、おっきくなったら、なりたいものがあるの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BA}Hey, Big Brother! There's something Luise wants to be{n}when she grows up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0150",
    "jp": "{v:00BB}なんだとおもう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BB}Can you guess what?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0151",
    "jp": "・サンドラのような立派な魔導師",
-   "en": "",
+   "en": "・A great mage like Sandra",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0152",
    "jp": "・花屋さん",
-   "en": "",
+   "en": "・A florist",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0153",
    "jp": "・お嫁さん",
-   "en": "",
+   "en": "・A bride",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0154",
    "jp": "・わからない",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0155",
    "jp": "{v:00BC}ちがうよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BC}Nooo, that's not it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0156",
    "jp": "{v:00BD}わぁ、すご～い！{n}どうしてわかったの？{p}{v:00BE}でもね、でもね！{n}ふつうのおヨメさんじゃないよ！{p}{v:00BF}おにいちゃんのおヨメさんになるの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BD}Wow, you're amaaazing! How did you know?{p}{v:00BE}But, but! I don't want to be just any bride!{p}{v:00BF}I'm going to be your bride, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0157",
    "jp": "{v:00C0}え～、わかんないのぉ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C0}Aww, you don't knooow?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0158",
    "jp": "{v:00C1}わかるかぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C1}How's he supposed to know?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0159",
    "jp": "{v:00C2}うふふ{FFF0}♥{FFF1}{p}{v:00C3}あのね‥‥。{p}{v:00C4}おにいちゃんのおヨメさんになるの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C2}Hee hee{FFF0}♥{FFF1}{p}{v:00C3}Well, you see...{p}{v:00C4}I'm going to be your bride, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0160",
    "jp": "{v:00C5}きゃ～{FFF0}♥{FFF1}{FFF9}{FFFB}{n}{v:00C6}言っちゃったぁ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C5}Eeeek{FFF0}♥{FFF1}{FFF9}{FFFB} {v:00C6}I said it{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0161",
    "jp": "{FB00}{FFF2}{v:00C7}ははは‥‥。{p}{FFF4}{v:00C8}よかったわね、アンタ。{n}こんな可愛いお嫁さんが出来てさ。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{FFF2}{v:00C7}Ha ha ha...{p}{FFF4}{v:00C8}Lucky you. You've got yourself such a cute little bride.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0162",
    "jp": "{v:00C9}うん、わかってる。{n}早く何とかしてあげなくちゃね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C9}Yeah, I know. We've got to find a way to help her,{n}and fast...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0163",
    "jp": "{v:004E}お兄さま、ちょっといいですか‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Big Brother, do you have a moment...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0164",
    "jp": "{FFF3}‥‥。{p}{FFF4}{v:0050}ルイセちゃん‥‥治りますよね？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{p}{FFF4}{v:0050}Luise-chan... She'll get better, won't she?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0165",
    "jp": "{v:0051}ルイセちゃんは、アタシがルイセちゃんを{n}見張るために作られたと知った後も、{n}今までと変わらず接してくれたんです。{p}{v:0052}アタシの事を親友だって言ってくれて‥‥、{n}いつも気を遣ってくれて‥‥。{p}{v:0053}ルイセちゃんといる間は、{n}自分がホムンクルスだって事を忘れられるんです。{p}{v:0054}だから、今度はアタシが助ける番なのに、{n}でもアタシ、バカだから治す方法がわからなくて、{n}何もできない‥‥。{p}{v:0055}それが悔しくて、悔しくて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Even after Luise-chan found out I was created to{n}keep watch on her, she treated me just the same{n}as before.{p}{v:0052}She called me her best friend... She's always been{n}so thoughtful...{p}{v:0053}When I'm with Luise-chan, I can forget I'm{n}a homunculus.{p}{v:0054}So now it's my turn to help her, but I'm too stupid to{n}know how to make her better. I can't do anything...{p}{v:0055}And I hate that... I hate it so much...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0166",
    "jp": "なんと声をかけますか。",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0167",
    "jp": "・優しくいたわる",
-   "en": "",
+   "en": "・Gently comfort her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0168",
    "jp": "・お礼を言う",
-   "en": "",
+   "en": "・Thank her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0169",
    "jp": "{v:0056}え？{n}あ、アタシは‥‥ただ‥‥{n}ルイセちゃんに元に戻って欲しくて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}Huh? I... I just... I want Luise-chan to be herself again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0170",
    "jp": "{v:0057}アタシはただ、ルイセちゃんに{n}元に戻って欲しいだけだもん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}All I want is for Luise-chan to be herself again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0171",
    "jp": "{v:0058}ルイセちゃん、アタシの大切な親友だもの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Luise-chan is my dearest friend...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0172",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0173",
    "jp": "・ミーシャが泣くのをルイセは喜ばないと言う",
-   "en": "",
+   "en": "・Say Luise wouldn't want Misha to cry",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0174",
    "jp": "・自分が治してみせると約束する",
-   "en": "",
+   "en": "・Promise you'll make her better",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0175",
    "jp": "・優しく抱きしめる",
-   "en": "",
+   "en": "・Hold her tenderly",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0176",
    "jp": "‥‥{v:0059}ルイセちゃんが喜ばない‥‥。{p}{v:005A}確かにそうかも知れない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0059}Luise-chan wouldn't want that...{p}{v:005A}You're probably right...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0177",
    "jp": "{v:005B}お兄さま‥‥。{n}きっと‥‥{n}きっとルイセちゃんを救ってくださいね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Big Brother... Please... Please save Luise-chan...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0178",
    "jp": "‥‥{v:005C}お兄さま‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005C}Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0179",
    "jp": "{v:005D}アタシ、ルイセちゃんを助ける方法を、{n}もう一度探してみる。{p}{v:005E}そしてアタシに出来る方法で、{n}ルイセちゃんを助けてみせる！{p}{v:005F}だからお兄さまも元気を出してください！{n}アタシももう泣かないから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}I'm going to look for a way to help Luise-chan again.{p}{v:005E}And I'll find something I can do to save her!{p}{v:005F}So please, cheer up, Big Brother! I won't cry{n}anymore either!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0180",
    "jp": "{v:0060}それじゃ、お休みなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}Well then, good night.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0181",
    "jp": "{v:004F}お邪魔してごめんなさい。{n}それじゃ、お休みなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}I'm sorry I disturbed you. Good night, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0182",
    "jp": "{v:0061}よろしいですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}May I come in?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0183",
    "jp": "{v:0063}ずいぶんとお疲れみたいですね。{p}{v:0064}こんなことになってしまっては、無理もありませんが、{n}あなたが苦しそうにしているのを、{n}見ていられなくて‥{p}{v:0065}でも、こんな時こそ元気を出してください。{n}あなたまで倒れてしまっては、意味がありませんよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}You look terribly tired.{p}{v:0064}It's only natural after what's happened, but I couldn't{n}bear to see you suffering so...{p}{v:0065}Still, at a time like this, you must keep your spirits up.{n}It won't help anyone if you collapse too, will it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0184",
    "jp": "{v:0066}ルイセちゃんを救ってあげられれば良いのですが、{n}薬草ではどうしようもなくて‥‥。{p}{v:0067}こんな時に無力であること程、{n}はがゆいことはありません。{p}{v:0068}私にもう少し力があれば、{n}ルイセちゃんを救って、{n}あなたの心を安らかにしてあげられるのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}I wish I could save Luise-chan, but medicinal herbs{n}won't help her...{p}{v:0067}Nothing is more frustrating than being powerless at a{n}time like this.{p}{v:0068}If only I had a little more power, I could save{n}Luise-chan and put your heart at ease...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0185",
    "jp": "{FFF3}‥‥。{p}{FFF4}{v:0069}ごめんなさい‥‥。{FFF9}{FFFB}{n}{v:006A}あなたを慰めるつもりが、{n}逆に慰められたみたいね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{p}{FFF4}{v:0069}I'm sorry...{FFF9}{FFFB}{v:006A}I came to comfort you, but it seems{n}you've ended up comforting me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0186",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0187",
    "jp": "・心配してくれた礼を言う",
-   "en": "",
+   "en": "・Thank her for her concern",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0188",
    "jp": "・ルイセはきっと治ると言う",
-   "en": "",
+   "en": "・Say Luise will surely recover",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0189",
    "jp": "{v:006B}そ、そんな‥‥私は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}Oh, n-no... I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0190",
    "jp": "{v:006C}そうですよね。{n}私たちが信じなくては、治るものも治りませんよね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}You're right. If we don't believe she'll recover, she{n}never will.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0191",
    "jp": "{v:006D}それではお休みなさい。{FFF9}{FFFB}{n}{v:006E}あまり無理をしないでくださいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006D}Good night, then.{FFF9}{FFFB}{v:006E}Please don't push yourself{n}too hard.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0192",
    "jp": "{v:0062}お邪魔してごめんなさい。{n}でも、あまり無理をしないでくださいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}I'm sorry I disturbed you. But please, don't push{n}yourself too hard.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0193",
    "jp": "{v:006F}マイ＝ロード、少しお時間をいただけますか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006F}My Lord, may I have a moment of your time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0194",
    "jp": "{v:0071}心中お察しします。{n}ですが、あまり気を張りすぎないで下さい。{p}{v:0072}あなたは確かにお強い方です。{n}ですがそのままでは、いずれ体を壊してしまいます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}I understand your anguish. But please, do not strain{n}yourself so.{p}{v:0072}You are certainly strong. But if you continue like this,{n}your health will eventually suffer.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0195",
    "jp": "{v:0073}妹君のことが気にかかるのはわかります。{n}ですが、あなたの体はあなた１人のものでは{n}ないことを自覚して下さい。{p}{FC00}{v:0074}まだゲヴェルの脅威は去っておりません。{n}厳しいことを言うようですが、{n}ご自分をしっかり持って頂きたいのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0073}I understand your concern for your sister. But please{n}remember that your body is not yours alone.{p}{FC00}{v:0074}Gevel's threat has not yet passed. This may sound{n}harsh, but I ask that you hold yourself together.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0196",
    "jp": "‥‥{v:0075}出過ぎたまねをして申し訳ありませんでした。{p}{v:0076}ですが‥‥今のあなたは、{n}ともすれば壊れてしまいそうで‥‥。{p}{v:0077}見ている方が、辛くなってしまいます‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0075}Forgive me for overstepping my bounds.{p}{v:0076}But... you seem so close to breaking now...{p}{v:0077}It pains me just to watch...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0197",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0198",
    "jp": "・大丈夫だと伝える",
-   "en": "",
+   "en": "・Tell her you're all right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0199",
    "jp": "・心配をかけたことをわびる",
-   "en": "",
+   "en": "・Apologize for worrying him",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0200",
    "jp": "{v:0078}マイ＝ロード、信じています‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}My Lord, I have faith in you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0201",
    "jp": "{v:0079}どうやら大丈夫のようですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}It seems you will be all right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0202",
    "jp": "{v:007A}それでは失礼いたします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}Then I shall take my leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0203",
    "jp": "{v:0070}お邪魔して申し訳ありません。{n}失礼いたします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0070}Forgive me for disturbing you. I shall take my leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0204",
    "jp": "{v:007B}邪魔して悪いな。{n}ちょっと話がある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007B}Sorry to bother you. We need to talk.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0205",
    "jp": "{v:007C}ルイセのことは確かに心配だが、{n}俺はお前の方も心配だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007C}I'm worried about Luise, all right. But I'm worried about{n}you, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0206",
    "jp": "{v:007D}最近、ひどく疲れているように見えるが？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007D}You've been looking worn out lately.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0207",
    "jp": "{v:0080}戦士たる者は、常に戦える状態を{n}維持しなければならない。{p}{v:0081}こんなことになって、普通でいられないのはわかるが、{n}今のお前には気迫がまるで感じられない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0080}A warrior has to stay ready to fight at all times.{p}{v:0081}I know you can't carry on as usual after this. But right{n}now, I can't feel an ounce of fighting spirit in you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0208",
    "jp": "{v:007E}そうかな？{n}確かに俺の目はよく見えないが、{n}心の目までは失っていない。{p}{v:007F}今のお前の状態くらい、手に取るようにわかる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}Is that so? My eyes may not see well, but I haven't{n}lost my mind's eye.{p}{v:007F}I can see exactly what state you're in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0209",
    "jp": "{v:0084}これからゲヴェルと戦おうって時だ。{n}リーダーであるお前の心がふらついていては、{n}周りが不安になる。{p}{v:0085}それにそんな調子じゃ、{n}ルイセが元に戻ったときに顔向けができないぞ？{p}{v:0086}俺が言いたいのはそのくらいだ。{n}じゃぁな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0084}We're about to face Gevel. You're our leader. If your{n}resolve wavers, everyone else gets uneasy.{p}{v:0085}Besides, how will you face Luise when she's back to{n}normal if you keep this up?{p}{v:0086}That's all I wanted to say. See you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0210",
    "jp": "{v:0096}ちょっといいかな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0096}Have you got a moment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0211",
    "jp": "{v:0097}ここの所、ずいぶん疲れているようだね。{n}ルイセ君がああなってしまった以上、{n}しかたがないことだが。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0097}You've looked very tired lately. Understandable, given{n}what's happened to Luise-kun.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0212",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0213",
    "jp": "・疲れていない",
-   "en": "",
+   "en": "・I'm not tired",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0214",
    "jp": "・少し疲れている",
-   "en": "",
+   "en": "・I'm a little tired",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0215",
    "jp": "{v:0098}そうかな？{n}僕の目にはずいぶんと疲れたようにうつるんだが？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0098}Really? You look quite exhausted to me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0216",
    "jp": "{v:0099}君がすんなり認めるということは、{n}ずいぶん疲れているらしいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0099}If you're admitting it so readily, you must be very{n}tired indeed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0217",
    "jp": "{v:009A}とにかく、あまり無理はしない方がいい。{n}疲れた状態じゃ、いい考えは生まれないからね。{p}{v:009B}きっと治療法があるはずだ。{n}だから最後まで諦めちゃいけない。{FFF9}{FFFB}{n}{v:009C}そうだろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:009A}In any case, you shouldn't push yourself too hard.{n}Good ideas don't come easily when you're exhausted.{p}{v:009B}There must be a cure. So we mustn't give up until the{n}very end.{FFF9}{FFFB}{v:009C}Wouldn't you agree?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0218",
    "jp": "{v:009D}僕も力を貸そう。{n}やれるだけやってみようじゃないか。{n}だから１人で苦しむ必要はないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009D}I'll help you, too. Let's do everything we can. You don't{n}have to suffer alone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0219",
    "jp": "{v:009F}さて、もう夜も遅い。{n}僕はこれで失礼させてもらうよ。{p}{v:00A0}お休み。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009F}Well, it's getting late. I'll leave you now.{p}{v:00A0}Good night.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0220",
    "jp": "{v:00A1}よう、ちょっと話があるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A1}Hey, I need to talk to you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0221",
    "jp": "{v:00A2}お前、ずいぶんと落ち込んでるみたいだな。{p}{v:00A3}いや、俺には隠さなくていい。{n}俺もカレンの一件で、{n}似たような気持ちを味わったからな。{p}{v:00A4}だからしっかりしろと言うことが、{n}酷なことだというのは分かっている。{n}だがな‥‥、焦れば焦るほど、物事は悪い方へ進む。{p}{v:00A5}それにこういうことを言うのは、らしくないんだが、{n}今のお前を見ていられなくてな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A2}You're looking pretty down.{p}{v:00A3}No, you don't have to hide it from me. I felt much the{n}same way over what happened to Karen.{p}{v:00A4}So I know it's cruel to tell you to pull yourself{n}together. But... the more desperate you get, the worse{n}things turn out.{p}{v:00A5}And saying this isn't like me, but I can't stand seeing{n}you like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0222",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0223",
    "jp": "・心配をかけたことをわびる",
-   "en": "",
+   "en": "・Apologize for worrying him",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0224",
    "jp": "・大丈夫だと答える",
-   "en": "",
+   "en": "・Say you're all right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0225",
    "jp": "・ゼノスの時よりは冷静だと答える",
-   "en": "",
+   "en": "・Say you're calmer than Xenos was",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0226",
    "jp": "{v:00A6}お前に受けた恩に比べれば、このくらい何ともない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A6}This is nothing compared to what I owe you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0227",
    "jp": "{v:00A7}あんまり無理するんじゃねえぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A7}Don't push yourself too damn hard.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0228",
    "jp": "{v:00A8}へっ、言ってくれるぜ。{p}{v:00A9}ま、そういう軽口がたたけるなら大丈夫か。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A8}Heh, you've got some nerve.{p}{v:00A9}Well, if you can still crack jokes like that, I guess you're{n}all right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0229",
    "jp": "{v:00AA}それはともかく。{n}俺もできるかぎりの事はするつもりだ。{p}{v:00AB}だから最後まで諦めずにいこうぜ。{n}諦めなければ、きっと何か方法が見つかるはずだ。{FFF9}{FFFB}{n}{v:00AC}カレンの時のようにな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AA}Anyway, I'm going to do everything I can, too.{p}{v:00AB}So let's keep at it to the end. If we don't give up, we're{n}bound to find a way.{FFF9}{FFFB}{v:00AC}Just like we did with Karen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0230",
    "jp": "{v:00AD}それじゃな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AD}See you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0231",
    "jp": "{v:0087}少し、よろしいですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0087}May I have a moment?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0232",
    "jp": "{v:0088}ルイセさんのこと、これからどうするおつもりですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0088}What do you intend to do about Luise-san now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0233",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0234",
    "jp": "・必ず助けると言う",
-   "en": "",
+   "en": "・Say you'll save her no matter what",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0235",
    "jp": "・思案中と言う",
-   "en": "",
+   "en": "・Say you're still thinking",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0236",
    "jp": "・見当もつかないと言う",
-   "en": "",
+   "en": "・Say you have no idea",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0237",
    "jp": "{v:0089}その意気です！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0089}That's the spirit!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0238",
    "jp": "{v:008A}そうなんですか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008A}I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0239",
    "jp": "{v:008B}そうなんですか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008B}I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0240",
    "jp": "{v:008C}でも、焦らないでください。{n}焦ったところで、いい結果は生まれませんから。{p}{FC00}{v:008D}きっとグローシュを取り戻す方法があるはずです。{n}それを見つけだしましょう！{FFF9}{FFFB}{n}{v:008E}そのためにもあなたがしっかりしないと！{p}{FC03}{v:008F}今のあなたは、{n}僕が目標としていたあなたじゃありません。{n}ともすれば消え入りそうなほど、弱々しい‥‥。{p}{FC00}{v:0090}本当にルイセさんを助けたいのなら、{n}まずあなた自身が心をしっかり持たないと！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008C}But please, don't get impatient. Nothing good will come{n}of rushing things.{p}{FC00}{v:008D}There must be a way to recover her Grosh. Let's find{n}it!{FFF9}{FFFB}{v:008E}And to do that, you need to pull yourself together!{p}{FC03}{v:008F}Right now, you're not the person I've always aspired{n}to be. You seem so frail, you could fade away...{p}{FC00}{v:0090}If you truly want to save Luise-san, you must first find{n}the strength within yourself!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0241",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0242",
    "jp": "・素直にうなずく",
-   "en": "",
+   "en": "・Nod in agreement",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0243",
    "jp": "・大丈夫だと答える",
-   "en": "",
+   "en": "・Say you're all right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0244",
    "jp": "・心配をかけたことをわびる",
-   "en": "",
+   "en": "・Apologize for worrying him",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0245",
    "jp": "{v:0091}そうですとも！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0091}That's right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0246",
    "jp": "{v:0092}そうですか？{n}僕にはずいぶんと落ち込んでいるように見えますが‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0092}Are you? You seem terribly downhearted to me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0247",
    "jp": "{v:0093}いえ、落ち込んでいるあなたの姿を見ていられなくて。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0093}No, I just couldn't bear to see you so downhearted.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0248",
    "jp": "{v:0094}とにかく、みんなのためにもしっかりして下さいね。{p}{v:0095}それじゃ、僕はこれで失礼します。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0094}In any case, please stay strong for everyone's{n}sake, too.{p}{v:0095}Well then, I'll leave you now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0249",
    "jp": "{v:00CA}静かね‥‥。{n}みんな寝ちゃったのかな。{p}{v:00CB}こんなに静かだと、まるでこの世界に{n}アタシ達しかいないみたい‥‥。{p}{v:00CC}アンタ、ルイセちゃんのこと気になるんでしょ？{n}ここのところ元気ないもん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CA}It's quiet... I wonder if everyone's asleep.{p}{v:00CB}When it's this quiet, it feels like we're the only ones left{n}in the whole world...{p}{v:00CC}You're worried about Luise-chan, aren't you? You've{n}been so down lately.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0250",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0251",
    "jp": "・大丈夫だと答える",
-   "en": "",
+   "en": "・Say you're all right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0252",
    "jp": "・素直にうなずく",
-   "en": "",
+   "en": "・Nod in agreement",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0253",
    "jp": "・もとに戻す方法を考えていると言う",
-   "en": "",
+   "en": "・Say you're thinking of how to cure her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0254",
    "jp": "{v:00CD}そんな事言ったって無駄よ。{n}いつもアンタの側にいる、{n}このアタシが気づかないとでも思ってるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CD}Don't bother telling me that. I'm always right by your{n}side! You think I wouldn't notice?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0255",
    "jp": "{v:00CE}元気だしなよ‥‥{FFF9}{FFFB}{n}{FC03}{v:00CF}って言っても、出せるものなら{n}もうとっくにだしてるか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CE}Cheer up...{FFF9}{FFFB}{FC03}{v:00CF}Though I guess if you could, you would've{n}done it ages ago...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0256",
    "jp": "{v:00D0}ホントね‥‥。{n}今でもルイセちゃんのグローシュが{n}抜き取られたって信じられないもの‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D0}Yeah... I still can't believe someone took{n}Luise-chan's Grosh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0257",
    "jp": "{v:00D1}でもなんでよりによってルイセちゃんなんだろう‥‥{p}{v:00D2}たまたまグローシュを持って生まれただけなのに、{n}なんでここまでヒドイ目に合わなきゃいけないのかな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D1}But why did it have to be Luise-chan, of all people...?{p}{v:00D2}She just happened to be born with Grosh. Why should{n}she have to go through something this awful?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0258",
    "jp": "{v:00D3}こんなのってないよね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D3}It's just not fair...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0259",
    "jp": "・全て任せるように言う",
-   "en": "",
+   "en": "・Tell her to leave everything to you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0260",
    "jp": "・心配しないように安心させる",
-   "en": "",
+   "en": "・Reassure her there's no need to worry",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0261",
    "jp": "{v:00D4}かっこいいこと言ってくれちゃって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D4}Listen to you, sounding so cool...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0262",
    "jp": "{v:00D5}そうだね、アタシまで落ち込んでたらだめだよね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D5}You're right. I can't go getting all gloomy too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0263",
    "jp": "{v:00D6}あはは‥‥[01BE]{n}ホントはアタシがアンタを慰めなきゃいけないのに、{n}なんか逆に慰められちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D6}Ahaha...[01BE] I was supposed to be comforting you, but{n}somehow you ended up comforting me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0264",
    "jp": "{v:00D7}ねぇ‥‥絶対にルイセちゃんを元に戻してあげようね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D7}Hey... we'll get Luise-chan back to normal. Right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0265",
    "jp": "・静かにうなずく",
-   "en": "",
+   "en": "・Nod quietly",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0266",
    "jp": "・力強くうなずく",
-   "en": "",
+   "en": "・Nod firmly",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen016.0267",
    "jp": "{v:00D8}その意気、その意気！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D8}That's the spirit! That's the spirit!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0268",
    "jp": "{v:00D9}絶対だよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D9}You promise?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0269",
    "jp": "{v:00DA}それじゃ、もう夜も遅いし、そろそろ寝ようか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00DA}Well, it's getting late. Shall we get some sleep?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0270",
@@ -1675,20 +1933,23 @@
   {
    "id": "scen016.0271",
    "jp": "お母さんたちを連れて、バーンシュタインまで{n}テレポートしなくちゃいけないんでしょ？{n}今は少しでも休みたいんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I have to Teleport Mother and the others to Burnstein,{n}right? I'd like to rest while I can...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0272",
    "jp": "そうそう！{n}街の入り口まででしょ？{n}買い物でもしながら歩いていこうよ！",
-   "en": "",
-   "term": "end"
+   "en": "Exactly! We're only going to the entrance to town,{n}right? Let's walk and do some shopping along the way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen016.0273",
    "jp": "マスターをどこへ連れ出す気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're taking Master?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

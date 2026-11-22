@@ -15,80 +15,93 @@
   {
    "id": "scen221.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen221.0002",
    "jp": "バーンシュタイン兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen221.0003",
    "jp": "ランザック兵",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen221.0004",
    "jp": "ランザック兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen221.0005",
    "jp": "{v:0009}状況はどうなってる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}What's the situation?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0006",
    "jp": "{v:000A}ローランディアとバーンシュタインの戦いは{n}互角みたい。{p}{v:000B}それにまだランザック軍は{n}到着してないみたいだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Looks like Rolandia and Burnstein are evenly matched.{p}{v:000B}And it looks like the Ranzak army isn't here yet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0007",
    "jp": "{v:000C}間に合ったみたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Looks like we made it in time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0008",
    "jp": "{v:000D}それじゃ、バーンシュタイン軍の後方部隊に{n}攻撃をかけるんだ。{p}{v:000E}そしてランザック軍がやってきたら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Then we attack the Burnstein army's rear units.{p}{v:000E}And when the Ranzak army arrives...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0009",
    "jp": "{v:000F}ランザック軍の方へ逃げればいいんだね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}We run toward the Ranzak army, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0010",
    "jp": "{v:0010}そうだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0011",
    "jp": "{v:0012}そしてランザック軍とバーンシュタイン軍を{n}戦わせればいいのですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Then we just need to get the Ranzak and Burnstein{n}armies to fight each other.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0012",
    "jp": "{v:0011}後はバーンシュタイン軍とランザック軍を{n}戦わせればいい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}After that, we just have to get the Burnstein and{n}Ranzak armies fighting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0013",
    "jp": "{v:0013}後はバーンシュタイン軍とランザック軍が{n}戦いになるようにするだけだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Then all we have to do is get the Burnstein and Ranzak{n}armies to fight, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0014",
@@ -99,660 +112,769 @@
   {
    "id": "scen221.0015",
    "jp": "{v:0052}みんな、がんばって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Give it your all, everyone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0016",
    "jp": "{FFEE}バーンシュタイン軍に攻撃を仕掛けろ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Attack the Burnstein army!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0017",
    "jp": "これじゃ歯が立たねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We ain't got a chance...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0018",
    "jp": "うぅ‥‥。{n}もうダメ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Ugh... I can't go on...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0019",
    "jp": "勝てると思ったのに‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I thought we could win...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0020",
    "jp": "何でこんな事に‥‥",
-   "en": "",
-   "term": "end"
+   "en": "How did it come to this...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0021",
    "jp": "グハッ！",
-   "en": "",
-   "term": "end"
+   "en": "Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0022",
    "jp": "俺はローランディア軍と戦うために{n}ここへ来たんだぞ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I came here to fight the Rolandia army...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0023",
    "jp": "ランザックの奴らめ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Those Ranzak bastards...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0024",
    "jp": "あぁ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Ah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0025",
    "jp": "この剣にかけて、負けるわけには‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I swear by this sword, I cannot lose...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0026",
    "jp": "クッ！{n}これまでか‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Argh! Is this the end...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0027",
    "jp": "{v:0023}ええい、よくもやってくれたな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Damn you! You'll pay for this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0028",
    "jp": "ええい、よくもやってくれたな！",
-   "en": "",
-   "term": "end"
+   "en": "Damn you! You'll pay for this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0029",
    "jp": "{v:0024}それはこちらの台詞だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}I should be saying that to you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0030",
    "jp": "{v:0025}どうやら成功したみたいだね！{p}{v:0026}後はアタシ達が無事に脱出できればいいんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Looks like it worked!{p}{v:0026}Now we just have to get out of here in one piece.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0031",
    "jp": "誰も知ってる人がいないから、{n}私たちの正体がバレたりしないですむね。",
-   "en": "",
-   "term": "end"
+   "en": "There's no one we know here, so they won't find out{n}who we are.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0032",
    "jp": "そうだな。{n}だが、やられたりして捕まる事だけは避けないとな。",
-   "en": "",
-   "term": "end"
+   "en": "Right. But we can't afford to get beaten and captured.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0033",
    "jp": "{FFEE}ジュリアンに正体を見破られないように注意！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Be careful not to let Julian discover who you are!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0034",
    "jp": "{v:001F}ん？{n}あれはバーンシュタイン軍の兵士か？{p}{v:0020}どういうことだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Hmm? Are those Burnstein soldiers?{p}{v:0020}What is going on?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0035",
    "jp": "{v:0050}全員脱出した？{p}{v:0051}とにかくお城に戻ろうよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Did everyone get out?{p}{v:0051}Anyway, let's get back to the castle!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0036",
    "jp": "アンタねぇ～。{n}みんなより先に逃げてどうするのよ！{p}アンタは、しんがりを務めるの！{n}わかった？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you! What are you doing running off before{n}everyone else?!{p}You're supposed to bring up the rear! Got it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0037",
    "jp": "まだ作戦が終わってないでしょ？{n}バーンシュタインとランザックを戦わせる前に逃げて{n}どうすんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "We're not done yet! What's the point of running away{n}before we get Burnstein and Ranzak fighting?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0038",
    "jp": "気を付けてね、お兄ちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Be careful, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0039",
    "jp": "後は任せたぞ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The rest is up to you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0040",
    "jp": "先に行かせてもらうよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll go on ahead.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0041",
    "jp": "お兄さま！{n}必ず来て下さいね！",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother! Please make sure you come too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0042",
    "jp": "向こうで待ってます‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'll be waiting over there...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0043",
    "jp": "{v:0007}バカバカバカ！{n}なにやってんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Idiot, idiot, idiot! What are you doing?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0044",
    "jp": "{v:005B}お兄ちゃんごめんね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}I'm sorry, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0045",
    "jp": "{v:0016}すまん‥‥不覚をとった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Sorry... I let my guard down...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0046",
    "jp": "{v:003B}僕の力は、この程度だったのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Was this really all I could do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0047",
    "jp": "{v:007F}ミーシャ、お星様になりますぅ～～‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:007F}Misha's going to be a star in the skyyy...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0048",
    "jp": "{v:006E}みなさんごめんなさい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}I'm sorry, everyone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0049",
    "jp": "{v:003D}ん、なぜこんな所に少女が？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Hmm? What is a young girl doing here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0050",
    "jp": "{FB00}{v:003E}う～んと、その‥‥えへへっ！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:003E}Weeell, um... heehee!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0051",
    "jp": "{v:003F}ん？{n}兵士には見えぬ男だな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Hmm? That man does not look like a soldier.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0052",
    "jp": "‥‥{v:0040}だろうね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0040}I suppose not.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0053",
    "jp": "{v:0041}ん？{n}なぜこのようなところに女性が？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Hmm? What is a woman doing in a place like this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0054",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0055",
    "jp": "{v:0042}ランザック軍が我が軍の後方に！？{n}{FC02}話が違うではないか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}The Ranzak army is behind our forces?! {FC02}That was not{n}the agreement!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0056",
    "jp": "くっ、この私を倒すとは‥‥。{n}いったい何者だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Argh... To think you could defeat me... Who are you...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0057",
    "jp": "お前は！？",
-   "en": "",
-   "term": "end"
+   "en": "You?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0058",
    "jp": "そうか、我が隊を混乱させているのは{n}お前たちだったのか‥‥。{p}よくここまで腕を上げたものだ。{n}だが次はこうはいかんぞ！",
-   "en": "",
-   "term": "end"
+   "en": "I see. So you were the ones throwing my troops{n}into confusion...{p}Your skills have improved considerably. But next time{n}will be different!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0059",
    "jp": "くっ、ここまで腕を上げていたのか‥‥。{n}正直、信じられぬ‥‥。{n}だが次はこうはいかんぞ！",
-   "en": "",
-   "term": "end"
+   "en": "Argh... Have your skills improved so much...? I can{n}scarcely believe it... But next time will be different!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0060",
    "jp": "ゆ、許せねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Y-you'll pay for this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0061",
    "jp": "う、裏切られた‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Th-they betrayed us...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0062",
    "jp": "バーンシュタイン軍なんか{n}信じるんじゃなかった‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Should never have trusted the Burnstein army...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0063",
    "jp": "く、苦しい‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I-it hurts...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0064",
    "jp": "{v:004D}すっご～い！{n}アタシ達だけで全滅させちゃったよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Woooow! We wiped them all out by ourselves!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0065",
    "jp": "{v:004E}と言っても、バーンシュタイン軍の最後尾１部隊と、{n}ランザック軍の斥候だ。{p}{v:004F}これから両国の本隊が来るぞ。{n}今のうちに脱出しよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Still, that was just one unit at the rear of the{n}Burnstein army and the Ranzak scouts.{p}{v:004F}Both armies' main forces are on their way. Let's get out{n}while we can.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0066",
    "jp": "{v:0019}何だと？{n}なぜランザック軍が我々に！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}What? Why is the Ranzak army attacking us?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0067",
    "jp": "何！？{n}なぜランザック軍が我々に！？",
-   "en": "",
-   "term": "end"
+   "en": "What?! Why is the Ranzak army attacking us?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0068",
    "jp": "{v:001A}悪いな。{n}約束ってのは破られることもあるんだぜ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Sorry. Promises get broken sometimes, you know?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0069",
    "jp": "{v:001B}おのれ！{p}{v:001C}総員反撃開始！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Damn you!{p}{v:001C}All troops, counterattack!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0070",
    "jp": "おのれ！{n}総員反撃開始！",
-   "en": "",
-   "term": "end"
+   "en": "Damn you! All troops, counterattack!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0071",
    "jp": "{v:0016}ん？奴らは？{n}ランザック軍の斥候か？{p}{v:0017}奴らはローランディア軍の後方に{n}回り込むはずじゃないのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Hmm? Who are they? Ranzak scouts?{p}{v:0017}Weren't they supposed to circle around behind the{n}Rolandia army?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0072",
    "jp": "{v:0018}何か問題が起こって、{n}伝令をよこしたのかもしれんぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Perhaps something went wrong and they sent{n}a messenger.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0073",
    "jp": "{v:0021}何だと？{n}バーンシュタインの連中が我が方に攻撃！？{p}{v:0022}くっ！{n}裏切ったか！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}What? The Burnstein troops are attacking us?!{p}{v:0022}Damn! Have they betrayed us?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0074",
    "jp": "{v:001D}あ、ランザック軍が来たよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Oh, the Ranzak army's here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0075",
    "jp": "ん？{n}これは、どうしたことだ？{n}なぜ我々がバーンシュタイン軍の後方にいるのだ？",
-   "en": "",
-   "term": "end"
+   "en": "Hmm? What is going on? Why are we behind the{n}Burnstein army?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0076",
    "jp": "！？{n}これは一体、どういうことだ？",
-   "en": "",
-   "term": "end"
+   "en": "?! What in the world is going on?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0077",
    "jp": "私にも分からないが‥‥。{n}どうやら森で方向感覚が狂ってしまったようだ。",
-   "en": "",
-   "term": "end"
+   "en": "I do not know either... It seems we lost our bearings in{n}the forest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0078",
    "jp": "と、すると、あそこにいる奴らはなんだ？",
-   "en": "",
-   "term": "end"
+   "en": "Th-then who are those people over there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0079",
    "jp": "どうするのよ！{n}これじゃ、作戦失敗じゃない！",
-   "en": "",
-   "term": "end"
+   "en": "What are we gonna do?! The plan's ruined!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0080",
    "jp": "そうだな‥‥。{n}我々の正体がバレた以上、{n}両軍を交戦させるのは、もう無理だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Yeah... Now that they know who we are, there's no way{n}to get the two armies fighting...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0081",
    "jp": "{v:001E}よし、このまま戻って両軍を戦わせるんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Good. Now head back and get the two armies fighting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0082",
    "jp": "{FFEE}両軍が直接交戦するように誘導し、脱出せよ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Lure the two armies into direct combat, then escape!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0083",
    "jp": "{v:0027}何をしてる！{n}隊列を乱すな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}What are you doing?! Hold formation!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0084",
    "jp": "{v:0028}ジュリアン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Julian...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0085",
    "jp": "{v:0029}あっ、将軍！{n}実はランザック軍が我々に攻撃を‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Ah, General! The Ranzak army is attacking us...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0086",
    "jp": "あっ、将軍！{n}実はランザック軍が我々に攻撃を‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "Ah, General! The Ranzak army is attacking us...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0087",
    "jp": "{v:002A}なにっ？{n}奴らめ、裏切ったか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}What?! Those scoundrels have betrayed us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0088",
    "jp": "‥‥{v:002B}これは‥‥。{n}我が部隊がいない！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002B}What is this...? My troops are gone?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0089",
    "jp": "{v:002C}お前は！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}You?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0090",
    "jp": "{v:002D}そうか、我が隊を混乱させているのはお前たちか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}I see. So you are the ones throwing my troops{n}into confusion.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0091",
    "jp": "何か応えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you say anything?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0092",
    "jp": "・気づいた事を誉める",
-   "en": "",
+   "en": "・Praise Julian for noticing",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen221.0093",
    "jp": "・偶然だとシラを切る",
-   "en": "",
+   "en": "・Pretend it is a coincidence",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen221.0094",
    "jp": "・降伏するように勧める",
-   "en": "",
+   "en": "・Suggest surrender",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen221.0095",
    "jp": "・なにも言わない",
-   "en": "",
+   "en": "・Say nothing",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen221.0096",
    "jp": "{v:002F}お前は、私を馬鹿にしているのか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Are you mocking me?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0097",
    "jp": "{v:0030}見え透いた嘘をつくな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Do not tell such obvious lies!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0098",
    "jp": "{v:0031}私はインペリアル・ナイトだ。{n}お前には負けん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}I am an Imperial Knight. I will not lose to you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0099",
    "jp": "{v:0032}まあ、いい。{n}お前とは敵であるという事実だけで十分だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Very well. The fact that we are enemies is all I need{n}to know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0100",
    "jp": "{v:0033}き、君は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Y-you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0101",
    "jp": "{v:0034}ジュリアンさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Julian-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0102",
    "jp": "{v:0035}君たちが我が隊を攻撃したんだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}So you were the ones who attacked my troops.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0103",
    "jp": "{v:0036}ごめんね。{n}だけど、わたし達だって負けるわけにはいかないの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}I'm sorry. But we can't afford to lose either.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0104",
    "jp": "{v:0037}仕方ないさ。{n}それが戦争というものだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Can't be helped. That's war for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0105",
    "jp": "{v:0038}あなたは、ウォレス‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}You are Wallace...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0106",
    "jp": "{v:0039}その声はジュリアンか。{n}一軍を指揮するようになったのか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}That voice... Julian? So you're commanding an{n}army now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0107",
    "jp": "{v:003A}あなた方には何の恨みもない。{n}いや、むしろ感謝している。{p}{v:003B}しかし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}I bear you no ill will. In fact, I am grateful to you.{p}{v:003B}But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0108",
    "jp": "{v:003C}悩むな、ジュリアン。{n}戦場での迷いや嘆きは、死につながるぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Don't agonize over it, Julian. Hesitation and regret on{n}the battlefield will get you killed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0109",
    "jp": "全軍に告ぐ！{n}今すぐに戦闘をやめよ！{p}これはローランディア軍のワナだ！{n}我々バーンシュタインと、ランザックとの同盟を{n}決裂させるためのな！",
-   "en": "",
-   "term": "end"
+   "en": "All troops! Cease fighting at once!{p}This is a trap set by the Rolandia army! They mean to{n}break the alliance between Burnstein and Ranzak!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0110",
    "jp": "くっ！{n}そういう事だったのか！",
-   "en": "",
-   "term": "end"
+   "en": "Damn! So that was their plan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0111",
    "jp": "我々バーンシュタインと、ランザックとの同盟を{n}決裂させるつもりだったのか？{p}だが、私に気づかれた以上、それは無理だな。{n}この勝負、お前たちの負けだ。",
-   "en": "",
-   "term": "end"
+   "en": "Were you trying to break the alliance between{n}Burnstein and Ranzak?{p}Now that I have seen through your plan, you cannot{n}succeed. You have lost this battle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0112",
    "jp": "我々バーンシュタインと、ランザックとの同盟を{n}決裂させるつもりだったのか？",
-   "en": "",
-   "term": "end"
+   "en": "Were you trying to break the alliance between{n}Burnstein and Ranzak?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0113",
    "jp": "これより我々はランザック軍と合流し、{n}ローランディア軍へ総攻撃をかける。",
-   "en": "",
-   "term": "end"
+   "en": "We shall now join forces with the Ranzak army and{n}launch an all-out assault on the Rolandia army.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0114",
    "jp": "そんなぁ～。",
-   "en": "",
-   "term": "end"
+   "en": "Nooo...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0115",
    "jp": "{v:0043}ランザックの者たちよ、騙されるな！{n}これはローランディアのワナだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Soldiers of Ranzak, do not be deceived! This is a trap{n}set by Rolandia!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0116",
    "jp": "{v:0044}うるさい！{n}先に仕掛けたのはそっちだろう！{n}今さら泣き言を言ったところで遅いわ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Shut up! You're the ones who attacked first! It's too{n}late to start whining now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0117",
    "jp": "{FFF6}{v:0045}クッ、聞く耳を持たぬか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{v:0045}Argh... They will not listen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0118",
    "jp": "{v:0046}これでランザック王国との同盟も終わりか。{n}どう事情を説明しようと、{n}両軍が剣を交えたのは事実だからな‥‥。{p}{FC02}{v:0047}こうなったからには、お前たちを捕らえ、{n}最悪の事態だけは避けねばならぬ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}So this is the end of our alliance with the Kingdom of{n}Ranzak. However we explain it, the fact remains that{n}our armies have crossed swords...{p}{FC02}{v:0047}Now that it has come to this, we must capture you to{n}prevent the worst.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0119",
    "jp": "{v:0048}悪いが、俺たちは捕まるわけにはいかないんでな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Sorry, but we can't afford to be captured.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0120",
    "jp": "{v:0049}逃がすわけにはいかぬ。{p}{v:004A}この一件がローランディアの仕業であることを{n}証明しなければ、ランザックがローランディアと{n}同盟を組むかもしれぬからな。{p}{v:004B}その者たちを逃がすな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}I cannot let you escape.{p}{v:004A}Unless we prove that Rolandia was behind this, Ranzak{n}may form an alliance with them.{p}{v:004B}Do not let them escape!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0121",
    "jp": "{v:004C}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0122",
    "jp": "{v:00FB}はっ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00FB}Yes, sir.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen221.0123",
    "jp": "{v:0049}逃がすわけにはいかぬ。{p}{v:004A}この一件がローランディアの仕業であることを{n}証明しなければ、ランザックがローランディアと{n}同盟を組むかもしれぬからな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}I cannot let you escape.{p}{v:004A}Unless we prove that Rolandia was behind this, Ranzak{n}may form an alliance with them.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

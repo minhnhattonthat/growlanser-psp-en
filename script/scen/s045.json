@@ -15,711 +15,828 @@
   {
    "id": "scen045.0001",
    "jp": "オヤジ",
-   "en": "",
-   "term": "null"
+   "en": "Old Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen045.0002",
    "jp": "番兵",
-   "en": "",
-   "term": "null"
+   "en": "Sentry",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen045.0003",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen045.0004",
    "jp": "闘技大会参加者",
-   "en": "",
-   "term": "null"
+   "en": "Tournament Entrant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen045.0005",
    "jp": "係員",
-   "en": "",
-   "term": "null"
+   "en": "Attendant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen045.0006",
    "jp": "受付員",
-   "en": "",
-   "term": "null"
+   "en": "Receptionist",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen045.0007",
    "jp": "警備兵",
-   "en": "",
-   "term": "null"
+   "en": "Guard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen045.0008",
    "jp": "観客",
-   "en": "",
-   "term": "null"
+   "en": "Spectator",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen045.0009",
    "jp": "行商人",
-   "en": "",
-   "term": "null"
+   "en": "Peddler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen045.0010",
    "jp": "旅人",
-   "en": "",
-   "term": "null"
+   "en": "Traveler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen045.0011",
    "jp": "闘技場前広場",
-   "en": "",
-   "term": "end"
+   "en": "Arena Plaza",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0012",
    "jp": "{v:0031}やあ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Hello.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0013",
    "jp": "{v:0032}おめでとう、ジュリアン。{n}俺は眼はよく見えないが、お前の戦いぶりは{n}良くわかったぜ。{p}{v:0033}剣に迷いがなかった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Congratulations, Julian. My eyes aren't much use, but I{n}could follow your fight just fine.{p}{v:0033}Not a trace of hesitation in your swordplay.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0014",
    "jp": "{v:0034}ありがとう。{n}これもみんなのおかげだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Thank you. I owe it all to everyone's help.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0015",
    "jp": "{v:0035}ここで立ち話もなんだから、街の方へ行かない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Rather than stand around talking here, shall we head{n}into town?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0016",
    "jp": "{v:0036}賛成！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}I'm all for it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0017",
    "jp": "　{n}　　　　　{FFEF}ジュリアンが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Julian is now accompanying you!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0018",
    "jp": "まさか、まさかの展開！{n}無名の{s:0000}、ゼノスを破ったぁ！",
-   "en": "",
-   "term": "end"
+   "en": "An unbelievable upset! The unknown challenger,{n}{s:0000}, has defeated Xenos!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0019",
    "jp": "フレッシュマン部門の会場は左、{n}エキスパート部門は右に進んで下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please go left for the Freshman division and right for{n}the Expert division.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0020",
    "jp": "くぅ～、まさかゼノスが負けるとは！{n}陰謀だ！{n}これは陰謀だぁ～！",
-   "en": "",
-   "term": "end"
+   "en": "Grrr! I can't believe Xenos lost! It's a conspiracy! A{n}conspiracy, I tell you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0021",
    "jp": "あちゃ～っ！{n}みんな負けてもうた！",
-   "en": "",
-   "term": "end"
+   "en": "Aw, no! Everyone I bet on lost!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0022",
    "jp": "ううっ、興奮しすぎて鼻血が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ugh, I got so excited my nose started bleeding...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0023",
    "jp": "次はエキシビジョンね。{n}最後まで頑張ってね！",
-   "en": "",
-   "term": "end"
+   "en": "The exhibition match is next. Keep giving it your all to{n}the very end!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0024",
    "jp": "おめでとう！",
-   "en": "",
-   "term": "end"
+   "en": "Congratulations!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0025",
    "jp": "負けた‥‥。{n}かんぺきに負けた‥‥。{n}小遣いが全部パーだよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I lost... Lost everything... There goes all my{n}spending money...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0026",
    "jp": "あーあ、負けちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Aww, I lost...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0027",
    "jp": "参加者の方は中の受付へどうぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Participants, please proceed to the registration{n}desk inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0028",
    "jp": "アンタ、すごいじゃないか！{n}こんな大穴は初めて見たぜ！",
-   "en": "",
-   "term": "end"
+   "en": "You're something else! I've never seen a long shot like{n}you win!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0029",
    "jp": "優勝、おめでとうございます。{n}次はエキスパート部門でがんばって下さいね。",
-   "en": "",
-   "term": "end"
+   "en": "Congratulations on winning the championship. Good luck{n}in the Expert division next time!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0030",
    "jp": "ゼノスは不調だったのか？{n}あんなもんじゃないはずだ！",
-   "en": "",
-   "term": "end"
+   "en": "Was Xenos having an off day? He's got to be better{n}than that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0031",
    "jp": "くそっ！{n}{s:0000}なんて、{n}大穴過ぎて狙わんかったわ。",
-   "en": "",
-   "term": "end"
+   "en": "Damn! {s:0000} was such a long shot, I never{n}even thought of placing a bet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0032",
    "jp": "血がたぎるのぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ah, gets the old blood stirring...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0033",
    "jp": "優勝なんてすごいじゃない！{n}どきどきしたわ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "You won the championship! How wonderful! My heart{n}was pounding{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0034",
    "jp": "う～ん、来年は賭けに専念しようかな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm, maybe next year I'll stick to betting...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0035",
    "jp": "ジュリアン様って素敵よね‥‥。{n}お手合わせ願いたいわ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Julian-sama is so dreamy... I'd love to go a round with{n}him{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0036",
    "jp": "次のフリーバトルが開かれるまで、{n}闘技場はしばらくお休みです。",
-   "en": "",
-   "term": "end"
+   "en": "The arena will be closed for a while, until the next{n}Free Battle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0037",
    "jp": "フレッシュマン出場者専用受付",
-   "en": "",
-   "term": "end"
+   "en": "Registration for Freshman Contestants Only",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0038",
    "jp": "２人とも、がんばれよ。",
-   "en": "",
-   "term": "end"
+   "en": "Give it your best, both of you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0039",
    "jp": "外に出るなら、俺も一緒に行こう。",
-   "en": "",
-   "term": "end"
+   "en": "If you're heading outside, I'll come along.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0040",
    "jp": "戦いの後の温泉は格別でしょうね。",
-   "en": "",
-   "term": "end"
+   "en": "A soak in the hot springs must feel especially good{n}after a battle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0041",
    "jp": "優勝、おめでとうございます。",
-   "en": "",
-   "term": "end"
+   "en": "Congratulations on winning the championship.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0042",
    "jp": "お疲れさまでした。",
-   "en": "",
-   "term": "end"
+   "en": "Well done out there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0043",
    "jp": "大会参加者の方は、ここで休んでいくことができます。",
-   "en": "",
-   "term": "end"
+   "en": "Tournament participants are welcome to rest here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0044",
    "jp": "{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "That will be {FFEB} Elm. Is that all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0045",
    "jp": "ご利用ありがとうございます。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you for your patronage.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0046",
    "jp": "がんばって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Good luck.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0047",
    "jp": "失礼ですが、お金が足りないようです。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorry, but you don't seem to have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0048",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0049",
    "jp": "{v:002D}やったな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}You did it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0050",
    "jp": "{v:0083}えへへ‥‥★{p}{v:002E}勝てるなんて思わなかったよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0083}Hee hee...{p}{v:002E}I didn't think we could win.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0051",
    "jp": "{v:0030}そういや、さっきジュリアンが、{n}外で待ってるって言ってたぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Oh, right. Julian said something about waiting outside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0052",
    "jp": "{v:001F}俺は参加できないから、観客席にいくぜ。{n}２人ともがんばれよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}I can't compete, so I'm heading to the stands. Give it{n}your best, both of you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0053",
    "jp": "戦いで傷ついたら、ここで休んでくといいぜ！",
-   "en": "",
-   "term": "end"
+   "en": "If you get hurt in a fight, come rest up here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0054",
    "jp": "優勝おめでとう！",
-   "en": "",
-   "term": "end"
+   "en": "Congratulations on winning the championship!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0055",
    "jp": "客席はこの奥の方だぜ？{p}って、君は参加者なのか。{n}がんばれよ。",
-   "en": "",
-   "term": "end"
+   "en": "The stands are farther in, you know?{p}Oh, you're a contestant. Good luck out there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0056",
    "jp": "闘技大会は終了しました。{n}ここへの立入はできません。",
-   "en": "",
-   "term": "end"
+   "en": "The tournament has ended. Entry is no{n}longer permitted.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0057",
    "jp": "{v:0076}ああ、言い忘れたことがある。{p}{v:0077}最後にエキシビジョンマッチがあるから、{n}準備が済んだら戻っておいで。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}Oh, there's something I forgot to mention.{p}{v:0077}There's an exhibition match at the end, so come back{n}once you're ready.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0058",
    "jp": "{v:0078}{FB00}えきしびじょんまっち？{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}{FB00}An exhi-what match?{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0059",
    "jp": "{v:0079}これから決勝が行われるエキスパートの部の優勝者と、{n}フレッシュマンの部で優勝した君たちとの戦いだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}The Expert division final is about to begin. Its winner{n}will face you two, the Freshman champions.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0060",
    "jp": "{v:007A}ええっ？{n}だってエキスパートの優勝者って、{n}すっごく強いんじゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}What?! But wouldn't the Expert champion be{n}really strong...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0061",
    "jp": "{v:007B}多分勝てないだろうね。{p}{v:007C}というか、勝てなくてもいいんだよ。{n}それが普通だからね。{p}{v:007D}エキスパートの優勝者が{n}どれくらい強いかを示すための、余興の１つなんだ。{p}{v:007E}ま、エキスパートで優勝するくらいの人がどれくらい{n}強いのか、自分とのレベル差がどれくらいあるのかを{n}知るいいチャンスだと思えばいい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007B}You probably won't be able to win.{p}{v:007C}Or rather, you don't have to win. Losing is{n}what's expected.{p}{v:007D}It's part of the entertainment, to show everyone just{n}how strong the Expert champion is.{p}{v:007E}Well, think of it as a good chance to see how strong{n}someone has to be to win the Expert division, and how{n}far you are from that level.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0062",
    "jp": "ここから先は関係者以外、立入禁止です。",
-   "en": "",
-   "term": "end"
+   "en": "Only authorized personnel are permitted beyond{n}this point.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0063",
    "jp": "控え室",
-   "en": "",
-   "term": "end"
+   "en": "Waiting Room",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0064",
    "jp": "‥‥{v:0062}ねぇ、お兄ちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0062}Um, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0065",
    "jp": "{v:0063}あら、どうしたのよルイセちゃん？{n}難しい顔しちゃって？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}Hey, what's wrong, Luise-chan? Why the long face?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0066",
    "jp": "{v:0064}さっきの、バーンシュタイン王国の王子って{n}人だけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}About that prince of Burnstein we saw earlier...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0067",
    "jp": "{v:0065}どこかで見た覚えない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}Don't you remember seeing him somewhere before?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0068",
    "jp": "・あるような気がする",
-   "en": "",
+   "en": "・I think I might",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen045.0069",
    "jp": "・覚えていない",
-   "en": "",
+   "en": "・I don't remember",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen045.0070",
    "jp": "・男の顔は覚えられない",
-   "en": "",
+   "en": "・I can't remember men's faces",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen045.0071",
    "jp": "・見覚えがある",
-   "en": "",
+   "en": "・He looks familiar",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen045.0072",
    "jp": "{v:006F}ひょっとして、アンタ。{n}面倒くさいから考えてないんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006F}Hey, you! You're not even trying to think because it's{n}too much trouble, are you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0073",
    "jp": "{v:0070}わたしが言ってるのは、エリオット君のことだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0070}I mean Elliot-kun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0074",
    "jp": "‥‥{v:0071}アンタらしいわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0071}That's just like you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0075",
    "jp": "{v:0072}わたしが言ってるのは、エリオット君のことだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}I mean Elliot-kun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0076",
    "jp": "{v:0066}だよね？{p}{v:0067}それってやっぱり‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}Right?{p}{v:0067}Then it must be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0077",
    "jp": "誰に似ていると思いますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who do you think he resembles?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0078",
    "jp": "・アリオスト",
-   "en": "",
+   "en": "・Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen045.0079",
    "jp": "・エリオット",
-   "en": "",
+   "en": "・Elliot",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen045.0080",
    "jp": "・ジュリアン",
-   "en": "",
+   "en": "・Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen045.0081",
    "jp": "{v:0068}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0068}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0082",
    "jp": "{v:0069}あんたって、バカ？{n}どーしてアリオストさんなのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}Are you an idiot? How does he look anything{n}like Ariost-san?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0083",
    "jp": "{v:006A}わたしが言ってるのは、エリオット君のことだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}I mean Elliot-kun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0084",
    "jp": "{v:006B}だよね？{n}やっぱりそう思うよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}Right? You think so too, don't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0085",
    "jp": "{v:006C}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0086",
    "jp": "{v:006D}あんたって、バカ？{n}どーしてジュリアンなのよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006D}Are you an idiot? How does he look anything{n}like Julian?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0087",
    "jp": "{v:006E}わたしが言ってるのは、エリオット君のことだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}I mean Elliot-kun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0088",
    "jp": "{v:0073}でもさ、それってどういうこと？{n}王子様とエリオットが同一人物だったの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0073}But what does that mean? Were Elliot and the prince{n}the same person all along?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0089",
    "jp": "{v:0074}う～ん‥‥。{FFF9}{FFFB}{n}{v:0075}知られたくなかったからなのかなぁ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0074}Hmm...{FFF9}{FFFB}{v:0075}Maybe he didn't want us to know?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0090",
    "jp": "君たち、本当に初参加かい？{n}エキシビジョンでエキスパート優勝者に勝つなんて、{n}前代未聞だよ。",
-   "en": "",
-   "term": "end"
+   "en": "Is this really your first time competing? Beating the{n}Expert champion in the exhibition match is unheard of.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0091",
    "jp": "また戦いに来ておくれ。{n}おじさん、君のファンになったからさ。",
-   "en": "",
-   "term": "end"
+   "en": "Come back and fight again sometime. You've made a fan{n}out of this old fellow.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0092",
    "jp": "エキシビジョンの用意はもう出来ているよ。{n}勝つことよりも、エキスパート優勝者の実力を{n}知るつもりで、戦っておいで。",
-   "en": "",
-   "term": "end"
+   "en": "Everything's ready for the exhibition match. Go out{n}there to see what the Expert champion can do, rather{n}than worrying about winning.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0093",
    "jp": "そうだね★{n}一応、コムスプリングスへ行く旅行券は{n}手に入れたしね。",
-   "en": "",
-   "term": "end"
+   "en": "That's right! We've already got the Travel Voucher to{n}Comsprings, after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0094",
    "jp": "うん。{n}もう、負けても困ることないしね。",
-   "en": "",
-   "term": "end"
+   "en": "Yes. It won't matter if we lose now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0095",
    "jp": "はははっ。{n}負けて当然なんだから、何も気負う必要はないよ。{n}それじゃ、行っておいで。",
-   "en": "",
-   "term": "end"
+   "en": "Ha ha ha! Nobody expects you to win, so there's no{n}need to put pressure on yourselves. Off you go, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0096",
    "jp": "負けて当然なんだから、何も気負う必要はないよ。{n}それじゃ、行っておいで。",
-   "en": "",
-   "term": "end"
+   "en": "Nobody expects you to win, so there's no need to put{n}pressure on yourselves. Off you go, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0097",
    "jp": "とうとうやったな。{n}おめでとう！",
-   "en": "",
-   "term": "end"
+   "en": "You finally did it. Congratulations!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0098",
    "jp": "エキシビジョンで勝ったんだって！？{n}そりゃ、ゼノスが負けるのも納得だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "You won the exhibition match?! Well, that explains how{n}you beat Xenos...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0099",
    "jp": "優勝、おめでとう！{n}あのゼノスに勝つとは‥‥。{n}大した奴だよ、まったく。",
-   "en": "",
-   "term": "end"
+   "en": "Congratulations on winning the championship! To think{n}you beat Xenos himself... You're really something.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0100",
    "jp": "ジュリアンと戦っているところを、{n}ここから見せてもらったんだが‥‥。{n}君たちが勝つなんて思いもしなかったよ。",
-   "en": "",
-   "term": "end"
+   "en": "I watched you fight Julian from here... I never imagined{n}you'd win.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0101",
    "jp": "フレッシュマンの部、君たちが優勝したんだってな。{n}ゼノスを倒すなんて、なかなか、やるじゃないか。{n}おじさんは、あいつに勝てないからなぁ。",
-   "en": "",
-   "term": "end"
+   "en": "I hear you won the Freshman division. Beating Xenos is{n}quite a feat! This old fellow's never managed it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0102",
    "jp": "良かったわよ、あなた達の試合！{n}そんな華奢な体なのに優勝なんて凄いじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "Your match was wonderful! Winning the championship{n}with such delicate little frames! How impressive!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0103",
    "jp": "今年の試合は、{n}去年よりも白熱した試合が多いな。{n}実に満足だ。",
-   "en": "",
-   "term": "end"
+   "en": "There have been more thrilling matches this year than{n}last. I'm thoroughly satisfied.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0104",
    "jp": "はぁ‥‥。{n}リシャール様、素敵‥‥。{p}あんなに美しくて華奢なのに、{n}ナイト・マスターだなんて‥‥。{n}凄すぎ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ahh... Richard-sama is so dreamy...{p}So beautiful and slender, and yet he's the Knight{n}Master... He's just incredible...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0105",
    "jp": "ゼノスも惜しかったよな～。{p}でも、決勝になった途端、{n}いきなり弱くなったような気が‥‥。{p}ま、気のせいか。",
-   "en": "",
-   "term": "end"
+   "en": "Xenos was so close, too.{p}But the moment the final started, he suddenly{n}seemed weaker...{p}Eh, must've been my imagination.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0106",
    "jp": "お前ら、なかなか良かったぜ。{n}あぁ‥‥。{n}今夜は興奮して眠れねぇな、こりゃ。",
-   "en": "",
-   "term": "end"
+   "en": "You lot were pretty damn good. Ahh... I'm gonna be too{n}worked up to sleep tonight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0107",
    "jp": "いま見た戦いを思い出してるんだ。{n}話しかけないでくれ！",
-   "en": "",
-   "term": "end"
+   "en": "I'm reliving the match I just watched. Don't{n}interrupt me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0108",
    "jp": "あなた達って、素敵ね‥‥。{n}弟もあなたを見習って欲しいわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "You're all so wonderful... I wish my little brother would{n}follow your example...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0109",
    "jp": "よくやった！{n}２人とも見事な戦いだったぞ。{n}これはエキシビジョンも期待できそうだな。{p}だがそれにしても、今日のゼノス‥‥。{n}調子がおかしかったな。",
-   "en": "",
-   "term": "end"
+   "en": "Well done! Both of you fought splendidly. Looks like we{n}can expect a good exhibition match, too.{p}Still, Xenos seemed off his game today...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0110",
    "jp": "大会はもう終わったから、立入禁止だよ。",
-   "en": "",
-   "term": "end"
+   "en": "The tournament's over, so you can't come in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0111",
    "jp": "そろそろ次の試合が始まるから、{n}君たちは控え室に戻っているといいだろう。",
-   "en": "",
-   "term": "end"
+   "en": "The next match will be starting soon. You should head{n}back to the waiting room.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0112",
    "jp": "{FB00}アタシらが優勝したのに、次の試合？{n}なんでだろ？{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}Another match? But we already won! What's going on?{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0113",
    "jp": "ここは関係者以外、立入禁止です。",
-   "en": "",
-   "term": "end"
+   "en": "Only authorized personnel are permitted here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0114",
    "jp": "エキスパート部門は終了しました。",
-   "en": "",
-   "term": "end"
+   "en": "The Expert division has concluded.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0115",
    "jp": "おい、{s:0000}。{n}ジュリアンと待ち合わせをしているんじゃないのか？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, {s:0000}. Aren't you supposed to be{n}meeting Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0116",
    "jp": "おい？{n}街を見て回るんじゃないのか？",
-   "en": "",
-   "term": "end"
+   "en": "Hey. Weren't we going to look around town?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen045.0117",
    "jp": "テレポート出来ない！{n}特殊な結界が張られているようだ。",
-   "en": "",
-   "term": "end"
+   "en": "Cannot Teleport! A special barrier seems to be in place.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

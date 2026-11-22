@@ -15,236 +15,275 @@
   {
    "id": "scen245.0001",
    "jp": "部下",
-   "en": "",
-   "term": "null"
+   "en": "Subordinate",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen245.0002",
    "jp": "{FFEE}カレンと副学院長を守れ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect Karen and the Vice Headmaster!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0003",
    "jp": "{v:003B}どうやらその娘の命はいらないようですね？{p}{v:003C}ならば望みどおり殺してあげましょう！{p}‥‥{v:003D}ギプト・カレン・ダイ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}It seems you do not care whether that girl lives?{p}{v:003C}Then I shall grant your wish and kill her!{p}...{v:003D}Gipt Karen Die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0004",
    "jp": "{v:003E}今だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0005",
    "jp": "{v:003F}な、何っ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Wh-what?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0006",
    "jp": "{FFF3}‥{FE14}‥{FE14}{FFF4}{v:0040}私‥生きてる‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{FE14}...{FE14}{FFF4}{v:0040}I'm... alive...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0007",
    "jp": "‥{v:0041}はは‥やった‥‥やったぞ、成功だ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0041}Haha... I did it... I did it! It worked!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0008",
    "jp": "{v:0042}お前の呪いはこの私が防いだ！{n}もう彼女を殺させはしない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}I am the one who blocked your curse! I will not let you{n}kill her now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0009",
    "jp": "{v:0044}おのれっ！{FFF9}{FFFB}{n}{v:0045}皆殺しにしろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Damn you!{FFF9}{FFFB}{v:0045}Kill them all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0010",
    "jp": "{FFEE}カレンと副学院長を守りながら戦え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Fight while protecting Karen and the Vice Headmaster!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0011",
    "jp": "{v:0046}みんな、何をしているんだ？{n}このままじゃ殺されてしまうぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Everyone, what are you doing? At this rate, we'll{n}be killed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0012",
    "jp": "{v:0047}だ、だけど、カレンさんが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}B-but Karen-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0013",
    "jp": "{v:0048}私を信用しろ！{n}彼女の呪いは私が解く！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Trust me! I will lift her curse!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0014",
    "jp": "‥‥{v:0049}わかった。それじゃ任せるぜ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0049}All right. We're counting on you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0015",
    "jp": "{v:008A}カレン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008A}Karen!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0016",
    "jp": "{v:008B}兄さん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:008B}Brother?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0017",
    "jp": "‥‥{v:008C}ええい！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:008C}Hah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0018",
    "jp": "{v:008D}ゼノス？{p}{v:008E}もう大丈夫だよ！{n}カレンさんの呪いはもう解けたから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008D}Xenos?{p}{v:008E}It's all right now! Karen-san's curse has been lifted!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0019",
    "jp": "{v:008F}カレンの呪いが‥‥。{p}{FC04}‥‥{v:0090}そうか‥‥そうか‥‥！{p}{FC00}{v:0091}やい、ガムラン！{n}よくも妹を酷い目にあわせてくれたな！{n}この礼は、きっちり返させてもらうぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008F}Karen's curse...{p}{FC04}...{v:0090}I see... I see...!{p}{FC00}{v:0091}Hey, Gamlan! You'll pay for what you put my sister{n}through! I'll make sure of it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0020",
    "jp": "‥‥{v:0092}ええい、貴様などもう要らん！{n}ここでまとめて殺してやる！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0092}Bah! I have no more use for you! I'll kill you all{n}right here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0021",
    "jp": "{v:0093}うぅっ！{n}た、助けてくれぇ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0093}Ugh! H-help me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0022",
    "jp": "{v:0094}大変ッ！{n}この人、弱いんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0094}Oh, no! This guy's weak!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0023",
    "jp": "{v:0095}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0095}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0024",
    "jp": "{v:0096}カレンさんが危ないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0096}Karen-san's in danger!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0025",
    "jp": "‥{v:0097}ごめん‥みんな‥せっかく‥‥",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0097}I'm sorry... everyone... after all you did...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0026",
    "jp": "{v:0098}カレンさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0098}Karen-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0027",
    "jp": "‥{v:0099}貴様だけは、絶対に許さねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0099}I'll never forgive you for this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0028",
    "jp": "{v:009A}返り討ちにしてあげますよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:009A}Then you shall die trying to avenge her!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0029",
    "jp": "グッ！？",
-   "en": "",
-   "term": "end"
+   "en": "Guh?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0030",
    "jp": "クハッ！",
-   "en": "",
-   "term": "end"
+   "en": "Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0031",
    "jp": "‥‥",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0032",
    "jp": "おのれ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Damn you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0033",
    "jp": "力が‥‥",
-   "en": "",
-   "term": "end"
+   "en": "My strength...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0034",
    "jp": "ゲフッ！",
-   "en": "",
-   "term": "end"
+   "en": "Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0035",
    "jp": "バカな‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Impossible...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0036",
    "jp": "うぅ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0037",
    "jp": "くっ！",
-   "en": "",
-   "term": "end"
+   "en": "Gh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0038",
    "jp": "{v:009B}おのれっ！{n}覚えていろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:009B}Damn you! You'll pay for this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen245.0039",
    "jp": "{v:009C}くっ！{n}逃げ足だけは速い奴だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009C}Tch! Running away's the one thing he's good at.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,497 +15,577 @@
   {
    "id": "scen051.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen051.0002",
    "jp": "旅人",
-   "en": "",
-   "term": "null"
+   "en": "Traveler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen051.0003",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen051.0004",
    "jp": "オヤジ",
-   "en": "",
-   "term": "null"
+   "en": "Old Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen051.0005",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen051.0006",
    "jp": "ガラシールズ",
-   "en": "",
-   "term": "end"
+   "en": "Galashiels",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0007",
    "jp": "どうやってジュリアンと連絡をつけますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you contact Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0008",
    "jp": "・強行突入",
-   "en": "",
+   "en": "・Force your way in",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0009",
    "jp": "・エリオットだけ行かせる",
-   "en": "",
+   "en": "・Send Elliot alone",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0010",
    "jp": "・ティピを行かせる",
-   "en": "",
+   "en": "・Send Tippi",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0011",
    "jp": "{v:0000}あなた方のことは、ジュリアン将軍から{n}うかがっております。{n}どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}General Julian has told us about you. Please,{n}go through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0012",
    "jp": "ここは砂漠のオアシス、ガラシールズ。{n}今は我々バーンシュタイン軍が占領している。",
-   "en": "",
-   "term": "end"
+   "en": "This is Galashiels, the desert oasis. We of the{n}Burnstein army currently occupy it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0013",
    "jp": "ここはバーンシュタインと比べて暑いな。{n}この格好で見回りをしているから、{n}たまに仲間が倒れるよ。",
-   "en": "",
-   "term": "end"
+   "en": "It's hot here compared to Burnstein. Patrolling in this{n}gear, some of the men collapse now and then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0014",
    "jp": "ランザックは、グローシュが少ないと聞いていたが、{n}こうして見てみると、確かにその通りだな。",
-   "en": "",
-   "term": "end"
+   "en": "I'd heard Ranzak had little Grosh, but seeing it for{n}myself, that's certainly true.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0015",
    "jp": "今、この奥で兵隊たちが集まってるよ。{n}今度は何の相談してるんだ‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "The soldiers are gathering back there now. What are{n}they discussing this time...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0016",
    "jp": "私は色んな国の武官を見てきましたが‥‥。{n}やはりインペリアル・ナイツだけは特別ですな。{p}武力だけでなく、知力や気品も{n}かねそなえているのですからね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I have seen military officers from many countries... But{n}the Imperial Knights are in a class of their{n}own, indeed.{p}They possess not only martial prowess, but intelligence{n}and dignity as well...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0017",
    "jp": "いや～。{n}アッという間に占領されたもんだから、{n}ビックリしたよ、まったく。",
-   "en": "",
-   "term": "end"
+   "en": "Whew! They took the place over in the blink of an eye.{n}Gave me quite a shock, I tell you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0018",
    "jp": "はあ‥‥。{n}ジュリアン様‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ahh... Julian-sama...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0019",
    "jp": "ようこそ！{n}スキマ屋ガラシールズ支店です。",
-   "en": "",
-   "term": "end"
+   "en": "Welcome to the Galashiels branch of the Nook Shop!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0020",
    "jp": "買い物をしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Would you like to shop?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0021",
    "jp": "また来てね！",
-   "en": "",
-   "term": "end"
+   "en": "Come again!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0022",
    "jp": "なかなかいいスキマが見つからなくてね‥‥。{n}ここは仮店舗なんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "I haven't been able to find a good nook... This is just a{n}temporary shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0023",
    "jp": "{v:003F}まぁ、いらっしゃい。{n}このお店は、どんな装備品でもそろってるわよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Oh, welcome! You'll find every kind of equipment here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0024",
    "jp": "{v:0041}それで、買いに来たの？{n}売りに来たの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}So, are you here to buy or to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0025",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0026",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0027",
    "jp": "で、他にも何かある？",
-   "en": "",
-   "term": "end"
+   "en": "So, anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0028",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0029",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0030",
    "jp": "{v:004B}また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Come back again, won't you? I'll have a lovely smile{n}waiting for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0031",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0032",
    "jp": "{v:0034}本日はお買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Will you be buying or selling today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0033",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0034",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0035",
    "jp": "他にも何かおありでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0036",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0037",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0038",
    "jp": "{v:003E}ありがとうございました！{n}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Thank you very much! Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0039",
    "jp": "バーンシュタインの兵隊さんたちが、{n}ガラシールズを去るようなこと言ってたけど、{n}占領されている間も、普通に生活できてたよ。{p}ジュリアン将軍とやら、{n}敵ながら我々を信頼させる力を持っているようだ。",
-   "en": "",
-   "term": "end"
+   "en": "The Burnstein soldiers were saying something about{n}leaving Galashiels, but life went on as usual even{n}during the occupation.{p}This General Julian seems to have a way of earning our{n}trust, despite being our enemy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0040",
    "jp": "まさかあれほど手際よく占領されるとは思わなかった。{n}あれがインペリアル・ナイトの力なのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I never thought we'd be occupied so swiftly and{n}efficiently. Is that the power of an Imperial Knight...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0041",
    "jp": "{v:0000}あなた方のことはジュリアン将軍から{n}うかがっております。{n}どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}General Julian has told us about you. Please,{n}go through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0042",
    "jp": "ジュリアン将軍でしたら、{n}この奥にいらっしゃいます。",
-   "en": "",
-   "term": "end"
+   "en": "You will find General Julian farther inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0043",
    "jp": "アンタ、１人でどこ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going all by yourself?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0044",
    "jp": "{v:0010}どうだった？{n}ランザック軍の了承はとれたか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}How did it go? Did the Ranzak army agree?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0045",
    "jp": "{v:0011}ああ、もうここを動いても大丈夫だ。{p}{v:0012}それで、お前の方は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Yeah. We can move out of here now.{p}{v:0012}How about things on your end?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0046",
    "jp": "{v:0013}ちょうどこれから士官クラスの者に説明するところだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}I was just about to explain the situation to{n}the officers.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0047",
    "jp": "{v:0014}これからぁ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Only nooow?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0048",
    "jp": "{v:0015}そう言うな。{n}エリオット、いや陛下が一緒にいた方が、{n}説得力があると思ってな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Do not be like that. I thought it would be more{n}convincing with Elliot--no, His Majesty--here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0049",
    "jp": "{v:0016}これから皆に重要な発表をする。{n}心して聞いて欲しい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}I have an important announcement for you all. I ask{n}that you listen carefully.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0050",
    "jp": "{v:0017}まず、このお方を紹介する。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}First, allow me to introduce this distinguished person.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0051",
    "jp": "{v:0018}あ、あの‥どうも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}U-um... Hello...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0052",
    "jp": "‥{v:0019}陛下‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0019}Your Majesty...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0053",
    "jp": "‥‥{v:001A}あの傲慢な陛下が、どうして‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001A}His Majesty is usually so arrogant. Why is he acting{n}like this...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0054",
    "jp": "{v:001B}似ていると思うだろう？{n}それもそのはず、このお方が正式な王位継承者なのだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}You see the resemblance, do you not? There is good{n}reason for it. This is the rightful heir to the throne!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0055",
    "jp": "{v:001C}何だと！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0056",
    "jp": "{v:001D}今王位についているのは真っ赤な偽者！{n}このお方こそが本当の王なのだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}The man who now sits on the throne is an outright{n}impostor! This is our true king!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0057",
    "jp": "{v:001E}まさか、そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}No, that cannot be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0058",
    "jp": "{v:001F}すでに我が父ダグラス卿が、アンジェラ様とともに{n}王都へ向かう準備をしている。{p}{v:0020}そこで私も簒奪者を討つために王都へ向かうつもりだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}My father, Lord Douglas, is already preparing to march{n}on the royal capital with Angela-sama.{p}{v:0020}I, too, intend to march on the capital to defeat{n}the usurper.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0059",
    "jp": "{v:0021}あ、あの‥‥。{n}僕は今まで自分が王となる人間だなんて、{n}知らないで育ってきました。{p}{FC02}{v:0022}ですが今の王は世界征服を企む悪者の手先なのです！{n}このままではバーンシュタイン王国だけでなく、{n}世界中にゲヴェルの魔手が及ぶでしょう。{p}{v:0023}僕はそれをくい止めたい！{n}この大陸の人々を救いたい！{p}{v:0024}お願いです。{n}みなさんの力を貸して下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}U-um... I grew up without ever knowing I was meant to{n}become king.{p}{FC02}{v:0022}But the current king serves an evil being who plans to{n}conquer the world!{p}If this continues, Gevel's evil grasp will reach beyond{n}the Kingdom of Burnstein to the whole world.{p}{v:0023}I want to stop that! I want to save the people of{n}this continent!{p}{v:0024}Please. Lend me your strength!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0060",
    "jp": "{v:0025}いかに相手が偽王であろうとも、{n}これからの戦に勝てねば、我々は、{n}国に弓引く反逆者として闇に葬り去られるだろう。{p}{v:0026}つまり、王位奪還をなしえるためには、{n}偽王が率いる同胞たちを倒さねばならないのだ！{p}‥‥{v:0027}無理強いはしない。{n}今の話を信じ、なおかつ協力してくれる者だけ{n}残ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Impostor though our enemy may be, if we cannot win{n}the coming war, we will die in disgrace as traitors who{n}turned against our country.{p}{v:0026}In other words, to reclaim the throne, we must defeat{n}our own countrymen who serve the false king!{p}...{v:0027}I will force no one. Stay only if you believe what you{n}have heard and are willing to help.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0061",
    "jp": "{v:0028}どうしたものか‥‥",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}What should we do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0062",
    "jp": "{v:0029}決まってるだろ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Isn't it obvious...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0063",
    "jp": "{v:002A}うむ、‥‥そうだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Hmm... Yes, you're right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0064",
    "jp": "{v:002B}どうした？{n}反逆者になりたくない者は今のうちに本国へ戻れ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}What is the matter? Those who do not wish to become{n}traitors, return home while you still can!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0065",
    "jp": "{v:002C}お前たち‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}All of you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0066",
    "jp": "{v:002D}我々は将軍に忠誠を誓っております。{n}将軍がその方を信じるのであれば、{n}それは我々が信じたも同然です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}We have sworn our loyalty to you, General. If you{n}believe in him, then we believe in him as well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0067",
    "jp": "{v:002E}最後までお供させて下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Let us stand by you to the very end!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0068",
    "jp": "‥‥{v:002F}ありがとう、みんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002F}Thank you, everyone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0069",
    "jp": "　{n}　　　『{FFEF}ティピの可能性４{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Obtained '{FFEF}Tippi's Potential 4{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0070",
    "jp": "‥‥{v:0030}ねぇ、お兄ちゃん。{n}ジュリアンさん、すごいよね？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0030}Say, Big Brother... Julian-san is amazing, isn't he?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0071",
    "jp": "ジュリアンをどう思いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What do you think of Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0072",
    "jp": "・普通",
-   "en": "",
+   "en": "・Nothing special",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0073",
    "jp": "・まだまだ甘い",
-   "en": "",
+   "en": "・Still too soft",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0074",
    "jp": "・ここまで信頼されるのはすごい",
-   "en": "",
+   "en": "・Earning such trust is impressive",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0075",
    "jp": "・いい将軍になった",
-   "en": "",
+   "en": "・You've become a fine general",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0076",
    "jp": "‥‥{v:0033}そうだな。{n}将軍職、特にインペリアル・ナイトなら{n}当然ということか。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0033}Indeed. I suppose it is only to be expected of a{n}general, especially an Imperial Knight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0077",
    "jp": "{v:0034}これは手厳しい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}That is a harsh judgment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0078",
    "jp": "‥‥{v:0031}そうか？{n}我が国の将軍、特にインペリアル・ナイトならば{n}当然だぞ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0031}You think so? It is only to be expected of one of our{n}nation's generals, especially an Imperial Knight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0079",
    "jp": "‥‥{v:0032}そうか。{n}お前にそう言われると嬉しいよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0032}I see. Hearing that from you makes me happy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0080",
    "jp": "ジュリアンさんって、すごいなぁ。",
-   "en": "",
-   "term": "end"
+   "en": "Julian-san really is amazing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0081",
@@ -516,785 +596,914 @@
   {
    "id": "scen051.0082",
    "jp": "ジュリアンさんって、本当に素晴らしい方ですね。",
-   "en": "",
-   "term": "end"
+   "en": "Julian-san truly is a wonderful person.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0083",
    "jp": "この結束の堅さが、軍の強さの秘密というわけか‥‥。{n}インペリアル・ナイツというのは{n}それだけ信頼が高いものなんだね。",
-   "en": "",
-   "term": "end"
+   "en": "So that firm unity is the secret of their army's{n}strength... That shows just how much trust people{n}place in the Imperial Knights.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0084",
    "jp": "みんなに断られたらって思うと、{n}ドキドキしちゃった★",
-   "en": "",
-   "term": "end"
+   "en": "My heart was pounding! I kept thinking, what if they all{n}say no?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0085",
    "jp": "失敗すれば、反逆者か‥‥。{n}責任重大だな。{p}{FC00}もっとも今は悩むより、進軍の用意をすべきだな。{n}‥‥忙しくなりそうだ。",
-   "en": "",
-   "term": "end"
+   "en": "If we fail, we are traitors... A heavy responsibility.{p}{FC00}Still, I should prepare for the march instead of dwelling{n}on it. ...It looks as though I will be busy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0086",
    "jp": "できるだけ早く、ここを発たねば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We must leave here as soon as possible...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0087",
    "jp": "{v:0035}とにかく、これで出発できますね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}In any case, we can set out now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0088",
    "jp": "{v:0036}その前に、陛下にお頼みしたい事があります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Before that, Your Majesty, I have a request.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0089",
    "jp": "{v:0037}へ、陛下だなんて‥‥。{p}‥‥{v:0038}いったい、何ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Y-Your Majesty? I'm hardly...{p}...{v:0038}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0090",
    "jp": "{v:0039}我が隊は見ての通りの少数です。{n}この兵力で、本国の差し向ける部隊と戦わなくては{n}なりません。{p}{v:003A}そこで陛下に我が隊に残っていただきたいのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}As you can see, our force is small. With these{n}numbers, we must fight the troops our homeland sends{n}against us.{p}{v:003A}For that reason, Your Majesty, I ask that you remain{n}with our unit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0091",
    "jp": "{v:003B}ぼ、僕が？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}M-me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0092",
    "jp": "{v:003C}はい。{n}陛下に同行していただければ、{n}兵の士気も高まるでしょう。{p}{v:003D}その代わり、陛下のお命は、{n}私が命に代えても守ります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Yes. Your presence among us would raise the{n}soldiers' morale.{p}{v:003D}In return, I will protect Your Majesty, even at the cost{n}of my own life.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0093",
    "jp": "{v:003E}わかりました。{n}僕に出来ることなら、いくらでもやらせて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}I understand. Please let me do anything I can to help.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0094",
    "jp": "　{n}　　　　　{FFEE}エリオットが仲間から外れた！{p}　{n}　　　　　エリオットの装備を回収した！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEE}Elliot left the party!{p}Retrieved Elliot's equipment!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0095",
    "jp": "{v:003F}申し訳ありません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}I am sorry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0096",
    "jp": "{v:0040}いるだけでいいのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Is just being here enough?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0097",
    "jp": "{v:0041}はい、それだけで十分です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Yes. That alone is enough.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0098",
    "jp": "{v:0042}実はもう１つありますが‥‥。{n}それはこの戦いに勝利した後でけっこうです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}There is one other thing, actually... But it can wait until{n}we have won this war.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0099",
    "jp": "{v:0043}そうですか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0100",
    "jp": "{v:004B}それではみなさん、今までありがとうございました。{n}僕たちはこちらから王都へ向かいます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Well then, everyone, thank you for everything. We'll{n}head to the royal capital from here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0101",
    "jp": "リシャール王が魔物の手先というのか‥‥。{n}確かにあの変貌ぶり、おかしいとは思っていたが‥‥。{p}俺は将軍やあの陛下のために命を捨てる覚悟はある。{n}だが家族のある者は、これからの戦い、{n}辛い思いをするだろうな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "King Richard serves a monster...? I did think something{n}was wrong with how much he'd changed...{p}I'm ready to lay down my life for the general and our{n}true king. But the men with families will have a hard time{n}in the coming war...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0102",
    "jp": "ジュリアン将軍は、いつも我々のために{n}最も危険な場所で戦ってくれた。{n}そんな方を裏切るなんて、俺にはできないよ。",
-   "en": "",
-   "term": "end"
+   "en": "General Julian always fought in the most dangerous{n}places for our sake. I could never betray someone{n}like that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0103",
    "jp": "あの少年‥‥、いや陛下の目を見ていて、{n}ジュリアン将軍の話が真実だと思ったよ。{p}たしかにリシャール王が魔物の手先という話は、{n}簡単に信じられる内容ではない。{n}だが、俺はこの戦いにかけることにする。",
-   "en": "",
-   "term": "end"
+   "en": "Looking into that boy's... No, His Majesty's eyes, I knew{n}General Julian was telling the truth.{p}Sure, it's hard to believe King Richard serves a{n}monster. But I'm going to stake everything on{n}this war.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0104",
    "jp": "国に残した家族が心配だが‥‥。{n}この戦い、やめるわけにいかない。{p}せめて家族には、ダグラス領へ急いで避難するよう{n}手紙を出すとしよう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm worried about the family I left back home... But I{n}can't back out of this fight.{p}I'll at least write and tell them to hurry to safety in{n}Douglas territory...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0105",
    "jp": "これから友と戦うこともあるだろう‥‥。{n}だが真実を知って、それに背を向けるなど{n}俺にはできない。",
-   "en": "",
-   "term": "end"
+   "en": "I may have to fight my friends now... But I can't learn{n}the truth and then turn my back on it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0106",
    "jp": "士官クラスを集めて、{n}将軍は、いったい何をお話になるのだろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Why has the general gathered the officers? What{n}could this be about...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0107",
    "jp": "まさかリシャール王が偽者だったなんて‥‥。{n}びっくりしたよ。",
-   "en": "",
-   "term": "end"
+   "en": "I never imagined King Richard was an impostor... What{n}a shock.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0108",
    "jp": "見張りの邪魔です！{n}話しかけないで下さい。",
-   "en": "",
-   "term": "end"
+   "en": "You're interfering with my watch! Please don't talk{n}to me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0109",
    "jp": "あんた達、タダで泊まろうってのかい？{n}ちゃんとお金を払って泊まってくれよ。",
-   "en": "",
-   "term": "end"
+   "en": "You lot planning to stay for free? Pay for your rooms{n}like everyone else.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0110",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0111",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0112",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0113",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0114",
    "jp": "{v:0044}このことをアルカディウス王に報告したら、{n}俺たちも手伝おうぜ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Once we've reported this to King Alcadius, let's lend a{n}hand ourselves, eh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0115",
    "jp": "エリオットの王位奪還を手伝いますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you help Elliot reclaim the throne?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0116",
    "jp": "{v:0048}それなら父上の方の様子を見てくれないか？{p}{FC03}{v:0049}父はもう歳だ。{n}無理をしていなければいいが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Then would you check on how things are going with{n}my father?{p}{FC03}{v:0049}He is getting on in years. I hope he is not pushing{n}himself too hard...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0117",
    "jp": "{v:004A}お父さん思いなんだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}You really care about your father, don't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0118",
    "jp": "{FFEC}{v:0045}アンタって男は～っ！{FFED}{n}人を困らせてどうすんの～！",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}{v:0045}You are UNBELIEVABLE!{FFED} Why do you have to go making{n}trouble for people?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0119",
    "jp": "{v:0046}ごめんなさい、お兄ちゃんが変なこと言って‥‥。{p}{v:0047}報告が終わったら、ちゃんと手伝いに来ます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}I'm sorry Big Brother said something so strange...{p}{v:0047}Once we've made our report, we'll come back and help.{n}I promise.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0120",
    "jp": "{v:004C}がんばれよ、エリオット。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Hang in there, Elliot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0121",
    "jp": "{v:004D}がんばってね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Good luck!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0122",
    "jp": "{v:0000}おい、ちょっと待てよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hey, hold on a minute.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0123",
    "jp": "{v:0001}ガラシールズは、ランザック軍と{n}バーンシュタイン軍がにらみ合ってる場所だろ？{p}{v:0002}俺たちローランディアの者が行って、{n}余計なことにならねぇか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Galashiels is where the Ranzak and Burnstein armies{n}are facing off, right?{p}{v:0002}Won't we stir up more trouble if we go there, being{n}from Rolandia?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0124",
    "jp": "{v:0003}う～ん‥‥そうかも。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Hmm... Maybe you're right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0125",
    "jp": "{v:0004}バーンシュタイン軍だけなら、{n}僕が王のふりをすればいいのですが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}If it were just the Burnstein army, I could pretend to{n}be the king, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0126",
    "jp": "{v:0005}どうする？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}What do we do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0127",
    "jp": "{v:0006}ナニ言い出すのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}What are you even suggesting?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0128",
    "jp": "{v:0007}余計な波風立てない方法を考えてんだろうが！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}We're trying to find a way to do this without stirring{n}up trouble, damn it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0129",
    "jp": "‥‥{v:0008}ルイセちゃん、コイツ、蹴っていい？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0008}Luise-chan, can I kick this guy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0130",
    "jp": "{FB00}‥‥{v:0009}え～と‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}...{v:0009}Um...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0131",
    "jp": "{v:000A}とうっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Hi-yah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0132",
    "jp": "{v:000B}ランザックの兵隊さんに見つかったら、どうするの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}What will you do if the Ranzak soldiers spot you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0133",
    "jp": "{v:000C}あなたは僕に死ねと言ってるんですか！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Are you telling me to get myself killed?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0134",
    "jp": "{v:000D}なるほど。{n}コイツなら見つかりにくいし、{n}ジュリアンの事も知ってる。{p}{v:000E}適任だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}I see. She's hard to spot, and she knows Julian.{p}{v:000E}Just right for the job.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0135",
    "jp": "{v:000F}お兄ちゃん、頭いい～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}You're so clever, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0136",
    "jp": "{v:0010}それじゃ、アタシがジュリアンを呼んでくるから、{n}ここで待ってて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Then I'll go get Julian. Wait right here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0137",
    "jp": "{v:0011}しょうがないわね！{n}アタシが行ってくるわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Oh, fine! I'll go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0138",
    "jp": "{v:0012}ティピ、大丈夫？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Will you be all right, Tippi?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0139",
    "jp": "{v:0013}アタシならちっちゃいし、飛べるから大丈夫！{p}{v:0014}それじゃ、ジュリアンを呼んでくるから、{n}ここで待ってて！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}I'm tiny, and I can fly. I'll be fine!{p}{v:0014}I'll go get Julian, then. Wait right here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0140",
    "jp": "{v:0015}それにしても、上手くいくでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Still, do you think this will work out?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0141",
    "jp": "{v:0016}それはティピのことか？{n}それとも王位を取り戻すことか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}You mean Tippi? Or taking back the throne?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0142",
    "jp": "‥‥{v:0017}僕が王位についてからのことも含めてです。{p}{v:0018}僕が本物だとしても、これからのバーンシュタインを{n}まとめる器があるのでしょうか？{p}{v:0019}正直に答えて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0017}That, and what happens after I take the throne.{p}{v:0018}Even if I am the real prince, do I have what it takes to{n}lead Burnstein into the future?{p}{v:0019}Please answer honestly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0143",
    "jp": "エリオットが王位を継ぐことをどう思いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What do you think of Elliot inheriting the throne?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0144",
    "jp": "・エリオットは王の器がある",
-   "en": "",
+   "en": "・Elliot has the makings of a king",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0145",
    "jp": "・エリオットならやれる",
-   "en": "",
+   "en": "・Elliot can do it",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0146",
    "jp": "・心配するほどじゃない",
-   "en": "",
+   "en": "・There's no need to worry so much",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0147",
    "jp": "・たぶん大丈夫",
-   "en": "",
+   "en": "・It'll probably be fine",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0148",
    "jp": "・ちょっと心配",
-   "en": "",
+   "en": "・I'm a little worried",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0149",
    "jp": "・無理",
-   "en": "",
+   "en": "・He can't do it",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0150",
    "jp": "{v:001A}えぇっ！{n}そうですか！？{n}例えば、どんな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Really?! You think so?! In what way, for example?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0151",
    "jp": "‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "......",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0152",
    "jp": "{v:001B}フォローの出来ないおだては、やめた方がいいぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Don't flatter him if you can't back it up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0153",
    "jp": "{v:001C}で、でも、ほら！{n}そっくりさんに務まるくらいだから、{n}エリオット君にも出来るわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}B-but look! If your double can manage it, you can{n}too, Elliot-kun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0154",
    "jp": "‥‥{v:001D}ありがとうございます‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001D}Thank you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0155",
    "jp": "{v:001E}本当に大丈夫でしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Will I really be all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0156",
    "jp": "{v:001F}要は自信を持つことだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}What matters is having confidence.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0157",
    "jp": "{v:0020}自信‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Confidence...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0158",
    "jp": "{v:0021}そうよ、がんばらなきゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}That's right! You have to give it your best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0159",
    "jp": "{v:0022}そうですね！{n}ありがとうございます！{n}やる気がわいてきました！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}You're right! Thank you! I'm starting to feel ready{n}for this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0160",
    "jp": "{v:0023}そうそう。{n}俺は今までいろんな指導者を見てきたが、{n}そう心配するほどじゃなかったぜ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Exactly. I've seen all sorts of leaders in my time. You{n}don't have that much to worry about.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0161",
    "jp": "{v:0024}そうなんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Is that so?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0162",
    "jp": "{v:0025}要は誠実に、他人を思いやる政治だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}What matters is governing honestly, with other{n}people's welfare in mind.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0163",
    "jp": "{v:0026}なるほど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0164",
    "jp": "{v:0027}さすがにウォレスさんが言うと重みが違うね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}It really carries weight when Wallace-san says it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0165",
    "jp": "{v:0028}よし！{n}僕、がんばります！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}All right! I'll do my best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0166",
    "jp": "{v:0029}た、たぶん‥‥ですか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}P-probably...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0167",
    "jp": "{v:002A}で、でも、ほら！{n}そっくりさんに務まるくらいだから、{n}エリオット君にも出来るわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}B-but look! If your double can manage it, you can{n}too, Elliot-kun!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0168",
    "jp": "{v:002B}は、はぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Y-yes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0169",
    "jp": "{v:002C}ですよねぇ‥‥。{FFF9}{FFFB}{n}{v:002D}実際、自信ないんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}I thought so...{FFF9}{FFFB}{v:002D}To be honest, I don't have{n}much confidence.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0170",
    "jp": "{v:002E}だからってそのままじゃ困るぞ。{n}お前にバーンシュタインの未来が{n}かかってるんだからな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}You can't leave it at that. Burnstein's future is riding{n}on you, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0171",
    "jp": "{v:002F}もう、プレッシャーかけないでくださいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Please, don't put any more pressure on me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0172",
    "jp": "{v:0030}そうはっきり言われると‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}When you put it so bluntly...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0173",
    "jp": "{v:0031}お、お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}B-Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0174",
    "jp": "{v:0032}そうだぞ。{n}こういう時は嘘でも『大丈夫』って{n}言ってやるもんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}She's right. At a time like this, you tell him, 'You'll be{n}fine,' even if it's a lie.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0175",
    "jp": "{v:0033}う、嘘‥ですか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}A... lie...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0176",
    "jp": "‥‥{v:0034}あ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0034}Ah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0177",
    "jp": "{v:0035}もう、ウォレスさんもお兄ちゃんも！{p}{FC00}{v:0036}と、とにかくがんばらなきゃ！{n}ね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Honestly! Wallace-san, Big Brother, both of you!{p}{FC00}{v:0036}A-anyway, you have to give it your best! Right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0178",
    "jp": "{v:0037}は、はぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Y-yes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0179",
    "jp": "{v:0038}お待たせ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Thanks for waiting!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0180",
    "jp": "{v:0039}あ、お帰り。{n}早かったね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Oh, welcome back. That was quick!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0181",
    "jp": "{v:003A}そりゃもう、大急ぎで行って来たんだから。{p}{v:003B}でね、後からすぐ来るから、{n}街の南の洞窟で待っててって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Of course! I hurried there and back!{p}{v:003B}Anyway, Julian said to wait in the cave south of town.{n}Won't be long!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0182",
    "jp": "{v:003C}洞窟の中か。{n}確かに人目に付かないだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Inside a cave, eh? That'll certainly keep us out of sight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0183",
    "jp": "とりあえず、ランザック王と交渉をしてから{n}ここへ来ませんか？",
-   "en": "",
-   "term": "end"
+   "en": "Shall we negotiate with the king of Ranzak first, then{n}come here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0184",
    "jp": "そうだな。{n}それにジュリアンが、俺たちの事を{n}兵士に説明する時間も必要だろう。",
-   "en": "",
-   "term": "end"
+   "en": "Good idea. Julian will need time to explain things about{n}us to the soldiers, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0185",
    "jp": "せっかくアタシがジュリアンと約束して来たんだから、{n}早く洞窟へ行こうよ！",
-   "en": "",
-   "term": "end"
+   "en": "I went to all that trouble to arrange a meeting with{n}Julian! Come on, let's get to the cave!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0186",
    "jp": "結局、ガラシールズはジュリアンたちに{n}占領されたままなのね。",
-   "en": "",
-   "term": "end"
+   "en": "So Galashiels is still occupied by Julian's forces{n}after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0187",
    "jp": "あれ？{n}ガラシールズってバーンシュタイン王国領だったっけ？",
-   "en": "",
-   "term": "end"
+   "en": "Huh? Was Galashiels part of the Kingdom of Burnstein?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0188",
    "jp": "どうやら俺たちが来ないうちに{n}占領されちまったらしいな。",
-   "en": "",
-   "term": "end"
+   "en": "Looks like it got occupied while we were away.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0189",
    "jp": "占領されたにしては、街の人たちに危害はないみたい。",
-   "en": "",
-   "term": "end"
+   "en": "For an occupied town, the people don't seem to have{n}been harmed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0190",
    "jp": "司令官が出来た奴なんだろうよ。",
-   "en": "",
-   "term": "end"
+   "en": "Their commander must be a decent sort.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0191",
    "jp": "ここはバーンシュタイン軍に占領されている。{n}下手に出ていって、{n}街の人を戦闘に巻き込むマネはよせ。",
-   "en": "",
-   "term": "end"
+   "en": "The Burnstein army occupies this place. Don't go{n}blundering out there and drag the townspeople into{n}a fight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0192",
    "jp": "{v:0001}どうしてアタシ達のことが、わかったのかしら？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}How did they recognize us, I wonder?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0193",
    "jp": "{v:0002}そりゃ、お前、簡単だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Come on, that's easy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0194",
    "jp": "{v:0003}え～、そうかなぁ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Huh? Is it really?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0195",
    "jp": "{v:0004}ねぇ、アンタはわかるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Hey, do you know?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0196",
    "jp": "・ティピがいるから",
-   "en": "",
+   "en": "・Because Tippi is with us",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0197",
    "jp": "・エリオットがいるから",
-   "en": "",
+   "en": "・Because Elliot is with us",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0198",
    "jp": "・わからない",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen051.0199",
    "jp": "{v:0005}そうだよね。{n}やっぱり、ティピがいたからじゃないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}That's right. It must be because Tippi was with us,{n}don't you think?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0200",
    "jp": "‥‥{v:0006}あ、そっか。{n}アタシの存在って目印になっちゃうのね。{n}気をつけなきゃ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0006}Oh, right! Having me around makes us easy to spot.{n}I'll have to be careful!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0201",
    "jp": "{v:0007}今更？{n}もう遅いだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}You're only realizing that now? Bit late, isn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0202",
    "jp": "{v:0008}ぶ～っ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Hmph!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0203",
    "jp": "{v:000A}あ、そうか。{n}僕がリシャール王に似てるから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Oh, I see. Because I look like King Richard...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0204",
    "jp": "{v:000B}っていうか、あっちがエリオットの{n}そっくりさんなんだけどね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Actually, he's the one who's Elliot's double.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0205",
    "jp": "{v:000C}お兄ちゃん、本当に分からないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Big Brother, do you really not know?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0206",
    "jp": "{FB00}{v:000D}アタシもわかんないケド‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:000D}Well, I don't know either...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0207",
    "jp": "{FFF3}{FFF5}‥‥{v:004E}うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{FFF5}...{v:004E}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0208",
    "jp": "{v:000E}エリオットやティピって目印があるんだ。{n}分かって当然だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}With Elliot and Tippi along, we're easy to spot. Of course{n}they recognized us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0209",
    "jp": "{v:000F}あ、そうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Oh, right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen051.0210",
    "jp": "ちょっと！{n}いったい、どこへ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -41,9 +41,10 @@
   {
    "id": "scen332.0005",
    "jp": "・特にない",
-   "en": "",
+   "en": "・Nothing in particular",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen332.0006",
@@ -105,9 +106,10 @@
   {
    "id": "scen332.0015",
    "jp": "・面倒くさい",
-   "en": "",
+   "en": "・It's a nuisance",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen332.0016",
@@ -448,16 +450,18 @@
   {
    "id": "scen332.0069",
    "jp": "・引き受ける",
-   "en": "",
+   "en": "・Agree",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen332.0070",
    "jp": "・面倒くさい",
-   "en": "",
+   "en": "・It's a nuisance",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen332.0071",
@@ -714,8 +718,9 @@
   {
    "id": "scen332.0111",
    "jp": "何と言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen332.0112",

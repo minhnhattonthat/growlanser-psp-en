@@ -15,161 +15,187 @@
   {
    "id": "scen060.0001",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen060.0002",
    "jp": "ヴェンツェル",
-   "en": "",
-   "term": "null"
+   "en": "Wenzel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen060.0003",
    "jp": "レティシア姫",
-   "en": "",
-   "term": "null"
+   "en": "Princess Leticia",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen060.0004",
    "jp": "申し訳ございません。{n}お戻り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "My apologies. Please turn back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0005",
    "jp": "扉には鍵がかかっている。{n}どうやら入れないようだ。",
-   "en": "",
-   "term": "end"
+   "en": "The door is locked. There seems to be no way in.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0006",
    "jp": "ここから先へはお通しできません。{n}お戻り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "I cannot let you pass. Please turn back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0007",
    "jp": "　{n}　　　　　　　鍵がかかっている！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　It's locked!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0008",
    "jp": "{v:00C3}マイ＝ロード‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C3}My Lord...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0009",
    "jp": "{v:00C4}あ、{s:0008}、ドレスに着替えたんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C4}Oh, {s:0008}, you changed into a dress!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0010",
    "jp": "{v:00C5}こんな時でもなければ、{n}この服に袖を通すことがなさそうで‥‥。{n}申し訳ありません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C5}I thought I might never have another occasion to{n}wear it... Forgive me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0011",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0012",
    "jp": "・似合っていると言う",
-   "en": "",
+   "en": "・Say it suits her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen060.0013",
    "jp": "・似合わないと言う",
-   "en": "",
+   "en": "・Say it does not suit her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen060.0014",
    "jp": "・何も思わないと言う",
-   "en": "",
+   "en": "・Say you have no opinion",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen060.0015",
    "jp": "{v:00C6}マイ＝ロードに褒めていただけるなんて、光栄です。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C6}I am honored by your compliment, My Lord.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0016",
    "jp": "{v:00CD}せっかくだから、手ぐらい握ってあげなさいよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CD}Come on, at least take her hand while you've got{n}the chance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0017",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0018",
    "jp": "{v:00C7}踊りませんか、マイ＝ロード。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C7}Will you dance with me, My Lord?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0019",
    "jp": "{v:00C8}へぇ、けっこう上手いじゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C8}Huh, you're pretty good at this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0020",
    "jp": "{v:00C9}一人の殿方を独占できる幸せとは、{n}こういう時なのでしょうね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C9}So this must be the happiness of having a gentleman{n}all to oneself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0021",
    "jp": "{v:00CA}あまり長い間、主賓が席を外すのも問題ですね。{n}そろそろ戻りましょう。{p}{v:00CB}私は着替えてから戻りますので、ここで。{p}{v:00CC}楽しいひとときをありがとうございました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CA}It would not do for the guest of honor to be absent{n}for too long. We should return.{p}{v:00CB}I shall change before I rejoin you, so we must{n}part here.{p}{v:00CC}Thank you for such a lovely time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0022",
    "jp": "{s:0004}をよろしくお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "Please take good care of {s:0004}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0023",
    "jp": "{v:000D}うわ～♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Woooow♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0024",
    "jp": "{v:000E}すご～い‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Amaazing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0025",
    "jp": "{v:000F}何だか足がすくんじゃいそう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}My knees feel like they're going to give way...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0026",
    "jp": "{v:0010}{s:0002}！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}{s:0002}!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0027",
@@ -186,26 +212,30 @@
   {
    "id": "scen060.0029",
    "jp": "{v:0014}まあな。{p}{v:0015}それより、隊長が見つかったんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Yeah, we did.{p}{v:0015}More importantly, we found the captain!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0030",
    "jp": "{v:0016}何？{p}{FC04}{v:0017}よし、向こうで詳しい話を聞かせてもらおうか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}What?{p}{FC04}{v:0017}All right, let's go over there. I want to hear everything.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0031",
    "jp": "{v:0018}やぁ、みなさん！{n}元気そうですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Hello, everyone! You're all looking well.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0032",
    "jp": "{v:0019}{s:0004}王も、お元気そうで何よりです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}We are glad to see you in good health as well, King{n}{s:0004}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0033",
@@ -240,44 +270,51 @@
   {
    "id": "scen060.0038",
    "jp": "{v:001A}そんな堅苦しい挨拶は抜きですよ！{n}さ、楽しんでいって下さい。{p}{v:001B}僕が案内しますよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}There's no need for such formal greetings! Please,{n}enjoy yourselves.{p}{v:001B}I'll show you around.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0039",
    "jp": "{v:001C}{s:0006}、行こう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}{s:0006}, let's go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0040",
    "jp": "{v:001D}うん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Okay.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0041",
    "jp": "{v:001E}我々も行かないか？{n}せっかくの料理を食い損ねるぞ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Shall we go, too? We'll miss out on all that food.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0042",
    "jp": "{v:001F}え～っ！{n}それはヤバイよぉ！{n}行こう、行こう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Whaaat?! We can't let that happen! Come on, let's go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0043",
    "jp": "　{n}パーティーの間は閉じられているようだ。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}It seems to be closed during the party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0044",
    "jp": "ちょっと！{n}どこへ行く気よ！？",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0045",
@@ -294,76 +331,88 @@
   {
    "id": "scen060.0047",
    "jp": "{v:0027}なんだか、照れちゃうね‥‥★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}All this attention's making me blush...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0048",
    "jp": "{v:0028}彼らが取り戻した平和を、我々で守っていきましょう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Let us all protect the peace they have restored!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0049",
    "jp": "{FB00}{v:0029}ほえ～‥‥。{FFF9}{FFFB}{n}{v:002A}{s:0004}、立派になっちゃったわねぇ‥‥。{p}{FC02}{v:002B}さ、アタシ達も楽しもうよ！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0029}Woooow...{FFF9}{FFFB}{v:002A}{s:0004} has really grown into his{n}role, hasn't he...{p}{FC02}{v:002B}Come on, let's have some fun too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0050",
    "jp": "{v:0000}あ、お兄ちゃん{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Oh, Big Brother{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0051",
    "jp": "{v:0001}なーに、その幸せいっぱいそうな顔は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Whaaat's with that super happy look on your face?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0052",
    "jp": "{v:0002}えへへ‥‥★{p}‥{v:0003}わたし、お兄ちゃんの妹で良かった！{n}だって、この戦争を止めた英雄の妹だよ？{n}鼻が高いよね★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Hee hee...{p}...{v:0003}I'm so glad I'm your little sister, Big Brother! I mean,{n}my brother's the hero who stopped this war! That's{n}something to be proud of, isn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0053",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0054",
    "jp": "・もっと感謝するように言う",
-   "en": "",
+   "en": "・Tell her to be more grateful",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen060.0055",
    "jp": "・{s:0001}も頑張ったと言う",
-   "en": "",
+   "en": "・Say {s:0001} worked hard too",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen060.0056",
    "jp": "{v:0005}うん{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Yes{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0057",
    "jp": "{v:0006}でも、わたしががんばれたのは、{n}お兄ちゃんがいたからだもん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}But I was only able to do my best because you were{n}there, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0058",
    "jp": "‥‥{v:0007}ま、今日は蹴らないでおいてあげるわ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0007}Well, I'll let you off without a kick today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0059",
@@ -374,104 +423,121 @@
   {
    "id": "scen060.0060",
    "jp": "{v:0009}お兄ちゃん、ちゃんと食べてる？{n}好き嫌いしちゃダメだからね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Are you eating properly, Big Brother? You mustn't be{n}picky, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0061",
    "jp": "‥‥{v:000A}アンタ、{n}気をつけないと{s:0001}ちゃんの尻に敷かれるわよ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000A}Watch it, or {s:0001} will have you wrapped{n}around her little finger!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0062",
    "jp": "{v:000B}あ、お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Oh, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0063",
    "jp": "{v:000C}どぅ？{n}楽しんでるぅ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Sooo? Having fuuun?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0064",
    "jp": "{v:000D}うん。{n}でもね、なんか実感がなくって。{n}本当にわたしたちがこの国を救ったのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Yes. But somehow, it still doesn't feel real. Did we really{n}save this country?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0065",
    "jp": "{v:000E}当たり前じゃない！{n}だから堂々としてればいいの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Of course we did! So hold your head high!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0066",
    "jp": "‥‥{v:000F}うん。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000F}Okay.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0067",
    "jp": "‥‥{v:0010}わたし、堂々としてない？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0010}Don't I look confident?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0068",
    "jp": "‥‥{v:0011}堂々と、じゃなくて『オドオド』してるわよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0011}You look more 'cowering' than confident.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0069",
    "jp": "{FFF5}{v:0012}う～‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0012}Uuugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0070",
    "jp": "‥‥{v:0016}やっぱりすごいよな、お前。{p}{v:0017}この歳で、世界を救っちまったんだぜ、お前は？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0016}You're really something, kid.{p}{v:0017}You've gone and saved the world at your age, you{n}know that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0071",
    "jp": "{v:0018}{s:0002}さん、おおげさだよ！{n}だって、{s:0002}さんだっていっぱい戦ったじゃない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}{s:0002}, you're exaggerating! You fought so{n}hard too, didn't you, {s:0002}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0072",
    "jp": "{v:0019}とはいえ、俺たちを引っ張っていったのはお前だぜ？{n}俺は保護者みてぇに後をくっついてただけだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Still, you were the one leading us, eh? I just tagged{n}along like a chaperone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0073",
    "jp": "{v:001C}いろいろ感謝してるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}I owe you a lot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0074",
    "jp": "{v:001D}ん、何だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Hm? What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0075",
    "jp": "{v:001E}楽しんでる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Having fun?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0076",
    "jp": "{v:001F}ああ。{n}久々に旧友と酒が飲めて、最高の気分だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Yeah. Haven't had a drink with old friends in ages.{n}Couldn't feel better.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0077",
@@ -482,14 +548,16 @@
   {
    "id": "scen060.0078",
    "jp": "{v:0021}お前たちこそ楽しんでるか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}How about you lot? Enjoying yourselves?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0079",
    "jp": "{v:0030}{s:0006}！{n}そんなに大きな口開けてると、アゴ外れちゃうよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}{s:0006}! You'll dislocate your jaw if you{n}open your mouth that wide!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0080",
@@ -500,20 +568,23 @@
   {
    "id": "scen060.0081",
    "jp": "{v:0033}いまさら恥ずかしがることないでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Aww, it's a bit late to be embarrassed now, don't{n}you think?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0082",
    "jp": "{v:0034}だって、だって、お兄さまに嫌われちゃったら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}But, but, what if Big Brother stops liking me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0083",
    "jp": "{v:0035}大丈夫だって！{n}そんなことで壊れるのは本当の愛じゃないのよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}It'll be fine! If something like that can ruin it, it isn't{n}true love.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0084",
@@ -524,26 +595,30 @@
   {
    "id": "scen060.0085",
    "jp": "{v:003B}あ、ごめんなさい！{n}言っちゃいけないことでした。{p}{v:003D}アタシってダメですね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Oh, I'm sorry! I shouldn't have said that.{p}{v:003D}I'm hopeless, aren't I...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0086",
    "jp": "{v:003E}とにかく、今は楽しみましょ？{n}ね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Anyway, let's just enjoy ourselves for now, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0087",
    "jp": "{v:003F}どーせ、アタシははしたないですよぉ、っだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Fine, I'm unladylike! So there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0088",
    "jp": "{v:0040}もう、すねない、すねない！{n}‥‥でも、なんだか平和ねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Oh, come on, don't sulk! ...It really does feel{n}peaceful, though...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0089",
@@ -554,122 +629,142 @@
   {
    "id": "scen060.0090",
    "jp": "{v:0043}何言ってんのよ！{n}これからは好きな時に会えるってことじゃない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}What are you talking about?! It means we can see each{n}other whenever we want now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0091",
    "jp": "{v:0044}それもそうですね！{n}今は安心して食べようっと！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}You're right! Now I can eat without a care!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0092",
    "jp": "{v:0046}お兄さまも楽しんでますか？{n}おいしい料理もいっぱいありますよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Are you enjoying yourself too, Big Brother? There's so{n}much delicious food!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0093",
    "jp": "‥‥{v:0047}まだまだ、色気よりも食い気なのかしら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0047}I wonder if she's still hungrier for food{n}than romance...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0094",
    "jp": "{v:0022}やっほー、{s:0003}さぁーん♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Heeey, {s:0003}♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0095",
    "jp": "{v:0023}やあ。ご機嫌そうだね、おチビちゃん。{n}ひょっとして酔ってるのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Hello. You're in a good mood, little one. Have you been{n}drinking, by any chance?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0096",
    "jp": "{v:0024}やだ～！　アタシ、お酒なんて飲んでないよ！{p}{v:0025}でも、嬉しいから、いい気分！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Oh, stop it! I haven't had any alcohol!{p}{v:0025}But I'm happy, so I feel great!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0097",
    "jp": "{v:0026}あははっ。まったく、その通りだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Ahaha! Yes, that's exactly how it is.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0098",
    "jp": "{v:0027}これからも頼むよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}I'll be counting on you from now on too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0099",
    "jp": "{v:0028}やぁ。ご機嫌だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Hello. You're in a good mood.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0100",
    "jp": "{v:0029}とっても♪{n}平和だし、料理はすごいし、もう最高っ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}The best♪ We've got peace, the food's amazing... What{n}more could I want?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0101",
    "jp": "{v:002A}あははっ、おいしいからって食べ過ぎると、{n}重くて飛べなくなっちゃうよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Ahaha! It may be delicious, but if you eat too much,{n}you'll be too heavy to fly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0102",
    "jp": "{v:002B}えっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0103",
    "jp": "{v:002C}なんて、冗談だよ。{n}おチビちゃんは元気が取り柄‥‥って、{n}あっ、ちょっと、聞いてる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Just kidding. Your energy is your best quality, little{n}one... Oh, hey, are you listening?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0104",
    "jp": "{v:002D}むむぅ‥‥ダイエットしようかしら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Hmmph... Maybe I should go on a diet...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0105",
    "jp": "{v:002E}まいったな‥‥冗談だったのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Oh, dear... I was only joking...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0106",
    "jp": "{v:002F}今は心から楽しもうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Let's just enjoy ourselves to the fullest for now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0107",
    "jp": "{v:0049}あら。どうしました？{n}何かご用ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Oh, what is it? Did you need something?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0108",
    "jp": "{v:004A}楽しんでるかなぁって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Just wondering if you're having fun.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0109",
    "jp": "{v:004B}はい。{p}‥‥{v:004C}実は見たこともない料理がいっぱい並んでいて、{n}食べるより圧倒されていたところです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Yes.{p}...{v:004C}Actually, there are so many dishes I've never seen{n}before. I've been too overwhelmed to eat.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0110",
@@ -680,137 +775,159 @@
   {
    "id": "scen060.0111",
    "jp": "{v:004D}え、えぇ‥‥。{p}{v:004E}恥ずかしい話ですけど、私、テーブルマナーというか、{n}こういったパーティーでどうしたらいいのか、{n}よくわからないのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Y-yes...{p}{v:004E}It's embarrassing to admit, but I don't really know much{n}about table manners, or how to behave at a party{n}like this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0112",
    "jp": "{v:004F}テーブルマナーねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Table manners, huh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0113",
    "jp": "{v:0050}私の家は、兄と２人で暮らすのがやっとだったので、{n}こんな豪華な料理はとても‥‥。{p}{v:0051}変なことをして、他の人に笑われないかと思うと、{n}どうしても手を出し難くて。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}My brother and I barely had enough to live on. Food{n}this lavish was far beyond us...{p}{v:0051}I keep worrying I'll do something strange and everyone{n}will laugh. It makes it so hard to start eating.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0114",
    "jp": "{v:0054}まぁ、このメニューだったら、{n}普通に食べてれば大丈夫だと思うわよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Well, with what's on the menu, I think you'll be fine{n}eating like you normally do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0115",
    "jp": "{v:0055}そ、そうですね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Y-yes, I suppose...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0116",
    "jp": "{v:0056}そのことで、ちょっと聞きたいことが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}There's something I'd like to ask about that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0117",
    "jp": "{v:0057}なぁに？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0118",
    "jp": "{v:0058}席の左右に食器が並んでいますよね？{n}ナイフやフォークもいろいろあって、{n}どうしていいかわからないんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}There are utensils on both sides of each place, aren't{n}there? So many different knives and forks... I don't{n}know what to do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0119",
    "jp": "{v:0059}ははぁ。それで全然食べてないのね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Aha! So that's why you haven't eaten anything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0120",
    "jp": "{v:005A}アンタ、教えてあげなよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Go on, tell her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0121",
    "jp": "・自分に近い食器から使う",
-   "en": "",
+   "en": "・Use the utensils closest to you first",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen060.0122",
    "jp": "・自分から遠い食器から使う",
-   "en": "",
+   "en": "・Use the utensils farthest away first",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen060.0123",
    "jp": "・自分も知らない",
-   "en": "",
+   "en": "・I don't know either",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen060.0124",
    "jp": "{v:005B}自分に近い食器ですね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}The utensils closest to me, then?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0125",
    "jp": "{v:005C}自分から遠い食器ですね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}The utensils farthest from me, then?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0126",
    "jp": "{v:005D}それじゃ、私と同じですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Then we're in the same boat.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0127",
    "jp": "{v:005E}おいしく食べられればそれでいいと思うけどね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}I think as long as you enjoy the food, that's{n}what matters.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0128",
    "jp": "{v:005F}どぉ、{s:0007}さん食べてる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}So, {s:0007}, have you been eating?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0129",
    "jp": "{v:0052}それが、教えてもらったように食べてきたのですが、{n}スープ料理のところで、{n}ナイフとフォークしかなくなってしまって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Well, I followed your advice, but when I got to the{n}soup, I only had a knife and fork left...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0130",
    "jp": "{v:0053}コイツ、ウソ教えたわね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}This guy gave you bogus advice, didn't he...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0131",
    "jp": "{v:0060}え、えぇ‥‥。{p}{v:0061}マナーに気を取られているせいか、{n}味わう余裕がないのが本当のところですけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}Y-yes...{p}{v:0061}Though to be honest, I think I'm so caught up in my{n}manners that I haven't been able to savor any of it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0132",
    "jp": "‥‥{v:0062}もうっ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0062}Oh, honestly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0133",
@@ -821,92 +938,107 @@
   {
    "id": "scen060.0134",
    "jp": "{v:006A}考え過ぎじゃないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:006A}Aren't you overthinking it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0135",
    "jp": "‥‥{v:006B}そうかも知れんがな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:006B}Maybe I am.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0136",
    "jp": "{v:006C}俺の立場がどうあれ、料理に罪はねぇからな。{n}しっかり食うさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}Whatever my standing, the food hasn't done anything{n}wrong. I'll eat my fill.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0137",
    "jp": "‥‥{v:006F}よぉ、お前たちか。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:006F}Oh, it's you lot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0138",
    "jp": "{v:0070}元気ないよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0070}You look down.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0139",
    "jp": "{v:0071}まぁな‥‥。{p}{v:0072}ここへ来ちまったことを、今は後悔してんだ。{n}本当は断ろうかと思ったんだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}Yeah...{p}{v:0072}I'm regretting coming here now. I was thinking of{n}turning down the invitation, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0140",
    "jp": "{v:0073}それって、{s:0007}さんのこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0073}Is this about {s:0007}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0141",
    "jp": "‥‥{v:0074}ああ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0074}Yeah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0142",
    "jp": "{v:0075}バカ！{n}そんなことしても、{s:0007}さんは喜ばないよ！？{p}{v:0076}今のアンタに必要なのは、{n}済んでしまった過去を悔やむ事じゃなくて、{n}これからどうやって生きられるかじゃないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0075}You idiot! Do you think {s:0007} would want{n}you doing that?!{p}{v:0076}What you need now is to figure out how you're going to{n}live from here on, instead of dwelling on a past you{n}can't change!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0143",
    "jp": "‥‥{v:0077}分かってるさ。{n}だからこうして出てきたんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0077}I know. That's why I came...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0144",
    "jp": "{v:0078}だったら、ここで決意を新たに、ね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}Then make a fresh start right here, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0145",
    "jp": "{v:0079}ああ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}Yeah.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0146",
    "jp": "{v:007A}ちゃんと食べてる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}Have you been eating?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0147",
    "jp": "‥‥{v:007B}悪いな。{n}やっぱりそんな気分じゃねぇんだ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:007B}Sorry. I'm just not in the mood.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0148",
    "jp": "{v:0088}あ、どうも！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0088}Oh, hello!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0149",
@@ -923,8 +1055,9 @@
   {
    "id": "scen060.0151",
    "jp": "{v:008D}王様になったのに、全然変わらないね。{n}もっと偉そうになってると思ったのに。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008D}You haven't changed a bit, even after becoming king. I{n}thought you'd be acting a lot grander.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0152",
@@ -935,86 +1068,100 @@
   {
    "id": "scen060.0153",
    "jp": "{v:008F}そうだったね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008F}That's true.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0154",
    "jp": "{v:0090}でも僕は少し変われたかな？{p}{v:0091}あなたと出会って、少し強くなれました。身も心も。{p}{v:0092}感謝しています。そして、すっごく尊敬しています！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0090}But perhaps I have changed a little?{p}{v:0091}Since meeting you, I've grown a little stronger. In body{n}and in spirit.{p}{v:0092}I'm grateful to you. And I respect you so very much!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0155",
    "jp": "{v:0093}尊敬は‥行き過ぎじゃない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0093}Respect...? Isn't that going a bit far?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0156",
    "jp": "{v:0094}いいえ！{n}もうあこがれちゃいますよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0094}Not at all! I truly look up to you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0157",
    "jp": "{v:0095}あ‥はは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0095}Ah... haha...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0158",
    "jp": "{v:0096}だから僕も僕のまま。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0096}So I'm still myself too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0159",
    "jp": "{v:0097}なるほどね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0097}I see what you mean.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0160",
    "jp": "{v:0098}本当にあこがれちゃうなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0098}I really do look up to you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0161",
    "jp": "{v:0099}今日は楽しんで下さいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0099}Please enjoy yourself today.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0162",
    "jp": "{v:007C}あ、あの‥‥。{n}今、お忙しいですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007C}Um, excuse me... Are you busy right now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0163",
    "jp": "{v:007D}よろしければ、２人で上にでも行きませんか？{n}前のパーティーの時のように‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007D}If you would like, shall we go upstairs together? Like{n}we did at the last party...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0164",
    "jp": "{v:007F}では、先に行っていてください。{n}私はちょっと準備がありますので‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007F}Then please go on ahead. I have a few preparations{n}to make...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0165",
    "jp": "{v:007E}そうですか。{n}気が変わったら、声をかけて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}I see. Please let me know if you change your mind.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0166",
    "jp": "{s:0008}と上に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Go upstairs with {s:0008}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0167",
@@ -1025,20 +1172,23 @@
   {
    "id": "scen060.0168",
    "jp": "‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0169",
    "jp": "{v:0081}お前のおかげで我が国も‥‥{n}いや、この大陸が救われた。{n}大した奴だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0081}Thanks to you, our country... No, this entire continent{n}was saved. You are truly remarkable.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0170",
    "jp": "{v:0082}え～っ！{n}コイツ、そんなに大した奴じゃないよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0082}Whaaat?! This guy's not THAT impressive, you know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0171",
@@ -1049,38 +1199,44 @@
   {
    "id": "scen060.0172",
    "jp": "{v:0083}ったいなぁ！{n}突つかないでよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0083}Owww! Quit poking me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0173",
    "jp": "{v:0084}クックックッ‥‥。{n}本当、大した奴だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0084}Heh heh heh... You really are something.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0174",
    "jp": "{v:0085}いやいや。{n}本当に、大した奴だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}No, no. You really are something.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0175",
    "jp": "{v:0086}どうした？{n}料理が口に合わないのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0086}What's wrong? Food not to your liking?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0176",
    "jp": "{v:009B}あなた達にはいろいろとお世話になりましたね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009B}You have done so much for us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0177",
    "jp": "{v:009D}楽しんでいって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009D}Please enjoy yourselves.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0178",
@@ -1091,32 +1247,37 @@
   {
    "id": "scen060.0179",
    "jp": "{v:00A1}こうしていられるのも、あなた達のおかげですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A1}We owe it to you that we can be here like this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0180",
    "jp": "{v:00CF}あなた達は偉業を成し遂げました。{n}しかし、それに慢心してはいけませんよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CF}You have accomplished a great feat. But you must not{n}grow conceited.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0181",
    "jp": "{v:00A3}えっと、まんしん‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A3}Um, con... ceited?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0182",
    "jp": "{v:00A4}おごり高ぶることです。{n}何事も謙虚でなければなりません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A4}It means becoming proud and arrogant. You must{n}remain humble in all things.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0183",
    "jp": "{v:00A5}は、はぁ‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A5}Uh, r-right...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0184",
@@ -1133,14 +1294,16 @@
   {
    "id": "scen060.0186",
    "jp": "{v:00AC}君たちに救われたよ。{n}ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AC}You saved us. Thank you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0187",
    "jp": "{v:00AE}おお、君たちか。{n}実は今度の理事会で、{n}私が正式に学院長になることが決まりそうなんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AE}Oh, there you are. As it happens, the next board{n}meeting will likely make my appointment as{n}Headmaster official.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0188",
@@ -1157,44 +1320,51 @@
   {
    "id": "scen060.0190",
    "jp": "{v:00B2}えっ？{n}プロミス・ペンダントじゃない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B2}Huh? Wasn't it the Promise Pendant?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0191",
    "jp": "{v:00B3}本当にそれだけなのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B3}Was that really all there was to it...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0192",
    "jp": "{v:00B4}それじゃね、人の持つ奇跡の力だ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B4}Then it was the power people have to work miracles!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0193",
    "jp": "‥‥{v:00B5}奇跡の力か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00B5}The power to work miracles...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0194",
    "jp": "{v:00B6}さっきの回答は信憑性に欠けるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B6}Your earlier answer is hardly credible.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0195",
    "jp": "{v:00B7}お前たちには世話になった。{n}あらためて礼を言わせてもらう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B7}You have done much for me. Allow me to thank you{n}once again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0196",
    "jp": "{v:00B8}でも、つらかったでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B8}But it was hard on you, wasn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0197",
@@ -1211,14 +1381,16 @@
   {
    "id": "scen060.0199",
    "jp": "{v:00BC}やぁ、君たちには何度お礼を言っても、{n}言い足りないね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BC}Ah, I could thank you a hundred times, and it would{n}still not be enough.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0200",
    "jp": "{v:00BD}でも、親友だったあの偽の王様、{n}牢屋に入れられちゃったんでしょ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BD}But that false king was your best friend, and they put{n}him in prison, didn't they...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0201",
@@ -1229,14 +1401,16 @@
   {
    "id": "scen060.0202",
    "jp": "{v:00C1}君たちには感謝しているよ。{p}{v:00C2}さ、今は楽しもう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C1}I am grateful to you.{p}{v:00C2}Come, let us enjoy ourselves for now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0203",
    "jp": "どうぞお楽しみ下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please enjoy yourselves.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0204",
@@ -1307,20 +1481,23 @@
   {
    "id": "scen060.0215",
    "jp": "{v:0030}{s:0001}ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}{s:0001}!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0216",
    "jp": "{v:0031}うん！{FFFB}{n}{v:0032}テレポートするよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Right!{FFFB} {v:0032}I'll Teleport us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0217",
    "jp": "‥‥{v:0033}頼みますよ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0033}We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0218",
@@ -1331,56 +1508,65 @@
   {
    "id": "scen060.0219",
    "jp": "{v:0000}　　　　　　{FFEE}クックックックッ！{n}　　　　　　愚かな人間どもめ‥‥！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}　　　　　　{FFEE}Heh heh heh heh! Foolish humans...!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0220",
    "jp": "{v:0001}何！？{n}この声？{n}どこから聞こえるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}What?! That voice! Where's it coming from?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0221",
    "jp": "{v:0002}　　　　　{FFEE}聞こえるか、愚かな人間ども！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}　　　　　{FFEE}Can you hear me, foolish humans?!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0222",
    "jp": "{v:0003}やっぱり聞こえる！{n}どこから！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}There it is again! Where's it coming from?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0223",
    "jp": "{v:0004}頭の中に直接‥‥。{n}この波動は‥‥グローシュ！？{p}‥‥{v:0005}グローシアンの技術なの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Directly into my mind... These waves... Grosh?!{p}...{v:0005}Is this a Growsian technique?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0224",
    "jp": "{v:0006}すごいなぁ、こんな技術を持っていたのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Amazing... I had no idea they possessed such{n}a technique...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0225",
    "jp": "{v:0007}感心してる場合かよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}This ain't the time to be impressed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0226",
    "jp": "{v:0008}{FFEE}ついに‥‥私はついに、すべての力を取り戻した！{n}　　　　もう人間のふりをする必要はない！{n}　　　　　覚悟しろ、愚かな人間ども！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}{FFEE}At last... At last, I have regained all my power! I no{n}longer need to pretend to be human! Prepare{n}yourselves, foolish humans!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0227",
    "jp": "‥‥{v:0009}この声‥御師様‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0009}That voice... My teacher...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0228",
@@ -1397,8 +1583,9 @@
   {
    "id": "scen060.0230",
    "jp": "{v:000C}支配者だと！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Our ruler?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0231",
@@ -1409,8 +1596,9 @@
   {
    "id": "scen060.0232",
    "jp": "{v:000E}それじゃ、あのフェザリアンが言ってた？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Then, is this what that Featherian was talking about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0233",
@@ -1421,8 +1609,9 @@
   {
    "id": "scen060.0234",
    "jp": "{v:0010}な、何！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}W-what?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0235",
@@ -1433,32 +1622,37 @@
   {
    "id": "scen060.0236",
    "jp": "{v:0012}止めるな、{s:0002}！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Don't stop me, {s:0002}!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0237",
    "jp": "{v:0013}今から急いでも、{n}お前が向こうに帰るまでに、{n}どれくらいかかると思ってるんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Even if you leave right now, how long do you think it'll{n}take you to get back there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0238",
    "jp": "‥‥{v:0014}くっ！{n}しかし、このまま黙っているわけには‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0014}Damn! But I can't just stand here and do nothing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0239",
    "jp": "{v:0015}アタシ達と一緒に行きましょう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Come with us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0240",
    "jp": "{v:0016}わたしのテレポートで、すぐに送ってあげられます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}I can get you there right away with my Teleport.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0241",
@@ -1469,8 +1663,9 @@
   {
    "id": "scen060.0242",
    "jp": "{v:0018}すまない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}I owe you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0243",
@@ -1481,50 +1676,58 @@
   {
    "id": "scen060.0244",
    "jp": "　{n}　　{FFF0}一緒に戦うメンバーを選んで下さい。{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　{FFF0}Choose who will fight alongside you.{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0245",
    "jp": "{v:001A}アタシを連れてってくれますか！{n}お兄さまのお役に立ちたいの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Will you take me with you?! I want to help you,{n}Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0246",
    "jp": "{s:0006}をパーティーに加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add {s:0006} to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0247",
    "jp": "{v:001B}{s:0006}、がんばるであります！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}{s:0006}, reporting for duty! I'll do my{n}best, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0248",
    "jp": "‥‥{v:001C}そうですか‥‥。{n}でも、アタシの力が必要になったら、{n}いつでも声をかけて下さいね！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001C}Oh, I see... But if you need my help, just say the word!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0249",
    "jp": "{v:001D}僕もご一緒していいのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Would it be all right if I joined you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0250",
    "jp": "{s:0003}をパーティーに加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add {s:0003} to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0251",
    "jp": "{v:001E}きっと奴を倒せば、真の平和が訪れる。{n}さぁ、がんばろう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}I'm sure true peace will come once we defeat him. Come{n}on, let's give it our all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0252",
@@ -1535,32 +1738,37 @@
   {
    "id": "scen060.0253",
    "jp": "‥‥{v:001F}そうか、仕方ないな。{n}少しはここに残って様子を見るよ。{p}{v:0020}僕の力が必要なら、いつでも呼びに来てくれ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001F}I see. Well, it can't be helped. I'll stay here a little while{n}and see how things go.{p}{v:0020}Come and get me whenever you need my help.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0254",
    "jp": "{v:0021}私を連れて行って下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Please take me with you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0255",
    "jp": "{s:0007}をパーティーに加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add {s:0007} to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0256",
    "jp": "{v:0022}これ以上、不幸な人は増やさせません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}I will not let anyone else suffer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0257",
    "jp": "‥‥{v:0023}そうですか。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0023}I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0258",
@@ -1571,26 +1779,30 @@
   {
    "id": "scen060.0259",
    "jp": "{v:0024}俺も連れてけ！{n}あんな奴、俺が葬ってやるぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Take me along, too! I'll put that bastard in his grave!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0260",
    "jp": "{s:0005}をパーティーに加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add {s:0005} to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0261",
    "jp": "{v:0025}よっしゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}All right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0262",
    "jp": "‥‥{v:0026}チッ！{n}今回は譲ってやるよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0026}Tch! I'll let you have this one...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0263",
@@ -1601,56 +1813,65 @@
   {
    "id": "scen060.0264",
    "jp": "{v:0027}みんなの幸せを守りたいんです！{n}僕を連れていってくれませんか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}I want to protect everyone's happiness! Will you take me{n}with you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0265",
    "jp": "{s:0004}をパーティーに加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add {s:0004} to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0266",
    "jp": "{v:0028}僕、がんばります！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}I'll do my best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0267",
    "jp": "‥‥{v:0029}そうですか。がんばって下さいね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0029}I see. Please give it your all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0268",
    "jp": "{v:002A}国王として、できるかぎりのことをします。{n}まずは軍隊を動かして、{n}みなさんのバックアップをしますね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}As King, I will do everything I can. First, I will mobilize{n}the army to support you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0269",
    "jp": "{v:002B}私も‥私も連れて行ってくれぬか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}I, too... Will you take me with you as well?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0270",
    "jp": "{s:0008}をパーティーに加えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Add {s:0008} to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0271",
    "jp": "{v:002C}ありがとう。{n}命の限り、戦い抜くつもりだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Thank you. I intend to fight to my last breath.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0272",
    "jp": "‥‥{v:002D}そうか。{n}共に闘えず、残念だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002D}I see. I regret that we cannot fight together...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0273",
@@ -1679,8 +1900,9 @@
   {
    "id": "scen060.0277",
    "jp": "何ということでしょう。{n}やっと平和が訪れたというのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "How could this happen? Peace had finally come...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0278",
@@ -1691,8 +1913,9 @@
   {
    "id": "scen060.0279",
    "jp": "頼みますよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We are counting on you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0280",
@@ -1703,8 +1926,9 @@
   {
    "id": "scen060.0281",
    "jp": "うぅ‥‥。{n}こんな事がいつまで続くのだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ugh... How long must this go on...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0282",
@@ -1727,8 +1951,9 @@
   {
    "id": "scen060.0285",
    "jp": "クッ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Damn...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0286",
@@ -1739,8 +1964,9 @@
   {
    "id": "scen060.0287",
    "jp": "これから我々はどうなるんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What will become of us now...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0288",
@@ -1763,8 +1989,9 @@
   {
    "id": "scen060.0291",
    "jp": "なんて事だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "How terrible...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0292",
@@ -1775,14 +2002,16 @@
   {
    "id": "scen060.0293",
    "jp": "{v:002F}どうやら決まったみてぇだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Looks like you've made up your minds.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0294",
    "jp": "どこへ行くつもりだい？",
-   "en": "",
-   "term": "end"
+   "en": "Where are you going?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen060.0295",

@@ -15,326 +15,380 @@
   {
    "id": "scen252.0001",
    "jp": "老人",
-   "en": "",
-   "term": "null"
+   "en": "Old Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen252.0002",
    "jp": "{FFEE}ルイセを守れ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect Luise!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0003",
    "jp": "{v:0050}この娘が能力を取り戻すような事があれば、{n}やっかいなのでな。{n}念のためだ！{p}{v:0051}死ね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}It would be troublesome if this girl regained her{n}powers. I am merely taking precautions!{p}{v:0051}Die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0004",
    "jp": "{v:0052}きゃああっ！{n}ルイセちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Aaaah! Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0005",
    "jp": "{v:002D}あんな奴に負けちゃダメよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Don't you dare lose to a creep like that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0006",
    "jp": "{v:002E}お前は創造主に逆らうというのか？{p}{v:002F}出来損ないがっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}You would defy your creator?{p}{v:002F}You defective wretch!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0007",
    "jp": "{v:0023}積年の想い、ようやく果たすときが来たぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}I've waited years for this. Time to settle the score!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0008",
    "jp": "{v:0024}ルイセちゃんは絶対に守るんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}I'm going to protect Luise-chan, no matter what!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0009",
    "jp": "{v:0025}お前がすべての元凶か‥‥。{FFF9}{FFFB}{n}{v:0026}ここで終わらせてみせる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}So you are the source of all this...{FFF9}{FFFB}{v:0026}I will put an end to{n}it here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0010",
    "jp": "{v:0027}彼女には指一本触れさせません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}I will not let you lay a finger on her!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0011",
    "jp": "{v:0028}これ以上、お前の思い通りにはさせねぇぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}You've had your way long enough, damn you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0012",
    "jp": "{v:0029}バーンシュタイン国王の名にかけて、{n}人々を苦しめる存在は許せません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}On my honor as King of Burnstein, I cannot tolerate{n}anyone who makes people suffer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0013",
    "jp": "‥‥{v:002A}なんと醜い‥‥。{p}{v:002B}この世から消し去ってくれる！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002A}How hideous...{p}{v:002B}I shall erase you from this world!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0014",
    "jp": "{v:002C}うるさい奴らめ。{n}邪魔をするな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}You noisy pests. Stay out of my way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0015",
    "jp": "ん？{n}何だ？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? What's going on?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0016",
    "jp": "ゼノス！{p}{FC02}実はゲヴェルがルイセちゃんを狙って‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "Xenos!{p}{FC02}Gevel's after Luise-chan...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0017",
    "jp": "わかった！{n}手助けするぜ！",
-   "en": "",
-   "term": "end"
+   "en": "Got it! I'll give you a hand!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0018",
    "jp": "{v:0030}何だか外が騒がしいな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}It sounds rather noisy outside...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0019",
    "jp": "{v:0031}あっ、出て来ちゃダメ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Ah! Don't come out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0020",
    "jp": "{v:0032}うをっ？{p}{v:0033}これは‥‥。{p}{v:0034}うをおおぉぉっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Whoa?!{p}{v:0033}This is...{p}{v:0034}Raaaaagh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0021",
    "jp": "‥{v:0035}まさか、お前は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0035}It cannot be... You are...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0022",
    "jp": "‥‥{v:0036}はっはっはっはっ。{n}久しぶりだな。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0036}Ha ha ha ha. It has been a long time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0023",
    "jp": "{v:0037}やはりお前か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}So it is you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0024",
    "jp": "{v:0038}思い出したぞ。{n}今すべてをな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}I remember. Everything, now...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0025",
    "jp": "{v:0039}この声、まさか‥‥隊長？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}That voice... Could it be... Captain?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0026",
    "jp": "{v:003A}おお、ウォレスか。{n}何をしている！{n}今はコイツを倒すことだけを考えろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Oh, Wallace. What are you doing?! Focus on bringing this{n}thing down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0027",
    "jp": "{v:003B}やっぱり、ベルガー隊長‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}So it really is you, Captain Berger...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0028",
    "jp": "‥‥{v:003C}親父‥なのか！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003C}Dad... Is that you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0029",
    "jp": "{v:003D}ゼノスか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Xenos?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0030",
    "jp": "{v:003E}この人がお父さん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Is this man my father?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0031",
    "jp": "{v:003F}カレンなのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Is that you, Karen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0032",
    "jp": "{v:0040}ご無事で何よりです！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}I'm so glad you're safe!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0033",
    "jp": "‥‥{v:0041}心配をかけたようだな。{n}だが話はコイツを倒してからだ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0041}It seems I've worried you. But we'll talk after we{n}defeat this thing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0034",
    "jp": "{v:0042}ええい、死に損ないが！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Bah! You should have stayed dead!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0035",
    "jp": "{v:0043}もうどのくらい昔になるかな、{n}こうしてお前と戦ったのは。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}How long has it been since I last fought you like this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0036",
    "jp": "{v:0044}生きていたとはな。{n}さすがと言おうか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}So you survived. I suppose I should be impressed...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0037",
    "jp": "{v:0045}お前は我が部下を殺した。{n}その罪、命をもって償ってもらうぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}You killed my men. You will pay for that with your life.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0038",
    "jp": "{v:004D}匂うぞ‥‥。{p}{v:004E}ここだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}I can smell it...{p}{v:004E}Here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0039",
    "jp": "{v:004F}ほら！{n}急いで！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Come on! Hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0040",
    "jp": "うぐっ！",
-   "en": "",
-   "term": "end"
+   "en": "Urgh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0041",
    "jp": "お、親父！",
-   "en": "",
-   "term": "end"
+   "en": "D-Dad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0042",
    "jp": "お父さん！",
-   "en": "",
-   "term": "end"
+   "en": "Father!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0043",
    "jp": "た、隊長！",
-   "en": "",
-   "term": "end"
+   "en": "C-Captain!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0044",
    "jp": "ああっ！{n}おじちゃんが！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, no! The old man!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0045",
    "jp": "{v:0053}ええい、予想外の邪魔がはいったわ‥‥。{n}ここは一度‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Curse this unforeseen interference... For now, I must...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0046",
    "jp": "{v:0054}逃がすか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}You will not escape!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0047",
    "jp": "{v:0055}ぐふっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Guh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0048",
    "jp": "‥{v:0056}ぐうぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0056}Grrgh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0049",
    "jp": "‥‥{v:0057}逃げられちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0057}He got away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0050",
    "jp": "{v:0046}これが２０年近くも剣を握ったことのない男の力か？{p}{v:0047}さすが我が私兵たちの元となっただけのことはある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Is this the strength of a man who has not held a{n}sword in nearly twenty years?{p}{v:0047}You were indeed a worthy model for my private army.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0051",
    "jp": "‥‥{v:0048}何！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0048}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0052",
    "jp": "{v:0049}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0053",
    "jp": "{v:004A}人の身でありながら我と対等に闘えた{n}貴様の力が惜しくてな。{n}その肉片を使わせてもらったわ！{p}{v:004B}いわばお前の分身が、我が手足となって{n}世界を混乱させていたのだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Though human, you could fight me as an equal. I could{n}not bear to waste such strength, so I made use of a{n}piece of your flesh!{p}{v:004B}Your mirror images, so to speak, have served as my{n}hands and feet, throwing the world into chaos!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen252.0054",
    "jp": "{v:004C}貴様という奴は！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}You vile creature!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -15,8 +15,9 @@
   {
    "id": "scen159.0001",
    "jp": "サンドラ魔導研究所",
-   "en": "",
-   "term": "end"
+   "en": "Sandra's Magic Research Institute",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen159.0002",
@@ -180,14 +181,16 @@
   {
    "id": "scen159.0028",
    "jp": "ちょっと！{n}マスターを放って、どこ行く気？",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where are you going, leaving Master behind?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen159.0029",
    "jp": "マスターをどこへ連れ出す気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're taking Master?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

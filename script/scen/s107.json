@@ -15,422 +15,492 @@
   {
    "id": "scen107.0001",
    "jp": "中年の男",
-   "en": "",
-   "term": "null"
+   "en": "Middle-aged Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen107.0002",
    "jp": "第１問",
-   "en": "",
-   "term": "null"
+   "en": "Question 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen107.0003",
    "jp": "第２問",
-   "en": "",
-   "term": "null"
+   "en": "Question 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen107.0004",
    "jp": "第３問",
-   "en": "",
-   "term": "null"
+   "en": "Question 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen107.0005",
    "jp": "第４問",
-   "en": "",
-   "term": "null"
+   "en": "Question 4",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen107.0006",
    "jp": "第５問",
-   "en": "",
-   "term": "null"
+   "en": "Question 5",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen107.0007",
    "jp": "{v:0050}やあ、やっと着いた！{n}みなさん、ありがとうございました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Ah, we've finally arrived! Thank you, everyone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0008",
    "jp": "{v:0051}どういたしまして。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}You're welcome.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0009",
    "jp": "{v:0052}いらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Welcome.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0010",
    "jp": "{v:0053}すみません、部屋は空いていますか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Excuse me, do you have any rooms available?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0011",
    "jp": "{v:0054}ええと、アリオストさんが帰ったから‥‥。{p}{v:0055}はい。ちょうど１部屋空いています。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Let's see, Ariost-san has left, so...{p}{v:0055}Yes. We have exactly one room available.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0012",
    "jp": "{v:0056}１部屋、お願いします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}One room, please.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0013",
    "jp": "{v:0057}はい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Certainly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0014",
    "jp": "{v:0058}アリオストって名前、聞き覚えあるなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Ariost... That name rings a bell.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0015",
    "jp": "{v:0059}ひょっとして、あのアリオストさんかなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Could it be the Ariost-san I know...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0016",
    "jp": "{v:005A}ルイセちゃん、知ってるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}You know him, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0017",
    "jp": "{v:005B}うん。{n}魔法学院に飛行術を研究している人がいるの。{n}その人が確かアリオストって名前だった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Yes. There's someone at the Magic Academy who{n}studies flight. I'm pretty sure his name was Ariost...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0018",
    "jp": "{v:005C}それよ！{n}ほら、フェザリアンについて教えてくれた！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}That's it! Remember? He told us about the Featherians!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0019",
    "jp": "{v:005D}じゃ、同じアリオストさんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Then it is the same Ariost-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0020",
    "jp": "アリオストを探して‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Looking for Ariost...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0021",
    "jp": "{s:0000}様ですね？{n}お連れの方がお待ちです。",
-   "en": "",
-   "term": "end"
+   "en": "You are {s:0000}, correct? Your companions{n}are waiting for you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0022",
    "jp": "いらっしゃいませ。{p}‥‥えっ、アリオストさんですか？{n}もう魔法学院へお帰りになりましたけど。",
-   "en": "",
-   "term": "end"
+   "en": "Welcome.{p}...Oh, Ariost-san? He has already returned to the{n}Magic Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0023",
    "jp": "アリオストさんは魔法学院へお帰りになりました。",
-   "en": "",
-   "term": "end"
+   "en": "Ariost-san has returned to the Magic Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0024",
    "jp": "いらっしゃいませ。{n}お泊まりですか？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. Will you be staying the night?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0025",
    "jp": "こちらに、眼鏡をかけた学者風のお兄さんが{n}泊まっていませんか？{n}遊びに来たんですけど。",
-   "en": "",
-   "term": "end"
+   "en": "Is there a young man with glasses staying here? He{n}looks like a scholar. We came to visit him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0026",
    "jp": "その方なら、部屋で書き物をされていますが。",
-   "en": "",
-   "term": "end"
+   "en": "He's in his room doing some writing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0027",
    "jp": "う～ん、邪魔しちゃ悪いよね。{n}また今度にしよう。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... We shouldn't disturb him, should we? Let's come{n}back another time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0028",
    "jp": "申し訳ございません。{n}丁度お部屋がいっぱいになってしまいました‥‥。{p}またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "I'm terribly sorry. Our last room has just been taken...{p}We hope you'll visit us again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0029",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0030",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0031",
    "jp": "お客さん‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Sir...[01BE] I'm afraid you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0032",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0033",
    "jp": "{v:0023}宿代は私が持つよ。{n}君たちも泊まっていくといい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}I'll cover the rooms. You should all stay the night, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0034",
    "jp": "{v:0024}そんな、悪いです‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Oh, we couldn't possibly...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0035",
    "jp": "{v:0025}遠慮しなくてもいいよ。{n}こうみえても結構裕福な家なんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}There's no need to be shy. Believe it or not, my family{n}is quite wealthy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0036",
    "jp": "{v:0026}せっかくだから、お言葉に甘えましょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Well, since he's offering, let's take him up on it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0037",
    "jp": "‥‥{v:0027}う‥ん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0027}O...kay...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0038",
    "jp": "えっ？{n}暇そうに見えるって？{p}そりゃ、そうだ。{n}勤めていた料理店がつぶれちまってね。{p}これでも高級料理店のシェフだったんだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Huh? You think I look like I've got nothing to do?{p}Well, you're right. The restaurant I worked at{n}went under.{p}Believe it or not, I was a chef at a fine restaurant.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0039",
    "jp": "彼を{s:0010}のレストランで雇いますか？",
-   "en": "",
-   "term": "end"
+   "en": "Hire him to work at the restaurant in{n}{s:0010}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0040",
    "jp": "えっ？{n}君のところで雇ってくれるって？{p}だけど、料理に理解のない人に{n}雇われるのはゴメンだね。{n}これから出すクイズに全問正解してみせてくれ！{p}正しければ『はい』{n}間違いだと思えば『いいえ』を選んでくれ。",
-   "en": "",
-   "term": "end"
+   "en": "What? You're offering me a job?{p}But I won't work for someone who doesn't appreciate{n}cooking. Answer every question in my quiz correctly!{p}Choose 'Yes' if you think the statement is true, or 'No'{n}if you think it's false.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0041",
    "jp": "表面がつるつるとした卵は新しい。",
-   "en": "",
-   "term": "end"
+   "en": "An egg with a smooth shell is fresh.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0042",
    "jp": "トマトは実は果物である。",
-   "en": "",
-   "term": "end"
+   "en": "Tomatoes are actually fruit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0043",
    "jp": "料理の時『酢』と『砂糖』先に入れるなら『酢』から。",
-   "en": "",
-   "term": "end"
+   "en": "When cooking with 'vinegar' and 'sugar', add the{n}'vinegar' first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0044",
    "jp": "アサリに砂を吐かせるには真水にいれておく。",
-   "en": "",
-   "term": "end"
+   "en": "To make clams expel sand, leave them in fresh water.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0045",
    "jp": "大根を煮るには沸騰した湯に入れる。",
-   "en": "",
-   "term": "end"
+   "en": "To boil daikon radish, put it into water that is{n}already boiling.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0046",
    "jp": "すごい！{n}全問正解だ！{p}君のところでなら、安心して働けるよ！{p}よし！{n}さっそく出発だ！{p}場所は‥‥‥、{n}{s:0010}だね？",
-   "en": "",
-   "term": "end"
+   "en": "Amazing! You got every answer right!{p}I can work for you with complete confidence!{p}All right! I'll set off at once!{p}The place is... {s:0010}, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0047",
    "jp": "‥‥全問正解にはならなかったようだな。",
-   "en": "",
-   "term": "end"
+   "en": "...Looks like you didn't get them all right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0048",
    "jp": "どこへ行くんだい？",
-   "en": "",
-   "term": "end"
+   "en": "Where are you going?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0049",
    "jp": "当店をご利用でしたら、{n}こちらで記帳なさって下さい。",
-   "en": "",
-   "term": "end"
+   "en": "If you would like to stay with us, please sign the{n}register here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0050",
    "jp": "‥‥{v:0028}というわけなんだ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0028}And that's how it happened.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0051",
    "jp": "{v:0029}それじゃラルフさんはこの戦争の中、{n}わざわざバーンシュタイン王国から来たの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}So, Ralph-san, you came all the way from the Kingdom{n}of Burnstein in the middle of this war?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0052",
    "jp": "{v:002A}というか、商売でこっちに来ていたら戦争が始まって、{n}バーンシュタインに帰れなくなった、{n}と言った方が正しいかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Well, it would be more accurate to say I was here on{n}business when the war broke out, and couldn't get back{n}to Burnstein.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0053",
    "jp": "{v:002B}商売？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Business?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0054",
    "jp": "{v:002C}ああ。{n}自分で言うのも何だけど、ハウエル家といって{n}バーンシュタインでは１、２を争う商人なんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Yes. I don't mean to boast, but my family, the Howells,{n}is one of the top merchant families in Burnstein.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0055",
    "jp": "{v:002D}ハウエル家だと？{n}あの、紡績商のハウエルか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}The Howell family? You mean those Howells, the{n}textile merchants?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0056",
    "jp": "{v:002E}あれ、ご存じですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Oh, you've heard of us?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0057",
    "jp": "{v:002F}当たり前だ！{n}バーンシュタインを旅していれば、{n}何度も聞くことになるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Of course! Travel around Burnstein and you'll hear that{n}name plenty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0058",
    "jp": "{v:0030}へぇ‥‥、アンタ、名家のお坊ちゃんだったのね！{p}{v:0031}もしお金持ちになったら、{n}おいしいものいっぱい食べさせてね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Well, well... So you're the young master of a{n}distinguished family!{p}{v:0031}If you get rich, you'd better treat me to lots of{n}tasty food!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0059",
    "jp": "{v:0032}もう、ティピったら！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Oh, Tippi, honestly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0060",
    "jp": "{v:0033}はははっ。{p}{v:0034}でも今では戦争に感謝しているよ。{n}こうして弟と再会するチャンスをくれたわけだからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Hahaha!{p}{v:0034}But now I'm grateful for the war. It gave me the{n}chance to reunite with my little brother, after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0061",
    "jp": "{v:0035}人生、何がどうでるか、わからんものだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Never know how life's going to turn out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0062",
    "jp": "{v:0036}まったく‥‥。{p}{v:0037}さて、こんなに遅くなってしまった。{n}そろそろ寝ませんか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Indeed...{p}{v:0037}Well, it's gotten quite late. Shall we get some sleep?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0063",
    "jp": "{v:0038}そうですね。{n}それじゃ、そろそろ部屋に戻ります。{p}{v:0039}おやすみなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Yes, we should. I'll head back to my room, then.{p}{v:0039}Good night.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0064",
    "jp": "{v:003A}おやすみなさ～い！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Good niiight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0065",
    "jp": "{v:003B}おやすみ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Night.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0066",
    "jp": "{v:003C}では、おやすみなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Well then, good night.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0067",
    "jp": "ちょっと！{n}こんな夜中にどこ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going at this hour?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0068",
    "jp": "ちょっと！{n}ルイセちゃんを残して、どこ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going, leaving{n}Luise-chan behind?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0069",
    "jp": "ここは空き部屋みたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "Looks like this room's empty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0070",
    "jp": "{v:008A}どうぞ、開いていますよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008A}Please come in. The door is unlocked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0071",
@@ -441,176 +511,204 @@
   {
    "id": "scen107.0072",
    "jp": "{v:009B}あ、お兄さまですか？{n}どうぞ、鍵は開いてますぅ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:009B}Oh, is that you, Big Brother? Come iiin! The{n}door's unlocked!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0073",
    "jp": "{v:0078}鍵は開いてるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}The door's unlocked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0074",
    "jp": "{v:0059}大丈夫だった、ルイセちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Are you all right, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0075",
    "jp": "{v:005A}ありがとう、みんな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Thank you, everyone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0076",
    "jp": "{v:005B}それにしても、いったい何だったんだ？{n}奴の死体はどこだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}What the hell was that, anyway? Where's his body?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0077",
    "jp": "{v:005C}また溶けて消えちゃったよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}It melted away again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0078",
    "jp": "{v:005D}つまり、奴もフレッシュゴーレムだったってことか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}So he was a Flesh Golem, too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0079",
    "jp": "{v:005E}お兄ちゃんの双子だなんて言って‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}He said he was your twin, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0080",
    "jp": "{v:005F}ルイセちゃんを殺すために近づいたの？{n}もう、許せないんだから‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}He got close to us just to kill Luise-chan? Ugh, I'll{n}never forgive him...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0081",
    "jp": "{v:0060}そう言えば、途中で助けに来てくれたあの人は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}Come to think of it, what about the man who came to{n}help us?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0082",
    "jp": "{v:0062}そう言えば、途中で助けてくれたあの人は‥‥{n}いったい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}Come to think of it, that man who helped us... Who could{n}he have been...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0083",
    "jp": "{v:0061}そう言えば、途中で出てきたおじさんは誰だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}Come to think of it, who was that older man who{n}showed up?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0084",
    "jp": "{v:0063}敵じゃないみたいだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}He doesn't seem to be an enemy, but...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0085",
    "jp": "{v:0064}どっちにしろ、{n}ルイセちゃんが狙われているって事は事実よね。{n}気をつけなきゃ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}Either way, someone really is after Luise-chan. We'd{n}better be careful.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0086",
    "jp": "{v:007A}どうしたの、お兄ちゃん。{n}寝付かれないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}What's wrong, Big Brother? Can't sleep?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0087",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0088",
    "jp": "・同意する",
-   "en": "",
+   "en": "・Agree",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0089",
    "jp": "・ルイセと話がしたい",
-   "en": "",
+   "en": "・I want to talk to Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0090",
    "jp": "・なんとなく",
-   "en": "",
+   "en": "・No particular reason",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0091",
    "jp": "{v:007B}無理もないよね。{n}本当のお兄ちゃんが見つかったんだもの。{n}わたしだったらきっと眠れないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007B}That's only natural. You've found your real big brother,{n}after all. I know I wouldn't be able to sleep.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0092",
    "jp": "{v:007C}お兄ちゃんから来てくれるなんて嬉しいな。{p}{FC00}{v:007D}でもいいの？{n}本当のお兄ちゃんと話さなくて？{p}{v:007E}わたしだったら、夜通しお話したいと思うけど‥‥？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007C}I'm so happy you came to see me, Big Brother.{p}{FC00}{v:007D}But are you sure? Don't you want to talk to your real{n}big brother?{p}{v:007E}If it were me, I think I'd want to talk all night...{n}Wouldn't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0093",
    "jp": "{v:007F}なんとなくかぁ‥‥。{n}でもいいの？　本当のお兄ちゃんと話さなくて？{n}わたしだったら、夜通しお話したいと思うけど？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007F}No particular reason, huh...? But are you sure? Don't{n}you want to talk to your real big brother? If it were{n}me, I'd want to talk all night.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0094",
    "jp": "{v:0080}はぁ‥‥お兄ちゃんの本当のお兄ちゃんか‥‥。{n}わたしにとってもお兄ちゃんになるのかなぁ‥‥。{p}{v:0081}お兄ちゃんが本当の家に帰る事があっても、{n}わたしの事はわすれないでね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0080}Ah... My big brother's real big brother... I wonder if that{n}makes him my big brother, too...{p}{v:0081}Even if you go back to your real home, you won't{n}forget me, will you, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0095",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0096",
    "jp": "・忘れない",
-   "en": "",
+   "en": "・I won't forget you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0097",
    "jp": "・忘れる",
-   "en": "",
+   "en": "・I'll forget you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0098",
    "jp": "・わからない",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0099",
    "jp": "{v:0082}うん、さすがお兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0082}I knew you'd say that, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0100",
@@ -621,20 +719,23 @@
   {
    "id": "scen107.0101",
    "jp": "{v:0084}アンタ、{n}ルイセちゃんをからかってるんじゃないわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0084}Hey, you! Don't tease Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0102",
    "jp": "{FFF5}{v:0085}う～‥‥お兄ちゃんがいじめるぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0085}Aww... You're being mean, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0103",
    "jp": "{v:0086}アンタねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0086}Honestly, you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0104",
@@ -645,548 +746,636 @@
   {
    "id": "scen107.0105",
    "jp": "{v:0088}ルイセちゃん、おやすみ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0088}Night, Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0106",
    "jp": "{v:008B}本当のご兄弟が見つかってよかったですね。{n}お兄さんが出来た気分はどうですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:008B}I'm so glad you found your real brother. How does it{n}feel to have a big brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0107",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0108",
    "jp": "・実感がまだない",
-   "en": "",
+   "en": "・It hasn't sunk in yet",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0109",
    "jp": "・結構いい",
-   "en": "",
+   "en": "・Pretty good",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0110",
    "jp": "・面倒くさい",
-   "en": "",
+   "en": "・It's a nuisance",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0111",
    "jp": "{v:008C}そうですか？{n}でも一緒に生活していれば、兄のありがたみが{n}よくわかりますよ。{p}{v:008D}いつも兄に助けてもらっていた私が言うんですから、{n}間違いありません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008C}Really? Well, once you've lived together, you'll see how{n}wonderful it is to have a big brother.{p}{v:008D}My brother was always there to help me, so I can say{n}that with confidence.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0112",
    "jp": "{v:008E}そうですね。{n}やはり兄はいいものだと思います。{p}{v:008F}なんだかラルフさんを見ていると、うちの兄を{n}思いだしてしまいました。{p}{FC03}{v:0090}兄も今頃どうしているのか‥‥。{n}危険な事をしていなければいいのですが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:008E}Yes. I do think it's wonderful to have a big brother.{p}{v:008F}Somehow, seeing Ralph-san reminded me of my{n}own brother.{p}{FC03}{v:0090}I wonder what he's doing now... I hope he isn't doing{n}anything dangerous...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0113",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0114",
    "jp": "・ゼノスなら大丈夫",
-   "en": "",
+   "en": "・Xenos will be fine",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0115",
    "jp": "・ゼノスの仕事はよくわからない",
-   "en": "",
+   "en": "・I don't know much about Xenos's work",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0116",
    "jp": "{v:0091}そうですね。{n}兄を信じないと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0091}You're right. I need to have faith in him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0117",
    "jp": "{v:0092}私にもわかりませんが、{n}兄を信じたいと思います‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0092}Neither do I, but I want to have faith in my brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0118",
    "jp": "{v:0093}それはあなた自身が、今まで兄として{n}振る舞ってきたからじゃないでしょうか？{p}{v:0094}兄に甘えるという事に対して、{n}免疫がないからだと思います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0093}Could it be because you've always been the big{n}brother yourself?{p}{v:0094}I think you're simply not used to having a big brother{n}to lean on.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0119",
    "jp": "{v:0095}でもご兄弟が見つかってよかったですね。{n}これからあなたがどうされるかは知りませんが、{n}ラルフさんとは仲良くしてくださいね。{p}{v:0096}兄弟とは仲良くした方がいいですから。{p}{v:0097}それでは夜も遅いので、そろそろ寝ましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0095}Still, I'm glad you found your brother. I don't know{n}what you plan to do now, but please get along{n}with Ralph-san.{p}{v:0096}Brothers and sisters should be close, after all.{p}{v:0097}Well, it's getting late. We should get some sleep.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0120",
    "jp": "{v:0098}カレンさんおやすみ～～★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0098}Good niiight, Karen-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0121",
    "jp": "{v:0099}２人ともお休みなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0099}Good night, both of you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0122",
    "jp": "{v:009C}どうしたんですか、お兄さま。{n}こんな時間に？",
-   "en": "",
-   "term": "end"
+   "en": "{v:009C}What's the matter, Big Brother? What brings you here{n}so late?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0123",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0124",
    "jp": "・寝付けないので遊びに来た",
-   "en": "",
+   "en": "・I couldn't sleep, so I came to visit",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0125",
    "jp": "・ミーシャと話がしたい",
-   "en": "",
+   "en": "・I want to talk to Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0126",
    "jp": "・特に用はない",
-   "en": "",
+   "en": "・Nothing in particular",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0127",
    "jp": "{v:009D}やっぱりお兄さまにお兄さまが出来たからですぅ★{p}{FC05}{v:009E}あれ？{n}なんかこの言い方へんだな‥‥？{n}意味はわかるからいいや★{p}{FC04}{v:009F}でもお兄さまそっくりでびっくりしちゃった。{n}やっぱり兄弟なんだね★",
-   "en": "",
-   "term": "end"
+   "en": "{v:009D}It must be because my big brother has a big{n}brother now!{p}{FC05}{v:009E}Huh? That sounded kind of funny... Oh well, you know{n}what I mean!{p}{FC04}{v:009F}But I was so surprised! He looks just like you. You{n}really are brothers!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0128",
    "jp": "{v:00A0}お兄さまったらもぉ★{n}正直なんだからぁ～★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A0}Oh, Big Brother! You're so honest!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0129",
    "jp": "{v:00A1}だったら、アタシとお話しましょう★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A1}Then let's have a chat!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0130",
    "jp": "{v:00A2}ねぇお兄さま、お兄さまが出来た感想はどうですか？{n}アタシは兄弟がいないからよくわからなくて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A2}Say, Big Brother, how does it feel to have a big{n}brother? I don't have any brothers or sisters, so I{n}wouldn't know...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0131",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0132",
    "jp": "・いつもと変わらない",
-   "en": "",
+   "en": "・I feel the same as always",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0133",
    "jp": "・ちょっと動揺している",
-   "en": "",
+   "en": "・I'm a little shaken",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0134",
    "jp": "・嬉しい",
-   "en": "",
+   "en": "・I'm happy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0135",
    "jp": "{v:00A3}そうなの？{n}もっと劇的な心境の変化とかあると思ったのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A3}Really? I thought you'd go through some dramatic{n}change of heart or something...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0136",
    "jp": "{v:00A4}やっぱり急に兄弟と言われて{n}ビックリしちゃってるんですね。{p}{v:00A5}アタシも急に兄弟だって言われたら、{n}ビックリしちゃうもの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A4}So being told all of a sudden that you have a brother{n}really did surprise you.{p}{v:00A5}I'd be surprised too, if someone suddenly told me I had{n}a brother or sister.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0137",
    "jp": "{v:00A6}えへへ、やっぱり★{n}本当の兄弟が見つかったんだもの。{n}そうだよね★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A6}Heehee, I knew it! You've found your real brother, after{n}all. Of course you're happy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0138",
    "jp": "{v:00A7}でもいいな。{n}お兄さまってルイセちゃんだけでなく、お兄さままで{n}いるなんて。{p}{v:00A8}あ～あ、どこかに兄弟って落ちてないかなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A7}But I'm jealous, Big Brother. You've got Luise-chan, and{n}now you've even got a big brother of your own.{p}{v:00A8}Ahh... I wonder if there's a brother or sister lying{n}around somewhere for me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0139",
    "jp": "{v:00A9}アンタねぇ‥‥そんなもん、{n}落ちてる訳ないでしょうが！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A9}Honestly... You can't just find one lying around,{n}you know?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0140",
    "jp": "{v:00AA}ふみぃ‥‥。{p}{FC00}{v:00AB}でも、本当に兄弟にはあこがれちゃうな‥‥。{p}{v:00AC}あ、もうこんな時間だ。{n}お兄さま、こんな遅くまでお話につき合ってもらって{n}ありがとう。{p}{v:00AD}続きはまた明日ね★{n}それじゃ、お休みなさ～い★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AA}Awww...{p}{FC00}{v:00AB}But I really do wish I had a brother or sister...{p}{v:00AC}Oh, look how late it is! Thank you for staying up so late{n}talking with me, Big Brother.{p}{v:00AD}Let's talk some more tomorrow! Well, good niiight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0141",
    "jp": "{v:00AE}お休み、ミーシャ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AE}Good night, Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0142",
    "jp": "{v:00AD}続きはまた明日ね★{n}それじゃ、お休みなさ～い★",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AD}Let's talk some more tomorrow! Well, good niiight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0143",
    "jp": "{v:00B1}どうしたんだい、こんな時間に？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B1}What brings you here at this hour?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0144",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0145",
    "jp": "・なかなか寝付けなくて遊びに来た",
-   "en": "",
+   "en": "・I couldn't sleep, so I came to visit",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0146",
    "jp": "・アリオストに会いに来た",
-   "en": "",
+   "en": "・I came to see Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0147",
    "jp": "・これといって用はない",
-   "en": "",
+   "en": "・No particular reason",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0148",
    "jp": "{v:00B2}それはそうだろう。{n}急に兄ができたんだからね。{p}{FC06}{v:00B3}僕に兄弟はいないから、うらやましい限りだよ。{n}{FC05}でも村の同世代の人達が僕の兄弟みたいなものかな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B2}That's understandable. You've suddenly found yourself{n}with an older brother, after all.{p}{FC06}{v:00B3}I have no brothers or sisters myself, so I can only{n}envy you. {FC05}Still, I suppose the people my age in the{n}village are like siblings to me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0149",
    "jp": "{v:00B4}嬉しいことをいってくれるね。{n}それじゃ、しばらく僕の話につきあってもらおうか。{p}{FC00}{v:00B5}１つ聞きたいんだが、{n}突然兄弟が出来た感想はどうだい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B4}I'm glad to hear that. Then perhaps you'll keep me{n}company for a while.{p}{FC00}{v:00B5}There's something I'd like to ask. How does it feel to{n}suddenly have a brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0150",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0151",
    "jp": "・いい感じ",
-   "en": "",
+   "en": "・It feels good",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0152",
    "jp": "・まだ実感がない",
-   "en": "",
+   "en": "・It hasn't sunk in yet",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0153",
    "jp": "{v:00B6}なかなか適応が早いね。{n}普通はまだとまどっているものだと思うけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B6}You're adjusting remarkably quickly. I would think most{n}people would still feel bewildered.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0154",
    "jp": "{v:00B7}確かにそうかもしれない。{n}いくらそっくりでも、急に兄だといわれれば{n}とまどうものだからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B7}I suppose that's only natural. However much he looks{n}like you, suddenly being told he's your brother would{n}be bewildering.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0155",
    "jp": "{v:00B8}僕には兄弟がいないから、君がうらやましいよ。{p}{v:00B9}村の同世代の者たちが{n}ほとんど兄弟のようだとはいっても、{n}やっぱりうらやましいものがあるね。{p}{FC05}{v:00BA}これから君がどうするかは知らないけど、{n}彼の事を大切にしてあげるべきだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B8}I have no brothers or sisters, so I envy you.{p}{v:00B9}The people my age in the village are practically siblings{n}to me, but I still can't help feeling a little envious.{p}{FC05}{v:00BA}I don't know what you intend to do now, but you{n}should cherish him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0156",
    "jp": "{v:00BB}そうなのかい？{n}僕はさっきのラルフ君の事で来たのかと{n}思っていたんだが。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BB}Is that so? I thought you'd come to talk about{n}Ralph-kun and what happened earlier.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0157",
    "jp": "{v:00BC}こいつって気まぐれだから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BC}This guy just does whatever he feels like...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0158",
    "jp": "{v:00BD}あははっ、そのようだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BD}Ahaha! So it seems.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0159",
    "jp": "{v:00BE}さて、もう遅い。{n}そろそろ寝るとしよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BE}Well, it's getting late. I think it's time for bed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0160",
    "jp": "{v:00BF}アリオストさん、お休み。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BF}Good night, Ariost-san.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0161",
    "jp": "{v:00C0}どうした、まだ寝ないのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C0}What's wrong? Still not going to bed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0162",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0163",
    "jp": "・なかなか寝付けなくて話しかけた",
-   "en": "",
+   "en": "・I couldn't sleep, so I wanted to talk",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0164",
    "jp": "・ウォレスは寝ないのかたずねる",
-   "en": "",
+   "en": "・Ask if Wallace is going to bed",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen107.0165",
    "jp": "{v:00C1}そいつは仕方ないだろう。{n}急に兄ができたんだ。{n}興奮していたとしてもおかしくない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C1}Can't blame you. You suddenly have an older brother.{n}No wonder you're worked up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0166",
    "jp": "{v:00C2}そういえばウォレスさんには兄弟っていないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C2}Come to think of it, Wallace-san, do you have any{n}brothers or sisters?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0167",
    "jp": "{v:00C3}兄弟か？{n}結構いるぞ。{n}最近は全然会っていないがな。{p}{v:00C4}ま、俺に取っちゃ戦友も兄弟みたいなもんだが。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C3}Brothers and sisters? Quite a few. Haven't seen any of{n}them lately, though.{p}{v:00C4}Well, my comrades in arms are like brothers to{n}me, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0168",
    "jp": "{v:00C5}ふーん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C5}Hmm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0169",
    "jp": "{v:00C6}まあ兄弟は大切にしてやれ。{n}失うのは簡単だが、簡単には得られる物じゃ{n}ないからな。{p}{v:00C7}明日も早い。{n}お前もそろそろ寝た方がいいぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C6}Well, look after your brother. Easy to lose family. Not so{n}easy to find it.{p}{v:00C7}We've got an early start tomorrow. You'd better get{n}some sleep, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0170",
    "jp": "{v:00C8}いや、もう寝るつもりだ。{n}明日も早い、お前もそろそろ寝たほうがいいぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C8}I'm about to. We've got an early start tomorrow. You'd{n}better get some sleep, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0171",
    "jp": "{v:00C9}そうだね。お休み。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C9}You're right. Good night.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0172",
    "jp": "{v:00CA}どうした、まだ寝ないのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CA}What's wrong? Still not going to bed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0173",
    "jp": "{v:00CB}あれ？{n}まだ寝ないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CB}Huh? You're still up?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0174",
    "jp": "{v:00CC}やっと生き別れの兄弟に会えたんだ。{n}ちょっと興奮してしまってね。{p}{v:00CD}でも明日も早い。{n}もう寝ないとね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CC}I've finally found the brother I was separated from so{n}long ago. I'm a little too excited to sleep.{p}{v:00CD}But we have an early start tomorrow. I'd better get{n}to bed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0175",
    "jp": "{v:00CE}それじゃ、お休み！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CE}Well, good night!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0176",
    "jp": "{v:00CF}お休み。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CF}Good night.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0177",
    "jp": "{v:00D0}そろそろ寝るよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D0}I'm heading to bed soon.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0178",
    "jp": "{v:00B0}どうぞ、鍵は開いてるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B0}Come in. The door's unlocked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0179",
    "jp": "もう眠りますか？",
-   "en": "",
-   "term": "end"
+   "en": "Go to sleep now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0180",
    "jp": "いったい、どれだけ眠れば気がすむのよ！{n}いいかげんに、起きなさい！",
-   "en": "",
-   "term": "end"
+   "en": "Just how much sleep do you need?! Enough already!{n}Get up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0181",
    "jp": "{v:003D}そろそろアタシ達も寝ましょ！{n}おやすみ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}We should get some sleep, too! Good night!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0182",
    "jp": "{v:003E}{FFF0}きゃあああっ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}{FFF0}Aaaah!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0183",
    "jp": "{v:003F}何だ、今の声は？{n}ルイセの悲鳴みたいだったぞ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}What was that? Sounded like Luise screaming!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0184",
    "jp": "{v:0040}あれ？{n}ラルフさんがいない！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Huh? Ralph-san's gone?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0185",
    "jp": "{v:0041}ええい、後少しだったのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Damn it! I was so close...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0186",
    "jp": "{FFF5}{v:0042}どうして‥‥。{n}どうして、ラルフさんが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:0042}Why...? Why would you do this, Ralph-san...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0187",
    "jp": "{v:0043}我々の計画にはお前が邪魔なんだよ。{n}お前さえいなくなれば、{n}我々の計画の障害はなくなる‥‥。{p}{v:0044}おとなしく死ね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}You're in the way of our plans. Once you're gone,{n}nothing will stand in our way...{p}{v:0044}Now hold still and die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0188",
    "jp": "{v:0045}きゃあっ！{n}お兄ちゃーーん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Aah! Big Brotheeer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0189",
    "jp": "{v:0046}みんなで、ルイセちゃんを助けないと！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}We've all got to help Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0190",
    "jp": "いつまでルイセちゃんを放っておく気？",
-   "en": "",
-   "term": "end"
+   "en": "How long are you going to leave Luise-chan like that?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0191",
    "jp": "‥‥ほら、ぐずぐずしていないで、{n}下におりましょ！",
-   "en": "",
-   "term": "end"
+   "en": "...Come on, quit dragging your feet! Let's{n}go downstairs!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0192",
    "jp": "人のベッドで何するつもりよ！",
-   "en": "",
-   "term": "end"
+   "en": "What do you think you're doing in someone else's bed?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0193",
@@ -1197,32 +1386,37 @@
   {
    "id": "scen107.0194",
    "jp": "ちょっと！{n}マスターをどこへ連れ出す気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where are you taking Master?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0195",
    "jp": "ねぇ、一度お城へ戻ろうよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, let's go back to the castle for now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0196",
    "jp": "お母さんたちを連れて、バーンシュタインまで{n}テレポートしなくちゃいけないんでしょ？{n}今は少しでも休みたいんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I have to Teleport Mother and the others to Burnstein,{n}right? I'd like to rest while I can...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0197",
    "jp": "そうそう！{n}街の入り口まででしょ？{n}買い物でもしながら歩いていこうよ！",
-   "en": "",
-   "term": "end"
+   "en": "Exactly! We're only going to the entrance to town,{n}right? Let's walk and do some shopping along the way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen107.0198",
    "jp": "いったい、どこへ行く気だい？",
-   "en": "",
-   "term": "end"
+   "en": "Just where do you think you're going?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

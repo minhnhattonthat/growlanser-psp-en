@@ -15,54 +15,62 @@
   {
    "id": "scen254.0001",
    "jp": "鍵穴が上下に２つある。鍵を使いますか？",
-   "en": "",
-   "term": "end"
+   "en": "Two keyholes, one above the other. Use a key?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen254.0002",
    "jp": "・上の鍵穴へ",
-   "en": "",
+   "en": "・Use the upper keyhole",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen254.0003",
    "jp": "・下の鍵穴へ",
-   "en": "",
+   "en": "・Use the lower keyhole",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen254.0004",
    "jp": "・上下、２つの鍵穴へ",
-   "en": "",
+   "en": "・Use both keyholes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen254.0005",
    "jp": "・使わない",
-   "en": "",
+   "en": "・Don't use a key",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen254.0006",
    "jp": "　{n}　　　　　　　　鍵が足りない！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　　Not enough keys!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen254.0007",
    "jp": "床に鍵穴が１つある。",
-   "en": "",
-   "term": "end"
+   "en": "There is a keyhole in the floor.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen254.0008",
    "jp": "鍵を使いますか？",
-   "en": "",
-   "term": "end"
+   "en": "Use a key?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

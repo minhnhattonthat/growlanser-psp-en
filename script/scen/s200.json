@@ -15,188 +15,218 @@
   {
    "id": "scen200.0001",
    "jp": "{FFEE}謎の兵士からサンドラを救え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Save Sandra from the mysterious soldier!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0002",
    "jp": "{v:000C}おい！{n}奴はお前たちで歯の立つ相手ではないぞ。{p}{v:000D}私が直接戦う！{n}お前たちは援護を頼む！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Listen! You are no match for him.{p}{v:000D}I shall fight him myself! Give me your support!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0003",
    "jp": "{v:000E}みんなが戦いやすいように、使う魔法を選びましょう。{p}{v:000F}一番優先して欲しい魔法を選びなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Let us choose which magic I should use to help{n}everyone fight.{p}{v:000F}Choose the magic you would like me to prioritize.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0004",
    "jp": "優先して欲しい魔法はどれですか？",
-   "en": "",
-   "term": "end"
+   "en": "Which magic should take priority?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0005",
    "jp": "・攻撃魔法",
-   "en": "",
+   "en": "・Attack magic",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen200.0006",
    "jp": "・援護魔法",
-   "en": "",
+   "en": "・Support magic",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen200.0007",
    "jp": "・回復魔法",
-   "en": "",
+   "en": "・Healing magic",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen200.0008",
    "jp": "・最低限の回復行動のみ",
-   "en": "",
+   "en": "・Heal only when absolutely necessary",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen200.0009",
    "jp": "{v:0010}わかりました。{n}そうしましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Understood. That is what I shall do.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0010",
    "jp": "{v:0011}マスター、もうちょっと我慢してね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Master, hang in there just a little longer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0011",
    "jp": "{v:0012}お母さん、もうちょっとの辛抱よ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Mother, just hold on a little longer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0012",
    "jp": "{v:0013}サンドラ様、後少し待ってください！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Sandra-sama, please wait just a little longer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0013",
    "jp": "{v:0014}後少し、辛抱してください！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Please hold on just a little longer!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0014",
    "jp": "{v:0015}わたしだって、怒るんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}I get angry too, you know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0015",
    "jp": "{v:0018}ん？{n}この感触は‥‥もしや‥‥。{FFF9}{FFFB}{n}{v:0019}俺の腕と目を奪った奴か！？{p}{v:001A}それにしては弱すぎるような‥‥。{n}別人か！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Hm? This feeling... Could it be...{FFF9}{FFFB}{v:0019}The one who took my{n}arm and eyes?!{p}{v:001A}Seems too weak for that... Someone else?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0016",
    "jp": "{v:0016}お前の相手など、私一人で十分だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}I alone am more than enough to deal with you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0017",
    "jp": "！！",
-   "en": "",
-   "term": "end"
+   "en": "!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0018",
    "jp": "{v:0017}ああ、お母さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Oh, Mother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0019",
    "jp": "あぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Ah...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0020",
    "jp": "いやー！{n}マスター！",
-   "en": "",
-   "term": "end"
+   "en": "Nooo! Master!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0021",
    "jp": "{v:001B}うおぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Urgh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0022",
    "jp": "{v:001C}うひゃっ！？{n}溶けちゃったよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Eek?! It melted...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0023",
    "jp": "{v:001D}！？{p}{v:001E}この消え方‥‥フレッシュゴーレム？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}?!{p}{v:001E}The way it vanished... A Flesh Golem?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0024",
    "jp": "{v:001F}やったぁ★",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Yaaay!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0025",
    "jp": "さぁ、次はどうすればいい？",
-   "en": "",
-   "term": "end"
+   "en": "Now, what should I do next?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0026",
    "jp": "ジュリアンにどう指示しますか？",
-   "en": "",
-   "term": "end"
+   "en": "What orders will you give Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0027",
    "jp": "・自由に戦わせる",
-   "en": "",
+   "en": "・Let Julian fight freely",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen200.0028",
    "jp": "・攻撃目標を指定",
-   "en": "",
+   "en": "・Choose an attack target",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen200.0029",
    "jp": "{v:0031}では、自由にやらせてもらう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Then I shall fight as I see fit!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen200.0030",
    "jp": "{v:002E}わかった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Understood!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

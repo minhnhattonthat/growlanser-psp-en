@@ -15,104 +15,121 @@
   {
    "id": "scen262.0001",
    "jp": "{FFEE}市民を守りながら戦え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Fight while protecting the citizens!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0002",
    "jp": "ここで死ぬわけには‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I can't die here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0003",
    "jp": "バ、バカな‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I-Impossible...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0004",
    "jp": "俺の夢もここまでか‥‥",
-   "en": "",
-   "term": "end"
+   "en": "So much for my dreams...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0005",
    "jp": "だ、だめだ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I-I can't...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0006",
    "jp": "死にたくない‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I don't want to die...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0007",
    "jp": "ああ‥‥守りきれなかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh... We couldn't protect them...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0008",
    "jp": "{v:0049}クックックッ！{n}いつまで無駄な抵抗をするつもりだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Heh heh heh! How long do you intend to keep up this{n}futile resistance?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0009",
    "jp": "{v:004A}ヴェンツェル！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Wenzel?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0010",
    "jp": "{v:004B}おとなしく我が支配を受ければよいものを。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}If only you would quietly submit to my rule.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0011",
    "jp": "{v:004C}誰がアンタなんかの命令を聞くもんですか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Who'd take orders from the likes of YOU?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0012",
    "jp": "‥‥{v:00A2}少しお仕置きが必要だな。{p}{v:004D}ムン！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00A2}You need a little punishment.{p}{v:004D}Hah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0013",
    "jp": "{v:004E}さて、お前たちで、{n}どこまで民間人を守りきれるかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Now, let us see how long you can keep these{n}civilians safe.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0014",
    "jp": "{v:004F}民間人って‥‥俺たちか！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Civilians... You mean us?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0015",
    "jp": "{v:0050}そんな‥ひどい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}How... How cruel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0016",
    "jp": "{v:0052}では、楽しい余興の始まりだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}Let the entertainment begin!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen262.0017",
    "jp": "{v:0053}本当は最後まで見てみたいが、私も暇ではないのでね。{n}これで失礼させてもらうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}I would dearly like to watch this to the end, but I have{n}other matters to attend to. You will have to{n}excuse me.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

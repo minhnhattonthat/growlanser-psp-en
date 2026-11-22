@@ -15,80 +15,93 @@
   {
    "id": "scen257.0001",
    "jp": "{FFEE}送魔線技師を守りながら戦え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Fight while protecting the Mana Line Engineer!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0002",
    "jp": "{FFF3}{v:0028}ん～？{p}{FFF4}{v:0029}何で動かないんだろ、あいつら。{p}{v:002A}ま、好都合だけどさ。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{v:0028}Hmm?{p}{FFF4}{v:0029}Why aren't those things moving?{p}{v:002A}Well, fine by me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0003",
    "jp": "{v:002B}全然ダメだよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}It's not working at aaall!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0004",
    "jp": "‥‥{v:002D}あれ？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002D}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0005",
    "jp": "{v:002F}私の攻撃が通じない！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}My attacks have no effect?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0006",
    "jp": "{v:0030}攻撃が通じない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Our attacks have no effect?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0007",
    "jp": "{v:0031}ウソ！{n}強いよ！{p}{v:0032}こんな奴どうやって倒すのよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}No way! It's so strong!{p}{v:0032}How are we supposed to beat something like this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0008",
    "jp": "{v:002C}くっ！{FFF9}{FFFB}{n}{v:002E}そ、そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Ugh!{FFF9}{FFFB} {v:002E}N-No...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0009",
    "jp": "そ、そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "N-No...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0010",
    "jp": "{v:0053}中継器設置完了！{n}これで、ここは魔法が使えるはずじゃ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Relay installed! There now, we should be able to use{n}magic here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0011",
    "jp": "{v:0033}魔法が使えるんだって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}He says we can use magic now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0012",
    "jp": "{v:0034}効いてる！{n}魔法でなら簡単に倒せそうだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}It's working! We should be able to beat them easily{n}with magic!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen257.0013",
    "jp": "{v:003A}うおぉっ！{p}{v:003B}ワ、ワシがやらねば‥‥誰が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Uwaaah!{p}{v:003B}I-If I don't do it... who will...?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

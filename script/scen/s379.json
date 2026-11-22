@@ -521,765 +521,886 @@
   {
    "id": "scen379.0074",
    "jp": "顔グラチェックモード",
-   "en": "",
-   "term": "end"
+   "en": "Portrait test mode",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0075",
    "jp": "・男ＰＣ",
-   "en": "",
+   "en": "・Male player characters",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0076",
    "jp": "・女ＰＣとティピ",
-   "en": "",
+   "en": "・Female player characters and Tippi",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0077",
    "jp": "・その他",
-   "en": "",
+   "en": "・Others",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0078",
    "jp": "男ＰＣの選択",
-   "en": "",
-   "term": "end"
+   "en": "Select a male player character",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0079",
    "jp": "・主人公　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Hero -- 0 & 1 near death",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0080",
    "jp": "・ウォレス　－０＆１の瀕死",
-   "en": "",
+   "en": "・Wallace -- 0 & 1 near death",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0081",
    "jp": "・ウォレス　－２＆３の義眼なし瀕死",
-   "en": "",
+   "en": "・Wallace -- 2 & 3 near death, no artificial eyes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0082",
    "jp": "・アリオスト－０＆１の瀕死",
-   "en": "",
+   "en": "・Ariost -- 0 & 1 near death",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0083",
    "jp": "・エリオット－０＆３の瀕死",
-   "en": "",
+   "en": "・Elliot -- 0 & 3 near death",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0084",
    "jp": "・エリオット－１（腕上げ関係）",
-   "en": "",
+   "en": "・Elliot -- 1 (arm raising)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0085",
    "jp": "・エリオット－２（腕上げ関係）",
-   "en": "",
+   "en": "・Elliot -- 2 (arm raising)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0086",
    "jp": "・ゼノス　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Xenos -- 0 & 1 near death",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0087",
    "jp": "普通－口パクなし",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- no mouth animation",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0088",
    "jp": "怒り－口パクなし",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- no mouth animation",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0089",
    "jp": "悲しい",
-   "en": "",
-   "term": "end"
+   "en": "Sad",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0090",
    "jp": "特殊１－操られ",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- being controlled",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0091",
    "jp": "特殊２－操られの苦しい",
-   "en": "",
-   "term": "end"
+   "en": "Special 2 -- in pain while controlled",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0092",
    "jp": "瀕死－主人公１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Hero 1 portrait",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0093",
    "jp": "普通－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0094",
    "jp": "怒り－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0095",
    "jp": "特殊１－義眼なし",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- no artificial eyes",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0096",
    "jp": "瀕死－ウォレス１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Wallace 1 portrait",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0097",
    "jp": "普通",
-   "en": "",
-   "term": "end"
+   "en": "Normal",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0098",
    "jp": "怒り－焦り",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- flustered",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0099",
    "jp": "特殊１－焦りの別バージョン。口パクなし",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- alternate flustered version. No{n}mouth animation",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0100",
    "jp": "瀕死－ウォレス３の顔。義眼無し",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Wallace 3 portrait. No artificial eyes",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0101",
    "jp": "瀕死－血なし",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- no blood",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0102",
    "jp": "怒り",
-   "en": "",
-   "term": "end"
+   "en": "Angry",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0103",
    "jp": "悲しい－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0104",
    "jp": "照れる－アニメあり{p}{FB00}‥{FFFA}{n}－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Embarrassed -- animated{p}{FB00}...{FFFA} -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0105",
    "jp": "特殊１－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0106",
    "jp": "特殊２－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Special 2 -- animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0107",
    "jp": "瀕死－アリオスト１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Ariost 1 portrait",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0108",
    "jp": "照れる",
-   "en": "",
-   "term": "end"
+   "en": "Embarrassed",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0109",
    "jp": "特殊１",
-   "en": "",
-   "term": "end"
+   "en": "Special 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0110",
    "jp": "瀕死－エリオット１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Elliot 1 portrait",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0111",
    "jp": "悲しい－アニメあり{p}{FB00}‥{FFFA}{n}目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- animated{p}{FB00}...{FFFA} Teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0112",
    "jp": "照れる－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Embarrassed -- animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0113",
    "jp": "特殊３－上げ後の固定用（普通顔）{n}アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Special 3 -- holds pose after raising arm (normal{n}face). Animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0114",
    "jp": "特殊１－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0115",
    "jp": "瀕死－ゼノス１の顔。目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Xenos 1 portrait. Teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0116",
    "jp": "女ＰＣ",
-   "en": "",
-   "term": "end"
+   "en": "Female player characters",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0117",
    "jp": "・ルイセ　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Luise -- 0 & 1 near death",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0118",
    "jp": "・ルイセ　　－２（横向き）＆５（ブルー）",
-   "en": "",
+   "en": "・Luise -- 2 (side view) & 5 (blue)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0119",
    "jp": "・ルイセ　　－３（手を口に）",
-   "en": "",
+   "en": "・Luise -- 3 (hand to mouth)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0120",
    "jp": "・ルイセ　　－４（手を口に）",
-   "en": "",
+   "en": "・Luise -- 4 (hand to mouth)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0121",
    "jp": "・ミーシャ　－０＆１の瀕死（正面）",
-   "en": "",
+   "en": "・Misha -- 0 & 1 near death (front view)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0122",
    "jp": "・ミーシャ　－２（横向き）",
-   "en": "",
+   "en": "・Misha -- 2 (side view)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0123",
    "jp": "・カレン　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Karen -- 0 & 1 near death",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0124",
    "jp": "・カレン　　－２（祈り）",
-   "en": "",
+   "en": "・Karen -- 2 (praying)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0125",
    "jp": "・カレン　　－３（襲われる）",
-   "en": "",
+   "en": "・Karen -- 3 (being attacked)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0126",
    "jp": "・ジュリアン－０＆１の瀕死（正面）",
-   "en": "",
+   "en": "・Julian -- 0 & 1 near death (front view)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0127",
    "jp": "・ジュリアン－２＆３の瀕死（ナイツ前）",
-   "en": "",
+   "en": "・Julian -- 2 & 3 near death (before knighthood)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0128",
    "jp": "・ジュリアン－４＆５の瀕死（くわっ）",
-   "en": "",
+   "en": "・Julian -- 4 & 5 near death (eyes wide)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0129",
    "jp": "・ジュリアン－６＆７＆８（ドレス）",
-   "en": "",
+   "en": "・Julian -- 6 & 7 & 8 (dress)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0130",
    "jp": "普通－目ウルあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0131",
    "jp": "怒り－目ウルあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0132",
    "jp": "悲しい－目ウルあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0133",
    "jp": "照れる－目ウルあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Embarrassed -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0134",
    "jp": "瀕死－ルイセ１の顔－目ウルあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Luise 1 portrait -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0135",
    "jp": "普通－ルイセ５の顔グラ",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- Luise 5 portrait",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0136",
    "jp": "普通－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0137",
    "jp": "怒り－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0138",
    "jp": "悲しい－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0139",
    "jp": "照れる－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Embarrassed -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0140",
    "jp": "悲しい－目うるあり{p}{FFF5}‥目うる中。{n}－とほほアニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- teary eyes{p}{FFF5}...Teary eyes active. -- Dejected animation{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0141",
    "jp": "普通－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0142",
    "jp": "怒り－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Angry -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0143",
    "jp": "照れる－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Embarrassed -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0144",
    "jp": "特殊１　惚れてる　－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- lovestruck -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0145",
    "jp": "特殊２　楽しいね　－目うるあり{p}{FFF5}‥。",
-   "en": "",
-   "term": "end"
+   "en": "Special 2 -- having fun -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0146",
    "jp": "瀕死－ミーシャ１の顔グラ",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Misha 1 portrait",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0147",
    "jp": "普通－あせアニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- sweat animation{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0148",
    "jp": "悲しい－目うるあり{p}{FFF5}‥。目うる中。{n}アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- teary eyes{p}{FFF5}...Teary eyes active. Animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0149",
    "jp": "特殊１－ごまかし{n}アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- playing it off. Animated{p}{FB00}...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0150",
    "jp": "特殊１－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0151",
    "jp": "瀕死－カレン１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Karen 1 portrait",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0152",
    "jp": "抵抗（怒り）－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Resisting (angry) -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0153",
    "jp": "ショックさめやらぬ（悲しい）－目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Still in shock (sad) -- teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0154",
    "jp": "普通{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Normal{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0155",
    "jp": "怒り{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Angry{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0156",
    "jp": "悲しい{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Sad{p}{FFF5}Teary eyes active",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0157",
    "jp": "照れる{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Blushing{p}{FFF5}Teary-eyed state",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0158",
    "jp": "瀕死－ジュリアン１の顔{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Julian 1's face{p}{FFF5}Teary-eyed state",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0159",
    "jp": "特殊１－視線そらし{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- Looking away{p}{FFF5}Teary-eyed state",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0160",
    "jp": "普通－闘技場での決闘で負けた{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- Lost the duel in the arena{p}{FFF5}Teary-eyed state",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0161",
    "jp": "瀕死－本当の瀕死{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Actually near death{p}{FFF5}Teary-eyed state",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0162",
    "jp": "特殊１－にらんでる{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- Glaring{p}{FFF5}Teary-eyed state",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0163",
    "jp": "瀕死－ジュリアン５の顔{n}目うるあり{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Julian 5's face, with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0164",
    "jp": "特殊１－惚れる{p}{FFF5}うる状態",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- Smitten{p}{FFF5}Teary-eyed state",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0165",
    "jp": "ティピとその他の人たち",
-   "en": "",
-   "term": "end"
+   "en": "Tippi and the others",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0166",
    "jp": "・ティピ　　－０",
-   "en": "",
+   "en": "・Tippi -- 0",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0167",
    "jp": "・ティピ　　－１（腰に手）",
-   "en": "",
+   "en": "・Tippi -- 1 (hands on hips)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0168",
    "jp": "・ティピ　　－２（お願い）＆３（ふるふる）",
-   "en": "",
+   "en": "・Tippi -- 2 (pleading) & 3 (trembling)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0169",
    "jp": "・リシャール　－０＆１の瀕死（未完成）",
-   "en": "",
+   "en": "・Richard -- 0 & 1 (near death, unfinished)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0170",
    "jp": "・ライエル　　－０＆１の瀕死と悲しい",
-   "en": "",
+   "en": "・Lyell -- 0 & 1 (near death and sad)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0171",
    "jp": "・リーヴス　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Reeves -- 0 & 1 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0172",
    "jp": "・ヴェンツェル－０＆１の瀕死（未完成）",
-   "en": "",
+   "en": "・Wenzel -- 0 & 1 (near death, unfinished)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0173",
    "jp": "・ガムラン　　－０＆１の瀕死（未完成）",
-   "en": "",
+   "en": "・Gamlan -- 0 & 1 (near death, unfinished)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0174",
    "jp": "・ウェーバー　－０＆１の瀕死（未完成）",
-   "en": "",
+   "en": "・Weber -- 0 & 1 (near death, unfinished)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0175",
    "jp": "・ゲヴェル　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Gevel -- 0 & 1 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0176",
    "jp": "・仮面騎士　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Masked Knight -- 0 & 1 (near death)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0177",
    "jp": "・仮面なし騎士－２＆３（瀕死）＆４（溶ける）",
-   "en": "",
+   "en": "・Unmasked Knight -- 2 & 3 (near death) & 4 (melting)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0178",
    "jp": "・ラルフ　　　－０＆１（瀕死）＆２（溶ける）",
-   "en": "",
+   "en": "・Ralph -- 0 & 1 (near death) & 2 (melting)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen379.0179",
    "jp": "未完成だってば",
-   "en": "",
-   "term": "end"
+   "en": "I told you, it's unfinished!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0180",
    "jp": "特殊１－焦り",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- Flustered",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0181",
    "jp": "瀕死－ライエルの顔１",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Lyell's face 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0182",
    "jp": "悲しい－ライエル１の顔{n}目うるあり－{p}{FFF5}‥",
-   "en": "",
-   "term": "end"
+   "en": "Sad -- Lyell 1's face, with teary eyes{p}{FFF5}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0183",
    "jp": "瀕死－リーヴス１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Reeves 1's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0184",
    "jp": "瀕死－ゲヴェル１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Gevel 1's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0185",
    "jp": "瀕死－仮面騎士１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Masked Knight 1's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0186",
    "jp": "照れる－仮面騎士１の顔",
-   "en": "",
-   "term": "end"
+   "en": "Blushing -- Masked Knight 1's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0187",
    "jp": "瀕死仮面騎士３の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Masked Knight 3's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0188",
    "jp": "照れる仮面騎士３の顔",
-   "en": "",
-   "term": "end"
+   "en": "Blushing -- Masked Knight 3's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0189",
    "jp": "瀕死－仮面騎士４の顔",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- Masked Knight 4's face",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0190",
    "jp": "特殊１－本性を出した",
-   "en": "",
-   "term": "end"
+   "en": "Special 1 -- Showing his true nature",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0191",
    "jp": "普通－半ニヤの死",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- Dying with a half-smirk",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0192",
    "jp": "瀕死",
-   "en": "",
-   "term": "end"
+   "en": "Near death",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0193",
    "jp": "普通－（溶け続ける）半ニヤの死",
-   "en": "",
-   "term": "end"
+   "en": "Normal -- (Continues melting) Dying with a half-smirk",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen379.0194",
    "jp": "瀕死－（溶け続ける）",
-   "en": "",
-   "term": "end"
+   "en": "Near death -- (Continues melting)",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

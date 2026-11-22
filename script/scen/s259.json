@@ -15,128 +15,149 @@
   {
    "id": "scen259.0001",
    "jp": "{FFEE}ウェーバー、ブロンソンを守り、秘石制御装置を使え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Protect Weber and Bronson, and use the Gem Control{n}Unit!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0002",
    "jp": "{v:001D}わざわざ殺されに来たのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Have you come all this way to be killed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0003",
    "jp": "{v:001E}死ぬのはアンタの方よ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}You're the one who's going to die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0004",
    "jp": "{v:001F}何をしてるんだ？{n}例の物を使わねぇか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}What are you doing? Use that thing already!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0005",
    "jp": "{v:0020}そうよ！{n}奴を追いつめている、{n}今がチャンスじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}That's right! We've got him cornered! Now's our chance!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0006",
    "jp": "　{n}　　　　　　その人は使えない！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　That person cannot use it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0007",
    "jp": "{v:0021}みんな！{n}あいつを倒すことに意識を集中して！{p}{v:0022}パワーストーンに残った力はあと１回分！{n}最初で最後のチャンスよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Everyone! Focus your thoughts on defeating him!{p}{v:0022}The Power Stone only has enough power left for one{n}more use! This is our first and last chance!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0008",
    "jp": "{v:0023}何だか知らんが、お前たちを信じるぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}I don't know what this is about, but I'm putting my{n}trust in you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0009",
    "jp": "{v:0024}ああ！{n}絶対に奴を倒す！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Yeah! We're going to take him down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0010",
    "jp": "{v:0025}この世界を守ってみせる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}I will protect this world!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0011",
    "jp": "{v:0026}よくも、我が国を！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}How dare you do this to our country!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0012",
    "jp": "{v:0027}今よ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0013",
    "jp": "‥‥{v:0028}どうなったの？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0028}What happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0014",
    "jp": "{v:0029}貴様ら、何がしたかったのだ？{n}それで私を倒すつもりか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}What were you fools trying to do? Did you think that{n}would defeat me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0015",
    "jp": "‥‥{v:002A}失敗‥‥なの？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002A}Did we... fail?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0016",
    "jp": "‥‥{v:002B}クックックッ‥‥。{p}{v:002C}まったく、下等動物のすることは理解できぬ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002B}Heh heh heh...{p}{v:002C}Truly, the workings of inferior creatures are{n}beyond comprehension!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0017",
    "jp": "{v:002D}何ともないの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}It didn't hurt him?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0018",
    "jp": "{v:002E}悪あがきもほどほどにして、そろそろ死ぬがよい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Enough of this futile struggle. It is time for you to die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0019",
    "jp": "{v:002F}効かぬな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}That has no effect...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0020",
    "jp": "ヴェンツェルの傷が回復した！",
-   "en": "",
-   "term": "end"
+   "en": "Wenzel's wounds healed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0021",
    "jp": "{v:0030}ああん、全然ダメだよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Ugh, nothing's working!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0022",
@@ -147,80 +168,93 @@
   {
    "id": "scen259.0023",
    "jp": "{v:0033}ん！？{n}これはいったい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Hm?! What is this...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0024",
    "jp": "{v:0034}傷が‥‥消えない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}His wounds... aren't disappearing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0025",
    "jp": "{v:0035}何故だ？{n}代謝速度が上がらぬ？{n}傷がすぐに治らぬ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Why? My metabolism will not accelerate! My wounds are{n}not healing instantly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0026",
    "jp": "{v:0036}やっぱり効いてたんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}It WAS working after all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0027",
    "jp": "{v:0037}無駄じゃあなかったんだな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}So it wasn't for nothing!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0028",
    "jp": "{v:0038}ええい！{n}たとえ治癒能力が低下しようと、{n}人間ごときに負けはせぬ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Curse you! Even with my healing powers diminished, I{n}will not fall to mere humans!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0029",
    "jp": "{v:0039}ん、まさかこんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}No... This cannot be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0030",
    "jp": "！",
-   "en": "",
-   "term": "end"
+   "en": "!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0031",
    "jp": "ちょ、ちょっと！{n}アンタがやられちゃったら、誰がパワーストーンを使うのよ！",
-   "en": "",
-   "term": "end"
+   "en": "H-Hey! If you go down, who's gonna use the{n}Power Stone?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0032",
    "jp": "く‥‥強すぎ‥{FE1E}‥{FE1E}‥",
-   "en": "",
-   "term": "end"
+   "en": "Gh... Too strong...{FE1E}...{FE1E}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0033",
    "jp": "そんな！{n}ブロンソン将軍！",
-   "en": "",
-   "term": "end"
+   "en": "No! General Bronson!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0034",
    "jp": "‥‥これでは‥陛下の仇など‥{FE1E}‥{FE1E}{n}‥{FE1E}‥{FE1E}ぐはっ！",
-   "en": "",
-   "term": "end"
+   "en": "...Now... I cannot avenge His Majesty...{FE1E}...{FE1E}...{FE1E}...{FE1E}Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen259.0035",
    "jp": "ウェーバー！",
-   "en": "",
-   "term": "end"
+   "en": "Weber!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

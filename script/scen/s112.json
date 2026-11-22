@@ -15,1901 +15,2209 @@
   {
    "id": "scen112.0001",
    "jp": "門番",
-   "en": "",
-   "term": "null"
+   "en": "Gatekeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen112.0002",
    "jp": "オヤジ",
-   "en": "",
-   "term": "null"
+   "en": "Old Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen112.0003",
    "jp": "市民",
-   "en": "",
-   "term": "null"
+   "en": "Citizen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen112.0004",
    "jp": "看板",
-   "en": "",
-   "term": "null"
+   "en": "Sign",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen112.0005",
    "jp": "看板・裏",
-   "en": "",
-   "term": "null"
+   "en": "Sign (Back)",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen112.0006",
    "jp": "店員",
-   "en": "",
-   "term": "null"
+   "en": "Shop Assistant",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen112.0007",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen112.0008",
    "jp": "張り紙",
-   "en": "",
-   "term": "null"
+   "en": "Notice",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen112.0009",
    "jp": "怪しい男",
-   "en": "",
-   "term": "null"
+   "en": "Suspicious Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen112.0010",
    "jp": "行商人",
-   "en": "",
-   "term": "null"
+   "en": "Peddler",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen112.0011",
    "jp": "メモ",
-   "en": "",
-   "term": "null"
+   "en": "Note",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen112.0012",
    "jp": "王都ローザリア",
-   "en": "",
-   "term": "end"
+   "en": "Royal Capital Rosaria",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0013",
    "jp": "{v:0000}うわ～‥‥。{p}{v:0001}何だか光ってる物がいっぱいあるねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Woooow...{p}{v:0001}There sure are lots of shiny things here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0014",
    "jp": "{v:0002}何だろ、この『ふわふわぴかぴか』は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}What's this 'floaty, sparkly' stuff?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0015",
    "jp": "{v:0061}ここから先は用のない者は入れないよ。{n}たとえ君がサンドラ様の息子だとしてもね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}No one gets past here without business inside. Even if{n}you are Sandra-sama's son.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0016",
    "jp": "{v:004C}いらっしゃいませ。{n}スキマ屋へようこそ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Hello! Welcome to the Nook Shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0017",
    "jp": "{v:004D}驚きましたか？{n}スペースの有効利用ですよ！{p}{v:004E}場所は狭くても、扱っている商品は{n}他店に引けを取らないからね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Surprised? That's how you make the most of{n}your space!{p}{v:004E}It may be cramped, but our selection is as good as any{n}other shop's!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0018",
    "jp": "{v:0054}これからもスキマ屋をよろしくね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Keep coming back to the Nook Shop!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0019",
    "jp": "‥‥ローランディアは、のどかでいいよね。{p}バーンシュタインやランザックは、{n}どうも俺の性に合わないよ。",
-   "en": "",
-   "term": "end"
+   "en": "...It's nice how peaceful Rolandia is.{p}Burnstein and Ranzak just don't suit me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0020",
    "jp": "すぐ北に大きな城門があるだろ？{n}あれがローランディアの王城の門だよ。",
-   "en": "",
-   "term": "end"
+   "en": "You know that big castle gate just north of here?{n}That's the gate to Rolandia's royal castle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0021",
    "jp": "ありがとう！{n}君のおかげでスキマ屋で買い物ができたよ！",
-   "en": "",
-   "term": "end"
+   "en": "Thank you! Thanks to you, I got to shop at the{n}Nook Shop!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0022",
    "jp": "お店に案内してくれるって言ったのに酷いじゃないか。{n}もう君の事は信じないからね。",
-   "en": "",
-   "term": "end"
+   "en": "You said you'd take me to the shop! That was mean. I'm{n}not trusting you anymore.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0023",
    "jp": "‥‥まいったなぁ。{p}この辺りに変わった店があるって聞いたのに、{n}いったいどこにあるんだ？",
-   "en": "",
-   "term": "end"
+   "en": "...Well, this is a problem.{p}I heard there was an unusual shop around here, but{n}where in the world is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0024",
    "jp": "君はどこにあるか知ってるかい？",
-   "en": "",
-   "term": "end"
+   "en": "Do you know where it is?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0025",
    "jp": "それは本当かい！？{n}ぜひ、連れて行ってくれないか？",
-   "en": "",
-   "term": "end"
+   "en": "Really?! Could you please take me there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0026",
    "jp": "連れて行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Take him there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0027",
    "jp": "ありがとう！{n}さっそく教えてくれないか？",
-   "en": "",
-   "term": "end"
+   "en": "Thank you! Could you show me the way now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0028",
    "jp": "そうか‥‥。{n}それは残念だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I see... That's a shame...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0029",
    "jp": "どんなお店か楽しみだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I can't wait to see what kind of shop it is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0030",
    "jp": "あれ‥‥、僕が邪魔になってる？",
-   "en": "",
-   "term": "end"
+   "en": "Oh... Am I in your way?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0031",
    "jp": "すこし動いてもらいますか？",
-   "en": "",
-   "term": "end"
+   "en": "Ask him to move aside?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0032",
    "jp": "すまなかったね。",
-   "en": "",
-   "term": "end"
+   "en": "Sorry about that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0033",
    "jp": "ここか！？{n}こんな所にあったのか！",
-   "en": "",
-   "term": "end"
+   "en": "Here?! So this is where it was!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0034",
    "jp": "ありがとう！{n}君のおかげで助かったよ！",
-   "en": "",
-   "term": "end"
+   "en": "Thank you! You've been a great help!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0035",
    "jp": "お店の人は、いないようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The shopkeeper doesn't seem to be here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0036",
    "jp": "よく見るとカウンターの上に回復薬がある。{n}手に入れますか？",
-   "en": "",
-   "term": "end"
+   "en": "A closer look reveals a healing potion on the counter.{n}Take it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0037",
    "jp": "人の物を勝手にとっちゃダメでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! You can't just take other people's things!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0038",
    "jp": "城門は堅く閉ざされている‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The castle gates are firmly shut...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0039",
    "jp": "土が掘り返されている‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The soil has been dug up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0040",
    "jp": "１ヶ所だけ、新しく土が盛られた跡がある。{n}掘り起こしてみますか？",
-   "en": "",
-   "term": "end"
+   "en": "There's one spot where the soil has been freshly{n}heaped up. Dig it up?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0041",
    "jp": "中には頑丈な宝箱が埋めてあり、箱には{n}『{FFF0}俺の秘密{FFF0}♥{FFF1}{FFF1}』と書かれている。{p}さらに箱には、番号のついたボタンがある。{n}どうやら、このボタンが箱を開けるスイッチのようだ。",
-   "en": "",
-   "term": "end"
+   "en": "A sturdy treasure chest is buried there. Written on it{n}is '{FFF0}My Secret{FFF0}♥{FFF1}{FFF1}'.{p}The chest also has numbered buttons. They seem to be{n}switches for opening it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0042",
    "jp": "何番のボタンを押しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which numbered button will you press?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0043",
    "jp": "・０",
-   "en": "",
+   "en": "・0",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0044",
    "jp": "・１",
-   "en": "",
+   "en": "・1",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0045",
    "jp": "・２",
-   "en": "",
+   "en": "・2",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0046",
    "jp": "・３",
-   "en": "",
+   "en": "・3",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0047",
    "jp": "・４",
-   "en": "",
+   "en": "・4",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0048",
    "jp": "・５",
-   "en": "",
+   "en": "・5",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0049",
    "jp": "・６",
-   "en": "",
+   "en": "・6",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0050",
    "jp": "・７",
-   "en": "",
+   "en": "・7",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0051",
    "jp": "・８",
-   "en": "",
+   "en": "・8",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0052",
    "jp": "・９",
-   "en": "",
+   "en": "・9",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0053",
    "jp": "・何も押さない",
-   "en": "",
+   "en": "・Don't press anything",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0054",
    "jp": "久しぶりにお客さんが来たよ‥‥。{n}もう嬉しくって泣けてくるねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "My first customer in ages... I'm so happy I could cry...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0055",
    "jp": "　{FE1E}‥{FE1E}‥{FE1E}‥{FE1E}売れねぇなぁ{FE1E}‥{FE1E}‥。{FFFB}{n}　‥‥誰も来ねぇし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "　{FE1E}.{FE1E}.{FE1E}.{FE1E}Can't sell a thing{FE1E}.{FE1E}..{FFFB}...Nobody even comes in...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0056",
    "jp": "　　準備中！{n}　　　アイテムショップ・ココ",
-   "en": "",
-   "term": "end"
+   "en": "　　Not open yet!{n}Coco's Item Shop",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0057",
    "jp": "　　特売品多数！{n}　　　　スキマ屋",
-   "en": "",
-   "term": "end"
+   "en": "　　Bargains galore! Nook Shop",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0058",
    "jp": "さっきの２人。{n}飢えてるみたいで、怖い‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Those two from earlier... They seem so desperate for a{n}girl it's scary...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0059",
    "jp": "{v:0033}いらっしゃいませ。{n}この店では、様々なグッズをお買い求めいただけます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Welcome. We have a wide variety of goods for sale.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0060",
    "jp": "{v:000C}いらっしゃいませ。{n}当店では、様々な装備品を取り扱っております。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Welcome. We carry a wide variety of equipment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0061",
    "jp": "ねぇねぇ！{n}お兄ちゃんってさ、妖精をペットにしてるんだね。{p}僕、初めて見たよ。{n}今度、僕にも貸してね！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, hey! You've got a fairy for a pet, Big Brother!{p}I've never seen one before. Let me borrow{n}her sometime!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0062",
    "jp": "誰がペットだって！{n}今度言ったら、蹴るわよ！",
-   "en": "",
-   "term": "end"
+   "en": "Who are you calling a pet?! Say that again and I'll{n}kick you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0063",
    "jp": "うぅ‥‥。{n}この妖精、怖い‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Eep... This fairy's scary...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0064",
    "jp": "なかなか見つからなくて困ってる？",
-   "en": "",
-   "term": "end"
+   "en": "Having trouble finding everyone?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0065",
    "jp": "じゃ、特別にヒントね！{n}僕が隠れていた辺りには、いなかったよ。",
-   "en": "",
-   "term": "end"
+   "en": "Okay, I'll give you a special hint! Nobody was near{n}where I was hiding.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0066",
    "jp": "意外と気づかないんじゃないかなぁって{n}思ったのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I thought you might not notice me there...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0067",
    "jp": "あと１人だけだね。{n}でもアイツは足が速いからなぁ‥‥。{p}オニを見つけたら、すぐ逃げちゃうんだよね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Just one more to go. But he's really fast...{p}As soon as he spots whoever's it, he runs away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0068",
    "jp": "じゃ、特別にヒントね！{n}僕たちは体が小さいから、ちょっとした所でも{n}隠れられるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "Okay, I'll give you a special hint! We're little, so we can{n}hide in tiny spaces.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0069",
    "jp": "捕まっちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "You caught me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0070",
    "jp": "また今度、遊んでね！",
-   "en": "",
-   "term": "end"
+   "en": "Come play with us again!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0071",
    "jp": "何か面白い遊びないかなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Isn't there anything fun to play...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0072",
    "jp": "もうお前とは絶交だ！",
-   "en": "",
-   "term": "end"
+   "en": "I'm through with you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0073",
    "jp": "こっちこそ、お前とつき合うのはごめんだね！",
-   "en": "",
-   "term": "end"
+   "en": "Like I want to hang around with you anymore!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0074",
    "jp": "ねぇ？{n}どうしてケンカしてるの？",
-   "en": "",
-   "term": "end"
+   "en": "Hey! What are you two fighting about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0075",
    "jp": "そこのお店の女の子、俺の好みのタイプなんだよ。{p}それで告白しようかなって思ったら、こいつが{n}『俺の方が先に彼女を狙っていた』とか{n}言い出しやがるんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "The girl in that shop is just my type.{p}So I was thinking of telling her how I feel, and this jerk{n}starts going on about how he 'had his eye on{n}her first'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0076",
    "jp": "だって本当のことだろ！{n}そもそも可愛い子がいるぞって教えてあげたのは、{n}俺の方じゃないか！",
-   "en": "",
-   "term": "end"
+   "en": "Because it's true! I'm the one who told you there was{n}a cute girl there in the first place!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0077",
    "jp": "ケンカの仲裁に入りますか？",
-   "en": "",
-   "term": "end"
+   "en": "Step in to settle the argument?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0078",
    "jp": "どのように仲裁しますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you settle it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0079",
    "jp": "・最初に彼女を見つけた方が正しい",
-   "en": "",
+   "en": "・Whoever noticed her first is right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0080",
    "jp": "・両方とも声をかけるべき",
-   "en": "",
+   "en": "・Both of you should talk to her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0081",
    "jp": "・クジ引きで運命にゆだねさせる",
-   "en": "",
+   "en": "・Let fate decide by drawing lots",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0082",
    "jp": "・左の男が正しい",
-   "en": "",
+   "en": "・The man on the left is right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0083",
    "jp": "・右の男が正しい",
-   "en": "",
+   "en": "・The man on the right is right",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0084",
    "jp": "お互い、ちゃんと納得したいから、{n}その理由を聞かせてくれないか？",
-   "en": "",
-   "term": "end"
+   "en": "We both want to be properly convinced, so could you{n}tell us why?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0085",
    "jp": "結論を出した理由はなんですか？",
-   "en": "",
-   "term": "end"
+   "en": "Why did you reach that conclusion?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0086",
    "jp": "・深い意味はない",
-   "en": "",
+   "en": "・No particular reason",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0087",
    "jp": "・ケンカしてるよりはマシだから",
-   "en": "",
+   "en": "・It's better than fighting",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0088",
    "jp": "・その方がフェアだと判断したから",
-   "en": "",
+   "en": "・I thought that would be fairer",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0089",
    "jp": "・俺の判断は絶対だから",
-   "en": "",
+   "en": "・My judgment is absolute",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0090",
    "jp": "そうだよ！{n}自分たちの都合だけで恋愛を決めちゃダメじゃない。{p}２人とも彼女の事が好きなら、{n}あとは相手の気持ち次第じゃない？",
-   "en": "",
-   "term": "end"
+   "en": "Exactly! You can't decide matters of love just to{n}suit yourselves!{p}If you both like her, then what matters now is how she{n}feels, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0091",
    "jp": "人ごとだと思って、いいかげんなことばかり{n}言いやがって！",
-   "en": "",
-   "term": "end"
+   "en": "You think you can spout whatever crap you like just{n}because it ain't your problem!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0092",
    "jp": "コイツって、こういうヤツだから{n}無視しちゃっていいよ。{p}ただ、アタシは『２人とも告白したら？』って思うよ。{n}２人とも彼女の事が好きなら、{n}あとは相手の気持ち次第じゃない？",
-   "en": "",
-   "term": "end"
+   "en": "That's just how this guy is. Go ahead and ignore him.{p}But I say, 'Why don't you both tell her how you feel?'{n}If you both like her, then what matters now is how she{n}feels, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0093",
    "jp": "確かに、その通りだ。{n}彼女の気持ちを知る必要があるよな。",
-   "en": "",
-   "term": "end"
+   "en": "You're right. We need to find out how she feels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0094",
    "jp": "じゃ、今すぐ告白しよう。",
-   "en": "",
-   "term": "end"
+   "en": "Then let's go tell her right now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0095",
    "jp": "{FFF2}{FB00}‥{FE14}‥{FE14}‥。{FFFA}{n}{FFF4}何とも見事な玉砕‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF2}{FB00}.{FE14}.{FE14}.{FFFA} {FFF4}What a spectacular crash and burn...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0096",
    "jp": "まぁ！{n}可愛い妖精を連れているのね。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, my! What a cute little fairy you have with you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0097",
    "jp": "ほっといてよ！{n}もう他の人に頼むから！",
-   "en": "",
-   "term": "end"
+   "en": "Leave me alone! I'll ask someone else!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0098",
    "jp": "この階段、上るのがこんなに大変だなんて、{n}思いもしなかったわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I never imagined climbing these stairs would be{n}so hard...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0099",
    "jp": "買い物が出来たのはいいんだけど‥‥。{n}重くて歩けない。",
-   "en": "",
-   "term": "end"
+   "en": "I'm glad I got my shopping done, but... These bags are{n}too heavy. I can't walk.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0100",
    "jp": "また手伝ってくれる？",
-   "en": "",
-   "term": "end"
+   "en": "Will you help me again?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0101",
    "jp": "うふふ‥‥。{n}あなたって優しいのね{FFF0}♥{FFF1}{p}じゃ、荷物を預けるから、私の家の前で{n}待っていてくれるかしら？{p}私の家はそこの階段を降りたすぐ東側の建物よ。{n}扉が２つあるから、すぐわかると思うわ。{p}それじゃ、これを預けるわね。",
-   "en": "",
-   "term": "end"
+   "en": "Hee hee... You're so kind{FFF0}♥{FFF1}{p}Here, I'll leave my bags with you. Would you wait{n}outside my house?{p}It's the building just east of the bottom of those{n}stairs. It has two doors, so you should spot it easily.{p}Here you go. Take good care of these.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0102",
    "jp": "　{n}　『{FFEF}グラディウス{FFF1}』と『{FFEF}クロース{FFF1}』を{n}　受け取った！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　Received '{FFEF}Gladius{FFF1}' and '{FFEF}Cloth{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0103",
    "jp": "もう１度、家の場所を説明した方がいい？",
-   "en": "",
-   "term": "end"
+   "en": "Would you like me to explain where my house is again?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0104",
    "jp": "帰り道は自分で階段降りるから、心配しないでね。{n}それじゃ、荷物の方、よろしく{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "I can get down the stairs myself on the way home, so{n}don't worry. Take good care of my bags{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0105",
    "jp": "うふ、ありがと{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Hee hee, thank you{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0106",
    "jp": "ラッキー！{n}ちょうどいいところに来てくれたわ！",
-   "en": "",
-   "term": "end"
+   "en": "What luck! You've come at just the right time!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0107",
    "jp": "反対側から話しかけてくれると嬉しいな{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Could you talk to me from the other side, please{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0108",
    "jp": "ちょっと頼み事していいかしら？",
-   "en": "",
-   "term": "end"
+   "en": "Could I ask you a little favor?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0109",
    "jp": "そんなこと言わないで、聞くだけでも聞いてよ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, don't say that! At least hear me out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0110",
    "jp": "あのね。{n}この階段の上にある武器屋で{n}買い物したいんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "You see, I'd like to do some shopping at the weapon{n}shop up these stairs...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0111",
    "jp": "足を怪我しちゃって、階段を上るのが大変なの。{n}良かったら、後ろから押してくれないかしら？",
-   "en": "",
-   "term": "end"
+   "en": "But I've hurt my leg, and climbing the stairs is so{n}difficult. Would you mind giving me a push from behind?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0112",
    "jp": "うふふ‥‥。{n}ありがとう。{n}でも、変なトコ、さわったりしないでね。",
-   "en": "",
-   "term": "end"
+   "en": "Hee hee... Thank you. Just watch where you put{n}your hands.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0113",
    "jp": "わかったわよ！{n}他の人に頼めばいいんでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "All right, fine! I'll just ask someone else, then!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0114",
    "jp": "ふぅ‥‥。{n}扉の前に着くまで待ってね。",
-   "en": "",
-   "term": "end"
+   "en": "Phew... Wait until I get to the door, please.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0115",
    "jp": "荷物持ってくれて、ありがとう！{n}おかげで買い物をすませる事ができたわ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Thank you for carrying my bags! I was able to finish{n}my shopping thanks to you{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0116",
    "jp": "荷物を返しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Return her bags?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0117",
    "jp": "ちゃんと返しなさいよ！！",
-   "en": "",
-   "term": "end"
+   "en": "Give them back already!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0118",
    "jp": "　{n}　　『グラディウス』と『クロース』を手渡した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　Handed over the 'Gladius' and 'Cloth'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0119",
    "jp": "そうだ！{n}お礼をあげるね！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I know! Here's a little something to thank you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0120",
    "jp": "　{n}　　　　　『{FFEF}回復薬{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}healing potion{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0121",
    "jp": "何とかここまで来たけど、帰りは大丈夫かしら‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I managed to get this far, but I wonder if I'll make{n}it back...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0122",
    "jp": "帰りも助けてね、お願い{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Please help me on the way back, too{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0123",
    "jp": "ありがとうございました。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0124",
    "jp": "ふぅ‥‥。{n}後は家に帰るだけね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Phew... Now I just have to get home...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0125",
    "jp": "ちょ、ちょっと待ってよ！{n}ここで私を放っておくつもり？",
-   "en": "",
-   "term": "end"
+   "en": "W-Wait a minute! You're going to leave me here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0126",
    "jp": "何よ、ソレ！{n}ひっど～～い！",
-   "en": "",
-   "term": "end"
+   "en": "What?! That's so meeean!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0127",
    "jp": "もう、おどかさないでよ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, don't scare me like that!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0128",
    "jp": "ありがとう。{n}これで買い物ができるわ！",
-   "en": "",
-   "term": "end"
+   "en": "Thank you. Now I can do my shopping!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0129",
    "jp": "こんにちは♪",
-   "en": "",
-   "term": "end"
+   "en": "Hello♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0130",
    "jp": "いらっしゃいませ！",
-   "en": "",
-   "term": "end"
+   "en": "Welcome!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0131",
    "jp": "ふぅ‥‥。{n}やっと着いたわ。",
-   "en": "",
-   "term": "end"
+   "en": "Phew... Finally made it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0132",
    "jp": "　　　スターロード武器・防具店{n}　　　　　　　王都ローザリア本店",
-   "en": "",
-   "term": "end"
+   "en": "　　　Star Road Weapons and Armor{n}Royal Capital Rosaria Main Store",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0133",
    "jp": "私の家に入りたいの？{n}でもダメよ。{n}お互い、もっと知り合わないとね{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "You want to come into my house? Oh, no. We'll have to{n}get to know each other better first{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0134",
    "jp": "あら、私を訪ねてくれたの{FFF0}♥{FFF1}{p}さっきは買い物、手伝ってくれてありがとう。{n}とっても助かったわ{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "Oh, you've come to see me{FFF0}♥{FFF1}{p}Thank you for helping me with my shopping earlier. You{n}were such a big help{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0135",
    "jp": "へぇ～。{n}こんな所に出るんだ‥‥。{n}面白いね。",
-   "en": "",
-   "term": "end"
+   "en": "Wow... So this is where it comes out... That's neat.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0136",
    "jp": "　{n}　　　　　南大通り商店街、改装中！！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　South Avenue Shopping District{n}Under Renovation!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0137",
    "jp": "アンタ、開けるなって言われたでしょうが！{n}口で言われて分からないヤツは、{n}これでもくらいなさい！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! You were told not to open that! If words won't{n}get through that thick head of yours, try THIS!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0138",
    "jp": "{FFEC}テ{FE14}ィ{FE14}ピ{FE14}ち{FE14}ゃ{FE14}ん{FE14}{FC05}{FA01}キーック！{FFFA}{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}Tippi-chan{FE14}{FE14}{FE14}{FC05}{FA01}Ki{FE14}i{FE14}i{FE14}ck!{FFFA}{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0139",
    "jp": "これで４人、全員見つけたぞ！{n}えっへん！",
-   "en": "",
-   "term": "end"
+   "en": "That's all four of you found! How's THAT!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0140",
    "jp": "逃げ足には自信があったのになぁ‥‥。{n}まさか人の後ろに隠れてくるなんて思わなかったよ。",
-   "en": "",
-   "term": "end"
+   "en": "I thought I could outrun anyone... I never thought you'd{n}sneak up on me using someone else as cover.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0141",
    "jp": "でも楽しかったよ♪{n}お兄ちゃん、ありがとう！",
-   "en": "",
-   "term": "end"
+   "en": "But that was fun♪ Thanks, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0142",
    "jp": "お兄ちゃん、ありがとう！",
-   "en": "",
-   "term": "end"
+   "en": "Thanks, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0143",
    "jp": "ちょっと、あんた！{n}店をあけちゃ、ダメじゃないの！{p}まったく、困った子だね。{n}これじゃよそへ、行けやしないよ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you! You can't leave the shop unattended!{p}Honestly, what a troublesome boy. I can't go anywhere{n}like this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0144",
    "jp": "はぁ‥‥。{n}困ったねぇ‥‥。{p}しばらくの間、誰かに店の番を頼めないもんかねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "*Sigh*... What am I going to do?{p}I wonder if someone could mind the shop for a{n}little while.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0145",
    "jp": "助かったよ、サンドラ様の息子さん。{n}宿がオープンしたら、安くしてもらうように{n}手配しておくからね。",
-   "en": "",
-   "term": "end"
+   "en": "You've been a great help, Sandra-sama's boy. I'll{n}arrange for you to get a discount once the inn opens.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0146",
    "jp": "まったく、‥‥イライラするわねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "Honestly... This is so irritating!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0147",
    "jp": "ごめんなさいね。{n}まだ準備中なのよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorry, dear. We're not open yet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0148",
    "jp": "ごめんなさいね、お兄さん。{n}まだ準備中なのよ。{p}それにしても、可愛いオチビちゃんを連れているのね。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorry, young man. We're not open yet.{p}My, what a cute little thing you've brought with you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0149",
    "jp": "ひょっとして、あなた、サンドラ様のお子さん？",
-   "en": "",
-   "term": "end"
+   "en": "Could you be Sandra-sama's son?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0150",
    "jp": "あら、やっぱりそう。{n}そんなオチビちゃんを連れているから、{n}そうじゃないかと思ったわ。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I knew it. With that little thing tagging along, I{n}thought you might be.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0151",
    "jp": "あんた、ウソをついたね！{n}普通の人が、妖精を連れているわけないでしょうが！",
-   "en": "",
-   "term": "end"
+   "en": "You lied to me! Ordinary people don't go around with{n}fairies, you know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0152",
    "jp": "ふぅ‥‥。{n}どうしたもんかねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "*Sigh*... What am I to do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0153",
    "jp": "どうしたの、オバちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "What's wrong, Auntie?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0154",
    "jp": "街の外でダンナと待ち合わせしてるんだけど、{n}しばらく離れられそうも無くてね。{p}うちのダンナ、ずっと待ってるはずなんだよ。{n}ちょっと会えばすむ用事なんだけどね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm supposed to meet my husband outside town, but it{n}doesn't look like I'll be able to leave for a while.{p}He must still be waiting for me. I only need to see him{n}for a moment...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0155",
    "jp": "あぁ、そうだ！{n}もし良かったら、ちょっとだけ店の番を{n}してくれないかい？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I know! Would you mind looking after the shop for{n}just a little while?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0156",
    "jp": "サンドラ様のお子さんなら、{n}安心して任せられるってもんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "I know I can trust Sandra-sama's son with it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0157",
    "jp": "・引き受ける",
-   "en": "",
+   "en": "・Agree",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0158",
    "jp": "・引き受けない",
-   "en": "",
+   "en": "・Refuse",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0159",
    "jp": "すまないね！{n}それじゃ、ちょっと行って来るよ。{p}それと、中には入らないでおくれ。{n}ちらかってるからね。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you, dear! I'll just pop out, then.{p}Oh, and please don't go inside. It's a mess in there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0160",
    "jp": "くぅ～～。{n}もうあきたよぅ‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Uuugh... I'm boooored...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0161",
    "jp": "そうだ！　何かお話でもしようよ！",
-   "en": "",
-   "term": "end"
+   "en": "I know! Let's talk about something!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0162",
    "jp": "じゃあさ、これからの冒険、何を楽しみにしてる？",
-   "en": "",
-   "term": "end"
+   "en": "What are you looking forward to on our adventure?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0163",
    "jp": "・人との出会い",
-   "en": "",
+   "en": "・Meeting people",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0164",
    "jp": "・強敵との戦い",
-   "en": "",
+   "en": "・Fighting powerful foes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0165",
    "jp": "・知らない土地めぐり",
-   "en": "",
+   "en": "・Exploring unfamiliar lands",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0166",
    "jp": "・己の成長",
-   "en": "",
+   "en": "・Growing as a person",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0167",
    "jp": "・世界の動き",
-   "en": "",
+   "en": "・Seeing how the world changes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0168",
    "jp": "うんうん。{n}アタシも同じ♪",
-   "en": "",
-   "term": "end"
+   "en": "Uh-huh, uh-huh! Me too♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0169",
    "jp": "あと‥‥、冒険に出るための特訓とかしてたの？",
-   "en": "",
-   "term": "end"
+   "en": "And... any special training for our adventure?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0170",
    "jp": "・魔法研究",
-   "en": "",
+   "en": "・Studying magic",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0171",
    "jp": "・人付き合い",
-   "en": "",
+   "en": "・Learning to get along with people",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0172",
    "jp": "・格闘訓練",
-   "en": "",
+   "en": "・Hand-to-hand training",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0173",
    "jp": "・筋力トレーニング",
-   "en": "",
+   "en": "・Strength training",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0174",
    "jp": "・特にない",
-   "en": "",
+   "en": "・Nothing in particular",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0175",
    "jp": "{FB00}ふ～ん‥‥。{FFFA}{n}何かありがち‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}Hmm...{FFFA} That's pretty predictable...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0176",
    "jp": "好きな戦い方ってある？",
-   "en": "",
-   "term": "end"
+   "en": "Got a favorite way to fight?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0177",
    "jp": "・正々堂々正面から",
-   "en": "",
+   "en": "・Face my foes fair and square",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0178",
    "jp": "・こっそりと攻撃",
-   "en": "",
+   "en": "・Attack by stealth",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0179",
    "jp": "・魔法で派手に",
-   "en": "",
+   "en": "・Put on a show with magic",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0180",
    "jp": "・こだわりはない",
-   "en": "",
+   "en": "・I'm not picky",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0181",
    "jp": "最後は、好きな女性のタイプ！",
-   "en": "",
-   "term": "end"
+   "en": "Last question! What's your type of woman?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0182",
    "jp": "・元気でボーイッシュな子",
-   "en": "",
+   "en": "・An energetic tomboy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0183",
    "jp": "・甘えん坊さん",
-   "en": "",
+   "en": "・A girl who likes to be doted on",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0184",
    "jp": "・ちょっとドジな女の子",
-   "en": "",
+   "en": "・A slightly clumsy girl",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0185",
    "jp": "・大人しく控えめな年上の女性",
-   "en": "",
+   "en": "・A quiet, reserved older woman",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0186",
    "jp": "・りりしい感じの人",
-   "en": "",
+   "en": "・A strong, dignified woman",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0187",
    "jp": "・女に興味はない",
-   "en": "",
+   "en": "・I'm not interested in women",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0188",
    "jp": "それって一目惚れ？",
-   "en": "",
-   "term": "end"
+   "en": "So, love at first sight?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0189",
    "jp": "くぅ～。{n}やっぱりそういうのが好きなのね！",
-   "en": "",
-   "term": "end"
+   "en": "Grr... I knew that was your type!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0190",
    "jp": "これで少しは暇つぶしできたね。{n}スキンシップも同時にやるなんて、アタシってすごい。",
-   "en": "",
-   "term": "end"
+   "en": "Well, that killed a little time. And I got us to bond while{n}we were at it! I'm amazing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0191",
    "jp": "あっ、そう。{n}アンタって、冷たいわね。{p}アタシは心が広いから、{n}こんな事ぐらいで根に持ったりしないけど。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, really? You're pretty cold, you know.{p}Lucky for you, I'm too bighearted to hold a grudge{n}over a little thing like this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0192",
    "jp": "ま、待て、バカ！{n}そんなのぞき方したら、怪しまれるだろうが！",
-   "en": "",
-   "term": "end"
+   "en": "H-Hold it, idiot! Peeking in like that'll make us{n}look suspicious!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0193",
    "jp": "はっ！？{n}そ、そうか！！",
-   "en": "",
-   "term": "end"
+   "en": "Huh?! O-Oh, right!!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0194",
    "jp": "まったく‥‥。{n}世話を焼かせるなよ、新米。{p}俺たちは、例の娘が宿屋に泊まっているかどうか{n}調べるだけでいいんだ。{n}いつもの仕事みたいに警戒する必要はねぇよ。{p}堂々と行こうぜ、堂々と。",
-   "en": "",
-   "term": "end"
+   "en": "Sheesh... Don't make me babysit you, rookie.{p}All we gotta do is find out if that girl's staying at the{n}inn. No need to be as wary as we are on our{n}usual jobs.{p}Let's just walk right up. Act natural.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0195",
    "jp": "そ、そうですよね！{n}何かを盗んだりするわけじゃないし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "R-Right! It's not like we're stealing anything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0196",
    "jp": "バカ！{n}声が大きい！{n}もっと静かに話せ。{p}とにかく、俺が見本を見せてやる！{n}ついて来い！",
-   "en": "",
-   "term": "end"
+   "en": "Idiot! You're too loud! Keep your voice down.{p}Anyway, I'll show you how it's done! Follow me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0197",
    "jp": "聞きたいことがあるんだが、ちょっといいかい？",
-   "en": "",
-   "term": "end"
+   "en": "Got a question for ya. Got a minute?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0198",
    "jp": "まぁ、そう言わずによ。{n}ちょっと聞いてくれや。",
-   "en": "",
-   "term": "end"
+   "en": "Aw, don't be like that. Just hear me out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0199",
    "jp": "ここによ、カレンって娘が泊まってないか{n}知りたいんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "See, I wanna know if there's a girl named Karen{n}staying here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0200",
    "jp": "ちょっと帳簿を見せてくれねぇか？",
-   "en": "",
-   "term": "end"
+   "en": "Mind letting me take a look at the guest register?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0201",
    "jp": "お兄ちゃん、話がわかるね。",
-   "en": "",
-   "term": "end"
+   "en": "Now you're talking, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0202",
    "jp": "わかったよ、お兄さん。{n}アンタもしっかりしてるねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "I get it, pal. You're a sharp one, ain't ya?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0203",
    "jp": "で、いくら欲しいんだい？",
-   "en": "",
-   "term": "end"
+   "en": "So, how much do you want?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0204",
    "jp": "・きっぱりと断る",
-   "en": "",
+   "en": "・Refuse firmly",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0205",
    "jp": "・　１００エルム",
-   "en": "",
+   "en": "・100 Elm",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0206",
    "jp": "・１０００エルム",
-   "en": "",
+   "en": "・1000 Elm",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0207",
    "jp": "この野郎！{n}下手に出れば、つけ上がりやがって！",
-   "en": "",
-   "term": "end"
+   "en": "You bastard! I try being nice, and you get all high{n}and mighty!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0208",
    "jp": "おい！{n}痛い目にあわせてやれ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Teach him a lesson!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0209",
    "jp": "任せてくだせぇ！",
-   "en": "",
-   "term": "end"
+   "en": "Leave it to me, boss!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0210",
    "jp": "アンタ、アタシに感謝しなさいよ。",
-   "en": "",
-   "term": "end"
+   "en": "You'd better be grateful to me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0211",
    "jp": "いいだろう、交渉成立だな。{n}金は帳簿を見た後だ。",
-   "en": "",
-   "term": "end"
+   "en": "All right, we've got a deal. You get the money after we{n}see the register.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0212",
    "jp": "おい！{n}お前、見てこい！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! You go take a look!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0213",
    "jp": "それじゃ、さっそく‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Right, let's get to it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0214",
    "jp": "アンタねぇ！{n}一体、なに考えてるのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you! What in the world are you thinking?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0215",
    "jp": "助かったよ、サンドラ様の息子さん。{n}宿がオープンしたら、安くしてもらうように{n}手配しておくからね。{p}さ、後はわたしに任せていいよ。{n}すまなかったね。{n}どうもありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "You've been a great help, Sandra-sama's boy. I'll{n}arrange for you to get a discount once the inn opens.{p}There, you can leave the rest to me. Sorry for the{n}trouble. Thank you so much.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0216",
    "jp": "お店の番、引き受けたんだから、{n}ちゃんとやらないとダメだよ？{p}暇だけど、おばさんが戻ってくるまで{n}ここでじっと待ってようね。",
-   "en": "",
-   "term": "end"
+   "en": "You agreed to mind the shop, so you'd better do{n}it properly!{p}It's boring, but let's stay put until that lady gets back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0217",
    "jp": "ま、アタシもつき合ってあげるから、感謝しなさい！",
-   "en": "",
-   "term": "end"
+   "en": "Well, I'll keep you company, so you'd better{n}be grateful!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0218",
    "jp": "ごめんなさいね。{n}品切れなの。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorry, dear. We're sold out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0219",
    "jp": "よく、ここへ来る方法がわかったな‥‥。{n}ここに気づいたのは、お前が初めてだ。",
-   "en": "",
-   "term": "end"
+   "en": "So you figured out how to get here... You're the first{n}to notice this place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0220",
    "jp": "すまないが、今は準備中だ。{n}もうじき開店するから、その時に来てくれ。",
-   "en": "",
-   "term": "end"
+   "en": "Sorry, we're not ready yet. We'll be opening soon, so{n}come back then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0221",
    "jp": "せっかく王都まで買い出しに来たのに‥‥。{n}改装中とは思わなかったよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I came all the way to the capital to buy supplies... I{n}didn't think they'd be renovating...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0222",
    "jp": "お店が改装中だから、人通りが少ないわね。{n}なんだか寂しいわ。",
-   "en": "",
-   "term": "end"
+   "en": "There aren't many people around with the shops being{n}renovated. It feels rather lonely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0223",
    "jp": "ここは南大通り商店街です。{p}お店の改装が終われば、にぎやかになりますよ。",
-   "en": "",
-   "term": "end"
+   "en": "This is the South Avenue Shopping District.{p}It'll be bustling once the shops finish their renovations.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0224",
    "jp": "僕たち、デート中なんだ。{n}邪魔しないでくれ！",
-   "en": "",
-   "term": "end"
+   "en": "We're on a date. Leave us alone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0225",
    "jp": "私たち、デート中なの。{n}邪魔しないで！",
-   "en": "",
-   "term": "end"
+   "en": "We're on a date. Don't bother us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0226",
    "jp": "マンホールの上に、何か書いてあった形跡がある‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "There are traces of something once written on the{n}manhole cover...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0227",
    "jp": "メモが１枚、落ちている。",
-   "en": "",
-   "term": "end"
+   "en": "A note is lying on the ground.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0228",
    "jp": "これから俺様が作ったヒントを頼りに、{n}宝物を探してみな！{p}あちこちにヒントがあるが、{n}あまりヒントを見ずに宝をゲットすれば、{n}高ポイントだ！{p}もっとも何が高ポイントかって聞かれても困るけどよ。{n}まぁ、自分への挑戦だとでも思ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "Now, try finding the treasure using the clues I came{n}up with!{p}I've left clues all over the place, but you'll score more{n}points if you find the treasure without reading{n}too many!{p}Mind you, don't ask me what those points are good for.{n}Just think of it as a challenge for yourself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0229",
    "jp": "マンホールの上に文字が書いてある。{n}読みますか？",
-   "en": "",
-   "term": "end"
+   "en": "There's writing on the manhole cover. Read it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0230",
    "jp": "宝箱にはカギをしている。{n}俺のラッキーナンバーがわかれば、{n}カギが開く仕組みだ。",
-   "en": "",
-   "term": "end"
+   "en": "The treasure chest is locked. Figure out my lucky{n}number, and you can open it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0231",
    "jp": "俺の大切なメモ。{n}踊り場に落としちまった。",
-   "en": "",
-   "term": "end"
+   "en": "I dropped my precious note on the stair landing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0232",
    "jp": "きゅうくつな場所を抜けないと、{n}宝の隠し場所へは行けないぜ。",
-   "en": "",
-   "term": "end"
+   "en": "You'll have to squeeze through a tight spot to reach{n}the treasure's hiding place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0233",
    "jp": "宝は、空き地の片隅に埋めた。",
-   "en": "",
-   "term": "end"
+   "en": "I buried the treasure in a corner of the vacant lot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0234",
    "jp": "普通に歩くだけじゃ、隠し場所には行けないぜ。",
-   "en": "",
-   "term": "end"
+   "en": "You ain't gonna reach the hiding place just by{n}walking around.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0235",
    "jp": "宝が見つからねぇ時は、川辺で遊んでみな。",
-   "en": "",
-   "term": "end"
+   "en": "If ya can't find the treasure, try playing by the river.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0236",
    "jp": "衛兵のヤツら、ホネ抜きにしてやるぜ！",
-   "en": "",
-   "term": "end"
+   "en": "I'll take all the fight out of those guards!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0237",
    "jp": "衛兵が集まる所に、ヒントがある。",
-   "en": "",
-   "term": "end"
+   "en": "There's a clue where the guards gather.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0238",
    "jp": "張り紙、見たか？{n}あれ以上のヒントはないぞ？",
-   "en": "",
-   "term": "end"
+   "en": "Seen the notice? You won't find a better clue{n}than that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0239",
    "jp": "やるじゃねぇか。{n}隠し場所を見つけたようだな。",
-   "en": "",
-   "term": "end"
+   "en": "Not bad! Looks like ya found the hiding place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0240",
    "jp": "読み終わると、文字が消えていった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "As you finished reading, the words faded away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0241",
    "jp": "１人目、発見！",
-   "en": "",
-   "term": "end"
+   "en": "Found the first one!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0242",
    "jp": "くっそう！{n}僕が最初に見つかったんだ。{n}悔しいなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Darn it! I was the first one you found. Aw, man...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0243",
    "jp": "仕方ないや。{n}先に戻って、みんなが捕まるのを待ってよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh well. I'll head back first and wait for everyone else{n}to get caught...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0244",
    "jp": "やったね！これで２人目！",
-   "en": "",
-   "term": "end"
+   "en": "All right! That's two!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0245",
    "jp": "ちぇっ。{n}見つかっちゃったよ‥‥。{n}んじゃ、僕も戻っておくね。",
-   "en": "",
-   "term": "end"
+   "en": "Aw, man. You found me... Guess I'll head back too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0246",
    "jp": "３人目だ！あと１人だね！",
-   "en": "",
-   "term": "end"
+   "en": "That's three! Just one more!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0247",
    "jp": "ここも見つかったかぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Aw, you found this spot too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0248",
    "jp": "何の変化もない。{n}どうやら、このボタンではないようだ。",
-   "en": "",
-   "term": "end"
+   "en": "Nothing happens. This doesn't seem to be the{n}right button.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0249",
    "jp": "カギが外れた音がして、宝箱のフタが開いた！{p}箱の中には１冊の本がある。",
-   "en": "",
-   "term": "end"
+   "en": "With a click of the lock, the treasure chest's lid opened!{p}There is a book inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0250",
    "jp": "　{n}　　　『{FFEF}ダンディーブック{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Obtained the '{FFEF}Dandy Book{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0251",
    "jp": "私の家はそこの階段を降りたすぐ東側の建物よ。{n}扉が２つあるから、すぐわかると思うわ。{n}そこの青い扉の前で待っててね。",
-   "en": "",
-   "term": "end"
+   "en": "My house is the building just east of the bottom of{n}those stairs. It has two doors, so you should spot it{n}easily. Wait by the blue door, all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0252",
    "jp": "う～ん、退屈‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Mmm... I'm bored...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0253",
    "jp": "う～ん、やっぱり退屈‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Mmm... Still bored...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0254",
    "jp": "そうだ、お兄ちゃん！{n}僕たちと遊ぼうよ！",
-   "en": "",
-   "term": "end"
+   "en": "I know, Big Brother! Come play with us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0255",
    "jp": "遊ぶって何するつもりなの？",
-   "en": "",
-   "term": "end"
+   "en": "Play what, exactly?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0256",
    "jp": "こういうのは、どう？{p}コイツらって、３つ子なんだ。{n}だからコイツらにグルグル走ってもらって、{n}その後で名前を当てるのは？{p}うん、それしかない！{n}それじゃ、みんな、並んで！",
-   "en": "",
-   "term": "end"
+   "en": "How about this?{p}These guys are triplets. Let's have them run around in{n}circles, and then you can guess their names!{p}Yeah, that's the one! All right, everybody, line up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0257",
    "jp": "じゃ、みんな自己紹介して！",
-   "en": "",
-   "term": "end"
+   "en": "Okay, introduce yourselves!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0258",
    "jp": "えっと‥‥、僕の名前はね。{n}ピロ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Um... My name is... Piro...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0259",
    "jp": "やっぱり自己紹介、ヤメ！{n}お前の名前、長いんだもん。{p}だから、お前が１番な。",
-   "en": "",
-   "term": "end"
+   "en": "Forget the introductions! Your name's too long.{p}So you're Number 1.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0260",
    "jp": "え、えっと‥‥",
-   "en": "",
-   "term": "end"
+   "en": "U-um...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0261",
    "jp": "んっと、じゃ、僕は２番？",
-   "en": "",
-   "term": "end"
+   "en": "Um, so am I Number 2?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0262",
    "jp": "えっと{FE1E}‥{FE1E}‥{FE1E}‥、{FE1E}２の次は何だっけ？",
-   "en": "",
-   "term": "end"
+   "en": "Um{FE1E}.{FE1E}.{FE1E}.{FE1E} What comes after 2 again?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0263",
    "jp": "３だろ、お前‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It's 3, come on...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0264",
    "jp": "そうそう。{n}ちょうどそう言おうと思ってたんだ。{n}だから僕は、３番。",
-   "en": "",
-   "term": "end"
+   "en": "Right, right. That's just what I was going to say. So I'm{n}Number 3.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0265",
    "jp": "これで自己紹介おわり！",
-   "en": "",
-   "term": "end"
+   "en": "That's the introductions done!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0266",
    "jp": "もう１回、順番を言った方がいい？",
-   "en": "",
-   "term": "end"
+   "en": "Should we tell you the order again?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0267",
    "jp": "それじゃ、るーれっとすたーと！",
-   "en": "",
-   "term": "end"
+   "en": "Okay, let the spinning begin!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0268",
    "jp": "さぁ、お兄ちゃん、準備はいいかい？",
-   "en": "",
-   "term": "end"
+   "en": "All right, Big Brother! Ready?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0269",
    "jp": "左から順に、どう並んでいると思う？",
-   "en": "",
-   "term": "end"
+   "en": "What order do you think they're in, from the left?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0270",
    "jp": "・１番　２番　３番",
-   "en": "",
+   "en": "・Number 1, Number 2, Number 3",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0271",
    "jp": "・１番　３番　２番",
-   "en": "",
+   "en": "・Number 1, Number 3, Number 2",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0272",
    "jp": "・２番　１番　３番",
-   "en": "",
+   "en": "・Number 2, Number 1, Number 3",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0273",
    "jp": "・２番　３番　１番",
-   "en": "",
+   "en": "・Number 2, Number 3, Number 1",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0274",
    "jp": "・３番　１番　２番",
-   "en": "",
+   "en": "・Number 3, Number 1, Number 2",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0275",
    "jp": "・３番　２番　１番",
-   "en": "",
+   "en": "・Number 3, Number 2, Number 1",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen112.0276",
    "jp": "そうだ、お兄ちゃん！{n}僕たちとオニごっこしようよ！{n}お兄ちゃんがオニね！",
-   "en": "",
-   "term": "end"
+   "en": "I know, Big Brother! Let's play hide-and-seek! You're it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0277",
    "jp": "さんせ～い！{n}んじゃ、さっそく隠れよう～♪",
-   "en": "",
-   "term": "end"
+   "en": "Yeaah! Let's go hide right away!♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0278",
    "jp": "ありゃりゃ‥‥。{n}なんか子供の遊びに巻き込まれちゃったね。",
-   "en": "",
-   "term": "end"
+   "en": "Well, well... Looks like we got roped into the kids' game.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0279",
    "jp": "ま、放っておくのもなんだし、探してあげようよ？",
-   "en": "",
-   "term": "end"
+   "en": "We can't just leave them there. Come on, let's{n}find them!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0280",
    "jp": "あんたねぇ‥‥。{n}それじゃ可哀想でしょ！{n}探してあげなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, come on! That's just mean! Go find them!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0281",
    "jp": "探しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you look for them?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0282",
    "jp": "アンタの曲がった性格を、アタシのキックで{n}修正してやる！",
-   "en": "",
-   "term": "end"
+   "en": "I'll kick that rotten attitude right out of you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0283",
    "jp": "これにコリたら、さっさと探してあげなさい！",
-   "en": "",
-   "term": "end"
+   "en": "Let that be a lesson! Now hurry up and find them!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0284",
    "jp": "す、すげ～！{n}全員、当たりだよ！",
-   "en": "",
-   "term": "end"
+   "en": "W-wow! You got everyone right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0285",
    "jp": "ブブー！{n}１人だけ間違えたよ。",
-   "en": "",
-   "term": "end"
+   "en": "Bzzzt! You got one wrong.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0286",
    "jp": "ブブー！{n}１人しか当たってないよ。",
-   "en": "",
-   "term": "end"
+   "en": "Bzzzt! You only got one right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0287",
    "jp": "ブブー！{n}全部違ってるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Bzzzt! You got them all wrong.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0288",
    "jp": "それじゃ、正解は？",
-   "en": "",
-   "term": "end"
+   "en": "Okay, what's the right answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0289",
    "jp": "う～ん。{n}よく考えてみると、僕は見てるだけで{n}ぜんぜん遊べてないぞ？{p}なんかみんなで遊べること、ないかな？",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... Come to think of it, I'm just watching. I don't get{n}to play at all!{p}Isn't there something we can all play together?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0290",
    "jp": "人から物を預かってるでしょ！{n}勝手にうろつき回ってどうするの！",
-   "en": "",
-   "term": "end"
+   "en": "Someone entrusted you with something, remember?!{n}What are you doing wandering all over the place?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0291",
    "jp": "ちょっとそこのアベックさん！{n}邪魔だよ！{n}前が見えないよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you lovebirds! You're in the way! I can't see!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0292",
    "jp": "‥{FE1E}‥{FE1E}‥{FE1E}‥。{n}ケッ！{n}聞いちゃいねぇよ。",
-   "en": "",
-   "term": "end"
+   "en": ".{FE1E}.{FE1E}.{FE1E}. Tch! They ain't even listening.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0293",
    "jp": "なるほど～。",
-   "en": "",
-   "term": "end"
+   "en": "Ohhh, I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0294",
    "jp": "へぇ～。{n}そうなんだ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Huh... So that's how it is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0295",
    "jp": "ふ～ん。{n}ちょっと意外‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... Wasn't expecting that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0296",
    "jp": "{FB00}な、なに、ソレ？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}W-what's that supposed to mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0297",
    "jp": "なにっ！？{n}アンタ、アタシやルイセちゃん以外がいいなんて、{n}許されると思ってんの？",
-   "en": "",
-   "term": "end"
+   "en": "What?! You think you can get away with choosing{n}anyone besides me or Luise-chan?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0298",
    "jp": "１番です！",
-   "en": "",
-   "term": "end"
+   "en": "I'm Number 1!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0299",
    "jp": "２番です！",
-   "en": "",
-   "term": "end"
+   "en": "I'm Number 2!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0300",
    "jp": "えっと{FE14}‥{FE14}‥{FE14}‥{FE14}３番です！",
-   "en": "",
-   "term": "end"
+   "en": "Um{FE14}.{FE14}.{FE14}.{FE14} I'm Number 3!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0301",
    "jp": "やべ！！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, crap!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0302",
    "jp": "ちょっと待ちなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hold it right there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0303",
    "jp": "な、なんだ？",
-   "en": "",
-   "term": "end"
+   "en": "W-what?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0304",
    "jp": "ほえ～。",
-   "en": "",
-   "term": "end"
+   "en": "Whoooa...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0305",
    "jp": "な、何が起こったんだ？",
-   "en": "",
-   "term": "end"
+   "en": "W-what just happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0306",
    "jp": "仕方ねぇ！{n}今日の所は見逃してやる！{n}覚えてやがれ！",
-   "en": "",
-   "term": "end"
+   "en": "Damn it! I'll let ya off for today! You ain't seen the last{n}of me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0307",
    "jp": "鍵がかかっている。{n}どうやら留守のようだ。",
-   "en": "",
-   "term": "end"
+   "en": "It's locked. No one seems to be home.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen112.0308",
    "jp": "{FFEC}ティピちゃーん{FC05}{FA01}キーック！{FFED}{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}Tippi-chaaaan{FC05}{FA01} Kiiick!{FFED}{FFFA}",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

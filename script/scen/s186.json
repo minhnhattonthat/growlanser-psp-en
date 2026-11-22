@@ -15,32 +15,37 @@
   {
    "id": "scen186.0001",
    "jp": "教授",
-   "en": "",
-   "term": "null"
+   "en": "Professor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen186.0002",
    "jp": "ブラッドレー学院長",
-   "en": "",
-   "term": "null"
+   "en": "Headmaster Bradley",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen186.0003",
    "jp": "送魔線技師",
-   "en": "",
-   "term": "null"
+   "en": "Mana Line Engineer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen186.0004",
    "jp": "ルイセ",
-   "en": "",
-   "term": "null"
+   "en": "Luise",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen186.0005",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen186.0006",
@@ -51,8 +56,9 @@
   {
    "id": "scen186.0007",
    "jp": "魔法学院・屋上",
-   "en": "",
-   "term": "end"
+   "en": "Magic Academy - Rooftop",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen186.0008",
@@ -264,77 +270,88 @@
   {
    "id": "scen186.0042",
    "jp": "　{n}　　　　　{FFEF}アリオストが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Ariost is now accompanying you!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen186.0043",
    "jp": "どの階に行きますか？",
-   "en": "",
-   "term": "end"
+   "en": "Which floor would you like to visit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen186.0044",
    "jp": "・７Ｆ　学院長室フロア",
-   "en": "",
+   "en": "・7F Headmaster's Office",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen186.0045",
    "jp": "・６Ｆ　薬剤研究フロア",
-   "en": "",
+   "en": "・6F Pharmaceutical Research",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen186.0046",
    "jp": "・５Ｆ　重要図書閲覧室",
-   "en": "",
+   "en": "・5F Restricted Reading Room",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen186.0047",
    "jp": "・４Ｆ　図書室",
-   "en": "",
+   "en": "・4F Library",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen186.0048",
    "jp": "・３Ｆ　講義室",
-   "en": "",
+   "en": "・3F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen186.0049",
    "jp": "・２Ｆ　講義室",
-   "en": "",
+   "en": "・2F Lecture Rooms",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen186.0050",
    "jp": "・１Ｆ　学食",
-   "en": "",
+   "en": "・1F Cafeteria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen186.0051",
    "jp": "・Ｂ１　特別研究室フロア",
-   "en": "",
+   "en": "・B1 Special Research Labs",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen186.0052",
    "jp": "・やめる",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen186.0053",
@@ -357,16 +374,18 @@
   {
    "id": "scen186.0056",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen186.0057",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen186.0058",
@@ -949,8 +968,9 @@
   {
    "id": "scen186.0154",
    "jp": "ありがとうございます！",
-   "en": "",
-   "term": "end"
+   "en": "Thank you so much!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen186.0155",
@@ -1128,8 +1148,9 @@
   {
    "id": "scen186.0183",
    "jp": "{FFEC}ティピちゃん、きーっく！{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}Tippi-chan kiiick!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen186.0184",
@@ -1689,8 +1710,9 @@
   {
    "id": "scen186.0276",
    "jp": "やったね、お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "We did it, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen186.0277",
@@ -2107,8 +2129,9 @@
   {
    "id": "scen186.0345",
    "jp": "　{n}　　　　　{FFEF}送魔線技師が同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}The Mana Line Engineer joined as a{n}companion!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen186.0346",
@@ -2131,8 +2154,9 @@
   {
    "id": "scen186.0349",
    "jp": "あのね、お兄ちゃん。{n}学院の施設内で大きな魔法を使うと、{n}怒られちゃうんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Um, Big Brother... We'll get in trouble if we use powerful{n}magic inside the Academy...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

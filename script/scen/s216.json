@@ -15,440 +15,513 @@
   {
    "id": "scen216.0001",
    "jp": "御者",
-   "en": "",
-   "term": "null"
+   "en": "Coachman",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen216.0002",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen216.0003",
    "jp": "{FFEE}馬車を足止めし、姫を救い出せ！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Stop the carriage and rescue the princess!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0004",
    "jp": "{v:007D}む、敵だ！{n}みんな、馬車を守るぞ！{p}{v:007E}馬車はそのまま前進しろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007D}Hm? The enemy! Everyone, protect the carriage!{p}{v:007E}Keep the carriage moving!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0005",
    "jp": "{v:007C}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007C}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0006",
    "jp": "{v:007F}あの馬車にお姫様が乗ってるんだね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:007F}The princess is in that carriage, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0007",
    "jp": "{v:0080}この場にいる敵をすべて倒すんだ！{n}それから姫さんを助け出す！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0080}Take down every enemy here! Then we get the{n}princess out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0008",
    "jp": "{v:0036}ほう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Oh...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0009",
    "jp": "{v:0081}そうはさせるか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0081}I will not let you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0010",
    "jp": "敵を倒すより、まず橋を落とすことが先決だ。{n}さもないと、敵の援軍がどんどん来るぞ！",
-   "en": "",
-   "term": "end"
+   "en": "Bringing down the bridge takes priority over fighting{n}the enemy. Otherwise, their reinforcements will just{n}keep coming!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0011",
    "jp": "じゃあ、２手に別れた方がいいの？",
-   "en": "",
-   "term": "end"
+   "en": "So should we split into two groups?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0012",
    "jp": "それは{s:0000}に任せる。{n}だが西の橋は、できるだけ早く落とすべきだな。{n}敵をうまく避けて、橋の側へ行くぞ！",
-   "en": "",
-   "term": "end"
+   "en": "I'll leave that to {s:0000}. But we should{n}bring down the western bridge as soon as we can.{n}Dodge the enemy and get over to it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0013",
    "jp": "ジュリアン様！？{n}こ、これは一体‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Julian-sama?! Wh-what is going on...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0014",
    "jp": "ローランディア軍の襲撃だ！{n}援護をしろ！",
-   "en": "",
-   "term": "end"
+   "en": "The Rolandia army is attacking! Provide support!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0015",
    "jp": "はっ！{n}了解しました！",
-   "en": "",
-   "term": "end"
+   "en": "Yes, sir! Understood!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0016",
    "jp": "こ、これは一体‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Wh-what is going on...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0017",
    "jp": "ローランディアの奴らが襲撃してきた！{n}援護してくれ！",
-   "en": "",
-   "term": "end"
+   "en": "Those Rolandians are attacking! Back us up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0018",
    "jp": "わ、わかった！",
-   "en": "",
-   "term": "end"
+   "en": "G-got it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0019",
    "jp": "{v:0083}この橋を落とすんだね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0083}So we bring down this bridge!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0020",
    "jp": "{v:0084}これを落とせばいいのね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0084}This is the one to bring down, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0021",
    "jp": "{v:0085}この橋を落とすぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0085}I'm bringing this bridge down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0022",
    "jp": "{v:0086}このロープを切って‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0086}Just cut this rope...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0023",
    "jp": "{v:009E}この兵を突破するのは無理だろう！{n}ハッハッハッハッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:009E}You will never break through these troops! Ha ha{n}ha ha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0024",
    "jp": "{v:008F}い、痛い！{n}何をする、無礼な！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008F}Ow! That hurts! What are you doing, you{n}insolent wretch?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0025",
    "jp": "{v:009F}そんな‥‥逃げられちゃうなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009F}No... I can't believe they got away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0026",
    "jp": "{v:009C}フッ。{n}ここまでくれば、あとは走り抜けるだけだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:009C}Heh. Now that we're this far, we need only{n}race through!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0027",
    "jp": "{v:009D}ああ、逃げられちゃったよぉ！{n}作戦失敗だぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:009D}Aaah, they got awaaay! The mission's a failure!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0028",
    "jp": "お、お兄ちゃん‥‥。{n}これじゃわたし、テレポート使えない‥‥",
-   "en": "",
-   "term": "end"
+   "en": "B-Big Brother... I can't use Teleport like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0029",
    "jp": "{v:00AC}それじゃ、この作戦自体が成り立たないじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AC}Then the whole plan falls apart!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0030",
    "jp": "くっ、まさか‥‥。{n}ここまで腕を上げていたか‥‥。{p}インペリアル・ナイトになったこの私を倒すとは、{n}さすがだ‥‥。{p}次はこうはいかんぞ、{s:0000}！",
-   "en": "",
-   "term": "end"
+   "en": "Ugh, I never imagined... Your skill has improved{n}so much...{p}To defeat me, an Imperial Knight... Impressive indeed...{p}Next time will be different, {s:0000}!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0031",
    "jp": "申し訳ありません、ジュリアン将軍‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Forgive me, General Julian...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0032",
    "jp": "もう力が出ない‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I have no strength left...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0033",
    "jp": "我がバーンシュタイン軍が{n}こんな子供に負けるのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Our Burnstein army... defeated by children like these...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0034",
    "jp": "ぐふぅ！",
-   "en": "",
-   "term": "end"
+   "en": "Guh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0035",
    "jp": "ま、まだ俺は戦える‥ぞ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I... I can still... fight...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0036",
    "jp": "もっと将軍のおそばにいたかった‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I wanted to stay by the general's side a little longer...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0037",
    "jp": "少しは将軍の役に立てたよな‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I was some use to the general... wasn't I...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0038",
    "jp": "ま、まだ俺は死ねぬ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I... I cannot die yet...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0039",
    "jp": "こ、これしきの事で‥‥",
-   "en": "",
-   "term": "end"
+   "en": "T-taken down by a trifle like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0040",
    "jp": "な、なぜ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Wh-why...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0041",
    "jp": "か、完敗だ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "W-we were utterly defeated...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0042",
    "jp": "グオッ！",
-   "en": "",
-   "term": "end"
+   "en": "Gwah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0043",
    "jp": "こ、これまでか‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I-is this the end...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0044",
    "jp": "これでお姫様が連れ去られる心配はなくなったわね。",
-   "en": "",
-   "term": "end"
+   "en": "Now we don't have to worry about them taking the{n}princess away.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0045",
    "jp": "あとはここの敵をやっつけるだけよ！",
-   "en": "",
-   "term": "end"
+   "en": "All that's left is to beat the enemies here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0046",
    "jp": "あとは橋を落として、{n}敵の援軍が来られないようにするだけだね！",
-   "en": "",
-   "term": "end"
+   "en": "Now we just have to bring down the bridge so their{n}reinforcements can't get here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0047",
    "jp": "{v:0079}何事だっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}What's going on?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0048",
    "jp": "{v:007A}お、お前たちは！{n}捕虜を奪還しに来たか？{p}{v:007B}馬車は速度を落とすな！{n}全員、奴らの迎撃にあたる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}Y-you lot! Have you come to rescue the prisoner?{p}{v:007B}Keep the carriage moving at full speed! Everyone,{n}intercept them!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0049",
    "jp": "バカ！{n}今、切ったら馬車までが落ちちゃうじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "Idiot! Cut it now and the carriage will fall too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0050",
    "jp": "バカ！{n}今、切ったらお姫様まで落ちちゃうじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "Idiot! Cut it now and the princess will fall too!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0051",
    "jp": "バカ！{n}今、切っちゃダメでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "Idiot! You can't cut it now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0052",
    "jp": "ロープを切って、橋を落としますか？",
-   "en": "",
-   "term": "end"
+   "en": "Cut the rope and bring down the bridge?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0053",
    "jp": "くっ！",
-   "en": "",
-   "term": "end"
+   "en": "Gh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0054",
    "jp": "{v:0087}やった、橋が落ちたよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0087}Yes! The bridge is down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0055",
    "jp": "{v:0098}そのままでは囲まれる危険がある！{n}馬車を捨てるんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0098}You'll be surrounded if you stay there! Abandon{n}the carriage!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0056",
    "jp": "{v:008B}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008B}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0057",
    "jp": "{v:0089}橋を落として馬車の動きを封じたつもりか！？{p}{v:008A}おい、そのままでは小回りがきかん！{n}馬車を捨てて戦うのだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0089}You think bringing down the bridge will stop{n}the carriage?!{p}{v:008A}You there! You can't maneuver in that thing! Abandon{n}the carriage and fight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0058",
    "jp": "{v:0092}何っ！？{n}こっちの橋も落とされたか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0092}What?! They've brought down this bridge too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0059",
    "jp": "{v:008D}何っ！？{n}橋を落とされたか！{p}{v:008E}ええい、馬車では小回りがきかん！{n}降りるぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008D}What?! They've brought down the bridge!{p}{v:008E}Damn it, we can't maneuver in this carriage! Get out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0060",
    "jp": "{v:0090}さっさとするんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0090}Get a move on!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0061",
    "jp": "{v:0091}あ、お姫様だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0091}Oh, there's the princess!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0062",
    "jp": "あとは東の橋だけだ。{n}兵の相手は後回しにして、まず橋を落とそう！",
-   "en": "",
-   "term": "end"
+   "en": "Only the eastern bridge remains. Leave the soldiers{n}for later. Let's bring down the bridge first!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0063",
    "jp": "あとは東の橋だけね。{n}兵の相手は後回しにして、まず橋を落とそうよ！",
-   "en": "",
-   "term": "end"
+   "en": "Just the eastern bridge left! Let's leave the soldiers{n}for later and bring down the bridge first!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0064",
    "jp": "バカ！{n}今、切ったら、お姫様を助けられないじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "Idiot! Cut it now and we won't be able to rescue{n}the princess!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0065",
    "jp": "{v:009A}何っ！{n}これでは身動きがとれん！{p}{v:009B}かくなる上は戦うしかあるまい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009A}What?! We're trapped!{p}{v:009B}Then we have no choice but to fight...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0066",
    "jp": "{v:0093}後方の橋が落とされたか‥‥。{p}{v:0094}振り返るな！{n}馬車は速度を落とさず、そのまま進め！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0093}They've brought down the bridge behind us...{p}{v:0094}Don't look back! Keep the carriage moving at full speed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0067",
    "jp": "{v:0095}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0095}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0068",
    "jp": "{v:0096}後方の橋が落とされたか‥‥。{n}だがこのまま駆け抜ければ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0096}They've brought down the bridge behind us... But if we{n}keep going at full speed...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0069",
    "jp": "{v:0097}後は西の橋を落とせば、馬車が孤立するね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0097}Now if we bring down the western bridge, the carriage{n}will be cut off!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0070",
    "jp": "{v:008C}くっ！{n}これでは救援に迎えん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008C}Damn! Now we can't get to them to help!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0071",
    "jp": "{v:00A9}あ、ダメだ‥‥、お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A9}Oh, I can't... Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0072",
    "jp": "{v:00AA}どうしたの、ルイセちゃん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AA}What's wrong, Luise-chan?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen216.0073",
    "jp": "{v:00AB}魔法を使いすぎたみたい。{n}‥‥テレポート出来ない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AB}I think I've used too much magic. ...I can't Teleport...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

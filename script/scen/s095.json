@@ -15,224 +15,261 @@
   {
    "id": "scen095.0001",
    "jp": "プレート",
-   "en": "",
-   "term": "null"
+   "en": "Sign",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen095.0002",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen095.0003",
    "jp": "ガルアオス監獄",
-   "en": "",
-   "term": "end"
+   "en": "Garuaos Prison",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0004",
    "jp": "{v:0000}うわっ！{n}まるで要塞だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Whoa! It's like a fortress.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0005",
    "jp": "{v:0001}ガルアオス監獄だ。{p}{v:0002}ガルアオスは『終局』を意味する。{n}生きてここを出られた奴はいねぇ。{p}{v:0003}有事の際には要塞として使えるように{n}造られてるって話だ。{n}ここに入れられたら、救出は不可能だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Garuaos Prison.{p}{v:0002}Garuaos means 'the end.' No one's ever left this{n}place alive.{p}{v:0003}They say it was built to serve as a fortress in{n}wartime. Once she's locked up in there, a{n}rescue's impossible.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0006",
    "jp": "{v:0004}それじゃ、護送中に助けないとダメなんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Then we have to rescue her while they're{n}transporting her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0007",
    "jp": "{v:0005}でもここへ連れて来られるのはわかっているから、{n}待ち伏せしやすいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}But we know they're bringing her here, so it'll be easy{n}to set an ambush.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0008",
    "jp": "{v:0006}そうだな。{n}周囲の地形を調べて、襲撃ポイントを探そう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Right. Let's survey the terrain and find a spot{n}to strike.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0009",
    "jp": "　　バーンシュタイン王国{n}　　　ガルアオス監獄",
-   "en": "",
-   "term": "end"
+   "en": "　　Kingdom of Burnstein{n}Garuaos Prison",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0010",
    "jp": "{v:00A0}もう敵はいないようね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A0}Looks like there aren't any enemies left...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0011",
    "jp": "{v:00A1}くっ！{n}たった４人にここまでやられるとは‥‥。{p}{FC00}{v:00A2}だが手並みは、さすがと言うところか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A1}Gah! To think just four people could do this{n}much damage...{p}{FC00}{v:00A2}But their skill is certainly worthy of their reputation...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0012",
    "jp": "お兄ちゃん、隠れる場所を探さないの？",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, aren't we going to look for a hiding place?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0013",
    "jp": "まだ見たい場所があるんだろう。{n}護送隊がくるまで、まだ時間があるからな。",
-   "en": "",
-   "term": "end"
+   "en": "There's probably somewhere else he wants to look.{n}We've still got time before the escort arrives.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0014",
    "jp": "見たい場所って‥‥。{n}またあの監獄でも見るの？",
-   "en": "",
-   "term": "end"
+   "en": "Somewhere else...? What, that prison again?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0015",
    "jp": "とにかく隠れる場所を探すのは、{n}{s:0000}に任せよう。{p}いい場所が見つかったら、{n}そこでじっと待っていればいい。",
-   "en": "",
-   "term": "end"
+   "en": "Anyway, let's leave finding a hiding place to{n}{s:0000}.{p}Once we find a good spot, we just have to stay put{n}and wait.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0016",
    "jp": "{v:000A}ここって、橋に囲まれてるね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}There are bridges all around this spot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0017",
    "jp": "{v:000B}方角から考えて、この東側から護送隊が来るはずだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Judging by the direction they're coming from, the{n}escort should approach from the east.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0018",
    "jp": "{v:000C}どうやらここが襲撃に適しているようだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Looks like this is a good spot for an ambush.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0019",
    "jp": "{v:000D}あの橋も簡単な造りだから、すぐに壊せそう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}That bridge looks pretty simple, too. We should be able{n}to destroy it quickly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0020",
    "jp": "{v:000E}ってことは、前に使ったあの作戦をやるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}So we're using that plan from before?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0021",
    "jp": "{v:000F}そうだな。{p}{v:0010}大事な人質を歩かせて護送するとは思えん。{n}となると、馬車で来るはずだ。{p}{v:0011}馬車がここを通りかかったら戦闘を仕掛け、{n}橋を２ヶ所とも壊す。{n}そうすれば、護衛の奴らもそれ以上は手出し出来ねぇ。{p}{v:0012}後は残った敵を倒せば、楽に姫さんを助け出せる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Right.{p}{v:0010}I doubt they'd make an important hostage walk. That{n}means they'll come by carriage.{p}{v:0011}When the carriage passes through here, we attack and{n}destroy both bridges. That'll stop the guards from{n}interfering any further.{p}{v:0012}Then we take out the enemies still here, and rescuing{n}the princess will be easy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0022",
    "jp": "{v:0013}だったら、それまでどこかに身を隠していた方が{n}いいんじゃない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Then shouldn't we hide somewhere until they get here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0023",
    "jp": "{v:0014}そうだな。{p}{v:0015}俺は目が見えんから、お前が探してくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Right.{p}{v:0015}I can't see, so you'll have to find a spot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0024",
    "jp": "おい、それ以上先には進まない方がいいぜ。{n}下手に進むと護送隊とはちあわせだ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, better not go any farther. Keep going and we{n}could run straight into the escort.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0025",
    "jp": "{v:00A3}みなさんのおかげで、助かりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A3}I am safe now, thanks to all of you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0026",
    "jp": "{v:00A4}礼には及びません。{n}これも任務ですから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A4}There is no need to thank us. We are only doing{n}our duty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0027",
    "jp": "{v:00A5}しかし、これからどうやって帰るのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A5}But how will we get home now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0028",
    "jp": "{v:00A6}それは大丈夫！{n}こっちにはグローシアンがいるからね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A6}Don't worry about that! We've got a Growsian with us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0029",
    "jp": "{v:00A7}それじゃ、帰ろうよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A7}Then let's go home!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0030",
    "jp": "{v:00A8}うん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A8}Okay.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0031",
    "jp": "　{n}　　　　{FFEF}レティシア姫が同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Princess Leticia is now accompanying you!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0032",
    "jp": "もしよければ、ラージン砦に寄っていただけますか？{n}ブロンソン将軍にも心配をかけたと思うので‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "If you do not mind, could we stop at Fort Rajin? I{n}believe General Bronson must have been worried about{n}me, too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0033",
    "jp": "確かにそうだな。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sure he was.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0034",
    "jp": "ここなら見えないんじゃない？",
-   "en": "",
-   "term": "end"
+   "en": "Wouldn't we be out of sight here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0035",
    "jp": "ダメだ。{n}橋まで遠すぎる。{n}戦いを仕掛けたときに間に合わない。",
-   "en": "",
-   "term": "end"
+   "en": "No good. Too far from the bridges. We wouldn't reach{n}them in time once the fighting starts.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0036",
    "jp": "他の場所を、さがそうか。",
-   "en": "",
-   "term": "end"
+   "en": "Shall we look somewhere else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0037",
    "jp": "{v:0019}ここなら見つからないね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}They won't find us here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0038",
@@ -243,1205 +280,1403 @@
   {
    "id": "scen095.0039",
    "jp": "{v:001B}賛成！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Agreed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0040",
    "jp": "{v:001C}しかし、またここへ来ることになろうとはな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Still, I never thought I'd end up back here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0041",
    "jp": "{v:001D}ウォレスさん、この辺りで何かあったんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Wallace-san, did something happen to you{n}around here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0042",
    "jp": "{v:001E}ここから北東に行ったところに、{n}クレインっていう小さな村があってな。{p}{v:001F}その村を抜けたところで、{n}俺は両目と右腕を失ったんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}There's a little village called Crane northeast of here.{p}{v:001F}Just past that village is where I lost both eyes and my{n}right arm.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0043",
    "jp": "{v:0020}ええっ！{n}そうなの！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}What?! Really?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0044",
    "jp": "{v:0021}まぁな。{p}{v:0022}{FC00}だが今は姫さんを助け出すことが第一だ。{n}体力を温存するために早く休んだ方がいい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Yeah.{p}{v:0022}{FC00}But rescuing the princess comes first. We'd better get{n}some rest and save our strength.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0045",
    "jp": "{v:0023}それじゃ、２人ずつ、交代で休もうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Then let's take turns resting, two at a time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0046",
    "jp": "{v:0024}ルイセちゃん、頭いい～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Luise-chan, you're sooo clever!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0047",
    "jp": "{v:0025}もう、ミーシャったら、ちゃかさないでよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Oh, Misha, stop teasing me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0048",
    "jp": "{v:0026}俺は先に休ませてもらうぜ。{n}後の方が、来る確率が高そうだからな。{n}その時は、俺が見張りをしていよう。{p}{v:0027}お前が一緒に見張りをしたい相手を選ぶんだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}I'll rest first. They're more likely to show up later. I'll be{n}on watch then.{p}{v:0027}Pick who you want to keep watch with.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0049",
    "jp": "誰と見張りをしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Who will you keep watch with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0050",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0051",
    "jp": "・ミーシャ",
-   "en": "",
+   "en": "・Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0052",
    "jp": "{v:0028}わかったよ、お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}All right, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0053",
    "jp": "{v:0029}それじゃ頼んだぜ。{n}何かあったらすぐに起こせよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}We're counting on you. Wake me right away if{n}anything happens.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0054",
    "jp": "{v:002A}お兄さま、お休みなさい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Good night, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0055",
    "jp": "{v:002D}それじゃ、ちょっとだけおしゃべりしようか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Well, shall we chat for a little while?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0056",
    "jp": "{v:002E}まぁ、少しだけだったらいいよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Well, a little chat should be all right, shouldn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0057",
    "jp": "{v:002F}あのさ、お兄ちゃん？{p}{v:0030}国に仕官したこと後悔してない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Um, Big Brother?{p}{v:0030}Do you regret entering the kingdom's service?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0058",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0059",
    "jp": "・していない",
-   "en": "",
+   "en": "・Not at all",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0060",
    "jp": "・ちょっとしてる",
-   "en": "",
+   "en": "・A little",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0061",
    "jp": "・している",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0062",
    "jp": "・なぜそんな質問をするのかたずねる",
-   "en": "",
+   "en": "・Ask why she's asking",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0063",
    "jp": "{v:0031}そっか、やっぱりなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}I see. That's what I thought...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0064",
    "jp": "{v:0032}どうしてそんなこと聞くの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Why do you ask?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0065",
    "jp": "{v:0033}そうなんだ。{n}ちょっと意外‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Oh, really? That's a little surprising...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0066",
    "jp": "{v:0034}どうしてそんなこと聞くの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Why do you ask?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0067",
    "jp": "{v:0035}だって、戦争になっちゃって、{n}バーンシュタイン王国の人たちと{n}戦わなくちゃいけないじゃない。{p}{FC03}{v:0036}ちょっと前まではお互い仲良かったのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Well, now that we're at war, we have to fight the{n}people of the Kingdom of Burnstein, don't we?{p}{FC03}{v:0036}We were all getting along just a little while ago...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0068",
    "jp": "{v:0037}そうよねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Yeah, we were...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0069",
    "jp": "{v:0038}このまま仲直りできなかったら、{n}まるでフェザリアンとグローシアンみたいに{n}なっちゃうんじゃないかなぁ‥‥。{p}{v:0039}そんなこと思っちゃったから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}If we can't make peace, I wonder if we'll end up just like{n}the Featherians and the Growsians...{p}{v:0039}That's what I was thinking...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0070",
    "jp": "‥‥{v:003A}それって、絶対嫌よねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003A}That would be awful...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0071",
    "jp": "{FFF5}{v:003B}うん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:003B}Yes...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0072",
    "jp": "{v:003C}それじゃ、そろそろ見張りに専念しようか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Well, shall we get back to keeping watch?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0073",
    "jp": "{v:003D}でもそろそろ交代の時間だよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}But isn't it almost time to switch?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0074",
    "jp": "{v:0040}う～ん、よく休めたぜ。{n}それじゃ今度は俺とミーシャで見張る番だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Ahh, that was a good rest. Now it's my turn to keep{n}watch with Misha.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0075",
    "jp": "{v:0041}ゆっくり休んでね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Get some good rest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0076",
    "jp": "{v:0042}はぁい！{n}一緒にがんばりましょ、お兄さま！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Okaaay! Let's do our best, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0077",
    "jp": "{v:0043}それじゃ頼んだぜ。{n}何かあったらすぐに起こせよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}We're counting on you. Wake me right away if{n}anything happens.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0078",
    "jp": "{v:0044}それじゃ、がんばってね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Good luck, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0079",
    "jp": "{v:0047}ねぇねぇ、お兄さま！{n}ちょっとだけおしゃべりしようよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Hey, hey, Big Brother! Let's chat for a little bit!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0080",
    "jp": "{v:0048}まぁ、少しだけだったらいいよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Well, a little chat should be all right, shouldn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0081",
    "jp": "{v:0049}実はお兄さまに聞きたいことがあったんです！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Actually, there's something I've been wanting to ask{n}you, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0082",
    "jp": "ミーシャの質問に答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you answer Misha's question?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0083",
    "jp": "う゛‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Ugh...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0084",
    "jp": "{v:004A}お兄さまの好きな料理って何ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}What kind of food do you like, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0085",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0086",
    "jp": "・あっさりした料理",
-   "en": "",
+   "en": "・Light dishes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0087",
    "jp": "・こってりした料理",
-   "en": "",
+   "en": "・Rich dishes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0088",
    "jp": "・激辛料理",
-   "en": "",
+   "en": "・Extremely spicy dishes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0089",
    "jp": "・激甘料理",
-   "en": "",
+   "en": "・Extremely sweet dishes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0090",
    "jp": "・激苦料理",
-   "en": "",
+   "en": "・Extremely bitter dishes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0091",
    "jp": "・好き嫌いはない",
-   "en": "",
+   "en": "・I'm not picky",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0092",
    "jp": "{v:004B}あっさり系ですか‥‥。{p}{v:004C}サラダとか、お魚とかですかね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Light dishes, huh...?{p}{v:004C}Like salads and fish, maybe?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0093",
    "jp": "{v:00D4}こってり‥‥。{p}{v:004D}クリームシチューとかかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D4}Rich dishes...{p}{v:004D}Something like cream stew?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0094",
    "jp": "{FB00}{v:004E}げ、激辛ですかぁ！？{p}{v:004F}アタシ、辛いのはダメなんですよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:004E}E-extremely spicy?!{p}{v:004F}I can't handle spicy food!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0095",
    "jp": "‥‥{v:0050}お兄さまが、甘党だったなんて、意外‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0050}I never knew you had a sweet tooth, Big Brother.{n}What a surprise...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0096",
    "jp": "{v:0051}でも、でも！{n}アタシもケーキとか大好きなんですぅ♪",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}But, but! I love cake and things like that, too♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0097",
    "jp": "{FB00}{v:00D5}激苦？{n}な、な、何ですか、それ！？{FFFA}{p}{v:0052}食べてみたいような、みたくないような‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:00D5}Extremely bitter? W-w-what kind of food is that?!{FFFA}{p}{v:0052}I sort of want to try it, but I sort of don't...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0098",
    "jp": "{v:0053}わぁ♪{n}お兄さまの奥さんになる人って、{n}料理のしがいがありますねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Wow♪ Whoever becomes your wife will really enjoy{n}cooking for you, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0099",
    "jp": "{v:0054}で？{n}そんなこと聞いてどうするの？{n}コイツに作ってあげるわけ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}So? What are you going to do with that information?{n}Cook something for this guy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0100",
    "jp": "{v:0055}そうですねぇ‥‥。{p}{FC05}{FB00}{v:0056}あぁっ！{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Well, let's see...{p}{FC05}{FB00}{v:0056}Aah!{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0101",
    "jp": "{v:0057}どうしたのよ、いきなり？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}What's gotten into you all of a sudden?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0102",
    "jp": "{v:0058}ど、ど、どうしましょ～[01BE]{n}アタシ、料理できない‥‥。{FFFA}{p}{FC03}{FFF5}{v:0059}ごめんなさい、お兄さま～[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}W-w-what am I going to dooo?![01BE] I can't cook...{FFFA}{p}{FC03}{FFF5}{v:0059}I'm sooo sorry, Big Brother![01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0103",
    "jp": "{v:005A}そんなことだと思いました‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Somehow, I had a feeling...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0104",
    "jp": "{v:005B}それじゃ、そろそろ見張りに専念しようか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Well, shall we get back to keeping watch?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0105",
    "jp": "{v:005C}でも、そろそろ交代の時間だよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}But isn't it almost time to change shifts?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0106",
    "jp": "{v:005F}う～ん、よく休めたぜ。{FFF9}{FFFB}{n}{v:0060}それじゃ今度は俺とルイセで見張る番だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Ahh, that was a good rest.{FFF9}{FFFB}{v:0060}Now it's my turn to keep{n}watch with Luise.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0107",
    "jp": "{v:0061}ゆっくり休んでね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}Get some good rest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0108",
    "jp": "{v:0062}おい、起きろ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}Hey, wake up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0109",
    "jp": "{FFF6}{v:0063}また交代？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{v:0063}Changing shifts again?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0110",
    "jp": "{v:0064}音が聞こえる‥‥。{p}{v:0065}歩兵が多数と、馬車の車輪の音‥‥。{p}{v:0066}どうやら護送隊がこっちに向かってるようだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}I hear something...{p}{v:0065}Lots of infantry. Carriage wheels, too...{p}{v:0066}Looks like the escort's heading our way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0111",
    "jp": "{v:0067}いよいよだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0067}This is it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0112",
    "jp": "{v:0068}う～、緊張‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0068}Ooh, I'm nervous...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0113",
    "jp": "{v:0069}いいか。{p}{v:006A}戦闘を仕掛けるタイミングはお前に任せる。{n}一番いいと判断したときに、飛び出すぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}Listen up.{p}{v:006A}You decide when we attack. We'll jump out when you{n}think the time's right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0114",
    "jp": "{v:006B}任せたわよ！{n}変なタイミングに仕掛けたら、{n}すぐに負けちゃうからね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}We're counting on you! Pick the wrong moment and we'll{n}lose before we know it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0115",
    "jp": "{FFEE}これより、{FFF0}待機モード{FFEE}に入り、{n}戦闘を仕掛けるタイミングを待ちます。{p}攻撃タイミングは、{n}画面上部に表示されるレーダーを見て、{n}判断して下さい。{p}敵は赤色のマーカーで、{n}姫が乗っている馬車は緑色のマーカーで、{n}表示されます。{p}攻撃を仕掛けるには、岩陰から出て下さい。{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}You will now enter {FFF0}Standby Mode{FFEE} and wait for the{n}right moment to attack.{p}Watch the radar at the top of the screen to decide{n}when to attack.{p}Enemies appear as red markers. The carriage carrying{n}the princess appears as a green marker.{p}Step out from behind the rocks to launch your attack.{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0116",
    "jp": "ここじゃ見つかっちゃうよ？",
-   "en": "",
-   "term": "end"
+   "en": "They'll spot us here, won't they?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0117",
    "jp": "ここじゃダメだと思うんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I don't think this spot will work...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0118",
    "jp": "別の場所を探しましょ！",
-   "en": "",
-   "term": "end"
+   "en": "Let's find somewhere else!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0119",
    "jp": "{v:0045}２人とも、お休み。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Good night, you two.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0120",
    "jp": "{v:002C}見張りって退屈だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Keeping watch sure is boring.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0121",
    "jp": "{v:005D}そうだったね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}Oh, that's right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0122",
    "jp": "{v:005E}２人とも、起きて！{n}交代の時間だよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}Wake up, you two! Time to change shifts!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0123",
    "jp": "{v:0077}もう馬車がいないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0077}The carriage is already gone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0124",
    "jp": "{v:0072}いっけーー！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}Gooo!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0125",
    "jp": "{v:0076}む、敵だ！{n}馬車を止めるな！{n}兵は馬車の後方に！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}Enemy attack! Keep the carriage moving! Troops, to the{n}rear of the carriage!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0126",
    "jp": "{v:0078}くっ！{n}タイミングが遅すぎる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}Damn! We're too late...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0127",
    "jp": "{v:0073}む、敵だ！{n}馬車を止めろ！{n}兵は前に！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0073}Enemy attack! Stop the carriage! Troops, forward!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0128",
    "jp": "{v:0074}ああ、馬車がこっちまで来ない！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0074}Oh no! The carriage isn't coming our way?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0129",
    "jp": "{v:0075}くっ！{n}タイミングが早すぎたか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0075}Damn! Did we move too soon...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0130",
    "jp": "{FFF3}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0131",
    "jp": "{v:006C}あ、ジュリアンさんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}Oh, it's Julian-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0132",
    "jp": "{v:006D}何、ジュリアンがいるのか？{p}{FC02}{v:006E}おい、奴はナイツ・メンバーだ。{n}せめて奴だけはやり過ごした方が賢明だぞ。{p}{FC00}{v:006F}ま、タイミングはお前に任せるがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006D}What? Julian's there?{p}{FC02}{v:006E}Listen, he's an Imperial Knight. We'd be wise to at least{n}let him pass.{p}{FC00}{v:006F}Still, you decide when we move.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0133",
    "jp": "{v:0070}あ、馬車だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0070}Oh, there's the carriage...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0134",
    "jp": "{v:0071}多分、その馬車に姫さんが乗ってるはずだ。{n}攻撃タイミングはお前に任せる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}The princess is probably in that carriage. You decide{n}when we attack.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0135",
    "jp": "{v:00A9}あ、ダメだ‥‥、お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A9}Oh, I can't... Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0136",
    "jp": "{v:00AA}どうしたの、ルイセちゃん！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AA}What's wrong, Luise-chan?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0137",
    "jp": "{v:00AB}魔法を使いすぎたみたい。{n}‥‥テレポート出来ない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AB}I think I've used too much magic. ...I can't Teleport...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0138",
    "jp": "{v:00AC}それじゃ、この作戦自体が成り立たないじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AC}Then the whole plan falls apart!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0139",
    "jp": "‥‥{v:003C}ふぅっ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003C}Phew.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0140",
    "jp": "{v:003D}やっと終わったわね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}It's finally over.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0141",
    "jp": "{v:003E}終わりじゃないだろ？{n}これからが本当の仕事だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Over? The real work starts now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0142",
    "jp": "{v:003F}えへへ、そうでした★",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Hehe, oh, right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0143",
    "jp": "{v:0012}何だ、ここまで来てるじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Oh, they've made it this far already.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0144",
    "jp": "{v:0013}何だ、ここまで来てるじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Oh, they've made it this far already.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0145",
    "jp": "{v:0014}でもなんだか様子が変だよ？{n}バーンシュタイン王国軍の格好してるし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}But something seems strange, doesn't it? They're{n}wearing Burnstein army uniforms...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0146",
    "jp": "{v:0015}おい、それってもしかして‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Hey, could that mean...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0147",
    "jp": "あ、バーンシュタインの兵隊さんがいるよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, there are Burnstein soldiers here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0148",
    "jp": "でも、あいつらって、{n}ジュリアンの部下には見えないよ。",
-   "en": "",
-   "term": "end"
+   "en": "But those guys don't look like Julian's men.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0149",
    "jp": "おい、それってもしかして‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, could that mean...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0150",
    "jp": "{v:0016}あっはっはっ！{n}そりゃ、傑作だな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Ahahaha! Now that's a good one!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0151",
    "jp": "{v:0017}だろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Ain't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0152",
    "jp": "{v:0018}それにしてもローランディアの連中も哀れだよな～。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Still, you've gotta feel sorry for those Rolandia guys.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0153",
    "jp": "{v:0019}そうそう。{n}遠路はるばるやって来て、足止めだもんな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Yeah, yeah. Came all that way just to get stuck here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0154",
    "jp": "{v:001A}どうやらあの連中が、{n}ローランディア軍の進軍を妨害してるみたいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Looks like those guys are keeping the Rolandia army{n}from advancing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0155",
    "jp": "{v:001B}お兄ちゃん、どうする？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}What should we do, Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0156",
    "jp": "・戦って倒す",
-   "en": "",
+   "en": "・Fight and defeat them",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0157",
    "jp": "・このまま接近する",
-   "en": "",
+   "en": "・Keep moving closer",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0158",
    "jp": "・逃げ出す",
-   "en": "",
+   "en": "・Run away",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen095.0159",
    "jp": "{v:001C}幸い、あの連中は俺たちに気づいていない。{n}物陰に潜みながら進めば近づけるだろう。{p}{v:001D}戦うのはそれからでも遅くはない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Lucky for us, they haven't noticed us. We should be{n}able to get close if we keep to cover.{p}{v:001D}Plenty of time to fight once we're there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0160",
    "jp": "{v:001E}逃げてどうすんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}What good's running away gonna do?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0161",
    "jp": "{v:001F}奴らはこっちに気づいていない。{n}倒すなら今だぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}They haven't noticed us. If we're taking them down,{n}now's the time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0162",
    "jp": "{v:0020}ここには身を隠せるところが、いっぱいあるしね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}And there are plenty of places to hide here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0163",
    "jp": "{v:0028}むっ！{n}敵だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Hm?! The enemy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0164",
    "jp": "{v:0029}あ、アニキ！{n}敵です！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}B-Boss! The enemy's here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0165",
    "jp": "{v:002A}馬鹿もの！{n}隊長と呼ばんか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}You idiot! Call me Captain!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0166",
    "jp": "{v:002B}馬鹿者！{p}{v:002C}こんな近くに来るまで気づかなかったのか！{n}お前たちは何をしていたんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}You idiots!{p}{v:002C}You didn't notice them until they got this close?! What{n}the hell were you doing?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0167",
    "jp": "{v:002D}も、申し訳ありません！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}W-We're sorry, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0168",
    "jp": "{v:002E}あれはグレンガル様の言っていた連中！？{p}{v:002F}奴らを、ここから逃がすな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Are those the ones Grengal-sama told us about?!{p}{v:002F}Don't let them get away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0169",
    "jp": "{v:0027}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0170",
    "jp": "{v:0022}おい！{n}何を無駄話をしているんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Hey! What are you standing around yapping for?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0171",
    "jp": "{v:0023}あ、アニキ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}B-Boss!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0172",
    "jp": "{v:0024}この馬鹿者がっ！{n}敵の接近に気づかんとは！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}You idiot! You didn't even notice the enemy coming!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0173",
    "jp": "{v:0025}えっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Huh?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0174",
    "jp": "{v:0026}連絡されるとやっかいだ！{n}ここから逃がすな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}We'll be in trouble if they get word out! Don't let them{n}get away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0175",
    "jp": "そう言えば、お前、あの娘どうなった？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, whatever happened with that girl?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0176",
    "jp": "あの娘？",
-   "en": "",
-   "term": "end"
+   "en": "What girl?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0177",
    "jp": "お前がご執心だった、道具屋の娘だよ。",
-   "en": "",
-   "term": "end"
+   "en": "The girl at the item shop you were so stuck on.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0178",
    "jp": "ああ。{n}ありゃダメだ。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, her. No chance there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0179",
    "jp": "どうした？",
-   "en": "",
-   "term": "end"
+   "en": "What happened?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0180",
    "jp": "‥‥息子がいやがった。",
-   "en": "",
-   "term": "end"
+   "en": "...Turns out she's got a damn son.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0181",
    "jp": "人妻だったのかよ。",
-   "en": "",
-   "term": "end"
+   "en": "She was married?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0182",
    "jp": "ところでよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, by the way...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0183",
    "jp": "なんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "What?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0184",
    "jp": "ローランディアの騎士で{n}{s:0000}って名前は聞いたことあるか？",
-   "en": "",
-   "term": "end"
+   "en": "Ever heard of a Rolandia knight named{n}{s:0000}?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0185",
    "jp": "ある、ある！{n}なんでも凄腕で、{n}不可能を可能にするような奴なんだって？",
-   "en": "",
-   "term": "end"
+   "en": "Yeah, yeah! They say he's damn good. Makes the{n}impossible possible, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0186",
    "jp": "何たって、あのグレンガル様が勝てなかったって話だ。",
-   "en": "",
-   "term": "end"
+   "en": "Hell, I hear even Grengal-sama couldn't beat him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0187",
    "jp": "さっきの{s:0000}って奴だけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "About that {s:0000} guy we were{n}talking about...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0188",
    "jp": "あん？",
-   "en": "",
-   "term": "end"
+   "en": "Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0189",
    "jp": "一緒にグローシアンまでいるらしいぜ？",
-   "en": "",
-   "term": "end"
+   "en": "I hear he's even got a Growsian with him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0190",
    "jp": "俺はメガネをかけた、大ボケ娘が一緒だって聞いたぜ？",
-   "en": "",
-   "term": "end"
+   "en": "I heard he's got some total ditz in glasses with him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0191",
    "jp": "後は魔法学院の学者もいるって話だ。",
-   "en": "",
-   "term": "end"
+   "en": "They say there's a scholar from the Magic{n}Academy, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0192",
    "jp": "俺は、何か虫みたいな奴を連れてるって聞いたぜ？",
-   "en": "",
-   "term": "end"
+   "en": "I heard he drags some bug-looking thing around{n}with him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0193",
    "jp": "後はごっついオヤジも一緒だって話だ。",
-   "en": "",
-   "term": "end"
+   "en": "They say there's a big, burly old man with him, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0194",
    "jp": "なんてにぎやかなメンバー構成なんだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "What a motley bunch...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0195",
    "jp": "そんなんで、無敵ってんだから、信じられねぇよな。",
-   "en": "",
-   "term": "end"
+   "en": "And they call that lot unbeatable? Hard to believe,{n}ain't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0196",
    "jp": "何で、そんな連中にグレンガル様が勝てないんだ？{n}オズワルドの馬鹿ならわかるが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "How come Grengal-sama can't beat a bunch like that?{n}I'd understand if it were that idiot Oswald...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0197",
    "jp": "お、おい！{n}そんなの聞かれたら、きっついおしおきをされるぞ！",
-   "en": "",
-   "term": "end"
+   "en": "H-Hey! If anyone hears you, you'll be in for one hell of{n}a punishment!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0198",
    "jp": "{v:001D}これでもう大丈夫だよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Things should be all right now, shouldn't they?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0199",
    "jp": "{v:001E}ありがとうございました！{p}{v:001F}すぐに橋を架けて合流地点に向かいます。{n}バーンシュタインの将軍に、そうお伝え下さい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Thank you!{p}{v:001F}We'll put up a bridge right away and head for the{n}rendezvous point. Please tell the Burnstein general!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0200",
    "jp": "{v:000D}どうした、ローランディアの腰抜けども！{n}渡りたかったら渡ってみろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}What's wrong, you Rolandia cowards?! Wanna cross?{n}Come on, then!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0201",
    "jp": "‥‥{v:000E}ムカツク奴ぅ！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000E}Ugh, that jerk!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0202",
    "jp": "このままでは先へ進めないぞ‥‥。{n}一体どうすれば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We can't advance like this... What are we supposed{n}to do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0203",
    "jp": "おかげで進軍できるようになりました。{n}ありがとうございます。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks to you, we can advance now. Thank you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0204",
    "jp": "こんな所で足踏みなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "To be stuck here of all places...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0205",
    "jp": "急いで援護に向かわないと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We've got to hurry and provide support...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0206",
    "jp": "悔しいッス！",
-   "en": "",
-   "term": "end"
+   "en": "It's so frustrating, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0207",
    "jp": "嬉しいッス！",
-   "en": "",
-   "term": "end"
+   "en": "I'm glad, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0208",
    "jp": "くっ！{n}やっぱりダメだ！{n}これでは橋を架けられない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Damn! Still no good! We can't put up a bridge like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0209",
    "jp": "わはははっ！{n}悔しいかぁ～！",
-   "en": "",
-   "term": "end"
+   "en": "Wahahaha! Getting frustrated, are ya?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0210",
    "jp": "あいつ、ムカツクゥ～！",
-   "en": "",
-   "term": "end"
+   "en": "Ugh, that guy drives me craaazy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0211",
    "jp": "このまま忍び寄って、奴らを倒そう。",
-   "en": "",
-   "term": "end"
+   "en": "Let's keep sneaking up on them and take them down.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0212",
    "jp": "{v:0004}ハッ！{n}アニキ、敵です！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Ah! Boss, the enemy's here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0213",
    "jp": "{v:0005}何ぃっ！{n}見張りの連中は何をしていたんだ！{p}{v:0006}ええい、それより応戦準備だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}What?! What the hell were the lookouts doing?!{p}{v:0006}Bah, never mind! Get ready to fight back!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0214",
    "jp": "{v:0008}おお、君たちか。{n}実は、この先にかかっている小さな橋を{n}落とされてしまってな、先へ進めずにいるのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Oh, it's you. The small bridge up ahead has been{n}destroyed, you see. We can't advance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0215",
    "jp": "{v:0009}橋くらい直せばいいじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Then just fix the bridge!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0216",
    "jp": "{v:000A}無茶言わないでくれ。{n}対岸に陣取られているので、{n}すぐに妨害されてしまうのだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}It's not that simple. They're positioned on the opposite{n}bank, so they stop us as soon as we try.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0217",
    "jp": "{v:000B}で、立ち往生か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}So you're stuck...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0218",
    "jp": "{v:000C}このままでは、時間だけが浪費されてしまう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}At this rate, we're just wasting time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0219",
    "jp": "{v:000F}君たちはすごいな。この戦争を終わらせる、{n}最大の要因は君たち自身だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}You're remarkable. More than anything else, it's you who{n}will bring this war to an end.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0220",
    "jp": "{v:0010}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Oh, no, not at all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0221",
    "jp": "{v:0011}橋を修復したら、すぐに向かうと、{n}先方に伝えておいてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Tell them we'll head over as soon as we've repaired{n}the bridge.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0222",
    "jp": "王位奪還を手伝うために、{n}せっかくここまで来たのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We came all this way to help reclaim the throne...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0223",
    "jp": "これで戦争を終わらせられると思ったのに、{n}このままじゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I thought we'd finally be able to end the war, but if{n}this keeps up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0224",
    "jp": "どこかに抜け道はないのか？{n}奴らの背後に回り込むような抜け道は？",
-   "en": "",
-   "term": "end"
+   "en": "Isn't there another way through? Some way to get{n}behind them?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0225",
    "jp": "今まで持っていた王位を{n}そう簡単に手放すわけはありませんよね。{p}それにしても、橋を守っている敵兵ですが、{n}どうも柄が悪いように思えるんですよ。",
-   "en": "",
-   "term": "end"
+   "en": "I suppose he wouldn't give up the throne he's held{n}so easily.{p}Still, those enemy soldiers guarding the bridge seem{n}like a rather unsavory lot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0226",
    "jp": "やってらんねぇぜ！",
-   "en": "",
-   "term": "end"
+   "en": "I can't take this crap!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0227",
    "jp": "むぅ‥‥。{n}どうしたものか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... What are we to do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0228",
    "jp": "まったく困った事態です。",
-   "en": "",
-   "term": "end"
+   "en": "This is quite a predicament.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0229",
    "jp": "これで進軍できます！",
-   "en": "",
-   "term": "end"
+   "en": "Now we can advance!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0230",
    "jp": "ありがとうございます！",
-   "en": "",
-   "term": "end"
+   "en": "Thank you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0231",
    "jp": "あんた達、その人数でどうしてあの連中を？",
-   "en": "",
-   "term": "end"
+   "en": "How'd so few of you take down that whole lot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0232",
    "jp": "張り切って行くぜ！",
-   "en": "",
-   "term": "end"
+   "en": "All right, let's get moving!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0233",
    "jp": "‥‥よし！",
-   "en": "",
-   "term": "end"
+   "en": "...Right!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0234",
    "jp": "すごい人たちだな、君たちは。",
-   "en": "",
-   "term": "end"
+   "en": "You're quite a remarkable group.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0235",
    "jp": "ありがとうございました。{n}これでジュリアン将軍と合流できそうです。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you. Now we should be able to join up with{n}General Julian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0236",
    "jp": "あとはレティシア姫と一緒に戻るだけだね。",
-   "en": "",
-   "term": "end"
+   "en": "All that's left is to go back with Princess Leticia.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen095.0237",
@@ -1458,8 +1693,9 @@
   {
    "id": "scen095.0239",
    "jp": "おい、{s:0000}。{n}いったい、どこへ行くつもりだ？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, {s:0000}. Where do you think{n}you're going?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

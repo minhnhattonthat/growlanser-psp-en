@@ -15,38 +15,44 @@
   {
    "id": "scen166.0001",
    "jp": "医者",
-   "en": "",
-   "term": "null"
+   "en": "Doctor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen166.0002",
    "jp": "看護婦",
-   "en": "",
-   "term": "null"
+   "en": "Nurse",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen166.0003",
    "jp": "アルト",
-   "en": "",
-   "term": "null"
+   "en": "Alto",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen166.0004",
    "jp": "患者",
-   "en": "",
-   "term": "null"
+   "en": "Patient",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen166.0005",
    "jp": "婦長",
-   "en": "",
-   "term": "null"
+   "en": "Head Nurse",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen166.0006",
    "jp": "ラシェル保養施設",
-   "en": "",
-   "term": "end"
+   "en": "Rachelle Sanatorium",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0007",
@@ -111,8 +117,9 @@
   {
    "id": "scen166.0017",
    "jp": "なんだね？{n}診察なら順番を待ちたまえ。",
-   "en": "",
-   "term": "end"
+   "en": "What is it? If you want an examination, wait{n}your turn.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0018",
@@ -123,8 +130,9 @@
   {
    "id": "scen166.0019",
    "jp": "お見舞いに来られたのですか？",
-   "en": "",
-   "term": "end"
+   "en": "Are you here to visit a patient?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0020",
@@ -141,20 +149,23 @@
   {
    "id": "scen166.0022",
    "jp": "本当に‥‥良かったね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm really... so glad...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0023",
    "jp": "‥‥いったい、ミラはどこへ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Where in the world could Mira be...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0024",
    "jp": "‥‥ミラ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Mira...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0025",
@@ -183,20 +194,23 @@
   {
    "id": "scen166.0029",
    "jp": "ここは走っちゃだめですよ。",
-   "en": "",
-   "term": "end"
+   "en": "No running in here, please.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0030",
    "jp": "{n}　　　　　　　鍵がかかっている。",
-   "en": "",
-   "term": "end"
+   "en": "{n}　　　　　　　It's locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0031",
    "jp": "{n}　　　　　　　鍵がかかっている。{p}　　　　　　　　　　　　　　　　　{n}　　　　　が、中から声が聞こえる。",
-   "en": "",
-   "term": "end"
+   "en": "{n}　　　　　　　It's locked.{p}But you can hear voices inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0032",
@@ -207,8 +221,9 @@
   {
    "id": "scen166.0033",
    "jp": "世の中不思議なこともあるのねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "The world works in mysterious ways, doesn't it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0034",
@@ -225,38 +240,44 @@
   {
    "id": "scen166.0036",
    "jp": "具合はどうかな？",
-   "en": "",
-   "term": "end"
+   "en": "How are you feeling?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0037",
    "jp": "なんともない！",
-   "en": "",
-   "term": "end"
+   "en": "I'm fine!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0038",
    "jp": "だいぶ良くなったみたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "You seem to be doing much better.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0039",
    "jp": "もう、お外で遊んでもい～い？",
-   "en": "",
-   "term": "end"
+   "en": "Can I go outside and play nooow?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0040",
    "jp": "ああ、いいよ。",
-   "en": "",
-   "term": "end"
+   "en": "Yes, you can.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0041",
    "jp": "やったぁ！",
-   "en": "",
-   "term": "end"
+   "en": "Yaaay!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0042",
@@ -267,20 +288,23 @@
   {
    "id": "scen166.0043",
    "jp": "婦長。{n}そこの瓶を取っていただけませんか？",
-   "en": "",
-   "term": "end"
+   "en": "Head Nurse, could you pass me that bottle?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0044",
    "jp": "はい、これ！",
-   "en": "",
-   "term": "end"
+   "en": "Here you are!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0045",
    "jp": "ありがとうございます。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0046",
@@ -291,8 +315,9 @@
   {
    "id": "scen166.0047",
    "jp": "‥‥。{n}ここで働いていると、いろんな事を経験するわ。{n}もちろん、人の死も‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "... You experience all sorts of things working here.{n}Including death, of course...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0048",
@@ -303,8 +328,9 @@
   {
    "id": "scen166.0049",
    "jp": "あの人、いつ帰ってくるのかしら。{n}やっぱり勉強、忙しいのかな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I wonder when he'll come back. Is he really that busy{n}with his studies...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen166.0050",

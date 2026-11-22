@@ -15,546 +15,636 @@
   {
    "id": "scen036.0001",
    "jp": "村人",
-   "en": "",
-   "term": "null"
+   "en": "Villager",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen036.0002",
    "jp": "アイリーン",
-   "en": "",
-   "term": "null"
+   "en": "Irene",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen036.0003",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen036.0004",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen036.0005",
    "jp": "{v:003D}さて、用事はすんだし、帰るか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Well, that's taken care of. Time to head back...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0006",
    "jp": "{v:003E}あ、兄さん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Oh, Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0007",
    "jp": "{v:003F}何だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0008",
    "jp": "{v:0040}兄さん、どうしてここへ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Brother, what brought you here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0009",
    "jp": "{v:0041}お前の恩人が狙われてるとあっちゃ、{n}黙っていられないだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Someone's after the woman who helped you. You think{n}I could just sit back?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0010",
    "jp": "‥‥{v:0042}兄さん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0042}Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0011",
    "jp": "{v:0043}ま、俺が来る必要はなかったみたいだがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Still, looks like you didn't need me here after all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0012",
    "jp": "{v:0044}ううん、私嬉しいよ。{n}だって兄さんたら、{n}あまり会いに来てくれないんだから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}No, I'm glad you came. You hardly ever come to see me,{n}you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0013",
    "jp": "{v:0045}今、傭兵をやってるから、{n}そう自由な時間が取れねぇんだ。{n}すまねぇな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}I'm working as a mercenary now. Don't get much time to{n}myself. Sorry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0014",
    "jp": "{v:0046}あ、ゼノスさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}Oh, Xenos-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0015",
    "jp": "{v:0047}何だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0016",
    "jp": "{v:0048}どうしてアイリーンさんを探してたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Why were you looking for Irene-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0017",
    "jp": "{v:0049}彼女は妹の恩人だ。{n}その恩人が命を狙われているらしいって聞いたんでな。{p}{v:004B}ま、お前たちがいたから、{n}俺が来る必要はなかったみたいだがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}My sister owes her a lot. I heard someone was after{n}her life.{p}{v:004B}Still, with you lot here, looks like I didn't need to come.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0018",
    "jp": "{v:004C}そんなことは問題じゃないだろう。{n}ようは恩を返そうとしたお前の心の問題だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}That doesn't matter. What counts is that you wanted{n}to repay her kindness.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0019",
    "jp": "{FFF6}‥‥{v:004D}かもな。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}...{v:004D}Maybe.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0020",
    "jp": "{v:004E}それじゃ、俺はそろそろ行くぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Well, I'd better get going.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0021",
    "jp": "メディス村",
-   "en": "",
-   "term": "end"
+   "en": "Medis Village",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0022",
    "jp": "{v:0000}ん？{n}１人足りなくないか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Hm? Aren't we one short?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0023",
    "jp": "{v:0001}あれ‥‥ミーシャがいない‥‥。{n}さっきまではいたのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Huh...? Misha's gone... She was here just a{n}moment ago...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0024",
    "jp": "{v:0002}どっかで遊んでるんじゃないの？{n}この村にいることは間違いないんだから、{n}そのうち戻ってくるでしょ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Isn't she off playing somewhere? She's got to be in{n}the village, so she'll turn up sooner or later.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0025",
    "jp": "さぁ、アイリーンさんを探そうよ！",
-   "en": "",
-   "term": "end"
+   "en": "Come on, let's find Irene-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0026",
    "jp": "ちょっと！{n}どこへ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0027",
    "jp": "{v:0058}ああ！{n}待って、待って！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}Ah! Wait, wait!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0028",
    "jp": "{v:0059}何処行ってたのよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Where have you been?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0029",
    "jp": "{v:005A}ちょっと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Oh, just out.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0030",
    "jp": "{v:0010}あ、あの人ひょっとして‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Oh, could that be...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0031",
    "jp": "{v:0011}ごめんね、こんなことに巻き込んで‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}I'm sorry I got you mixed up in this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0032",
    "jp": "{v:0012}何をいうんだ、アイリーン。{n}君は僕が守る。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Don't say that, Irene. I'll protect you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0033",
    "jp": "{v:0013}どうやらグローシアンが狙われているというのは{n}本当のようだ。{n}僕が魔法学院まで送るよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}It looks like the rumors about Growsians being{n}targeted are true. I'll take you to the Magic Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0034",
    "jp": "{v:0014}ありがとう、ニック。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Thank you, Nick.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0035",
    "jp": "{v:0015}俺の子分をかわいがってくれたのはお前だな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}So you're the one who roughed up my boys?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0036",
    "jp": "{v:0016}誰だ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Who's there?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0037",
    "jp": "{v:0017}この間の野盗の親玉か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}The leader of those bandits from before...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0038",
    "jp": "{v:0018}俺様が来たからには、貴様に一片の勝機もない。{n}俺に勝てるような奴は、いないんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Now that I'm here, you haven't got a chance. Nobody{n}can beat me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0039",
    "jp": "{v:0019}逃げろ、アイリーン！{n}こいつらは僕がくい止める！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Run, Irene! I'll hold them off!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0040",
    "jp": "{v:001A}でも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0041",
    "jp": "{v:001B}いいから、逃げろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Just run!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0042",
    "jp": "{v:001C}また、あいつ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}That guy again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0043",
    "jp": "{v:001D}そんなこと言ってる時じゃないよ！{n}アイリーンさん達が危ないんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}This isn't the time for that! Irene-san and the others{n}are in danger!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0044",
    "jp": "{v:0007}この村の西側は薬草が育つのに適した土地なんだ。{n}だから、自生している薬草の他に、{n}栽培だって出来るんだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}The land west of this village is ideal for medicinal{n}herbs. We can cultivate them there as well as gather{n}the ones growing wild.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0045",
    "jp": "{v:0008}えっ、花畑？{n}それはないなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Huh? A flower garden? No, nothing like that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0046",
    "jp": "{v:0009}まぁ、個人が作る鉢植え程度ならともかく、{n}この村は薬草栽培一筋だから、{n}花畑は一度も作ったことはないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Well, people might keep a few potted plants, but this{n}village is devoted to growing medicinal herbs. We've{n}never planted a flower garden.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0047",
    "jp": "{v:000A}花畑は作ったことがない～？{p}{v:000B}ミーシャ、ここに花畑があるって言ってたのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}You've neeever planted a flower garden?{p}{v:000B}But Misha said there was one here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0048",
    "jp": "ふうっ！{n}いったい何だったんだ、奴らは！？{p}ま、君たちのおかげで助かったから良かったけど。{n}ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "Phew! Who on earth were those people?!{p}Well, at least we're safe, thanks to you. Thank you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0049",
    "jp": "戦いなんて初めて身近で見たけど‥‥、{n}本当に生きた心地がしなかったわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I've never seen a fight up close before... I was scared{n}out of my wits...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0050",
    "jp": "ニックさん？{n}あら、そういえば今日は見かけてないわね。{p}真面目な人だから、巡回に出かけたんじゃないかしら。",
-   "en": "",
-   "term": "end"
+   "en": "Nick-san? Oh, come to think of it, I haven't seen{n}him today.{p}He's so dedicated. I wonder if he's out on patrol.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0051",
    "jp": "この村で採れる薬草の質が高いのは、{n}自生していたときと同じ環境を維持しながら、{n}手作業で害虫や雑草を取っているからよ。",
-   "en": "",
-   "term": "end"
+   "en": "Our medicinal herbs are such high quality because we{n}keep their growing conditions just as they were in the{n}wild, and remove pests and weeds by hand.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0052",
    "jp": "あら、あなたがニックさんの恋人さんね。{n}羨ましいわね、あんな真面目な人が恋人で。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, you must be Nick-san's sweetheart. I'm envious.{n}Such a dependable man to have for a boyfriend!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0053",
    "jp": "そ、そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "O-oh, I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0054",
    "jp": "アイリーンさん、顔真っ赤だよ♪",
-   "en": "",
-   "term": "end"
+   "en": "Irene-san, you're bright red!♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0055",
    "jp": "も、もう‥‥からかわないで。",
-   "en": "",
-   "term": "end"
+   "en": "O-oh, stop... Don't tease me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0056",
    "jp": "は～い★",
-   "en": "",
-   "term": "end"
+   "en": "Okaaay!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0057",
    "jp": "いいなぁ～。{n}私もニックさんみたいなカレシが欲しいなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Lucky you... I wish I had a boyfriend like Nick-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0058",
    "jp": "殺されちゃうかと思ったわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I thought they were going to kill me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0059",
    "jp": "アイリーン？{n}‥‥誰のことかしら？{p}ああ、ニックさんの恋人ね。{n}ごめんなさい、どこにいるかは知らないの。",
-   "en": "",
-   "term": "end"
+   "en": "Irene? ...Who might that be?{p}Oh, Nick-san's sweetheart. I'm sorry, I don't know where{n}she is.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0060",
    "jp": "ごめんなさい。{n}どこにいるかは知らないの。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorry. I don't know where she is.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0061",
    "jp": "そこの大きな家のブラッドレーさん、{n}この村の出世頭なのよ。{n}なにしろ、魔法学院の副学院長なんですから。",
-   "en": "",
-   "term": "end"
+   "en": "Bradley-san, who lives in that big house, is the most{n}successful person from our village. He's the Vice{n}Headmaster of the Magic Academy, you know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0062",
    "jp": "{v:001A}おう、いらっしゃい。{n}ここは道具を売ってる店だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Hey, welcome. This here's an item shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0063",
    "jp": "{v:001B}買いに来たのか？{n}それとも何か売る気か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Here to buy? Or have you got something to sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0064",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen036.0065",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen036.0066",
    "jp": "まだ何か用か？",
-   "en": "",
-   "term": "end"
+   "en": "Need anything else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0067",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen036.0068",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen036.0069",
    "jp": "{v:0025}じゃあな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}See ya.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0070",
    "jp": "{v:0057}では、彼女をよろしくお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Then please take good care of her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0071",
    "jp": "{v:004F}ありがとう。{n}おかげで助かったよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Thank you. You saved us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0072",
    "jp": "{v:0050}助かりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}You saved me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0073",
    "jp": "{v:0051}ありがとう。{n}おかげでアイリーンは無事だったよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}Thank you. Irene is safe thanks to you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0074",
    "jp": "{v:0052}すまない。{n}君までは守りきれなかった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}I'm sorry. I couldn't protect you along with her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0075",
    "jp": "{v:0053}気にしないでくれ。{n}自分の弱さがまねいた怪我だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Don't worry about it. I got hurt because I wasn't{n}strong enough.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0076",
    "jp": "{v:0054}ニック‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Nick...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0077",
    "jp": "{v:0055}アタシたち、アルカディウス王の命令で来たの。{n}アイリーンさんを魔法学院に連れて行くようにって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}King Alcadius sent us. We're supposed to take{n}Irene-san to the Magic Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0078",
    "jp": "{v:0056}そうですか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0079",
    "jp": "　{n}　　　　{FFEF}アイリーンが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Irene is now accompanying the party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0080",
    "jp": "鍵がかかっているようだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It seems to be locked...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0081",
    "jp": "{v:000C}ここにいるかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Could she be here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0082",
    "jp": "{v:000D}とにかく探してみましょ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Let's have a look around!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0083",
    "jp": "{v:000E}ここまで探していないってことは、{n}ここには来なかったってことかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}We've searched all this way and haven't found her.{n}Maybe she never came here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0084",
    "jp": "{v:000F}これ以上先はないから、もう村に戻ろうよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}This is as far as we can go. Let's head back to{n}the village.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0085",
    "jp": "お客様、勝手に入られては困ります。{n}お泊まりの際は、こちらにお申し付け下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please don't go in without checking with us first. If{n}you'd like a room, just ask here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0086",
    "jp": "いらっしゃいませ。{n}１泊、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Welcome. A night's stay is {FFEB} Elm. Would you like a room?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0087",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0088",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0089",
    "jp": "お泊まりの際は、お声をかけて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please let me know if you'd like to stay.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen036.0090",
    "jp": "ダメだよ、お兄ちゃん！{n}アイリーンさんはどうするの？",
-   "en": "",
-   "term": "end"
+   "en": "We can't, Big Brother! What about Irene-san?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

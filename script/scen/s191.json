@@ -15,44 +15,51 @@
   {
    "id": "scen191.0001",
    "jp": "看護婦",
-   "en": "",
-   "term": "null"
+   "en": "Nurse",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen191.0002",
    "jp": "忠犬ペチ",
-   "en": "",
-   "term": "null"
+   "en": "Loyal Dog Pechi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen191.0003",
    "jp": "患者",
-   "en": "",
-   "term": "null"
+   "en": "Patient",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen191.0004",
    "jp": "アイリーン",
-   "en": "",
-   "term": "null"
+   "en": "Irene",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen191.0005",
    "jp": "医者",
-   "en": "",
-   "term": "null"
+   "en": "Doctor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen191.0006",
    "jp": "そろそろ集合時間だね。",
-   "en": "",
-   "term": "end"
+   "en": "It's almost time to meet up.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0007",
    "jp": "{n}　　　　　　　鍵がかかっている。",
-   "en": "",
-   "term": "end"
+   "en": "{n}　　　　　　　It's locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0008",
@@ -63,194 +70,226 @@
   {
    "id": "scen191.0009",
    "jp": "俺は客でも患者でも、医者でもない。{n}それじゃ何だって？{p}ここがこれだけ整備されているのは、{n}俺たちが影ながら働いているからだ！",
-   "en": "",
-   "term": "end"
+   "en": "I'm no visitor, patient, or doctor. So what am I,{n}you ask?{p}This place is so well maintained because we're working{n}behind the scenes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0010",
    "jp": "最近の子供は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Kids these days...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0011",
    "jp": "お兄ちゃん達、{n}僕のプロポーズをジャマしないでよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you guys! Don't get in the way of my proposal!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0012",
    "jp": "ねぇ、いいだろ？{n}ぜったい、しあわせにするからさ。",
-   "en": "",
-   "term": "end"
+   "en": "Come on, say yes! I promise I'll make you happy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0013",
    "jp": "僕たちの出会いは、ぐうぜんじゃないと思うんだ。",
-   "en": "",
-   "term": "end"
+   "en": "I don't think we met by chance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0014",
    "jp": "おお、マイ・エンジェル！{n}キミは神が僕のためにつかわした天使だ！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, my angel! You're an angel sent by God just for me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0015",
    "jp": "‥‥月並みなセリフね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...What a tired old line...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0016",
    "jp": "‥‥ちょっとは考えちゃうかも{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "...Maybe I'll give it a little thought{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0017",
    "jp": "‥‥でも、結婚するなら、お金持ちじゃないとね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...But if I'm going to marry someone, he has to be rich...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0018",
    "jp": "保養所にご用ですか？{p}東にある宿屋の前を通って、北に行けばすぐですよ。{n}一本道ですから。",
-   "en": "",
-   "term": "end"
+   "en": "Are you looking for the sanatorium?{p}Pass the inn to the east, then head north. It's just{n}along that road.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0019",
    "jp": "イベント番号は{FFEB}番。",
-   "en": "",
-   "term": "end"
+   "en": "Event number: {FFEB}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0020",
    "jp": "休暇{FFEB}",
-   "en": "",
-   "term": "end"
+   "en": "Vacation{FFEB}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0021",
    "jp": "カウンタ２は{FFEB}番。",
-   "en": "",
-   "term": "end"
+   "en": "Counter 2: {FFEB}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0022",
    "jp": "仲間１はミーシャ。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Misha.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0023",
    "jp": "仲間１はアリオスト。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Ariost.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0024",
    "jp": "仲間１はカレン。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Karen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0025",
    "jp": "仲間１はエリオット。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Elliot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0026",
    "jp": "仲間１はジュリアン。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Julian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0027",
    "jp": "仲間１はゼノス。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 1 is Xenos.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0028",
    "jp": "仲間２はミーシャ。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Misha.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0029",
    "jp": "仲間２はアリオスト。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Ariost.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0030",
    "jp": "仲間２はカレン。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Karen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0031",
    "jp": "仲間２はエリオット。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Elliot.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0032",
    "jp": "仲間２はジュリアン。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Julian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0033",
    "jp": "仲間２はゼノス。",
-   "en": "",
-   "term": "end"
+   "en": "Companion 2 is Xenos.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0034",
    "jp": "セーブＯＮにする？",
-   "en": "",
-   "term": "end"
+   "en": "Enable saving?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0035",
    "jp": "{n}　　　　　　　　　　準備中",
-   "en": "",
-   "term": "end"
+   "en": "{n}　　　　　　　　　　Not open yet",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0036",
    "jp": "お天気、だ～い好き{FFF0}♥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "I looove sunny weather{FFF0}♥{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0037",
    "jp": "‥‥{v:00D3}あ。{p}{v:00D4}ねぇ、どうする？{n}カレンさん、思い詰めた顔してるけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:00D3}Oh.{p}{v:00D4}Hey, what should we do? Karen-san looks{n}really troubled...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0038",
    "jp": "そっとしておこうよ。",
-   "en": "",
-   "term": "end"
+   "en": "Let's leave her be.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0039",
    "jp": "くぅ～ん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "*whine*...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0040",
    "jp": "{FFF3}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0041",
@@ -267,140 +306,163 @@
   {
    "id": "scen191.0043",
    "jp": "おやおや、{n}私をたずねて来てくれたのかい？",
-   "en": "",
-   "term": "end"
+   "en": "Well, well. Have you come to visit me?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0044",
    "jp": "お見舞いですか？",
-   "en": "",
-   "term": "end"
+   "en": "Are you here to visit a patient?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0045",
    "jp": "保養所内ではお静かにね。",
-   "en": "",
-   "term": "end"
+   "en": "Please keep your voices down inside the sanatorium.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0046",
    "jp": "ヒマだな～。{n}お兄ちゃん、遊んでよ。",
-   "en": "",
-   "term": "end"
+   "en": "I'm so booored. Play with me, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0047",
    "jp": "今日も天気だ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Another sunny day...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0048",
    "jp": "カレンさんってよく働く人ね。",
-   "en": "",
-   "term": "end"
+   "en": "Karen-san really does work hard, doesn't she?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0049",
    "jp": "違う、これじゃない！",
-   "en": "",
-   "term": "end"
+   "en": "No, this isn't it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0050",
    "jp": "いったいどれなの？",
-   "en": "",
-   "term": "end"
+   "en": "Which one is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0051",
    "jp": "お父さんをこんな村に住ませてあげたいわ。",
-   "en": "",
-   "term": "end"
+   "en": "I'd love for Father to live in a village like this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0052",
    "jp": "こら、外へ出たら連絡が取れなくなるでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! If you go outside, they won't be able to reach you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0053",
    "jp": "みんなを置いて、どこへ行こうってのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going, leaving{n}everyone behind?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0054",
    "jp": "今日はここで一日過ごすんでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "We're spending the whole day here, remember?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0055",
    "jp": "さて、解散しましょ～か。{n}集合時間に遅れないようにね。",
-   "en": "",
-   "term": "end"
+   "en": "Okaaay, let's split up! Don't be late getting back, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0056",
    "jp": "アタシたちも行こっか？",
-   "en": "",
-   "term": "end"
+   "en": "Wanna get going, too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0057",
    "jp": "お兄ちゃん、アリオストさんのおかげで{n}ミーシャは立ち直ってくれたよ。",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, thanks to Ariost-san, Misha's feeling like{n}herself again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0058",
    "jp": "みんなそろったよね？{n}じゃあ、戻ろうか。",
-   "en": "",
-   "term": "end"
+   "en": "Everyone's here, right? Then let's head back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0059",
    "jp": "私、保養所を手伝って来ます。",
-   "en": "",
-   "term": "end"
+   "en": "I'm going to help out at the sanatorium.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0060",
    "jp": "俺も、保養所にいるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll be at the sanatorium, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0061",
    "jp": "保養所にいるぜ。",
-   "en": "",
-   "term": "end"
+   "en": "I'll be at the sanatorium.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0062",
    "jp": "‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0063",
    "jp": "じゃあ、夕方ここでな。{n}みんな、集合に遅れるんじゃねぇぞ。",
-   "en": "",
-   "term": "end"
+   "en": "See you here this evening, then. Don't any of you{n}be late.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0064",
    "jp": "お兄ちゃん。{n}わたし、どうしてもミーシャの事が気になるの。{n}ちょっと行ってくる。",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, I just can't stop worrying about Misha. I'm{n}going to go see her.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen191.0065",
    "jp": "ルイセ君、僕も頼む。",
-   "en": "",
-   "term": "end"
+   "en": "Luise-kun, let me come along, too.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

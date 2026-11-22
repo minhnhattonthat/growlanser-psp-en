@@ -9,380 +9,443 @@
   {
    "id": "boot.skills.0000",
    "jp": "クリティカル１",
-   "en": "",
-   "term": "null"
+   "en": "Critical 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0001",
    "jp": "クリティカル２",
-   "en": "",
-   "term": "null"
+   "en": "Critical 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0002",
    "jp": "クリティカル３",
-   "en": "",
-   "term": "null"
+   "en": "Critical 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0003",
    "jp": "毒攻撃１",
-   "en": "",
-   "term": "null"
+   "en": "Poison Attack 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0004",
    "jp": "毒攻撃２",
-   "en": "",
-   "term": "null"
+   "en": "Poison Attack 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0005",
    "jp": "毒攻撃３",
-   "en": "",
-   "term": "null"
+   "en": "Poison Attack 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0006",
    "jp": "猛毒攻撃１",
-   "en": "",
-   "term": "null"
+   "en": "Venom Attack 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0007",
    "jp": "猛毒攻撃２",
-   "en": "",
-   "term": "null"
+   "en": "Venom Attack 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0008",
    "jp": "猛毒攻撃３",
-   "en": "",
-   "term": "null"
+   "en": "Venom Attack 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0009",
    "jp": "マヒ攻撃１",
-   "en": "",
-   "term": "null"
+   "en": "Paralysis Attack 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0010",
    "jp": "マヒ攻撃２",
-   "en": "",
-   "term": "null"
+   "en": "Paralysis Attack 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0011",
    "jp": "マヒ攻撃３",
-   "en": "",
-   "term": "null"
+   "en": "Paralysis Attack 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0012",
    "jp": "石化攻撃１",
-   "en": "",
-   "term": "null"
+   "en": "Petrify Attack 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0013",
    "jp": "石化攻撃２",
-   "en": "",
-   "term": "null"
+   "en": "Petrify Attack 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0014",
    "jp": "石化攻撃３",
-   "en": "",
-   "term": "null"
+   "en": "Petrify Attack 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0015",
    "jp": "腕つぶし",
-   "en": "",
-   "term": "null"
+   "en": "Arm Crush",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0016",
    "jp": "ソウルクラッシュ",
-   "en": "",
-   "term": "null"
+   "en": "Soul Crush",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0017",
    "jp": "全周囲攻撃１",
-   "en": "",
-   "term": "null"
+   "en": "Whirlwind Attack 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0018",
    "jp": "全周囲攻撃２",
-   "en": "",
-   "term": "null"
+   "en": "Whirlwind Attack 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0019",
    "jp": "全周囲攻撃３",
-   "en": "",
-   "term": "null"
+   "en": "Whirlwind Attack 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0020",
    "jp": "連続攻撃１",
-   "en": "",
-   "term": "null"
+   "en": "Chain Attack 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0021",
    "jp": "連続攻撃２",
-   "en": "",
-   "term": "null"
+   "en": "Chain Attack 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0022",
    "jp": "連続攻撃３",
-   "en": "",
-   "term": "null"
+   "en": "Chain Attack 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0023",
    "jp": "盗む１",
-   "en": "",
-   "term": "null"
+   "en": "Steal 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0024",
    "jp": "盗む２",
-   "en": "",
-   "term": "null"
+   "en": "Steal 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0025",
    "jp": "盗む３",
-   "en": "",
-   "term": "null"
+   "en": "Steal 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0026",
    "jp": "硬直延長",
-   "en": "",
-   "term": "null"
+   "en": "Longer Stun",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0027",
    "jp": "解毒能力",
-   "en": "",
-   "term": "null"
+   "en": "Detoxification",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0028",
    "jp": "マヒ無効化",
-   "en": "",
-   "term": "null"
+   "en": "Paralysis Immunity",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0029",
    "jp": "石化無効化",
-   "en": "",
-   "term": "null"
+   "en": "Petrify Immunity",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0030",
    "jp": "デス無効化",
-   "en": "",
-   "term": "null"
+   "en": "Death Immunity",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0031",
    "jp": "魔力吸収",
-   "en": "",
-   "term": "null"
+   "en": "Magic Absorption",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0032",
    "jp": "分身",
-   "en": "",
-   "term": "null"
+   "en": "Mirror Image",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0033",
    "jp": "カウンター１",
-   "en": "",
-   "term": "null"
+   "en": "Counter 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0034",
    "jp": "カウンター２",
-   "en": "",
-   "term": "null"
+   "en": "Counter 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0035",
    "jp": "カウンター３",
-   "en": "",
-   "term": "null"
+   "en": "Counter 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0036",
    "jp": "スペルターニング",
-   "en": "",
-   "term": "null"
+   "en": "Spell Turning",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0037",
    "jp": "硬直短縮",
-   "en": "",
-   "term": "null"
+   "en": "Shorter Stun",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0038",
    "jp": "詠唱時間短縮",
-   "en": "",
-   "term": "null"
+   "en": "Faster Casting",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0039",
    "jp": "道具実行時間短縮",
-   "en": "",
-   "term": "null"
+   "en": "Faster Item Use",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0040",
    "jp": "リジェネレート",
-   "en": "",
-   "term": "null"
+   "en": "Regenerate",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0041",
    "jp": "超リジェネレート",
-   "en": "",
-   "term": "null"
+   "en": "Super Regenerate",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0042",
    "jp": "ＭＰ回復",
-   "en": "",
-   "term": "null"
+   "en": "MP Recovery",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0043",
    "jp": "俊足１",
-   "en": "",
-   "term": "null"
+   "en": "Fleetfoot 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0044",
    "jp": "俊足２",
-   "en": "",
-   "term": "null"
+   "en": "Fleetfoot 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0045",
    "jp": "俊足３",
-   "en": "",
-   "term": "null"
+   "en": "Fleetfoot 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0046",
    "jp": "水上移動",
-   "en": "",
-   "term": "null"
+   "en": "Water Walking",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0047",
    "jp": "飛行",
-   "en": "",
-   "term": "null"
+   "en": "Flight",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0048",
    "jp": "壁抜け",
-   "en": "",
-   "term": "null"
+   "en": "Wall Passing",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0049",
    "jp": "ＨＰアップ１",
-   "en": "",
-   "term": "null"
+   "en": "HP Up 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0050",
    "jp": "ＨＰアップ２",
-   "en": "",
-   "term": "null"
+   "en": "HP Up 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0051",
    "jp": "ＨＰアップ３",
-   "en": "",
-   "term": "null"
+   "en": "HP Up 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0052",
    "jp": "ＭＰアップ１",
-   "en": "",
-   "term": "null"
+   "en": "MP Up 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0053",
    "jp": "ＭＰアップ２",
-   "en": "",
-   "term": "null"
+   "en": "MP Up 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0054",
    "jp": "ＭＰアップ３",
-   "en": "",
-   "term": "null"
+   "en": "MP Up 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0055",
    "jp": "魔力アップ１",
-   "en": "",
-   "term": "null"
+   "en": "Magic Power Up 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0056",
    "jp": "魔力アップ２",
-   "en": "",
-   "term": "null"
+   "en": "Magic Power Up 2",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0057",
    "jp": "魔力アップ３",
-   "en": "",
-   "term": "null"
+   "en": "Magic Power Up 3",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0058",
    "jp": "Ｓ異常無効",
-   "en": "",
-   "term": "null"
+   "en": "Status Immunity",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0059",
    "jp": "完全攻撃",
-   "en": "",
-   "term": "null"
+   "en": "Perfect Attack",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0060",
    "jp": "全アップ",
-   "en": "",
-   "term": "null"
+   "en": "All Stats Up",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0061",
    "jp": "全毒攻撃",
-   "en": "",
-   "term": "null"
+   "en": "All-Poison Attack",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0062",
    "jp": "断",
-   "en": "",
-   "term": "null"
+   "en": "Sever",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0063",
@@ -609,8 +672,9 @@
   {
    "id": "boot.skills.0100",
    "jp": "セ",
-   "en": "",
-   "term": "null"
+   "en": "Se",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.skills.0101",

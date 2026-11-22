@@ -15,8 +15,9 @@
   {
    "id": "scen289.0001",
    "jp": "鉱夫",
-   "en": "",
-   "term": "null"
+   "en": "Miner",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen289.0002",
@@ -87,8 +88,9 @@
   {
    "id": "scen289.0013",
    "jp": "{v:0032}間に合わなかった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}We didn't make it in time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen289.0014",

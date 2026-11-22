@@ -39,164 +39,191 @@
   {
    "id": "boot.sys.0005",
    "jp": "・はい",
-   "en": "",
-   "term": "null"
+   "en": "・Yes",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0006",
    "jp": "・いいえ",
-   "en": "",
-   "term": "null"
+   "en": "・No",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0007",
    "jp": "攻撃方法",
-   "en": "",
-   "term": "null"
+   "en": "Attack Method",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0008",
    "jp": "魔法制限",
-   "en": "",
-   "term": "null"
+   "en": "Magic Restrictions",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0009",
    "jp": "優先魔法",
-   "en": "",
-   "term": "null"
+   "en": "Magic Priority",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0010",
    "jp": "アイテム",
-   "en": "",
-   "term": "null"
+   "en": "Items",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0011",
    "jp": "確実に",
-   "en": "",
-   "term": "null"
+   "en": "Play It Safe",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0012",
    "jp": "騎士道精神",
-   "en": "",
-   "term": "null"
+   "en": "Chivalry",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0013",
    "jp": "回避重視",
-   "en": "",
-   "term": "null"
+   "en": "Prioritize Evasion",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0014",
    "jp": "全力",
-   "en": "",
-   "term": "null"
+   "en": "Full Power",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0015",
    "jp": "普通",
-   "en": "",
-   "term": "null"
+   "en": "Normal",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0016",
    "jp": "控えめ",
-   "en": "",
-   "term": "null"
+   "en": "Conservative",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0017",
    "jp": "使用禁止",
-   "en": "",
-   "term": "null"
+   "en": "Do Not Use",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0018",
    "jp": "攻撃優先",
-   "en": "",
-   "term": "null"
+   "en": "Prioritize Attack",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0019",
    "jp": "援護優先",
-   "en": "",
-   "term": "null"
+   "en": "Prioritize Support",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0020",
    "jp": "回復優先",
-   "en": "",
-   "term": "null"
+   "en": "Prioritize Healing",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0021",
    "jp": "制限無し",
-   "en": "",
-   "term": "null"
+   "en": "No Restrictions",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0022",
    "jp": "回復のみ",
-   "en": "",
-   "term": "null"
+   "en": "Healing Only",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0023",
    "jp": "すべて装備中です。",
-   "en": "",
-   "term": "null"
+   "en": "All are currently equipped.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0024",
    "jp": "未使用",
-   "en": "",
-   "term": "null"
+   "en": "Unused",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0025",
    "jp": "破損データ",
-   "en": "",
-   "term": "null"
+   "en": "Corrupted Data",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0026",
    "jp": "セーブデータがありません。",
-   "en": "",
-   "term": "null"
+   "en": "There is no save data.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0027",
    "jp": "２ブロック以上の空きがありません",
-   "en": "",
-   "term": "null"
+   "en": "Fewer than two free blocks remain.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0028",
    "jp": "接続されていません。",
-   "en": "",
-   "term": "null"
+   "en": "Not connected.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0029",
    "jp": "初期化されていません。",
-   "en": "",
-   "term": "null"
+   "en": "Not formatted.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0030",
    "jp": "接続されました。",
-   "en": "",
-   "term": "null"
+   "en": "Connected.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0031",
    "jp": "調べています。",
-   "en": "",
-   "term": "null"
+   "en": "Checking...",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0032",
@@ -207,224 +234,261 @@
   {
    "id": "boot.sys.0033",
    "jp": "います。しばらくお待ちください。",
-   "en": "",
-   "term": "null"
+   "en": "... Please wait.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0034",
    "jp": "セーブしています。",
-   "en": "",
-   "term": "null"
+   "en": "Saving...",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0035",
    "jp": "ロードしています。",
-   "en": "",
-   "term": "null"
+   "en": "Loading...",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0036",
    "jp": "セーブに失敗しました。",
-   "en": "",
-   "term": "null"
+   "en": "Save failed.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0037",
    "jp": "ロードに失敗しました。",
-   "en": "",
-   "term": "null"
+   "en": "Load failed.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0038",
    "jp": "破損データはロードできません。",
-   "en": "",
-   "term": "null"
+   "en": "Corrupted data cannot be loaded.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0039",
    "jp": "セーブデータを上書きします。",
-   "en": "",
-   "term": "null"
+   "en": "The save data will be overwritten.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0040",
    "jp": "セーブデータを作成します。",
-   "en": "",
-   "term": "null"
+   "en": "New save data will be created.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0041",
    "jp": "セーブデータをロードします。",
-   "en": "",
-   "term": "null"
+   "en": "The save data will be loaded.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0042",
    "jp": "よろしいですか？",
-   "en": "",
-   "term": "null"
+   "en": "Proceed?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0043",
    "jp": "差込口１のメモリーカードが初期化",
-   "en": "",
-   "term": "null"
+   "en": "The Memory Card in slot 1 has not been",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0044",
    "jp": "されていません。初期化しますか？",
-   "en": "",
-   "term": "null"
+   "en": "formatted. Format it now?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0045",
    "jp": "メモリーカードを初期化中です。",
-   "en": "",
-   "term": "null"
+   "en": "Formatting the Memory Card...",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0046",
    "jp": "初期化に失敗しました。",
-   "en": "",
-   "term": "null"
+   "en": "Formatting failed.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0047",
    "jp": "セーブを終了しました。",
-   "en": "",
-   "term": "null"
+   "en": "Save complete.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0048",
    "jp": "ロードを終了しました。",
-   "en": "",
-   "term": "null"
+   "en": "Load complete.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0049",
    "jp": "初期化を終了しました。",
-   "en": "",
-   "term": "null"
+   "en": "Formatting complete.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0050",
    "jp": "現在使える魔法がありません。",
-   "en": "",
-   "term": "null"
+   "en": "No magic is currently available.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0051",
    "jp": "魔法もスキルもおぼえていません。",
-   "en": "",
-   "term": "null"
+   "en": "No magic or skills have been learned.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0052",
    "jp": "なにも持っていません。",
-   "en": "",
-   "term": "null"
+   "en": "You are not carrying anything.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0053",
    "jp": "装備中です",
-   "en": "",
-   "term": "null"
+   "en": "Equipped",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0054",
    "jp": "ここでよろしいですか？{n}　・はい{n}　・いいえ",
-   "en": "",
-   "term": "null"
+   "en": "Is this location all right?{n}- Yes{n}- No",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0055",
    "jp": "魔法の詠唱が終わりました。{n}発動しますか？",
-   "en": "",
-   "term": "null"
+   "en": "The incantation is complete.{n}Cast the spell?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0056",
    "jp": "これでよろしいですか？{n}　・はい{n}　・いいえ",
-   "en": "",
-   "term": "null"
+   "en": "Is this all right?{n}- Yes{n}- No",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0057",
    "jp": "！",
-   "en": "",
-   "term": "null"
+   "en": "!",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0058",
    "jp": "{FFEA}の発動",
-   "en": "",
-   "term": "null"
+   "en": "Cast {FFEA}",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0059",
    "jp": "{FFEA}の詠唱",
-   "en": "",
-   "term": "null"
+   "en": "Chant {FFEA}",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0060",
    "jp": "{FFE8}の使用",
-   "en": "",
-   "term": "null"
+   "en": "Use {FFE8}",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0061",
    "jp": "{FFE8}の装着",
-   "en": "",
-   "term": "null"
+   "en": "Equip {FFE8}",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0062",
    "jp": "魔法",
-   "en": "",
-   "term": "null"
+   "en": "Magic",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0063",
    "jp": "道具",
-   "en": "",
-   "term": "null"
+   "en": "Items",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0064",
    "jp": "装備",
-   "en": "",
-   "term": "null"
+   "en": "Equipment",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0065",
    "jp": "ステータス",
-   "en": "",
-   "term": "null"
+   "en": "Status",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0066",
    "jp": "戦略",
-   "en": "",
-   "term": "null"
+   "en": "Strategy",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0067",
    "jp": "システム",
-   "en": "",
-   "term": "null"
+   "en": "System",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0068",
    "jp": "テレポートの目的地を指定してください。",
-   "en": "",
-   "term": "null"
+   "en": "Select a teleport destination.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0069",
    "jp": "名前の入力　かなカナ英字消去決定",
-   "en": "",
-   "term": "null"
+   "en": "Enter Name　Hira Kata ABC Del OK",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0070",
@@ -609,278 +673,324 @@
   {
    "id": "boot.sys.0100",
    "jp": "これでよろしいですか？",
-   "en": "",
-   "term": "null"
+   "en": "Is this all right?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0101",
    "jp": "この名前は使用できません。",
-   "en": "",
-   "term": "null"
+   "en": "This name cannot be used.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0102",
    "jp": "　　　　　　　　　{FFEE}成長率表示{FFF1}{n}{s:0000}の成長度合いを示したグラフです。{n}外側に近いパラメータほど、より高く成長します。",
-   "en": "",
-   "term": "null"
+   "en": "　　　　　　　　　{FFEE}Growth Rates{FFF1}{n}A graph of {s:0000}'s growth potential.{n}Stats farther out have higher growth rates.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0103",
    "jp": "ＨＰ倍率{n}ＭＰ倍率{n}　体力{n}　知力{n}移動力{n}防御力{n}攻撃力",
-   "en": "",
-   "term": "null"
+   "en": "HP{n}MP{n}Vitality{n}Intellect{n}Move{n}Defense{n}Attack",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0104",
    "jp": "いくつ買いたいんだい？",
-   "en": "",
-   "term": "null"
+   "en": "How many would you like to buy?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0105",
    "jp": "おいくつお売りしましょうか？",
-   "en": "",
-   "term": "null"
+   "en": "How many shall I sell you?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0106",
    "jp": "いくつ欲しいんだ？",
-   "en": "",
-   "term": "null"
+   "en": "How many do you want?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0107",
    "jp": "いくつ欲しいのかのぅ？",
-   "en": "",
-   "term": "null"
+   "en": "How many would you like, eh?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0108",
    "jp": "おいくつお買い求めになられますか？",
-   "en": "",
-   "term": "null"
+   "en": "How many would you care to purchase?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0109",
    "jp": "それで、いくつ欲しいの？",
-   "en": "",
-   "term": "null"
+   "en": "So, how many would you like?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0110",
    "jp": "これでいいかい？",
-   "en": "",
-   "term": "null"
+   "en": "Is that all right?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0111",
    "jp": "これでいいな？",
-   "en": "",
-   "term": "null"
+   "en": "That'll do, right?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0112",
    "jp": "これでよいかのぅ？",
-   "en": "",
-   "term": "null"
+   "en": "Will that do, eh?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0113",
    "jp": "これで構わないかしら？",
-   "en": "",
-   "term": "null"
+   "en": "Would that be all right, dear?",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0114",
    "jp": "またおいで～。待ってるよ～。",
-   "en": "",
-   "term": "null"
+   "en": "Come agaaain! I'll be waiting!",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0115",
    "jp": "またどうぞ、お越しください。",
-   "en": "",
-   "term": "null"
+   "en": "Please do visit us again.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0116",
    "jp": "じゃあな。",
-   "en": "",
-   "term": "null"
+   "en": "See ya.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0117",
    "jp": "また来ておくれ。",
-   "en": "",
-   "term": "null"
+   "en": "Do come back, now.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0118",
    "jp": "ありがとうございました！{n}またどうぞ、お越しください。",
-   "en": "",
-   "term": "null"
+   "en": "Thank you very much!{n}Please do visit us again.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0119",
    "jp": "また来てよね。{n}素敵な笑顔で待ってるから。",
-   "en": "",
-   "term": "null"
+   "en": "Come back, all right?{n}I'll have a lovely smile waiting for you.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0120",
    "jp": "これからもスキマ屋をよろしくね。",
-   "en": "",
-   "term": "null"
+   "en": "Visit Nook Shop!",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0121",
    "jp": "サウンド{n}ＢＧＭ{n}効果音{n}メニュー音声{n}メッセージ音声{n}メッセージ速度{n}コマンド説明表示{n}戦闘時範囲確認{n}ティピの可能性",
-   "en": "",
-   "term": "null"
+   "en": "Sound{n}Background Music{n}Sound Effects{n}Menu Voices{n}Dialogue Voices{n}Text Speed{n}Command Help{n}Battle Range{n}Tippi's Potential",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0122",
    "jp": "ＯＮ",
-   "en": "",
-   "term": "null"
+   "en": "ON",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0123",
    "jp": "ＯＦＦ",
-   "en": "",
-   "term": "null"
+   "en": "OFF",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0124",
    "jp": "ステレオ",
-   "en": "",
-   "term": "null"
+   "en": "Stereo",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0125",
    "jp": "モノラル",
-   "en": "",
-   "term": "null"
+   "en": "Monaural",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0126",
    "jp": "高速",
-   "en": "",
-   "term": "null"
+   "en": "Fast",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0127",
    "jp": "通常",
-   "en": "",
-   "term": "null"
+   "en": "Normal",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0128",
    "jp": "ノーマルティピ",
-   "en": "",
-   "term": "null"
+   "en": "Normal Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0129",
    "jp": "顔面肥大化",
-   "en": "",
-   "term": "null"
+   "en": "Enlarged Face",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0130",
    "jp": "ロケッティピ",
-   "en": "",
-   "term": "null"
+   "en": "Rocket Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0131",
    "jp": "ティピキーック！",
-   "en": "",
-   "term": "null"
+   "en": "Tippi Kiiick!",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0132",
    "jp": "ねこみみティピ",
-   "en": "",
-   "term": "null"
+   "en": "Cat-Eared Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0133",
    "jp": "矢印",
-   "en": "",
-   "term": "null"
+   "en": "Arrow",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0134",
    "jp": "長ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Long Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0135",
    "jp": "踊る！ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Dancing Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0136",
    "jp": "未知数",
-   "en": "",
-   "term": "null"
+   "en": "Unknown",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0137",
    "jp": "を入手！",
-   "en": "",
-   "term": "null"
+   "en": "obtained!",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0138",
    "jp": "）",
-   "en": "",
-   "term": "null"
+   "en": ")",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0139",
    "jp": "－",
-   "en": "",
-   "term": "null"
+   "en": "-",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0140",
    "jp": "今は使えません。",
-   "en": "",
-   "term": "null"
+   "en": "Cannot be used now.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0141",
    "jp": "つかう",
-   "en": "",
-   "term": "null"
+   "en": "Use",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0142",
    "jp": "装備する",
-   "en": "",
-   "term": "null"
+   "en": "Equip",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0143",
    "jp": "移動する",
-   "en": "",
-   "term": "null"
+   "en": "Move",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0144",
    "jp": "送る",
-   "en": "",
-   "term": "null"
+   "en": "Send",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0145",
    "jp": "はずす",
-   "en": "",
-   "term": "null"
+   "en": "Remove",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0146",
@@ -891,272 +1001,317 @@
   {
    "id": "boot.sys.0147",
    "jp": "隊列変更",
-   "en": "",
-   "term": "null"
+   "en": "Change Formation",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0148",
    "jp": "セーブ",
-   "en": "",
-   "term": "null"
+   "en": "Save",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0149",
    "jp": "ロード",
-   "en": "",
-   "term": "null"
+   "en": "Load",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0150",
    "jp": "コンフィグ",
-   "en": "",
-   "term": "null"
+   "en": "Settings",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0151",
    "jp": "アイテム整理",
-   "en": "",
-   "term": "null"
+   "en": "Organize Items",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0152",
    "jp": "中身",
-   "en": "",
-   "term": "null"
+   "en": "Contents",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0153",
    "jp": "区分",
-   "en": "",
-   "term": "null"
+   "en": "Category",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0154",
    "jp": "ユーザーズ",
-   "en": "",
-   "term": "null"
+   "en": "Custom",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0155",
    "jp": "アクセサリー",
-   "en": "",
-   "term": "null"
+   "en": "Accessories",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0156",
    "jp": "防具",
-   "en": "",
-   "term": "null"
+   "en": "Armor",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0157",
    "jp": "武器",
-   "en": "",
-   "term": "null"
+   "en": "Weapons",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0158",
    "jp": "移動",
-   "en": "",
-   "term": "null"
+   "en": "Move",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0159",
    "jp": "名前順",
-   "en": "",
-   "term": "null"
+   "en": "By Name",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0160",
    "jp": "ＡＴ／ＤＦ順",
-   "en": "",
-   "term": "null"
+   "en": "By AT/DF",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0161",
    "jp": "数量順",
-   "en": "",
-   "term": "null"
+   "en": "By Quantity",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0162",
    "jp": "マップ確認",
-   "en": "",
-   "term": "null"
+   "en": "View Map",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0163",
    "jp": "戦闘再開",
-   "en": "",
-   "term": "null"
+   "en": "Resume Battle",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0164",
    "jp": "攻撃",
-   "en": "",
-   "term": "null"
+   "en": "Attack",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0165",
    "jp": "護衛",
-   "en": "",
-   "term": "null"
+   "en": "Escort",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0166",
    "jp": "自動",
-   "en": "",
-   "term": "null"
+   "en": "Auto",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0167",
    "jp": "防御",
-   "en": "",
-   "term": "null"
+   "en": "Defend",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0168",
    "jp": "使用",
-   "en": "",
-   "term": "null"
+   "en": "Use",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0169",
    "jp": "購入＆装備",
-   "en": "",
-   "term": "null"
+   "en": "Buy & Equip",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0170",
    "jp": "購入する",
-   "en": "",
-   "term": "null"
+   "en": "Buy",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0171",
    "jp": "やめる",
-   "en": "",
-   "term": "null"
+   "en": "Cancel",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0172",
    "jp": "売る",
-   "en": "",
-   "term": "null"
+   "en": "Sell",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0173",
    "jp": "数量変更",
-   "en": "",
-   "term": "null"
+   "en": "Change Quantity",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0174",
    "jp": "ＤＩＳＣ　１に交換してください",
-   "en": "",
-   "term": "null"
+   "en": "Please insert Disc 1.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0175",
    "jp": "ＤＩＳＣ　２に交換してください",
-   "en": "",
-   "term": "null"
+   "en": "Please insert Disc 2.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0176",
    "jp": "チェック中です",
-   "en": "",
-   "term": "null"
+   "en": "Checking...",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0177",
    "jp": "チェックを終了しました",
-   "en": "",
-   "term": "null"
+   "en": "Check complete.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0178",
    "jp": "ＤＩＳＣが違います",
-   "en": "",
-   "term": "null"
+   "en": "Wrong disc.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0179",
    "jp": "{FFE8}を外す",
-   "en": "",
-   "term": "null"
+   "en": "Remove {FFE8}",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0180",
    "jp": "差込口１のメモリーカードに",
-   "en": "",
-   "term": "null"
+   "en": "On the memory card in slot 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0181",
    "jp": "差込口１にメモリーカードが",
-   "en": "",
-   "term": "null"
+   "en": "The memory card in slot 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0182",
    "jp": "差込口１のメモリーカードが",
-   "en": "",
-   "term": "null"
+   "en": "The memory card in slot 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0183",
    "jp": "差込口１のメモリーカードを",
-   "en": "",
-   "term": "null"
+   "en": "The memory card in slot 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0184",
    "jp": "差込口１のメモリーカードを調べて",
-   "en": "",
-   "term": "null"
+   "en": "Check the memory card in slot 1",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0185",
    "jp": "脱出しますか？{n}　・はい{n}　・いいえ",
-   "en": "",
-   "term": "null"
+   "en": "Escape?{n}- Yes{n}- No",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0186",
    "jp": "ＧＬカード{FFEB}をＧＥＴ！",
-   "en": "",
-   "term": "null"
+   "en": "Got GL Card {FFEB}!",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0187",
    "jp": "ＧＬカード{FFEB}のダブり[01BE]",
-   "en": "",
-   "term": "null"
+   "en": "Duplicate GL Card {FFEB}[01BE]",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0188",
    "jp": "少し男前になった！！",
-   "en": "",
-   "term": "null"
+   "en": "You've become a little more handsome!!",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0189",
    "jp": "％",
-   "en": "",
-   "term": "null"
+   "en": "%",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0190",
    "jp": "メモリーカードのチェックに",
-   "en": "",
-   "term": "null"
+   "en": "Memory card check",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0191",
    "jp": "失敗しました。",
-   "en": "",
-   "term": "null"
+   "en": "failed.",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "boot.sys.0192",

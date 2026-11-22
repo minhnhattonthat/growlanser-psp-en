@@ -15,161 +15,186 @@
   {
    "id": "scen013.0001",
    "jp": "文官",
-   "en": "",
-   "term": "null"
+   "en": "Civil Official",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen013.0002",
    "jp": "ローランディア王城",
-   "en": "",
-   "term": "end"
+   "en": "Rolandia Royal Castle",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0003",
    "jp": "{FFF0}‥‥戻れ‥‥{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}...Go back...{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0004",
    "jp": "{FFF0}注意{FFF1}{n}{FFEE}これは休暇の最中にのみ使われるデータです。{n}通常ＲＰＧ中にここへ来た場合、{n}あきらかにバグです。{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}Warning{FFF1} {FFEE}This data is used only during vacation. If you{n}reach this location during normal RPG gameplay, it is{n}clearly a bug.{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0005",
    "jp": "{v:0006}残りの休暇はあと３日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}You have three days of vacation left.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0006",
    "jp": "{v:0007}残りの休暇はあと２日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}You have two days of vacation left.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0007",
    "jp": "{v:0008}残りの休暇はあと１日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}You have one day of vacation left.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0008",
    "jp": "{v:0009}今日はどこへ行く？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Where shall we go today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0009",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Where will you spend your leave today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0010",
    "jp": "・王都ローザリア",
-   "en": "",
+   "en": "・Royal Capital Rosaria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen013.0011",
    "jp": "・保養地ラシェル",
-   "en": "",
+   "en": "・Rachelle Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen013.0012",
    "jp": "・魔法学院",
-   "en": "",
+   "en": "・Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen013.0013",
    "jp": "・観光地コムスプリングス",
-   "en": "",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen013.0014",
    "jp": "・{s:0010}",
-   "en": "",
+   "en": "・{s:0010}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen013.0015",
    "jp": "え～、もう一日王都で過ごしたじゃない。{n}別なところに行こうよ。",
-   "en": "",
-   "term": "end"
+   "en": "Aww, we already spent a day in the capital! Let's go{n}somewhere else.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0016",
    "jp": "ラシェルはもう行ったでしょ？{n}別なとこ行きた～い！",
-   "en": "",
-   "term": "end"
+   "en": "We've already been to Rachelle, remember? I wanna go{n}somewhere eeelse!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0017",
    "jp": "魔法学院はもう行ったじゃない。{n}やめようよ～。",
-   "en": "",
-   "term": "end"
+   "en": "We've already been to the Magic Academy! Let's not{n}go agaaain.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0018",
    "jp": "コムスプリングスにはもう行ったでしょ。{n}他がいい～！",
-   "en": "",
-   "term": "end"
+   "en": "We've already been to Comsprings, remember?{n}Anywhere eeelse!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0019",
    "jp": "もう行ったじゃない！{n}別なとこ行きたい！",
-   "en": "",
-   "term": "end"
+   "en": "We've already been there! I want to go{n}somewhere else!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0020",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Where will you spend your leave today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen013.0021",
    "jp": "・王都ローザリア",
-   "en": "",
+   "en": "・Royal Capital Rosaria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen013.0022",
    "jp": "・保養地ラシェル",
-   "en": "",
+   "en": "・Rachelle Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen013.0023",
    "jp": "・魔法学院",
-   "en": "",
+   "en": "・Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen013.0024",
    "jp": "・観光地コムスプリングス",
-   "en": "",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen013.0025",
    "jp": "　{n}　　　　　こちらからは開けない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　It won't open from this side...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

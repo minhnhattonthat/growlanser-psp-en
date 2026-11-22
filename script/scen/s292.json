@@ -15,176 +15,204 @@
   {
    "id": "scen292.0001",
    "jp": "え？{n}グランシルに？{n}‥‥別にいいよ。",
-   "en": "",
-   "term": "end"
+   "en": "Huh? To Grancil? ...Sure, I don't mind.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0002",
    "jp": "あっ、お兄ちゃん。{n}また会ったね。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, it's you again, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0003",
    "jp": "他の人たちはどうしてるんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "I wonder what everyone else is doing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0004",
    "jp": "あっ、お兄ちゃん。{n}ミーシャはアリオストさんのおかげで{n}立ち直ったみたい。{p}安心したから帰って来ちゃった。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother. It looks like Misha's back on her feet,{n}thanks to Ariost-san.{p}I was so relieved that I came back home.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0005",
    "jp": "あっ、{n}お兄ちゃん！今日、何の日かおぼえてる？",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother! Do you remember what day it is today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0006",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0007",
    "jp": "・おぼえていると言う",
-   "en": "",
+   "en": "・Say you remember",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen292.0008",
    "jp": "・誕生日おめでとうと言う",
-   "en": "",
+   "en": "・Wish her a happy birthday",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen292.0009",
    "jp": "・わからないと言う",
-   "en": "",
+   "en": "・Say you don't know",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen292.0010",
    "jp": "良かった、{n}忘れられたかと思っちゃった。",
-   "en": "",
-   "term": "end"
+   "en": "I'm so glad. I thought you'd forgotten.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0011",
    "jp": "どうしますか？",
-   "en": "",
-   "term": "end"
+   "en": "What will you do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0012",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen292.0013",
    "jp": "・卒業おめでとうと言う",
-   "en": "",
+   "en": "・Congratulate her on graduating",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen292.0014",
    "jp": "・お誕生日おめでとうと言う",
-   "en": "",
+   "en": "・Wish her a happy birthday",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen292.0015",
    "jp": "‥‥やっぱりおぼえてないんだ？{n}今日、わたしのお誕生日だったのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...So you don't remember after all? But today's{n}my birthday...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0016",
    "jp": "アンタ、妹の誕生日を{n}忘れるんじゃないわよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Don't go forgetting your own sister's birthday!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0017",
    "jp": "おめでとうを言いますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you wish her a happy birthday?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0018",
    "jp": "ほら、照れてないでさっさと言いなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "Come on, quit being shy and say it already!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0019",
    "jp": "‥‥もういい！",
-   "en": "",
-   "term": "end"
+   "en": "...Just forget it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0020",
    "jp": "アンタね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Honestly, you...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0021",
    "jp": "違うよ、卒業はまだ先。",
-   "en": "",
-   "term": "end"
+   "en": "No, graduation's still a long way off.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0022",
    "jp": "ありがとう、お兄ちゃん。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0023",
    "jp": "アンタ、なんかプレゼントとか{n}買ってあげないと。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you ought to buy her a present or something.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0024",
    "jp": "いいんだよ、ティピ。{n}今は、おめでとうって言ってもらえるだけで{n}うれしいから。{p}じゃあね。お兄ちゃん、ティピ。",
-   "en": "",
-   "term": "end"
+   "en": "It's all right, Tippi. For now, just hearing him wish me a{n}happy birthday is enough to make me happy.{p}See you later, Big Brother. You too, Tippi.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0025",
    "jp": "あらあら、無欲だこと‥‥。{p}アンタ、ゲヴェルとの戦いが終わったら{n}なんかプレゼントしなさいよ。",
-   "en": "",
-   "term": "end"
+   "en": "My, my. She doesn't ask for much...{p}You'd better get her something once the fight with{n}Gevel is over!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0026",
    "jp": "あっ、お兄ちゃん。{n}休みの日ってなんだかお買い物したくなるよね。{n}そんなおこづかい残ってないけど。{p}じゃあ、また後でね。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother. Days off always make me want to go{n}shopping, you know? I don't have much allowance{n}left, though.{p}Well, see you later.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0027",
    "jp": "そう言えば、この前、{n}商店街で素敵なペンダント見つけたんだ。{p}お金がたまるまで売れないでいるといいな～。{p}わたしはもうちょっとお散歩してるね。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, I found a lovely pendant in the shopping district{n}the other day.{p}I hope no one buys it before I save up enough...{p}I'm going to walk around a little longer.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0028",
    "jp": "あっ、お兄ちゃん。{n}新しい服とか買わなくても、{n}おしゃれってできるんだよ。{p}組み合わせを変えてみたり、{n}ちょっと袖を折ったりね。{p}うふふふ、じゃあね。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother. You can look stylish without buying new{n}clothes, you know.{p}You can try different combinations, or just fold up your{n}sleeves a little.{p}Hehehe. See you later.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0029",
@@ -195,20 +223,23 @@
   {
    "id": "scen292.0030",
    "jp": "ねえ、お兄ちゃん。{n}考えてみればお母さんって、{n}ティピの生みの親なんだよね？{p}じゃあ、わたしたち３人って{n}兄妹みたいなものだね。{p}えへへ、妹ができた気分。{n}またね！",
-   "en": "",
-   "term": "end"
+   "en": "Say, Big Brother. When you think about it, Mother{n}brought Tippi into the world, too, didn't she?{p}Then the three of us are practically siblings.{p}Hehe, it feels like I have a little sister now. See you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0031",
    "jp": "そう言えばお兄ちゃん、{n}わたしね、廊下でミーシャにぶつかられて{n}ミーシャと知り合ったんだよ。{p}うふふ、ミーシャらしいでしょ？{p}またね！",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother, did you know I first met Misha when{n}she bumped into me in the hallway?{p}Hehe, that's just like Misha, isn't it?{p}See you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0032",
    "jp": "ミーシャってね、{n}学校ではすっごく目立つの。{n}そこら中で物をひっくり返したりして。{p}でも、密かに努力家なんだよ。{n}編み物とか得意なの。{n}少しは見直した？{p}じゃあ、後でね。",
-   "en": "",
-   "term": "end"
+   "en": "Misha really stands out at school, you know. She's{n}always knocking things over everywhere.{p}But she's a hard worker when no one's looking. She's{n}good at knitting and things like that. Think a little better{n}of her now?{p}See you later.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0033",
@@ -219,92 +250,107 @@
   {
    "id": "scen292.0034",
    "jp": "あっ、お兄ちゃん。{n}お母さんってわたしの目標なんだ。{p}魔術師としてもそうだけど、{n}大人としてね。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother. Mother is the person I want to be like.{p}As a mage, of course, but as an adult, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0035",
    "jp": "ねえ、お兄ちゃん。{n}お母さんって怖いときはすごく怖いよね。{n}絶対に手をあげたり怒鳴ったりしないのに。{p}お城では怖がられてないのかな？{FFFB}{n}さて、わたし、もうちょっとお散歩してくるね。",
-   "en": "",
-   "term": "end"
+   "en": "Say, Big Brother. Mother can be really scary{n}sometimes, can't she? Even though she never raises a{n}hand or shouts.{p}I wonder if people at the castle are scared of her, too.{FFFB}{n}Well, I'm going to walk around a little longer.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0036",
    "jp": "そう言えば、ウォレスさんって{n}すごくいろんな事を知ってるよね？{p}わたしもいろんなところに行って{n}いろんな事を知りたいな。",
-   "en": "",
-   "term": "end"
+   "en": "Come to think of it, Wallace-san knows so much about{n}all sorts of things, doesn't he?{p}I'd like to go to lots of places and learn all sorts of{n}things, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0037",
    "jp": "魔法学院っていろんな事を教えてくれるから{n}面白いんだけど、生物の解剖の授業だけは{n}とりたくないな。{p}やっぱりああいうのって苦手なんだ。",
-   "en": "",
-   "term": "end"
+   "en": "The Magic Academy is interesting because they teach{n}you so many things, but dissection is the one class I{n}don't want to take.{p}I just can't handle that sort of thing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0038",
    "jp": "あっ、お兄ちゃん、へんなものがついてる！{p}{FC00}って思ったらティピだった。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Big Brother, there's something strange stuck{n}to you!{p}{FC00}...Oh wait, it's just Tippi.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0039",
    "jp": "‥‥な～んてね。{n}ごめん、ティピ、許してね！",
-   "en": "",
-   "term": "end"
+   "en": "...Just kidding. I'm sorry, Tippi. Forgive me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0040",
    "jp": "最近、魔法を戦いにばかり使ってる‥‥。{n}平和になったらもっと人の役に立つように{n}魔法を使いたいな。",
-   "en": "",
-   "term": "end"
+   "en": "Lately, I've only been using magic to fight... When{n}there's peace again, I'd like to use it to help{n}people more.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0041",
    "jp": "なんだか最近、魔法学院で送った毎日が{n}すごく昔の様に思えるの。{p}お兄ちゃんと一緒にあちこちへ行くようになってから{n}まだそんなにたってないのにね。",
-   "en": "",
-   "term": "end"
+   "en": "Somehow, my days at the Magic Academy feel like such{n}a long time ago now.{p}Even though it hasn't been that long since I started{n}traveling everywhere with you, Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0042",
    "jp": "魔法学院にもいろんな人はいるけど、{n}やっぱりみんな同じ世界の人なんだよね。{p}旅をして、いろんな人を見ているうちに{n}自分の知っている世界がすごく狭かったって{n}事に気づいたんだ。{p}もっといろんな人に会ってみたいな。",
-   "en": "",
-   "term": "end"
+   "en": "There are all sorts of people at the Magic Academy,{n}but we all come from the same little world, really.{p}Traveling and seeing so many different people made{n}me realize how small the world I knew was.{p}I'd like to meet even more kinds of people.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0043",
    "jp": "なんだか、みんなでピクニックとか{n}行きたくなっちゃった。{p}晴れた日にお弁当持って、遊びに行くの。",
-   "en": "",
-   "term": "end"
+   "en": "Somehow, I feel like going on a picnic with everyone.{p}We could pack lunches and go out to have fun on a{n}sunny day.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0044",
    "jp": "うふふ、いつか行こうね。",
-   "en": "",
-   "term": "end"
+   "en": "Hehe, let's go someday, all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0045",
    "jp": "楽しい事って、考えるだけで幸せな気分。{n}いつか、それをやろうって思って毎日過ごすんだ。{p}お兄ちゃんは何かやりたいことある？{FFFB}{n}じゃあ、またね。",
-   "en": "",
-   "term": "end"
+   "en": "Just thinking about fun things makes me happy. I spend{n}each day thinking about doing them someday.{p}Is there anything you'd like to do, Big Brother?{FFFB}Well,{n}see you later.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0046",
    "jp": "わたしがお母さんに魔法を習い始めた頃の事、{n}お兄ちゃんはおぼえてる？{p}お母さんがとっても厳しくて、わたし、{n}毎日泣いてたよね。{p}でも、そのおかげで学院に入ってからもあんまり{n}苦労しなくて済んだから今では感謝してるけど。",
-   "en": "",
-   "term": "end"
+   "en": "Do you remember when I first started learning magic{n}from Mother, Big Brother?{p}Mother was so strict, I cried every day, didn't I?{p}But thanks to that, I didn't have much trouble once I{n}entered the Academy. I'm grateful to her now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0047",
    "jp": "呪文を唱えてその場で発動する魔法って、{n}ほんの一部なんだよ。{p}大がかりな魔法は理論とかいろいろ勉強しなくちゃ{n}いけなくてとっても難しいんだ。",
-   "en": "",
-   "term": "end"
+   "en": "Only a small part of magic takes effect as soon as you{n}chant the spell.{p}Larger spells are really difficult. You have to study{n}theory and all sorts of other things.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen292.0048",
    "jp": "さ～て、どうしようか？",
-   "en": "",
-   "term": "end"
+   "en": "Well, what shall we do?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

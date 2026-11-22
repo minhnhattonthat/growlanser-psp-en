@@ -15,110 +15,128 @@
   {
    "id": "scen222.0001",
    "jp": "盗賊",
-   "en": "",
-   "term": "null"
+   "en": "Bandit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen222.0002",
    "jp": "ランザック兵",
-   "en": "",
-   "term": "null"
+   "en": "Ranzak Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen222.0003",
    "jp": "{FFEE}ランザック兵を救え！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Save the Ranzak soldier!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0004",
    "jp": "{v:0028}おい！{n}そいつらは俺たちが倒す！{n}街の中に下がっていろ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Hey! We'll take care of them! Fall back into town!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0005",
    "jp": "{v:0029}断る！{p}{v:002A}今まで殺された仲間の仇を討つ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}I refuse!{p}{v:002A}I'll avenge all the comrades they've killed!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0006",
    "jp": "{v:002B}チッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Tch!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0007",
    "jp": "お、親分。{n}もう、俺ダメ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "B-boss... I'm done for...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0008",
    "jp": "こんなはずじゃ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "This wasn't supposed to happen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0009",
    "jp": "へっへっへっ‥‥。{n}今まで人を殺しすぎた罰が当たったのかな‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Heh heh heh... Guess this is what I get for killing so{n}many people...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0010",
    "jp": "くそっ！{n}こいつら、人を殺しなれてやがる‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Damn! These bastards are used to killing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0011",
    "jp": "正規兵の俺が、賊ごときに‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I'm a regular soldier... Beaten by mere bandits...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0012",
    "jp": "{v:0030}ああっ！{n}ランザックの兵隊さんがっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Ah! The Ranzak soldier...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0013",
    "jp": "{v:0031}き、貴様ら！{n}よくも我が部下を！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Y-you bastards! How dare you do that to{n}my subordinate!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0014",
    "jp": "{v:0032}ち、違うの、これは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}N-no, you've got it wrong! This is...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0015",
    "jp": "{v:0033}問答無用！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Enough talk!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0016",
    "jp": "{v:002C}やるじゃねぇか‥‥。{p}{v:002D}だが、まだやられるわけにはいかねぇんだよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}You're pretty good...{p}{v:002D}But I ain't going down yet!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0017",
    "jp": "{v:002E}あっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Ah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen222.0018",
    "jp": "‥‥{v:002F}逃げられちゃった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002F}He got away...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

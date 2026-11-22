@@ -15,656 +15,765 @@
   {
    "id": "scen071.0001",
    "jp": "番兵",
-   "en": "",
-   "term": "null"
+   "en": "Sentry",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen071.0002",
    "jp": "フェザリアン遺跡",
-   "en": "",
-   "term": "end"
+   "en": "Featherian Ruins",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0003",
    "jp": "{v:0003}一度、僕の研究室へ寄ってくれ。{n}そこでこの装置を組み込むから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Stop by my laboratory first. I'll fit this device there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0004",
    "jp": "あら、人がいるよ。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, someone's here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0005",
    "jp": "君たちもここが好きだな‥‥。{n}何か面白いものでもあるのかい？",
-   "en": "",
-   "term": "end"
+   "en": "You really do like this place... Is there something{n}interesting here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0006",
    "jp": "ちょっとフェザリアンについて調べようと思ってね。",
-   "en": "",
-   "term": "end"
+   "en": "We thought we'd look into the Featherians a little.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0007",
    "jp": "それでここへ来たのかい？{n}確かに本はたくさんあるが、{n}それなら学院で調べた方がいいんじゃないか？",
-   "en": "",
-   "term": "end"
+   "en": "Is that why you came here? There certainly are plenty{n}of books, but wouldn't you be better off researching{n}that at the Academy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0008",
    "jp": "気をつけてな。",
-   "en": "",
-   "term": "end"
+   "en": "Take care.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0009",
    "jp": "ここに入るには学院長の許可が必要だぞ。{n}許可証がない者を通すことは出来ない。",
-   "en": "",
-   "term": "end"
+   "en": "You need the Headmaster's permission to enter. I can't{n}let anyone through without a permit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0010",
    "jp": "許可はもらってあるようだな。{n}気をつけて行けよ。",
-   "en": "",
-   "term": "end"
+   "en": "Looks like you've got permission. Be careful in there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0011",
    "jp": "{v:0005}へぇ、ここがフェザリアンの遺跡なんだ。{n}ルイセちゃん、案内してよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Wow, so these are the Featherian ruins! Luise-chan,{n}show us around!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0012",
    "jp": "{v:0006}{FB00}ゴメンね。{FFFA}{n}わたしも入ったのは初めてなの。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}{FB00}Sorry.{FFFA} This is my first time inside, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0013",
    "jp": "{v:0007}それじゃ仕方がないな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Well, can't be helped, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0014",
    "jp": "{v:0008}本当にゴメンね。{n}でも授業で少し習ったから、{n}何かあったら説明くらいは出来るかも‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}I'm really sorry. But we learned a little about this in{n}class, so I might be able to explain things if we{n}find anything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0015",
    "jp": "{v:0009}うん、期待してる！{n}さ、アリオストさんを探そ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Okay, I'm counting on you! Come on, let's{n}find Ariost-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0016",
    "jp": "　{n}　　　　　　４５０エルムを手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　Received 450 Elm!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0017",
    "jp": "『{FFEF}ブロードソード{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Broadsword{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0018",
    "jp": "　{n}　　　　『{FFEF}ブロードソード{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Broadsword{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0019",
    "jp": "{v:0030}大丈夫ですか、アリオストさん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Are you all right, Ariost-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0020",
    "jp": "{v:0031}ふぅっ、助かったよ。{n}ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Phew, you saved me. Thank you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0021",
    "jp": "{v:0032}よかったな。{n}だが、どうしてこんな所へ１人で来たんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Glad you're all right. But why'd you come here alone?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0022",
    "jp": "{v:0033}それはこの奥にある物のためさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}For something farther inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0023",
    "jp": "{v:0034}それって？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0024",
    "jp": "{v:0035}{FB00}見た方が早いな。{n}ついて来てくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}{FB00}It'll be quicker to show you. Follow me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0025",
    "jp": "{v:000F}ん？{n}殺気がする‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Hm? I sense bloodlust...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0026",
    "jp": "{v:0010}くっ！{n}ここまで来て‥‥。{FFF9}{FFFB}{n}{v:0011}このままじゃ、こっちの命が危ないぞ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Ugh! After coming all this way...{FFF9}{FFFB} {v:0011}At this rate, I won't{n}get out of here alive...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0027",
    "jp": "{v:0012}アリオストさん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Ariost-san!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0028",
    "jp": "{v:0013}はっ！{n}ルイセ君？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Ah! Luise-kun?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0029",
    "jp": "{v:0014}ああ、アリオストさんが危ないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Oh no! Ariost-san's in danger!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0030",
    "jp": "{v:0015}せっかくここまで来て、死なれちまったら{n}元も子もない。{n}助けよう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}If he gets himself killed after we came all this way, it'll{n}all be for nothing. Let's help him!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0031",
    "jp": "{v:0017}アリオストさん！{n}今助けるから、それまでがんばって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Ariost-san! We're coming to help! Hang on!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0032",
    "jp": "{v:0018}すまない！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Thank you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0033",
    "jp": "ちょっと、アンタ！{n}どこ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey, you! Where do you think you're going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0034",
    "jp": "　{n}　　　　　　１７５エルムを手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　Received 175 Elm!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0035",
    "jp": "『{FFEF}秘伝の傷薬{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Secret Salve{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0036",
    "jp": "　{n}　　　　　『{FFEF}秘伝の傷薬{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Secret Salve{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0037",
    "jp": "{v:0036}すごい数の本‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}So many books...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0038",
    "jp": "{v:0037}何が書いてあるのかな？{n}ね、ルイセちゃん、読んで★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}I wonder what they say? Hey, Luise-chan, read one{n}for us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0039",
    "jp": "{v:0038}うん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Okay.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0040",
    "jp": "{FFF3}‥‥{v:0039}う‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}...{v:0039}Uhh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0041",
    "jp": "{v:003A}？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Hm?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0042",
    "jp": "{FB00}‥{v:003B}えっと、{FFFA}‥あの‥‥うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}...{v:003B}Um,{FFFA} ...well... uhh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0043",
    "jp": "{v:003C}どうしたの、ルイセちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}What's wrong, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0044",
    "jp": "{FFF3}{FFF5}‥‥{v:003D}う～‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{FFF5}...{v:003D}Uhhh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0045",
    "jp": "{v:003E}何、涙ぐんでるのよ！？{n}そんな怖いことが書いてあるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Why are you tearing up?! Is it that scary?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0046",
    "jp": "‥‥{v:003F}読めない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:003F}I can't read it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0047",
    "jp": "{v:0040}はははっ、彼らの文字だからね。{n}読むのは至難の業だよ。{n}それにあまり利益はないと思う。{p}{v:0041}なぜなら、彼らの本のほとんどは{n}倫理について書かれた物だからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Hahaha! It's in their script, after all. Reading it is{n}terribly difficult. I don't think there's much to gain from{n}it, either.{p}{v:0041}You see, most of their books are about ethics.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0048",
    "jp": "{v:0042}倫‥理？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}Eth... ics?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0049",
    "jp": "{v:0043}嘘をつかないようにしよう。{n}他人に迷惑をかけないようにしよう。{p}‥‥{v:0044}生きていく上で必要なルールのことかな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Try not to tell lies. Try not to cause trouble for others.{p}...{v:0044}Rules we need to live by, you might say.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0050",
    "jp": "{v:0045}なるほどな。{n}知識が眠る場所というわりには、{n}簡単に入る許可を出すと思ったぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}I see. For a place full of ancient knowledge, I thought{n}they were handing out permits a bit freely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0051",
    "jp": "{v:0046}だけど、僕の目指す物は書物ではない。{n}こっちだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}But it isn't books I'm after. This way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0052",
    "jp": "アリオストの研究室で飛行装置製作",
-   "en": "",
-   "term": "end"
+   "en": "Build the flying apparatus in Ariost's laboratory",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0053",
    "jp": "{v:0047}うわ～、すごいガラクタ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Whoa, what a pile of junk...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0054",
    "jp": "‥‥{v:0048}これじゃない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0048}Not this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0055",
    "jp": "{v:0049}これも違う‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Not this, either...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0056",
    "jp": "{v:004A}確かここにあったはずなんだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}I'm sure it was here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0057",
    "jp": "{v:004B}何を探しているんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}What are you looking for?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0058",
    "jp": "‥‥{v:004C}ああ。{n}{FC00}僕が空を飛ぶ研究をしているのは知っているね？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004C}Oh, right. {FC00}You know I've been researching flight,{n}don't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0059",
    "jp": "{v:004D}はい。{n}確か空に浮かぶ板の実験をしているところを{n}何度か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Yes. I think I've seen you experimenting with a floating{n}board a few times...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0060",
    "jp": "{v:004E}過去、人間を支配していたグローシアンは{n}空飛ぶ塔を持っていた。{n}元々はフェザリアンから得た技術だそうだけどね。{p}{v:004F}だが彼らが消えたと同時に、{n}その空飛ぶ塔も見られなくなったそうだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}The Growsians who once ruled over humans had flying{n}towers. Apparently, the technology originally came from{n}the Featherians.{p}{v:004F}But they say those flying towers vanished when the{n}Growsians did.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0061",
    "jp": "{v:0050}でもそれは伝承で、{n}正式な記録は残っていなかったはずでは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}But that's only a legend, isn't it? I thought no official{n}records survived...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0062",
    "jp": "{v:0051}そうだよ。{n}もし彼らがその技術を残していてくれれば、{n}僕の研究も楽だったのにね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}That's right. If only they'd left that technology behind,{n}my research would have been much easier.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0063",
    "jp": "{v:0052}それで君は独自に空飛ぶ板を開発したと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}So you developed your own flying board?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0064",
    "jp": "{v:0053}ええ。{n}まず僕は小型の浮遊円盤を作りました。{p}{v:0054}だけど、これがとてもじゃないけど{n}実用的じゃなかった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Yes. First, I built a small floating disc.{p}{v:0054}But it turned out to be utterly impractical.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0065",
    "jp": "{v:0055}どうして？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Why?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0066",
    "jp": "{v:0056}浮かぶことしかできないんだ。{n}移動するには風の力に頼るしかない。{p}{v:0057}やってみてわかったけど、{n}高度によって風の吹く方向がいろいろとあってね。{n}その風に乗れば目的地へは何とか行けるんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}All it can do is float. It has to rely on the wind{n}to move.{p}{v:0057}Testing showed me that the wind blows in different{n}directions at different altitudes. By riding those winds,{n}I can reach my destination, more or less.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0067",
    "jp": "{v:0058}それじゃダメなの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}What's wrong with that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0068",
    "jp": "{v:0059}地上で移動するならそれもいいかもしれない。{n}けれど、僕が行きたい場所ははるか高い場所にある。{p}{v:005A}その高度にいい方向に流れる風があるかは{n}わからないからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}That might work for traveling along the ground. But{n}the place I want to reach is far up in the sky.{p}{v:005A}There's no telling whether the wind blows the right{n}way at that altitude.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0069",
    "jp": "{v:005B}あ、そうか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Oh, I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0070",
    "jp": "{v:005C}それで、どの高度でも自由に動き回れるための{n}推進力が必要になる。{n}それをここで見たことがあったんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}So I need a source of propulsion that lets me move{n}freely at any altitude. I saw one here before.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0071",
    "jp": "‥‥{v:005D}あった！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005D}Found it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0072",
    "jp": "{v:005E}やったわね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}You did it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0073",
    "jp": "{v:005F}これがそうなんですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005F}Is this it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0074",
    "jp": "{v:0060}ああ。{n}この推進器を僕の飛行装置に取り付ければ、{n}向かい風にだって進んでいけるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0060}Yes. If I attach this propulsion device to my flying{n}apparatus, I'll be able to fly even against the wind.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0075",
    "jp": "{v:0061}よかったな。{n}これで俺たちの目的も果たせるってわけだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0061}Good. That means we can get what we came for, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0076",
    "jp": "{v:0062}目的？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}What you came for?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0077",
    "jp": "{v:0063}実は、お母さんが今までに見たこともない毒を受けて、{n}フェザリアンの住む所に解毒剤を取りに行かなくては{n}ならなくなったの。{p}{v:0064}{FFF5}それで‥その‥‥、{n}‥早くしないと‥お母さん‥‥うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}Mother's been poisoned with something we've never{n}seen before. We have to go where the Featherians live{n}to get an antidote.{p}{v:0064}{FFF5}So... um... if we don't hurry... Mother will... *sob*...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0078",
    "jp": "{v:0065}また、この娘は！{n}すぐ泣くんだからぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}Oh, there she goes again! You cry at the drop of{n}a hat!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0079",
    "jp": "{FFF5}‥‥{v:0066}だって‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:0066}But...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0080",
    "jp": "{v:0067}そうならないためにがんばってるんでしょ！{n}だから、ね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0067}We're doing our best to keep that from happening,{n}aren't we?! So cheer up, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0081",
    "jp": "{v:0069}確かに僕たちより科学や薬学に精通した彼らならば、{n}治療法を知っているかもしれない。{p}{FC05}{v:006A}わかった。{n}僕の飛行装置で連れていってあげよう。{n}助けてもらったお礼だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}They certainly know more about science and medicine{n}than we do. They may well know a cure.{p}{FC05}{v:006A}All right. I'll take you there in my flying apparatus. It's{n}my way of thanking you for saving me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0082",
    "jp": "{v:006B}やったね、ルイセちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}We did it, Luise-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0083",
    "jp": "{v:006C}うん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}Yes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0084",
    "jp": "　{n}　　　　{FFEF}アリオストが同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　{FFEF}Ariost is now accompanying you!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0085",
    "jp": "もう用は済んだのか？",
-   "en": "",
-   "term": "end"
+   "en": "Finished your business already?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0086",
    "jp": "アリオストさんの探し物って、{n}なんだろうね。",
-   "en": "",
-   "term": "end"
+   "en": "I wonder what Ariost-san is looking for.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0087",
    "jp": "確かこっちの方で見かけたはずだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sure I saw it somewhere over here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0088",
    "jp": "こんな場所があるなんて、思わなかっただろ？{n}驚いたかい？",
-   "en": "",
-   "term": "end"
+   "en": "You never imagined a place like this existed, did{n}you? Surprised?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0089",
    "jp": "何に使うのかわからない物ばかりが{n}部屋の片隅に無造作に集められている。",
-   "en": "",
-   "term": "end"
+   "en": "Objects of unknown purpose have been carelessly piled{n}in a corner of the room.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0090",
    "jp": "軽く見た感じだと、{n}面白そうな本はないね。",
-   "en": "",
-   "term": "end"
+   "en": "At a glance, none of these books look interesting.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0091",
    "jp": "すごい量の蔵書だ。",
-   "en": "",
-   "term": "end"
+   "en": "What an enormous collection of books.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0092",
    "jp": "ん？{n}この本はなんだ？{p}進化洞窟の管理‥‥。{n}ずいぶん変なタイトルだな。",
-   "en": "",
-   "term": "end"
+   "en": "Hm? What's this book?{p}'Managing the Evolution Cave'... What an odd title.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0093",
    "jp": "やっぱりこの本が気になるな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I can't stop wondering about this book...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0094",
    "jp": "ちょっと読んでもいいかな？",
-   "en": "",
-   "term": "end"
+   "en": "Mind if I read a little?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0095",
    "jp": "じゃ、ちょっと待ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "Then give me a moment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0096",
    "jp": "どうやら、フェザリアンが作った洞窟の１つを{n}人間が管理しているらしいね。{p}その人に合い言葉を伝えれば、{n}そこへ連れて行ってくれるらしい。{n}合い言葉は『ぼけつ』と『しし』だと書いてある。",
-   "en": "",
-   "term": "end"
+   "en": "It seems a human is managing one of the caves the{n}Featherians created.{p}Apparently, if you give that person the passwords,{n}they'll take you there. It says the passwords are{n}'Grave' and 'Lion'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0097",
    "jp": "そうか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0098",
    "jp": "洞窟の管理者に『ぼけつ』と『しし』と言えば{n}そこへ連れて行ってくれるらしいね。",
-   "en": "",
-   "term": "end"
+   "en": "Apparently, if you say 'Grave' and 'Lion' to the cave's{n}keeper, they'll take you there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0099",
    "jp": "‥‥やっぱり読めない。",
-   "en": "",
-   "term": "end"
+   "en": "...I still can't read it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0100",
    "jp": "こちら側にある本は、{n}全部、礼儀作法について書かれているようだね。",
-   "en": "",
-   "term": "end"
+   "en": "The books on this side all seem to be about etiquette.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0101",
    "jp": "本は全て整理されている。",
-   "en": "",
-   "term": "end"
+   "en": "The books are all neatly arranged.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0102",
    "jp": "フェザリアンの歴代女王を記した本があるね。",
-   "en": "",
-   "term": "end"
+   "en": "There's a book recording the successive{n}Featherian queens.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0103",
    "jp": "見たこともない字で書かれている。",
-   "en": "",
-   "term": "end"
+   "en": "It's written in an unfamiliar script.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0104",
    "jp": "子供の正しいしつけ方‥‥とか{n}そんなのばかりだね。",
-   "en": "",
-   "term": "end"
+   "en": "'How to Raise Children Properly'... They're all things{n}like that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0105",
    "jp": "フェザリアン文字で書かれた本だ。{n}倫理について記されているらしい。",
-   "en": "",
-   "term": "end"
+   "en": "A book written in Featherian script. It appears to{n}concern ethics.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0106",
    "jp": "役に立ちそうな本は、なさそうだね。",
-   "en": "",
-   "term": "end"
+   "en": "None of these books look useful.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0107",
    "jp": "こちら側にも本がびっしり並んでいる。",
-   "en": "",
-   "term": "end"
+   "en": "This side is packed with books, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0108",
    "jp": "おいおい。{n}一体どこへ行こうってんだ？",
-   "en": "",
-   "term": "end"
+   "en": "Hey, hold on. Where do you think you're going?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen071.0109",
    "jp": "お兄ちゃん、どこへ行くつもりなの！？",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother, where are you going?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

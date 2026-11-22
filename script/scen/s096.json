@@ -15,647 +15,753 @@
   {
    "id": "scen096.0001",
    "jp": "輸送用動物",
-   "en": "",
-   "term": "null"
+   "en": "Pack Animal",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen096.0002",
    "jp": "輸送兵",
-   "en": "",
-   "term": "null"
+   "en": "Transport Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen096.0003",
    "jp": "{v:0016}もういないみたいだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Looks like they're gone.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0004",
    "jp": "{v:0017}ああ。{n}それにしても、なぜ輸送隊を襲うんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Yeah. But why attack a supply convoy?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0005",
    "jp": "{v:0018}何でだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}I wonder why?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0006",
    "jp": "{v:0019}よし。{n}行軍を続けるぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}All right. Keep marching!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0007",
    "jp": "山頂へ行くんでしょ！？",
-   "en": "",
-   "term": "end"
+   "en": "We're going to the summit, aren't we?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0008",
    "jp": "おい、輸送隊がまだ来ていねぇぞ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, the convoy ain't here yet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0009",
    "jp": "護衛の任務を放って、何処へ行く気だ？",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going, abandoning your{n}escort duty?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0010",
    "jp": "{FFF3}{v:0007}むぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}{v:0007}Ugh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0011",
    "jp": "{v:0008}どうしたの、ティピ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}What's wrong, Tippi?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0012",
    "jp": "{v:0009}ちょっと、風が強くて‥‥飛ぶのが疲れるぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}The wind's a little strong... Flying's wearing me ooout...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0013",
    "jp": "何か声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you say something?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0014",
    "jp": "・気遣う",
-   "en": "",
+   "en": "・Show concern",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen096.0015",
    "jp": "・だらしないとあきれる",
-   "en": "",
+   "en": "・Scoff at her lack of stamina",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen096.0016",
    "jp": "・自分につかまるように言う",
-   "en": "",
+   "en": "・Tell her to hold on to you",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen096.0017",
    "jp": "・無視する",
-   "en": "",
+   "en": "・Ignore her",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen096.0018",
    "jp": "{v:000A}大丈夫、大丈夫。{n}これくらいで参るティピちゃんじゃないから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}I'm fine, I'm fine! It'll take more than this to wear{n}out Tippi-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0019",
    "jp": "{v:000B}何ですってぇ！{p}{v:000C}こうなったら意地でも飛んでやるんだから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}What did you saaay?!{p}{v:000C}Now I'm going to keep flying if it kills me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0020",
    "jp": "{v:000D}そうね。{n}これ以上、風が強くなったらそうさせてもらうわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Well, all right. If the wind gets any stronger, I'll take{n}you up on that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0021",
    "jp": "{v:000E}お兄ちゃんにつかまってたら？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Why don't you hold on to Big Brother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0022",
    "jp": "{v:000F}大丈夫、大丈夫。{n}これくらいで参るティピちゃんじゃないから！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}I'm fine, I'm fine! It'll take more than this to wear{n}out Tippi-chan!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0023",
    "jp": "{FB00}{v:0010}それにしても、何だかヤな風だな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0010}Still, there's something unsettling about this wind...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0024",
    "jp": "{v:0011}まるで山が風を吹かせているみたいだろ？{n}そのせいであの山はシュテーム山と名付けられたんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Almost feels like the mountain itself is blowing the wind,{n}doesn't it? That's how Mount Shutem got its name.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0025",
    "jp": "{v:0012}ん、あれは‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Hm? That's...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0026",
    "jp": "{v:0013}隊長！{n}出ました、モンスターです！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Captain! Monsters have appeared!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0027",
    "jp": "{v:0014}ついに出たか！{p}{v:0015}頼むぞ、君たちの出番だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}So they've finally shown themselves!{p}{v:0015}We're counting on you! You're up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0028",
    "jp": "{FB00}{v:001C}変な匂いのする風だな。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:001C}There's a strange smell on the wind.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0029",
    "jp": "{v:0031}ふぅっ。{n}何とか無事のようだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}Whew. Looks like we made it through in one piece...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0030",
    "jp": "{v:0032}しかし、今のモンスターの動きは妙だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}But those monsters were moving strangely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0031",
    "jp": "{v:0033}え、何が妙なの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Huh? What was strange about it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0032",
    "jp": "{v:0034}どこか組織的に動いていたようだが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Their movements seemed almost coordinated...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0033",
    "jp": "{v:0035}そんなわけないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}No way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0034",
    "jp": "{v:0036}気のせいだといいんだが。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Hope I'm just imagining it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0035",
    "jp": "{v:0037}では先を急ぐとしよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Well then, let's hurry on.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0036",
    "jp": "{v:003A}どうも変な匂いのする風だな。{n}この匂いはどこかで‥‥。{n}それとも気のせいか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}There's definitely a strange smell on the wind. I've{n}smelled it somewhere before... Or am I imagining it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0037",
    "jp": "{v:002C}出たぞ！{n}モンスターだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Here they come! Monsters!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0038",
    "jp": "{v:002D}出番よ！{n}がんばって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}You're up! Give it your best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0039",
    "jp": "{v:003D}ふぅっ。{n}何とか無事のようだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Whew. Looks like we made it through in one piece...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0040",
    "jp": "{FB00}{v:003E}やっぱりおかしいぞ。{n}奴ら、何かに操られているような‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:003E}Something's definitely wrong. It's like something's{n}controlling them...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0041",
    "jp": "{v:003F}そう言えばそんな感じだった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Now that you mention it, it did seem that way...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0042",
    "jp": "{v:0040}だがどうやってモンスターを操るんだ？{n}それにどこから操っているんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}But how would anyone control monsters? And where{n}are they doing it from?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0043",
    "jp": "{v:0041}それはだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Well, you see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0044",
    "jp": "{v:0042}とにかく先を急ぐぞ。{n}前線には我々の到着を待っている兵がいるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}At any rate, we must hurry on. There are soldiers on{n}the front lines waiting for us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0045",
    "jp": "{v:0043}ひえぇ！{n}また風だよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Eeeek! That wind again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0046",
    "jp": "{v:0044}また風か‥‥。{n}そして風に混じるこの匂い‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}The wind again... And that smell it's carrying...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0047",
    "jp": "{v:003B}くそぉっ！{n}また出やがったぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Damn it! Here they come again!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0048",
    "jp": "{v:003C}出番よ！{n}がんばって！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}You're up! Give it your best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0049",
    "jp": "{v:0045}操られているモンスターと、{n}普通の人には感じない匂い？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Monsters being controlled, and a smell ordinary people{n}can't detect?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0050",
    "jp": "{v:0046}どこかで聞いたような話ね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}I feel like I've heard about that somewhere.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0051",
    "jp": "{v:0047}いや、間違いない。{n}これはモンスター使いの仕業だ。{p}{v:0048}山から吹き下ろす風に乗せて、{n}モンスターを操る匂いを流してるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}No, there's no doubt. This is a monster tamer's work.{p}{v:0048}They're using the wind blowing down from the mountain{n}to carry a scent that controls monsters.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0052",
    "jp": "{v:0049}それじゃ敵は山の上に？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Then the enemy's up on the mountain?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0053",
    "jp": "{v:004A}そいつをやっつければ、もう襲われないんだね？{n}よし、行こうよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}So if we beat them, the attacks will stop, right? All{n}right, let's go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0054",
    "jp": "{v:004B}頼んだぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}We're counting on you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0055",
    "jp": "まだ敵を倒していないぞ。",
-   "en": "",
-   "term": "end"
+   "en": "We haven't defeated the enemy yet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0056",
    "jp": "{v:0071}とにかく、あの傷じゃ、当分まともに動けんだろ。{n}しばらくは輸送隊が襲われることはないな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}Anyway, with those wounds, he won't be moving much{n}for a while. The supply convoy should be safe from{n}attacks for now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0057",
    "jp": "{v:0072}それじゃ前線の兵隊さん達も困らなくなるね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}Then the soldiers on the front lines won't have to go{n}without supplies anymore.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0058",
    "jp": "{v:0073}さて、俺も引き上げるとするか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0073}Well, time I headed out, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0059",
    "jp": "{v:0074}ちょっと、待ちなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0074}Hey, hold it right there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0060",
    "jp": "{v:0075}あん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0075}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0061",
    "jp": "{v:0076}お前は敵か？{n}味方か？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0076}Are you an enemy or an ally?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0062",
    "jp": "{v:0077}俺の邪魔をするときは敵だが、目的が同じ時は味方だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0077}Get in my way, and I'm your enemy. Share my goal, and{n}I'm your ally.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0063",
    "jp": "{v:0078}どういうこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}What's that supposed to mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0064",
    "jp": "{v:0079}残念だが、答えられんな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0079}Sorry, but I can't answer that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0065",
    "jp": "{v:007A}それじゃ、あのオズワルドって奴とはどんな関係よ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:007A}Then what's your connection to that Oswald guy?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0066",
    "jp": "{v:007B}オズワルドか。{p}{v:007C}奴は俺の弟がやっていた盗賊団の一員だ。{n}弟が死んで、頭になったようだがな。{p}{v:007D}俺とは直接関係ない。{n}たまに仕事をしてもらう程度だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007B}Oswald, eh?{p}{v:007C}He was in the band of thieves my younger brother{n}led. Seems he took over after my brother died.{p}{v:007D}He's got no direct ties to me. I just give him work now{n}and then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0067",
    "jp": "{v:007E}仕事‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007E}Work...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0068",
    "jp": "{v:007F}ま、アンタらとはまた会うことになるだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:007F}Well, I expect we'll meet again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0069",
    "jp": "{v:0080}やつの目的は何なんだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0080}What's he after?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0070",
    "jp": "{v:004C}くっくっくっ！{n}さぁ、私の可愛いモンスター達よ！{n}もう一働きしておくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Heh heh heh! Now, my darling monsters! Do one more{n}little job for me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0071",
    "jp": "{v:004D}待ちなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Stop right there!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0072",
    "jp": "{v:004E}何だ、お前たちは！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Who are you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0073",
    "jp": "{v:004F}お前がモンスターを操って、{n}輸送隊を襲わせていることはわかっている。{n}つまりお前を倒せば、モンスターの襲撃もなくなる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}We know you're controlling the monsters and making{n}them attack the supply convoy. That means if we{n}defeat you, the attacks will stop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0074",
    "jp": "{v:0050}ええい、見られたからには生かしてはおけませんね！{p}{v:0051}シャドー・ナイトの私にたてついたことを{n}後悔させてやる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Argh! Now that you've seen me, I can't let you live!{p}{v:0051}I'll make you regret defying a Shadow Knight!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0075",
    "jp": "{FB00}{v:0052}シャドー・ナイトだと！？",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0052}A Shadow Knight?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0076",
    "jp": "{v:0053}死ね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0077",
    "jp": "クエッ？",
-   "en": "",
-   "term": "end"
+   "en": "Kweh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0078",
    "jp": "クケッ？",
-   "en": "",
-   "term": "end"
+   "en": "Kwek?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0079",
    "jp": "‥‥クゥ～‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Kuuu...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0080",
    "jp": "クエェッ！",
-   "en": "",
-   "term": "end"
+   "en": "Kweeeh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0081",
    "jp": "‥‥ケッ！",
-   "en": "",
-   "term": "end"
+   "en": "...Keh!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0082",
    "jp": "頼んだぞ！",
-   "en": "",
-   "term": "end"
+   "en": "We're counting on you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0083",
    "jp": "少しでも早く、物資を送ってあげないと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We have to get these supplies to them as soon as{n}we can...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0084",
    "jp": "我々はあまり戦い慣れていないので、{n}早く戻ってきて下さいよ。",
-   "en": "",
-   "term": "end"
+   "en": "We're not used to fighting, so please come back quickly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0085",
    "jp": "我々はあまり戦い慣れていないので、{n}しっかり護衛して下さいよ。",
-   "en": "",
-   "term": "end"
+   "en": "We're not used to fighting, so please make sure you{n}protect us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0086",
    "jp": "{FFF6}{v:001A}うわっぷ！{n}{FFF7}また風が強くなってきたね。{n}飛ばされちゃいそうだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{v:001A}Waugh! {FFF7}The wind's picking up again! I feel like I'm going{n}to get blown away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0087",
    "jp": "{v:001B}北側の山から吹き下ろしている風だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}It's blowing down from the mountain to the north.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0088",
    "jp": "{v:001D}おい、どこへ行くんだ？{n}そっちはルートじゃないぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Hey, where are you going? That's not our route.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0089",
    "jp": "何処へ行くと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Where will you say you're going?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0090",
    "jp": "・間違い",
-   "en": "",
+   "en": "・I went the wrong way",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen096.0091",
    "jp": "・意味はない",
-   "en": "",
+   "en": "・No particular reason",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen096.0092",
    "jp": "・山へ行く",
-   "en": "",
+   "en": "・To the mountain",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen096.0093",
    "jp": "{v:002B}ま、間違いは誰にでもあるからな。{n}さ、先を急ぐぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}Well, everyone makes mistakes. Come on, let's hurry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0094",
    "jp": "{v:001E}山に？{n}君たちは我々を護衛するために{n}ここにいるんじゃないのか？{p}{v:001F}どうして山に行かなくてはいかんのだ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}To the mountain? Aren't you here to escort us?{p}{v:001F}Why do you need to go to the mountain?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0095",
    "jp": "なぜ山に向かうのですか？",
-   "en": "",
-   "term": "end"
+   "en": "Why are you heading to the mountain?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0096",
    "jp": "・敵と戦うため",
-   "en": "",
+   "en": "・To fight the enemy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen096.0097",
    "jp": "・意味はない",
-   "en": "",
+   "en": "・No particular reason",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen096.0098",
    "jp": "{v:0020}敵？{n}敵がいるというのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}The enemy? You're saying there's an enemy there?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0099",
    "jp": "{FB00}{v:0021}ああ、いるな。{n}あの山の上によ。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}{v:0021}Yeah, there is. Up on that mountain.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0100",
    "jp": "{v:0022}どうしたの、ウォレスさんまで？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}What's gotten into you, Wallace-san? You too?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0101",
    "jp": "{v:0023}風に乗って流れてくるこの匂い‥‥。{p}{v:0024}といっても、普通の人間にわかる匂いじゃねぇが、{n}俺みたいに目の不自由な奴なら多少わかるんだ。{p}{v:0025}この匂いは以前嗅いだことがある‥‥。{n}モンスターを操る時に使う粉の匂いだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}This smell drifting on the wind...{p}{v:0024}An ordinary person wouldn't notice it, but someone who{n}can't see, like me, can pick up a little of it.{p}{v:0025}I've smelled it before... It's a powder used to{n}control monsters...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0102",
    "jp": "{v:0026}それじゃ、モンスターが暴れるっていうのは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Then all those monster attacks...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0103",
    "jp": "{v:0027}ローランディア軍を勝たせないようにするために、{n}誰かが操っているんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Someone's controlling them to keep the Rolandia army{n}from winning.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0104",
    "jp": "{v:0028}わかった。{n}君たちの言うことを信じよう。{p}{v:0029}しばらく様子を見て、{n}安全だとわかってから先へ進むようにする。{n}頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Understood. I'll take your word for it.{p}{v:0029}We'll wait a while and only move on once we know it's{n}safe. We're counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0105",
    "jp": "{v:002A}だったらこっちに戻ってくれ。{n}先を急がなければならないんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Then come back this way. We have to hurry.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen096.0106",
    "jp": "おい。{n}俺たちは輸送隊の護衛中だぞ。{n}どこへ行く気だ？",
-   "en": "",
-   "term": "end"
+   "en": "Hey. We're escorting the supply convoy. Where do you{n}think you're going?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

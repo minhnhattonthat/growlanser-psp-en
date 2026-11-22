@@ -15,26 +15,30 @@
   {
    "id": "scen198.0001",
    "jp": "{FFEE}敵を逃がすな！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Do not let the enemy escape!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0002",
    "jp": "{v:0010}ぼやぼやしてると、研究書を取り戻せないよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}If you keep dawdling, we'll never get the research back!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0003",
    "jp": "{v:001D}ああ、やばいよ！{n}逃げられちゃう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Oh, this is bad! They're getting away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0004",
    "jp": "{v:001E}くっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0005",
@@ -57,173 +61,201 @@
   {
    "id": "scen198.0008",
    "jp": "{v:0011}お前は、あの時の！？{n}ええい！しつこい奴め！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}You! From before?! Bah! You persistent pest!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0009",
    "jp": "{v:0012}泥棒のくせに何言ってんのよ！{n}マスターの研究書を返しなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Who do you think you are, you thief?! Give back{n}Master's research notes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0010",
    "jp": "{v:0013}邪魔をすると容赦はせぬぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Interfere, and I shall show you no mercy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0011",
    "jp": "{v:0014}ムッカ～ッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Ooh, you make me sooo mad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0012",
    "jp": "逃がさないから！",
-   "en": "",
-   "term": "end"
+   "en": "You're not getting away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0013",
    "jp": "逃がすか！",
-   "en": "",
-   "term": "end"
+   "en": "You're not escaping!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0014",
    "jp": "目障りだ！　死ねい！！",
-   "en": "",
-   "term": "end"
+   "en": "Out of my sight! Die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0015",
    "jp": "すまねぇ‥‥。{n}役に立てなかった‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Sorry... Wasn't any use...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0016",
    "jp": "　{n}　　　『{FFEF}サンドラの研究書{FFF1}』を取り戻した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Recovered '{FFEF}Sandra's Study{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0017",
    "jp": "お、おのれ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Y-you bastard...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0018",
    "jp": "ここまでか‥‥",
-   "en": "",
-   "term": "end"
+   "en": "So this is it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0019",
    "jp": "ざ、残念だったな‥‥。{n}俺は持ってないぜ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "T-too bad for you... I ain't got it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0020",
    "jp": "くそっ‥‥。{n}もう少しで逃げられたのに‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Damn... I was so close to getting away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0021",
    "jp": "{v:000D}これは！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}What is this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0022",
    "jp": "{v:000E}追っ手だ！{n}お前は我々の脱出を手伝ってくれ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Our pursuers! Help us escape!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0023",
    "jp": "{v:000F}承知した！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Understood!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0024",
    "jp": "ジュリアン？{n}どうしてここに？",
-   "en": "",
-   "term": "end"
+   "en": "Julian? What are you doing here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0025",
    "jp": "心配になってきたのだが‥‥。{n}どうやら無用な気づかいだったようだな。",
-   "en": "",
-   "term": "end"
+   "en": "I came because I was concerned... It seems my concern{n}was unnecessary.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0026",
    "jp": "{v:0015}危なっかしい戦い方だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}That is a reckless way to fight.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0027",
    "jp": "{v:0016}ジュリアン？{n}どうしてここに？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Julian? What are you doing here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0028",
    "jp": "{v:0017}そんな事はどうでもいい！{n}今はこいつらを倒すんだろ？{n}私も加勢する！{p}{v:0018}どうして欲しい？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}That does not matter! You need to defeat them now,{n}correct? I shall assist!{p}{v:0018}What would you have me do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0029",
    "jp": "さぁ、次はどいつを狙えばいい？",
-   "en": "",
-   "term": "end"
+   "en": "Now, which one should I target next?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0030",
    "jp": "ジュリアンにどう指示しますか？",
-   "en": "",
-   "term": "end"
+   "en": "What orders will you give Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0031",
    "jp": "・攻撃目標を指定",
-   "en": "",
+   "en": "・Choose an attack target",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen198.0032",
    "jp": "・自由に戦って欲しい",
-   "en": "",
+   "en": "・Ask Julian to fight freely",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen198.0033",
    "jp": "・その場で待機",
-   "en": "",
+   "en": "・Wait in place",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen198.0034",
    "jp": "{v:0019}こいつでいいんだな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}This is the one, correct?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen198.0035",
    "jp": "{v:001A}わかった！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Understood!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

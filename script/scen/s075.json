@@ -15,167 +15,194 @@
   {
    "id": "scen075.0001",
    "jp": "{v:008E}もう敵はいないよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:008E}There aren't any enemies left, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0002",
    "jp": "{v:008F}よし、ロープを切っちゃおう！",
-   "en": "",
-   "term": "end"
+   "en": "{v:008F}All right, let's cut the ropes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0003",
    "jp": "{v:0059}ここがその渓谷だな？{p}{v:005A}俺の目じゃ、よく見えん。{n}状況を教えてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}This is the gorge, right?{p}{v:005A}Can't see much with these eyes. Tell me{n}what's happening.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0004",
    "jp": "{v:005B}あ、あれって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}Oh, is that...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0005",
    "jp": "{v:005C}うん。バーンシュタイン王国の兵隊さんだね。{n}橋をつくってるよ。{p}{v:005D}でもどうしてかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Yes. Those are soldiers from the Kingdom of Burnstein.{n}They're building a bridge.{p}{v:005D}But I wonder why?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0006",
    "jp": "{v:005E}橋をつくっているだと！{p}{v:005F}クッ！{n}奴ら南の森を迂回せず、最短距離を進むために{n}ここに橋をつくっているんだ！{p}{v:0060}やばいな。このままじゃすぐに攻め込まれる‥‥。{p}{v:0061}俺の目じゃ、よく見えん。{n}状況を教えてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}They're building a bridge?!{p}{v:005F}Damn! They're building it here to take the shortest{n}route instead of going around the forest to the south!{p}{v:0060}This is bad. At this rate, they'll be on us in no time...{p}{v:0061}Can't see much with these eyes. Tell me{n}what's happening.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0007",
    "jp": "{v:0062}ええとね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0062}Let's see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0008",
    "jp": "{v:0063}まだ橋は完成していなくて、{n}数本のロープに板を渡している最中だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0063}The bridge isn't finished yet. They're laying planks{n}across a few ropes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0009",
    "jp": "{v:0064}それから作業をしている兵士が２人と、{n}警備員が４人いるよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}And there are two soldiers doing the work, plus{n}four guards!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0010",
    "jp": "{v:0065}‥‥６人か。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}...Six men, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0011",
    "jp": "この状況に対して、何か提案はありますか？",
-   "en": "",
-   "term": "end"
+   "en": "Do you have any suggestions for dealing with{n}this situation?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0012",
    "jp": "{v:0067}提案？　なによ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0067}A suggestion? Well, what is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0013",
    "jp": "提案内容はなんですか？",
-   "en": "",
-   "term": "end"
+   "en": "What is your suggestion?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0014",
    "jp": "・あの人数なら、橋の完成まで時間がかかる",
-   "en": "",
+   "en": "・With so few men, the bridge will take a while",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen075.0015",
    "jp": "・あの人数なら、自分たちで倒せる",
-   "en": "",
+   "en": "・We can take that many ourselves",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen075.0016",
    "jp": "・何でもない",
-   "en": "",
+   "en": "・Never mind",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen075.0017",
    "jp": "{v:006B}そうかも知んないけど、{n}援軍が来るのとどっちが早いかなぁ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006B}Maybe, but would that be quicker than waiting{n}for reinforcements?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0018",
    "jp": "{v:0068}えぇっ？{n}倒せるって、アタシ達が戦うってこと？{n}アンタ、本気で言ってるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0068}Huh?! Take them ourselves? You mean we're going to{n}fight?! Are you serious?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0019",
    "jp": "{v:0069}いや、その考え、俺も賛成だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0069}No, I'm with him on that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0020",
    "jp": "{v:006C}言いかけてやめるなんて、男らしくないわね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:006C}Starting to say something, then backing out? That's{n}not very manly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0021",
    "jp": "{v:006D}そう？　ならいいんだけど。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006D}Really? Well, all right, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0022",
    "jp": "{v:006E}ならば俺から提案がある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:006E}Then I've got a suggestion.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0023",
    "jp": "{v:0070}連中は、今６人しかいない。{n}俺たちが一気にかかれば、橋を落せると思うぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0070}There's only six of them right now. If we rush them all{n}at once, I reckon we can bring the bridge down.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0024",
    "jp": "{v:0071}それって、アタシたちが戦うって事？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0071}You mean we're going to fight?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0025",
    "jp": "{v:0072}別に敵と直接戦うだけが能じゃない。{n}要するにバーンシュタイン王国軍が{n}こっちに渡ってこなければいいわけだ。{p}{v:0073}だったら手っ取り早いのは、{n}あの橋が完成する前に壊しちまう事だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0072}Fighting the enemy head-on isn't our only option. All{n}that matters is keeping Burnstein's army from crossing{n}over here.{p}{v:0073}So the quickest way is to destroy that bridge before{n}they finish it, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0026",
    "jp": "{v:0074}確かに今ならロープを切るだけで簡単に落とせるね。{n}だけど、落としちゃっていいの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0074}That's true. Right now, we could bring it down just by{n}cutting the ropes. But is it really all right to destroy it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0027",
    "jp": "{v:0075}ここで橋を確保しても、{n}敵はまたここを狙ってくるだろう？{n}確実に敵を追い返すには、破壊するしかない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0075}Even if we take the bridge, the enemy'll just come after{n}it again. Destroying it is the only sure way to turn{n}them back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0028",
@@ -186,386 +213,450 @@
   {
    "id": "scen075.0029",
    "jp": "{v:0077}それなら、確実に時間稼ぎが出来るね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0077}Then that would definitely buy us some time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0030",
    "jp": "{v:0078}いいじゃない。{n}やっちゃお！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0078}Sounds good to me! Let's do it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0031",
    "jp": "アンタ、一体どこへ行くつもりよ！{n}そっち行ったら、いつ敵と出会うか、{n}わかんないでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going?! Head that way and we{n}could run into the enemy at any moment!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0032",
    "jp": "{FFEC}ティピちゃーんキーック！{FFED}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEC}Tippi-chan Kiiick!{FFED}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0033",
    "jp": "橋をそのままにしておいたら、{n}いつ敵に渡られるかわかんないでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "Leave that bridge standing and the enemy could cross{n}it any minute!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0034",
    "jp": "{v:0090}やったぁ！{n}橋が落ちたよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0090}Yay! The bridge is down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0035",
    "jp": "{v:0091}ムッ！{n}これはどういうことだ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0091}What?! What is the meaning of this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0036",
    "jp": "{v:0092}あ、将軍！{n}実はあのローランディアの連中が橋を！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0092}Oh, General! Those people from Rolandia did this to{n}the bridge!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0037",
    "jp": "{v:0093}何だと！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0093}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0038",
    "jp": "{v:0094}お、お前たちは！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0094}Y-you?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0039",
    "jp": "{v:0095}ジュリアン‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0095}Julian...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0040",
    "jp": "{v:0096}何？{n}どこだ、どこにいる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0096}What? Where? Where's Julian?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0041",
    "jp": "{v:0097}谷の向こう側‥‥{n}バーンシュタイン王国軍の中に‥‥。{FFF9}{FFFB}{n}{v:0098}まるで司令官みたい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0097}Across the ravine... Among Burnstein's{n}troops...{FFF9}{FFFB}{v:0098}Looking just like their commander...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0042",
    "jp": "{v:0099}久しぶりだな。{p}{v:009A}それにしてもあのペンダント、{n}願いが叶うのは本当だったようだ。{p}{v:009B}まさかこんな形で再会する羽目になろうとは{n}思わなかったがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0099}It has been a while.{p}{v:009A}Still, it seems that pendant truly does grant wishes.{p}{v:009B}Though I never imagined we would meet again under{n}such circumstances.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0043",
    "jp": "{v:009C}それじゃ、インペリアル・ナイトになれたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:009C}Then you became an Imperial Knight?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0044",
    "jp": "{v:009D}ああ。{n}そして今、貴様らの敵として私はここにいる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009D}Yes. And now I stand here as your enemy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0045",
    "jp": "{v:009E}ね、ジュリアン！{n}戦争は本当なの？{n}どうしてそんなことに？",
-   "en": "",
-   "term": "end"
+   "en": "{v:009E}Hey, Julian! Is it true we're at war? How did{n}this happen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0046",
    "jp": "{v:009F}それはローランディア王国の貴族の１人が、{n}こともあろうか戴冠式の最中に{n}我が国王に斬りかかったからだ。{p}{v:00A0}そのようなことがあった以上、{n}昔のままの友好関係が続くはずもないだろう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:009F}Because a noble of Rolandia dared to attack our King{n}with a sword during the coronation itself.{p}{v:00A0}After such an incident, you cannot expect our nations{n}to remain on friendly terms...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0047",
    "jp": "{v:00A1}それじゃグレッグ卿が斬りかかったって、{n}本当だったの‥‥。{FFF9}{FFFB}{n}{v:00A2}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A1}Then it's true that Lord Greg attacked him...{FFF9}{FFFB}{v:00A2}It{n}can't be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0048",
    "jp": "{v:00A3}とにかく、先に刃を向けたのはお前たちの方だ。{n}従って我々は報復行動に出た。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A3}Whatever the case, your side drew its blade first. We{n}have therefore taken retaliatory action.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0049",
    "jp": "{v:00A4}昔の友は、今日の敵‥‥か。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A4}Yesterday's friends, today's enemies... huh.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0050",
    "jp": "{v:00A5}だがこの峡谷のせいで今は戦うことは出来ぬ。{n}命拾いをしたな。{p}{v:00A6}次に会ったときは、こうはいかんぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A5}But this ravine prevents us from fighting for now.{n}Your lives have been spared.{p}{v:00A6}You will not be so fortunate when next we meet!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0051",
    "jp": "{v:00A7}ジュリアンさん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A7}Julian-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0052",
    "jp": "{v:00A8}こうなっちまった以上、くよくよ悩んでも仕方ねぇさ。{n}とにかく、砦へ戻ろうぜ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A8}No use brooding over it now that things have come to{n}this. Come on, let's head back to the fort.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0053",
    "jp": "お約束はしないの！",
-   "en": "",
-   "term": "end"
+   "en": "We're not doing that old routine!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0054",
    "jp": "こっちだ！",
-   "en": "",
-   "term": "end"
+   "en": "This way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0055",
    "jp": "{v:00A9}何なの、コレ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00A9}What's this thing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0056",
    "jp": "{v:00AA}やあ来たね。{n}このロープを使って、向こう側まで渡ってもらう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AA}Ah, you're here. You'll use this rope to get across.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0057",
    "jp": "{FFF5}{v:00AB}ええっ！？{n}これで！？",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:00AB}What?! On this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0058",
    "jp": "{FFF5}‥‥{v:00AC}アタシ、途中で落ちそう‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}...{v:00AC}I think I'll fall off halfway across...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0059",
    "jp": "{v:00D2}大丈夫だよ。{n}自分の体を縛ったロープを、このロープに繋げば。{p}{v:00AD}ほら、こっち側より、向こうの方が低いだろ？{n}ちょっと怖いかも知れないけど、{n}ただぶら下がっているだけで向こうまで滑っていける。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D2}You'll be fine. Just attach the rope tied around your{n}body to this one.{p}{v:00AD}See how the other side is lower than this side? It might{n}be a little scary, but all you have to do is hang on and{n}you'll slide right across.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0060",
    "jp": "{v:00AE}なるほどな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AE}I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0061",
    "jp": "{v:00AF}ただ注意して欲しいのが、このロープは君たちを{n}送った後は、すぐに切ってしまうって事だ。{p}{v:00B0}つまり、向こうへ行くだけで、{n}戻る方法は用意されていない。{n}ただ１回だけの方法だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00AF}There's one thing you should know. Once you're across,{n}we'll cut this rope immediately.{p}{v:00B0}In other words, this will get you over there, but we{n}haven't arranged a way back. You can only use it once.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0062",
    "jp": "{v:00B1}それは大丈夫。{n}ルイセちゃんがテレポート使えるからね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B1}That's fine. Luise-chan can use Teleport.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0063",
    "jp": "{v:00B2}それじゃ、魔力は回復させておいた方がいいね。{n}向こうにテレポートでいける、{n}目印のポイントがあるかどうかもわからないし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B2}Then you'd better replenish your magic first. We don't{n}even know whether there's a landmark over there you{n}can Teleport to...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0064",
    "jp": "{v:00B3}そっか。{n}ルイセちゃんのテレポートは、{n}街を目印にしてるんだっけ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B3}Oh, right. Luise-chan uses towns as landmarks for{n}Teleport, doesn't she?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0065",
    "jp": "{v:00B4}それじゃ、その準備が終わったら{n}もう一度話しかけてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B4}Then come speak to me again once you're ready.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0066",
    "jp": "{v:00B5}もう準備はいいかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B5}Are you ready now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0067",
    "jp": "{v:00B6}それじゃ順番にこっちへ来てくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B6}All right, come over here one at a time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0068",
    "jp": "{v:00B7}まず俺から行こう。{n}向こうに敵がいた場合、{n}安全を確保する者が必要だろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B7}I'll go first. If there's an enemy over there, you'll need{n}someone to make sure it's safe.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0069",
    "jp": "{v:00B8}よし、いいぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00B8}All right, you're good to go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0070",
    "jp": "{v:00BA}よし、次！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BA}All right, next!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0071",
    "jp": "{v:00BB}それじゃ、次はルイセちゃんかな？{n}何かあったらウォレスさんを連れて戻れるからね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BB}Then Luise-chan should go next, right? If anything{n}happens, she can bring Wallace-san back...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0072",
    "jp": "{FFF5}{v:00BC}怖いなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:00BC}I'm scared...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0073",
    "jp": "{v:00BD}それじゃ、行くぞ。{n}それ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BD}All right, here we go. Off you go!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0074",
    "jp": "{v:00BF}よし、次はそっちのお嬢ちゃんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00BF}All right, you're next, young lady.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0075",
    "jp": "{v:00C0}うぅ‥‥怖いような、楽しそうな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C0}Ooh... It looks scary, but it looks fun, too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0076",
    "jp": "{v:00C1}行くぞ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C1}Ready to go?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0077",
    "jp": "{v:00C2}ちょっと、待って！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C2}Wait a second!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0078",
    "jp": "{v:00C3}まず、深呼吸して‥‥。{p}{FC05}{FB00}{v:00C4}でもでもでも、{n}もし途中で止まったりしたら宙づりだし‥‥。{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C3}First, a deep breath...{p}{FC05}{FB00}{v:00C4}But, but, but... What if I stop halfway? I'll be left{n}dangling in midair...{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0079",
    "jp": "{FFF5}{v:00C5}それより途中でロープが切れちゃったりしたら、{n}谷底に落ちちゃって、{n}そうしたら絶対に助からなくって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:00C5}Worse, what if the rope snaps halfway across? I'll fall{n}to the bottom of the ravine, and there's no way{n}I'd survive...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0080",
    "jp": "{v:00C6}早く行きなさいよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C6}Just get going already!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0081",
    "jp": "{FFF5}{v:00C7}でも、だって、やっぱり‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF5}{v:00C7}But... I mean... I really...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0082",
    "jp": "{v:00C8}ティピちゃーん、キーーーック{FB00}！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00C8}Tippi-chan, Kiiiick{FB00}!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0083",
    "jp": "{v:00CA}最後は君だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CA}You're last.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0084",
    "jp": "{v:00D1}体力や魔力の回復と、回復アイテムの準備。{n}それから記録を取ることも忘れるなよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D1}Recover your strength and magic, and stock up on{n}healing items. And don't forget to save your progress.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0085",
    "jp": "さぁ、ロープにつかまるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "Now, grab the rope.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0086",
    "jp": "{v:00CE}みんな大丈夫？",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CE}Is everyone all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0087",
    "jp": "{v:00CF}うぅ‥‥頭打ったよぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CF}Owww... I hit my head...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0088",
    "jp": "{v:00D0}次にローランディア王国へ戻るときは、{n}姫さんを助け出してテレポートするときだ。{n}ルイセの魔力が切れないように注意しないとな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:00D0}Next time we return to Rolandia, it'll be by Teleport with{n}the princess safe and sound. We'd better make sure{n}Luise doesn't run out of magic.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0089",
    "jp": "{v:00CB}監獄の周りは特殊な地形だから、{n}それをうまく使えばきっとレティシア姫を{n}助け出せるさ。{p}{v:00CC}頼んだぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CB}The terrain around the prison is unusual. Make good{n}use of it, and I'm sure you can rescue Princess Leticia.{p}{v:00CC}We're counting on you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0090",
    "jp": "{v:00CD}さ、いっくよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:00CD}All right, here we gooo!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0091",
    "jp": "ダメだよ、お兄ちゃん。{n}まだレティシア姫を助け出してないよ。",
-   "en": "",
-   "term": "end"
+   "en": "We can't, Big Brother. We haven't rescued Princess{n}Leticia yet.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen075.0092",
    "jp": "橋をそのままにするなっての！",
-   "en": "",
-   "term": "end"
+   "en": "I said don't leave that bridge standing!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

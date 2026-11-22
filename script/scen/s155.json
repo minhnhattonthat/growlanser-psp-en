@@ -15,655 +15,753 @@
   {
    "id": "scen155.0001",
    "jp": "文官",
-   "en": "",
-   "term": "null"
+   "en": "Civil Official",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen155.0002",
    "jp": "休暇デバッグ",
-   "en": "",
-   "term": "end"
+   "en": "Vacation Debug",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0003",
    "jp": "文官に話しかけると、デバッグ開始。{n}ここではセーブできます。",
-   "en": "",
-   "term": "end"
+   "en": "Talk to the civil official to start debugging. You can{n}save here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0004",
    "jp": "今回の休暇日数を設定して下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Set the number of days for this vacation.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0005",
    "jp": "・３日",
-   "en": "",
+   "en": "・3 days",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0006",
    "jp": "・２日",
-   "en": "",
+   "en": "・2 days",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0007",
    "jp": "・１日",
-   "en": "",
+   "en": "・1 day",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0008",
    "jp": "{v:0003}今回の働きに対して与えられる休暇は３日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}For your service, you are granted three days of leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0009",
    "jp": "{v:0002}今回の働きに対して与えられる休暇は２日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}For your service, you are granted two days of leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0010",
    "jp": "{v:0001}今回の働きに対して与えられる休暇は１日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}For your service, you are granted one day of leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0011",
    "jp": "今回の休暇が終わっても、デバッグを継続しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Continue debugging after this vacation ends?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0012",
    "jp": "・休暇デバッグを次回も行う",
-   "en": "",
+   "en": "・Debug the next vacation too",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0013",
    "jp": "・今回の休暇後、通常ＲＰＧモードへ",
-   "en": "",
+   "en": "・Resume normal RPG mode after vacation",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0014",
    "jp": "・建国祭へ",
-   "en": "",
+   "en": "・Go to the Founding Festival",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0015",
    "jp": "休暇終了後、新しい任務の説明を受けますが、{n}任務を受けた後は、まず自宅に戻り、{n}{FFEE}完全イベントチェック{FFF1}を実行して下さい。",
-   "en": "",
-   "term": "end"
+   "en": "After your vacation, you will be briefed on a new{n}mission. Once you accept it, return home first and run{n}the {FFEE}Full Event Check{FFF1}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0016",
    "jp": "{v:0009}今日はどこへ行く？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Where shall we go today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0017",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Where will you spend your leave today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0018",
    "jp": "・王都ローザリア",
-   "en": "",
+   "en": "・Royal Capital Rosaria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0019",
    "jp": "・保養地ラシェル",
-   "en": "",
+   "en": "・Rachelle Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0020",
    "jp": "・魔法学院",
-   "en": "",
+   "en": "・Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0021",
    "jp": "・観光地コムスプリングス",
-   "en": "",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0022",
    "jp": "・{s:0010}",
-   "en": "",
+   "en": "・{s:0010}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0023",
    "jp": "・ジュリアン軍本陣（クレイン村）",
-   "en": "",
+   "en": "・Julian's Main Camp (Crane Village)",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0024",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Where will you spend your leave today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0025",
    "jp": "・王都ローザリア",
-   "en": "",
+   "en": "・Royal Capital Rosaria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0026",
    "jp": "・保養地ラシェル",
-   "en": "",
+   "en": "・Rachelle Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0027",
    "jp": "・魔法学院",
-   "en": "",
+   "en": "・Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0028",
    "jp": "・観光地コムスプリングス",
-   "en": "",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0029",
    "jp": "・{s:0010}",
-   "en": "",
+   "en": "・{s:0010}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0030",
    "jp": "・エリオット戴冠記念パーティー",
-   "en": "",
+   "en": "・Elliot's Coronation Party",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0031",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Where will you spend your leave today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0032",
    "jp": "・王都ローザリア",
-   "en": "",
+   "en": "・Royal Capital Rosaria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0033",
    "jp": "・保養地ラシェル",
-   "en": "",
+   "en": "・Rachelle Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0034",
    "jp": "・魔法学院",
-   "en": "",
+   "en": "・Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0035",
    "jp": "・観光地コムスプリングス",
-   "en": "",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0036",
    "jp": "・{s:0010}",
-   "en": "",
+   "en": "・{s:0010}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0037",
    "jp": "ミーシャをパーティーに加える？",
-   "en": "",
-   "term": "end"
+   "en": "Add Misha to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0038",
    "jp": "これ以上は無理です。",
-   "en": "",
-   "term": "end"
+   "en": "You cannot add any more.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0039",
    "jp": "アリオストをパーティーに加える？",
-   "en": "",
-   "term": "end"
+   "en": "Add Ariost to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0040",
    "jp": "仲間にできるのは休暇３からです。",
-   "en": "",
-   "term": "end"
+   "en": "Available as a companion from Vacation 3 onward.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0041",
    "jp": "カレンをパーティーに加える？",
-   "en": "",
-   "term": "end"
+   "en": "Add Karen to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0042",
    "jp": "エリオットをパーティーに加える？",
-   "en": "",
-   "term": "end"
+   "en": "Add Elliot to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0043",
    "jp": "仲間にできるのは休暇１２からです。",
-   "en": "",
-   "term": "end"
+   "en": "Available as a companion from Vacation 12 onward.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0044",
    "jp": "ジュリアンをパーティーに加える？",
-   "en": "",
-   "term": "end"
+   "en": "Add Julian to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0045",
    "jp": "ゼノスをパーティーに加える？",
-   "en": "",
-   "term": "end"
+   "en": "Add Xenos to the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0046",
    "jp": "仲間にできるのは休暇１１からです。",
-   "en": "",
-   "term": "end"
+   "en": "Available as a companion from Vacation 11 onward.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0047",
    "jp": "デバッグ用のファイルなので、外はありません。",
-   "en": "",
-   "term": "end"
+   "en": "This is a debug file, so there is no outside area.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0048",
    "jp": "パーティを解除しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Disband the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0049",
    "jp": "パーティーメンバーを変更しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Change party members?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0050",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0051",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0052",
    "jp": "現在のメンバーのまま休暇を行います。",
-   "en": "",
-   "term": "end"
+   "en": "Proceed with the vacation using the current party.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0053",
    "jp": "パーティーにいるＦＣの組み合わせは？",
-   "en": "",
-   "term": "end"
+   "en": "Which pair of companions is in the party?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0054",
    "jp": "・ミーシャ　＆　アリオスト",
-   "en": "",
+   "en": "・Misha & Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0055",
    "jp": "・ミーシャ　＆　カレン",
-   "en": "",
+   "en": "・Misha & Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0056",
    "jp": "・ミーシャ　＆　ゼノス",
-   "en": "",
+   "en": "・Misha & Xenos",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0057",
    "jp": "・ミーシャ　＆　エリオット",
-   "en": "",
+   "en": "・Misha & Elliot",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0058",
    "jp": "・ミーシャ　＆　ジュリアン",
-   "en": "",
+   "en": "・Misha & Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0059",
    "jp": "・アリオスト　＆　カレン",
-   "en": "",
+   "en": "・Ariost & Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0060",
    "jp": "・アリオスト　＆　ゼノス",
-   "en": "",
+   "en": "・Ariost & Xenos",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0061",
    "jp": "・アリオスト　＆　エリオット",
-   "en": "",
+   "en": "・Ariost & Elliot",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0062",
    "jp": "・アリオスト　＆　ジュリアン",
-   "en": "",
+   "en": "・Ariost & Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0063",
    "jp": "・カレン　＆　ゼノス",
-   "en": "",
+   "en": "・Karen & Xenos",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0064",
    "jp": "・カレン　＆　エリオット",
-   "en": "",
+   "en": "・Karen & Elliot",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0065",
    "jp": "・カレン　＆　ジュリアン",
-   "en": "",
+   "en": "・Karen & Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0066",
    "jp": "・ゼノス　＆　エリオット",
-   "en": "",
+   "en": "・Xenos & Elliot",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0067",
    "jp": "・ゼノス　＆　ジュリアン",
-   "en": "",
+   "en": "・Xenos & Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0068",
    "jp": "・エリオット　＆　ジュリアン",
-   "en": "",
+   "en": "・Elliot & Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0069",
    "jp": "・なし",
-   "en": "",
+   "en": "・None",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0070",
    "jp": "パーティーの変更が出来るのは{n}休暇４からです。",
-   "en": "",
-   "term": "end"
+   "en": "Party changes are available from Vacation 4 onward.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0071",
    "jp": "今までに過ごした休暇は{FFEB}回だ。{n}変更するか？",
-   "en": "",
-   "term": "end"
+   "en": "You have taken {FFEB} vacations so far. Change this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0072",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0073",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0074",
    "jp": "このままで続ける。",
-   "en": "",
-   "term": "end"
+   "en": "Continue without changes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0075",
    "jp": "次は休暇いくつにする？",
-   "en": "",
-   "term": "end"
+   "en": "Which vacation should come next?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0076",
    "jp": "・休暇１",
-   "en": "",
+   "en": "・Vacation 1",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0077",
    "jp": "・休暇２",
-   "en": "",
+   "en": "・Vacation 2",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0078",
    "jp": "・休暇３",
-   "en": "",
+   "en": "・Vacation 3",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0079",
    "jp": "・休暇４",
-   "en": "",
+   "en": "・Vacation 4",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0080",
    "jp": "・休暇５",
-   "en": "",
+   "en": "・Vacation 5",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0081",
    "jp": "・休暇６",
-   "en": "",
+   "en": "・Vacation 6",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0082",
    "jp": "・休暇７",
-   "en": "",
+   "en": "・Vacation 7",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0083",
    "jp": "・休暇８",
-   "en": "",
+   "en": "・Vacation 8",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0084",
    "jp": "・休暇９",
-   "en": "",
+   "en": "・Vacation 9",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0085",
    "jp": "・休暇１０",
-   "en": "",
+   "en": "・Vacation 10",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0086",
    "jp": "・休暇１１",
-   "en": "",
+   "en": "・Vacation 11",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0087",
    "jp": "・休暇１２",
-   "en": "",
+   "en": "・Vacation 12",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0088",
    "jp": "誰のフラグを変えますか？",
-   "en": "",
-   "term": "end"
+   "en": "Whose flags would you like to change?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0089",
    "jp": "・主人公",
-   "en": "",
+   "en": "・Hero",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0090",
    "jp": "・俺街",
-   "en": "",
+   "en": "・My Town",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0091",
    "jp": "・ルイセ",
-   "en": "",
+   "en": "・Luise",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0092",
    "jp": "・ウォレス",
-   "en": "",
+   "en": "・Wallace",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0093",
    "jp": "・ミーシャ",
-   "en": "",
+   "en": "・Misha",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0094",
    "jp": "・アリオスト",
-   "en": "",
+   "en": "・Ariost",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0095",
    "jp": "・カレン",
-   "en": "",
+   "en": "・Karen",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0096",
    "jp": "・エリオット",
-   "en": "",
+   "en": "・Elliot",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0097",
    "jp": "・ジュリアン",
-   "en": "",
+   "en": "・Julian",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0098",
    "jp": "・ゼノス",
-   "en": "",
+   "en": "・Xenos",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0099",
@@ -682,107 +780,124 @@
   {
    "id": "scen155.0101",
    "jp": "・全員",
-   "en": "",
+   "en": "・Everyone",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0102",
    "jp": "俺街開発",
-   "en": "",
-   "term": "end"
+   "en": "My Town Development",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0103",
    "jp": "劇場",
-   "en": "",
-   "term": "end"
+   "en": "Theater",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0104",
    "jp": "ジョニー・カルテット",
-   "en": "",
-   "term": "end"
+   "en": "Johnny Quartet",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0105",
    "jp": "歌姫バーバラ",
-   "en": "",
-   "term": "end"
+   "en": "Songstress Barbara",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0106",
    "jp": "劇団三国大陸",
-   "en": "",
-   "term": "end"
+   "en": "Three Kingdoms Continent Theater Company",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0107",
    "jp": "展示場",
-   "en": "",
-   "term": "end"
+   "en": "Exhibition Hall",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0108",
    "jp": "造形家",
-   "en": "",
-   "term": "end"
+   "en": "Sculptor",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0109",
    "jp": "画家",
-   "en": "",
-   "term": "end"
+   "en": "Painter",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0110",
    "jp": "絵画展と造形展、どちらを開催？",
-   "en": "",
-   "term": "end"
+   "en": "Which exhibition will you hold: paintings or sculptures?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0111",
    "jp": "・絵画展",
-   "en": "",
+   "en": "・Painting Exhibition",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0112",
    "jp": "・造形展",
-   "en": "",
+   "en": "・Sculpture Exhibition",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0113",
    "jp": "レストラン",
-   "en": "",
-   "term": "end"
+   "en": "Restaurant",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0114",
    "jp": "和食レストラン",
-   "en": "",
-   "term": "end"
+   "en": "Japanese Restaurant",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0115",
    "jp": "高級レストラン",
-   "en": "",
-   "term": "end"
+   "en": "Fine Dining Restaurant",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0116",
    "jp": "ボート",
-   "en": "",
-   "term": "end"
+   "en": "Boat",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0117",
    "jp": "ダンジョンマンいる？",
-   "en": "",
-   "term": "end"
+   "en": "Is Dungeon Man here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0118",
@@ -814,26 +929,30 @@
   {
    "id": "scen155.0122",
    "jp": "クッキーづくりを見た",
-   "en": "",
-   "term": "end"
+   "en": "Saw the cookie-making scene",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0123",
    "jp": "かくれんぼを見た",
-   "en": "",
-   "term": "end"
+   "en": "Saw the hide-and-seek scene",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0124",
    "jp": "キャッチボールを見た",
-   "en": "",
-   "term": "end"
+   "en": "Saw the game of catch",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0125",
    "jp": "ドレスの話を聞いた",
-   "en": "",
-   "term": "end"
+   "en": "Heard the talk about the dress",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0126",
@@ -1017,85 +1136,97 @@
   {
    "id": "scen155.0152",
    "jp": "友好度はいくつに設定する？",
-   "en": "",
-   "term": "end"
+   "en": "What should the friendship level be set to?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0153",
    "jp": "・このまま",
-   "en": "",
+   "en": "・Leave unchanged",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0154",
    "jp": "・１００",
-   "en": "",
+   "en": "・100",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0155",
    "jp": "・２００",
-   "en": "",
+   "en": "・200",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0156",
    "jp": "・３００",
-   "en": "",
+   "en": "・300",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0157",
    "jp": "・４００",
-   "en": "",
+   "en": "・400",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0158",
    "jp": "・５００",
-   "en": "",
+   "en": "・500",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0159",
    "jp": "・６００",
-   "en": "",
+   "en": "・600",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0160",
    "jp": "・７００",
-   "en": "",
+   "en": "・700",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0161",
    "jp": "・８００",
-   "en": "",
+   "en": "・800",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0162",
    "jp": "・９００",
-   "en": "",
+   "en": "・900",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0163",
    "jp": "・１０００",
-   "en": "",
+   "en": "・1000",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0164",
@@ -1142,8 +1273,9 @@
   {
    "id": "scen155.0171",
    "jp": "母娘の話を聞いた？",
-   "en": "",
-   "term": "end"
+   "en": "Heard the mother and daughter's story?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0172",
@@ -1166,38 +1298,44 @@
   {
    "id": "scen155.0175",
    "jp": "ミーシャの学校生活１を見た",
-   "en": "",
-   "term": "end"
+   "en": "Saw Misha's school life scene 1",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0176",
    "jp": "ミーシャのケーキを見た",
-   "en": "",
-   "term": "end"
+   "en": "Saw Misha's cake scene",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0177",
    "jp": "ミーシャの学校生活２を見た",
-   "en": "",
-   "term": "end"
+   "en": "Saw Misha's school life scene 2",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0178",
    "jp": "ミーシャをなぐさめた",
-   "en": "",
-   "term": "end"
+   "en": "Comforted Misha",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0179",
    "jp": "セーター編み始めた？",
-   "en": "",
-   "term": "end"
+   "en": "Started knitting the sweater?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0180",
    "jp": "セーター編んでる？",
-   "en": "",
-   "term": "end"
+   "en": "Knitting the sweater?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0181",
@@ -1236,44 +1374,51 @@
   {
    "id": "scen155.0186",
    "jp": "重態カレンを見た？",
-   "en": "",
-   "term": "end"
+   "en": "Seen Karen in critical condition?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0187",
    "jp": "入院カレンを見舞った？",
-   "en": "",
-   "term": "end"
+   "en": "Visited Karen in the hospital?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0188",
    "jp": "意中の人の話を聞いた？",
-   "en": "",
-   "term": "end"
+   "en": "Heard about the person she loves?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0189",
    "jp": "ゼノスの絵を見た？",
-   "en": "",
-   "term": "end"
+   "en": "Seen Xenos's painting?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0190",
    "jp": "カレン転んだ？",
-   "en": "",
-   "term": "end"
+   "en": "Did Karen trip?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0191",
    "jp": "カレン助けた？",
-   "en": "",
-   "term": "end"
+   "en": "Helped Karen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0192",
    "jp": "カレンにお礼言われた？",
-   "en": "",
-   "term": "end"
+   "en": "Did Karen thank you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0193",
@@ -1378,98 +1523,112 @@
   {
    "id": "scen155.0208",
    "jp": "マイ＝ロードあり？",
-   "en": "",
-   "term": "end"
+   "en": "Triggered the 'My Lord' event?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0209",
    "jp": "友好度はいくつに設定する？",
-   "en": "",
-   "term": "end"
+   "en": "What should the friendship level be set to?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0210",
    "jp": "・このまま",
-   "en": "",
+   "en": "・Leave unchanged",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0211",
    "jp": "・１００",
-   "en": "",
+   "en": "・100",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0212",
    "jp": "・２００",
-   "en": "",
+   "en": "・200",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0213",
    "jp": "・３００",
-   "en": "",
+   "en": "・300",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0214",
    "jp": "・４００",
-   "en": "",
+   "en": "・400",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0215",
    "jp": "・５００",
-   "en": "",
+   "en": "・500",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0216",
    "jp": "・６００",
-   "en": "",
+   "en": "・600",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0217",
    "jp": "・７００",
-   "en": "",
+   "en": "・700",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0218",
    "jp": "・８００",
-   "en": "",
+   "en": "・800",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0219",
    "jp": "・９００",
-   "en": "",
+   "en": "・900",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0220",
    "jp": "・１０００",
-   "en": "",
+   "en": "・1000",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0221",
    "jp": "・１３００",
-   "en": "",
+   "en": "・1300",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0222",
@@ -1680,106 +1839,121 @@
   {
    "id": "scen155.0252",
    "jp": "全員の友好度を‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Set everyone's friendship level to...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen155.0253",
    "jp": "・０",
-   "en": "",
+   "en": "・0",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0254",
    "jp": "・１００",
-   "en": "",
+   "en": "・100",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0255",
    "jp": "・２００",
-   "en": "",
+   "en": "・200",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0256",
    "jp": "・３００",
-   "en": "",
+   "en": "・300",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0257",
    "jp": "・４００",
-   "en": "",
+   "en": "・400",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0258",
    "jp": "・５００",
-   "en": "",
+   "en": "・500",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0259",
    "jp": "・６００",
-   "en": "",
+   "en": "・600",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0260",
    "jp": "・７００",
-   "en": "",
+   "en": "・700",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0261",
    "jp": "・８００",
-   "en": "",
+   "en": "・800",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0262",
    "jp": "・９００",
-   "en": "",
+   "en": "・900",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0263",
    "jp": "・１０００",
-   "en": "",
+   "en": "・1000",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0264",
    "jp": "・１１００",
-   "en": "",
+   "en": "・1100",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0265",
    "jp": "・１２００",
-   "en": "",
+   "en": "・1200",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen155.0266",
    "jp": "・１３００",
-   "en": "",
+   "en": "・1300",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   }
  ]
 }

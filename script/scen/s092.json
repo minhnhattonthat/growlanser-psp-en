@@ -15,38 +15,44 @@
   {
    "id": "scen092.0001",
    "jp": "道標",
-   "en": "",
-   "term": "null"
+   "en": "Signpost",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen092.0002",
    "jp": "盗賊",
-   "en": "",
-   "term": "null"
+   "en": "Bandit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen092.0003",
    "jp": "カレン",
-   "en": "",
-   "term": "null"
+   "en": "Karen",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen092.0004",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen092.0005",
    "jp": "フェザリアン",
-   "en": "",
-   "term": "null"
+   "en": "Featherian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen092.0006",
    "jp": "男",
-   "en": "",
-   "term": "null"
+   "en": "Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen092.0007",
@@ -287,140 +293,163 @@
   {
    "id": "scen092.0046",
    "jp": "{v:0048}キャアアッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0047",
    "jp": "{v:0049}この声は！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}That voice?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0048",
    "jp": "お兄ちゃん！{n}あの人を置いていって、どこへ行くつもり？",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother! Where are you going? We can't leave{n}her behind!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0049",
    "jp": "‥‥{v:004A}う‥うぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004A}Ugh... uuh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0050",
    "jp": "{v:004B}へっへっへっ！{n}悪ィな、姉ちゃんよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Heh heh heh! Sorry, missy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0051",
    "jp": "{v:004C}ああ、アンタは！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Ah! You!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0052",
    "jp": "{v:004D}チッ！{n}お前らか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Tch! You lot?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0053",
    "jp": "{v:004E}ええい、捕まってたまるか！{n}引き上げるぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Damn it, you're not catching me! We're pulling out!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0054",
    "jp": "{v:004F}へい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Right, boss!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0055",
    "jp": "{v:0050}逃がさないわよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}You're not getting away!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0056",
    "jp": "{v:0051}橋を落とされた！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}They brought down the bridge?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0057",
    "jp": "{v:0052}用意周到な奴め‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}The bastard planned for everything...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0058",
    "jp": "‥‥{v:0053}逃げられちゃったね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0053}They got away.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0059",
    "jp": "{v:0054}みんな、早く来て！{n}この人ひどい傷だよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Everyone, hurry! She's badly hurt!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0060",
    "jp": "{v:0056}今の物音は何だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}What was that noise?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0061",
    "jp": "{v:0057}あ、ゼノスさん！{n}カレンさんが！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}Oh, Xenos-san! Karen-san's...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0062",
    "jp": "{v:0058}何っ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0063",
    "jp": "{v:0059}カ、カレン！{n}しっかりしろ、カレン！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}K-Karen! Hang in there, Karen!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0064",
    "jp": "早く手当てしないと‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "We need to treat her wounds, quickly...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0065",
    "jp": "困ったな‥‥。{n}これじゃラージン砦に戻れないぞ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "This is bad... Now I can't get back to Fort Rajin...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0066",
    "jp": "そろそろ大工が来てもいいんだが‥‥。{n}後少し、辛抱してみるか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The carpenter ought to be here by now... Guess I'll wait{n}a little longer...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0067",
    "jp": "もう大工を呼んだって話なんだが、{n}一体、いつになったらここへ来るんだ？",
-   "en": "",
-   "term": "end"
+   "en": "They say they've already sent for a carpenter, but{n}when's he actually going to get here?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0068",
    "jp": "オズワルドって賊が、{n}この橋を落としたそうね‥‥。{p}もし見つけたら、おしおきしてやるのに！{n}くやし～！！",
-   "en": "",
-   "term": "end"
+   "en": "I hear a bandit named Oswald brought down{n}this bridge...{p}If I found him, I'd teach him a lesson! Ooh, it makes me{n}so mad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0069",
@@ -456,9 +485,10 @@
   {
    "id": "scen092.0074",
    "jp": "・そんなことはない",
-   "en": "",
+   "en": "・I'm doing no such thing",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen092.0075",
@@ -1337,9 +1367,10 @@
   {
    "id": "scen092.0217",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen092.0218",
@@ -1479,14 +1510,16 @@
   {
    "id": "scen092.0240",
    "jp": "お兄ちゃん！{n}あの人を置いていって、どうするつもり？",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother! What are you thinking, leaving her behind?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0241",
    "jp": "お兄ちゃん！{n}ウォレスさんを置いていって、どうするつもり？",
-   "en": "",
-   "term": "end"
+   "en": "Big Brother! What are you thinking, leaving{n}Wallace-san behind?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen092.0242",

@@ -15,248 +15,289 @@
   {
    "id": "scen081.0001",
    "jp": "ユング",
-   "en": "",
-   "term": "null"
+   "en": "Jung",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen081.0002",
    "jp": "{v:0010}湖の下にこんな洞窟があったなんて‥‥。{FFF9}{FFFB}{n}{v:0011}自然の力ってすごいね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}I never imagined there'd be a cave like this under the{n}lake...{FFF9}{FFFB}{v:0011}Nature really is amazing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0003",
    "jp": "{v:0012}自然の力に比べたら、私たち人間の存在なんて、{n}小さなものなのかも知れませんね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Compared to the power of nature, perhaps we humans{n}are very small indeed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0004",
    "jp": "{v:0013}神秘の世界だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}It's a world of wonders.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0005",
    "jp": "{v:0014}なんだかロマンチック～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Ooh, it's so romantic!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0006",
    "jp": "{v:0015}ユングだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Jung!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0007",
    "jp": "{v:0016}やっぱりここには何かあるぜ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}I knew there was something here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0008",
    "jp": "{v:0017}むっ！{n}敵の気配がする‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Hm! I sense enemies...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0009",
    "jp": "{v:0018}ど、どこ、どこ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}W-where? Where?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0010",
    "jp": "{v:0019}どこでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Where could they be?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0011",
    "jp": "{v:001A}えっ？{n}どこにも見えないけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Huh? I don't see any...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0012",
    "jp": "{v:001B}上から！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Above us?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0013",
    "jp": "{v:001C}シンニュウシャ、コロス！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}INTRUDERS. KILL!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0014",
    "jp": "{v:001D}か、囲まれちゃったよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}W-we're surrounded...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0015",
    "jp": "{v:001E}どうやらやるしかねぇな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Looks like we've got no choice but to fight...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0016",
    "jp": "『{FFEF}スヴェル{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Svel{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0017",
    "jp": "　{n}　　　　　『{FFEF}スヴェル{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Svel{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0018",
    "jp": "{v:0020}みんな、大丈夫！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Is everyone all right?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0019",
    "jp": "{v:0022}ああ、何ともない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Yeah. I'm fine.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0020",
    "jp": "{v:0021}あー、びっくりした★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Whew! That gave me a scare!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0021",
    "jp": "{v:0023}途中で落下速度が緩くなったような気がします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}I think our fall slowed partway down.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0022",
    "jp": "{v:0024}途中で落ちる速度がゆっくりになったよね！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}We started falling more slowly partway down,{n}didn't we?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0023",
    "jp": "{v:0025}しかし、危なかったぜ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Still, that was a close call...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0024",
    "jp": "{v:0026}どこか上に戻る場所を探さなくっちゃ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}We've got to find a way back up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0025",
    "jp": "{v:0027}何だ、この地鳴りは‥‥。{p}{FC02}{v:0096}まさか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}What's that rumbling...?{p}{FC02}{v:0096}Don't tell me!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0026",
    "jp": "{v:0028}どうしたの、ウォレスさん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}What's wrong, Wallace-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0027",
    "jp": "{v:0029}早く上に登るんだ！{n}鉄砲水が来るぞ！{p}{v:002A}飲み込まれたら、助からねぇ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Get up there, quick! A flash flood's coming!{p}{v:002A}If it sweeps us away, we're done for!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0028",
    "jp": "{v:002B}えぇっ！{n}お兄ちゃん、急いで、急いで！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}What?! Big Brother, hurry! Hurry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0029",
    "jp": "{v:002C}早く、上に登るんだ！{n}時間がないぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Hurry, climb up! There's no time!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0030",
    "jp": "‥‥{v:002D}もうダメだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002D}We're finished...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0031",
    "jp": "{v:002E}きゃああっ！！{FFF2}",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}Aaaah!!{FFF2}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0032",
    "jp": "{v:002F}ふぅっ。{n}無事で良かったですわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Whew... I'm so glad we're safe.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0033",
    "jp": "{v:0030}うわ～、危なかったね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}Whoa... That was close...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0034",
    "jp": "{v:0031}あの濁流にのまれていたら、{n}生きてはいないだろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}We wouldn't have survived if that torrent had swept{n}us away.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0035",
    "jp": "{v:0032}とにかく、助かったぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Anyway, we made it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0036",
    "jp": "そっちに行ってどうすんのよ！",
-   "en": "",
-   "term": "end"
+   "en": "What do you think you're doing going that way?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0037",
    "jp": "　{n}　　　『{FFEF}ティピの可能性３{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Obtained '{FFEF}Tippi's Potential 3{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0038",
    "jp": "『{FFEF}忍耐のリンゴ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Endurance Apple{FFF1}', but you can't carry{n}any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0039",
    "jp": "　{n}　　　　『{FFEF}忍耐のリンゴ{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Endurance Apple{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0040",
    "jp": "ゴメンね、お兄ちゃん。{n}ちょっと心臓がドキドキしてて、集中できないの。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorry, Big Brother. My heart's still racing a little. I{n}can't concentrate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen081.0041",
    "jp": "心臓がドキドキいってて、集中できないよ！{n}お兄ちゃん、ゴメンなさい！",
-   "en": "",
-   "term": "end"
+   "en": "My heart's pounding so hard I can't concentrate! I'm{n}sorry, Big Brother!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

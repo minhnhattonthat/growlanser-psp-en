@@ -15,98 +15,114 @@
   {
    "id": "scen272.0001",
    "jp": "マスタークラスＳランク戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Master Class S Rank match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0002",
    "jp": "マスタークラスＡＡＡランク戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Master Class AAA Rank match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0003",
    "jp": "マスタークラスＡＡランク戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Master Class AA Rank match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0004",
    "jp": "マスタークラスＡランク戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Master Class A Rank match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0005",
    "jp": "マスタークラスＢランク戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Master Class B Rank match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0006",
    "jp": "レジェンドクラス戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Legend Class match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0007",
    "jp": "エクセレントクラス戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Excellent Class match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0008",
    "jp": "ヒーロークラス戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Hero Class match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0009",
    "jp": "チャンピオンクラス戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Champion Class match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0010",
    "jp": "グレートクラス戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Great Class match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0011",
    "jp": "ノーマルクラス戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Normal Class match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0012",
    "jp": "ビギナークラス戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Beginner Class match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0013",
    "jp": "ジュニアクラス戦開始",
-   "en": "",
-   "term": "end"
+   "en": "Junior Class match begins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0014",
    "jp": "{v:0008}もぉ～～！ドジなんだからぁ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Uuugh! You klutz!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0015",
    "jp": "２回戦勝ち抜き！",
-   "en": "",
-   "term": "end"
+   "en": "Victorious in Round 2!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen272.0016",
    "jp": "１回戦勝ち抜き！",
-   "en": "",
-   "term": "end"
+   "en": "Victorious in Round 1!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

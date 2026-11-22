@@ -27,23 +27,26 @@
   {
    "id": "scen282.0003",
    "jp": "・攻撃目標を指定",
-   "en": "",
+   "en": "・Choose an attack target",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen282.0004",
    "jp": "・自由に戦ってもらう",
-   "en": "",
+   "en": "・Let him fight as he sees fit",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen282.0005",
    "jp": "・その場で待機",
-   "en": "",
+   "en": "・Wait in place",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen282.0006",

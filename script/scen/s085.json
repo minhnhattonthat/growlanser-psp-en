@@ -15,20 +15,23 @@
   {
    "id": "scen085.0001",
    "jp": "　{n}　　　　　　　　　一方通行のようだ。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　　　It seems to be one-way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen085.0002",
    "jp": "　{n}　　　　　　　　　動いていない。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　　　It isn't moving.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen085.0003",
    "jp": "スイッチを押しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Press the switch?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen085.0004",
@@ -45,44 +48,51 @@
   {
    "id": "scen085.0006",
    "jp": "『{FFEF}賢者の石{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Sage's Stone{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen085.0007",
    "jp": "　{n}　　　　　『{FFEF}賢者の石{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Sage's Stone{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen085.0008",
    "jp": "これはセーブポイントとは違うらしい。{n}何だろう？",
-   "en": "",
-   "term": "end"
+   "en": "This doesn't seem to be a save point. What could it be?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen085.0009",
    "jp": "『{FFEF}魔力増幅奥義の書{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Magic Boost Tome{FFF1}', but you can't carry{n}any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen085.0010",
    "jp": "　{n}　　　『{FFEF}魔力増幅奥義の書{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Obtained '{FFEF}Magic Boost Tome{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen085.0011",
    "jp": "　{n}　　　　　　　お宝、ゲットだぜ！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　All right, got the treasure!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen085.0012",
    "jp": "　{n}　　　どこかで、何かが動く音がした‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　From somewhere came the sound of{n}something moving...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

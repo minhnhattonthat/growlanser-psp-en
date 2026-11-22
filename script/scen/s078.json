@@ -15,56 +15,65 @@
   {
    "id": "scen078.0001",
    "jp": "鉱夫",
-   "en": "",
-   "term": "null"
+   "en": "Miner",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen078.0002",
    "jp": "{v:0037}ふぅっ、やっと出られた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Whew, finally out...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0003",
    "jp": "{v:0038}この地鳴りは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}That rumbling...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0004",
    "jp": "{v:0039}みんな、無事か！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Is everyone all right?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0005",
    "jp": "{v:003A}い、生きてるぅ～！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}I-I'm aliiive!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0006",
    "jp": "{v:003B}ケガはないみたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}It looks like no one's hurt.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0007",
    "jp": "{v:003C}大丈夫みたいね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Looks like we're all right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0008",
    "jp": "{v:003D}まさか突然噴火するとはな。{n}さっきの溶岩が止まったことといい、{n}不可解な事が多い‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Never thought it'd erupt out of nowhere. First the lava{n}stopped, now this. Too much here doesn't add up...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0009",
    "jp": "{v:003E}何とか生きてるね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Somehow, we're still alive...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0010",
@@ -75,14 +84,16 @@
   {
    "id": "scen078.0011",
    "jp": "ブレーム火山",
-   "en": "",
-   "term": "end"
+   "en": "Brehm Volcano",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0012",
    "jp": "ちょっと！{n}いったんガスがおさまるのを待たないと{n}危ないでしょ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! It's dangerous unless we wait for the gas to{n}stop first!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0013",
@@ -93,320 +104,373 @@
   {
    "id": "scen078.0014",
    "jp": "{v:0006}うひ～。{n}何だかやだなぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Eeeugh. I don't like the sound of that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0015",
    "jp": "{v:0007}でもいつ止まるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}But when does it stop?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0016",
    "jp": "{v:0008}それまでは知らん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}That, I don't know.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0017",
    "jp": "‥‥{v:0009}間もなくだ。{n}間もなくガスの噴出が止まる。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0009}Soon. The gas will stop flowing soon.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0018",
    "jp": "{v:000A}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0019",
    "jp": "{FFF6}{v:000B}もし奥でクリアノ草を取ってくるのなら、{n}それなりの準備をした方が良いぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{v:000B}If you're going deep inside to gather Kuriano Herb,{n}you'd best prepare accordingly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0020",
    "jp": "{v:000C}ちょっと、ミーシャ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Um, Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0021",
    "jp": "{FFF6}{FFF3}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FFF6}{FFF3}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0022",
    "jp": "{v:000D}ミーシャったら！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Misha!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0023",
    "jp": "‥‥{v:000E}あら？{p}{FB00}{v:000F}どうしたの、ルイセちゃん。{FFFA}",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000E}Oh?{p}{FB00}{v:000F}What is it, Luise-chan?{FFFA}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0024",
    "jp": "{v:0010}どうしたのって{FE14}‥{FE14}‥{FE14}{FC02}えぇ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}What do you mean{FE14}.{FE14}.{FE14}{FC02}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0025",
    "jp": "{v:0011}そんなに慌てちゃって？{n}何かあったの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}You're so flustered! Did something happen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0026",
    "jp": "‥‥{v:0012}あんた、何も覚えていないの？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0012}You don't remember a thing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0027",
    "jp": "‥‥{v:0013}ん？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0013}Hmm?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0028",
    "jp": "{v:0014}おい、ガスが止まったぞ。{n}どうやらその娘の言った通りになったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Hey, the gas stopped. Looks like that girl was right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0029",
    "jp": "‥‥{v:0015}ん？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0015}Hmm?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0030",
    "jp": "{v:0016}またガスが出ているよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}The gas is coming out again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0031",
    "jp": "{v:0017}大丈夫だ。間もなく止まる‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}It's all right. It'll stop soon...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0032",
    "jp": "‥‥{v:0018}本当だ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0018}You're right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0033",
    "jp": "お前さん達、こんな危険なところへ何の用だ？",
-   "en": "",
-   "term": "end"
+   "en": "What brings you folks to a dangerous place like this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0034",
    "jp": "別に用ってほどの事じゃないんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Well, we don't really have any particular{n}business here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0035",
    "jp": "ここは危険なところで、{n}地元の者でも絶対に足を踏み入れないんだ。{p}もし鉱山街に行きたいなら、分かれ道を北に。{n}温泉の街コムスプリングスへ行くなら、{n}南に進めばいい。",
-   "en": "",
-   "term": "end"
+   "en": "This place is dangerous. Even the locals won't set{n}foot inside.{p}If you're going to the mining town, head north at the{n}fork. For the hot spring town of Comsprings,{n}head south.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0036",
    "jp": "どうしたの、ルイセちゃん？",
-   "en": "",
-   "term": "end"
+   "en": "What's wrong, Luise-chan?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0037",
    "jp": "あのね、お兄ちゃん。{n}この火山の中だと、テレポート出来ないみたい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Um, Big Brother... I don't think I can use Teleport inside{n}this volcano...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0038",
    "jp": "え～～っ！？",
-   "en": "",
-   "term": "end"
+   "en": "Whaaat?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0039",
    "jp": "まさか、このガスの中に{n}魔法を妨害するような成分があるってのか？",
-   "en": "",
-   "term": "end"
+   "en": "You mean there's something in this gas that interferes{n}with magic?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0040",
    "jp": "他の魔法は使えそうだけど、{n}テレポートだけはダメだよ‥‥。{p}全然集中できないの！",
-   "en": "",
-   "term": "end"
+   "en": "I think I can use other magic, but Teleport just{n}won't work...{p}I can't concentrate at all!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0041",
    "jp": "おい。{n}俺たちの命は{s:0000}に預ける。{n}お前の判断がすべてだ。",
-   "en": "",
-   "term": "end"
+   "en": "Listen. We're putting our lives in your hands,{n}{s:0000}. It all comes down to{n}your judgment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0042",
    "jp": "お兄さま、頼みますぅ♪",
-   "en": "",
-   "term": "end"
+   "en": "We're counting on you, Big Brother♪",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0043",
    "jp": "{FB00}緊張感のない娘‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{FB00}Does this girl even know what danger is...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0044",
    "jp": "バカ！{n}焼け死にたいの！？",
-   "en": "",
-   "term": "end"
+   "en": "Idiot! Do you want to burn to death?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0045",
    "jp": "『{FFEF}秘伝書{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Secret Manual{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0046",
    "jp": "　{n}　　　　　　『{FFEF}秘伝書{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　Received '{FFEF}Secret Manual{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0047",
    "jp": "『{FFEF}生命のリンゴ{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Life Apple{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0048",
    "jp": "　{n}　　　　『{FFEF}生命のリンゴ{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Received '{FFEF}Life Apple{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0049",
    "jp": "{v:0030}なんだ、この音は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0030}What's that sound?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0050",
    "jp": "{v:0031}さっきより暑くなってきたよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}It's getting even hotter?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0051",
    "jp": "{v:0032}あっ！{n}アレ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Ah! Look!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0052",
    "jp": "{v:0033}溶岩が迫ってくる！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}The lava's coming this way!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0053",
    "jp": "{v:0034}きゃああっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0054",
    "jp": "{v:0035}溶岩が止まったよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}The lava stopped?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0055",
    "jp": "{v:0036}何してるんだ、今の内に脱出するんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}What are you doing?! Get out while we can!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0056",
    "jp": "『{FFEF}ネクタル{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Nectar{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0057",
    "jp": "　{n}　　　　　　『{FFEF}ネクタル{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　Received '{FFEF}Nectar{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0058",
    "jp": "　{n}　　　　　９５０エルムを手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Received 950 Elm!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0059",
    "jp": "『{FFEF}バフコート{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Buff Coat{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0060",
    "jp": "　{n}　　　　　『{FFEF}バフコート{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Buff Coat{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0061",
    "jp": "{v:0020}うわっ！{n}モンスターの集団だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Whoa! A whole pack of monsters!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0062",
    "jp": "{v:0021}見て！{n}あそこに生えているあれ！{n}あれがクリアノ草じゃないかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Look! That plant growing over there! Could that be{n}Kuriano Herb?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0063",
    "jp": "{v:0022}どうやらこのモンスターを倒さないと近づけないな。{p}{v:0023}時間がない。{n}誰かがクリアノ草を取ったら、急いで脱出しよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Looks like we can't get near it without beating{n}these monsters.{p}{v:0023}We're short on time. Once someone grabs the Kuriano{n}Herb, let's get out fast.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0064",
    "jp": "クリアノ草を取らないと！",
-   "en": "",
-   "term": "end"
+   "en": "We have to get the Kuriano Herb!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0065",
    "jp": "{v:002B}これだね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}This is it, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0066",
    "jp": "　{n}　　　　　『{FFEF}クリアノ草{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained '{FFEF}Kuriano Herb{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0067",
@@ -417,14 +481,16 @@
   {
    "id": "scen078.0068",
    "jp": "{v:0029}こ、これ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Th-this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0069",
    "jp": "{v:002A}しまった、ガスだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}Damn, it's gas!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0070",
@@ -435,20 +501,23 @@
   {
    "id": "scen078.0071",
    "jp": "{v:0025}えっ？{n}ミー‥シャ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Huh? Mi...sha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0072",
    "jp": "{v:0026}ん？{n}何？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Hm? What?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0073",
    "jp": "‥‥‥{v:0027}何でもない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0027}Nothing...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0074",
@@ -459,8 +528,9 @@
   {
    "id": "scen078.0075",
    "jp": "{v:0019}どうしたの、ミーシャ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}What's wrong, Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0076",
@@ -471,38 +541,44 @@
   {
    "id": "scen078.0077",
    "jp": "{v:001B}えっ！{n}それ、本当なの、ミーシャ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}What?! Is that true, Misha?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0078",
    "jp": "‥‥{v:001C}ん？{n}なに？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001C}Hm? What?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0079",
    "jp": "{v:001D}う～！{n}この娘、変だよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Ugh! This girl's acting weird!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0080",
    "jp": "{v:001E}えーっ？{n}なに、なに？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Huuuh? What? What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0081",
    "jp": "‥‥{v:001F}もう、いい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001F}Oh, never mind...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen078.0082",
    "jp": "ごめんね、お兄ちゃん。{n}ちょっと無理みたい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I'm sorry, Big Brother. I don't think I can...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

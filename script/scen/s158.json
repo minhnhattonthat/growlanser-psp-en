@@ -15,8 +15,9 @@
   {
    "id": "scen158.0001",
    "jp": "自宅",
-   "en": "",
-   "term": "end"
+   "en": "Home",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen158.0002",
@@ -291,8 +292,9 @@
   {
    "id": "scen158.0046",
    "jp": "ベッドで休みますか？",
-   "en": "",
-   "term": "end"
+   "en": "Rest in the bed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen158.0047",
@@ -303,14 +305,16 @@
   {
    "id": "scen158.0048",
    "jp": "皿がある。",
-   "en": "",
-   "term": "end"
+   "en": "There is a plate.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen158.0049",
    "jp": "読みかけの本だ。",
-   "en": "",
-   "term": "end"
+   "en": "It's a partly read book.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen158.0050",

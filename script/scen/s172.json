@@ -15,32 +15,37 @@
   {
    "id": "scen172.0001",
    "jp": "モンスター使い見習い",
-   "en": "",
-   "term": "null"
+   "en": "Apprentice Monster Tamer",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen172.0002",
    "jp": "村人",
-   "en": "",
-   "term": "null"
+   "en": "Villager",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen172.0003",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen172.0004",
    "jp": "店主",
-   "en": "",
-   "term": "null"
+   "en": "Shopkeeper",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen172.0005",
    "jp": "クレイン村",
-   "en": "",
-   "term": "end"
+   "en": "Crane Village",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0006",
@@ -135,8 +140,9 @@
   {
    "id": "scen172.0021",
    "jp": "村長が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The village chief...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0022",
@@ -153,8 +159,9 @@
   {
    "id": "scen172.0024",
    "jp": "君たちのおかげで、滝の側へ行っても{n}安全になったよ。{p}これでまた、あそこへピクニックに行ける。{n}ありがとう。",
-   "en": "",
-   "term": "end"
+   "en": "Thanks to you, it's safe to go near the waterfall now.{p}We can have picnics there again. Thank you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0025",
@@ -171,8 +178,9 @@
   {
    "id": "scen172.0027",
    "jp": "村長が亡くなって、ちょっと寂しくなったわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It's a little lonely here now that the village chief has{n}passed away...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0028",
@@ -195,14 +203,16 @@
   {
    "id": "scen172.0031",
    "jp": "ありがとう。{n}君たちのおかげで、助かったよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you. You saved me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0032",
    "jp": "せっかく無事に村へ戻れたのに‥‥、{n}村長が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I finally made it back to the village safely, only to{n}find... the village chief...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0033",
@@ -225,74 +235,86 @@
   {
    "id": "scen172.0036",
    "jp": "　{n}　　　『{FFEF}ティピの可能性２{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Obtained '{FFEF}Tippi's Potential 2{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0037",
    "jp": "ゼメキスの屋敷",
-   "en": "",
-   "term": "end"
+   "en": "Zemekis's Manor",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0038",
    "jp": "{v:0053}あの、これ‥‥村長さんの息子さんが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Um, this... The village chief's son...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0039",
    "jp": "　{n}　　　　　『{FFEF}形見のナイフ{FFF1}』を渡した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Handed over the '{FFEF}Keepsake Knife{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0040",
    "jp": "{v:0054}そんな‥あの人が‥‥！？{n}そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}No... He...?! It can't be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0041",
    "jp": "{v:0055}そうか‥‥あいつも‥‥。{p}{v:0056}良く届けてくれたね。{n}お礼といっては何だが、これを受け取ってくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}I see... Him, too...{p}{v:0056}Thank you for bringing this back. It's not much of a{n}reward, but please take this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0042",
    "jp": "{v:0057}これは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0043",
    "jp": "{v:0058}村長の使っていた杖だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0058}The staff the village chief used.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0044",
    "jp": "　{n}　　　『{FFEF}ゼメキスの杖{FFF1}』をもらった！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Received '{FFEF}Zemekis's Staff{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0045",
    "jp": "{v:0059}ありがとうございます。{n}大切に使わせて貰います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Thank you very much. I'll take good care of it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0046",
    "jp": "ところで、村長のお子さんの消息をしらないか？",
-   "en": "",
-   "term": "end"
+   "en": "By the way, have you heard anything about the village{n}chief's son?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0047",
    "jp": "{v:004B}くそっ！{n}あの男、どうして村長を‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Damn it! Why did that man kill the chief...?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0048",
@@ -309,8 +331,9 @@
   {
    "id": "scen172.0050",
    "jp": "どうして？{n}どうして村長が殺されなくちゃいけないの？",
-   "en": "",
-   "term": "end"
+   "en": "Why? Why did the village chief have to be killed?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0051",
@@ -327,84 +350,97 @@
   {
    "id": "scen172.0053",
    "jp": "{v:000D}いらっしゃいませ。{n}当店では、様々なグッズを取り扱っております。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Welcome. We carry a wide variety of goods.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0054",
    "jp": "{v:000E}お買い求めですか？{n}それともご売却ですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Would you like to buy or sell?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0055",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen172.0056",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen172.0057",
    "jp": "他にもご用はおありですか？",
-   "en": "",
-   "term": "end"
+   "en": "Is there anything else I can help you with?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0058",
    "jp": "・購入",
-   "en": "",
+   "en": "・Buy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen172.0059",
    "jp": "・売却",
-   "en": "",
+   "en": "・Sell",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen172.0060",
    "jp": "{v:0018}またどうぞ、お越し下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Please come again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0061",
    "jp": "お待たせしました。{n}お泊まりは、{FFEB}エルムになりますが？",
-   "en": "",
-   "term": "end"
+   "en": "Thank you for waiting. A night's stay will be {FFEB} Elm. Is{n}that all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0062",
    "jp": "ありがとうございました。{n}気を付けて行ってらっしゃいませ。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. Take care on your travels.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0063",
    "jp": "お客さま‥‥[01BE]{n}お金が足りないみたいですよ。",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me...[01BE] It seems you don't have enough money.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0064",
    "jp": "またのお越しをお待ちしております。",
-   "en": "",
-   "term": "end"
+   "en": "We look forward to your next visit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0065",
    "jp": "お客さん！{n}ここは前金制ですよ！",
-   "en": "",
-   "term": "end"
+   "en": "Excuse me! Payment is required in advance!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen172.0066",

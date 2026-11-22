@@ -15,264 +15,307 @@
   {
    "id": "scen243.0001",
    "jp": "バーンシュタイン兵隊長",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Captain",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen243.0002",
    "jp": "バーンシュタイン兵",
-   "en": "",
-   "term": "null"
+   "en": "Burnstein Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen243.0003",
    "jp": "盗賊",
-   "en": "",
-   "term": "null"
+   "en": "Bandit",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen243.0004",
    "jp": "{v:0017}よし！{n}挟み撃ちだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}Good! Hit them from both sides!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0005",
    "jp": "{v:0018}はっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}Yes, sir!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0006",
    "jp": "やっぱり俺じゃダメか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Guess I wasn't up to it after all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0007",
    "jp": "こんな奴らに、勝てるわけねぇよ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "We never stood a chance against these guys...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0008",
    "jp": "ちょっと油断しちまったか‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Guess I let my guard down a little...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0009",
    "jp": "げふっ！",
-   "en": "",
-   "term": "end"
+   "en": "Gah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0010",
    "jp": "ま、まだまだ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I-I'm not done yet...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0011",
    "jp": "なんで俺がこんな目に‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Why's this happening to me...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0012",
    "jp": "や、やられた‥‥",
-   "en": "",
-   "term": "end"
+   "en": "Th-they got me...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0013",
    "jp": "グゲッ！",
-   "en": "",
-   "term": "end"
+   "en": "Gurk!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0014",
    "jp": "{v:0020}１つ聞きたいことがある。{p}{v:0021}学院長とはどんな関係があった？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}There's one thing I want to ask.{p}{v:0021}What was your connection to the Headmaster?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0015",
    "jp": "{v:0022}そういや、お前たちがマクスウェルを倒したそうだな。{n}それに関しちゃ、感謝半分、迷惑半分だったぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Oh, right. I hear you lot took down Maxwell. Can't{n}decide whether to thank you or curse you for that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0016",
    "jp": "{v:0023}どういうこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}What do you mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0017",
    "jp": "{v:0024}わからねぇのか？{n}奴から武器に使う魔法や魔水晶を仕入れていたんだよ。{p}{v:0025}ま、そろそろヤバイと思っていた頃だがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Can't figure it out? I bought magic and magic crystals{n}from him to use in my weapons.{p}{v:0025}Still, I was starting to think it was getting risky.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0018",
    "jp": "{v:0026}それじゃ、水晶鉱山の横流しは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Then the smuggling at the crystal mine...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0019",
    "jp": "{v:0027}おおかた、マクスウェルと組むようになって{n}邪魔になった仲介業者ってとこだろ？{p}{v:0028}だから奴に命じて始末させた。{n}違うか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}I'm guessing the middleman became a nuisance once{n}you teamed up with Maxwell?{p}{v:0028}So you ordered him to get rid of the man. Am I wrong?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0020",
    "jp": "{v:0029}なかなか鋭いじゃねぇか。{p}{v:002A}マクスウェルと組んだのは正解だったぜ。{n}ま、使い物にならねぇ魔法も多かったけどな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}You're pretty sharp.{p}{v:002A}Teaming up with Maxwell was the right move. Though{n}plenty of his magic was useless.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0021",
    "jp": "{v:002B}僕たちの研究成果をそんなことに使っていたのか！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}You were using the results of our research for that?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0022",
    "jp": "{v:0019}ぐおぉっ！{n}そんな‥‥バカな‥‥。{n}俺様の武器が‥負けるわけ‥ねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Gwaaah! That's... impossible... My weapons... can't... lose...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0023",
    "jp": "{v:001A}お前の戦い方は、武器に頼りすぎだぜ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}You rely too much on your weapons.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0024",
    "jp": "‥‥{v:001B}ダメだ‥もっと‥もっと金が‥金が‥‥金‥‥",
-   "en": "",
-   "term": "end"
+   "en": "...{v:001B}No... I need more... more money... money... money...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0025",
    "jp": "{v:001C}悲しい人‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}What a sad man...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0026",
    "jp": "こんなはずじゃ‥‥",
-   "en": "",
-   "term": "end"
+   "en": "This wasn't supposed to happen...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0027",
    "jp": "おいしい話だって聞いたのに‥‥。{n}話が違う‥‥",
-   "en": "",
-   "term": "end"
+   "en": "I heard this was easy money... This ain't what I signed{n}up for...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0028",
    "jp": "{v:0007}また会ったな。{p}{v:0008}ま、今度は敵としてだがな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}We meet again.{p}{v:0008}As enemies this time, though.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0029",
    "jp": "{v:0009}そろそろ言ったらどうなんだ？{n}お前の目的をな！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Isn't it about time you told us what you're after?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0030",
    "jp": "{v:000A}簡単なことよ。{n}この世で１番尊いもののためだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Simple. I'm doing it for the most precious thing in{n}the world.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0031",
    "jp": "{v:000B}１番尊いものって何だろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}What could be the most precious thing?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0032",
    "jp": "・命",
-   "en": "",
+   "en": "・Life",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen243.0033",
    "jp": "・時間",
-   "en": "",
+   "en": "・Time",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen243.0034",
    "jp": "・金",
-   "en": "",
+   "en": "・Money",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen243.0035",
    "jp": "・愛",
-   "en": "",
+   "en": "・Love",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen243.0036",
    "jp": "{v:000C}それは３番目だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}That comes third.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0037",
    "jp": "{v:000D}それは２番目だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}That comes second.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0038",
    "jp": "{v:000E}よくわかったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}You got it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0039",
    "jp": "{v:000F}それは１番無駄なものだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}That's the most worthless thing of all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0040",
    "jp": "{v:0010}それじゃ、何よ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Then what is it?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0041",
    "jp": "{v:0011}この世で１番尊いもの。{n}それは{FFEF}金{FFF1}だ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}The most precious thing in the world is {FFEF}money{FFF1}!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0042",
    "jp": "{v:0012}お金！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Money?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen243.0043",
    "jp": "{v:0013}そう、力の時代は終わる。{n}これからは商売が世界を支配するのだ！{p}{v:0014}どんな権力者も金には逆らえない。{n}金さえあれば何でも出来る！{p}{v:0015}俺の作った武器がもっと金を運んでくるまで、{n}この戦争は続けさせてもらう。{p}{v:0016}そのためにも、お前たちは邪魔だ！{n}ここで死ね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}That's right. The age of might is ending. From now on,{n}trade will rule the world!{p}{v:0014}Even the most powerful ruler can't defy money. With{n}enough money, you can do anything!{p}{v:0015}I'll keep this war going until the weapons I've made bring{n}me even more money.{p}{v:0016}And you're in the way! Die here!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

@@ -51,14 +51,16 @@
   {
    "id": "scen280.0007",
    "jp": "{v:0043}あぁっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Aah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen280.0008",
    "jp": "{v:0045}た、隊長！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}C-Captain!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen280.0009",
@@ -178,9 +180,10 @@
   {
    "id": "scen280.0028",
    "jp": "・黙っている",
-   "en": "",
+   "en": "・Stay silent",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen280.0029",

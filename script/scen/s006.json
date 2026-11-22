@@ -15,86 +15,100 @@
   {
    "id": "scen006.0001",
    "jp": "ローランディア兵",
-   "en": "",
-   "term": "null"
+   "en": "Rolandia Soldier",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen006.0002",
    "jp": "料理人",
-   "en": "",
-   "term": "null"
+   "en": "Cook",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen006.0003",
    "jp": "文官",
-   "en": "",
-   "term": "null"
+   "en": "Civil Official",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen006.0004",
    "jp": "アルカディウス王",
-   "en": "",
-   "term": "null"
+   "en": "King Alcadius",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen006.0005",
    "jp": "ローランディア王城",
-   "en": "",
-   "term": "end"
+   "en": "Rolandia Royal Castle",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0006",
    "jp": "ローランディア王城へようこそ。",
-   "en": "",
-   "term": "end"
+   "en": "Welcome to Rolandia Royal Castle.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0007",
    "jp": "サンドラ様のご子息、{n}{s:0000}様ですね。{n}どうぞ、お通り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "You must be {s:0000}, Sandra-sama's son.{n}Please, go right through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0008",
    "jp": "ひ、姫‥‥。{n}よくご無事で‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "P-Princess... Thank goodness you are safe...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0009",
    "jp": "お気をつけて。",
-   "en": "",
-   "term": "end"
+   "en": "Take care.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0010",
    "jp": "この先にはアルカディウス王がいらっしゃる。{n}くれぐれもそそうのないようにな。",
-   "en": "",
-   "term": "end"
+   "en": "King Alcadius is just ahead. Be sure to conduct{n}yourself properly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0011",
    "jp": "急ぎ王の元へ！{n}王もお喜びになられることでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "Hurry to the king! His Majesty will be overjoyed.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0012",
    "jp": "頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "We're counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0013",
    "jp": "やあ、サンドラ様の息子さんだね。",
-   "en": "",
-   "term": "end"
+   "en": "Hello there. You're Sandra-sama's son, aren't you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0014",
    "jp": "頑張ってくれよ！",
-   "en": "",
-   "term": "end"
+   "en": "Give it your best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0015",
@@ -105,584 +119,681 @@
   {
    "id": "scen006.0016",
    "jp": "う～ん‥‥槍はリーチがあるけど、{n}攻撃に時間がかかるし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm... Spears have reach, but they take a while to{n}attack with...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0017",
    "jp": "へい、いらっしゃい！",
-   "en": "",
-   "term": "end"
+   "en": "Hey there! Welcome!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0018",
    "jp": "はっ、しまった‥‥[01BE]{n}家の手伝いをしていた時のくせがつい‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Ah, whoops...[01BE] Old habits from helping out at home...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0019",
    "jp": "どんどんレベルを上げて、{n}どんどん魔法を覚えなくっちゃ。",
-   "en": "",
-   "term": "end"
+   "en": "Gotta keep leveling up and learning more spells.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0020",
    "jp": "{v:002C}あ、どうだったの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}Oh, how did it go?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0021",
    "jp": "{v:002D}早速、任務を受けちゃった。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}We've already been given a mission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0022",
    "jp": "{v:002E}初めまして。{n}よろしくね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}How do you do? It is a pleasure to meet you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0023",
    "jp": "{v:002F}えっ、えっ！？{n}レティシア姫？{n}本物？{p}{v:0030}ど、ど、どうしよう！{p}{v:0031}もし失礼なことしたら、すぐに捕まっちゃって、{n}牢屋に入れられちゃって、{n}そしたらもうみんなに会えなくなっちゃうかも‥‥！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Huh? Wh-what?! Princess Leticia? The real one?{p}{v:0030}Wh-wh-what do I do?!{p}{v:0031}If I say something rude, they'll arrest me on the spot{n}and throw me in prison, and then I might never see any{n}of you again...!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0024",
    "jp": "{v:0032}もう、ミーシャったら、ちゃんとしてよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}Oh, Misha, please pull yourself together!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0025",
    "jp": "{v:0033}そうやってるのが一番失礼よ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Making a scene like that is the rudest thing you{n}could do!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0026",
    "jp": "{v:0034}あ、あはは、ごめんなさい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Ah, ahaha, I'm sorry!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0027",
    "jp": "{v:0035}それはアタシたちじゃなくて{n}お姫様にすることでしょ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Shouldn't you be apologizing to the princess instead{n}of us?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0028",
    "jp": "{v:0036}くすくすっ。{n}よろしくね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Hee hee. I look forward to getting to know you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0029",
    "jp": "{v:0037}あ、はい‥‥よろしくお願いします！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Oh, yes... It's a pleasure to meet you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0030",
    "jp": "あっ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0031",
    "jp": "アタシ、ここで待ってますね！",
-   "en": "",
-   "term": "end"
+   "en": "I'll wait here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0032",
    "jp": "だって、ほら！{n}仕官するのはお兄さまとルイセちゃんだし、アタシっ{n}てば、ウォレスさんみたく、ちゃんとしてないし‥。",
-   "en": "",
-   "term": "end"
+   "en": "Well, you see! You and Luise-chan are the ones{n}entering royal service, Big Brother. I'm not as proper{n}as Wallace-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0033",
    "jp": "ミーシャったら、{n}そんなこと気にしなくていいのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, Misha... You don't need to worry about that...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0034",
    "jp": "でも、大事なときにアタシが変な事したら、{n}お兄さまに迷惑かけちゃうから。{p}だから、アタシはここで待ってます。{p}いってらっしゃ～い！",
-   "en": "",
-   "term": "end"
+   "en": "But if I do something silly at an important moment, I'll{n}cause trouble for you, Big Brother.{p}So I'll wait right here.{p}See you laaater!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0035",
    "jp": "現在、国王は取り込み中だ。{n}別の機会にせよ。",
-   "en": "",
-   "term": "end"
+   "en": "The king is occupied at present. Return another time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0036",
    "jp": "通るがよい。",
-   "en": "",
-   "term": "end"
+   "en": "You may pass.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0037",
    "jp": "不謹慎な事を言っていた罰かしら‥‥。{n}まさか戦争が始まってしまうなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I wonder if this is punishment for saying something so{n}thoughtless... I never imagined a war would actually{n}break out...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0038",
    "jp": "平和なことはいいんだけど、{n}それはそれでつまらないもんよね‥‥。{n}ちょっと不謹慎かしら[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Peace is lovely, but it does get rather dull... Is that a{n}dreadful thing to say?[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0039",
    "jp": "はっ！{n}レティシア姫！{n}ご機嫌うるわしゅう‥‥[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "Ah! Princess Leticia! I trust you are well...[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0040",
    "jp": "まさかグレッグ卿がご乱心なさるなんて‥‥。{n}未だに信じられん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "To think Lord Greg would lose his mind... I still cannot{n}believe it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0041",
    "jp": "何でお城ってのはこんなにもでかいんだ？{n}警護する方にとっては面倒くさいだけだぞ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Why do castles have to be so damn big? Just makes{n}more work for those of us guarding them...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0042",
    "jp": "レ、レティシア姫！{n}いやだなぁ、冗談ですよ！",
-   "en": "",
-   "term": "end"
+   "en": "P-Princess Leticia! Oh, come now, I was only joking!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0043",
    "jp": "あっ、この事、誰にも言わないでくれよ。",
-   "en": "",
-   "term": "end"
+   "en": "Hey, don't tell anyone about this.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0044",
    "jp": "においにつられて来てみたものの、{n}つまみ食いなんて出来ないし‥‥。{n}見てしまったからよけい腹が減った‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "The smell drew me in, but it's not like I can sneak a{n}bite... Now that I've seen the food, I'm even hungrier...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0045",
    "jp": "ほんとう。{n}おいしそうですわね。",
-   "en": "",
-   "term": "end"
+   "en": "Indeed. It looks quite delicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0046",
    "jp": "こ、これはレティシア姫！",
-   "en": "",
-   "term": "end"
+   "en": "P-Princess Leticia!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0047",
    "jp": "この魚をどうさばくか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Now, how should I cut up this fish...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0048",
    "jp": "戦争だって？{n}こっちは毎日が戦争さ！{p}たった２人で{n}お城の兵隊さんの料理を作ってるんだからね！",
-   "en": "",
-   "term": "end"
+   "en": "War, you say? Every day's a war in here!{p}There are only two of us cooking for all the soldiers in{n}the castle!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0049",
    "jp": "あの兵隊さん、いっつも来てるけど、{n}暇なのかねぇ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "That soldier's always coming by. Hasn't he got anything{n}to do...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0050",
    "jp": "この先は宝物庫だ。",
-   "en": "",
-   "term": "end"
+   "en": "The treasury is beyond here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0051",
    "jp": "ここは牢屋だ。",
-   "en": "",
-   "term": "end"
+   "en": "This is the prison.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0052",
    "jp": "{v:000A}休暇は終わりだ。{n}お前たちは次の任務についてもらう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Your leave is over. You will now undertake your{n}next mission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0053",
    "jp": "扉があるが、鍵がかかっている。",
-   "en": "",
-   "term": "end"
+   "en": "There is a door, but it is locked.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0054",
    "jp": "{v:0017}頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0055",
    "jp": "砦はグランシルの更に南にあります。{n}それから護衛が終わりしだい、{n}忘れずに報告へ来るのですよ。",
-   "en": "",
-   "term": "end"
+   "en": "The fort is farther south than Grancil. Be sure to{n}return and report as soon as your escort duty{n}is complete.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0056",
    "jp": "{v:0012}問題はバーンシュタイン王国内への侵入だけです。{n}戻るときには、ルイセのテレポートを使えば{n}いいでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}The only difficulty is getting into the Kingdom of{n}Burnstein. You can use Luise's Teleport to return.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0057",
    "jp": "{v:0014}がんばるのですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Do your best.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0058",
    "jp": "気を付けて行くがよい。",
-   "en": "",
-   "term": "end"
+   "en": "Go safely.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0059",
    "jp": "任務・姫を救出せよ",
-   "en": "",
-   "term": "end"
+   "en": "Mission: Rescue the Princess",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0060",
    "jp": "{v:0000}どうしたのだ？{n}レティシアの姿がないようだが？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}What has happened? Where is Leticia?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0061",
    "jp": "{v:0001}それどころじゃないんだよぉ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}We've got a much bigger problem!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0062",
    "jp": "{v:0002}どうしたのだ？{n}レティシアの姿がないようだが？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}What has happened? Where is Leticia?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0063",
    "jp": "{v:0003}おい、例の物を！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Hey, give him the letter!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0064",
    "jp": "　{n}　　　　　『{FFEF}援軍要請の書簡{FFF1}』を渡した！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Handed over the '{FFEF}Reinforcement Request{n}Letter{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0065",
    "jp": "{v:0004}なに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}What...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0066",
    "jp": "{v:0005}こ、これは！{n}戦争だと！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Th-this is...! War?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0067",
    "jp": "{v:0006}そこに書いてあることが本当なら、そうなります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}If what the letter says is true, then yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0068",
    "jp": "{v:0007}何と言うことだ‥‥。{n}あのグレッグ卿が‥‥信じられん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}How could this happen...? Lord Greg, of all people... I{n}cannot believe it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0069",
    "jp": "{v:0008}国王、放心している暇はありません。{n}すぐにバーンシュタイン王国が攻めてきそうな場所に兵を配しなければ、{n}あっという間に攻め込まれてしまいます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Your Majesty, there is no time to sit in shock.{p}We must immediately station troops wherever the{n}Kingdom of Burnstein is likely to strike, or they will{n}overrun us in no time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0070",
    "jp": "{v:0009}う、そうだな。{p}{v:000A}戦をするほどの兵を今から集めるには{n}多少の時間がかかる。{p}{v:000B}とりあえず手持ちの兵を送るので、{n}お前たちはその報告を砦に伝えてもらいたい。{p}{v:000C}だが、それはついでの任務だ。{n}お前たちは人質の救出を優先して欲しい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Ah, you are right.{p}{v:000A}It will take some time to muster enough soldiers to{n}wage a war.{p}{v:000B}For now, we shall send the troops at hand. You are to{n}carry word of this to the fort.{p}{v:000C}However, that is merely a secondary duty. Rescuing the{n}hostages must be your priority.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0071",
    "jp": "{v:000D}人質の救出？{n}でもどうやって？{n}場所もわかっていないのに‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Rescue the hostages? But how? We don't even know{n}where they are...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0072",
    "jp": "{v:000E}くわしい場所は砦のブロンソン将軍に聞くと良い。{n}あの男はなかなか出来る。{n}かならず人質の居場所を突き止めてくれるだろう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Ask General Bronson at the fort for their precise{n}location. He is a most capable man. He will surely{n}discover where the hostages are being held.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0073",
    "jp": "{v:000F}居場所がわかっても、{n}それってバーンシュタイン王国内なんでしょ？{n}どうやって中へ入ればいいんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Even if we find them, they're inside the Kingdom of{n}Burnstein, right? How are we supposed to get in?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0074",
    "jp": "{v:0010}方法はお前たちに任せる。{n}こうなってしまった以上、戦いは避けられん。{p}{v:0011}そしてもし増援が到着する前に、{n}バーンシュタイン軍の動きがあれば、{n}何としてでも阻止して欲しい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}We leave the method to you. As matters stand, battle{n}is unavoidable.{p}{v:0011}And should the Burnstein army make a move before{n}reinforcements arrive, you must stop them at{n}all costs.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0075",
    "jp": "{v:0013}あ、そうか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Oh, I get it!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0076",
    "jp": "{v:0014}つまり、アタシ達が適任なんだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}So we're just the ones for the job!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0077",
    "jp": "{v:0015}報告と、人質の救出。{n}増援到着までバーンシュタイン王国軍を阻止する‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Report back, rescue the hostages, and hold off the{n}royal army of Burnstein until reinforcements arrive...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0078",
    "jp": "{v:0016}ああ、そうだ。{n}もちろん、こちらでも救出のための計画を練るが‥‥。{p}{v:0017}頼んだぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Yes, precisely. We shall, of course, also devise a rescue{n}plan here, but...{p}{v:0017}We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0079",
    "jp": "{v:0000}おお、戻ってきたか。{p}{v:0001}では、報告を聞こうかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Ah, you have returned.{p}{v:0001}Well then, shall we hear your report?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0080",
    "jp": "{v:0002}水晶鉱山の旧坑道の奥に、{n}怪物が出没したとおぼしき場所がありました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Deep within the crystal mine's old tunnels, we found{n}what appears to be the site where the{n}monster emerged.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0081",
    "jp": "{v:0003}なんだとっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}What did you say?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0082",
    "jp": "{v:0004}そして、もし怪物が水晶の内部から出現したとなると、{n}今後水晶鉱山が見つかったとき、{n}同じく内部に怪物が潜んでいる可能性があります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}And if the monster emerged from within the crystal,{n}then any crystal mines discovered in the future may{n}also have monsters lurking inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0083",
    "jp": "{v:0005}う、うむ‥‥。{n}もし水晶鉱山を発見しても、むやみに掘るのは{n}危険ということか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Y-yes... So even if we discover a crystal mine, digging{n}recklessly could be dangerous...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0084",
    "jp": "{v:0006}いずれも憶測の域を出ません。{n}検証を行うために、すぐにでも調査団を{n}派遣するべきかと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}This is all still conjecture. I believe we should dispatch{n}an investigation team immediately to verify it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0085",
    "jp": "{v:0007}わかった。{n}サンドラ、さっそくその手配を。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Very well. Sandra, make the arrangements at once.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0086",
    "jp": "{v:0008}はい。{n}調査団については、私の方から魔法学院に{n}連絡しておきましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Yes. I shall contact the Magic Academy about an{n}investigation team.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0087",
    "jp": "{v:0009}たのむぞ、サンドラ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}We are counting on you, Sandra.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0088",
    "jp": "{v:000A}お前たちもよく調べてくれた。{p}{v:000B}次の任務は姫を迎えに行くことだが、{n}しばし時間がある。{n}それまでは休暇とする。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}You have all done well with your investigation.{p}{v:000B}Your next mission is to fetch the princess, but there is{n}still some time before then. Until then, you are{n}on leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0089",
    "jp": "{v:0002}今回の働きに対して与えられる休暇は３日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}For your service, you are granted three days of leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0090",
    "jp": "{v:0001}今回の働きに対して与えられる休暇は２日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}For your service, you are granted two days of leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0091",
    "jp": "{v:0000}今回の働きに対して与えられる休暇は１日だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}For your service, you are granted one day of leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0092",
    "jp": "{v:0000}ただいま戻りました！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}We have returned!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0093",
    "jp": "{v:0001}おお、もう送り届けたか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Ah, you have already delivered her safely?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0094",
    "jp": "{v:0002}はい。無事にお送りして参りました。{n}バーンシュタイン王国内では{n}インペリアル・ナイトの方が護衛します。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Yes. We escorted her there safely. An Imperial Knight{n}will guard her within the Kingdom of Burnstein.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0095",
    "jp": "{v:0003}うむ、ご苦労。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Good. Well done.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0096",
    "jp": "{v:0015}では今回の手柄に対し、休暇を授ける。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Then, in recognition of your service, we shall grant{n}you leave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0097",
    "jp": "{v:0005}休暇？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Leave?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0098",
    "jp": "{v:0006}そうだ。{p}{v:0007}他の兵は、定期的に休みを取っているのだが、{n}お前たちの任務は特殊な場合が多く、{n}定期的な休みを取ることは出来ない。{p}{v:0008}そこで、任務の完了時に休暇を与えることにする。{p}{v:0009}それにお前たちの場合、{n}仲間との親睦を深めるという意味もある。{p}{v:000A}お互いの結束が深まれば、より困難な任務も{n}果たすことができるであろうからな。{p}{v:000B}詳しいことはこの者から聞くと良い。{n}休暇が終わり次第、次の任務について貰う。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Indeed.{p}{v:0007}The other soldiers take regular days of rest, but your{n}missions are often unusual, making regular{n}leave impossible.{p}{v:0008}Therefore, you shall be granted leave upon completing{n}your missions.{p}{v:0009}In your case, it also serves to deepen your{n}friendships with your companions.{p}{v:000A}With stronger bonds between you, you should be able{n}to accomplish even more difficult missions.{p}{v:000B}This man will explain the details. Once your leave ends,{n}you will undertake your next mission.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0099",
    "jp": "{v:000C}休暇の日数は、こなした任務とその成果から{n}判断されることになる。{p}{v:000D}また休暇を過ごす先は随時増えて行くが、{n}ここで予定した行き先通りに、休暇を取ってもらう。{p}{v:000E}休暇日数が２日以上の場合、１日ごとに行き先を{n}ここで選ぶ。何かあった場合、連絡が取れないと{n}困るのでな、これは徹底してもらう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}The length of your leave will be determined by the{n}mission you have completed and its results.{p}{v:000D}More destinations will become available over time, but{n}you must spend your leave at the destinations you{n}select here.{p}{v:000E}If you have two or more days of leave, choose a{n}destination here for each day.{p}We must be able to reach you if anything happens, so{n}follow this rule without exception.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0100",
    "jp": "{v:0010}理解できたか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Do you understand?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0101",
    "jp": "{v:0011}ならば、もう一度説明するぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Then I shall explain once more.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0102",
    "jp": "{v:0012}では、行き先を選べ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Now, choose your destination.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0103",
    "jp": "{v:0000}宮廷魔術師、サンドラ、まいりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Sandra, Court Magician, at your service.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0104",
    "jp": "{v:0001}おお、サンドラ。{n}体の方はもう良いのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Ah, Sandra. Have you recovered?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0105",
    "jp": "{v:0002}はい。{n}この子たちのおかげで、すっかりよくなりました。{p}{v:0003}国王陛下にはご迷惑をおかけしました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Yes. Thanks to these children, I have{n}recovered completely.{p}{v:0003}I apologize for the trouble I have caused{n}Your Majesty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0106",
    "jp": "{v:0004}うむ。{n}しかし治って良かったな。{p}{v:0005}ところで、話とはその者たちのことか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}Indeed. We are glad you have recovered.{p}{v:0005}Now then, is it these people you wished to discuss?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0107",
    "jp": "{v:0006}はい。{n}この２人は私の子供でございますが、{n}息子の方が少々奇妙な夢をみます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Yes. These two are my children, and my son has been{n}having rather strange dreams.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0108",
    "jp": "{v:0007}ほほぅ、奇妙な夢とな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}Oh? Strange dreams, you say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0109",
    "jp": "{v:0008}その夢というのが、遠く離れた場所の情景を、{n}実際にその場へ存在しているかのように、{n}見てしまうというものなのです。{p}{v:0009}息子のみた夢のおかげで、私は命を救われました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}In these dreams, he sees events in distant places as{n}though he were actually there.{p}{v:0009}It was thanks to one of my son's dreams that my life{n}was saved.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0110",
    "jp": "{v:000A}夢で事実を知るとは‥‥なんと不思議な‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}To learn of actual events through dreams... How{n}extraordinary...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0111",
    "jp": "{v:000B}問題はここからです。{p}{v:000C}この子の夢に、過去の伝承にうたわれる、{n}ゲヴェルらしき怪物が出てくるようなのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Here is what concerns me.{p}{v:000C}It seems a monster resembling Gevel, spoken of in{n}ancient legends, has been appearing in his dreams.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0112",
    "jp": "{v:000D}ゲヴェル！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Gevel?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0113",
@@ -693,341 +804,396 @@
   {
    "id": "scen006.0114",
    "jp": "{v:000F}左様でございます。{p}{v:0010}そこで陛下にお願いがございます。{p}{v:0011}この子たちを仕官させ、各国を回り、{n}ゲヴェルの実態を調査させたいのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}That is correct.{p}{v:0010}And so I have a request, Your Majesty.{p}{v:0011}I would like these children to enter your service and{n}travel to the various kingdoms to investigate the{n}truth about Gevel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0115",
    "jp": "{v:0012}うむ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Hmm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0116",
    "jp": "{v:0013}この子は今年の闘技大会で優勝した実力。{n}仕官には差し支えないかと存じます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}My son proved his ability by winning this year's{n}tournament. I believe he is well qualified to enter{n}your service.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0117",
    "jp": "{v:0014}そしてルイセがグローシアンであることは、{n}もうご存じと思います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}And I believe you already know that Luise is{n}a Growsian.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0118",
    "jp": "{v:0016}こちらの男、名をウォレスといい、{FFF9}{FFFB}{n}{v:0017}同じく闘技大会などで優勝した経験を持ちます。{p}{v:0018}彼を子供たちのサポートにつけたいと思います。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}This man is named Wallace,{FFF9}{FFFB} {v:0017}and he, too, has won{n}tournaments and other contests.{p}{v:0018}I would like him to support the children.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0119",
    "jp": "{v:0019}なるほど、わかった。{n}そなたの頼み、しかと聞き届けた。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}I see. Very well. Your request is granted.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0120",
    "jp": "{v:001A}ありがとうございます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Thank you, Your Majesty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0121",
    "jp": "{v:001B}いやいや。{p}{v:001C}闘技大会を優勝した腕前なら、{n}近いうちにこちらから仕官の誘いをしたであろう。{n}それが少しだけ早まっただけのことだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Think nothing of it.{p}{v:001C}With the skill to win the tournament, he would soon{n}have received an invitation to enter our service{n}anyway. This merely hastens matters a little.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0122",
    "jp": "{v:001D}では早速仕事を頼みたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Then we have a task for you at once.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0123",
    "jp": "{v:001E}は、なんなりと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Yes, whatever you require.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0124",
    "jp": "{v:001F}実はもうすぐバーンシュタイン王国の王子が、{n}王として即位することになった。{n}その戴冠式に姫が招かれている。{p}{v:0020}そこでだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}The prince of the Kingdom of Burnstein is soon to{n}ascend the throne. The princess has been invited to{n}his coronation.{p}{v:0020}And so...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0125",
    "jp": "{v:0021}お前たちにレティシア姫の護衛を頼みたいのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}We would like you to escort Princess Leticia.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0126",
    "jp": "{v:0022}早速、大変な任務だね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}That's quite a mission to start with!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0127",
    "jp": "{v:0023}よろしくお願いしますわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}I shall be in your care.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0128",
    "jp": "{v:0024}こちらこそ、よろしくお願いします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}We look forward to accompanying you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0129",
    "jp": "{v:0025}行き先は南にある砦の先だ。{n}そこで先方から、{FFEF}インペリアル・ナイツ{FFF1}の騎士が{n}出迎えに来ることになっている。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Your destination lies beyond the fort to the south. One{n}of their {FFEF}Imperial Knights{FFF1} will meet you there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0130",
    "jp": "{v:0026}バーンシュタイン王国の{n}{FFEF}インペリアル・ナイツ{FFF1}というと、{n}有名なあの近衛騎士団でしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}The {FFEF}Imperial Knights{FFF1} of the Kingdom of Burnstein... Do{n}you mean the renowned order of royal guards?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0131",
    "jp": "{v:0027}そうだ。{n}彼らならば信頼に足る人物。{p}{v:0028}お前たちには、彼らとの待ち合わせ場所までの護衛を{n}頼みたい。{p}{v:0029}もちろん戴冠式が終わり次第、同じ場所で待ち合わせ、{n}再び姫の護衛を行う。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Indeed. They are worthy of our trust.{p}{v:0028}We ask that you escort her as far as the{n}meeting place.{p}{v:0029}Naturally, once the coronation is over, you will meet at{n}the same place and escort the princess once more.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0132",
    "jp": "{v:002A}砦は闘技場の更に南にあります。{n}それから護衛が終わりしだい、{n}忘れずに報告へ来るのですよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}The fort is farther south than the arena. And once{n}your escort duty is complete, be sure to return{n}and report.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0133",
    "jp": "{v:002B}道中、頼みますね。{n}さぁ、出発致しましょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}I shall be counting on you along the way. Now, let{n}us depart.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0134",
    "jp": "　{n}　　　　　{FFEF}レティシア姫が同行者になった！{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　{FFEF}Princess Leticia is now accompanying the{n}party!{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0135",
    "jp": "任務・姫を南の砦へ",
-   "en": "",
-   "term": "end"
+   "en": "Mission: Escort the Princess to the Southern Fort",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0136",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Where will you spend your leave today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0137",
    "jp": "・王都ローザリア",
-   "en": "",
+   "en": "・Royal Capital Rosaria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen006.0138",
    "jp": "・保養地ラシェル",
-   "en": "",
+   "en": "・Rachelle Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen006.0139",
    "jp": "・魔法学院",
-   "en": "",
+   "en": "・Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen006.0140",
    "jp": "・観光地コムスプリングス",
-   "en": "",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen006.0141",
    "jp": "今日はどこで休暇を過ごしますか？",
-   "en": "",
-   "term": "end"
+   "en": "Where will you spend your leave today?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0142",
    "jp": "・王都ローザリア",
-   "en": "",
+   "en": "・Royal Capital Rosaria",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen006.0143",
    "jp": "・保養地ラシェル",
-   "en": "",
+   "en": "・Rachelle Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen006.0144",
    "jp": "・魔法学院",
-   "en": "",
+   "en": "・Magic Academy",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen006.0145",
    "jp": "・観光地コムスプリングス",
-   "en": "",
+   "en": "・Comsprings Tourist Resort",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen006.0146",
    "jp": "・{s:0010}",
-   "en": "",
+   "en": "・{s:0010}",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen006.0147",
    "jp": "{v:0000}お前たちに次の任務を与える。{p}{v:0001}夢で見た怪物が本当に伝承で{n}うたわれるゲヴェルなのか、それを調査して欲しい。{p}{v:0002}そして可能であればゲヴェルの居場所を{n}突き止めるのだ。{p}{v:0003}これは簡単に終えられる任務とは思えぬので、{n}お前たちの最終的な任務だと思って欲しい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}We shall now give you your next mission.{p}{v:0001}Investigate whether the monster you saw in your{n}dreams truly is the Gevel of legend.{p}{v:0002}And, if possible, discover Gevel's whereabouts.{p}{v:0003}We do not expect this mission to be completed easily.{n}Consider it your ultimate assignment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0148",
    "jp": "{v:0004}恐れながら申し上げます。{p}{v:0005}約２０年前、自分は一介の傭兵として{n}水晶鉱山を警護していたことがあります。{n}その時、怪物が現れ、隊長と部下を失いました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}With your permission, Your Majesty.{p}{v:0005}About twenty years ago, I served as a mere mercenary{n}guarding a crystal mine. A monster appeared, and I{n}lost my captain and the men under me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0149",
    "jp": "{v:0006}おお、あの事件なら覚えているぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Ah, we remember that incident.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0150",
    "jp": "{v:0007}その時の怪物が、伝承のゲヴェルと{n}同一かも知れません。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}That monster may have been the Gevel of legend.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0151",
    "jp": "{v:0008}何？{n}水晶鉱山の事件は、ゲヴェルが起こしたと言うのか？{p}{v:0009}確証はあるのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}What? You mean Gevel was responsible for the incident{n}at the crystal mine?{p}{v:0009}Do you have proof?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0152",
    "jp": "{v:000A}実はお兄ちゃん、お母さんを襲った仮面の男たちが、{n}怪物に命令されているところを、{n}夢で見たらしいんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Actually, Big Brother says he saw the masked men who{n}attacked Mother taking orders from a monster in{n}his dream.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0153",
    "jp": "{v:000B}それに、マスターを襲った連中ってのが、{n}ウォレスさんに大けがを負わせた奴らと{n}同じかもしれないの！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}And the guys who attacked Master might be the same{n}ones who hurt Wallace-san so badly!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0154",
    "jp": "{v:000C}何だと？{n}それで、その方が怪我を負ったというのはいつの話だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}What? Then when did you sustain those injuries?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0155",
    "jp": "{v:000D}２年ほど前になりますが、{n}バーンシュタイン王国にある{n}クレインという小村の側でございます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}About two years ago, near a small village called Crane{n}in the Kingdom of Burnstein, Your Majesty.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0156",
    "jp": "{v:000E}クレインか、それはちと遠いな。{n}ならば水晶鉱山のほうが近い。{p}{v:000F}お前たち、闘技大会に優勝したのなら、{n}コムスプリングスへは行ったことがあるだろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Crane? That is rather far away. The crystal mine{n}is closer.{p}{v:000F}If you won the tournament, you have been to{n}Comsprings, have you not?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0157",
    "jp": "{v:0010}あの温泉の街なら、行ったことあるよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Yep, we've been to that hot spring town!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0158",
    "jp": "{v:0011}その街を越えたところに、水晶鉱山はある。{n}まずはそこから調べた方が早いかも知れぬな。{p}‥‥‥{v:0012}確か、水晶鉱山は魔法学院が管理して{n}いるのだったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}The crystal mine lies beyond that town. It may be{n}quicker to begin your investigation there.{p}...{v:0012}If memory serves, the crystal mine is managed by the{n}Magic Academy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0159",
    "jp": "{v:0013}はい。{n}立ち入りの許可は学院長が下します。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Yes. The Headmaster grants permission to enter.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0160",
    "jp": "{v:0014}この書状をもって行け。{n}水晶鉱山内への立入検査依頼書と、{n}水晶鉱山までの通行手形だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0014}Take these documents. A Search Warrant for the{n}crystal mine, and a pass allowing you to travel there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0161",
    "jp": "　{n}　　　『{FFEF}鉱山内の立入検査依頼書{FFF1}』を手に入れた！{n}　　　　『{FFEF}[0298]水晶鉱山通行証{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Received '{FFEF}Search Warrant{FFF1}'!{n}Received '{FFEF}[0298]Mine Pass{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0162",
    "jp": "{v:0015}はい。{n}がんばります！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Yes. We'll do our best!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0163",
    "jp": "水晶鉱山の調査",
-   "en": "",
-   "term": "end"
+   "en": "Investigate the Crystal Mine",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0164",
    "jp": "姫のお迎え",
-   "en": "",
-   "term": "end"
+   "en": "Fetch the Princess",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0165",
    "jp": "{v:000C}では次の任務にあたってもらう。{p}{v:000D}前回姫を送り届けるまでの護衛を頼んだが、{n}そろそろ戴冠式も終わる頃だ。{p}{v:000E}今度は姫を無事連れ帰るまでの護衛を任せる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Now, you shall undertake your next mission.{p}{v:000D}Previously, we asked you to escort the princess to her{n}destination. The coronation should be drawing to a close{n}by now.{p}{v:000E}This time, we entrust you with escorting her{n}safely home.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0166",
    "jp": "{v:000F}それじゃ、またあっちまで行くんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}So we're heading all the way back there again.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0167",
    "jp": "{v:0010}砦で待機していれば、連絡がくる手はずになっている。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Wait at the fort. Arrangements have been made for{n}word to reach you there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0168",
    "jp": "{v:0011}承知しました。{p}{v:0012}ところで陛下。{n}水晶鉱山の件はどうなっているでしょうか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Understood.{p}{v:0012}By the way, Your Majesty, has there been any news{n}concerning the crystal mine?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0169",
@@ -1038,116 +1204,135 @@
   {
    "id": "scen006.0170",
    "jp": "{v:0017}なっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0017}What?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0171",
    "jp": "{v:0018}それで調査団は？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}What happened to the investigation team?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0172",
    "jp": "{v:0019}おじさまは無事なの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Is Uncle all right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0173",
    "jp": "{v:001A}幸い、かすり傷を負った人が数名出ただけで、{n}死者は出ませんでした。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}Fortunately, only a few people suffered minor{n}scratches. No lives were lost.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0174",
    "jp": "{v:001B}ほっ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Whew.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0175",
    "jp": "{v:001C}せっかくの証拠が‥‥クッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}All that evidence... Damn!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0176",
    "jp": "{v:001D}確かに残念なことだ。{p}{v:001E}だがまた次の手がかりを探せるよう、{n}こちらでも留意しておこう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}That is indeed unfortunate.{p}{v:001E}But we shall also keep watch for anything that might{n}lead you to another clue.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0177",
    "jp": "{v:001F}ありがとうございます。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Thank you very much.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0178",
    "jp": "{v:0020}今はお姫様を迎えに行かないとね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}Right now, we've got a princess to pick up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0179",
    "jp": "{v:0021}そうだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}That's right.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0180",
    "jp": "{v:0022}うむ。{n}しっかり頼むぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Indeed. We are counting on you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0181",
    "jp": "　{n}　　　　こちらからは開けられない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　It won't open from this side...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0182",
    "jp": "どうした？{n}迷子にでもなったのか？",
-   "en": "",
-   "term": "end"
+   "en": "What's wrong? Get yourself lost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0183",
    "jp": "３階は王とレティシア姫の居室となっています。",
-   "en": "",
-   "term": "end"
+   "en": "The third floor houses the private quarters of the{n}King and Princess Leticia.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0184",
    "jp": "ここはアルカディウス王の寝室です。",
-   "en": "",
-   "term": "end"
+   "en": "This is King Alcadius's bedchamber.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0185",
    "jp": "ここはレティシア姫の寝室です。",
-   "en": "",
-   "term": "end"
+   "en": "This is Princess Leticia's bedchamber.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0186",
    "jp": "お、お兄ちゃん‥‥。{n}王様の前で魔法を使うのは、よくないよ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "B-Big Brother... You shouldn't use magic in front of{n}the King...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0187",
    "jp": "マスターをどこへ連れて行く気よ！？",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're taking Master?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen006.0188",
    "jp": "ミーシャを置いていく気なの！？",
-   "en": "",
-   "term": "end"
+   "en": "You're going to leave Misha behind?!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

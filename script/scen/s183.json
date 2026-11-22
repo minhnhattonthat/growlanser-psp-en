@@ -15,14 +15,16 @@
   {
    "id": "scen183.0001",
    "jp": "ＤＡＴＡ[0793]ＢＡＮＫ",
-   "en": "",
-   "term": "null"
+   "en": "DATA BANK",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen183.0002",
    "jp": "ティピ",
-   "en": "",
-   "term": "null"
+   "en": "Tippi",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen183.0003",
@@ -33,8 +35,9 @@
   {
    "id": "scen183.0004",
    "jp": "警報",
-   "en": "",
-   "term": "null"
+   "en": "Alarm",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen183.0005",
@@ -45,20 +48,23 @@
   {
    "id": "scen183.0006",
    "jp": "フェザリアン",
-   "en": "",
-   "term": "null"
+   "en": "Featherian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen183.0007",
    "jp": "メモリーの読み出しが可能です。",
-   "en": "",
-   "term": "end"
+   "en": "Memory retrieval available.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0008",
    "jp": "読み出したいデータを入力してください。",
-   "en": "",
-   "term": "end"
+   "en": "Please enter the data you wish to retrieve.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0009",
@@ -128,8 +134,9 @@
   {
    "id": "scen183.0019",
    "jp": "壊れているのか、動かない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "It won't work. Perhaps it's broken...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0020",
@@ -140,14 +147,16 @@
   {
    "id": "scen183.0021",
    "jp": "装置を動かしてみますか？",
-   "en": "",
-   "term": "end"
+   "en": "Try operating the device?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0022",
    "jp": "{FFEE}ＴＯＴＡＬ　ＣＯＮＴＲＯＬ　ＣＬＩＥＮＴ{p}‥‥‥ＳＹＳＴＥＭ　ＧＲＥＥＮ{p}ＶＯＩＣＥ　ＮＡＶＩＧＡＴＩＯＮ　ＭＯＤＥ{FFF1}{p}．．．ＯＫ{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}TOTAL CONTROL CLIENT ...SYSTEM GREEN VOICE{n}NAVIGATION MODE{FFF1}{p}...OK{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0023",
@@ -158,44 +167,51 @@
   {
    "id": "scen183.0024",
    "jp": "ロックを解除しますか？",
-   "en": "",
-   "term": "end"
+   "en": "Release the lock?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0025",
    "jp": "ロックを解除しました。",
-   "en": "",
-   "term": "end"
+   "en": "Lock released.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0026",
    "jp": "解除操作を取り消しました。",
-   "en": "",
-   "term": "end"
+   "en": "Unlock operation canceled.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0027",
    "jp": "{v:0035}とりあえず、ちゃんと動いてるみたい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Well, it seems to be working properly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0028",
    "jp": "どこ行くのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Where do you think you're going?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0029",
    "jp": "　{n}　　　　　エレベータは動いていない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　The elevator isn't running...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0030",
    "jp": "　{n}　　　　　　扉はロックされている‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　The door is locked...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0031",
@@ -729,8 +745,9 @@
   {
    "id": "scen183.0118",
    "jp": "‥‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "......",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0119",
@@ -996,16 +1013,18 @@
   {
    "id": "scen183.0162",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen183.0163",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen183.0164",
@@ -1064,38 +1083,44 @@
   {
    "id": "scen183.0173",
    "jp": "{v:0034}歪み率が３５％を越えました‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Distortion level exceeds 35%...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0174",
    "jp": "{v:0035}そんな、間に合わなかったなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}No... We didn't make it in time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0175",
    "jp": "{v:0011}歪み率が３３％を越えました。{p}{v:0033}歪み率が危険値に達しています。{n}速やかにパワーストーンを用い、{n}時空制御装置を緊急モードに移行してください。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Distortion level exceeds 33%.{p}{v:0033}Distortion has reached a dangerous level. Use the{n}Power Stone immediately to switch the space-time{n}control device to emergency mode.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0176",
    "jp": "{v:0010}歪み率が３０％を越えました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Distortion level exceeds 30%.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0177",
    "jp": "{v:000F}歪み率が２８％を越えました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Distortion level exceeds 28%.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0178",
    "jp": "{v:000E}歪み率が２５％を越えました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Distortion level exceeds 25%.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0179",
@@ -1124,8 +1149,9 @@
   {
    "id": "scen183.0183",
    "jp": "　{n}　　　　　　パワーストーンを使った！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　Used the Power Stone!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0184",
@@ -1393,14 +1419,16 @@
   {
    "id": "scen183.0227",
    "jp": "{v:0000}警告します。{p}{v:0001}歪み率が２０％を越えています。{n}現状のモードでは修復不能。{p}{v:0002}至急、パワーストーンを使い、{n}システムを完全に稼働させてください。{n}歪み率が３５％を越えると、時空分離が始まります。{p}{v:0003}繰り返します。{p}{v:0004}歪み率が２０％を越えています。{n}現状のモードでは修復不能。{p}{v:0005}至急、パワーストーンを使い、{n}システムを完全に稼働させてください。{n}歪み率が３５％を越えると、時空分離が始まります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Warning.{p}{v:0001}Distortion level exceeds 20%. Repair is impossible in the{n}current mode.{p}{v:0002}Use the Power Stone immediately to bring the system{n}to full operation. Space-time separation will begin when{n}the distortion level exceeds 35%.{p}{v:0003}Repeat.{p}{v:0004}Distortion level exceeds 20%. Repair is impossible in the{n}current mode.{p}{v:0005}Use the Power Stone immediately to bring the system{n}to full operation. Space-time separation will begin when{n}the distortion level exceeds 35%.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0228",
    "jp": "{v:0006}始まったか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}It's started!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0229",
@@ -1429,14 +1457,16 @@
   {
    "id": "scen183.0233",
    "jp": "{v:000D}歪み率が２２％を越えました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Distortion level exceeds 22%.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0234",
    "jp": "{v:0012}チィッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Tch!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0235",
@@ -1447,16 +1477,18 @@
   {
    "id": "scen183.0236",
    "jp": "・いいえ",
-   "en": "",
+   "en": "・No",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen183.0237",
    "jp": "・はい",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen183.0238",
@@ -1593,8 +1625,9 @@
   {
    "id": "scen183.0260",
    "jp": "バカ！{n}時間がないんでしょ！{n}さっさと時空制御装置を動かすのよ！",
-   "en": "",
-   "term": "end"
+   "en": "Idiot! We're out of time, remember?! Hurry up and{n}activate the space-time control device!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen183.0261",
@@ -1605,8 +1638,9 @@
   {
    "id": "scen183.0262",
    "jp": "　{n}　　　テレポートの魔法がかき消された！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　The Teleport spell was dispelled!",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

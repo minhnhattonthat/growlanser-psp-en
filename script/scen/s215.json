@@ -15,20 +15,23 @@
   {
    "id": "scen215.0001",
    "jp": "なに、アレ[01BE]",
-   "en": "",
-   "term": "end"
+   "en": "What's that[01BE]",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen215.0002",
    "jp": "なんかブヨブヨした気持ち悪いのがいるよ。",
-   "en": "",
-   "term": "end"
+   "en": "There's some gross, squishy thing over there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen215.0003",
    "jp": "お、終わった‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I-it's over...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

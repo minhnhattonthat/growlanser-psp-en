@@ -15,14 +15,16 @@
   {
    "id": "scen281.0001",
    "jp": "警備兵",
-   "en": "",
-   "term": "null"
+   "en": "Guard",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen281.0002",
    "jp": "子供",
-   "en": "",
-   "term": "null"
+   "en": "Child",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen281.0003",
@@ -95,9 +97,10 @@
   {
    "id": "scen281.0014",
    "jp": "・自由に戦ってもらう",
-   "en": "",
+   "en": "・Let him fight as he sees fit",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen281.0015",
@@ -109,9 +112,10 @@
   {
    "id": "scen281.0016",
    "jp": "・その場で防御",
-   "en": "",
+   "en": "・Defend in place",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen281.0017",
@@ -134,8 +138,9 @@
   {
    "id": "scen281.0020",
    "jp": "そ‥そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "N-no... This can't be...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen281.0021",

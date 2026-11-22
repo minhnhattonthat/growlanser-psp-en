@@ -15,116 +15,135 @@
   {
    "id": "scen209.0001",
    "jp": "警報",
-   "en": "",
-   "term": "null"
+   "en": "Alarm",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen209.0002",
    "jp": "う～ん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hmm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0003",
    "jp": "どうしたの？",
-   "en": "",
-   "term": "end"
+   "en": "What's wrong?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0004",
    "jp": "どうも周りにいる発光体のようなものが、{n}あの巨大機械へのエネルギー供給源に{n}なっているような感じだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Those glowing objects around us seem to be supplying{n}energy to that enormous machine...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0005",
    "jp": "つまり、発光体をぜんぶつぶせば、{n}中央のヤツが動かなくなるってことか？",
-   "en": "",
-   "term": "end"
+   "en": "So if we smash all the glowing things, the one in the{n}middle stops moving?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0006",
    "jp": "自信はないけどね。{n}ただ、そんな風に見えないかい？",
-   "en": "",
-   "term": "end"
+   "en": "I can't be sure. But doesn't it look that way to you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0007",
    "jp": "よくわかんない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I can't really tell...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0008",
    "jp": "もっとも、巨大機械を直接つぶす方が{n}早いかもしれないけどね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Of course, it might be faster to destroy the enormous{n}machine itself...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0009",
    "jp": "とりあえず、どうするかは{n}{s:0000}に任せよう。",
-   "en": "",
-   "term": "end"
+   "en": "For now, let's leave the decision to{n}{s:0000}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0010",
    "jp": "むぅぅ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Hrrm...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0011",
    "jp": "どうしたの、ウォレスさん？",
-   "en": "",
-   "term": "end"
+   "en": "What's wrong, Wallace-san?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0012",
    "jp": "この魔法の眼を通して見ていると、{n}周りで光っている球体から、真ん中のデカイ奴に{n}動力が流れているように見えるんだ。{p}俺は魔法や、魔導装置に詳しくねぇから、{n}正しいのかどうかわからんがな。{p}とりあえず、判断はお前に任せるぞ、{n}{s:0000}。",
-   "en": "",
-   "term": "end"
+   "en": "Looking through this Magic Eye, I can see what looks{n}like power flowing from those glowing spheres to the{n}big thing in the middle.{p}I don't know much about magic or magical machinery, so{n}I can't say for sure.{p}I'll leave the call to you, {s:0000}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0013",
    "jp": "{v:0040}カウントダウン終了。{n}これより、フロアーを爆破します！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Countdown complete. Detonating this floor now!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0014",
    "jp": "{v:0041}きゃーーーっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Aaaah!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0015",
    "jp": "{v:003A}警告します。{n}フロア爆破まで、あと１００カウントです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}Warning. 100 counts until this floor detonates.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0016",
    "jp": "{v:0039}警告します。{n}フロア爆破まで、あと２００カウントです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Warning. 200 counts until this floor detonates.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0017",
    "jp": "{v:0038}警告します。{n}フロア爆破まで、あと４００カウントです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Warning. 400 counts until this floor detonates.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0018",
    "jp": "{v:0037}警告します。{n}フロア爆破まで、あと６００カウントです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Warning. 600 counts until this floor detonates.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen209.0019",
    "jp": "{v:0036}警告します。{n}フロア爆破まで、あと８００カウントです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Warning. 800 counts until this floor detonates.",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

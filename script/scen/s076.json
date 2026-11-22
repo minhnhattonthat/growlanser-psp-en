@@ -15,290 +15,338 @@
   {
    "id": "scen076.0001",
    "jp": "眼帯の男",
-   "en": "",
-   "term": "null"
+   "en": "Eyepatched Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen076.0002",
    "jp": "{v:0064}とんだ邪魔が入ったな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0064}That was one hell of an interruption.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0003",
    "jp": "{v:0065}それにしても、どうしてグローシュの結晶を{n}持ってたんだろ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0065}Still, why did he have a Grosh crystal...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0004",
    "jp": "{v:0066}まさか、マスターの研究を奪った奴って‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0066}Wait, could he be the one who stole{n}Master's research...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0005",
    "jp": "{v:0067}考えるのは後だ。{n}早く戦場へ向かわねぇと！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0067}Think about it later. We've got to get to the battlefield!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0006",
    "jp": "{v:0044}なんだか森の様子が変だよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Something's strange about the forest.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0007",
    "jp": "{v:0045}装置を動かしたせいか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Is it because we activated the device?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0008",
    "jp": "{v:0046}わたしの側にいれば、大丈夫なはずだから、{n}離れないでね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}You should be all right as long as you're near me, so{n}stay close, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0009",
    "jp": "{v:0047}それじゃ、さっそく戦場へ向かおうよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0047}Then let's get straight to the battlefield!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0010",
    "jp": "{v:0048}それは無理だな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}That's not going to happen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0011",
    "jp": "{v:0049}誰だっ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Who's there?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0012",
    "jp": "{v:004A}お前たちを行かせるわけにはいかねぇな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}Can't let you through.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0013",
    "jp": "{v:004B}ランザックの兵隊さん‥‥！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Soldiers from Ranzak...?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0014",
    "jp": "‥‥{v:004C}死ね！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004C}Die!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0015",
    "jp": "グローシアン地下遺跡",
-   "en": "",
-   "term": "end"
+   "en": "Growsian Underground Ruins",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0016",
    "jp": "{v:0000}おお、待っていたぞ。{p}{v:0001}ランザック軍がこの森に進軍したそうだ。{n}もう時間がない！{n}君たちだけが頼りだ！{p}{v:0002}鍵は外しておいた。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Ah, I've been waiting for you.{p}{v:0001}I've heard the Ranzak army has advanced into this{n}forest. We're out of time! You're our only hope!{p}{v:0002}I've unlocked the entrance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0017",
    "jp": "{v:0004}それじゃ、私はすぐに本隊と合流するよ。{n}私はグローシアンじゃないから、{n}森が普通でいる間に戻らないとね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}I'll rejoin the main force right away, then. I'm not a{n}Growsian, so I need to get back while the forest is{n}still normal.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0018",
    "jp": "{v:0001}ランザック軍がこの森に進軍したそうだ。{n}もう時間がない！{n}君たちだけが頼りだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}I've heard the Ranzak army has advanced into this{n}forest. We're out of time! You're our only hope!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0019",
    "jp": "{v:0006}ここは昔グローシアンがつくった遺跡で、{n}この森を迷いの森に変える装置が眠っているんだ。{p}{v:0007}動力源となる魔水晶があれば今でも動くはずだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}These ruins were built long ago by Growsians. A device{n}that turns this forest into the Lost Forest lies{n}dormant here.{p}{v:0007}It should still work if we have a magic crystal to{n}power it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0020",
    "jp": "{v:0008}迷いの森になっちゃったら、誰も通れなくなるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Once it turns into the Lost Forest, will nobody be able{n}to get through?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0021",
    "jp": "{v:0009}たしかグローシアンと一緒なら、{n}その影響を受けないみたいだけど。{p}{v:000A}普通の人には全く違う地形に見えるそうだ。{n}特にこのあたりには近づけないみたいだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}If I remember correctly, it doesn't affect you if you're{n}with a Growsian.{p}{v:000A}Apparently, ordinary people see completely different{n}terrain. It seems they can't get near this particular{n}area at all.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0022",
    "jp": "{v:0000}ここは昔グローシアンがつくった{n}地下遺跡への入り口だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}This is the entrance to underground ruins built long ago{n}by Growsians.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0023",
    "jp": "{v:0001}ルイセちゃん、知ってる？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Luise-chan, do you know about them?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0024",
    "jp": "{v:0002}ちょっと、わからない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Um... I'm not really sure...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0025",
    "jp": "{v:0003}どうやら、幻覚でこの森を迷わせるための物らしい。{n}今は動力が切れてて、動かないけどね。{p}{v:0004}その頃の名残で、装置の止まっている今でも{n}この辺りの森を『迷いの森』なんて言うんだ。{p}{v:0005}入り口の鍵はブロンソン将軍が持っているけど、{n}普段は入れないよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Apparently, there's something here that uses illusions{n}to make people lose their way in this forest. It's out{n}of power now, though, so it doesn't work.{p}{v:0004}That's why people still call this part of the woods the{n}'Lost Forest,' even though the device has{n}stopped working.{p}{v:0005}General Bronson has the key to the entrance, but{n}people aren't normally allowed inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0026",
    "jp": "{v:0007}これがグローシアンが作った遺跡なんですね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}So these are the ruins the Growsians built.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0027",
    "jp": "{v:0005}これがグローシアンの遺跡かぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}So these are Growsian ruins...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0028",
    "jp": "{v:0006}この遺跡の事は、さすがに知らなかったよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Even I hadn't heard of these ruins.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0029",
    "jp": "{v:0008}目的の装置はどこにあるのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}I wonder where the device we're looking for is.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0030",
    "jp": "{v:0009}大切な装置なら、外敵から守るためにも{n}一番奥だろうな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}If it's an important device, it'll be in the deepest part,{n}to keep it safe from intruders.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0031",
    "jp": "{v:000A}なんだろう？{n}床に形の違うパネルがあるよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}What's that? There's a panel on the floor with a{n}different shape.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0032",
    "jp": "赤いボタンがある。",
-   "en": "",
-   "term": "end"
+   "en": "There's a red button.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0033",
    "jp": "赤いボタンがある。{n}押してみますか？",
-   "en": "",
-   "term": "end"
+   "en": "There's a red button. Press it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0034",
    "jp": "青いボタンがある。",
-   "en": "",
-   "term": "end"
+   "en": "There's a blue button.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0035",
    "jp": "青いボタンがある。{n}押してみますか？",
-   "en": "",
-   "term": "end"
+   "en": "There's a blue button. Press it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0036",
    "jp": "白いボタンがある。",
-   "en": "",
-   "term": "end"
+   "en": "There's a white button.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0037",
    "jp": "白いボタンがある。{n}押してみますか？",
-   "en": "",
-   "term": "end"
+   "en": "There's a white button. Press it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0038",
    "jp": "黄色いボタンがある。",
-   "en": "",
-   "term": "end"
+   "en": "There's a yellow button.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0039",
    "jp": "黄色いボタンがある。{n}押してみますか？",
-   "en": "",
-   "term": "end"
+   "en": "There's a yellow button. Press it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0040",
    "jp": "{v:000B}やった！{n}扉が全部開いたよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}We did it! All the doors opened!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0041",
    "jp": "{v:000C}これで奥まで進めるね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Now we can get all the way inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0042",
    "jp": "緑色のボタンがある。",
-   "en": "",
-   "term": "end"
+   "en": "There's a green button.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0043",
    "jp": "緑色のボタンがある。{n}押してみますか？",
-   "en": "",
-   "term": "end"
+   "en": "There's a green button. Press it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0044",
    "jp": "{v:000E}あ、透明な板が‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Oh, the transparent panel...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0045",
    "jp": "{v:000D}何だろ？透明な板があるよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}What's this? There's a transparent panel here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0046",
    "jp": "{v:000F}ここの床にもスイッチみたいなものがあるよ？{n}でも何のスイッチなんだろう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}There's something like a switch on this floor, too. But{n}what does it do?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0047",
    "jp": "『{FFEF}浄化のリボン{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Purifying Ribbon{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0048",
    "jp": "　{n}　　　　『{FFEF}浄化のリボン{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Purifying Ribbon{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0049",
@@ -309,284 +357,331 @@
   {
    "id": "scen076.0050",
    "jp": "『{FFEF}ハイドロゲン{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Hydrogen{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0051",
    "jp": "　{n}　　　　『{FFEF}ハイドロゲン{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Hydrogen{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0052",
    "jp": "台座の中央には、再生制御キーが置かれている。",
-   "en": "",
-   "term": "end"
+   "en": "The Regeneration Key rests in the center of{n}the pedestal.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0053",
    "jp": "台座には『{FFEE}マスター・ガーディアン再生制御装置{FFF1}』と{n}書かれたプレートがある。{p}その中央には、まるいくぼみがあり、{n}何かをはめることが出来るようだ。",
-   "en": "",
-   "term": "end"
+   "en": "A plate on the pedestal reads '{FFEE}Master Guardian{n}Regeneration Control Device{FFF1}'.{p}There is a round recess in its center. Something seems{n}to fit into it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0054",
    "jp": "すでに制御キーをはめている。",
-   "en": "",
-   "term": "end"
+   "en": "The control key is already in place.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0055",
    "jp": "マスター・ガーディアン再生制御装置を作動。{n}再生能力を使用不能にします。",
-   "en": "",
-   "term": "end"
+   "en": "Activating the Master Guardian regeneration control{n}device. Disabling regeneration.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0056",
    "jp": "{v:0010}生体波長パターン照合開始。{p}{v:0011}登録者に該当なし。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Beginning biological wavelength pattern comparison.{p}{v:0011}No registered user matches.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0057",
    "jp": "{v:0012}侵入者発見。{n}これより排除を開始する。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Intruders detected. Commencing elimination.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0058",
    "jp": "{v:0013}なんだかヤバイよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Uh-oh, this looks bad!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0059",
    "jp": "　{n}　　　　　『{FFEF}再生制御キー{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　Obtained the '{FFEF}Regeneration Key{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0060",
    "jp": "　{n}　　　　　　　　{FFEF}中央装置{FFF1}－{FFEE}稼働中{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　　{FFEF}Central Unit{FFF1} -- {FFEE}Active{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0061",
    "jp": "　{n}　　　　　　　　{FFEF}中央装置{FFF1}－{FFF0}未稼働{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　　{FFEF}Central Unit{FFF1} -- {FFF0}Inactive{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0062",
    "jp": "{v:0035}これが制御装置かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Is this the control device?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0063",
    "jp": "{v:0036}よし、早く動力源を取り付けるんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Right. Hurry and install the power source!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0064",
    "jp": "　{n}　　　魔水晶のかけらを装置にセットした！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　Placed the magic crystal fragment in the device!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0065",
    "jp": "{FFEE}周辺地形スクリーン表示{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Surrounding terrain display{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0066",
    "jp": "{FFF0}警戒区域への侵入者を発見{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}Intruders detected in the monitored area{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0067",
    "jp": "{FFEE}表示します{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Displaying now{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0068",
    "jp": "{v:0038}この上のがローランディア軍と{n}バーンシュタイン軍かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0038}Are those the Rolandia and Burnstein armies up at{n}the top?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0069",
    "jp": "{v:0039}ではこの北上しているのが{n}ランザック軍ということだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}Then the force heading north must be the{n}Ranzak army.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0070",
    "jp": "{v:003A}それじゃ下から上に向かってるのが{n}ランザック軍だね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003A}So the ones moving from the bottom toward the top{n}are the Ranzak army, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0071",
    "jp": "{v:003B}それでは、この下から移動しているのが{n}ランザック軍ですね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}Then the force moving up from the bottom is the{n}Ranzak army, correct?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0072",
    "jp": "{FFEE}防衛システム起動{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Activating defense system{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0073",
    "jp": "{v:003C}あ、ランザック軍が右の道に進んだよ！{n}このまま行けばバーンシュタイン軍の後ろに出るね！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}Look, the Ranzak army took the road on the right! If{n}they keep going, they'll come out behind the{n}Burnstein army!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0074",
    "jp": "{v:003D}よし、まずは成功だな。{p}{v:003E}次はバーンシュタイン軍とランザック軍を{n}戦わせられれば‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Good. The first step worked.{p}{v:003E}Now, if we can get the Burnstein and Ranzak armies to{n}fight each other...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0075",
    "jp": "{v:003F}どうやるの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}How do we do that?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0076",
    "jp": "{v:0040}急いでここから出て、ランザック軍の到着直前に{n}バーンシュタイン軍の後方から攻撃をかける。{p}{v:0041}バーンシュタイン軍が反撃を始めたら、{n}俺たちはランザック軍方面に退却する。{p}{v:0042}俺たちを追ってきたバーンシュタイン軍が{n}ランザック軍とぶつかれば、戦闘は必至だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}We hurry out of here and attack the Burnstein army{n}from behind, just before the Ranzak army arrives.{p}{v:0041}Once the Burnstein army strikes back, we retreat{n}toward the Ranzak army.{p}{v:0042}When the Burnstein army pursues us and runs into the{n}Ranzak army, a battle's inevitable.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0077",
    "jp": "{v:0043}それじゃ、すぐにここから出ましょっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Then let's get out of here, quick!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0078",
    "jp": "{FFF0}システム未稼働{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFF0}System inactive{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0079",
    "jp": "{FFEE}システムを稼働させて下さい{FFF1}",
-   "en": "",
-   "term": "end"
+   "en": "{FFEE}Please activate the system{FFF1}",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0080",
    "jp": "動かんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Won't budge...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0081",
    "jp": "このままじゃ、ダメみたいだね‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Looks like it won't work like this...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0082",
    "jp": "迷いの森の起動装置と思われる台座がある。{n}上面にくぼみがあり、動力となる魔水晶を{n}置くことができるようだ。",
-   "en": "",
-   "term": "end"
+   "en": "There is a pedestal that appears to activate the Lost{n}Forest's mechanisms. A recess in its top seems{n}designed to hold a magic crystal as a power source.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0083",
    "jp": "{v:001E}侵入者あり。{n}これより排除行動を開始する。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Intruders detected. Commencing elimination procedures.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0084",
    "jp": "{v:001F}また出たよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Here they come again!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0085",
    "jp": "{v:0020}お、大きい‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}S-so big...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0086",
    "jp": "{v:0021}しかも５つか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}And five of them, too...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0087",
    "jp": "{v:0022}それに５つもあるよ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}And there are FIVE of them?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0088",
    "jp": "{v:0023}それに、数も多いですわ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}And there are so many of them, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0089",
    "jp": "{v:0024}ぼんやりしてる場合か！{n}来るぞ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}Don't just stand there! They're coming!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0090",
    "jp": "出口側から、何か大きな音がした‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "A loud noise came from the direction of the exit...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0091",
    "jp": "『{FFEF}グリトニル{FFF1}』を見つけたが、{n}これ以上、持つことはできない‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Found '{FFEF}Glitnir{FFF1}', but you can't carry any more...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0092",
    "jp": "　{n}　　　　『{FFEF}グリトニル{FFF1}』を手に入れた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　Obtained '{FFEF}Glitnir{FFF1}'!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0093",
    "jp": "澄んだ水がわき出している。",
-   "en": "",
-   "term": "end"
+   "en": "Clear water bubbles up from the spring.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0094",
    "jp": "飲んでみますか？",
-   "en": "",
-   "term": "end"
+   "en": "Would you like to drink some?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0095",
    "jp": "ＨＰとＭＰが回復した！",
-   "en": "",
-   "term": "end"
+   "en": "HP and MP restored!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen076.0096",
    "jp": "ダメだよ、お兄ちゃん。{n}急いでバーンシュタイン軍の後ろに行かなきゃ{n}いけないんだよ？",
-   "en": "",
-   "term": "end"
+   "en": "We can't, Big Brother. We have to hurry and get behind{n}Burnstein's army, remember?",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }

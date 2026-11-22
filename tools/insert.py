@@ -89,6 +89,11 @@ def keep_jp(e):
     return e["id"] in KEEP_JP or e["id"].startswith(KEEP_POOLS)
 
 
+def needs_english(e):
+    """Nonempty JP with no English and no keep-JP exemption (batches.py)."""
+    return bool(e.get("jp")) and not e.get("en") and not keep_jp(e)
+
+
 class Encoder:
     def __init__(self, mode, overrides=None):
         assert mode in ("jp", "marker", "en")

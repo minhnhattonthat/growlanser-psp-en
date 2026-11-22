@@ -15,893 +15,1041 @@
   {
    "id": "scen064.0001",
    "jp": "声",
-   "en": "",
-   "term": "null"
+   "en": "Voice",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen064.0002",
    "jp": "フェザリアン",
-   "en": "",
-   "term": "null"
+   "en": "Featherian",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen064.0003",
    "jp": "元祖スキマ屋店主",
-   "en": "",
-   "term": "null"
+   "en": "Original Nook Shop Owner",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen064.0004",
    "jp": "女王ステラ",
-   "en": "",
-   "term": "null"
+   "en": "Queen Stella",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen064.0005",
    "jp": "男",
-   "en": "",
-   "term": "null"
+   "en": "Man",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen064.0006",
    "jp": "子供たち",
-   "en": "",
-   "term": "null"
+   "en": "Children",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen064.0007",
    "jp": "青い服の子",
-   "en": "",
-   "term": "null"
+   "en": "Child in Blue",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen064.0008",
    "jp": "黄色い服の子",
-   "en": "",
-   "term": "null"
+   "en": "Child in Yellow",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen064.0009",
    "jp": "アリオストの父",
-   "en": "",
-   "term": "null"
+   "en": "Ariost's Father",
+   "term": "null",
+   "src": "ps1"
   },
   {
    "id": "scen064.0010",
    "jp": "フェザーランド",
-   "en": "",
-   "term": "end"
+   "en": "Featherland",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0011",
    "jp": "貯蔵庫{n}用なき者はあけるべからず",
-   "en": "",
-   "term": "end"
+   "en": "Storehouse. Do not open without good reason.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0012",
    "jp": "‥‥ん？{n}人間の匂いがするぞ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...Hm? I smell humans...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0013",
    "jp": "どうもありがとう。{n}また来るわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Thank you very much. I'll come again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0014",
    "jp": "{v:0000}女王がお待ちだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}The queen awaits you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0015",
    "jp": "ん？{n}アリオストというのはどいつだ？",
-   "en": "",
-   "term": "end"
+   "en": "Hm? Which of you is Ariost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0016",
    "jp": "あ、アリオストさん、連れてきてないや‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Oh, we didn't bring Ariost-san...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0017",
    "jp": "アリオストと共に来いという、伝令があったはず。{n}その者を連れて来るまでは、ここを通すことは出来ぬ。",
-   "en": "",
-   "term": "end"
+   "en": "You should have received word to come with Ariost. I{n}cannot let you pass until you bring him.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0018",
    "jp": "とはいっても、その状態ではテレポート出来なかろう。{n}ついてこい。",
-   "en": "",
-   "term": "end"
+   "en": "Still, you cannot teleport in that condition. Follow me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0019",
    "jp": "ちょっと！{n}この状況で、どこへ行く気よ！",
-   "en": "",
-   "term": "end"
+   "en": "Hey! Where do you think you're going at a time{n}like this?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0020",
    "jp": "‥‥元祖スキマ屋へようこそ。",
-   "en": "",
-   "term": "end"
+   "en": "...Welcome to the Original Nook Shop.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0021",
    "jp": "がんそ、すきま屋ぁ！？",
-   "en": "",
-   "term": "end"
+   "en": "The ORIGINAL Nook Shop?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0022",
    "jp": "人間たちにスキマ商売を教えたのはこの私だ。{p}そいつは{n}　　　　『天啓を受けた！』{n}　　　　　　　　　　　　　などと言っていたがな。{p}とにかくお前たち人間に売っても良いという{n}お達しが出たことだ。{n}さっそく商品を見ていくがいい。",
-   "en": "",
-   "term": "end"
+   "en": "I was the one who taught humans the Nook{n}Shop business.{p}That fellow claimed, 'I received a divine revelation!' or{n}some such nonsense.{p}In any case, I have been given permission to sell to you{n}humans. Go on, have a look at my wares.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0023",
    "jp": "フェザーランドに寄ったときは、よろしくな。",
-   "en": "",
-   "term": "end"
+   "en": "Do stop by whenever you visit Featherland.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0024",
    "jp": "‥‥お前たち人間に売る物はない。{n}さっさと帰れ！",
-   "en": "",
-   "term": "end"
+   "en": "...I have nothing to sell to you humans. Leave at once!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0025",
    "jp": "{v:0004}来ましたか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}So, you have arrived.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0026",
    "jp": "{v:0005}あの‥お話って、何でしょう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}Um... What did you wish to discuss?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0027",
    "jp": "{v:0006}以前、ヴェンツェルの名に聞き覚えがないかと{n}言っておったな。{p}{v:0007}あれから過去の記録を調べさせ、{n}驚くべき事がわかったのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}You asked before whether the name Wenzel was{n}familiar to us.{p}{v:0007}Since then, I have had our historical records examined.{n}We discovered something astonishing.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0028",
    "jp": "{v:0008}教えてくれ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}Tell us.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0029",
    "jp": "{v:0009}はるか昔、グローシアンが人々を支配していたことは{n}知っておろう。{p}{v:000A}ヴェンツェルは、その当時から生き延びてきた{n}グローシアンであり、しかもその最後の王でもある。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}You know that the Growsians ruled over the people{n}long ago.{p}{v:000A}Wenzel is a Growsian who has survived since that age.{n}Moreover, he was their last king.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0030",
    "jp": "{v:000B}何ですってぇ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Whaaat?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0031",
    "jp": "{v:000C}ヴェンツェルがグローシアンの王！？{n}しかもずっと生き続けてきたなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}Wenzel was the Growsian king?! And he's been alive all{n}this time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0032",
    "jp": "{v:000D}寿命については、追って説明しよう。{n}まず、当時のグローシアンが、{n}突如として姿を消した事も知っておるな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}I shall explain his longevity in due course. First, you also{n}know that the Growsians of that age{n}suddenly vanished?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0033",
    "jp": "{v:000E}はい。{n}ただ我々に残された伝承からは、原因までは‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Yes. But the accounts passed down to us say nothing{n}of the cause...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0034",
    "jp": "{v:000F}我々の調査記録によれば、{n}何者かによる虐殺が原因となっておる。{n}つまり人為的なものであったのだ。{p}{v:0010}生存者もいたであろうが、{n}被支配者との対立が激化しておったからな。{n}正体を隠して生きていくしかなかったであろう。{p}{v:0011}こうしてグローシアン支配時代は幕を閉じた。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}According to our investigative records, they were{n}massacred by someone. In other words, their{n}disappearance was deliberately brought about.{p}{v:0010}There were likely survivors, but conflict with those{n}they ruled had grown fierce. They would have had no{n}choice but to conceal their identities.{p}{v:0011}Thus, the age of Growsian rule came to an end.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0035",
    "jp": "{v:0012}あれだけの勢力を、{n}わずかな間に滅ぼしたヤツがいるってのか！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}You're saying someone wiped out a force that{n}powerful in so little time?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0036",
    "jp": "{v:0013}確かに、我々にも信じがたい記録であった。{n}だが今は、その者の正体を特定できた。{p}‥‥{v:0014}その者の名は、ヴェンツェル。{n}あの者でなければ、グローシアンを滅ぼすなど出来ぬ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Indeed, even we found the records difficult to believe.{n}But now we have identified the one responsible.{p}...{v:0014}His name is Wenzel. No one else could have annihilated{n}the Growsians.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0037",
    "jp": "{v:0015}ちょっと待って！{n}それじゃあ、グローシアンの王様が{n}グローシアンを滅ぼしたってことなの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0015}Wait a minute! You're saying the Growsians' own king{n}wiped them out?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0038",
    "jp": "{v:0016}グローシアン支配時代の末期。{n}時の王ヴェンツェルは、{n}永遠の命と絶対な力を望んでおった。{p}{v:0017}あの者は、人間よりはるかに強靱で、{n}長い寿命を持つ生物と融合することで{n}その力を得ようと研究を始めた。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0016}Near the end of Growsian rule, their king, Wenzel,{n}desired eternal life and absolute power.{p}{v:0017}He began researching how to obtain that power by{n}fusing with a creature far more resilient and{n}longer-lived than humans.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0039",
    "jp": "‥‥{v:0018}まさか、ゲヴェルとの融合！？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0018}You don't mean... fusion with Gevel?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0040",
    "jp": "{v:0019}そう。{n}そしてその融合は、さらに危険なもう１つの力を、{n}手にする可能性がある。{p}{v:001A}時空の歪みを自在に操る力をな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0019}Yes. And that fusion could grant yet another, even{n}more dangerous power.{p}{v:001A}The power to manipulate distortions in space-time{n}at will...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0041",
    "jp": "{v:001B}時空の歪みを操るって、どういうこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}What do you mean, manipulate distortions{n}in space-time?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0042",
    "jp": "{v:001C}グローシアンだけが、{n}なぜ強大な魔法を操れるのか知っておるか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001C}Do you know why only Growsians can wield such{n}powerful magic?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0043",
    "jp": "{v:001D}元の世界にあるグローシュを使うことができるから、{n}ですよね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}Because they can use the Grosh in our original{n}world, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0044",
    "jp": "{v:001E}その通りだ。{p}{v:001F}これはグローシアンが、{n}小規模ながら時空を操っていることを意味しておる。{p}{v:0020}そして皆既日食のグローシアンは、{n}その力が最も強いと言える。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}Precisely.{p}{v:001F}This means that Growsians manipulate space-time,{n}albeit on a small scale.{p}{v:0020}And that power is strongest in Growsians born during a{n}total solar eclipse.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0045",
    "jp": "{v:0021}なるほどな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}I see.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0046",
    "jp": "{v:0022}我々や、そなたら人間は、{n}元々この世界の住人ではない。{p}{v:0023}そして逆に、ゲヴェルは元々、{n}この世界に住んでいた生物。{p}{v:0024}つまり人とゲヴェルとの融合は、{n}２つの世界の融合でもあるのだ。{p}{v:0025}ましてヴェンツェルは皆既日食のグローシアン。{n}より強く、２つの世界に干渉する力が得られよう。{p}{v:0026}だが融合実験は、{n}完全には成功していなかったと見える。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Neither we nor you humans originally inhabited{n}this world.{p}{v:0023}Gevel, on the other hand, was originally a creature{n}native to this world.{p}{v:0024}Thus, fusion between a human and Gevel is also a{n}fusion of the two worlds.{p}{v:0025}Moreover, Wenzel is a Growsian born during a total{n}solar eclipse. He could gain even greater power to{n}influence both worlds.{p}{v:0026}However, it seems the fusion experiment was not{n}entirely successful.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0047",
    "jp": "{v:0027}グローシアンを虐殺した事ですね。{p}{v:0028}おそらく、実験中に暴走して、{n}グローシアンを殺してしまったのでは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}You mean the massacre of the Growsians.{p}{v:0028}Perhaps he went berserk during the experiment and{n}killed them?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0048",
    "jp": "{v:0029}そう考えるのが妥当であろうな。{p}{v:002A}そしてもう１つは、{n}その娘のグローシュを必要とした事だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}That would be a reasonable conclusion.{p}{v:002A}The other sign is that he required that girl's Grosh.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0049",
    "jp": "{v:002B}だがルイセのグローシュを手にした時点で、{n}ヤツの実験は成功したとみていいんじゃねぇか？{p}{v:002C}でなければ、{n}一撃でランザック城を破壊できるはずがねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}But couldn't we say his experiment succeeded once he{n}got Luise's Grosh?{p}{v:002C}Otherwise, there's no way he could've destroyed Ranzak{n}Castle in one blow.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0050",
    "jp": "{v:002D}あれだけの魔力‥‥。{n}確かに、時空を操る力がなければ生み出せぬ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Such immense magical power... Indeed, he could not{n}produce it without the ability to manipulate space-time.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0051",
    "jp": "{v:002E}１つ疑問があります。{p}{v:002F}そもそも、我々が住んでいた世界とこの世界とを、{n}どうやって重ね合わせたのですか？{p}{v:0030}その方法がわかれば、{n}ヴェンツェルに対抗する手段になるのでは？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}There is one thing I would like to ask.{p}{v:002F}How were our original world and this world brought to{n}overlap in the first place?{p}{v:0030}If we knew how it was done, might that give us a{n}means to oppose Wenzel?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0052",
    "jp": "{v:0031}人間には正しい記録が残っていないようであるな。{p}{v:0032}その昔、我々の世界の太陽に異変が起こったという。{n}そこでフェザリアンの科学力と、人間の持つ魔力とを{n}合わせて、{FFEF}時空制御装置{FFF1}を造ったのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0031}It seems no accurate records have survived{n}among humans.{p}{v:0032}It is said that long ago, something went wrong with{n}the sun in our world.{p}So Featherian science and human magic were combined{n}to create the {FFEF}Space-Time Control Device{FFF1}.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0053",
    "jp": "{v:0033}時空制御装置！？{n}その装置を使って、２つの世界を重ねているのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}A space-time control device?! So that device keeps the{n}two worlds overlapping...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0054",
    "jp": "{v:0034}それは今、どこにあるのですか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0034}Where is it now?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0055",
    "jp": "{v:0035}残念ながら場所はわからぬ。{n}しかし、これだけは言えよう。{n}それはヴェンツェルが所有している、とな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}Unfortunately, its location is unknown. But this much is{n}certain: Wenzel possesses it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0056",
    "jp": "{v:0036}チッ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Tch!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0057",
    "jp": "{v:0037}時空制御装置は、塔のように巨大な物。{n}運搬のため、浮遊する土台の上に造られたという。{p}{v:0038}だがそれがアダとなり、グローシアンに奪われたのだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}The space-time control device is an immense structure,{n}much like a tower. It is said to have been built on a{n}floating platform so it could be moved.{p}{v:0038}But that proved its undoing, allowing the Growsians to{n}seize it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0058",
    "jp": "{v:0039}取り戻すにはヴェンツェルを倒すしかねぇってことか。{p}{v:003A}それで、具体的に奴を仕留める方法はあるのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0039}So we'll have to beat Wenzel to get it back.{p}{v:003A}Well, have you got any concrete way to finish him off?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0059",
    "jp": "{v:003B}我々では、有効な方法は考えられなかった。{n}しかし、ジーナに‥そなたの母に考えがあるそうだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003B}We could devise no effective means. However, Gina...{n}your mother, apparently has an idea.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0060",
    "jp": "{v:003C}母が？",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}My mother?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0061",
    "jp": "{v:003D}その方法を知らせるため、アリオスト、{n}そなたを呼んだ。{p}{v:003E}ジーナは反省室で待っておる。{n}すぐに向かうがよい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}Ariost, I summoned you so that she might tell you of{n}her plan.{p}{v:003E}Gina awaits you in the Reflection Room. Go to her{n}at once.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0062",
    "jp": "{v:003F}はい！",
-   "en": "",
-   "term": "end"
+   "en": "{v:003F}Yes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0063",
    "jp": "{v:0040}アリオストさん、嬉しそう★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Ariost-san looks so happy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0064",
    "jp": "{v:0041}そりゃあ、ねぇ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}Well, of course he is. Right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0065",
    "jp": "{v:0042}しかし、ヴェンツェルを倒す方法って何なんだ？{n}時空を操る能力を持ってるんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0042}But how are we supposed to beat Wenzel? He can{n}manipulate space-time, can't he?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0066",
    "jp": "{v:0043}ヴェンツェルは、かつてのグローシアンの王。{n}その当時、最大の魔力を持っていたことになる。{n}その上、時空を操るという‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Wenzel was once the Growsian king. That would mean{n}he had the greatest magical power of his time. And on{n}top of that, he can manipulate space-time...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0067",
    "jp": "{v:0044}ここに１人、我と命を共有する者がいる‥‥。{n}誰だかわかるか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}There is one among you who shares my life... Do you{n}know who it is?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0068",
    "jp": "‥‥{v:0045}そうか、その顔‥‥。{n}貴様がすべての計画を狂わせた張本人か‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0045}I see... That face... So you are the one who ruined all{n}my plans...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0069",
    "jp": "{v:0046}お前は創造主に逆らうというのか？{p}{v:0047}出来損ないがっ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0046}You dare defy your creator?{p}{v:0047}You defective wretch!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0070",
    "jp": "{v:0048}リシャールを見てわかっただろう‥‥。{n}ゲヴェル様はある人物の細胞から、複製を作り出せる。{n}我々もそうして、何十体と作り出された。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}You must have realized it when you saw Richard...{n}Gevel-sama can create replicas from a person's cells.{n}Dozens of us were created that way.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0071",
    "jp": "{v:0049}我が私兵は、{n}すべからく我が能力の波動を受けて生きている。{p}{v:004A}我を倒すということは、命の供給源を絶つことだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}Every soldier in my personal army lives on the pulses of{n}my power.{p}{v:004A}To defeat me is to cut off the source of your life!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0072",
    "jp": "{v:004B}命の供給源を絶つことだ！{n}絶つことだ！{n}絶つことだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}To cut off the source of your life! Cut it off! Cut{n}it off!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0073",
    "jp": "‥‥{v:004C}お兄ちゃん！{n}お兄ちゃん！{n}お兄ちゃん！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004C}Big Brother! Big Brother! Big Brother!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0074",
    "jp": "{v:004D}お兄ちゃん‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0075",
    "jp": "{v:004E}意識が戻ったのか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}Has he come around?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0076",
    "jp": "‥‥{v:004F}うん。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:004F}Yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0077",
    "jp": "{v:0050}心配かけさせやがって‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}Damn it, you had us worried...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0078",
    "jp": "‥{v:0051}ごめんね、ごめんね～‥‥。{p}{v:0052}アタシがパーティーに行きたくて{n}無理させちゃったから‥‥。{p}‥‥{v:0053}ぐすっ。{n}本当に、ごめんね～！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0051}I'm sorry, I'm so sorryyy...{p}{v:0052}I made you push yourself because I wanted to go to{n}the party...{p}...{v:0053}*sniff* I'm really, really sorryyy!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0079",
    "jp": "ティピに何か声をかけますか？",
-   "en": "",
-   "term": "end"
+   "en": "Will you say something to Tippi?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0080",
    "jp": "・ただの立ちくらみ",
-   "en": "",
+   "en": "・I just got a little lightheaded",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen064.0081",
    "jp": "・ティピのせいではない",
-   "en": "",
+   "en": "・It's not your fault, Tippi",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen064.0082",
    "jp": "・冗談",
-   "en": "",
+   "en": "・It was a joke",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen064.0083",
    "jp": "{v:0054}立ちくらみ？{n}やっぱりどっか悪いの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Lightheaded? So there IS something wrong with you?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0084",
    "jp": "{v:0055}う～、でもぉ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}Ugh, buuut...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0085",
    "jp": "‥‥{v:0056}へっ？{n}嘘だったの？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0056}Huh? You were faking it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0086",
    "jp": "{FFF3}‥‥‥‥{v:0057}う～‥‥。{p}{FC02}{FFF4}{v:0058}バカ、バカ、バカ、バカ、バカ、{n}バカ、バカ、バカ、バカ～ッ！{p}{v:0059}本気で心配しちゃったじゃない！{n}アタシのせいかと思っちゃったんだからね！",
-   "en": "",
-   "term": "end"
+   "en": "{FFF3}......{v:0057}Grrr...{p}{FC02}{FFF4}{v:0058}Idiot, idiot, idiot, idiot, idiot, idiot, idiot, idiot, IDIOT!{p}{v:0059}I was really worried about you! I thought it was my{n}fault, you know!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0087",
    "jp": "{v:005A}無理はよくねぇぞ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Don't push yourself too hard, kid.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0088",
    "jp": "‥‥{v:005B}お兄ちゃん、やっぱり‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005B}Big Brother, I knew it...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0089",
    "jp": "{v:005C}えっ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Huh?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0090",
    "jp": "‥‥{v:005D}ゲヴェルが‥死んじゃったから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:005D}Because Gevel... died...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0091",
    "jp": "{v:005E}答えたくねぇなら、無理にとは言わんが、{n}手遅れになる前にちゃんと言ってくれよな。{p}‥‥{v:005F}とにかく今はアリオストを追うか。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}If you don't wanna answer, I won't force you. But tell{n}us before it's too late.{p}...{v:005F}Anyway, let's go after Ariost for now.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0092",
    "jp": "{v:003E}ジーナは反省室で待っておる。{n}すぐに向かうがよい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003E}Gina awaits you in the Reflection Room. Go to her{n}at once.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0093",
    "jp": "{v:0000}ジーナから話は聞いたようだな。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}I see you have spoken with Gina.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0094",
    "jp": "{v:0001}はい。{n}それでパワーストーンの制御装置が必要なんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Yes. We need the Power Stone's control unit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0095",
    "jp": "{v:0002}あの制御装置をか‥‥。{p}{v:0003}他に方法がない以上、渡すしかあるまいな。{n}だがあの洞窟は、モンスターの巣となっておる。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}That control unit...{p}{v:0003}Since there is no other way, I suppose I must let you{n}have it. However, that cave is now a den of monsters.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0096",
    "jp": "{v:0004}モンスターの巣？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0004}A den of monsters?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0097",
    "jp": "{v:0005}不用意に盗み出されることがないよう、{n}そのようにしたのだ。{p}{v:0006}しかしそのモンスターが外へ出ないようにする{n}仕掛けのせいで、洞窟内では魔法が使えぬ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0005}I arranged it so that no one could simply steal{n}the unit.{p}{v:0006}However, the mechanism that keeps the monsters from{n}escaping also prevents the use of magic inside{n}the cave.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0098",
    "jp": "{v:0007}魔法が使えない？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}We can't use magic?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0099",
    "jp": "{v:0008}あの中にはグローシュが全くないのだ。{n}だが、パワーストーンの制御装置のある扉を開くには、{n}魔法が必要であるぞ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0008}There is no Grosh whatsoever inside. Yet magic is{n}required to open the door to the Power Stone's{n}control unit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0100",
    "jp": "{v:0009}送魔線を引くしかないな。{n}そうすれば中で魔法が使えるようになるさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}We'll have to run a mana line into the cave. That'll let{n}us use magic inside.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0101",
    "jp": "{v:000A}送魔線を引く技師ならば、魔法学院にいる。{n}まずは彼を連れてこよう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}There's an engineer at the Magic Academy who can lay{n}a mana line. Let's bring him here first.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0102",
    "jp": "{v:000B}そうすれば中で魔法が使えるんだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000B}Then we'll be able to use magic inside, right?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0103",
    "jp": "{v:000C}洞窟に入る許可は出しておく。{n}用意ができしだい、入るがよい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}I shall grant you permission to enter the cave. Go in as{n}soon as you are ready.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0104",
    "jp": "送魔線技師をさがせ",
-   "en": "",
-   "term": "end"
+   "en": "Find a mana line engineer",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0105",
    "jp": "制御装置をどう使うか。{n}そなたたちに任せるぞ。",
-   "en": "",
-   "term": "end"
+   "en": "I leave it to you to decide how to use the control unit.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0106",
    "jp": "制御装置を手に入れたようであるな。{p}早くジーナの元で、使用方法を聞くが良い。",
-   "en": "",
-   "term": "end"
+   "en": "I see you have obtained the control unit.{p}Go to Gina at once and learn how to use it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0107",
    "jp": "確かにテレポートがあれば、{n}すぐに逃げられてしまうな。{n}‥‥困ったものだ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Indeed, with Teleport, he can escape in an instant. ...A{n}troubling matter...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0108",
    "jp": "通るがよい。",
-   "en": "",
-   "term": "end"
+   "en": "You may pass.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0109",
    "jp": "早く用事をすますがよい。",
-   "en": "",
-   "term": "end"
+   "en": "Conclude your business quickly.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0110",
    "jp": "パワーストーンの力でヴェンツェルの能力の{n}一部を奪ったのか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "So you used the Power Stone to strip Wenzel of some{n}of his abilities...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0111",
    "jp": "用事が済んだらすみやかにお引き取り下さい。",
-   "en": "",
-   "term": "end"
+   "en": "Please leave promptly once your business is concluded.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0112",
    "jp": "なぜ人は争い続けるのだろうか？{n}私には理解できない思考ですわ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Why do humans keep fighting, I wonder? I simply cannot{n}understand their way of thinking...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0113",
    "jp": "ステラ様にもしもの事があれば{n}私が許しません。",
-   "en": "",
-   "term": "end"
+   "en": "If anything happens to Stella-sama, I will never{n}forgive you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0114",
    "jp": "人間も少しはやるのだな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "So humans are capable of something after all...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0115",
    "jp": "争わず助け合う。{n}これが我々の生き方だ。",
-   "en": "",
-   "term": "end"
+   "en": "We help one another instead of fighting. That is our way{n}of life.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0116",
    "jp": "地上からこの浮島まで飛ぶには強靱な翼が必要だ。",
-   "en": "",
-   "term": "end"
+   "en": "It takes powerful wings to fly from the ground to this{n}floating island.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0117",
    "jp": "私の翼は飛ぶためだけにあるのではない。{n}では何か？{n}それは自分で考えてみるのだ。",
-   "en": "",
-   "term": "end"
+   "en": "My wings are not merely for flying. What else are they{n}for? Think about that yourself.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0118",
    "jp": "ＭＰが切れて地上に戻れなくなったときは、{n}この像を調べるのだ。",
-   "en": "",
-   "term": "end"
+   "en": "If you run out of MP and cannot return to the{n}ground, examine this statue.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0119",
    "jp": "　{n}　　　　　　　石像を調べた！",
-   "en": "",
-   "term": "end"
+   "en": "　{n}　　　　　　　Examined the stone statue!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0120",
    "jp": "ダメだよ、お兄ちゃん。{n}ちゃんと考えてから、指示してね。",
-   "en": "",
-   "term": "end"
+   "en": "That won't do, Big Brother. Please think it through{n}before you give us instructions.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0121",
    "jp": "どうした？{n}精神力が切れて、地上に帰れなくなったのか？",
-   "en": "",
-   "term": "end"
+   "en": "What is wrong? Have you exhausted your mental energy{n}and cannot return to the surface?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0122",
    "jp": "ならば、そこの石像を{n}正面から調べてみるんだな。{p}お前たちの中にグローシアンがいるならば、{n}何かが起こるはずだ。",
-   "en": "",
-   "term": "end"
+   "en": "Then examine that stone statue from the front.{p}If there is a Growsian among you, something{n}should happen.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0123",
    "jp": "そうか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "I see...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0124",
    "jp": "ここは『資料保管庫』だ。{n}女王ステラに命じられ、過去の記録を調べている。{n}邪魔をしないでいただきたい。",
-   "en": "",
-   "term": "end"
+   "en": "These are the 'Archives'. I am examining historical{n}records on Queen Stella's orders. Kindly do not{n}disturb me.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0125",
    "jp": "パワーストーンとて全能ではない。{n}失敗したからといって、気にすることはなかろう。",
-   "en": "",
-   "term": "end"
+   "en": "Even the Power Stone is not all-powerful. You need not{n}let one failure trouble you.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0126",
    "jp": "ヴェンツェルはあの悲劇を繰り返そうとしている。",
-   "en": "",
-   "term": "end"
+   "en": "Wenzel intends to repeat that tragedy.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0127",
    "jp": "我々と人間との決別を{n}ヴェンツェルはもう一度繰り返すつもりなのか？",
-   "en": "",
-   "term": "end"
+   "en": "Does Wenzel intend to bring about another rift between{n}us and humanity?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0128",
    "jp": "一部のグローシアンが我欲のために起こした戦い。{n}これが我々と人間を決別させた。{n}何と愚かな事件だったのだろう。",
-   "en": "",
-   "term": "end"
+   "en": "A war begun by a few Growsians to satisfy their own{n}desires. That was what drove us and humanity apart.{n}What a foolish affair it was.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0129",
    "jp": "‥‥{v:0054}反動、ね。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0054}A backlash, then.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0130",
    "jp": "‥‥{v:0055}反動かぁ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0055}A backlash, huh...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0131",
    "jp": "{v:0056}どんな反動が起こるかわかんねぇんじゃ、{n}ちっと怖ぇなぁ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0056}Can't tell what kind of backlash we're in for. That's a{n}bit scary.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0132",
    "jp": "{v:0057}ちょっとマスターに話してみよっか？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0057}How about we talk to Master?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0133",
    "jp": "{v:0059}マスター、聞こえる？{n}ティピだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0059}Master, can you hear me? It's Tippi.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0134",
    "jp": "{v:005A}うん、今ね、ヴェンツェルを倒す方法を{n}見つけたんだけど、それを使うと、{n}反動があるんだって。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005A}Yeah, we just found a way to defeat Wenzel, but{n}apparently there's a backlash if we use it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0135",
    "jp": "{v:005B}それで、どうしようかって相談なんだけど‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005B}So we wanted to ask you what we should do...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0136",
    "jp": "{v:005C}わかった！{n}一度そっちに行くね？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005C}Got it! We'll come over, okay?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0137",
    "jp": "{v:005D}どうだって、お母さん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:005D}What did Mother say?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0138",
    "jp": "{v:005E}城に戻っておいでって。{n}そこで話し合いましょうってさ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:005E}She said to come back to the castle. We'll talk it{n}over there.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0139",
    "jp": "国王に報告を",
-   "en": "",
-   "term": "end"
+   "en": "Report to the King",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0140",
    "jp": "報告は受けている。{n}少々、待たれよ。",
-   "en": "",
-   "term": "end"
+   "en": "I have been informed. Wait a moment.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0141",
    "jp": "ここは禁を破った者が反省をする部屋だ。{n}今はジーナという者が一人で入っている。",
-   "en": "",
-   "term": "end"
+   "en": "This is a room where those who break our laws reflect{n}on their actions. Its only occupant at present is a{n}woman named Gina.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0142",
    "jp": "ここに母さんが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "Mother is in here...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0143",
    "jp": "まだ何か？",
-   "en": "",
-   "term": "end"
+   "en": "Is there something else?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0144",
    "jp": "いつまでもウロウロしてるんじゃないの！",
-   "en": "",
-   "term": "end"
+   "en": "Stop wandering around already!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0145",
    "jp": "反省室",
-   "en": "",
-   "term": "end"
+   "en": "Reflection Room",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0146",
    "jp": "女王に会いなさい。{n}そして、この浮島の南東にある{n}人工洞窟へ行くのです。",
-   "en": "",
-   "term": "end"
+   "en": "Go and see the queen. Then visit the artificial cave in{n}the southeastern part of this floating island.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0147",
    "jp": "どうしたのですか？",
-   "en": "",
-   "term": "end"
+   "en": "What is the matter?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0148",
    "jp": "ヴェンツェルの超回復能力は奪ったのですが、{n}テレポートで逃げられてしまうんです。",
-   "en": "",
-   "term": "end"
+   "en": "We stripped Wenzel of his extraordinary regenerative{n}ability, but he keeps escaping with Teleport.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0149",
@@ -912,98 +1060,114 @@
   {
    "id": "scen064.0150",
    "jp": "{v:004B}母さん、戻りました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004B}Mother, we're back.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0151",
    "jp": "{v:004C}制御装置ってどうやって使うの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}How do we use the control unit?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0152",
    "jp": "{v:004D}パワーストーンは持っていますね？{n}ならば、それほど難しいことではありません。{p}{v:004E}肝心なのは、周囲の者も同じ気持ちで強く念じること。{n}その時に、パワーストーンを持つ者が、目標の側で、{n}制御装置のスイッチを押すのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}You have the Power Stone, yes? Then it is not{n}particularly difficult.{p}{v:004E}What matters is that everyone nearby shares the same{n}wish and concentrates on it intensely.{p}At that moment, the person holding the Power Stone{n}must press the control unit's switch while near{n}the target.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0153",
    "jp": "{v:004F}同じ気持ちじゃなきゃだめなの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}We all have to feel the same way?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0154",
    "jp": "{v:0050}パワーストーン自体を発動させるのは人の想い、{n}意志の力なのです。{n}みんなが同じ事を強く願えば、力は発動します。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}What activates the Power Stone itself is human{n}feeling, the strength of the will. If everyone wishes{n}strongly for the same thing, its power will awaken.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0155",
    "jp": "{v:0051}そうか。今までパワーストーンが発動した時って、{n}みんなが危険な目にあって、{n}助かりたいと思ってたんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0051}I see. Whenever the Power Stone activated before, we{n}were all in danger and wishing we could be saved.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0156",
    "jp": "{v:0052}無意識にみんなが同じ事を願っていたって事か。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}So we were all wishing for the same thing without even{n}realizing it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0157",
    "jp": "{v:0053}ただし、その制御装置を使っても、{n}自然界に返ってくる反動だけは消せません。{n}それだけは覚悟していて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}However, even that control unit cannot eliminate the{n}backlash upon the natural world. You must be prepared{n}for that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0158",
    "jp": "{v:0050}パワーストーン自体を発動させるのは人の想い、{n}意志の力なのです。{n}みんなが同じ事を強く願えば、力は発動します。{p}{v:0053}ただし、その制御装置を使っても、{n}自然界に返ってくる反動だけは消せません。{n}それだけは覚悟していて下さい。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}What activates the Power Stone itself is human{n}feeling, the strength of the will. If everyone wishes{n}strongly for the same thing, its power will awaken.{p}{v:0053}However, even that control unit cannot eliminate the{n}backlash upon the natural world. You must be prepared{n}for that.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0159",
    "jp": "{v:000D}あ、みんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Oh, everyone...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0160",
    "jp": "{v:000E}この方々が今のお話の？",
-   "en": "",
-   "term": "end"
+   "en": "{v:000E}Are these the people you were just telling me about?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0161",
    "jp": "{v:000F}そうだよ、母さん。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}That's right, Mother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0162",
    "jp": "{v:0010}息子がお世話になりました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}Thank you for taking care of my son.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0163",
    "jp": "{v:0011}そ、そんな‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}Oh, n-no...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0164",
    "jp": "{v:0012}そうよ。{n}アタシ達の方がずっとお世話になってるし‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}Really! He's done way more for us...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0165",
    "jp": "{v:0013}それよりも母さん、みんなが来たところで、{n}そろそろヴェンツェルを倒す方法を{n}教えて欲しいんです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}More importantly, Mother, now that everyone's here,{n}could you please tell us how to defeat Wenzel?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0166",
@@ -1020,82 +1184,95 @@
   {
    "id": "scen064.0168",
    "jp": "{v:001A}親父も持ってたアレか？{n}ほら、お前が持ってる指輪だ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001A}The thing my old man had, too? You know, that ring{n}you've got.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0169",
    "jp": "{v:001B}ちょっと、手、出して、手！{p}{v:001C}これのこと？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}Hey, hold out your hand! Your hand!{p}{v:001C}You mean this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0170",
    "jp": "{v:001D}それです！{n}あれほど地上を探しても見つからなかったのに、{n}いったいどこで？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001D}That is it! I searched so much of the surface and{n}never found it. Where in the world did you get it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0171",
    "jp": "なんと答えますか？",
-   "en": "",
-   "term": "end"
+   "en": "How will you answer?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0172",
    "jp": "・幽霊にもらった",
-   "en": "",
+   "en": "・A ghost gave it to me",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen064.0173",
    "jp": "・ある人にもらった",
-   "en": "",
+   "en": "・Someone gave it to me",
    "term": "end",
-   "unref": true
+   "unref": true,
+   "src": "ps1"
   },
   {
    "id": "scen064.0174",
    "jp": "{v:001E}幽霊？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001E}A ghost?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0175",
    "jp": "{v:001F}え～！？{n}あの話って、本当だったの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:001F}Whaaat?! That story was true?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0176",
    "jp": "{v:0020}だから、そう言ったじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0020}That's what I've been telling you!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0177",
    "jp": "{v:0021}そいつは誰だ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}Who was it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0178",
    "jp": "{v:0022}えっと‥‥女の幽霊から‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Um... from the ghost of a woman...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0179",
    "jp": "{v:0023}不思議なこともあるのですね。{p}{v:0024}そのパワーストーンについて、{n}もう少し詳しく話しておきましょう。{p}{v:0025}元々パワーストーンは{n}時空制御装置を動かす要として作られ、{n}その組成は大量のグローシュで出来ています。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Strange things do happen, do they not?{p}{v:0024}Let me tell you a little more about that Power Stone.{p}{v:0025}The Power Stone was originally created as the{n}essential component for operating the space-time{n}control device.{p}It is made of an enormous quantity of Grosh.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0180",
    "jp": "{v:0026}ここでもグローシュか‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}Grosh again...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0181",
@@ -1106,146 +1283,170 @@
   {
    "id": "scen064.0182",
    "jp": "‥‥{v:002B}すごい‥‥。{FFF9}{FFFB}{n}{v:0057}それをお兄ちゃんが持っていたなんて‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:002B}Amazing...{FFF9}{FFFB} {v:0057}To think you had it all along, Big Brother...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0183",
    "jp": "{v:002C}しかし、あなたがパワーストーンを持っている{n}ということは、時空制御装置を動かすカギを{n}ヴェンツェルが持っていないということ。{p}{v:002D}これで希望が見えてきましたね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}But if you have the Power Stone, that means Wenzel{n}does not have the key to operating the space-time{n}control device.{p}{v:002D}Now we have reason to hope.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0184",
    "jp": "{v:002E}でも、アタシたち、{n}パワーストーンの力を何回か使っちゃったよ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}But we've already used the Power Stone's power a few{n}times, you know?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0185",
    "jp": "{v:002F}それは蓄えた歪みの力を解放しただけです。{p}{v:0030}時空制御装置を使うときには、{n}歪みの吸収のために使うので、問題はありません。{p}{v:0031}あなた達が何度か使ったように、{n}今度はヴェンツェルに対してその力を使うのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}That merely released the energy of the distortions it{n}had stored up.{p}{v:0030}When operating the space-time control device, the{n}stone is used to absorb distortions, so that poses{n}no problem.{p}{v:0031}Just as you have used its power several times{n}before, you must now use that power against Wenzel.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0186",
    "jp": "{v:0032}でも、パワーストーンを使ったら、{n}変なことが起こっちゃわない？{n}ちょっと怖いよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0032}But won't strange things happen if we use the Power{n}Stone? That's a little scary.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0187",
    "jp": "{v:0033}うー‥‥。{p}{v:0034}でも、どうして変なことが起こったんだろ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0033}Hmm...{p}{v:0034}But why did those strange things happen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0188",
    "jp": "{v:0035}それは『{FFEF}因果律{FFF1}』を操作するからです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0035}That is because it manipulates the 'law of {FFEF}causality{FFF1}'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0189",
    "jp": "{v:0036}母さん。{n}その『{FFEF}因果律{FFF1}』について{n}もう少し詳しく説明して欲しいのですが‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0036}Mother, could you explain this 'law of {FFEF}causality{FFF1}' in a{n}little more detail...?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0190",
    "jp": "{v:0037}因果律とは、{n}文字通り『{FFEF}原因{FFF1}』と『{FFEF}結果{FFF1}』の関係を{n}示したものです。{p}{v:0038}石を投げる時を想像してみて下さい。{p}{v:0039}本来、石は宙に浮いたり、{n}飛んだりすることはありません。{n}そのためには誰かが投げなくてはならないのです。{p}{v:003A}このように本来起こり得ない状況を作り出すためには、{n}それなりの力が必要です。{p}{v:003B}この場合『{FFEF}誰かが石を投げた{FFF1}』ので{n}『{FFEF}石は宙を飛ぶ{FFF1}』ことになります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0037}Causality is, quite literally, the relationship between{n}'{FFEF}cause{FFF1}' and '{FFEF}effect{FFF1}'.{p}{v:0038}Imagine throwing a stone.{p}{v:0039}A stone does not ordinarily float or fly through the{n}air. For that to happen, someone must throw it.{p}{v:003A}Creating a situation that would not otherwise occur{n}requires a corresponding amount of force.{p}{v:003B}In this case, because '{FFEF}someone threw the stone{FFF1}', '{FFEF}the{n}stone flies through the air{FFF1}'.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0191",
    "jp": "{v:003C}でも、ずっと飛んでないよ？{n}すぐに落ちちゃうじゃない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003C}But it doesn't keep flying, does it? It falls right{n}back down!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0192",
    "jp": "{v:003D}それが正しいのです。{p}{v:003E}長い間、石を飛ばすには、それだけ力を使って{n}投げなくてはなりません。その力が無くなったとき、{n}石は本来ある現象に戻るため、落下します。{p}{v:003F}このように、因果律の和は常に保たれようとします。",
-   "en": "",
-   "term": "end"
+   "en": "{v:003D}That is exactly right.{p}{v:003E}To keep a stone flying longer, you must throw it with{n}that much more force. When that force is exhausted,{n}the stone returns to its natural state and falls.{p}{v:003F}In this way, causality always seeks to maintain{n}its balance.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0193",
    "jp": "{v:0040}それじゃ、パワーストーンで奇跡を起こすと、{n}どうなるのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0040}Then what happens when you use the Power Stone to{n}make a miracle happen?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0194",
    "jp": "{v:0041}本来起こり得ない現象を起こすためには、{n}必ず代価が必要になります。{p}{v:0042}わかりやすく魔法を例に取りましょう。{n}魔法を使うと何が無くなるでしょう？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0041}There is always a price for causing something that{n}would not otherwise occur.{p}{v:0042}Let us take magic as a simple example. What do you{n}lose when you use magic?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0195",
    "jp": "{v:0043}無くなるものなんてあったっけ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0043}Do we lose anything?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0196",
    "jp": "{v:0044}えっと‥‥精神力‥かな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0044}Um... mental energy... maybe?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0197",
    "jp": "{v:0045}そうです。{n}魔法の場合、あらかじめ精神力という代価を支払い、{n}様々な現象を起します。{p}{v:0046}しかしパワーストーンを使った奇跡の場合、{n}その代価は後から支払うことになるのです。{n}それが何になるかは、まるで分かりません。{p}{v:0047}それにもまして、パワーストーンで得られる効力を{n}制御することも難しいのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0045}Correct. With magic, you pay the price in mental energy{n}beforehand to produce various effects.{p}{v:0046}With a miracle brought about by the Power Stone,{n}however, you pay the price afterward. There is no way{n}to know what that price will be.{p}{v:0047}Furthermore, the effects produced by the Power Stone{n}are difficult to control.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0198",
    "jp": "{v:0048}たしかにアレを使ったときって、{n}いっつも無意識に身を守っただけだもんねぇ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0048}That's true. Every time you used it, you just protected{n}yourself without even realizing it.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0199",
    "jp": "{v:0049}それもそのはずです。{n}パワーストーン自体は、魔法でいうところの{n}『{FFEF}触媒{FFF1}』と『{FFEF}呪文{FFF1}』なのですから。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0049}That is only to be expected. The Power Stone itself{n}serves as both the '{FFEF}catalyst{FFF1}' and the '{FFEF}incantation{FFF1}', to{n}use the terms of magic.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0200",
    "jp": "{v:004A}ヴェンツェルを倒すのにパワーストーンが{n}必要なのは分かる。{p}{v:004B}だが、何が起こるかわからん、{n}起こした後の代価もわからんでは、{n}怖くて使えないぜ？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004A}I get that we need the Power Stone to beat Wenzel.{p}{v:004B}But we don't know what it'll do, or what we'll pay{n}afterward. That's too damn risky to use.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0201",
    "jp": "{v:004C}はい。{n}ですが、力の作用する物を特定できる装置がある、{n}と言ったら？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004C}Yes. But what if I told you there is a device that lets us{n}choose what its power affects?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0202",
    "jp": "{v:004D}ヴェンツェルに向けて、{n}パワーストーンの力を使うことが出来る？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004D}We could direct the Power Stone's power at Wenzel?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0203",
    "jp": "{v:004E}理論上、そうなります。",
-   "en": "",
-   "term": "end"
+   "en": "{v:004E}In theory, yes.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0204",
    "jp": "{v:004F}その装置はどこに？",
-   "en": "",
-   "term": "end"
+   "en": "{v:004F}Where is this device?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0205",
    "jp": "{v:0050}悪用をさけるため、{n}この都市の外れの洞窟に隠されています。{n}女王陛下に頼めば、洞窟に入る許可が下りるでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0050}It is hidden in a cave on the outskirts of this city to{n}prevent its misuse. If you ask Her Majesty, she will{n}likely grant you permission to enter.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0206",
@@ -1256,128 +1457,149 @@
   {
    "id": "scen064.0207",
    "jp": "{v:0052}私は‥人間を信じていますから。{n}あの人に出会ってから‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0052}I... believe in humans. Ever since I met him...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0208",
    "jp": "{v:0053}アリオストさんのお父さん？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0053}Ariost-san's father?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0209",
    "jp": "{v:0054}はい。彼は私が地上に行き、{n}翼を痛めて飛べなくなっていたときに、{n}優しく治療してくれたのです。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0054}Yes. When I went down to the surface, I injured my{n}wings and could no longer fly. He kindly tended to{n}my injuries.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0210",
    "jp": "{v:0055}最初は私も人間を軽蔑していました。{n}しかし、傷が癒える間、彼と行動を共にしている間に、{n}その考えは変わりました。{p}{v:0056}あの人は街で盗みをしていた孤児を見かけると、{n}自分の村に連れて帰り、養いました‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0055}At first, I too looked down on humans. But as I{n}accompanied him while my injuries healed, my{n}views changed.{p}{v:0056}Whenever he saw orphans stealing in town, he would{n}bring them back to his village and raise them...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0211",
    "jp": "{v:0000}どうしてそんな無駄なことばかりをする？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0000}Why do you keep wasting your efforts like this?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0212",
    "jp": "{v:0001}無駄って、何のことかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0001}Wasting my efforts? What do you mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0213",
    "jp": "{v:0002}盗みを働くような者は、切り捨てるべきだ。{n}生かしておく価値もない。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0002}Those who resort to theft should be cast aside. They{n}are not worth keeping alive.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0214",
    "jp": "{v:0003}そうかな？{p}{v:0004}あの子たちを盗みに走らせたのは{n}我々が作った社会じゃないか。{p}{v:0005}もしそんな境遇に育たなければ、{n}盗みの必要なんてなかったはずだよ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0003}Do you really think so?{p}{v:0004}Wasn't it the society we built that drove those children{n}to steal?{p}{v:0005}If they hadn't grown up in such circumstances, they{n}would never have needed to steal.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0215",
    "jp": "{v:0006}ならばそんな社会を作った人間が{n}いけないのではないか！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0006}Then surely the humans who built such a society are{n}to blame!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0216",
    "jp": "{v:0007}その通りだね。{n}かといって、放っておけば、{n}あの子たちのような存在が増えるだけだ。{p}{v:0008}だから少しでも僕たちが救ってあげないと。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0007}You're right. But if we leave things as they are, there{n}will only be more children like them.{p}{v:0008}That's why we have to help as many as we can.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0217",
    "jp": "{v:0009}おじちゃーん！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0009}Uncleee!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0218",
    "jp": "{v:000A}ん？{n}こら、まだそんな歳じゃないぞ。{n}お兄さんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000A}Hm? Hey, I'm not that old yet! Call me Big Brother.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0219",
    "jp": "‥‥{v:000B}お兄ちゃん、これ、見て！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:000B}Big Brother, look at this!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0220",
    "jp": "{v:000C}僕たちが作ったお野菜！{n}こーんなに大きくなったよ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:000C}These are the vegetables we grew! Look how biiig{n}they got!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0221",
    "jp": "{v:000D}へぇ‥‥。{p}{v:000E}虫にも食われてないし、色つやもいい。{n}うん、これはいい出来だ。{n}とっても美味しそうだね。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000D}Well, now...{p}{v:000E}No insect bites, and such a lovely color and sheen. Yes,{n}these turned out very well. They look delicious.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0222",
    "jp": "{v:000F}えへへ‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:000F}Hee hee...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0223",
    "jp": "{v:0010}これで野菜スープ作ってもらうんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0010}We're gonna get them to make vegetable soup{n}with these!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0224",
    "jp": "{v:0011}お姉ちゃんにも食べさせてあげるね★",
-   "en": "",
-   "term": "end"
+   "en": "{v:0011}We'll let you have some too, Big Sister!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0225",
    "jp": "‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0226",
    "jp": "{v:0012}今の子たちも僕が連れてきたんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0012}I brought those children here, too.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0227",
    "jp": "{v:0013}誰が命令したわけでもないのに、{n}野菜の手入れをはじめて、あんな立派な野菜を作った。{p}{v:0014}人は育つ場さえ与えてあげれば、{n}ちゃんと育ってくれるんだよ。{p}{v:0015}ちゃんと自分の仕事を見つけて、{n}助け合って生きていけるんだ。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0013}Nobody told them to, but they started tending the{n}vegetables and grew that wonderful crop.{p}{v:0014}People will grow as they should if you just give them a{n}place to do it.{p}{v:0015}They can find work of their own and help one another{n}through life.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0228",
@@ -1388,20 +1610,23 @@
   {
    "id": "scen064.0229",
    "jp": "‥‥{v:0017}何だ、それは？",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0017}What is that supposed to mean?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0230",
    "jp": "{v:0018}この村の創始者であり、{n}僕たちの父が言っていた口グセさ。{p}{v:0019}これで社会が変わるとは思えないけど、{n}人は変えられる。{p}{v:001A}それでも、僕がしていることは無駄なのかな？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0018}It's something our father, the founder of this village,{n}always used to say.{p}{v:0019}I don't expect this to change society, but it can{n}change people.{p}{v:001A}Do you still think I'm wasting my efforts?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0231",
    "jp": "{v:001B}‥‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:001B}...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0232",
@@ -1412,110 +1637,128 @@
   {
    "id": "scen064.0233",
    "jp": "‥‥‥{v:0020}ふふっ。",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0020}Heh heh.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0234",
    "jp": "{v:0021}どうしたの？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0021}What is it?",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0235",
    "jp": "{v:0022}いやね、君がまだここへ来たばかりの頃を{n}思い出したんだ。{n}あの頃の君は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0022}Oh, I was just remembering when you first came here.{n}Back then, you were...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0236",
    "jp": "{v:0023}もうっ、それは言わないで！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0023}Oh, don't bring that up!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0237",
    "jp": "{v:0024}でも、私があなたを理解できたように、{n}他のフェザリアンも人間を理解できるように‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:0024}But just as I came to understand you, I hope the other{n}Featherians can come to understand humans...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0238",
    "jp": "{v:0025}見つけたぞ、ジーナ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0025}Found you, Gina!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0239",
    "jp": "{v:0026}貴様！{n}よくもジーナを！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0026}You! How dare you do this to Gina!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0240",
    "jp": "{v:0027}待って！{n}その人は何でもないの！{n}私がここに居座っていただけ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0027}Wait! He has nothing to do with this! I was the one who{n}insisted on staying here!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0241",
    "jp": "{v:0028}ジーナ！？",
-   "en": "",
-   "term": "end"
+   "en": "{v:0028}Gina?!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0242",
    "jp": "{v:0029}さ、帰るんだ、ジーナ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:0029}Come, Gina! You are returning with us!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0243",
    "jp": "{v:002A}嫌です！{n}私は‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002A}No! I...",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0244",
    "jp": "{v:002B}お前のしていることは我々の掟を破ることなのだぞ！{n}さぁ、来るんだ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002B}What you are doing violates our laws! Now, come!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0245",
    "jp": "{v:002C}あ、あなた！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002C}D-Darling!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0246",
    "jp": "{v:002D}ジーナ！",
-   "en": "",
-   "term": "end"
+   "en": "{v:002D}Gina!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0247",
    "jp": "{v:002E}こうして私はここに連れてこられてしまいました。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002E}And that is how I was brought back here.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0248",
    "jp": "{v:002F}確かに人間には悪いところもあるでしょう。{n}でもそれは我々、フェザリアンも同じ。{p}{v:0030}私は人間を愛しました。{n}きっと他のフェザリアンもわかってくれるでしょう。",
-   "en": "",
-   "term": "end"
+   "en": "{v:002F}Humans certainly have their faults. But the same is true{n}of us Featherians.{p}{v:0030}I came to love a human. I am sure the other{n}Featherians will understand someday.",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0249",
    "jp": "‥‥{v:0031}はい！",
-   "en": "",
-   "term": "end"
+   "en": "...{v:0031}Yes!",
+   "term": "end",
+   "src": "ps1"
   },
   {
    "id": "scen064.0250",
    "jp": "不思議な力で、魔法の効力は失われた‥‥。",
-   "en": "",
-   "term": "end"
+   "en": "A mysterious power dispelled the magic...",
+   "term": "end",
+   "src": "ps1"
   }
  ]
 }
