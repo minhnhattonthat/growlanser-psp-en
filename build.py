@@ -70,6 +70,22 @@ def build(out, files):
     iso9660.patch(out, out, files)
 
 
+def check_leaves(out, files, may_change):
+    """Disc gate: a swapped-in file outside may_change is byte-identical to the original, only may_change files move
+    or resize, and no two file extents overlap in the new image."""
+    same = [p for p, d in files.items() if p not in may_change and d != orig(p)]
+    with open(ISO, "rb") as f:
+        old = {p: (lba, ln) for p, lba, ln, _ in iso9660.listing(f)}
+    with open(out, "rb") as f:
+        new = {p: (lba, ln) for p, lba, ln, _ in iso9660.listing(f)}
+    moved = [p for p in new if new[p] != old.get(p) and p not in may_change]
+    ext = sorted((lba, lba + -(-ln // 2048), p) for p, (lba, ln) in new.items() if ln)
+    over = [(a[2], b[2]) for a, b in zip(ext, ext[1:]) if b[0] < a[1]]
+    if same or moved or over or set(new) != set(old):
+        raise SystemExit(f"disc gate: changed {same}, moved {moved}, overlapping {over}, "
+                         f"files {sorted(set(new) ^ set(old))}")
+
+
 def sha1(path):
     with open(path, "rb") as f:
         return hashlib.file_digest(f, "sha1").hexdigest()
@@ -102,7 +118,9 @@ def main():
     flat, edits = insert.patched(args.mode, overrides)
     out = Path(args.out) if args.out else \
         ROOT / ("build/growlanser_en.iso" if args.mode == "en" else f"build/growlanser_{args.mode}.iso")
-    build(out, {**patches(edits), **flat})
+    files = {**patches(edits), **flat}
+    build(out, files)
+    check_leaves(out, files, set(flat) | set(edits))
     print(f"{out}: {sha1(out)}")
 
 

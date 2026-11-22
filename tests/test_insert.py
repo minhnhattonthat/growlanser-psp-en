@@ -98,6 +98,29 @@ def test_msys_groups():
     assert out[:0x42800] == msys[:0x42800] and out[0x4B000:len(msys)] == msys[0x4B000:]
 
 
+@pytest.mark.skipif(not insert.ARMIPS.is_file(), reason="armips not installed in tools/armips")
+def test_en_build():
+    """The full English build's gates (BOOT write log + romdiff, stale_refs, scene/MSYS fit, armips, MSYS outside the
+    grown groups) pass, and the repacked SCEN.DAT keeps every non-text entry byte-identical."""
+    sys.path.insert(0, str(ROOT))
+    import build
+    import dat
+    flat, edits = insert.patched("en")
+    assert set(flat) == {"/PSP_GAME/USRDIR/gr_data1/MSYS.DAT", "/PSP_GAME/SYSDIR/BOOT.BIN", "/PSP_GAME/SYSDIR/EBOOT.BIN"}
+    scen = build.G + "SCEN.DAT"
+    old, new = build.orig(scen), build.patches(edits)[scen]
+    assert len(dat.entries(new)) == len(dat.entries(old))
+    for n in [n for n in range(len(dat.entries(old))) if not 380 <= n < 760]:
+        assert dat.entry(new, n) == dat.entry(old, n), n
+
+
+def test_log_writes():
+    log = insert.log_writes([], b"abcdef", b"aXcdYY", [(1, 2), (4, 6)], "t")
+    assert log == [(1, b"b", b"X", "t"), (4, b"ef", b"YY", "t")]
+    with pytest.raises(ValueError):
+        insert.log_writes([], b"abcdef", b"aXcdYY", [(1, 2)], "t")
+
+
 def test_boot_heap():
     """English BOOT tables: each id read back the getter's way (repointed base + 2 * u16) gives its encoded string."""
     boot, enc = bytearray(extract.read("BOOT.BIN")), insert.Encoder("en")

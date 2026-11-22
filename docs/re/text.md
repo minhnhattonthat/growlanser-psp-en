@@ -152,5 +152,9 @@ English vs in-place room (`insert.Encoder("en")`): BOOT tables +2.5 KB (8 of 10 
   word 0 >> 1} (section 1 starts at section 0's size word). English groups that outgrow their sectors are appended
   to MSYS.DAT and the two tables updated (`insert.msys_groups`): items 0x9B38 (0x14 sectors), 7 = 0x3528. The other
   reader of the tables, 0x08853A20, loads other groups by index.
-- **romdiff gate:** `insert.patched` fails when BOOT.BIN differs from the original outside the ranges the build
-  declares (cstr slots, in-place tables, heap ranges + tables + repointed addiu sites, move_spans, HOOKS, FREE_ASM).
+- **romdiff gate:** `insert.patched` logs each stage's BOOT.BIN writes (`log_writes`: pools, heap_tables,
+  move_buffers, msys_groups, armips), each inside that stage's own declared ranges, and runs `romdiff.check` with the
+  log: old bytes must be the original (no stage writes over another), new bytes must survive to the end, no overlaps.
+  MSYS.DAT must be identical outside groups 6/7; SCEN edits only entries 380-759. `build.check_leaves`: other
+  swapped-in files identical, only patched files move, no extent overlap on the disc. `tests/test_insert.py::
+  test_en_build` runs the whole English build in `tools/check.py` (+ SCEN non-text entries identical after repack).

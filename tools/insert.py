@@ -452,10 +452,11 @@ def msys_groups(boot, msys, sections):
     """sections: {file offset: new section bytes}. Rebuild each MSYS group from its sections back to back; a group
     that outgrows its sectors moves to the end of MSYS.DAT (the BOOT sector tables follow). Returns the new file."""
     st_at, sz_at = (ram_to_file(t) for t in MSYS_TABLES)
-    out = bytearray(msys)
+    out, olds = bytearray(msys), []
     for g in MSYS_GROUPS:
         st, sz = (struct.unpack_from("<H", boot, t + 2 * g)[0] for t in (st_at, sz_at))
         lo, hi = st * 0x800, (st + sz) * 0x800
+        olds.append((lo, hi))
         ats = sorted(a for a in sections if lo <= a < hi)
         assert ats and ats[0] == lo, "MSYS group %d: no section at its start" % g
         p = lo
@@ -474,7 +475,40 @@ def msys_groups(boot, msys, sections):
             struct.pack_into("<H", boot, sz_at + 2 * g, sz)
         out[st * 0x800:(st + sz) * 0x800] = blob + bytes(sz * 0x800 - len(blob))
     assert len(msys) % 0x800 == 0
+    a, b = bytearray(msys), out[:len(msys)]
+    for lo, hi in olds:
+        a[lo:hi] = b[lo:hi] = bytes(hi - lo)
+    if a != b:
+        raise ValueError("MSYS.DAT changed outside groups %s" % (MSYS_GROUPS,))
     return bytes(out)
+
+
+def log_writes(log, before, after, spans, by):
+    """Append each changed run of `after` vs `before` to `log` as a romdiff write (offset, old, new, writer); a run
+    outside the writer's declared `spans` raises. romdiff then checks old == the original file (no stage writes over
+    another's bytes), new == the final file (nothing overwrites it later) and no overlaps."""
+    merged = []
+    for s, e in sorted(spans):
+        if merged and s <= merged[-1][1]:
+            merged[-1][1] = max(e, merged[-1][1])
+        else:
+            merged.append([s, e])
+    i, n = 0, len(after)
+    while i < n:
+        if before[i:i + 4096] == after[i:i + 4096]:
+            i += 4096
+            continue
+        if before[i] == after[i]:
+            i += 1
+            continue
+        j = i
+        while j < n and before[j] != after[j]:
+            j += 1
+        if not any(s <= i and j <= e for s, e in merged):
+            raise ValueError("%s wrote BOOT.BIN 0x%X-0x%X outside its declared ranges" % (by, i, j))
+        log.append((i, bytes(before[i:j]), bytes(after[i:j]), by))
+        i = j
+    return log
 
 
 def patched(mode="en", overrides=None, tree=extract.TREE):
@@ -514,21 +548,30 @@ def patched(mode="en", overrides=None, tree=extract.TREE):
             put(boot, t, table, len(table), doc["entries"][0]["id"] + " table")
             put(boot, base, pool, t - base, doc["entries"][0]["id"] + " pool")
             spans.append((base, t + len(table)))
+    orig_boot = extract.read("BOOT.BIN", tree)
+    log = log_writes([], orig_boot, boot, spans, "pools")  # each stage's writes, for romdiff --writes
     if tables:
-        spans += heap_tables(boot, enc, tables).spans
+        b = bytes(boot)
+        log_writes(log, b, boot, heap_tables(boot, enc, tables).spans, "heap_tables")
     if mode != "jp":
+        b = bytes(boot)
         move_buffers(boot)
+        log_writes(log, b, boot, move_spans(), "move_buffers")
         stale = stale_refs(boot)
         if stale:
             raise ValueError("code still builds an old buffer address: " + ", ".join("%08X" % a for a in stale))
+        assert set(entries) <= set(range(380, 760)), "SCEN.DAT edit outside the text entries"
         check_scen_fit(scen, entries)
+        b = bytes(boot)
         msys = msys_groups(boot, msys, sections)
-        boot = armips(bytes(boot))
-        errs, _ = romdiff.check(extract.read("BOOT.BIN", tree), boot, [range(*s) for s in spans + move_spans()] +
-                                [range(ram_to_file(a), ram_to_file(a) + len(h) // 2) for a, h in HOOKS.items()] +
-                                [range(*FREE_ASM)], [])
-        if errs:
-            raise ValueError("BOOT.BIN written outside the allowed ranges:\n" + "\n".join(errs[:10]))
+        log_writes(log, b, boot, move_spans(), "msys_groups")
+        b = bytes(boot)
+        boot = armips(b)
+        log_writes(log, b, boot, [(ram_to_file(a), ram_to_file(a) + len(h) // 2) for a, h in HOOKS.items()] +
+                   [FREE_ASM], "armips")
+    errs, _ = romdiff.check(orig_boot, boot, [], log)
+    if errs:
+        raise ValueError("BOOT.BIN write log check failed:\n" + "\n".join(errs[:10]))
     sysdir = "/PSP_GAME/SYSDIR/"
     out = {"/PSP_GAME/USRDIR/gr_data1/MSYS.DAT": bytes(msys), sysdir + "BOOT.BIN": bytes(boot)}
     if mode != "jp":
