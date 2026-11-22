@@ -12,3 +12,6 @@ references/platform-psp.md (EBOOT): every original j/jal in a PRX carries an R_M
 references/platform-psp.md (EBOOT): sign_np -elf has no tag for old ~PSP keys (this game: 0xC0CB167C); tag 0 (0xD91609F0) signs a bootable EBOOT (PPSSPP verified).
 references/platform-psp.md: armips macros are case-insensitive and may shadow opcodes: a macro named JR broke every 'jr ra', JALR is an opcode too.
 references/emulator-qa.md (PSP): exec breakpoints over the WebSocket make a cheap call-site tracer (this repo tools/debug/trace.py: runUntilTime + cpu.stepping loop, regs per hit) where PS1 used Lua exec hooks.
+references/pipeline.md (Width gate): in-place pools have no room for a ruler; shrink the other markers of the ruler's pool to their id (this repo insert.marker short / Encoder.squeeze) instead of relocating for a stress build.
+references/emulator-qa.md (PSP): emu.py --shots silently skips a frame past the route's end; warp-then-emu.py --state-in (warp.py --state-out) is the way to shoot every N frames through a dialogue.
+references/pipeline.md (Marker): a recompiled port (PS1 -> PSP) kept every window budget, but the PS1 "wrap on code end after a wait" rule did not carry over (PSP keeps the start rule); measure the wait case too.

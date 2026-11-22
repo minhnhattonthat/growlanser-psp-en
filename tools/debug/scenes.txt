@@ -112,3 +112,4 @@ menu_5           scene 18 area 2 sub 1 frames 5400 then 300 -;pick 7;pick 1;6 ci
 gear_items       scene 18 area 2 sub 1 frames 6400 then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 1;150 -
 gear_equip       scene 18 area 2 sub 1 frames 6400 then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 2;150 -
 gear_status      scene 18 area 2 sub 1 frames 6400 then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 3;150 -
+gear_spell       scene 18 area 2 sub 1 frames 6400 then 300 -;pick 0;300 -;pick 0;300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -;pick 0;150 -

@@ -33,6 +33,18 @@ def test_marker_word_count():
     m = insert.marker(e)
     assert m == "123.45{n}The qu{FFEE}"
     assert insert.marker({"id": "boot.items.0002", "jp": "剣"}) == "it"
+    # short (pool holds a --qa ruler): only the id, later runs empty, codes kept
+    assert insert.marker({"id": "scen123.0456", "jp": "これはテストです{n}テスト{FFEE}"}, True) == "123.456{n}{FFEE}"
+
+
+def test_qa_override_room():
+    # a ruler longer than its own Japanese fits in place: the rest of its pool shrinks to ids
+    enc = insert.Encoder("marker", {"boot.items.0030": "A234567890" * 8})
+    doc = next(d for d in insert.docs() if d["entries"][0]["id"].startswith("boot.items."))
+    table, pool = enc.pool(doc)
+    old = extract.original_bytes(doc)
+    assert len(table) == len(old[0]) and len(pool) <= len(old[1])
+    assert not insert.Encoder("marker").squeeze  # pools without an override keep full markers
 
 
 @pytest.mark.skipif(not insert.ARMIPS.is_file(), reason="armips not installed in tools/armips")

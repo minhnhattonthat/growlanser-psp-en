@@ -41,7 +41,9 @@ _ASM = (ROOT / "asm" / "vwf.asm").read_text(encoding="utf-8")
 FREE_ASM = tuple(int(re.search(r"^%s\s+equ\s+(0x[0-9A-Fa-f]+)" % k, _ASM, re.M).group(1), 16) - DATA_HS
                  for k in ("FREE_START", "FREE_END"))  # BOOT.BIN offsets of vwf.asm's code + font tables
 # Page-path callers of the print wrapper (return addresses): a print from there continues a message (vwf_newstr).
-GEN_DEFAULT = {"CONT_RA1": 0, "CONT_RA2": 0}
+# 0x0886AAB4: the message display's only wrapper call (trace.py on a wait-code ruler, work/qa/s3/wait: without it the
+# pen restarted at ceil(x/12) after a wait, a 6 px gap)
+GEN_DEFAULT = {"CONT_RA1": 0x0886AAB4, "CONT_RA2": 0}
 
 KEEP_JP = {"boot.sys.%04d" % i for i in range(5)}  # single punctuation / blanks (PS1 exe.sys 0-4: kinsoku data)
 # Name-entry key grids, one code per key (the key's code is what the name gets): D10 (= PS1 D14)
@@ -64,9 +66,10 @@ def short_id(eid):
     return "%d.%d" % (int(m.group(1)), int(n)) if m else "%s%d" % (pool.split(".")[-1][:2], int(n))
 
 
-def marker(e):
+def marker(e, short=False):
     """Same word count as the jp: each text run becomes exactly 2 letters per Japanese character; a leading ・ stays.
-    Dictionary codes {F4xx} are dropped (English spells words out), so a pool never grows."""
+    Dictionary codes {F4xx} are dropped (English spells words out), so a pool never grows. short: only the id (and
+    empty runs after it), to free pool room for a --qa ruler."""
     out, first = [], True
     for part in TEXT_RUN.split(re.sub(r"\{F4[0-9A-F]{2}\}", "", e["jp"])):
         if not part or TEXT_RUN.fullmatch(part):
@@ -75,6 +78,7 @@ def marker(e):
         lead = "・" if part.startswith("・") else ""
         n = 2 * (len(part) - len(lead))
         txt = (short_id(e["id"]) + " ") if first else ""
+        n = min(n, max(0, len(txt) - 1)) if short else n
         first = False
         txt += (FILLER * (n // len(FILLER) + 1))[:max(0, n - len(txt))]
         out.append(lead + txt[:n])  # a short string keeps only the id's head
@@ -89,7 +93,7 @@ class Encoder:
     def __init__(self, mode, overrides=None):
         assert mode in ("jp", "marker", "en")
         self.mode, self.jp, self.en = mode, gltext.Codec(), enfont.EnCodec()
-        self.overrides = overrides or {}
+        self.overrides, self.squeeze = overrides or {}, False
 
     def text(self, e):
         """The string to write, or None to keep the Japanese."""
@@ -98,7 +102,7 @@ class Encoder:
         if self.mode == "jp" or not e["jp"] or keep_jp(e):
             return None
         if self.mode == "marker":
-            return marker(e)
+            return marker(e, self.squeeze)
         return e.get("en") or None
 
     def words(self, e):
@@ -114,7 +118,9 @@ class Encoder:
         return extract.cstr_bytes({**e, "en": t}, "en")
 
     def pool(self, doc):
-        """New bytes for a pool, in place: section bytes, (table, pool bytes) or [cstr slots]."""
+        """New bytes for a pool, in place: section bytes, (table, pool bytes) or [cstr slots]. A pool holding a --qa
+        override gets short markers elsewhere, so the override has room."""
+        self.squeeze = any(e["id"] in self.overrides for e in doc["entries"])
         if doc["form"] == "cstr":
             return [self.cstr(e) for e in doc["entries"]]
         strings = [self.words(e) + [extract.TERM_W[e["term"]]] for e in doc["entries"]]

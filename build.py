@@ -81,6 +81,8 @@ def main():
     ap.add_argument("--mode", choices=("en", "marker", "jp"), default="en",
                     help="text: English where translated (default), [id] markers everywhere, or the Japanese re-encoded")
     ap.add_argument("--qa", action="append", default=[], metavar="ID=TEXT", help="override one string (stress tests)")
+    ap.add_argument("--qa-file", metavar="TSV", help="overrides from a file, one 'ID<tab>TEXT' per line (tools/stress.py)")
+    ap.add_argument("--out", help="output ISO (default build/growlanser_<mode>.iso)")
     args = ap.parse_args()
     check_rom.check()
     unpack()
@@ -94,8 +96,12 @@ def main():
         sys.exit(0 if got == want else 1)
     import insert
     overrides = dict(q.split("=", 1) for q in args.qa)
+    if args.qa_file:
+        rows = Path(args.qa_file).read_text(encoding="utf-8").splitlines()
+        overrides.update(r.split("\t", 1) for r in rows if r.strip())
     flat, edits = insert.patched(args.mode, overrides)
-    out = ROOT / ("build/growlanser_en.iso" if args.mode == "en" else f"build/growlanser_{args.mode}.iso")
+    out = Path(args.out) if args.out else \
+        ROOT / ("build/growlanser_en.iso" if args.mode == "en" else f"build/growlanser_{args.mode}.iso")
     build(out, {**patches(edits), **flat})
     print(f"{out}: {sha1(out)}")
 

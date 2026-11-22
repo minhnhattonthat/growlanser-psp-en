@@ -95,9 +95,9 @@ The PSP code is a recompile of the PS1 printer (PS1 notes: `../growlanser-en/doc
   max - min + 1.
 - `asm/vwf.asm` (port of the PS1 one, without dictionary / MSYS packing / popup width yet): glyph calls -> vwf_std /
   vwf_big (they set s6 = ceil(x/12) themselves; the s6 steps become nops, WAIT stays), both typewriter tests nop'd
-  (page at once), pre-parser steps -> vwf_measure, printer entry -> vwf_newstr (continuation return addresses
-  CONT_RA1/2 still 0 = every print is a new string; PS1 needed them for "We  lcome" gaps after a first-code print;
-  not seen in the PSP marker tour so far). Code + en font in font cells 0x6A0+ (RAM 0x0892E7B8, ends 0x0892F6D8).
+  (page at once), pre-parser steps -> vwf_measure, printer entry -> vwf_newstr (continuation: CONT_RA1 = 0x0886AAB4,
+  the message display's only print-wrapper call, trace.py; without it the pen restarted at ceil(x/12) after a wait
+  code, a 6 px gap, work/qa/s3/wait vs s3c/wait; CONT_RA2 unused). Code + en font in font cells 0x6A0+ (RAM 0x0892E7B8, ends 0x0892F6D8).
 - Marker build (work/qa/mk, mk_dlg): dialogue pages (multi-line, wait continuations), choice menu (dbgmenu), field
   menu, item list, status, config all draw English pairs. Name tag shows "0." for a 2-code tag (PS1 tag_pad needed).
 
