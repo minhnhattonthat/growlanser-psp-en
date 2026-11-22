@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator: next (phase 7 done in session 11: English build green, buffers moved, fitting
-  ported, romdiff gate).
+- **Phase:** 8. QA in the emulator in progress (session 12: phase 7 review fixes, English tour + qa_gate manifest
+  started; see "Phase 8 progress" below).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -93,7 +93,35 @@ Updated at the end of every session. Keep it to what the next session needs; his
   item description from the moved MSYS group, Square help)/name_entry/ending, scene 186 (largest pair, text ends
   0xBE04 > old 0xB000) byte-identical in the new buffer (RAM dump work/qa/p7_s186ram), `warp.py --all` on the
   English build: see work/qa/p7_warp_en/summary.tsv. tests: test_move_buffers, test_msys_groups, test_fitting.
-- **Next (phase 8, QA in the emulator):** tour every changed scene with the debug tool, contact sheets, visual-QA
+  Session 12 (phase 7 review fixes, H:\translation\.harness\reviews\growlanser-psp-en-phase7.md, both Importants):
+  `tests/test_insert.py::test_en_build` runs the whole English build in check.py (~20 s); `insert.log_writes` logs
+  each BOOT.BIN stage's writes (pools, heap_tables, move_buffers, msys_groups, armips) inside that stage's own ranges
+  and `romdiff.check` gets the log (orig bytes, overwrites, overlaps); MSYS.DAT identical outside groups 6/7; SCEN
+  edits only 380-759 (+ test: non-text entries identical after repack); `build.check_leaves` (disc: other files
+  identical, only patched files move, no extent overlap). Review Minors 3-8 open (listed in the review file; 7 and 8
+  are phase 8 checks: JP save on the EN build, longest name/item/place in battle messages, shops, place popup).
+- **Phase 8 progress (session 12):** build e1c9255757b8ac0decb97d6512e3638b33bf050a (= the review's), copied to
+  work/qa/tourbuild.iso (tour from the copy: build.py can't overwrite an ISO an emulator holds). Tour =
+  `warp.py --all --iso work/qa/tourbuild.iso --out work/qa/tour` (81 entries, ~2 h, log work/qa/tour.log); JP
+  baseline sheets = work/qa/warp (session 4). The tour was still running when session 12 handed back (21/81 done):
+  if work/qa/tour/summary.tsv lacks rows, re-run the missing ones with `--all --only a,b,..` into the same --out.
+  Then the manifest: `qa_gate.py init work/qa/manifest.tsv work/qa/tour --build
+  work/qa/tourbuild.iso` (sheets are paged: sheet.png, sheet_2.png...). Brief: docs/visual-qa-brief.md (PSP
+  non-bugs). Verdicts so far: work/qa/verdicts/s12_main.tsv (12 sheets: title*, newgame, dbgmenu, dbg_*; all ok;
+  one polish note: dev menu row "Portrait test mode" vs its title "Portrait Check Mode"). Remaining sheets: `qa_gate.py todo
+  work/qa/manifest.tsv work/qa/verdicts --size 30 --out-dir work/qa/chunks`; no subagents for this run (Orca
+  worker): read each chunk in a fresh pass, at full size (`final.png` + the fNNNNNN.png frames with text; sheet tiles
+  are half size, ~200 tokens per 480x272 frame), and write verdicts/<chunk>.tsv.
+  Text coverage (gate item, not started): PPSSPP has no Lua, so a text log needs a breakpoint over the WebSocket
+  (`tools/debug/trace.py` style, read the string and log `TEXT <hash>` like ../growlanser-en/tools/debug/textlog.lua
+  + tools/strings.py). Printer 0x088748A0 entry (JP, first_dialogue state): a0 = 0x08CCD628 (a window struct: +0x48
+  flag, +0x2C), a1 = code index in typewriter mode, s0 = [entry sp + 0x18] passed to 3 calls; the string pointer is
+  NOT yet found (PS1 had it at u32(u32(sp+0x1C))). The wrapper 0x08868480 shifts its args (printer a1..t3 = wrapper
+  a0..t2, printer [sp+0x18] = the wrapper caller's stack arg +8: 0x00BE00C1 in the trace, not a pointer); try the
+  message display 0x08868788's args or the window struct next (scratch disassembler: capstone on BOOT.BIN via
+  insert.ram_to_file; promote it to tools/ if used again). Then port
+  the PS1 msgforce/cover.py idea (force every message of scene N through a host scene) to WebSocket pokes.
+- **Next (phase 8, QA in the emulator):** finish the tour verdicts; text coverage (above); tour every changed scene with the debug tool, contact sheets, visual-QA
   verdicts (`qa_gate.py`), graphics text (P1-P13 in docs/re/graphics.md), inkbox on choice/centred boxes, stress
   saves, `textcover.py`. Measure on screen: battle UI (unit / class names, battle messages: bt_tutorial lands before
   the battle starts), captions (scen010.0114, scen014.0003: Encoder.centre bias is PS1's), spell list with Luise in
