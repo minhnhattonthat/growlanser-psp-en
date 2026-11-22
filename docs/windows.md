@@ -31,9 +31,9 @@ print-wrapper call; without it a 6 px gap) and the same start rule holds, with p
 | Unit names | boot.units | 144 px clip | 1 | lower bound | JP max 12 cells; battle UI not reached yet (bt_tutorial lands before the battle starts) |
 | Config labels | boot.sys.0121 (one label per line) | 8 cells (96 px) | 9 lines (7 rows visible, scrolls) | measured | work/qa/s3/title_config (each label wraps after 16 chars) |
 | Config values | boot.sys.0122-0133 | 8 cells (96 px) | 1 | measured | work/qa/s3/title_config (values wrap after 16 chars) |
-| Field-menu bubble | boot.sys.0062-0067 | 12 cells (144 px); frame = 12 px x code count (PS1 popup_width hook: phase 7) | 1 | measured | work/qa/s3/menu (sys.0062 ruler: 24 chars, then clipped) |
+| Field-menu bubble | boot.sys.0062-0067 | 12 cells (144 px); frame = text pixel width (asm popup_width, phase 7) | 1 | measured | work/qa/s3/menu (sys.0062 ruler: 24 chars, then clipped) |
 | Place names | boot.places, scene place / event titles | 12 cells, same popup routine as the bubble | 1 | measured (bubble) | the PS1 place popup and field-menu bubble share the routine; a place popup itself not shot yet |
-| Scene caption | scen "　text　" (scen010.0114, scen014.0003) | frame 12 px x code count; centring = PS1 Encoder.centre (phase 7) | 1 | guess | not reached by a warp yet (ev_battle001 runs past scen014's start) |
+| Scene caption | scen "　text　" (scen010.0114, scen014.0003) | frame 12 px x code count; centred by Encoder.centre (phase 7) | 1 | guess | not reached by a warp yet (ev_battle001 runs past scen014's start) |
 | Name-entry labels | boot.sys.0069 | one line cut into slices: title 60 px, blank 12, 5 labels x 24 px (PS1 insert.SLOTS) | 1 | measured | work/qa/s4/name_entry (ruler: "A234567890" title, "3456" "7890" "C234" "5678" "90D2" labels) |
 | Growth graph | boot.sys.0102 caption, 0103 legend | caption 24 cells x 3; legend 4 cells per label, 7 lines | 3 / 7 | lower bound | as PS1; screen not reached |
 | Other system text | boot.sys (rest) | 24 cells (guess) | 3 | guess | battle messages, shop, inn: phase 8 tour |
@@ -44,5 +44,9 @@ Glyph torture line (every ASCII glyph the font has, é … — ♪ ♥, single/d
 dialogue box: work/qa/s4/tort, all legible, spaces distinct. The font has no `# @ \ ^ \` |`, and `{ }` are control
 syntax: EnCodec rejects them.
 
-Phase 7 (fitting, ports from the PS1 insert.py): name-tag pad (frame = code count: Encoder.tag_pad), popup width
-(frame = VWF pixel width: PS1 asm popup_width; find the PSP twin of 0x8006BA48), caption centring, name-entry SLOTS.
+Phase 7 fitting (done, session 11, ports from the PS1 insert.py): name tags + places + item names padded so every
+code's column is inside the code-count frame (`Encoder.tag_pad`, TAG_POOLS); popup 0x08871B30 (PSP twin of PS1
+0x8006BA48: bubbles and place names) sizes its frame to the VWF pixel width (asm `popup_width`, hooks 0x08871BFC /
+0x08871C98; "Magic" bubble centred, work/qa/p7_check/menu); scene captions centred (`Encoder.centre`, CAPTION_BIAS
+from PS1, check on screen in phase 8); one-line scene titles lead-spaced (`title_lead`); name-entry slices
+(`Encoder.slots`, boot.sys.0069).

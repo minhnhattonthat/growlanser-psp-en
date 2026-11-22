@@ -73,6 +73,17 @@ FREE_END   equ 0x089303E4                ; end of the font (cell 0x836, BOOT.BIN
     j       vwf_newstr
     addiu   sp, sp, -0x80                ; the printer's first instruction
 
+; Popup 0x08871B30 (field-menu bubbles boot.sys, place names; PS1 0x8006BA48): frame = 12 px per code (s5 = code
+; count, used only for that at 0x08871C8C). Make s5 the text's pixel width and the frame s5 px. 0x08871C00 is the
+; empty-string branch target (a0 = 0): its word sets v0 = 0 there, and is the jal's delay slot otherwise.
+.org 0x08871BFC
+    jal     popup_width                  ; a1 = string start (was subu a0, v1, a1 / srl / addu / sra s5, v0, 1)
+    move    v0, zero
+    move    s5, v0
+    nop
+.org 0x08871C98
+    move    v1, s5                       ; was subu v1, v0, v1 (16 * s5 - 4 * s5)
+
 .headersize 0x08803F40                   ; .data: RAM = file + 0x08803F40
 .org FREE_START
 vwf_newstr:
@@ -464,6 +475,24 @@ vwf_width:
 @@ret:
     jr      ra
     nop
+
+; popup_width: v0 = pixel width of the string at a1 (FFFF ends). Uses a0, v1, t4-t9 (free in 0x08871B30 there).
+popup_width:
+    move    t5, a1
+    move    t6, ra
+    move    t4, zero
+@@next:
+    lhu     a0, 0(t5)
+    ori     t9, zero, 0xFFFF
+    beq     a0, t9, @@end
+    addiu   t5, t5, 2
+    jal     vwf_width
+    nop
+    b       @@next
+    addu    t4, t4, v0
+@@end:
+    jr      t6
+    move    v0, t4
 
 .align 4
 vwf_mstate:                              ; x, col

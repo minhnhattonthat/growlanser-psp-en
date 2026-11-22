@@ -57,6 +57,47 @@ def test_vwf_asm_sites():
         assert w == 0x0C000000 | (sym - 0x08804000) >> 2
 
 
+def test_fitting():
+    """PS1 fitting ports: name tags padded so every code's column is inside the code-count frame; name-entry slices."""
+    enc = insert.Encoder("en")
+    w = enc.tag_pad(enc.en.encode("Alviss's Staff"))
+    x = 0
+    for c in w:
+        assert -(-x // 12) < len(w)
+        x += enc.advance(c)
+    s = enc.slots("boot.sys.0069", "Enter Name　Hira Kata ABC Del OK")
+    assert sum(map(enc.advance, s)) == sum(insert.SLOTS["boot.sys.0069"])
+    e = next(e for d in insert.docs() for e in d["entries"] if e["id"] == "boot.sys.0069")
+    assert enc.words(e) == s
+
+
+def test_move_buffers():
+    """Scene and MSYS buffers move to the grown BSS: every builder of an old buffer address is rewritten."""
+    boot = bytearray(extract.read("BOOT.BIN"))
+    assert len(insert.stale_refs(boot)) == 14  # the scan finds the pinned sites (incl. the 0x08B7EF38 + 0x16000 read)
+    insert.move_buffers(boot)
+    assert insert.stale_refs(boot) == []
+    for pairs, new in ((insert.SCEN_PAIRS, insert.SCEN_BUF), (insert.MSYS_PAIRS, insert.MSYS_BUF)):
+        assert {insert._pair_ram(boot, *p) & ~0x1F for p in pairs} == {new}
+    assert insert._pair_ram(boot, 0x088080E8, 0x088080F0) == insert.SCEN_BUF
+    assert struct.unpack_from("<I", boot, 0x34 + 32 + 20)[0] == insert.BSS_END - insert.DATA_SEG
+
+
+def test_msys_groups():
+    """English MSYS: each group is its sections back to back (the loader finds section 1 at word 0 of section 0);
+    a group that outgrows its sectors moves to the end of MSYS.DAT and the BOOT sector tables follow."""
+    boot, msys, enc = bytearray(extract.read("BOOT.BIN")), extract.read("MSYS.DAT"), insert.Encoder("en")
+    secs = {int(d["at"], 16): enc.pool(d) for d in insert.docs() if d["file"] == "MSYS.DAT"}
+    out = insert.msys_groups(boot, msys, secs)
+    st, sz = (insert.ram_to_file(t) for t in insert.MSYS_TABLES)
+    for g, ats in ((6, [0x42800]), (7, [0x48000, 0x48DBC])):
+        start = struct.unpack_from("<H", boot, st + 2 * g)[0] * 0x800
+        want = b"".join(secs[a] for a in ats)
+        assert out[start:start + len(want)] == want
+        assert struct.unpack_from("<H", boot, sz + 2 * g)[0] * 0x800 >= len(want)
+    assert out[:0x42800] == msys[:0x42800] and out[0x4B000:len(msys)] == msys[0x4B000:]
+
+
 def test_boot_heap():
     """English BOOT tables: each id read back the getter's way (repointed base + 2 * u16) gives its encoded string."""
     boot, enc = bytearray(extract.read("BOOT.BIN")), insert.Encoder("en")

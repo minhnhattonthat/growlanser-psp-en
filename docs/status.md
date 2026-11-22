@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 7. Insert, fit, check: in progress (session 10: phase 6 review fixed; BOOT tables relocated; MSYS
-  and scene buffers next).
+- **Phase:** 8. QA in the emulator: next (phase 7 done in session 11: English build green, buffers moved, fitting
+  ported, romdiff gate).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -82,18 +82,25 @@ Updated at the end of every session. Keep it to what the next session needs; his
   JP before a voice code (wrapper drops the page break); worth a batches.py rule.
   Phase 7 so far: BOOT tables relocated into a string heap (`insert.heap_tables`, getters repointed, verified in game
   on the marker build). docs/re/text.md "Phase 7" has the MSYS and scene buffer findings.
-- **Next (phase 7, insert/fit/check):** `build.py` (en) now fails at MSYS (items 39.7 KB > 0x5800 static buffer
-  0x08BB5A98), then SCEN (scene pair buffer 0x08B94F38, 0xB000 bytes; 281 pools grow). Try plan A first (grow
-  .data p_memsz, move both buffers to the new BSS tail; ~4 MB of RAM is never touched): read the loaders at the
-  ref sites in docs/re/text.md "Phase 7", check whether 0x08B94F38 is a struct array, prove with marker build +
-  `warp.py --all`. Plan B = PS1 dictionary + MSYS Huffman (../growlanser-en tools/dictenc.py, msyspack.py).
-  Then: romdiff.py allowed ranges, fit lint clean, control codes matched (phase 7 done-when).
-  Pools: boot.sys 192-195 new, sys.0032 / 0146 changed. boot.save English contains real "\n"
-  (system dialog; check cstr sizes). {s:FFED} in scen188.0058 (alpha waves?) to check in game.
-  Phase 7 (fitting ports from PS1 insert.py): name-tag pad (frame = code count), popup width hook (find the PSP twin
-  of PS1 0x8006BA48), caption centring, name-entry SLOTS (sys.0069). Measure in phase 8: battle UI (unit / class
-  names, battle messages: bt_tutorial lands before the battle starts), captions (scen010.0114, scen014.0003), spell
-  list with Luise in the party, place popup, shops, save screen.
+  Session 11 (phase 7 done; docs/re/text.md "Phase 7", docs/windows.md): `python -X utf8 build.py` builds the full
+  English ISO. Scene pair buffer and MSYS buffer moved to a grown BSS (phdr[1] memsz -> 0x08DD2000; scene 0x08DB2000
+  0xF800, MSYS 0x08DC2000 0x10000; `insert.move_buffers`, 14 pinned sites incl. one hidden base+0x16000 read, scene
+  bound 0xB000 -> 0xF800). SCEN text sections grow their entries (dat.pack moves them; `check_scen_fit`). MSYS
+  groups 6 (items) / 7 (magic + skills) appended to MSYS.DAT when grown, BOOT sector tables updated
+  (`msys_groups`). Build gates: `stale_refs` (no code left building an old buffer address), romdiff of BOOT.BIN vs
+  the declared write ranges. Fitting ported from PS1: tag_pad, popup_width asm hook (popup 0x08871B30), caption
+  centre, title_lead, name-entry slots. Verified: smoke (English first dialogue), warps menu/gear_items (English
+  item description from the moved MSYS group, Square help)/name_entry/ending, scene 186 (largest pair, text ends
+  0xBE04 > old 0xB000) byte-identical in the new buffer (RAM dump work/qa/p7_s186ram), `warp.py --all` on the
+  English build: see work/qa/p7_warp_en/summary.tsv. tests: test_move_buffers, test_msys_groups, test_fitting.
+- **Next (phase 8, QA in the emulator):** tour every changed scene with the debug tool, contact sheets, visual-QA
+  verdicts (`qa_gate.py`), graphics text (P1-P13 in docs/re/graphics.md), inkbox on choice/centred boxes, stress
+  saves, `textcover.py`. Measure on screen: battle UI (unit / class names, battle messages: bt_tutorial lands before
+  the battle starts), captions (scen010.0114, scen014.0003: Encoder.centre bias is PS1's), spell list with Luise in
+  the party, place popup (popup_width), shops, save screen. boot.save English has real "\n" (system dialog).
+  {s:FFED} in scen188.0058 (alpha waves?) to check in game. Raw `warp.py --scene "scene 186"` lands on a black
+  map (original too): give story scenes their area/sub in scenes.txt when touring them. Saves made with the JP game
+  may hold scene-buffer pointers (copy at 0x08808004 from 0x08B7EF38): test loading a JP save on the English build.
   Phase 8 warp additions still open: game over (docs/re/debug.md "Game over"), clear-save fixture for APPENDIX,
   shops, stress saves (inventory lists, other unit records). Credits: cast pages with Japanese names at f21000-23400
   of the `credits` warp (settle P5 vs P13 there).

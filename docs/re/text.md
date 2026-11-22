@@ -136,5 +136,21 @@ English vs in-place room (`insert.Encoder("en")`): BOOT tables +2.5 KB (8 of 10 
   0x08B9FF38: 0x0880766C, 0x08820BBC, 0x08820F2C.
 - **Free RAM:** every dump has 0x0994E0C0-0x09D40000 (~4 MB) all zero, below the codec libraries at 0x09D4B000; the
   module ("Model", 0x08804000) .data memsz 0x488CFC ends at 0x08DAA0BC, game allocations follow (MSYS.DAT head at
-  0x08DAB740). Plan A: grow phdr[1] p_memsz (BOOT.BIN, re-signed) and move both buffers to the new BSS tail (test
-  with the marker build + all warps first); plan B: PS1's dictionary (scenes) + Huffman (MSYS) packing.
+  0x08DAB740).
+- **Done (plan A, session 11): both buffers moved to a grown BSS** (`insert.move_buffers`): phdr[1] p_memsz ->
+  BSS_END 0x08DD2000; scene buffer 0x08DB2000 (0xF800), MSYS buffer 0x08DC2000 (0x10000). Every builder is pinned
+  (SCEN_PAIRS, MSYS_PAIRS): a constant-propagation scan of .text (`insert.stale_refs`, lui + addiu/addu/load/store
+  forward) found 14 sites, one hidden: 0x088080E8-F8 reads the buffer's word 0 as 0x08B7EF38 + 0x10000 + 0x6000
+  (rewritten: pair builds the new buffer, addu -> nop, lw 0). 0x08B7EF38 is another 0x16000-byte area right below
+  the buffer; 0x08B9FF38 (next object, 3 code refs + 1 pointer) is not part of it. Bound: 0x0880802C `ori a0,
+  zero, 0xB000` (buffer end, scene-state copy from 0x08B7EF38) -> SCEN_SIZE. The build fails on any stale ref.
+  Pair layout: entry N at the buffer, text entry N + 380 at buffer + word 0 of entry N (its real size), read in
+  whole sectors (`check_scen_fit`); English max = scene 186, 0xC13C raw (JP 0xB000 padded).
+- **MSYS groups:** loader 0x08853B0C(a0) queues a read of MSYS.DAT group a0 + 6 (u16 start sector 0x0891716C +
+  2i, u16 sector count 0x08917204 + 2i, BOOT .rodata; count stored as a byte) into the buffer; group 6 = items,
+  group 7 = magic + skills back to back. After the read 0x088543C0 sets section offset table 0x08C9B87C = {0,
+  word 0 >> 1} (section 1 starts at section 0's size word). English groups that outgrow their sectors are appended
+  to MSYS.DAT and the two tables updated (`insert.msys_groups`): items 0x9B38 (0x14 sectors), 7 = 0x3528. The other
+  reader of the tables, 0x08853A20, loads other groups by index.
+- **romdiff gate:** `insert.patched` fails when BOOT.BIN differs from the original outside the ranges the build
+  declares (cstr slots, in-place tables, heap ranges + tables + repointed addiu sites, move_spans, HOOKS, FREE_ASM).

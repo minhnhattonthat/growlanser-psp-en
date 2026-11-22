@@ -20,8 +20,10 @@ sys.path.insert(0, str(ROOT / "tools"))
 import dat  # noqa: E402
 import enfont  # noqa: E402
 import extract  # noqa: E402
+import fit  # noqa: E402
 import gltext  # noqa: E402
 import prxrel  # noqa: E402
+import romdiff  # noqa: E402
 import textsec  # noqa: E402
 
 ARMIPS = ROOT / "tools" / "armips" / "armips.exe"
@@ -36,6 +38,7 @@ HOOKS = {
     0x08869BCC: "3c034412", 0x08869DCC: "db024412",  # typewriter tests
     0x088677F4: "01003126758d0108", 0x08867A58: "02003126758d0108",  # pre-parser column step + loop jump
     0x088748A0: "80ffbd275000b0af",  # printer entry: new-string flag
+    0x08871BFC: "23206500c21704002110440043a80200", 0x08871C98: "23184300",  # popup frame = pixel width
 }
 _ASM = (ROOT / "asm" / "vwf.asm").read_text(encoding="utf-8")
 FREE_ASM = tuple(int(re.search(r"^%s\s+equ\s+(0x[0-9A-Fa-f]+)" % k, _ASM, re.M).group(1), 16) - DATA_HS
@@ -52,6 +55,28 @@ KEEP_JP |= {"boot.sys.%04d" % i for i in range(70, 100)}
 KEEP_JP |= {"boot.names.0000", "boot.units.0000", "boot.names.0014", "boot.units.0014"}
 KEEP_POOLS = ("boot.kbd.", "boot.dict.")  # name-entry key grids (one code per key, PS1 D14); dictionary (English
 # spells words out, the F4xx codes are dropped)
+# Fitting (PS1 insert.py; docs/windows.md): fit.BUDGETS rows whose frame is 12 px x code count
+TAG_POOLS = ("scen.name", "boot.names", "boot.places", "boot.items")  # items: the description's name tag
+# Scene captions ("　The next day　"): code-count frame; text starts 15 px in (blank incl.), ink ends 4 px before
+# the last advance (PS1 measure; PSP caption not reached yet: docs/windows.md)
+CAPTION_BIAS = 11
+# boot.sys.0069 (name-entry title + labels) is one line cut into pixel slices: title 60, blank 12, 5 labels x 24
+# (measured, work/qa/s4/name_entry). English: "Title　Label Label ..", each field centred in its slice.
+SLOTS = {"boot.sys.0069": (60, 12, 24, 24, 24, 24, 24)}
+
+
+def is_caption(e):
+    j = e["jp"]
+    return len(j) > 2 and j[0] == j[-1] == "　" and "{" not in j and "{" not in e.get("en", "")
+
+
+def is_title(e):
+    """A scene string shown alone in a popup: place or event name (one line, no codes, no sentence punctuation,
+    not a choice); its box is sized to the text in whole columns (Encoder.title_lead)."""
+    return bool(e["jp"]) and "{" not in e["jp"] + e.get("en", "") and not e["jp"].startswith("　") \
+        and not re.search("[。！？‥、「」…・]", e["jp"]) and not is_caption(e)
+
+
 FILLER = "The quick brown fox jumps over the lazy dog. "
 TEXT_RUN = re.compile(r"(\{\w+(?::[0-9A-Fa-f]{4})?\}|\[[0-9A-Fa-f]{4}\])")
 
@@ -97,7 +122,7 @@ def needs_english(e):
 class Encoder:
     def __init__(self, mode, overrides=None):
         assert mode in ("jp", "marker", "en")
-        self.mode, self.jp, self.en = mode, gltext.Codec(), enfont.EnCodec()
+        self.mode, self.jp, self.en, self.font = mode, gltext.Codec(), enfont.EnCodec(), enfont.load()
         self.overrides, self.squeeze = overrides or {}, False
 
     def text(self, e):
@@ -112,7 +137,76 @@ class Encoder:
 
     def words(self, e):
         t = self.text(e)
-        return self.jp.encode(e["jp"]) if t is None else self.en.encode(t)
+        if t is None:
+            return self.jp.encode(e["jp"])
+        if self.mode != "en" or e["id"] in self.overrides:
+            return self.en.encode(t)
+        pool = fit.budget(e["id"], e)[0]
+        if pool == "scen" and is_caption(e):
+            return self.centre(t, CAPTION_BIAS)
+        if e["id"] in SLOTS:
+            return self.slots(e["id"], t)
+        w = self.en.encode(t)
+        if pool in TAG_POOLS:
+            return self.tag_pad(w)
+        return self.title_lead(w) if pool == "scen" and is_title(e) else w
+
+    # Fitting, ported from the PS1 insert.Encoder (same engine; docs/windows.md)
+    def advance(self, w):
+        if enfont.PAIR <= w < enfont.PAIR + 0x4000:
+            return sum(self.font[self.en.rev[k]][2] for k in (w - enfont.PAIR >> 7, w & 0x7F) if k)
+        return 12 if w < 0xE000 else 0
+
+    def tag_pad(self, words):
+        """Name tags are as many columns wide as their codes, and the printer draws a code only if its column
+        ceil(x / 12) is inside: append zero-width codes (pair 0x0800 draws nothing) up to last column + 1."""
+        x, need = 0, len(words)
+        for w in words:
+            need = max(need, -(-x // 12) + 1)
+            x += self.advance(w)
+        return words + [enfont.PAIR] * (need - len(words))
+
+    def slots(self, eid, text):
+        title, rest = text.split("　")
+        fields, widths = [title, ""] + rest.split(" "), SLOTS[eid]
+        if len(fields) != len(widths):
+            raise ValueError(f"{eid}: {len(fields)} fields, the screen has {len(widths)} slices")
+
+        def blank(n):
+            sp = {v: k for k, v in enfont.SPACERS.items()}
+            return sp[11] * (n // 11) + (sp[n % 11] if n % 11 else "")
+        out = ""
+        for f, w in zip(fields, widths):
+            free = w - enfont.width(f, self.font)
+            if free < 0:
+                raise ValueError(f"{eid}: {f!r} is {-free} px wider than its {w} px slice")
+            out += blank(free // 2) + f + blank(free - free // 2)
+        return self.en.encode(out)
+
+    def centre(self, text, bias):
+        """The frame is 12 px x code count and the text starts near its left edge: lead with spacer glyphs (after
+        any leading full-width blank) so the blank on the left matches the one on the right; bias = how much more
+        blank the left side has than the model's. Never more codes than max(plain, 12)."""
+        sp = list(enfont.SPACERS)
+        leads = [""] + sp + [sp[-1] + s for s in sp]
+        head = text[:len(text) - len(text.lstrip("　"))]
+        cap = max(len(self.en.encode(text)), 12)
+        best = None
+        for lead in leads:
+            w = self.en.encode(head + lead + text[len(head):])
+            left = sum(enfont.SPACERS[c] for c in lead) + bias
+            right = 12 * len(w) - sum(map(self.advance, w))
+            key = (abs(left - right), len(w))
+            if len(w) <= cap and (best is None or key < best[0]):
+                best = key, w
+        return best[1]
+
+    def title_lead(self, w):
+        """Title popups (place / event names) are sized to whole 12 px columns, ceil(width / 12), with the text at
+        the left: lead with a spacer of half the slack so it sits centred."""
+        width = sum(map(self.advance, w))
+        lead = (-(-width // 12) * 12 - width) // 2
+        return self.en.encode(chr(0xE000 + lead)) + w if lead else w
 
     def cstr(self, e):
         t = self.text(e)
@@ -188,9 +282,9 @@ class Heap:
 
 def repoint(boot, old_ram, new_ram):
     """Rewrite every `lui r, hi` .. `addiu r', r, lo` in .text that builds old_ram (a .data address, stored
-    segment-relative) to build new_ram; the lui half must stay the same. Returns the number of sites."""
+    segment-relative) to build new_ram; the lui half must stay the same. Returns the sites (file offsets)."""
     old, new = old_ram - DATA_SEG, new_ram - DATA_SEG
-    lui, n = {}, 0
+    lui, n = {}, []
     for o in range(0xC4, DATA_FILE, 4):
         w = struct.unpack_from("<I", boot, o)[0]
         op, rs, rt, imm = w >> 26, (w >> 21) & 31, (w >> 16) & 31, w & 0xFFFF
@@ -200,7 +294,7 @@ def repoint(boot, old_ram, new_ram):
             if (new + 0x8000) >> 16 != lui[rs]:
                 raise ValueError("0x%08X: new base 0x%08X needs another lui half" % (file_to_ram(o), new_ram))
             struct.pack_into("<I", boot, o, (w & 0xFFFF0000) | (new & 0xFFFF))
-            n += 1
+            n.append(o)
     return n
 
 
@@ -213,6 +307,7 @@ def heap_tables(boot, enc, docs):
             raise ValueError("PRX relocation inside heap range 0x%X-0x%X" % (s, e))
         boot[s:e] = bytes(e - s)
     base = ram_to_file(HEAP_RAM)
+    heap.spans = list(heap.ranges)  # every byte heap_tables may write, for the romdiff gate
     for doc in docs:
         enc.squeeze = any(e["id"] in enc.overrides for e in doc["entries"])
         addr = []
@@ -224,9 +319,162 @@ def heap_tables(boot, enc, docs):
         table = struct.pack("<%dH" % len(vals), *vals)  # struct fails past 0xFFFF words (128 KB)
         t = int(doc["table"], 16)
         put(boot, t, table, len(table), doc["entries"][0]["id"] + " table")
-        if not repoint(boot, file_to_ram(int(doc["base"], 16)), HEAP_RAM):
+        sites = repoint(boot, file_to_ram(int(doc["base"], 16)), HEAP_RAM)
+        if not sites:
             raise ValueError("%s: no getter builds pool base %s" % (doc["entries"][0]["id"], doc["base"]))
+        heap.spans += [(t, t + len(table))] + [(o, o + 4) for o in sites]
     return heap
+
+
+# Load buffers moved to a new BSS tail (docs/re/text.md "Phase 7"): .data memsz grows so the module owns the space.
+# Every site that builds a buffer address is pinned (lui, lo user); work/p7-style scans of a RAM dump found no others.
+# Addresses keep RAM and segment-relative low halves in 0x0000-0x7FFF, so the loader's HI16/LO16 carry stays simple.
+BSS_END = 0x08DD2000
+SCEN_BUF, SCEN_OLD, SCEN_SIZE = 0x08DB2000, 0x08B94F38, 0xF800  # size: the bound check is an ori (max 0xFFFF)
+MSYS_BUF, MSYS_OLD, MSYS_SIZE = 0x08DC2000, 0x08BB5A98, 0x10000
+SCEN_PAIRS = [(0x08807498, 0x088074A0), (0x08808020, 0x08808024), (0x08808104, 0x08808108),
+              (0x0880A148, 0x0880A14C), (0x0881BFC0, 0x0881BFC4), (0x0881DB88, 0x0881DB8C),
+              (0x0881DB9C, 0x0881DBA0)]
+MSYS_PAIRS = [(0x08853B68, 0x08853B6C), (0x08853C7C, 0x08853C80), (0x088543C0, 0x088543C4)]
+SCEN_BOUND = 0x0880802C  # ori a0, zero, 0xB000: buffer end in the scene-state copy
+# 0x088080E8..F8 reads the buffer's first word (text entry offset) as 0x08B7EF38 + 0x10000 + 0x6000:
+# lui v0 / lui v1, 1 / addiu v0 / addu v0, v0, v1 / lw t0, 0x6000(v0) -> pair builds SCEN_BUF, addu -> nop, lw 0(v0)
+SCEN_WORD0 = {0x088080E8: "2600023c", 0x088080EC: "0100033c", 0x088080F0: "78db4224", 0x088080F4: "21104300",
+              0x088080F8: "0060488c"}
+MSYS_TABLES = (0x0891716C, 0x08917204)  # u16 start sector / sector count of each MSYS.DAT group (BOOT .rodata)
+MSYS_GROUPS = (6, 7)  # items descriptions; magic + skills (loaded one at a time into the MSYS buffer)
+
+
+def _word(boot, ram):
+    return struct.unpack_from("<I", boot, ram_to_file(ram))[0]
+
+
+def _set_pair(boot, lui, lo, ram):
+    """Rewrite a lui + I-type pair to build `ram` (a .data/.bss address, stored segment-relative)."""
+    v = ram - DATA_SEG
+    assert _word(boot, lui) >> 26 == 0x0F and 0 <= v & 0xFFFF < 0x8000
+    for a, imm in ((lui, (v + 0x8000) >> 16), (lo, v & 0xFFFF)):
+        struct.pack_into("<I", boot, ram_to_file(a), (_word(boot, a) & 0xFFFF0000) | imm)
+
+
+def _pair_ram(boot, lui, lo):
+    imm = _word(boot, lo) & 0xFFFF
+    return ((_word(boot, lui) & 0xFFFF) << 16) + imm - (imm & 0x8000) * 2 + DATA_SEG
+
+
+def move_buffers(boot):
+    """Grow .data memsz to BSS_END and point every pinned site at the new scene and MSYS buffers."""
+    ph = struct.unpack_from("<I", boot, 0x1C)[0] + 32  # phdr[1] = .data
+    assert ph == 0x34 + 32, "e_phoff moved (move_spans pins it)"
+    vaddr, memsz = struct.unpack_from("<I", boot, ph + 8)[0], struct.unpack_from("<I", boot, ph + 20)[0]
+    assert prxrel.BASE + vaddr == DATA_SEG and DATA_SEG + memsz <= SCEN_BUF
+    struct.pack_into("<I", boot, ph + 20, BSS_END - DATA_SEG)
+    for pairs, old, new in ((SCEN_PAIRS, SCEN_OLD, SCEN_BUF), (MSYS_PAIRS, MSYS_OLD, MSYS_BUF)):
+        for lui, lo in pairs:
+            cur = _pair_ram(boot, lui, lo)
+            if not old <= cur < old + 0x20:
+                raise ValueError("0x%08X: builds 0x%08X, not the buffer 0x%08X" % (lo, cur, old))
+            _set_pair(boot, lui, lo, cur - old + new)
+    for a, h in SCEN_WORD0.items():
+        if boot[ram_to_file(a):ram_to_file(a) + 4].hex() != h:
+            raise ValueError("0x%08X: BOOT.BIN is not the original scene word-0 read" % a)
+    _set_pair(boot, 0x088080E8, 0x088080F0, SCEN_BUF)
+    struct.pack_into("<I", boot, ram_to_file(0x088080F4), 0)  # nop
+    struct.pack_into("<I", boot, ram_to_file(0x088080F8), _word(boot, 0x088080F8) & 0xFFFF0000)
+    if _word(boot, SCEN_BOUND) != 0x3404B000:
+        raise ValueError("scene bound site moved")
+    struct.pack_into("<I", boot, ram_to_file(SCEN_BOUND), 0x34040000 | SCEN_SIZE)
+
+
+def move_spans():
+    """BOOT.BIN file ranges move_buffers and msys_groups write."""
+    ph = 0x34 + 32 + 20  # phdr[1] p_memsz (e_phoff = 0x34, asserted in move_buffers' read)
+    out = [(ph, ph + 4), (ram_to_file(0x088080E8), ram_to_file(0x088080FC)),
+           (ram_to_file(SCEN_BOUND), ram_to_file(SCEN_BOUND) + 4)]
+    out += [(ram_to_file(a), ram_to_file(a) + 4) for p in SCEN_PAIRS + MSYS_PAIRS for a in p]
+    out += [(ram_to_file(t) + 2 * g, ram_to_file(t) + 2 * g + 2) for t in MSYS_TABLES for g in MSYS_GROUPS]
+    return out
+
+
+def stale_refs(boot):
+    """.text sites that still build an address inside an old buffer (lui + addiu/load/store/addu, followed forward
+    while the registers hold constants), and relocated .data words pointing there. The scan that found SCEN_WORD0."""
+    old = [(SCEN_OLD, SCEN_OLD + 0xB000), (MSYS_OLD, MSYS_OLD + 0x5800)]
+    hit = lambda v: any(lo <= (v + DATA_SEG) & 0xFFFFFFFF < hi for lo, hi in old)  # noqa: E731
+    s16 = lambda x: x - ((x & 0x8000) << 1)  # noqa: E731
+    word = lambda o: struct.unpack_from("<I", boot, o)[0]  # noqa: E731
+    out = []
+    for o in range(0xC4, DATA_FILE - 4, 4):
+        if word(o) >> 26 != 0x0F:
+            continue
+        regs = {(word(o) >> 16) & 31: (word(o) & 0xFFFF) << 16}
+        for b in range(o + 4, min(o + 160, DATA_FILE), 4):
+            y = word(b)
+            op, rs, rt, rd = y >> 26, (y >> 21) & 31, (y >> 16) & 31, (y >> 11) & 31
+            if op == 0x0F:
+                regs[rt] = (y & 0xFFFF) << 16
+            elif op == 0x09 and rs in regs:
+                regs[rt] = regs[rs] + s16(y & 0xFFFF)
+                if hit(regs[rt]):
+                    out.append(file_to_ram(b))
+            elif op == 0 and y & 0x3F == 0x21 and rs in regs and rt in regs:
+                regs[rd] = regs[rs] + regs[rt]
+                if hit(regs[rd]):
+                    out.append(file_to_ram(b))
+            elif op in (0x20, 0x21, 0x22, 0x23, 0x24, 0x25, 0x26, 0x28, 0x29, 0x2A, 0x2B, 0x2E) and rs in regs:
+                if hit(regs[rs] + s16(y & 0xFFFF)):
+                    out.append(file_to_ram(b))
+                if op < 0x28:
+                    regs.pop(rt, None)
+            elif op == 0:
+                regs.pop(rd, None)
+            elif op not in (0x01, 0x02, 0x03, 0x04, 0x05, 0x06, 0x07, 0x14, 0x15):
+                regs.pop(rt, None)
+    rel = prxrel.relocs(boot)
+    out += [a for a, t in rel.items() if t == 2 and a >= DATA_SEG and hit(word(ram_to_file(a)))]
+    return sorted(set(out))
+
+
+def check_scen_fit(scen, entries):
+    """Entry N loads at the buffer, entry N + 380 (text) at buffer + word 0 of entry N, in whole sectors."""
+    def get(n):
+        return entries.get(n) or dat.entry(scen, n)
+    for n in range(380):
+        a, b = get(n), get(n + 380)
+        if not a:
+            continue
+        end = max(len(a), struct.unpack_from("<I", a, 0)[0] + -(-len(b) // 0x800) * 0x800)
+        if end > SCEN_SIZE:
+            raise ValueError("scene pair %d/%d: 0x%X bytes > scene buffer 0x%X" % (n, n + 380, end, SCEN_SIZE))
+
+
+def msys_groups(boot, msys, sections):
+    """sections: {file offset: new section bytes}. Rebuild each MSYS group from its sections back to back; a group
+    that outgrows its sectors moves to the end of MSYS.DAT (the BOOT sector tables follow). Returns the new file."""
+    st_at, sz_at = (ram_to_file(t) for t in MSYS_TABLES)
+    out = bytearray(msys)
+    for g in MSYS_GROUPS:
+        st, sz = (struct.unpack_from("<H", boot, t + 2 * g)[0] for t in (st_at, sz_at))
+        lo, hi = st * 0x800, (st + sz) * 0x800
+        ats = sorted(a for a in sections if lo <= a < hi)
+        assert ats and ats[0] == lo, "MSYS group %d: no section at its start" % g
+        p = lo
+        for a in ats:  # original sections tile the group from its start
+            assert a == p, "MSYS group %d: gap at 0x%X" % (g, p)
+            p += struct.unpack_from("<I", msys, a)[0]
+        assert not any(msys[p:hi]), "MSYS group %d: data after its sections" % g
+        blob = b"".join(sections[a] for a in ats)
+        n = -(-len(blob) // 0x800)
+        if n * 0x800 > MSYS_SIZE:
+            raise ValueError("MSYS group %d: 0x%X bytes > MSYS buffer 0x%X" % (g, len(blob), MSYS_SIZE))
+        if n > sz:
+            st, sz = len(out) // 0x800, n
+            out += bytes(n * 0x800)
+            struct.pack_into("<H", boot, st_at + 2 * g, st)
+            struct.pack_into("<H", boot, sz_at + 2 * g, sz)
+        out[st * 0x800:(st + sz) * 0x800] = blob + bytes(sz * 0x800 - len(blob))
+    assert len(msys) % 0x800 == 0
+    return bytes(out)
 
 
 def patched(mode="en", overrides=None, tree=extract.TREE):
@@ -234,7 +482,7 @@ def patched(mode="en", overrides=None, tree=extract.TREE):
     enc = Encoder(mode, overrides)
     scen, boot, msys = extract.read("SCEN.DAT", tree), bytearray(extract.read("BOOT.BIN", tree)), \
         bytearray(extract.read("MSYS.DAT", tree))
-    entries, tables = {}, []
+    entries, tables, sections, spans = {}, [], {}, []  # spans: BOOT.BIN file ranges the build may change
     for doc in docs():
         if mode != "jp" and doc["file"] == "BOOT.BIN" and doc["form"] == "table" and \
                 not doc["entries"][0]["id"].startswith(KEEP_POOLS):
@@ -244,23 +492,43 @@ def patched(mode="en", overrides=None, tree=extract.TREE):
         if doc["file"] == "SCEN.DAT":
             ent = bytearray(entries.get(doc["entry"]) or dat.entry(scen, doc["entry"]))
             at = int(doc["at"], 16)
-            put(ent, at, new, struct.unpack_from("<I", ent, at)[0], doc["entries"][0]["id"])
+            old = struct.unpack_from("<I", ent, at)[0]
+            if mode == "jp" or len(new) <= old:
+                put(ent, at, new, old, doc["entries"][0]["id"])
+            else:  # the text section ends its entry (zero tail only): grow the entry, dat.pack moves it
+                assert not any(ent[at + old:]), doc["entries"][0]["id"]
+                ent = ent[:at] + new
             entries[doc["entry"]] = bytes(ent)
         elif doc["file"] == "MSYS.DAT":
             at = int(doc["at"], 16)
-            put(msys, at, new, struct.unpack_from("<I", msys, at)[0], doc["entries"][0]["id"])
+            if mode == "jp":
+                put(msys, at, new, struct.unpack_from("<I", msys, at)[0], doc["entries"][0]["id"])
+            sections[at] = new
         elif doc["form"] == "cstr":
             for e, b in zip(doc["entries"], new):
                 put(boot, int(e["at"], 16), b, e["size"], e["id"])
+                spans.append((int(e["at"], 16), int(e["at"], 16) + e["size"]))
         else:
             table, pool = new
             t, base = int(doc["table"], 16), int(doc["base"], 16)
             put(boot, t, table, len(table), doc["entries"][0]["id"] + " table")
             put(boot, base, pool, t - base, doc["entries"][0]["id"] + " pool")
+            spans.append((base, t + len(table)))
     if tables:
-        heap_tables(boot, enc, tables)
+        spans += heap_tables(boot, enc, tables).spans
     if mode != "jp":
+        move_buffers(boot)
+        stale = stale_refs(boot)
+        if stale:
+            raise ValueError("code still builds an old buffer address: " + ", ".join("%08X" % a for a in stale))
+        check_scen_fit(scen, entries)
+        msys = msys_groups(boot, msys, sections)
         boot = armips(bytes(boot))
+        errs, _ = romdiff.check(extract.read("BOOT.BIN", tree), boot, [range(*s) for s in spans + move_spans()] +
+                                [range(ram_to_file(a), ram_to_file(a) + len(h) // 2) for a, h in HOOKS.items()] +
+                                [range(*FREE_ASM)], [])
+        if errs:
+            raise ValueError("BOOT.BIN written outside the allowed ranges:\n" + "\n".join(errs[:10]))
     sysdir = "/PSP_GAME/SYSDIR/"
     out = {"/PSP_GAME/USRDIR/gr_data1/MSYS.DAT": bytes(msys), sysdir + "BOOT.BIN": bytes(boot)}
     if mode != "jp":
