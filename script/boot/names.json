@@ -1,0 +1,904 @@
+{
+ "file": "BOOT.BIN",
+ "form": "table",
+ "table": "0x131EBC",
+ "base": "0x131810",
+ "fill": 0,
+ "refs": "0 1 2 3 4 5 6 7 8 9 10 11 12 8 13 2 14 5 6 15 4 16 17 18 19 20 21 22 23 24 10 25 26 9 27 28 29 30 31 32 33 34 35 36 37 38 39 39 40 40 40 40 40 41 42 43 43 43 43 43 44 45 45 46 46 46 46 47 48 49 50 51 51 51 51 51 52 52 52 52 52 52 52 52 52 53 54 55 56 57 57 58 59 60 60 60 60 61 61 61 61 61 61 62 63 64 64 64 64 64 64 64 64 65 66 67 67 67 67 67 67 67 67 67 67 68 69 69 70 70 70 70 70 71 72 73 73 73 73 73 73 73 73 73 73 73 73 73 74 75 76 76 76 76 76 76 76 76 76 76 76 76 76 77 78 78 78 78 78 78 78 78 78 78 79 79 79 79 79 79 79 79 79 79 79 79 79 79 79 80 80 80 80 81 82 83 83 83 83 83 83 83 83 84 84 84 84 84 84 84 85 85 85 85 85 86 86 86 86 86 86 86 86 86 86 86 87 87 87 87 87 87 87 87 88 88 88 88 88 88 88 88 88 89 90 91 91 91 91 91 91 91 91 91 91 91 91 91 91 91 92 92 92 92 92 93 94 95 95 95 95 95 95 96 96 96 96 96 96 96 97 98 99 100 101 102 103 104 105 98 106 107 107 107 107 107 107 108 109 109 109 109 110 110 110 110 110 110 0 111 112 113 113 113 112 112 112 11 114 9 9 9 9 115 116 117 118 119 120 11 121 122 17 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148",
+ "entries": [
+  {
+   "id": "boot.names.0000",
+   "jp": "ＰＬＡＹＥＲ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0001",
+   "jp": "ルイセ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0002",
+   "jp": "ウォレス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0003",
+   "jp": "アリオスト",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0004",
+   "jp": "エリオット",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0005",
+   "jp": "ゼノス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0006",
+   "jp": "ミーシャ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0007",
+   "jp": "カレン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0008",
+   "jp": "ジュリアン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0009",
+   "jp": "アメリア",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0010",
+   "jp": "リシャール",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0011",
+   "jp": "メルフィ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0012",
+   "jp": "ジュリア",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0013",
+   "jp": "ティピ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0014",
+   "jp": "ＭＹ[01C2]ＣＩＴＹ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0015",
+   "jp": "アルカディウス王",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0016",
+   "jp": "魔術師サンドラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0017",
+   "jp": "送魔線技師",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0018",
+   "jp": "ブラッドレー副学院長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0019",
+   "jp": "アイリーン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0020",
+   "jp": "レティシア姫",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0021",
+   "jp": "王母アンジェラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0022",
+   "jp": "女王ステラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0023",
+   "jp": "オスカー・リーヴス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0024",
+   "jp": "アーネスト・ライエル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0025",
+   "jp": "リシャール王",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0026",
+   "jp": "ガムラン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0027",
+   "jp": "ベルナード将軍",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0028",
+   "jp": "ブロンソン将軍",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0029",
+   "jp": "ウェーバー将軍",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0030",
+   "jp": "ヴェンツェル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0031",
+   "jp": "変身ヴェンツェル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0032",
+   "jp": "シエラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0033",
+   "jp": "ベルガー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0034",
+   "jp": "エリオット父",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0035",
+   "jp": "エリオット母",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0036",
+   "jp": "父親",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0037",
+   "jp": "母親",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0038",
+   "jp": "店主",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0039",
+   "jp": "旅人",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0040",
+   "jp": "侍女",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0041",
+   "jp": "オヤジ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0042",
+   "jp": "看護婦長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0043",
+   "jp": "看護婦",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0044",
+   "jp": "患者",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0045",
+   "jp": "医者",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0046",
+   "jp": "店員",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0047",
+   "jp": "マクスウェル学院長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0048",
+   "jp": "ブラッドレー学院長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0049",
+   "jp": "学院長秘書",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0050",
+   "jp": "副学院長秘書",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0051",
+   "jp": "教授",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0052",
+   "jp": "魔法学院生徒",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0053",
+   "jp": "魔導技師",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0054",
+   "jp": "エレナ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0055",
+   "jp": "レダ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0056",
+   "jp": "好事家",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0057",
+   "jp": "作業員",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0058",
+   "jp": "番兵",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0059",
+   "jp": "兵士",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0060",
+   "jp": "警備兵",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0061",
+   "jp": "盗掘者",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0062",
+   "jp": "開催責任者",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0063",
+   "jp": "パートナー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0064",
+   "jp": "闘技大会参加者",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0065",
+   "jp": "ローランディア軍司令官",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0066",
+   "jp": "ローランディア兵隊長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0067",
+   "jp": "ローランディア兵",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0068",
+   "jp": "輸送兵長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0069",
+   "jp": "輸送兵",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0070",
+   "jp": "輸送用動物",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0071",
+   "jp": "バーンシュタイン軍司令官",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0072",
+   "jp": "バーンシュタイン兵隊長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0073",
+   "jp": "バーンシュタイン兵",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0074",
+   "jp": "ランザック軍司令官",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0075",
+   "jp": "ランザック兵隊長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0076",
+   "jp": "ランザック兵",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0077",
+   "jp": "村長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0078",
+   "jp": "村人",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0079",
+   "jp": "市民",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0080",
+   "jp": "子供",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0081",
+   "jp": "オズワルド",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0082",
+   "jp": "盗賊頭",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0083",
+   "jp": "盗賊",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0084",
+   "jp": "覆面の男",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0085",
+   "jp": "仮面騎士",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0086",
+   "jp": "ユング",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0087",
+   "jp": "ゲーヴ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0088",
+   "jp": "部下",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0089",
+   "jp": "大鷲",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0090",
+   "jp": "モンスター使い",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0091",
+   "jp": "モンスター",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0092",
+   "jp": "バーンシュタイン工作兵",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0093",
+   "jp": "馬車",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0094",
+   "jp": "マスター・ガーディアン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0095",
+   "jp": "ガーディアン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0096",
+   "jp": "？？？？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0097",
+   "jp": "グレンガル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0098",
+   "jp": "ゲヴェル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0099",
+   "jp": "ラルフ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0100",
+   "jp": "ニック",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0101",
+   "jp": "謎の男",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0102",
+   "jp": "行商人",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0103",
+   "jp": "ダグラス卿",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0104",
+   "jp": "デカゲル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0105",
+   "jp": "副官",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0106",
+   "jp": "ジーナ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0107",
+   "jp": "選手",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0108",
+   "jp": "市長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0109",
+   "jp": "目",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0110",
+   "jp": "爪",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0111",
+   "jp": "ランザック国王",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0112",
+   "jp": "ジャスティン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0113",
+   "jp": "闇の凝集体",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0114",
+   "jp": "占い師",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0115",
+   "jp": "ラミィ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0116",
+   "jp": "コリン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0117",
+   "jp": "ユリィ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0118",
+   "jp": "ピティ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0119",
+   "jp": "ユニ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0120",
+   "jp": "携帯集魔柱",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0121",
+   "jp": "アルカディウス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0122",
+   "jp": "サンドラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0123",
+   "jp": "ブラッドレー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0124",
+   "jp": "レティシア",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0125",
+   "jp": "アンジェラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0126",
+   "jp": "ステラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0127",
+   "jp": "リーヴス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0128",
+   "jp": "オスカー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0129",
+   "jp": "ライエル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0130",
+   "jp": "アーネスト",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0131",
+   "jp": "ベルナード",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0132",
+   "jp": "ブロンソン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0133",
+   "jp": "ウェーバー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0134",
+   "jp": "ローザリア",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0135",
+   "jp": "デリス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0136",
+   "jp": "ブローニュ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0137",
+   "jp": "メディス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0138",
+   "jp": "コムスプリングス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0139",
+   "jp": "ガルアオス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0140",
+   "jp": "ヴァルミエ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0141",
+   "jp": "クレイン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0142",
+   "jp": "バーンシュタイン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0143",
+   "jp": "ランザック",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0144",
+   "jp": "ラージン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0145",
+   "jp": "フェザーランド",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0146",
+   "jp": "オリビエ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0147",
+   "jp": "ブレーム",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.names.0148",
+   "jp": "ローランディア",
+   "en": "",
+   "term": "null"
+  }
+ ]
+}

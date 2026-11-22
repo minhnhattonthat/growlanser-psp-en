@@ -1,0 +1,622 @@
+{
+ "file": "BOOT.BIN",
+ "form": "table",
+ "table": "0x12FA5C",
+ "base": "0x12F584",
+ "fill": 0,
+ "refs": "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101",
+ "entries": [
+  {
+   "id": "boot.skills.0000",
+   "jp": "クリティカル１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0001",
+   "jp": "クリティカル２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0002",
+   "jp": "クリティカル３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0003",
+   "jp": "毒攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0004",
+   "jp": "毒攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0005",
+   "jp": "毒攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0006",
+   "jp": "猛毒攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0007",
+   "jp": "猛毒攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0008",
+   "jp": "猛毒攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0009",
+   "jp": "マヒ攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0010",
+   "jp": "マヒ攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0011",
+   "jp": "マヒ攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0012",
+   "jp": "石化攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0013",
+   "jp": "石化攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0014",
+   "jp": "石化攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0015",
+   "jp": "腕つぶし",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0016",
+   "jp": "ソウルクラッシュ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0017",
+   "jp": "全周囲攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0018",
+   "jp": "全周囲攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0019",
+   "jp": "全周囲攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0020",
+   "jp": "連続攻撃１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0021",
+   "jp": "連続攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0022",
+   "jp": "連続攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0023",
+   "jp": "盗む１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0024",
+   "jp": "盗む２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0025",
+   "jp": "盗む３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0026",
+   "jp": "硬直延長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0027",
+   "jp": "解毒能力",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0028",
+   "jp": "マヒ無効化",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0029",
+   "jp": "石化無効化",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0030",
+   "jp": "デス無効化",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0031",
+   "jp": "魔力吸収",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0032",
+   "jp": "分身",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0033",
+   "jp": "カウンター１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0034",
+   "jp": "カウンター２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0035",
+   "jp": "カウンター３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0036",
+   "jp": "スペルターニング",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0037",
+   "jp": "硬直短縮",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0038",
+   "jp": "詠唱時間短縮",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0039",
+   "jp": "道具実行時間短縮",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0040",
+   "jp": "リジェネレート",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0041",
+   "jp": "超リジェネレート",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0042",
+   "jp": "ＭＰ回復",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0043",
+   "jp": "俊足１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0044",
+   "jp": "俊足２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0045",
+   "jp": "俊足３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0046",
+   "jp": "水上移動",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0047",
+   "jp": "飛行",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0048",
+   "jp": "壁抜け",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0049",
+   "jp": "ＨＰアップ１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0050",
+   "jp": "ＨＰアップ２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0051",
+   "jp": "ＨＰアップ３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0052",
+   "jp": "ＭＰアップ１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0053",
+   "jp": "ＭＰアップ２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0054",
+   "jp": "ＭＰアップ３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0055",
+   "jp": "魔力アップ１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0056",
+   "jp": "魔力アップ２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0057",
+   "jp": "魔力アップ３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0058",
+   "jp": "Ｓ異常無効",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0059",
+   "jp": "完全攻撃",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0060",
+   "jp": "全アップ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0061",
+   "jp": "全毒攻撃",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0062",
+   "jp": "断",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0063",
+   "jp": "自爆",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0064",
+   "jp": "退却",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0065",
+   "jp": "武器無効",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0066",
+   "jp": "武器受け減少１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0067",
+   "jp": "武器受け減少２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0068",
+   "jp": "武器受け減少３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0069",
+   "jp": "武器受け減少４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0070",
+   "jp": "魔法受け減少１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0071",
+   "jp": "魔法受け減少２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0072",
+   "jp": "魔法受け減少３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0073",
+   "jp": "魔法受け減少４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0074",
+   "jp": "ダメージ減少１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0075",
+   "jp": "ダメージ減少２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0076",
+   "jp": "ダメージ減少３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0077",
+   "jp": "ダメージ減少４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0078",
+   "jp": "詠唱時間短縮２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0079",
+   "jp": "詠唱時間短縮３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0080",
+   "jp": "詠唱時間短縮４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0081",
+   "jp": "詠唱延長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0082",
+   "jp": "全毒攻撃２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0083",
+   "jp": "全毒攻撃３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0084",
+   "jp": "全毒攻撃４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0085",
+   "jp": "矢貫通",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0086",
+   "jp": "入手なし",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0087",
+   "jp": "超回避１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0088",
+   "jp": "超回避２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0089",
+   "jp": "超回避３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0090",
+   "jp": "超回避４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0091",
+   "jp": "全アップ２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0092",
+   "jp": "全アップ３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0093",
+   "jp": "全毒無効",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0094",
+   "jp": "状態異常無効",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0095",
+   "jp": "集中状態異常無効",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0096",
+   "jp": "超サイクル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0097",
+   "jp": "Ｄ硬直半減",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0098",
+   "jp": "Ｄ硬直なし",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0099",
+   "jp": "死なない",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0100",
+   "jp": "セ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.skills.0101",
+   "jp": "タ",
+   "en": "",
+   "term": "null"
+  }
+ ]
+}

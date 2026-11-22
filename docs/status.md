@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 4. Extract next (phase 3 identity build done session 5, 2026-11-22).
+- **Phase:** 5. Engine spike and marker build next (phase 4 extract done session 6, 2026-11-22).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -33,10 +33,16 @@ Updated at the end of every session. Keep it to what the next session needs; his
   for SCEN, MAP, MAGD, DATA, DATA_BOOT, GLB; identity ISO SHA-1 = rom.sha1 (tests/test_identity.py, in check).
   Relocation proven in game: all six grown and moved to the image end -> smoke + 6 warps identical to the original.
   warp.py `--all --iso X` now keeps states in the out dir (work/states = original ISO only).
-- **Next (phase 4):** extract to script/*.json (SCEN sections, MSYS sections, module string tables, SJIS/UTF-8
-  system strings); `tbl/jp.tbl` incl. new glyphs 0x7CB-0x835; roundtrip test re-encoding every string to its bytes.
-  MSYS.DAT needs its own text-section writer (flat file). Phase 5: find an EBOOT signing tool (sign_np or similar),
-  prove a re-signed BOOT.BIN boots, before any code patch.
+  Session 6 (phase 4, docs/re/text.md "Script files"): `tools/extract.py` (+ `--check`, from the PS1 repo, with
+  `textsec.py`) -> script/scen (309), script/msys (3), script/boot (10 module tables + save.json/kbd.json in-place
+  cstr pools): 36,283 strings, all rebuild byte-identical (tests/test_extract.py, in check; ranges tile).
+  `tbl/jp.tbl` = PS1 table + PSP glyphs 0x7CB-0x835 (`tools/fontmatch.py ... 0x1230D8`, 5 fixed by eye).
+  28,401/35,972 PSP jp strings equal a translated PS1 jp exactly: prefill those in phase 6.
+- **Next (phase 5):** find an EBOOT signing tool (sign_np or similar), prove a re-signed BOOT.BIN boots, before any
+  code patch. Insert path: SCEN entries via dat.pack, MSYS.DAT sections written back into the flat file (free 0x150
+  after items, 0x7E4 after skills; grow = shift sections + patch the loader bounds), module tables need relocation
+  (getter lui/addiu, text.md). Font/VWF decision (PS1 repo's VWF as reference), marker build `[id]` per line,
+  width gate. Keyboard grids (boot/kbd.json): decide keep JP vs Latin (PS1 D14 kept them).
   Phase 8 warp additions still open: game over (docs/re/debug.md "Game over"), clear-save fixture for APPENDIX,
   shops, stress saves (inventory lists, other unit records). Credits: cast pages with Japanese names at f21000-23400
   of the `credits` warp (settle P5 vs P13 there).

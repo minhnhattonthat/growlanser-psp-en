@@ -1,0 +1,130 @@
+{
+ "file": "BOOT.BIN",
+ "form": "table",
+ "table": "0x12D954",
+ "base": "0x12D840",
+ "fill": 1,
+ "refs": "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19",
+ "entries": [
+  {
+   "id": "boot.places.0000",
+   "jp": "王都ローザリア",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0001",
+   "jp": "デリス村",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0002",
+   "jp": "ブローニュ村",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0003",
+   "jp": "メディス村",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0004",
+   "jp": "ラシェル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0005",
+   "jp": "グランシル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0006",
+   "jp": "{s:0010}",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0007",
+   "jp": "コムスプリングス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0008",
+   "jp": "ガルアオス監獄",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0009",
+   "jp": "鉱山街ヴァルミエ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0010",
+   "jp": "クレイン村",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0011",
+   "jp": "バーンシュタイン王都",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0012",
+   "jp": "シュッツベルグ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0013",
+   "jp": "ガラシールズ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0014",
+   "jp": "ランザック王都",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0015",
+   "jp": "ラージン砦",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0016",
+   "jp": "魔法学院",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0017",
+   "jp": "フェザーランド",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0018",
+   "jp": "オリビエ湖",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.places.0019",
+   "jp": "時空制御塔",
+   "en": "",
+   "term": "null"
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "file": "SCEN.DAT",
+ "form": "section",
+ "entry": 484,
+ "at": "0x5DC",
+ "pad": 1,
+ "refs": "0 1",
+ "entries": [
+  {
+   "id": "scen104.0000",
+   "jp": "",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "scen104.0001",
+   "jp": "‥‥うぅ‥これは‥‥。",
+   "en": "",
+   "term": "end"
+  }
+ ]
+}

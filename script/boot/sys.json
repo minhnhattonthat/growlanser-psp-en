@@ -1,0 +1,1187 @@
+{
+ "file": "BOOT.BIN",
+ "form": "table",
+ "table": "0x133068",
+ "base": "0x13218C",
+ "fill": 1,
+ "refs": "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 17 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 100 111 112 100 113 100 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 63 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194",
+ "entries": [
+  {
+   "id": "boot.sys.0000",
+   "jp": "　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0001",
+   "jp": "？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0002",
+   "jp": "。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0003",
+   "jp": "、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0004",
+   "jp": "　　‥‥",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0005",
+   "jp": "・はい",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0006",
+   "jp": "・いいえ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0007",
+   "jp": "攻撃方法",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0008",
+   "jp": "魔法制限",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0009",
+   "jp": "優先魔法",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0010",
+   "jp": "アイテム",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0011",
+   "jp": "確実に",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0012",
+   "jp": "騎士道精神",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0013",
+   "jp": "回避重視",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0014",
+   "jp": "全力",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0015",
+   "jp": "普通",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0016",
+   "jp": "控えめ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0017",
+   "jp": "使用禁止",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0018",
+   "jp": "攻撃優先",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0019",
+   "jp": "援護優先",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0020",
+   "jp": "回復優先",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0021",
+   "jp": "制限無し",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0022",
+   "jp": "回復のみ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0023",
+   "jp": "すべて装備中です。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0024",
+   "jp": "未使用",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0025",
+   "jp": "破損データ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0026",
+   "jp": "セーブデータがありません。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0027",
+   "jp": "２ブロック以上の空きがありません",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0028",
+   "jp": "接続されていません。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0029",
+   "jp": "初期化されていません。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0030",
+   "jp": "接続されました。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0031",
+   "jp": "調べています。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0032",
+   "jp": "しばらくお待ちください。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0033",
+   "jp": "います。しばらくお待ちください。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0034",
+   "jp": "セーブしています。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0035",
+   "jp": "ロードしています。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0036",
+   "jp": "セーブに失敗しました。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0037",
+   "jp": "ロードに失敗しました。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0038",
+   "jp": "破損データはロードできません。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0039",
+   "jp": "セーブデータを上書きします。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0040",
+   "jp": "セーブデータを作成します。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0041",
+   "jp": "セーブデータをロードします。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0042",
+   "jp": "よろしいですか？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0043",
+   "jp": "差込口１のメモリーカードが初期化",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0044",
+   "jp": "されていません。初期化しますか？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0045",
+   "jp": "メモリーカードを初期化中です。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0046",
+   "jp": "初期化に失敗しました。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0047",
+   "jp": "セーブを終了しました。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0048",
+   "jp": "ロードを終了しました。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0049",
+   "jp": "初期化を終了しました。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0050",
+   "jp": "現在使える魔法がありません。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0051",
+   "jp": "魔法もスキルもおぼえていません。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0052",
+   "jp": "なにも持っていません。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0053",
+   "jp": "装備中です",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0054",
+   "jp": "ここでよろしいですか？{n}　・はい{n}　・いいえ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0055",
+   "jp": "魔法の詠唱が終わりました。{n}発動しますか？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0056",
+   "jp": "これでよろしいですか？{n}　・はい{n}　・いいえ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0057",
+   "jp": "！",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0058",
+   "jp": "{FFEA}の発動",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0059",
+   "jp": "{FFEA}の詠唱",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0060",
+   "jp": "{FFE8}の使用",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0061",
+   "jp": "{FFE8}の装着",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0062",
+   "jp": "魔法",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0063",
+   "jp": "道具",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0064",
+   "jp": "装備",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0065",
+   "jp": "ステータス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0066",
+   "jp": "戦略",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0067",
+   "jp": "システム",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0068",
+   "jp": "テレポートの目的地を指定してください。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0069",
+   "jp": "名前の入力　かなカナ英字消去決定",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0070",
+   "jp": "あいうえおがぎぐげご",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0071",
+   "jp": "かきくけこざじずぜぞ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0072",
+   "jp": "さしすせそだぢづでど",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0073",
+   "jp": "たちつてとばびぶべぼ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0074",
+   "jp": "なにぬねのぱぴぷぺぽ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0075",
+   "jp": "はひふへほ　っゃゅょ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0076",
+   "jp": "まみむめもぁぃぅぇぉ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0077",
+   "jp": "やゐゆゑよー゛゜　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0078",
+   "jp": "らりるれろ、。・　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0079",
+   "jp": "わ　を　ん　　　　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0080",
+   "jp": "アイウエオガギグゲゴ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0081",
+   "jp": "カキクケコザジズゼゾ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0082",
+   "jp": "サシスセソダヂヅデド",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0083",
+   "jp": "タチツテトバビブベボ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0084",
+   "jp": "ナニヌネノパピプペポ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0085",
+   "jp": "ハヒフヘホヴッャュョ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0086",
+   "jp": "マミムメモァィゥェォ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0087",
+   "jp": "ヤヰユヱヨー゛゜　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0088",
+   "jp": "ラリルレロ、。・　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0089",
+   "jp": "ワ　ヲ　ン　　　　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0090",
+   "jp": "ＡＢＣＤＥＦＧＨＩＪ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0091",
+   "jp": "ＫＬＭＮＯＰＱＲＳＴ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0092",
+   "jp": "ＵＶＷＸＹＺ　　　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0093",
+   "jp": "ａｂｃｄｅｆｇｈｉｊ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0094",
+   "jp": "ｋｌｍｎｏｐｑｒｓｔ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0095",
+   "jp": "ｕｖｗｘｙｚ　　　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0096",
+   "jp": "０１２３４５６７８９",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0097",
+   "jp": "＋－％＆！？♪～（）",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0098",
+   "jp": "．，：；‘’／＼￣＿",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0099",
+   "jp": "＾ゝ＜＞≦≧＠　　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0100",
+   "jp": "これでよろしいですか？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0101",
+   "jp": "この名前は使用できません。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0102",
+   "jp": "　　　　　　　　　{FFEE}成長率表示{FFF1}{n}{s:0000}の成長度合いを示したグラフです。{n}外側に近いパラメータほど、より高く成長します。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0103",
+   "jp": "ＨＰ倍率{n}ＭＰ倍率{n}　体力{n}　知力{n}移動力{n}防御力{n}攻撃力",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0104",
+   "jp": "いくつ買いたいんだい？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0105",
+   "jp": "おいくつお売りしましょうか？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0106",
+   "jp": "いくつ欲しいんだ？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0107",
+   "jp": "いくつ欲しいのかのぅ？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0108",
+   "jp": "おいくつお買い求めになられますか？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0109",
+   "jp": "それで、いくつ欲しいの？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0110",
+   "jp": "これでいいかい？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0111",
+   "jp": "これでいいな？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0112",
+   "jp": "これでよいかのぅ？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0113",
+   "jp": "これで構わないかしら？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0114",
+   "jp": "またおいで～。待ってるよ～。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0115",
+   "jp": "またどうぞ、お越しください。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0116",
+   "jp": "じゃあな。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0117",
+   "jp": "また来ておくれ。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0118",
+   "jp": "ありがとうございました！{n}またどうぞ、お越しください。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0119",
+   "jp": "また来てよね。{n}素敵な笑顔で待ってるから。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0120",
+   "jp": "これからもスキマ屋をよろしくね。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0121",
+   "jp": "サウンド{n}ＢＧＭ{n}効果音{n}メニュー音声{n}メッセージ音声{n}メッセージ速度{n}コマンド説明表示{n}戦闘時範囲確認{n}ティピの可能性",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0122",
+   "jp": "ＯＮ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0123",
+   "jp": "ＯＦＦ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0124",
+   "jp": "ステレオ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0125",
+   "jp": "モノラル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0126",
+   "jp": "高速",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0127",
+   "jp": "通常",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0128",
+   "jp": "ノーマルティピ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0129",
+   "jp": "顔面肥大化",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0130",
+   "jp": "ロケッティピ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0131",
+   "jp": "ティピキーック！",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0132",
+   "jp": "ねこみみティピ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0133",
+   "jp": "矢印",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0134",
+   "jp": "長ティピ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0135",
+   "jp": "踊る！ティピ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0136",
+   "jp": "未知数",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0137",
+   "jp": "を入手！",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0138",
+   "jp": "）",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0139",
+   "jp": "－",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0140",
+   "jp": "今は使えません。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0141",
+   "jp": "つかう",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0142",
+   "jp": "装備する",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0143",
+   "jp": "移動する",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0144",
+   "jp": "送る",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0145",
+   "jp": "はずす",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0146",
+   "jp": "自分以外はオート",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0147",
+   "jp": "隊列変更",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0148",
+   "jp": "セーブ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0149",
+   "jp": "ロード",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0150",
+   "jp": "コンフィグ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0151",
+   "jp": "アイテム整理",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0152",
+   "jp": "中身",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0153",
+   "jp": "区分",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0154",
+   "jp": "ユーザーズ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0155",
+   "jp": "アクセサリー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0156",
+   "jp": "防具",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0157",
+   "jp": "武器",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0158",
+   "jp": "移動",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0159",
+   "jp": "名前順",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0160",
+   "jp": "ＡＴ／ＤＦ順",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0161",
+   "jp": "数量順",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0162",
+   "jp": "マップ確認",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0163",
+   "jp": "戦闘再開",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0164",
+   "jp": "攻撃",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0165",
+   "jp": "護衛",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0166",
+   "jp": "自動",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0167",
+   "jp": "防御",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0168",
+   "jp": "使用",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0169",
+   "jp": "購入＆装備",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0170",
+   "jp": "購入する",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0171",
+   "jp": "やめる",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0172",
+   "jp": "売る",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0173",
+   "jp": "数量変更",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0174",
+   "jp": "ＤＩＳＣ　１に交換してください",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0175",
+   "jp": "ＤＩＳＣ　２に交換してください",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0176",
+   "jp": "チェック中です",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0177",
+   "jp": "チェックを終了しました",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0178",
+   "jp": "ＤＩＳＣが違います",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0179",
+   "jp": "{FFE8}を外す",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0180",
+   "jp": "差込口１のメモリーカードに",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0181",
+   "jp": "差込口１にメモリーカードが",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0182",
+   "jp": "差込口１のメモリーカードが",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0183",
+   "jp": "差込口１のメモリーカードを",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0184",
+   "jp": "差込口１のメモリーカードを調べて",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0185",
+   "jp": "脱出しますか？{n}　・はい{n}　・いいえ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0186",
+   "jp": "ＧＬカード{FFEB}をＧＥＴ！",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0187",
+   "jp": "ＧＬカード{FFEB}のダブり[01BE]",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0188",
+   "jp": "少し男前になった！！",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0189",
+   "jp": "％",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0190",
+   "jp": "メモリーカードのチェックに",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0191",
+   "jp": "失敗しました。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0192",
+   "jp": "ルイセの武器が大天使カードに成長した！",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0193",
+   "jp": "ルイセの武器がプリンセスカードに成長した！",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0194",
+   "jp": "ウォレスの武器がメタルヴァジュラに成長した！",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.sys.0195",
+   "jp": "テスト４",
+   "en": "",
+   "term": "null",
+   "unref": true
+  }
+ ]
+}

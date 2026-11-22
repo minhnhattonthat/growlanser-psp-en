@@ -1,0 +1,1546 @@
+{
+ "file": "BOOT.BIN",
+ "form": "table",
+ "table": "0x12D640",
+ "base": "0x12C4A4",
+ "fill": 0,
+ "refs": "0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255",
+ "entries": [
+  {
+   "id": "boot.dict.0000",
+   "jp": "じゃがいもを薄くスライスし、あぶらであげたお菓子。{n}袋に入れられて売られており、オマケのカードが{n}付いてくる。　　　　　　　　ＨＰ回復、３０～３７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0001",
+   "jp": "妖精たちが月夜のダンスで使っていた、魔法仕掛けの{n}自動演奏楽器。様々な曲を聞くことができると{n}いわれるが、使い方がわかっていない。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0002",
+   "jp": "ローランディア王都の西にある岬で、{n}シエラという女性から預かった不思議な指輪。{n}強い魔力を秘めている。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0003",
+   "jp": "盲目の剣士、ウォレスのために、サンドラが作った{n}魔法装置。ゴーグルのように取り付けるだけで、{n}物体のシルエット程度なら認識できるという。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0004",
+   "jp": "ローランディアの宮廷魔術師、サンドラが記した{n}研究書。グローシュと魔水晶との関係について行った、{n}実験結果が記されている。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0005",
+   "jp": "魔法学院の南にあるフェザリアン遺跡への、{n}進入許可証。{n}管理元である、魔法学院で発行される。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0006",
+   "jp": "グランシルで行われる闘技大会の、{n}フレッシュマン部門の優勝賞品。これを魔法学院へ{n}持っていけば、通行許可証を発行してくれる。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0007",
+   "jp": "ランザックへの商業用許可証。{n}この許可証があれば、ガラシールズ市内で行商を{n}行うことができる。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0008",
+   "jp": "ランザック政府が発行した、同国内への通行許可証。{n}ランザック政府へ向かう、ローランディアの使者に{n}与えられる。ランザック王都まで通行可能。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0009",
+   "jp": "水晶鉱山を管理している魔法学院が認めた{n}立入調査の許可証。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0010",
+   "jp": "バーンシュタイン王国北部を治めるダグラス卿の{n}領地を通行することが出来る許可証。{n}オリビエ湖の東側の関所を通過するときに使う。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0011",
+   "jp": "また方向キーの左右でキャラクターの変更ができます。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0012",
+   "jp": "同効果の魔法が使える場合、魔法を優先します。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0013",
+   "jp": "メニューが表示されます。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0014",
+   "jp": "は再生されません。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0015",
+   "jp": "設定するコマンド。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0016",
+   "jp": "コマンド決定後、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0017",
+   "jp": "ＯＦＦを選ぶと、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0018",
+   "jp": "優先させます。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0019",
+   "jp": "『ＡＵＴＯ』",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0020",
+   "jp": "ボリューム",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0021",
+   "jp": "パーティー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0022",
+   "jp": "コマンド",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0023",
+   "jp": "アイテム",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0024",
+   "jp": "します。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0025",
+   "jp": "ポイント",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0026",
+   "jp": "振り分け",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0027",
+   "jp": "ます。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0028",
+   "jp": "スキル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0029",
+   "jp": "無限の可能性を秘めたホムンクルス、ティピの新たな{n}力を開発する魔法のコイン。コインの表にはティピの{n}顔が、裏には",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0030",
+   "jp": "体内に液体を注入するために作られた医療器具を、{n}巨大化したもの。液体の種類によって、様々な効果が{n}ある。　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0031",
+   "jp": "属性をもつあらゆる攻撃から{n}護られるよう、最大限の加護が約束されているという。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0032",
+   "jp": "魔法を瓶詰めした物。投げつけて割ることで、{n}魔法を解放し、対象を",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0033",
+   "jp": "魔法を無効化できる。{n}ただし、他の魔法粉末との併用はできない。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0034",
+   "jp": "力を中和する魔法粉末。身体にかけることで、{n}しばらくの間、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0035",
+   "jp": "ガムランの部下を倒したときに手に入れた牢の鍵。{n}表面に『",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0036",
+   "jp": "が描かれたミスリル銀製のカード。{n}触媒として使",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0037",
+   "jp": "のランクを上昇（未修得者はランク１取得）",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0038",
+   "jp": "高める秘伝の法を、知ることができる。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0039",
+   "jp": "爆薬。ガスを発生させることはないが、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0040",
+   "jp": "という文字が浮き彫りになっている。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0041",
+   "jp": "を修得可能（修得開始状態になる）",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0042",
+   "jp": "攻撃・使い慣れるほどＡＴ上昇",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0043",
+   "jp": "クレイン村の村長、ゼメキスの",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0044",
+   "jp": "』という文字が刻まれている。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0045",
+   "jp": "がこの世界にもたらした、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0046",
+   "jp": "・ＡＴは強さとＬＶに比例",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0047",
+   "jp": "の深い知識が得られる。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0048",
+   "jp": "約束されているという。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0049",
+   "jp": "仕組みが記された巻物。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0050",
+   "jp": "が効かない身体作りを、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0051",
+   "jp": "の効果と、その解毒方法",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0052",
+   "jp": "知ることができる。{n}",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0053",
+   "jp": "爆薬で、破裂と同時に",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0054",
+   "jp": "おがくずに染み込ませ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0055",
+   "jp": "粉末。身体にかける{n}",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0056",
+   "jp": "から護られるよう、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0057",
+   "jp": "力を具現化できる",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0058",
+   "jp": "アルカディウス王",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0059",
+   "jp": "バーンシュタイン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0060",
+   "jp": "戦いの気配を感じ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0061",
+   "jp": "記された巻物。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0062",
+   "jp": "クリティカル＋",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0063",
+   "jp": "最大限の加護が",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0064",
+   "jp": "しばらくの間、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0065",
+   "jp": "せた投擲武器。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0066",
+   "jp": "のテレパシーを",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0067",
+   "jp": "ダグラス卿が、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0068",
+   "jp": "に宛てた手紙。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0069",
+   "jp": "われているが、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0070",
+   "jp": "消費ＭＰ３／４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0071",
+   "jp": "をわずかながら",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0072",
+   "jp": "これを持ってい",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0073",
+   "jp": "その代償として",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0074",
+   "jp": "ジャケット。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0075",
+   "jp": "グローシアン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0076",
+   "jp": "キルティング",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0077",
+   "jp": "レザースーツ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0078",
+   "jp": "フェザリアン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0079",
+   "jp": "グローシュ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0080",
+   "jp": "ミスリル銀",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0081",
+   "jp": "といわれる",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0082",
+   "jp": "だけでなく",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0083",
+   "jp": "魔威力１５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0084",
+   "jp": "てしまう。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0085",
+   "jp": "魔威力１０",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0086",
+   "jp": "ているため",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0087",
+   "jp": "と呼ばれる",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0088",
+   "jp": "ランザック",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0089",
+   "jp": "身につけた",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0090",
+   "jp": "カウンター",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0091",
+   "jp": "ジャケット",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0092",
+   "jp": "並はずれた",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0093",
+   "jp": "の構造と、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0094",
+   "jp": "ている。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0095",
+   "jp": "作られた",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0096",
+   "jp": "％・射程",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0097",
+   "jp": "といわれ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0098",
+   "jp": "　　　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0099",
+   "jp": "とされる",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0100",
+   "jp": "防御効果",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0101",
+   "jp": "魔力付加",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0102",
+   "jp": "取り付け",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0103",
+   "jp": "あらゆる",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0104",
+   "jp": "命中率－",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0105",
+   "jp": "・範囲Ｂ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0106",
+   "jp": "について",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0107",
+   "jp": "ローブ。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0108",
+   "jp": "組み合わ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0109",
+   "jp": "できない",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0110",
+   "jp": "・範囲Ａ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0111",
+   "jp": "魔法詠唱",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0112",
+   "jp": "たもの。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0113",
+   "jp": "ドレス。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0114",
+   "jp": "爆発力を",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0115",
+   "jp": "支配時代",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0116",
+   "jp": "そのため",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0117",
+   "jp": "によって",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0118",
+   "jp": "神秘的な",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0119",
+   "jp": "引き出す",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0120",
+   "jp": "ダメージ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0121",
+   "jp": "という",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0122",
+   "jp": "できる",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0123",
+   "jp": "として",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0124",
+   "jp": "された",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0125",
+   "jp": "魔法の",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0126",
+   "jp": "の精霊",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0127",
+   "jp": "られる",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0128",
+   "jp": "ており",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0129",
+   "jp": "魔威力",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0130",
+   "jp": "を持つ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0131",
+   "jp": "には、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0132",
+   "jp": "られた",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0133",
+   "jp": "れば、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0134",
+   "jp": "される",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0135",
+   "jp": "である",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0136",
+   "jp": "美しい",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0137",
+   "jp": "魔法を",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0138",
+   "jp": "魔力を",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0139",
+   "jp": "させる",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0140",
+   "jp": "作った",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0141",
+   "jp": "魔術師",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0142",
+   "jp": "非常に",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0143",
+   "jp": "をもつ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0144",
+   "jp": "お守り",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0145",
+   "jp": "高める",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0146",
+   "jp": "伝説の",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0147",
+   "jp": "宝石。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0148",
+   "jp": "　　　",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0149",
+   "jp": "優れた",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0150",
+   "jp": "与える",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0151",
+   "jp": "たちが",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0152",
+   "jp": "ている",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0153",
+   "jp": "ていた",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0154",
+   "jp": "を放つ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0155",
+   "jp": "破壊力",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0156",
+   "jp": "着用者",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0157",
+   "jp": "対して",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0158",
+   "jp": "まとっ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0159",
+   "jp": "かれた",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0160",
+   "jp": "作り出",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0161",
+   "jp": "なった",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0162",
+   "jp": "防御力",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0163",
+   "jp": "魔法に",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0164",
+   "jp": "切れ味",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0165",
+   "jp": "神聖な",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0166",
+   "jp": "多くの",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0167",
+   "jp": "無効化",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0168",
+   "jp": "回避率",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0169",
+   "jp": "厚手の",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0170",
+   "jp": "リンゴ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0171",
+   "jp": "細身剣",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0172",
+   "jp": "素早い",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0173",
+   "jp": "ただし",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0174",
+   "jp": "になる",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0175",
+   "jp": "やすく",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0176",
+   "jp": "では、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0177",
+   "jp": "して、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0178",
+   "jp": "行える",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0179",
+   "jp": "作られ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0180",
+   "jp": "持つ者",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0181",
+   "jp": "生み出",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0182",
+   "jp": "高位の",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0183",
+   "jp": "の杖。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0184",
+   "jp": "と伝え",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0185",
+   "jp": "乙女が",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0186",
+   "jp": "。{n}",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0187",
+   "jp": "こと",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0188",
+   "jp": "した",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0189",
+   "jp": "する",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0190",
+   "jp": "が、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0191",
+   "jp": "その",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0192",
+   "jp": "、{n}",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0193",
+   "jp": "で、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0194",
+   "jp": "力を",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0195",
+   "jp": "攻撃",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0196",
+   "jp": "ある",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0197",
+   "jp": "ため",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0198",
+   "jp": "は、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0199",
+   "jp": "から",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0200",
+   "jp": "よう",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0201",
+   "jp": "に{n}",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0202",
+   "jp": "を{n}",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0203",
+   "jp": "の{n}",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0204",
+   "jp": "る。",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0205",
+   "jp": "いた",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0206",
+   "jp": "して",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0207",
+   "jp": "った",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0208",
+   "jp": "この",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0209",
+   "jp": "魔法",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0210",
+   "jp": "使用",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0211",
+   "jp": "時の",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0212",
+   "jp": "って",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0213",
+   "jp": "相手",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0214",
+   "jp": "され",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0215",
+   "jp": "に、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0216",
+   "jp": "ない",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0217",
+   "jp": "高い",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0218",
+   "jp": "属性",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0219",
+   "jp": "製の",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0220",
+   "jp": "り、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0221",
+   "jp": "ほど",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0222",
+   "jp": "ける",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0223",
+   "jp": "より",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0224",
+   "jp": "刀身",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0225",
+   "jp": "金属",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0226",
+   "jp": "効果",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0227",
+   "jp": "を、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0228",
+   "jp": "もの",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0229",
+   "jp": "た、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0230",
+   "jp": "％・",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0231",
+   "jp": "強い",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0232",
+   "jp": "力が",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0233",
+   "jp": "武器",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0234",
+   "jp": "者の",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0235",
+   "jp": "なる",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0236",
+   "jp": "られ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0237",
+   "jp": "んだ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0238",
+   "jp": "と、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0239",
+   "jp": "く、",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0240",
+   "jp": "りの",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0241",
+   "jp": "用い",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0242",
+   "jp": "中和",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0243",
+   "jp": "方法",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0244",
+   "jp": "回復",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0245",
+   "jp": "威力",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0246",
+   "jp": "詠唱",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0247",
+   "jp": "では",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0248",
+   "jp": "われ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0249",
+   "jp": "精神",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0250",
+   "jp": "手に",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0251",
+   "jp": "が{n}",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0252",
+   "jp": "大地",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0253",
+   "jp": "魔力",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0254",
+   "jp": "装置",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.dict.0255",
+   "jp": "持つ",
+   "en": "",
+   "term": "null"
+  }
+ ]
+}

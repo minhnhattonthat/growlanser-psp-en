@@ -1,0 +1,80 @@
+{
+ "file": "SCEN.DAT",
+ "form": "section",
+ "entry": 662,
+ "at": "0x630",
+ "pad": 1,
+ "refs": "0 1 2 7 8 9 9 10",
+ "entries": [
+  {
+   "id": "scen282.0000",
+   "jp": "",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "scen282.0001",
+   "jp": "{FFEE}アメリアを守りつつモンスターを倒せ！{FFF1}",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen282.0002",
+   "jp": "アメリアにどう指示しますか？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen282.0003",
+   "jp": "・攻撃目標を指定",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen282.0004",
+   "jp": "・自由に戦ってもらう",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen282.0005",
+   "jp": "・その場で待機",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen282.0006",
+   "jp": "・付いて来い",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen282.0007",
+   "jp": "こいつね？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen282.0008",
+   "jp": "{FFF6}わかったわ！",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen282.0009",
+   "jp": "わかったわ！",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen282.0010",
+   "jp": "ご‥ごめんなさい‥‥。",
+   "en": "",
+   "term": "end"
+  }
+ ]
+}

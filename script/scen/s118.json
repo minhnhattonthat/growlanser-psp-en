@@ -1,0 +1,22 @@
+{
+ "file": "SCEN.DAT",
+ "form": "section",
+ "entry": 498,
+ "at": "0x504",
+ "pad": 1,
+ "refs": "0 1",
+ "entries": [
+  {
+   "id": "scen118.0000",
+   "jp": "",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "scen118.0001",
+   "jp": "　{n}　　　　１２５００エルムを手に入れた！",
+   "en": "",
+   "term": "end"
+  }
+ ]
+}

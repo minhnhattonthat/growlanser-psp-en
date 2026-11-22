@@ -24,7 +24,7 @@ facts below say how; anything marked (guess) is not yet checked.
 ## Encoding (verified: SCEN.DAT decoded with the PS1 table reads as natural Japanese, scene 380 = PS1 scene 280)
 - Same as PS1: u16 LE words, < 0xF000 = glyph index; FFFE end, FFFF empty/name, FFFC {n}, FFFD {p}; F600 {s:}, F700,
   F800 {v:} take one argument word; F4xx = dictionary; other Fxxx = command + parameter byte. Codec `tools/gltext.py`
-  (copied from the PS1 repo), PS1 table `tbl/psx_jp.tbl`.
+  (copied from the PS1 repo), table `tbl/jp.tbl` (PS1 table + PSP glyphs 0x7CB-0x835, phase 4).
 - Font: **BOOT.BIN 0x1230D8** (vaddr 0x123018, RAM 0x08927018; pointer to it kept at RAM 0x08CDE890), 12x12 1bpp,
   18 bytes/glyph, **0x836 glyphs** (ends exactly where the dict pool starts). Glyphs 0x000-0x7CA are the PS1 font
   (PS1 glyph bytes found at the same index offsets); **0x7CB-0x835 are new** (kanji used by PSP-only text: 90 unknown
@@ -78,3 +78,17 @@ each **pool first and its table right after it**; together they tile **BOOT.BIN 
 - MAP.DAT: 30 kana-like runs, checked (session 3): tile data (ざぶぷェ複..., こここ...), no font text. UPD.UPD: 1 hit
   (noise; the file is compressed).
 - GLB.DAT kana-like hits are image data (checked a sample: decodes as noise).
+
+## Script files (phase 4, verified: `tools/extract.py --check` rebuilds every pool byte-identical; tests/test_extract.py)
+`python -X utf8 tools/extract.py` writes script/*.json (never overwrites; `--force` only files with no English):
+- `scen/sNNN.json` (309 files, N = SCEN entry - 380), `msys/{items,magic,skills}.json`: form "section" (entry, at, pad,
+  refs = one "i" or "i+delta" per offset slot in slot order).
+- `boot/<table>.json` (dict, places, help, items, skills, magic, classes, units, names, sys): form "table" (table, base,
+  fill = zero words between pool and table, refs). The skills table holds 0x66 words (getter bound 0x64).
+- `boot/save.json` (17 UTF-8/SJIS save-utility strings + the SJIS save title), `boot/kbd.json` (30 name-entry rows):
+  form "cstr", in place: at, size (slot incl. NUL fill), enc. The English save-library messages at 0x119190-0x119250
+  (same set, other PSP system language) can be copied. Debug printf (0x1172E4), full-width digits 0x1177A0 and the
+  other-game title 0x118C34 are left out.
+- Entry: id, jp (terminator excluded), en, term (end = FFFE, null = FFFF), unref (no pointer). 36,283 strings, 4,523
+  unref. Unmapped glyphs only the PS1 ones (icons, flourish 01BE, blanks) and 07ED (true 哮; 04C2 = PS1 哮).
+- 28,401 of 35,972 non-empty PSP jp strings equal a translated PS1 jp string exactly (scen 26,670/33,777).

@@ -1,0 +1,22 @@
+{
+ "file": "SCEN.DAT",
+ "form": "section",
+ "entry": 667,
+ "at": "0x184",
+ "pad": 1,
+ "refs": "0 1",
+ "entries": [
+  {
+   "id": "scen287.0000",
+   "jp": "",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "scen287.0001",
+   "jp": "{FFEE}ガーディアンを倒せ{FFF1}",
+   "en": "",
+   "term": "end"
+  }
+ ]
+}

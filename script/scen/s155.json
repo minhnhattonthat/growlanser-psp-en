@@ -1,0 +1,1785 @@
+{
+ "file": "SCEN.DAT",
+ "form": "section",
+ "entry": 535,
+ "at": "0x2214",
+ "pad": 1,
+ "refs": "0 1 2 3 4 8 9 10 11 15 16 17 24 31 37 38 39 38 40 41 38 40 42 38 43 44 38 43 45 38 46 47 48 49 52 53 70 71 74 75 88 102 103 104 105 106 107 108 109 110 113 114 115 116 117 118 122 123 124 125 126 130 141 152 164 165 166 167 168 169 170 171 172 173 174 126 130 141 152 118 175 176 177 178 179 180 126 130 141 152 181 126 130 141 152 164 186 187 188 189 190 191 192 126 130 193 152 196 201 152 202 207 208 209 222 226 152 234 247 252",
+ "entries": [
+  {
+   "id": "scen155.0000",
+   "jp": "",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "scen155.0001",
+   "jp": "文官",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "scen155.0002",
+   "jp": "休暇デバッグ",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0003",
+   "jp": "文官に話しかけると、デバッグ開始。{n}ここではセーブできます。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0004",
+   "jp": "今回の休暇日数を設定して下さい。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0005",
+   "jp": "・３日",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0006",
+   "jp": "・２日",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0007",
+   "jp": "・１日",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0008",
+   "jp": "{v:0003}今回の働きに対して与えられる休暇は３日だ。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0009",
+   "jp": "{v:0002}今回の働きに対して与えられる休暇は２日だ。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0010",
+   "jp": "{v:0001}今回の働きに対して与えられる休暇は１日だ。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0011",
+   "jp": "今回の休暇が終わっても、デバッグを継続しますか？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0012",
+   "jp": "・休暇デバッグを次回も行う",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0013",
+   "jp": "・今回の休暇後、通常ＲＰＧモードへ",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0014",
+   "jp": "・建国祭へ",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0015",
+   "jp": "休暇終了後、新しい任務の説明を受けますが、{n}任務を受けた後は、まず自宅に戻り、{n}{FFEE}完全イベントチェック{FFF1}を実行して下さい。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0016",
+   "jp": "{v:0009}今日はどこへ行く？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0017",
+   "jp": "今日はどこで休暇を過ごしますか？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0018",
+   "jp": "・王都ローザリア",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0019",
+   "jp": "・保養地ラシェル",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0020",
+   "jp": "・魔法学院",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0021",
+   "jp": "・観光地コムスプリングス",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0022",
+   "jp": "・{s:0010}",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0023",
+   "jp": "・ジュリアン軍本陣（クレイン村）",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0024",
+   "jp": "今日はどこで休暇を過ごしますか？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0025",
+   "jp": "・王都ローザリア",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0026",
+   "jp": "・保養地ラシェル",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0027",
+   "jp": "・魔法学院",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0028",
+   "jp": "・観光地コムスプリングス",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0029",
+   "jp": "・{s:0010}",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0030",
+   "jp": "・エリオット戴冠記念パーティー",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0031",
+   "jp": "今日はどこで休暇を過ごしますか？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0032",
+   "jp": "・王都ローザリア",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0033",
+   "jp": "・保養地ラシェル",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0034",
+   "jp": "・魔法学院",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0035",
+   "jp": "・観光地コムスプリングス",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0036",
+   "jp": "・{s:0010}",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0037",
+   "jp": "ミーシャをパーティーに加える？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0038",
+   "jp": "これ以上は無理です。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0039",
+   "jp": "アリオストをパーティーに加える？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0040",
+   "jp": "仲間にできるのは休暇３からです。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0041",
+   "jp": "カレンをパーティーに加える？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0042",
+   "jp": "エリオットをパーティーに加える？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0043",
+   "jp": "仲間にできるのは休暇１２からです。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0044",
+   "jp": "ジュリアンをパーティーに加える？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0045",
+   "jp": "ゼノスをパーティーに加える？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0046",
+   "jp": "仲間にできるのは休暇１１からです。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0047",
+   "jp": "デバッグ用のファイルなので、外はありません。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0048",
+   "jp": "パーティを解除しますか？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0049",
+   "jp": "パーティーメンバーを変更しますか？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0050",
+   "jp": "・いいえ",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0051",
+   "jp": "・はい",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0052",
+   "jp": "現在のメンバーのまま休暇を行います。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0053",
+   "jp": "パーティーにいるＦＣの組み合わせは？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0054",
+   "jp": "・ミーシャ　＆　アリオスト",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0055",
+   "jp": "・ミーシャ　＆　カレン",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0056",
+   "jp": "・ミーシャ　＆　ゼノス",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0057",
+   "jp": "・ミーシャ　＆　エリオット",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0058",
+   "jp": "・ミーシャ　＆　ジュリアン",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0059",
+   "jp": "・アリオスト　＆　カレン",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0060",
+   "jp": "・アリオスト　＆　ゼノス",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0061",
+   "jp": "・アリオスト　＆　エリオット",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0062",
+   "jp": "・アリオスト　＆　ジュリアン",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0063",
+   "jp": "・カレン　＆　ゼノス",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0064",
+   "jp": "・カレン　＆　エリオット",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0065",
+   "jp": "・カレン　＆　ジュリアン",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0066",
+   "jp": "・ゼノス　＆　エリオット",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0067",
+   "jp": "・ゼノス　＆　ジュリアン",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0068",
+   "jp": "・エリオット　＆　ジュリアン",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0069",
+   "jp": "・なし",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0070",
+   "jp": "パーティーの変更が出来るのは{n}休暇４からです。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0071",
+   "jp": "今までに過ごした休暇は{FFEB}回だ。{n}変更するか？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0072",
+   "jp": "・いいえ",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0073",
+   "jp": "・はい",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0074",
+   "jp": "このままで続ける。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0075",
+   "jp": "次は休暇いくつにする？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0076",
+   "jp": "・休暇１",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0077",
+   "jp": "・休暇２",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0078",
+   "jp": "・休暇３",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0079",
+   "jp": "・休暇４",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0080",
+   "jp": "・休暇５",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0081",
+   "jp": "・休暇６",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0082",
+   "jp": "・休暇７",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0083",
+   "jp": "・休暇８",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0084",
+   "jp": "・休暇９",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0085",
+   "jp": "・休暇１０",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0086",
+   "jp": "・休暇１１",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0087",
+   "jp": "・休暇１２",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0088",
+   "jp": "誰のフラグを変えますか？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0089",
+   "jp": "・主人公",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0090",
+   "jp": "・俺街",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0091",
+   "jp": "・ルイセ",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0092",
+   "jp": "・ウォレス",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0093",
+   "jp": "・ミーシャ",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0094",
+   "jp": "・アリオスト",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0095",
+   "jp": "・カレン",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0096",
+   "jp": "・エリオット",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0097",
+   "jp": "・ジュリアン",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0098",
+   "jp": "・ゼノス",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0099",
+   "jp": "・アメリア",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0100",
+   "jp": "・メルフィ",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0101",
+   "jp": "・全員",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0102",
+   "jp": "俺街開発",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0103",
+   "jp": "劇場",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0104",
+   "jp": "ジョニー・カルテット",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0105",
+   "jp": "歌姫バーバラ",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0106",
+   "jp": "劇団三国大陸",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0107",
+   "jp": "展示場",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0108",
+   "jp": "造形家",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0109",
+   "jp": "画家",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0110",
+   "jp": "絵画展と造形展、どちらを開催？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0111",
+   "jp": "・絵画展",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0112",
+   "jp": "・造形展",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0113",
+   "jp": "レストラン",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0114",
+   "jp": "和食レストラン",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0115",
+   "jp": "高級レストラン",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0116",
+   "jp": "ボート",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0117",
+   "jp": "ダンジョンマンいる？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0118",
+   "jp": "特殊イベント設定",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0119",
+   "jp": "個別で決める",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0120",
+   "jp": "全部見たことにする",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0121",
+   "jp": "設定しない",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0122",
+   "jp": "クッキーづくりを見た",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0123",
+   "jp": "かくれんぼを見た",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0124",
+   "jp": "キャッチボールを見た",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0125",
+   "jp": "ドレスの話を聞いた",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0126",
+   "jp": "回数会話の設定",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0127",
+   "jp": "１～１０回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0128",
+   "jp": "１１回目～２０回",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0129",
+   "jp": "設定しない",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0130",
+   "jp": "どの回数にする？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0131",
+   "jp": "１回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0132",
+   "jp": "２回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0133",
+   "jp": "３回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0134",
+   "jp": "４回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0135",
+   "jp": "５回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0136",
+   "jp": "６回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0137",
+   "jp": "７回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0138",
+   "jp": "８回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0139",
+   "jp": "９回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0140",
+   "jp": "１０回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0141",
+   "jp": "どの回数にする？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0142",
+   "jp": "１１回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0143",
+   "jp": "１２回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0144",
+   "jp": "１３回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0145",
+   "jp": "１４回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0146",
+   "jp": "１５回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0147",
+   "jp": "１６回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0148",
+   "jp": "１７回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0149",
+   "jp": "１８回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0150",
+   "jp": "１９回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0151",
+   "jp": "２０回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0152",
+   "jp": "友好度はいくつに設定する？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0153",
+   "jp": "・このまま",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0154",
+   "jp": "・１００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0155",
+   "jp": "・２００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0156",
+   "jp": "・３００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0157",
+   "jp": "・４００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0158",
+   "jp": "・５００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0159",
+   "jp": "・６００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0160",
+   "jp": "・７００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0161",
+   "jp": "・８００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0162",
+   "jp": "・９００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0163",
+   "jp": "・１０００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0164",
+   "jp": "特殊イベント見たい？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0165",
+   "jp": "最初の休暇を見た？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0166",
+   "jp": "傭兵部隊の話を見た？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0167",
+   "jp": "宝石の話を見た？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0168",
+   "jp": "信条の話を見た？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0169",
+   "jp": "兄妹の話を見た？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0170",
+   "jp": "隊長の話を見た？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0171",
+   "jp": "母娘の話を聞いた？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0172",
+   "jp": "仲間の話を見た？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0173",
+   "jp": "戦いの話を見た？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0174",
+   "jp": "誇りの話を見た？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0175",
+   "jp": "ミーシャの学校生活１を見た",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0176",
+   "jp": "ミーシャのケーキを見た",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0177",
+   "jp": "ミーシャの学校生活２を見た",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0178",
+   "jp": "ミーシャをなぐさめた",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0179",
+   "jp": "セーター編み始めた？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0180",
+   "jp": "セーター編んでる？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0181",
+   "jp": "どのイベントを見る？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0182",
+   "jp": "研究室調べる関係の条件が同じ４つのイベント",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0183",
+   "jp": "秘密ノート",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0184",
+   "jp": "ライバル宣言",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0185",
+   "jp": "特に見たくない",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0186",
+   "jp": "重態カレンを見た？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0187",
+   "jp": "入院カレンを見舞った？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0188",
+   "jp": "意中の人の話を聞いた？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0189",
+   "jp": "ゼノスの絵を見た？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0190",
+   "jp": "カレン転んだ？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0191",
+   "jp": "カレン助けた？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0192",
+   "jp": "カレンにお礼言われた？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0193",
+   "jp": "どの回数にする？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0194",
+   "jp": "１１回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0195",
+   "jp": "１２回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0196",
+   "jp": "どのイベントを見る？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0197",
+   "jp": "城を抜け出す",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0198",
+   "jp": "犬に追われる",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0199",
+   "jp": "演奏会",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0200",
+   "jp": "別に見たくない",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0201",
+   "jp": "エリオットをパーティーに入れて{n}俺街の劇場へどうぞ。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0202",
+   "jp": "どのイベント見たい？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0203",
+   "jp": "ジュリアン倒れる",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0204",
+   "jp": "ジュリアンの過去",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0205",
+   "jp": "ジュリアンのお披露目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0206",
+   "jp": "別に見たくない",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0207",
+   "jp": "ジュリアンとの対決も見る？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0208",
+   "jp": "マイ＝ロードあり？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0209",
+   "jp": "友好度はいくつに設定する？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0210",
+   "jp": "・このまま",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0211",
+   "jp": "・１００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0212",
+   "jp": "・２００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0213",
+   "jp": "・３００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0214",
+   "jp": "・４００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0215",
+   "jp": "・５００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0216",
+   "jp": "・６００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0217",
+   "jp": "・７００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0218",
+   "jp": "・８００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0219",
+   "jp": "・９００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0220",
+   "jp": "・１０００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0221",
+   "jp": "・１３００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0222",
+   "jp": "どのイベントを見る？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0223",
+   "jp": "ゼノスの身の上",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0224",
+   "jp": "ゼノスの手料理",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0225",
+   "jp": "別に見たくない",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0226",
+   "jp": "回数会話の設定{n}休暇先がラシェルの場合は設定しても無駄。",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0227",
+   "jp": "１回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0228",
+   "jp": "２回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0229",
+   "jp": "３回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0230",
+   "jp": "４回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0231",
+   "jp": "５回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0232",
+   "jp": "６回目",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0233",
+   "jp": "設定しない",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0234",
+   "jp": "どのイベントを見る？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0235",
+   "jp": "回数イベント１",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0236",
+   "jp": "回数イベント２",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0237",
+   "jp": "回数イベント３",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0238",
+   "jp": "回数イベント４",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0239",
+   "jp": "回数イベント５",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0240",
+   "jp": "休暇６イベント",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0241",
+   "jp": "休暇７イベント",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0242",
+   "jp": "休暇８イベント",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0243",
+   "jp": "休暇９イベント",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0244",
+   "jp": "休暇１０イベント",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0245",
+   "jp": "休暇１１イベント",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0246",
+   "jp": "別に見たくない",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0247",
+   "jp": "どのイベントを見ますか？",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0248",
+   "jp": "回数１イベント",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0249",
+   "jp": "回数２イベント",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0250",
+   "jp": "回数３イベント",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0251",
+   "jp": "別に見たくない",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0252",
+   "jp": "全員の友好度を‥‥",
+   "en": "",
+   "term": "end"
+  },
+  {
+   "id": "scen155.0253",
+   "jp": "・０",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0254",
+   "jp": "・１００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0255",
+   "jp": "・２００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0256",
+   "jp": "・３００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0257",
+   "jp": "・４００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0258",
+   "jp": "・５００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0259",
+   "jp": "・６００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0260",
+   "jp": "・７００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0261",
+   "jp": "・８００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0262",
+   "jp": "・９００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0263",
+   "jp": "・１０００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0264",
+   "jp": "・１１００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0265",
+   "jp": "・１２００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  },
+  {
+   "id": "scen155.0266",
+   "jp": "・１３００",
+   "en": "",
+   "term": "end",
+   "unref": true
+  }
+ ]
+}

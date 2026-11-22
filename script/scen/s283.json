@@ -1,0 +1,22 @@
+{
+ "file": "SCEN.DAT",
+ "form": "section",
+ "entry": 663,
+ "at": "0x1D8",
+ "pad": 2,
+ "refs": "0 1",
+ "entries": [
+  {
+   "id": "scen283.0000",
+   "jp": "",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "scen283.0001",
+   "jp": "{FFEE}ガーディアンを倒し、ヴェンツェルを追え！{FFF1}",
+   "en": "",
+   "term": "end"
+  }
+ ]
+}

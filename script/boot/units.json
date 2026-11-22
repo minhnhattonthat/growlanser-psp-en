@@ -1,0 +1,1996 @@
+{
+ "file": "BOOT.BIN",
+ "form": "table",
+ "table": "0x131540",
+ "base": "0x13054C",
+ "fill": 1,
+ "refs": "0 1 2 3 4 5 6 7 8 9 10 11 12 8 13 2 14 5 6 15 4 16 17 18 19 20 21 22 23 24 10 25 26 9 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 266 266 266 266 266 266 267 268 269 270 271 272 273 274 275 268 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 0 294 295 296 296 296 295 295 295 11 297 9 9 9 9 298 299 300 301 302 303 11 304 16 17 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330",
+ "entries": [
+  {
+   "id": "boot.units.0000",
+   "jp": "ＰＬＡＹＥＲ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0001",
+   "jp": "ルイセ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0002",
+   "jp": "ウォレス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0003",
+   "jp": "アリオスト",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0004",
+   "jp": "エリオット",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0005",
+   "jp": "ゼノス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0006",
+   "jp": "ミーシャ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0007",
+   "jp": "カレン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0008",
+   "jp": "ジュリアン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0009",
+   "jp": "アメリア",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0010",
+   "jp": "リシャール",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0011",
+   "jp": "メルフィ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0012",
+   "jp": "ジュリア",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0013",
+   "jp": "ティピ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0014",
+   "jp": "ＭＹ[01C2]ＣＩＴＹ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0015",
+   "jp": "アルカディウス王",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0016",
+   "jp": "サンドラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0017",
+   "jp": "送魔線技師",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0018",
+   "jp": "ブラッドレー副学院長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0019",
+   "jp": "アイリーン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0020",
+   "jp": "レティシア姫",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0021",
+   "jp": "王母アンジェラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0022",
+   "jp": "女王ステラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0023",
+   "jp": "オスカー・リーヴス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0024",
+   "jp": "アーネスト・ライエル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0025",
+   "jp": "リシャール王",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0026",
+   "jp": "ガムラン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0027",
+   "jp": "ベルナード将軍",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0028",
+   "jp": "ブロンソン将軍",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0029",
+   "jp": "ウェーバー将軍",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0030",
+   "jp": "ヴェンツェル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0031",
+   "jp": "変身ヴェンツェル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0032",
+   "jp": "シエラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0033",
+   "jp": "ベルガー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0034",
+   "jp": "エリオット父",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0035",
+   "jp": "エリオット母",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0036",
+   "jp": "父親",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0037",
+   "jp": "母親",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0038",
+   "jp": "店主",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0039",
+   "jp": "旅人１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0040",
+   "jp": "旅人２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0041",
+   "jp": "侍女１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0042",
+   "jp": "侍女２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0043",
+   "jp": "侍女３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0044",
+   "jp": "侍女４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0045",
+   "jp": "侍女５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0046",
+   "jp": "オヤジ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0047",
+   "jp": "看護婦長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0048",
+   "jp": "看護婦１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0049",
+   "jp": "看護婦２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0050",
+   "jp": "看護婦３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0051",
+   "jp": "看護婦４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0052",
+   "jp": "看護婦５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0053",
+   "jp": "患者",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0054",
+   "jp": "医者１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0055",
+   "jp": "医者２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0056",
+   "jp": "店員１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0057",
+   "jp": "店員２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0058",
+   "jp": "店員３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0059",
+   "jp": "店員４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0060",
+   "jp": "マクスウェル学院長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0061",
+   "jp": "ブラッドレー学院長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0062",
+   "jp": "学院長秘書",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0063",
+   "jp": "副学院長秘書",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0064",
+   "jp": "教授１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0065",
+   "jp": "教授２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0066",
+   "jp": "教授３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0067",
+   "jp": "教授４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0068",
+   "jp": "教授５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0069",
+   "jp": "魔法学院生徒１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0070",
+   "jp": "魔法学院生徒２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0071",
+   "jp": "魔法学院生徒３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0072",
+   "jp": "魔法学院生徒４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0073",
+   "jp": "魔法学院生徒５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0074",
+   "jp": "魔法学院生徒６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0075",
+   "jp": "魔法学院生徒７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0076",
+   "jp": "魔法学院生徒８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0077",
+   "jp": "魔法学院生徒９",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0078",
+   "jp": "魔導技師",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0079",
+   "jp": "エレナ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0080",
+   "jp": "レダ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0081",
+   "jp": "好事家",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0082",
+   "jp": "作業員１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0083",
+   "jp": "作業員２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0084",
+   "jp": "番兵１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0085",
+   "jp": "兵士１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0086",
+   "jp": "警備兵１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0087",
+   "jp": "警備兵２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0088",
+   "jp": "警備兵３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0089",
+   "jp": "警備兵４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0090",
+   "jp": "盗掘者１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0091",
+   "jp": "盗掘者２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0092",
+   "jp": "盗掘者３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0093",
+   "jp": "盗掘者４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0094",
+   "jp": "盗掘者５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0095",
+   "jp": "盗掘者６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0096",
+   "jp": "開催責任者",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0097",
+   "jp": "パートナー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0098",
+   "jp": "闘技大会参加者１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0099",
+   "jp": "闘技大会参加者２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0100",
+   "jp": "闘技大会参加者３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0101",
+   "jp": "闘技大会参加者４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0102",
+   "jp": "闘技大会参加者５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0103",
+   "jp": "闘技大会参加者６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0104",
+   "jp": "闘技大会参加者７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0105",
+   "jp": "闘技大会参加者８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0106",
+   "jp": "ローランディア軍司令官",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0107",
+   "jp": "ローランディア兵隊長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0108",
+   "jp": "ローランディア兵１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0109",
+   "jp": "ローランディア兵２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0110",
+   "jp": "ローランディア兵３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0111",
+   "jp": "ローランディア兵４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0112",
+   "jp": "ローランディア兵５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0113",
+   "jp": "ローランディア兵６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0114",
+   "jp": "ローランディア兵７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0115",
+   "jp": "ローランディア兵８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0116",
+   "jp": "ローランディア兵９",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0117",
+   "jp": "ローランディア兵１０",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0118",
+   "jp": "輸送兵長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0119",
+   "jp": "輸送兵１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0120",
+   "jp": "輸送兵２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0121",
+   "jp": "輸送用動物１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0122",
+   "jp": "輸送用動物２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0123",
+   "jp": "輸送用動物３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0124",
+   "jp": "輸送用動物４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0125",
+   "jp": "輸送用動物５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0126",
+   "jp": "バーンシュタイン軍司令官",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0127",
+   "jp": "バーンシュタイン兵隊長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0128",
+   "jp": "バーンシュタイン兵１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0129",
+   "jp": "バーンシュタイン兵２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0130",
+   "jp": "バーンシュタイン兵３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0131",
+   "jp": "バーンシュタイン兵４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0132",
+   "jp": "バーンシュタイン兵５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0133",
+   "jp": "バーンシュタイン兵６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0134",
+   "jp": "バーンシュタイン兵７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0135",
+   "jp": "バーンシュタイン兵８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0136",
+   "jp": "バーンシュタイン兵９",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0137",
+   "jp": "バーンシュタイン兵１０",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0138",
+   "jp": "バーンシュタイン兵１１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0139",
+   "jp": "バーンシュタイン兵１２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0140",
+   "jp": "バーンシュタイン兵１３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0141",
+   "jp": "ランザック軍司令官",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0142",
+   "jp": "ランザック兵隊長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0143",
+   "jp": "ランザック兵１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0144",
+   "jp": "ランザック兵２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0145",
+   "jp": "ランザック兵３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0146",
+   "jp": "ランザック兵４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0147",
+   "jp": "ランザック兵５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0148",
+   "jp": "ランザック兵６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0149",
+   "jp": "ランザック兵７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0150",
+   "jp": "ランザック兵８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0151",
+   "jp": "ランザック兵９",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0152",
+   "jp": "ランザック兵１０",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0153",
+   "jp": "ランザック兵１１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0154",
+   "jp": "ランザック兵１２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0155",
+   "jp": "ランザック兵１３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0156",
+   "jp": "村長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0157",
+   "jp": "村人１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0158",
+   "jp": "村人２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0159",
+   "jp": "村人３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0160",
+   "jp": "村人４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0161",
+   "jp": "村人５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0162",
+   "jp": "村人６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0163",
+   "jp": "村人７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0164",
+   "jp": "村人８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0165",
+   "jp": "村人９",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0166",
+   "jp": "村人１０",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0167",
+   "jp": "市民１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0168",
+   "jp": "市民２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0169",
+   "jp": "市民３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0170",
+   "jp": "市民４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0171",
+   "jp": "市民５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0172",
+   "jp": "市民６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0173",
+   "jp": "市民７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0174",
+   "jp": "市民８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0175",
+   "jp": "市民９",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0176",
+   "jp": "市民１０",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0177",
+   "jp": "市民１１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0178",
+   "jp": "市民１２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0179",
+   "jp": "市民１３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0180",
+   "jp": "市民１４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0181",
+   "jp": "市民１５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0182",
+   "jp": "子供１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0183",
+   "jp": "子供２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0184",
+   "jp": "子供３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0185",
+   "jp": "子供４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0186",
+   "jp": "オズワルド",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0187",
+   "jp": "盗賊頭",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0188",
+   "jp": "盗賊１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0189",
+   "jp": "盗賊２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0190",
+   "jp": "盗賊３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0191",
+   "jp": "盗賊４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0192",
+   "jp": "盗賊５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0193",
+   "jp": "盗賊６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0194",
+   "jp": "盗賊７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0195",
+   "jp": "盗賊８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0196",
+   "jp": "覆面の男１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0197",
+   "jp": "覆面の男２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0198",
+   "jp": "覆面の男３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0199",
+   "jp": "覆面の男４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0200",
+   "jp": "覆面の男５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0201",
+   "jp": "覆面の男６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0202",
+   "jp": "覆面の男７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0203",
+   "jp": "仮面騎士１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0204",
+   "jp": "仮面騎士２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0205",
+   "jp": "仮面騎士３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0206",
+   "jp": "仮面騎士４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0207",
+   "jp": "仮面騎士５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0208",
+   "jp": "ユング１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0209",
+   "jp": "ユング２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0210",
+   "jp": "ユング３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0211",
+   "jp": "ユング４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0212",
+   "jp": "ユング５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0213",
+   "jp": "ユング６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0214",
+   "jp": "ユング７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0215",
+   "jp": "ユング８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0216",
+   "jp": "ユング９",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0217",
+   "jp": "ユング１０",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0218",
+   "jp": "ユング１１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0219",
+   "jp": "ゲーヴ１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0220",
+   "jp": "ゲーヴ２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0221",
+   "jp": "ゲーヴ３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0222",
+   "jp": "ゲーヴ４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0223",
+   "jp": "ゲーヴ５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0224",
+   "jp": "ゲーヴ６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0225",
+   "jp": "ゲーヴ７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0226",
+   "jp": "ゲーヴ８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0227",
+   "jp": "部下１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0228",
+   "jp": "部下２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0229",
+   "jp": "部下３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0230",
+   "jp": "部下４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0231",
+   "jp": "部下５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0232",
+   "jp": "部下６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0233",
+   "jp": "部下７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0234",
+   "jp": "部下８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0235",
+   "jp": "部下９",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0236",
+   "jp": "大鷲",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0237",
+   "jp": "モンスター使い",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0238",
+   "jp": "モンスター１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0239",
+   "jp": "モンスター２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0240",
+   "jp": "モンスター３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0241",
+   "jp": "モンスター４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0242",
+   "jp": "モンスター５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0243",
+   "jp": "モンスター６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0244",
+   "jp": "モンスター７",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0245",
+   "jp": "モンスター８",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0246",
+   "jp": "モンスター９",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0247",
+   "jp": "モンスター１０",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0248",
+   "jp": "モンスター１１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0249",
+   "jp": "モンスター１２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0250",
+   "jp": "モンスター１３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0251",
+   "jp": "モンスター１４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0252",
+   "jp": "モンスター１５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0253",
+   "jp": "バーンシュタイン工作兵１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0254",
+   "jp": "バーンシュタイン工作兵２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0255",
+   "jp": "バーンシュタイン工作兵３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0256",
+   "jp": "バーンシュタイン工作兵４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0257",
+   "jp": "バーンシュタイン工作兵５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0258",
+   "jp": "馬車",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0259",
+   "jp": "マスター・ガーディアン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0260",
+   "jp": "ガーディアン１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0261",
+   "jp": "ガーディアン２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0262",
+   "jp": "ガーディアン３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0263",
+   "jp": "ガーディアン４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0264",
+   "jp": "ガーディアン５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0265",
+   "jp": "ガーディアン６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0266",
+   "jp": "？？？？",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0267",
+   "jp": "グレンガル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0268",
+   "jp": "ゲヴェル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0269",
+   "jp": "ラルフ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0270",
+   "jp": "ニック",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0271",
+   "jp": "謎の男",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0272",
+   "jp": "行商人",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0273",
+   "jp": "ダグラス卿",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0274",
+   "jp": "デカゲル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0275",
+   "jp": "副官",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0276",
+   "jp": "ジーナ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0277",
+   "jp": "選手１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0278",
+   "jp": "選手２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0279",
+   "jp": "選手３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0280",
+   "jp": "選手４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0281",
+   "jp": "選手５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0282",
+   "jp": "選手６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0283",
+   "jp": "市長",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0284",
+   "jp": "目１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0285",
+   "jp": "目２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0286",
+   "jp": "目３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0287",
+   "jp": "目４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0288",
+   "jp": "爪１",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0289",
+   "jp": "爪２",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0290",
+   "jp": "爪３",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0291",
+   "jp": "爪４",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0292",
+   "jp": "爪５",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0293",
+   "jp": "爪６",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0294",
+   "jp": "ランザック国王",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0295",
+   "jp": "ジャスティン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0296",
+   "jp": "闇の凝集体",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0297",
+   "jp": "占い師",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0298",
+   "jp": "ラミィ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0299",
+   "jp": "コリン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0300",
+   "jp": "ユリィ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0301",
+   "jp": "ピティ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0302",
+   "jp": "ユニ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0303",
+   "jp": "携帯集魔柱",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0304",
+   "jp": "アルカディウス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0305",
+   "jp": "ブラッドレー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0306",
+   "jp": "レティシア",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0307",
+   "jp": "アンジェラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0308",
+   "jp": "ステラ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0309",
+   "jp": "リーヴス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0310",
+   "jp": "オスカー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0311",
+   "jp": "ライエル",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0312",
+   "jp": "アーネスト",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0313",
+   "jp": "ベルナード",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0314",
+   "jp": "ブロンソン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0315",
+   "jp": "ウェーバー",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0316",
+   "jp": "ローザリア",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0317",
+   "jp": "デリス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0318",
+   "jp": "ブローニュ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0319",
+   "jp": "メディス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0320",
+   "jp": "コムスプリングス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0321",
+   "jp": "ガルアオス",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0322",
+   "jp": "ヴァルミエ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0323",
+   "jp": "クレイン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0324",
+   "jp": "バーンシュタイン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0325",
+   "jp": "ランザック",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0326",
+   "jp": "ラージン",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0327",
+   "jp": "フェザーランド",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0328",
+   "jp": "オリビエ",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0329",
+   "jp": "ブレーム",
+   "en": "",
+   "term": "null"
+  },
+  {
+   "id": "boot.units.0330",
+   "jp": "ローランディア",
+   "en": "",
+   "term": "null"
+  }
+ ]
+}
