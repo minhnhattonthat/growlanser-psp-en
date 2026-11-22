@@ -95,3 +95,29 @@ Minor reviewer findings, deferred to one polish pass (translation.md §Review). 
 - [ ] b020 scen156.0189 - singular: "Due to the Darkfall incident..."
 - [ ] b020 scen157.0031 - "Then let's get started. Show us the way."
 - [ ] b020 scen157.0047 - Wenzel old-man cadence: "...Weren't you going to take me out of here, eh?"
+- [ ] b033 scen172.0019 - Tippi-ish: "We did it! Crisis averted!..."
+- [ ] b033 scen172.0029 - "toe-tal" not in JP: "Is this a 'total eclipse'?" (optional)
+- [ ] b033 scen174.0040 - 気を遣わせてしまった: "It seems I've made you go out of your way for me."
+- [ ] b033 scen174.0045 - "Good luck out there. I'm counting on you."
+- [ ] ALL - spelling: American throughout (rumors, favored, traveling): sweep British forms (b034 scen174.0080, scen175.0017, scen175.0141)
+- [ ] b034 scen175.0012/0018/0026/0028/0031 - Ernest's {s:000A}様: "Lord {s:000A}"
+- [ ] b035 scen175.0089 - "I won't allow even one more victim!"
+- [ ] b035 scen175.0056 - repeated thanks: "It's thanks to you. I'm grateful."
+- [ ] b035 scen175.0118 - "the standby room for {s:005C}s"? ({s:} + s not allowed; reword)
+- [ ] b036 scen175.0173/0177 - {s:0003}先輩: "Senior {s:0003}" (optional)
+- [ ] b036 scen175.0194 - ゲヴェル様: "Lord {s:0119}"
+- [ ] b036 scen175.0159/0161 - Dunkels singular/plural mixed: plural
+- [ ] b036 scen176.0031 - "We shall reply soon. Until then, you may wait."
+- [ ] b037 scen176.0140 - Tippi clumsy: "No way! We're the ones who owe him way more..."
+- [ ] b037 scen176.0094 - "It seems a great darkness has begun to fall on the continent again."
+- [ ] b038 scen176.0184/0253 - dot runs: "..." per PS1
+- [ ] b038 scen176.0221 - Justin stilted: "Quite beautiful, really."
+- [ ] b038 scen176.0235 - villain tone: "Then you'll just have to die side by side with the humans of this world!"
+- [ ] b038 scen176.0240 - old man garbled: "Right?! Right?! A mana collection pillar to amaze even the Featherians, eh?!"
+- [ ] b039 scen177.0012 - Wallace sly ほほぅ: "...Oh ho. Then now that we're here, the truce is over, right?"
+- [ ] b039 scen177.0018 - ついでだから: "While I'm at it, I'll tell you a little."
+- [ ] b039 scen177.0042 - choice: "・I feel awful"
+- [ ] b040 scen178.0007 - Wenzel swagger: "Well? Glad you brought me along, eh?"
+- [ ] b041 scen179.0116 - cut off: "What... are you doing...?"
+- [ ] b050? scen188.0058 - "{s:FFED}波" (alpha waves?): check the drawn word in game (phase 8)
+- [ ] b055/b056 scen290.0010-0021 - Justin's telepathic lines lose the JP per-line indent after re-wrap: check in visual QA

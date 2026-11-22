@@ -22,25 +22,25 @@
   {
    "id": "scen182.0002",
    "jp": "　{n}このエレベータは、動いていないようだ‥‥。",
-   "en": "",
+   "en": "　{n}This elevator does not seem to be working...",
    "term": "end"
   },
   {
    "id": "scen182.0003",
    "jp": "ああ、このエレベータが使えれば、{n}上まで一直線で行けたのに！",
-   "en": "",
+   "en": "Argh, if only this elevator worked, we could've gone{n}straight to the top!",
    "term": "end"
   },
   {
    "id": "scen182.0004",
    "jp": "残念だけど、{n}順番に上っていくしかないよ。",
-   "en": "",
+   "en": "Too bad, but we'll just have to climb up one floor at{n}a time.",
    "term": "end"
   },
   {
    "id": "scen182.0005",
    "jp": "くぅぅぅ！",
-   "en": "",
+   "en": "Grrrr!",
    "term": "end"
   },
   {
@@ -95,25 +95,25 @@
   {
    "id": "scen182.0013",
    "jp": "{FFEF}スタンクラブ{FFF1}のバッテリーを見つけたが、{n}『{FFEF}ＧＬコレダー{FFF1}』はこれ以上持てない‥‥。",
-   "en": "",
+   "en": "Found a {FFEF}Stun Club{FFF1} battery, but you can't carry any{n}more '{FFEF}GL Collider{FFF1}'...",
    "term": "end"
   },
   {
    "id": "scen182.0014",
    "jp": "{FFEF}スタンクラブ{FFF1}のバッテリーを見つけた！{n}　　　　『{FFEF}ＧＬコレダー{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Found a {FFEF}Stun Club{FFF1} battery! Obtained '{FFEF}GL Collider{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen182.0015",
    "jp": "{FFEF}スタンクラブ{FFF1}のバッテリーを見つけた！{n}　　　　『{FFEF}エレキコブラ{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "Found a {FFEF}Stun Club{FFF1} battery! Obtained '{FFEF}Electro Cobra{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen182.0016",
    "jp": "　{n}　　　　『{FFEF}スタンクラブ{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "　{n}　　　　Obtained '{FFEF}Stun Club{FFF1}'!",
    "term": "end"
   },
   {

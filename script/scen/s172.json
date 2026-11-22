@@ -128,13 +128,13 @@
   {
    "id": "scen172.0019",
    "jp": "やったわね、回避成功よ。{n}それじゃ、次の場所へ急ぎましょう！",
-   "en": "",
+   "en": "We did it! We averted it! Now let's hurry on to the{n}next spot!",
    "term": "end"
   },
   {
    "id": "scen172.0020",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
@@ -147,13 +147,13 @@
   {
    "id": "scen172.0022",
    "jp": "この異様な空気に、{n}モンスターたちも怯えているみたいだよ。",
-   "en": "",
+   "en": "Even the monsters seem frightened by this eerie air.",
    "term": "end"
   },
   {
    "id": "scen172.0023",
    "jp": "どうやら、闇が払われたようだね。{n}モンスターたちも、いつもの調子に戻ったようだ。",
-   "en": "",
+   "en": "Looks like the darkness has been cleared away. The{n}monsters seem to be back to their usual selves, too.",
    "term": "end"
   },
   {
@@ -166,13 +166,13 @@
   {
    "id": "scen172.0025",
    "jp": "おかしいな。夜でもないのに、{n}こんなに暗くなるなんて‥‥。",
-   "en": "",
+   "en": "That's strange. It isn't even night, and yet it's gotten{n}so dark...",
    "term": "end"
   },
   {
    "id": "scen172.0026",
    "jp": "キミたちが立てた棒だけど、{n}あれは一体なんなんだい？",
-   "en": "",
+   "en": "About that pole you folks put up... What on earth is it?",
    "term": "end"
   },
   {
@@ -185,19 +185,19 @@
   {
    "id": "scen172.0028",
    "jp": "北にある滝ってすごく大きいんだよ！{p}でも化け物が住んでたんだってね。{n}う～ん、もう行くのやめよう‥‥。",
-   "en": "",
+   "en": "The waterfall up north is really huge!{p}But I heard a monster lived there. Hmm... I think I'll{n}stop going...",
    "term": "end"
   },
   {
    "id": "scen172.0029",
    "jp": "わ～、お外が真っ暗だぁ～！{n}これが『かいきにっしょく』なのかなぁ？",
-   "en": "",
+   "en": "Wooow, it's all dark outside! Is this a 'toe-tal eclipse'?",
    "term": "end"
   },
   {
    "id": "scen172.0030",
    "jp": "もうお空が明るくなっちゃった。{n}つまんないの～。",
-   "en": "",
+   "en": "The sky's already bright again. Booo-ring...",
    "term": "end"
   },
   {
@@ -217,19 +217,19 @@
   {
    "id": "scen172.0033",
    "jp": "みんな気づいてないみたいだけど、{n}これって人を化け物に変える{n}闇っていうやつじゃないかしら‥‥？",
-   "en": "",
+   "en": "Nobody else seems to have noticed, but... isn't this{n}that darkness that turns people into monsters...?",
    "term": "end"
   },
   {
    "id": "scen172.0034",
    "jp": "よかった、闇が消えたみたい‥‥。{p}あなたたちが助けてくれたのね？{n}本当にありがとう。",
-   "en": "",
+   "en": "Thank goodness, the darkness seems to be gone...{p}You're the ones who saved us, aren't you? Thank you{n}so much.",
    "term": "end"
   },
   {
    "id": "scen172.0035",
    "jp": "人の気配がしない‥‥。{n}ここから先は、もう誰もいないようだ。",
-   "en": "",
+   "en": "There's no sign of anyone... It seems nobody is left{n}beyond this point.",
    "term": "end"
   },
   {
@@ -319,13 +319,13 @@
   {
    "id": "scen172.0048",
    "jp": "急に外が暗くなったみたいだが、{n}何が起こってるんだ‥‥？",
-   "en": "",
+   "en": "It suddenly got dark outside... What's going on...?",
    "term": "end"
   },
   {
    "id": "scen172.0049",
    "jp": "村長が死んだ次は、また別の事件か？{n}{FFFB}ちくしょう、いつになったら平和になるんだよ‥‥。",
-   "en": "",
+   "en": "First the village chief dies, and now something else?{n}{FFFB}Dammit, when are we ever gonna get some peace...",
    "term": "end"
   },
   {
@@ -338,13 +338,13 @@
   {
    "id": "scen172.0051",
    "jp": "これから、なにか起こるの‥‥？",
-   "en": "",
+   "en": "Is something going to happen...?",
    "term": "end"
   },
   {
    "id": "scen172.0052",
    "jp": "私、どんなことがあっても{n}村長が愛した村を離れたくないわ。",
-   "en": "",
+   "en": "No matter what happens, I don't want to leave the{n}village the chief loved.",
    "term": "end"
   },
   {
@@ -445,7 +445,7 @@
   {
    "id": "scen172.0066",
    "jp": "テレポートを唱えてる間に、{n}闇が落ちてきちゃうよ。{n}今は、早く携帯集魔柱から離れよう？",
-   "en": "",
+   "en": "The darkness will fall while you're still casting Teleport!{n}For now, let's get away from the Portable Mana{n}Pillar, quick!",
    "term": "end"
   }
  ]

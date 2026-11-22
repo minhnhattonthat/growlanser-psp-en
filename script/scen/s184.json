@@ -22,7 +22,7 @@
   {
    "id": "scen184.0002",
    "jp": "　　　　　　　　　{FFF0}熱烈歓迎{FFF1}{n}　　　　　　グランシル市　　観光協会",
-   "en": "",
+   "en": "　　　　　　　　　{FFF0}A Warm Welcome!{FFF1} Grancil City{n}Tourism Association",
    "term": "end"
   },
   {
@@ -35,117 +35,117 @@
   {
    "id": "scen184.0004",
    "jp": "ジャスティンの野望を阻止せよ！",
-   "en": "",
+   "en": "Thwart Justin's ambitions!",
    "term": "end"
   },
   {
    "id": "scen184.0005",
    "jp": "{v:0034}時空制御塔‥‥。{n}この中にジャスティンたちがいる‥‥。",
-   "en": "",
+   "en": "{v:0034}The Space-Time Control Tower... Justin and the others{n}are in there...",
    "term": "end"
   },
   {
    "id": "scen184.0006",
    "jp": "{v:0035}いよいよね。",
-   "en": "",
+   "en": "{v:0035}This is it.",
    "term": "end"
   },
   {
    "id": "scen184.0007",
    "jp": "{v:0036}時空制御塔を落とされて、{n}連中がいつ時空分離を始めてもおかしくない。",
-   "en": "",
+   "en": "{v:0036}Now that they've brought the Space-Time Control{n}Tower down, they could start the space-time{n}separation at any moment.",
    "term": "end"
   },
   {
    "id": "scen184.0008",
    "jp": "{v:0037}空間の歪みが増大している‥‥。{n}もう時空分離の準備段階には入っているってことね。{p}{FC03}{v:0038}メルフィ‥‥早く、止めないと彼女が‥‥。",
-   "en": "",
+   "en": "{v:0037}The spatial distortion is growing... That means they've{n}already entered the preparation stage for the{n}space-time separation.{p}{FC03}{v:0038}Melfie... If we don't stop it soon, she'll...",
    "term": "end"
   },
   {
    "id": "scen184.0009",
    "jp": "{v:0039}えっ？{n}メルフィさんに何かあるの？",
-   "en": "",
+   "en": "{v:0039}Huh? Is something wrong with Melfie-san?",
    "term": "end"
   },
   {
    "id": "scen184.0010",
    "jp": "{v:003A}彼女がいつも身につけているブレスレットは{n}知ってるよね？{n}実はアレは両親の形見というだけじゃないの。",
-   "en": "",
+   "en": "{v:003A}You know that bracelet she always wears, right? The{n}truth is, it isn't just a keepsake from her parents.",
    "term": "end"
   },
   {
    "id": "scen184.0011",
    "jp": "{v:003B}それじゃ、何なの？",
-   "en": "",
+   "en": "{v:003B}Then what is it?",
    "term": "end"
   },
   {
    "id": "scen184.0012",
    "jp": "{v:003C}彼女はフェザリアンであるためか、{n}私やジャスティンより、{n}ゲヴェル細胞との適合が良くないらしいの。{p}{v:0058}だからあまりデュンケルスを{n}浴びては危ないらしくて‥‥。{p}{v:003D}ジャスティンに頼まれて、{n}グローシュを込めた水晶をブレスレットに{n}セットしてあるの。{p}{v:0059}できるだけデュンケルスをブレスレットで{n}中和するように。",
-   "en": "",
+   "en": "{v:003C}Maybe because she's a Featherian, her body doesn't{n}seem to accept Gevel cells as well as mine or Justin's.{p}{v:0058}So it's apparently dangerous for her to be exposed to{n}too much Dunkels...{p}{v:003D}At Justin's request, I set a crystal filled with Grosh{n}into her bracelet.{p}{v:0059}So that the bracelet would neutralize as much Dunkels{n}as possible.",
    "term": "end"
   },
   {
    "id": "scen184.0013",
    "jp": "{v:003E}だが、今は歪みが増大して、{n}デュンケルスの量が増えている。",
-   "en": "",
+   "en": "{v:003E}But now the distortion's growing, and the amount of{n}Dunkels is increasing.",
    "term": "end"
   },
   {
    "id": "scen184.0014",
    "jp": "{v:003F}うん。{n}だからメルフィにとっては、{n}とても危険な状況になっているわ。",
-   "en": "",
+   "en": "{v:003F}Right. So for Melfie, the situation has become{n}very dangerous.",
    "term": "end"
   },
   {
    "id": "scen184.0015",
    "jp": "{v:0040}多少のデュンケルスは集魔柱で集められるけど、{n}安心は出来ないよね。",
-   "en": "",
+   "en": "{v:0040}The mana collection pillars can gather some of the{n}Dunkels, but we can't relax, can we?",
    "term": "end"
   },
   {
    "id": "scen184.0016",
    "jp": "{v:0041}のんびりしている時間はないって事だな。",
-   "en": "",
+   "en": "{v:0041}Meaning we've got no time to dawdle.",
    "term": "end"
   },
   {
    "id": "scen184.0017",
    "jp": "・一気に行くぞ",
-   "en": "",
+   "en": "・Let's go all out",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0018",
    "jp": "・気が重い",
-   "en": "",
+   "en": "・I'm not feeling up to it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0019",
    "jp": "{v:0042}うん！",
-   "en": "",
+   "en": "{v:0042}Right!",
    "term": "end"
   },
   {
    "id": "scen184.0020",
    "jp": "{v:0043}何言ってんのよ！こんな時に！",
-   "en": "",
+   "en": "{v:0043}What are you saying?! At a time like this!",
    "term": "end"
   },
   {
    "id": "scen184.0021",
    "jp": "{FFF6}{v:0044}こんな時に冗談が言えるなんて、余裕ね。",
-   "en": "",
+   "en": "{FFF6}{v:0044}Cracking jokes at a time like this... You're{n}awfully relaxed.",
    "term": "end"
   },
   {
    "id": "scen184.0022",
    "jp": "{FB00}{v:0045}あははは‥‥そうだね。",
-   "en": "",
+   "en": "{FB00}{v:0045}Ahahaha... I guess so.",
    "term": "end"
   },
   {
@@ -207,7 +207,7 @@
   {
    "id": "scen184.0031",
    "jp": "最初に出会った時から感じていました。{n}やはり、あなたは大したお方です。{p}必ず、光り輝く未来を切り開いてくれると{n}信じています、マイ＝ロード。",
-   "en": "",
+   "en": "I have felt it since we first met. You truly are an{n}exceptional person.{p}I believe you will surely carve out a bright, shining{n}future, My Lord.",
    "term": "end"
   },
   {
@@ -220,75 +220,75 @@
   {
    "id": "scen184.0033",
    "jp": "{v:0000}ねぇ‥‥、ちょっと話があるんだけど‥‥{n}いいかな？",
-   "en": "",
+   "en": "{v:0000}Hey... There's something I want to talk about... Is{n}that okay?",
    "term": "end"
   },
   {
    "id": "scen184.0034",
    "jp": "・メルフィが心配",
-   "en": "",
+   "en": "・I'm worried about Melfie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0035",
    "jp": "・アメリアと話す",
-   "en": "",
+   "en": "・Talk with Amelia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0036",
    "jp": "‥‥{v:0001}そうね‥‥。",
-   "en": "",
+   "en": "...{v:0001}I see...",
    "term": "end"
   },
   {
    "id": "scen184.0037",
    "jp": "{v:005A}メルフィを助けられたら‥‥、{n}彼女を受け入れてあげてね。{n}お願いよ。",
-   "en": "",
+   "en": "{v:005A}If we manage to save Melfie... please accept her. I'm{n}begging you.",
    "term": "end"
   },
   {
    "id": "scen184.0038",
    "jp": "{v:0006}ありがとう。{n}ここじゃ何だから、場所を移しましょうか‥‥。",
-   "en": "",
+   "en": "{v:0006}Thank you. This isn't the place, so let's go{n}somewhere else...",
    "term": "end"
   },
   {
    "id": "scen184.0039",
    "jp": "絶対にジャスティンを止めて、{n}デュンケルスの脅威からこの世界を救いましょう！",
-   "en": "",
+   "en": "Let's stop Justin no matter what and save this world{n}from the threat of the Dunkels!",
    "term": "end"
   },
   {
    "id": "scen184.0040",
    "jp": "{v:001F}お前と少し話がしたい。{n}時間をもらえるか？",
-   "en": "",
+   "en": "{v:001F}I'd like to talk with you a little. Can you spare me{n}some time?",
    "term": "end"
   },
   {
    "id": "scen184.0041",
    "jp": "{v:0020}ありがとう。{n}では、みんなのいないところに移動しようか。",
-   "en": "",
+   "en": "{v:0020}Thank you. Then let's move somewhere away from{n}the others.",
    "term": "end"
   },
   {
    "id": "scen184.0042",
    "jp": "‥‥{v:001F}そうか‥‥。仕方ないな。",
-   "en": "",
+   "en": "...{v:001F}I see... It can't be helped.",
    "term": "end"
   },
   {
    "id": "scen184.0043",
    "jp": "救ってもらったこの命、{n}お前たちのために役立てよう！",
-   "en": "",
+   "en": "I'll use this life you saved for your sake!",
    "term": "end"
   },
   {
    "id": "scen184.0044",
    "jp": "リシャール様、ご武運を。",
-   "en": "",
+   "en": "Good fortune in battle, Lord Richard.",
    "term": "end"
   },
   {
@@ -301,7 +301,7 @@
   {
    "id": "scen184.0046",
    "jp": "・考え直す",
-   "en": "",
+   "en": "・Think it over",
    "term": "end",
    "unref": true
   },
@@ -316,7 +316,7 @@
   {
    "id": "scen184.0048",
    "jp": "準備は怠らないように。{n}何が待ち受けているかわかりませんから。",
-   "en": "",
+   "en": "Don't neglect your preparations. There's no telling{n}what awaits.",
    "term": "end"
   },
   {
@@ -329,31 +329,31 @@
   {
    "id": "scen184.0050",
    "jp": "{FFF6}‥‥ああ。{n}リーヴス、行ってくるよ。",
-   "en": "",
+   "en": "{FFF6}...Yes. Reeves, I'm off.",
    "term": "end"
   },
   {
    "id": "scen184.0051",
    "jp": "リシャール様、どうかお気をつけて。",
-   "en": "",
+   "en": "Lord Richard, please take care.",
    "term": "end"
   },
   {
    "id": "scen184.0052",
    "jp": "‥‥相変わらず心配性だな、ライエルは。{p}この事件が片付いたら、{n}いつものお茶会でも開こう。",
-   "en": "",
+   "en": "...A worrier as ever, aren't you, Lyell?{p}Once this affair is settled, let's hold our usual{n}tea party.",
    "term": "end"
   },
   {
    "id": "scen184.0053",
    "jp": "はい。{n}凱旋をお待ちしております。",
-   "en": "",
+   "en": "Yes. I shall await your triumphant return.",
    "term": "end"
   },
   {
    "id": "scen184.0054",
    "jp": "リシャール様の事を頼む。{n}こんな事を頼めるのは、お前だけだ。",
-   "en": "",
+   "en": "Take care of Lord Richard. You're the only one I can ask{n}this of.",
    "term": "end"
   },
   {
@@ -366,303 +366,303 @@
   {
    "id": "scen184.0056",
    "jp": "{v:0007}アメリアさん、どこまで行くの？",
-   "en": "",
+   "en": "{v:0007}Amelia-san, how far are we going?",
    "term": "end"
   },
   {
    "id": "scen184.0057",
    "jp": "{v:0008}うん‥‥。{n}この辺りでいいかな‥‥。",
-   "en": "",
+   "en": "{v:0008}Mm... I guess around here is fine...",
    "term": "end"
   },
   {
    "id": "scen184.0058",
    "jp": "{v:0009}話ってナニ？",
-   "en": "",
+   "en": "{v:0009}What did you want to talk about?",
    "term": "end"
   },
   {
    "id": "scen184.0059",
    "jp": "{v:000A}あ‥うん‥‥。{n}‥‥実はね‥怖いのよ‥‥。",
-   "en": "",
+   "en": "{v:000A}Ah... um... ...The truth is... I'm scared...",
    "term": "end"
   },
   {
    "id": "scen184.0060",
    "jp": "{v:000B}怖いって‥‥。",
-   "en": "",
+   "en": "{v:000B}Scared...?",
    "term": "end"
   },
   {
    "id": "scen184.0061",
    "jp": "{v:000C}もし失敗したら‥‥、{n}なんてイヤな考えが頭をよぎっちゃってさ‥‥。",
-   "en": "",
+   "en": "{v:000C}What if we fail... That awful thought keeps crossing{n}my mind...",
    "term": "end"
   },
   {
    "id": "scen184.0062",
    "jp": "・自分も同じ",
-   "en": "",
+   "en": "・I feel the same",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0063",
    "jp": "・心配はいらない",
-   "en": "",
+   "en": "・There's nothing to worry about",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0064",
    "jp": "‥‥{v:000D}え、そうなの‥‥？{n}驚いたな。{n}キミには怖い物なんてないんだと思っていた‥‥。",
-   "en": "",
+   "en": "...{v:000D}Huh, really...? That's a surprise. I thought there was{n}nothing in the world you were afraid of...",
    "term": "end"
   },
   {
    "id": "scen184.0065",
    "jp": "{v:000E}でも、よく考えたら、その通りか。{n}キミだって人間だもんね‥‥。",
-   "en": "",
+   "en": "{v:000E}But come to think of it, you're right. You're only human{n}too, after all...",
    "term": "end"
   },
   {
    "id": "scen184.0066",
    "jp": "‥{v:000F}あはは‥うん‥‥。{n}やっぱりキミは強いなぁ‥‥。",
-   "en": "",
+   "en": ".{v:000F}Ahaha... Yeah... You really are strong, aren't you...",
    "term": "end"
   },
   {
    "id": "scen184.0067",
    "jp": "{v:0010}その言葉が聞きたかったんだ。",
-   "en": "",
+   "en": "{v:0010}That's just what I wanted to hear.",
    "term": "end"
   },
   {
    "id": "scen184.0068",
    "jp": "‥‥{v:0011}うん‥‥かなり落ち着いた。{n}キミの一言で、こんなに落ち着けるなんて、{n}やっぱりそうなのかもね。",
-   "en": "",
+   "en": "...{v:0011}Yeah... I feel a lot calmer now. If one word from you{n}can calm me down this much, then maybe it's true{n}after all.",
    "term": "end"
   },
   {
    "id": "scen184.0069",
    "jp": "{v:0012}そうって？",
-   "en": "",
+   "en": "{v:0012}What's true?",
    "term": "end"
   },
   {
    "id": "scen184.0070",
    "jp": "{v:0013}きっと、私、好きなんだわ。",
-   "en": "",
+   "en": "{v:0013}I must be in love with you.",
    "term": "end"
   },
   {
    "id": "scen184.0071",
    "jp": "{v:0014}好きって‥‥コイツを‥‥！？{n}えぇぇっ！？",
-   "en": "",
+   "en": "{v:0014}In love... with this guy...?! Whaaat?!",
    "term": "end"
   },
   {
    "id": "scen184.0072",
    "jp": "{v:0015}そう、大声で驚かないでよ。{n}恥ずかしくなってくるじゃない‥‥。",
-   "en": "",
+   "en": "{v:0015}Come on, don't yell like that. You're making{n}me embarrassed...",
    "term": "end"
   },
   {
    "id": "scen184.0073",
    "jp": "‥‥{v:0016}別に返事を聞こうとか{n}そんなことは考えてないの。",
-   "en": "",
+   "en": "...{v:0016}I'm not asking for an answer or anything like that.",
    "term": "end"
   },
   {
    "id": "scen184.0074",
    "jp": "{v:0056}ただ、最後の戦いで失敗したら、{n}全てが終わってしまうかもしれない。",
-   "en": "",
+   "en": "{v:0056}It's just that if we fail in the final battle, everything{n}might come to an end.",
    "term": "end"
   },
   {
    "id": "scen184.0075",
    "jp": "{v:0017}そうなったら、{n}この気持ちを伝えなかったことを絶対後悔する。{n}だから、伝えたかったの。",
-   "en": "",
+   "en": "{v:0017}If that happened, I'd definitely regret never telling you{n}how I feel. That's why I wanted to tell you.",
    "term": "end"
   },
   {
    "id": "scen184.0076",
    "jp": "{v:0018}ごめんね、こんな時に突然変なことを言って。",
-   "en": "",
+   "en": "{v:0018}Sorry for suddenly saying something so strange at a{n}time like this.",
    "term": "end"
   },
   {
    "id": "scen184.0077",
    "jp": "{v:0019}これで心残りなく戦えるわ！{n}よし、張りきっていこうか！",
-   "en": "",
+   "en": "{v:0019}Now I can fight with no regrets! All right, let's give it{n}everything we've got!",
    "term": "end"
   },
   {
    "id": "scen184.0078",
    "jp": "‥‥{v:001A}驚いたなぁ‥‥。{n}アメリアさん、あんなこと言い出すなんて‥‥。",
-   "en": "",
+   "en": "...{v:001A}Wow, that was a surprise... I never thought Amelia-san{n}would say something like that...",
    "term": "end"
   },
   {
    "id": "scen184.0079",
    "jp": "{v:001B}ねぇ、アンタの気持ちはどうなの？",
-   "en": "",
+   "en": "{v:001B}Hey, so how do YOU feel?",
    "term": "end"
   },
   {
    "id": "scen184.0080",
    "jp": "・アメリアが好き",
-   "en": "",
+   "en": "・I love Amelia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0081",
    "jp": "・悪いけどそこまで好きじゃない",
-   "en": "",
+   "en": "・Sorry, but not that much",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0082",
    "jp": "{v:001C}そうだったんだ！{p}{v:001D}それじゃ、戦いが終わったら、{n}その気持ちを伝えてあげなよ！{n}絶対よろこぶから！",
-   "en": "",
+   "en": "{v:001C}So that's how it is!{p}{v:001D}Then once the fight's over, go tell her how you feel!{n}She'll be thrilled, I promise!",
    "term": "end"
   },
   {
    "id": "scen184.0083",
    "jp": "{v:001E}そっか‥‥。{n}アメリアさんも、気持ちの整理をつけたくて、{n}告白しただけみたいだから、それでもイイのかもね。",
-   "en": "",
+   "en": "{v:001E}I see... Amelia-san just seemed to confess to sort out{n}her own feelings, so maybe that's fine too.",
    "term": "end"
   },
   {
    "id": "scen184.0084",
    "jp": "{v:0021}この辺りで、いいだろう。",
-   "en": "",
+   "en": "{v:0021}This should do.",
    "term": "end"
   },
   {
    "id": "scen184.0085",
    "jp": "{v:0022}話って、何なの？",
-   "en": "",
+   "en": "{v:0022}So what did you want to talk about?",
    "term": "end"
   },
   {
    "id": "scen184.0086",
    "jp": "{v:0023}話というか、{n}私から一方的に伝えたいだけだがな‥‥。{p}{v:0024}まずは、礼を言う。{n}ありがとう。{p}{v:0025}あの牢の中で死ぬと決めていた私の命を{n}救ってくれただけでなく、{n}お前は私の心までも救ってくれた。",
-   "en": "",
+   "en": "{v:0023}It's not so much a talk as something I simply wish to{n}tell you...{p}{v:0024}First, allow me to thank you. Thank you.{p}{v:0025}You not only saved my life when I had resolved to die{n}in that cell, you saved my heart as well.",
    "term": "end"
   },
   {
    "id": "scen184.0087",
    "jp": "{v:0026}心も？",
-   "en": "",
+   "en": "{v:0026}Your heart too?",
    "term": "end"
   },
   {
    "id": "scen184.0088",
    "jp": "{v:0027}ああ、その通りだ。{n}もし命が長らえたとしても、{n}あのままだったら心が腐っていただろう。",
-   "en": "",
+   "en": "{v:0027}Yes, exactly. Even if my life had been prolonged, had{n}things stayed as they were, my heart would{n}have rotted.",
    "term": "end"
   },
   {
    "id": "scen184.0089",
    "jp": "{v:0028}死なねばならぬ自分への苛立ちを{n}人々に転嫁して、恨み続けていただろう。",
-   "en": "",
+   "en": "{v:0028}I would have turned my frustration at having to die on{n}others, and gone on resenting them.",
    "term": "end"
   },
   {
    "id": "scen184.0090",
    "jp": "・それでも王か？",
-   "en": "",
+   "en": "・And you call yourself a king?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0091",
    "jp": "・わかる気がする",
-   "en": "",
+   "en": "・I think I understand",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0092",
    "jp": "{v:0029}正確には元、だがな。{n}だが王だろうとなんだろうと、{n}人であることには変わりない。{p}{v:002A}喜びも、悲しみも、憎しみも、{n}普通の人と何ら変わりはない。",
-   "en": "",
+   "en": "{v:0029}A former king, to be precise. But king or not, I am still{n}a man.{p}{v:002A}In joy, in sorrow, in hatred, I am no different from{n}anyone else.",
    "term": "end"
   },
   {
    "id": "scen184.0093",
    "jp": "‥‥{v:002B}ふふ‥‥。{p}{v:002C}さすが、命を共にする者だ。",
-   "en": "",
+   "en": "...{v:002B}Heh...{p}{v:002C}As expected of the one who shares my life.",
    "term": "end"
   },
   {
    "id": "scen184.0094",
    "jp": "{v:002D}お前がどう思っているかは{n}この際構わないが、私はお前を認めている。",
-   "en": "",
+   "en": "{v:002D}Whatever you think of me does not matter now, but I{n}acknowledge you.",
    "term": "end"
   },
   {
    "id": "scen184.0095",
    "jp": "{v:0057}もし、このような出会いでなければ、{n}ライエルやリーヴスのように親友になれたと思う。",
-   "en": "",
+   "en": "{v:0057}Had we not met as we did, I believe we could have{n}become close friends, as I am with Lyell and Reeves.",
    "term": "end"
   },
   {
    "id": "scen184.0096",
    "jp": "・そうだな",
-   "en": "",
+   "en": "・I suppose so",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0097",
    "jp": "・今からでも遅くない",
-   "en": "",
+   "en": "・It's not too late, even now",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen184.0098",
    "jp": "{v:002E}そうだな、じゃなくてさ、{n}これからなればいいじゃん！",
-   "en": "",
+   "en": "{v:002E}Don't just say \"I suppose so\"! You can become friends{n}from now on!",
    "term": "end"
   },
   {
    "id": "scen184.0099",
    "jp": "{v:002F}これから、か‥‥。{n}出来ればそうなりたいものだ。",
-   "en": "",
+   "en": "{v:002F}From now on, hm... I would like that, if I can.",
    "term": "end"
   },
   {
    "id": "scen184.0100",
    "jp": "‥{v:0030}そうか‥‥。ありがたい。{n}実は、その言葉が聞きたかったのだ。",
-   "en": "",
+   "en": ".{v:0030}I see... I am grateful. In truth, those were the words I{n}wanted to hear.",
    "term": "end"
   },
   {
    "id": "scen184.0101",
    "jp": "{v:0031}ならばこの戦いを通して、{n}お前の親友たる存在かどうか、見極めてくれ。{n}私は全力をかけて、お前のために戦おう。",
-   "en": "",
+   "en": "{v:0031}Then, through this battle, judge whether I am worthy{n}to be your close friend. I will fight for you with all{n}my strength.",
    "term": "end"
   },
   {
    "id": "scen184.0102",
    "jp": "{v:0032}こんな話で呼びだしてすまなかった。{n}では！",
-   "en": "",
+   "en": "{v:0032}Forgive me for calling you out for such a{n}talk. Farewell!",
    "term": "end"
   },
   {
    "id": "scen184.0103",
    "jp": "‥‥{v:0033}何だか、リシャールが年相応に見えたわ‥‥。{n}王者の風格とかはあっても、{n}やっぱり１４歳なんだね。",
-   "en": "",
+   "en": "...{v:0033}Somehow, Richard looked his age just now... He may{n}have the bearing of a king, but he's still only fourteen.",
    "term": "end"
   },
   {
    "id": "scen184.0104",
    "jp": "古い墓が並んでいる。{n}どうやら、同時期に建てられたものらしい。",
-   "en": "",
+   "en": "Old graves stand in a row. They seem to have been{n}built around the same time.",
    "term": "end"
   }
  ]

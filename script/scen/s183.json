@@ -29,7 +29,7 @@
   {
    "id": "scen183.0003",
    "jp": "制御装置",
-   "en": "",
+   "en": "Control Device",
    "term": "null"
   },
   {
@@ -42,7 +42,7 @@
   {
    "id": "scen183.0005",
    "jp": "ルイセ＆メルフィ",
-   "en": "",
+   "en": "Luise & Melfie",
    "term": "null"
   },
   {
@@ -69,66 +69,66 @@
   {
    "id": "scen183.0009",
    "jp": "・旧世界とこの世界について",
-   "en": "",
+   "en": "・The Old World and this world",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0010",
    "jp": "・時空干渉能力について",
-   "en": "",
+   "en": "・Space-time interference",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0011",
    "jp": "・時空干渉能力の持たせ方",
-   "en": "",
+   "en": "・Granting space-time interference",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0012",
    "jp": "・グローシュとデュンケルス",
-   "en": "",
+   "en": "・Grosh and Dunkels",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0013",
    "jp": "・ゲヴェル細胞とデュンケルス",
-   "en": "",
+   "en": "・Gevel cells and Dunkels",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0014",
    "jp": "かつて人々は、この世界とは別の世界に住んでいた。{n}元いた世界のことを、人々は『旧世界』と呼ぶ。{n}その旧世界の滅びを避けるため、多くの人間と{n}フェザリアンがこちらの世界へと移り住んできた。{p}しかし、こちらの世界には人が存在せず、{n}代わりに存在したのは、人々にとってモンスターと{n}いえる生物たちであった。",
-   "en": "",
+   "en": "Long ago, people lived in a world separate from this{n}one. They call the world they came from the 'Old World.'{p}To escape the Old World's destruction, many humans and{n}Featherians migrated to this world.{p}But no people existed in this world. Instead it was home{n}to creatures that, to humans, could only be{n}called monsters.",
    "term": "end"
   },
   {
    "id": "scen183.0015",
    "jp": "２つの世界にまたがる存在は、{n}２つの時空に働きかける力を有する。{n}つまり、空間の重なりを強固にしたり、{n}ゆがませたりすることが可能である。",
-   "en": "",
+   "en": "A being that spans both worlds holds the power to act{n}upon both space-times. In other words, it can{n}strengthen the overlap of the spaces, or distort it.",
    "term": "end"
   },
   {
    "id": "scen183.0016",
    "jp": "こちらの世界の生命体と融合することが出来れば、{n}２つの世界と交わった者となるため、{n}時空干渉能力を持つ事が可能となる。{p}しかし、融合には他の細胞との融和力に長けている{n}ゲヴェルの細胞のみが可能であり、{n}他の生命体の細胞では融合が不可能であった。",
-   "en": "",
+   "en": "If one could fuse with a life-form of this world, one{n}would become a being joined to both worlds, and could{n}thus possess space-time interference.{p}However, fusion was only possible with Gevel cells,{n}which excel at merging with other cells; with the cells of{n}any other life-form, fusion proved impossible.",
    "term": "end"
   },
   {
    "id": "scen183.0017",
    "jp": "旧世界から新たにやってきた者たちによって、{n}この世界を覆う空間には、２つの物質が存在する{n}ことが伝えられた。{p}１つは魔法の源であり、光をつかさどる物質である{n}『グローシュ』である。もう１つは闇をつかさどる{n}『デュンケルス』という物質であり、{n}この存在は人々にとって未知のものであった。{p}その後の観測によって、デュンケルスは確かに{n}存在することが確認され、更に人々にとっては{n}とても有害な物質であることが判明した。{p}元来、こちらの世界に存在する生命体にとって{n}デュンケルスはエネルギーになるようだが、{n}旧世界の生命体、つまり人がデュンケルスに触れると{n}存在そのものが変質し、モンスター化してしまう。{p}もし時空融合を解いた場合、時空の外を取り巻く{n}デュンケルスによって、こちらの世界に移民した{n}人々はモンスター化してしまうだろう。",
-   "en": "",
+   "en": "New arrivals from the Old World reported that two{n}substances exist in the space enveloping this world.{p}One is 'Grosh,' the source of magic, the substance that{n}governs light.{p}The other is a substance called 'Dunkels,' which governs{n}darkness, and was unknown to the people.{p}Later observation confirmed that Dunkels does exist,{n}and further revealed it to be extremely harmful{n}to people.{p}To the life-forms native to this world, Dunkels appears{n}to be a source of energy.{p}But when Old World life-forms, that is, humans, touch{n}Dunkels, their very existence is altered and they turn{n}into monsters.{p}Were the space-time fusion ever undone, the Dunkels{n}surrounding the outside of space-time would turn the{n}people who migrated to this world into monsters.",
    "term": "end"
   },
   {
    "id": "scen183.0018",
    "jp": "デュンケルスは元からこちらの存在であった{n}モンスターに触れても害は起こらないどころか、{n}モンスターを活性化させるということが分かった。{p}ここで、先のゲヴェル細胞と融合させた人間に{n}デュンケルスを浴びさせたところ、何の変化も{n}見られなかった。{p}これはこちらの存在であるゲヴェル細胞により{n}デュンケルスが無害化された事を意味する。",
-   "en": "",
+   "en": "It was found that Dunkels does no harm to the{n}monsters native to this world; on the contrary, it{n}invigorates them.{p}Next, humans fused with the aforementioned Gevel{n}cells were exposed to Dunkels, and no change{n}whatsoever was observed.{p}This means the Gevel cells, being native to this world,{n}rendered the Dunkels harmless.",
    "term": "end"
   },
   {
@@ -141,7 +141,7 @@
   {
    "id": "scen183.0020",
    "jp": "　{n}　　　　　　　{FFEF}装置は稼動している！{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　　{FFEF}The device is running!{FFF1}",
    "term": "end"
   },
   {
@@ -161,7 +161,7 @@
   {
    "id": "scen183.0023",
    "jp": "またロックされてるね。{n}これを解除しないと、奥へ行けないよ。",
-   "en": "",
+   "en": "It's locked again. We can't go any further unless we{n}unlock it.",
    "term": "end"
   },
   {
@@ -216,530 +216,530 @@
   {
    "id": "scen183.0031",
    "jp": "‥‥{v:0000}ゲヴェルを倒せるようなヤツを、{n}ここのガーディアンで押さえることなど無理か‥‥。",
-   "en": "",
+   "en": "...{v:0000}So the Guardians here were never going to hold back{n}someone who can defeat Gevel...",
    "term": "end"
   },
   {
    "id": "scen183.0032",
    "jp": "{v:0001}ジャスティン‥‥。",
-   "en": "",
+   "en": "{v:0001}Justin...",
    "term": "end"
   },
   {
    "id": "scen183.0033",
    "jp": "{v:0002}よくフェザリアンを味方につけたわね。{n}まさか時空制御塔の浮上システムを{n}中和するなんて‥‥。",
-   "en": "",
+   "en": "{v:0002}I'm impressed you won the Featherians over. To think{n}you'd neutralize the Space-Time Control Tower's{n}levitation system...",
    "term": "end"
   },
   {
    "id": "scen183.0034",
    "jp": "・我々は協力できる",
-   "en": "",
+   "en": "・We can work together",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0035",
    "jp": "・おそれいったか？",
-   "en": "",
+   "en": "・Impressed?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0036",
    "jp": "‥‥‥‥！",
-   "en": "",
+   "en": "........!",
    "term": "end"
   },
   {
    "id": "scen183.0037",
    "jp": "{v:0003}そうだよ！",
-   "en": "",
+   "en": "{v:0003}That's right!",
    "term": "end"
   },
   {
    "id": "scen183.0038",
    "jp": "{FFF6}‥‥‥‥。",
-   "en": "",
+   "en": "{FFF6}........",
    "term": "end"
   },
   {
    "id": "scen183.0039",
    "jp": "{v:0004}メルフィさん。{n}人間もフェザリアンも本当は戦いなんて{n}望んでいないの。{p}{v:0082}たしかに過去に戦争したこともあるし、{n}これから未来に対立することもあるかもしれない。{p}{FC02}{v:0005}だけど、こうやって手を取ることができる。{n}やり直せるんだよ！",
-   "en": "",
+   "en": "{v:0004}Melfie-san. Neither humans nor Featherians truly want{n}to fight.{p}{v:0082}It's true we fought a war in the past, and we might{n}clash again in the future.{p}{FC02}{v:0005}But we can join hands like this. We can start over!",
    "term": "end"
   },
   {
    "id": "scen183.0040",
    "jp": "‥‥{v:0006}うぅ‥‥。",
-   "en": "",
+   "en": "...{v:0006}Ugh...",
    "term": "end"
   },
   {
    "id": "scen183.0041",
    "jp": "{v:0007}せっかくこうして協力できたわたしたちを、{n}許してくれないの？{n}過去に戦ったから、わたし達は全員滅んでもいいの？",
-   "en": "",
+   "en": "{v:0007}We finally managed to work together like this... Won't you{n}forgive us? Because we fought in the past, is it all right{n}for every one of us to be destroyed?",
    "term": "end"
   },
   {
    "id": "scen183.0042",
    "jp": "{v:0008}そうだよ！{n}アタシたちって、{n}滅ぼさなければならないほど罪深いの？",
-   "en": "",
+   "en": "{v:0008}That's right! Are we really so sinful that we have to be{n}wiped out?!",
    "term": "end"
   },
   {
    "id": "scen183.0043",
    "jp": "{v:0009}うぅ‥‥。",
-   "en": "",
+   "en": "{v:0009}Ugh...",
    "term": "end"
   },
   {
    "id": "scen183.0044",
    "jp": "{v:000A}メルフィ、考えなおして！",
-   "en": "",
+   "en": "{v:000A}Melfie, please reconsider!",
    "term": "end"
   },
   {
    "id": "scen183.0045",
    "jp": "{v:000B}そいつらの言葉に耳を貸すな。{n}こいつらを生かしておいたら、{n}故郷を危機にさらすかもしれないのだぞ！",
-   "en": "",
+   "en": "{v:000B}Don't listen to them. If we let these people live, they{n}could put our homeland in danger!",
    "term": "end"
   },
   {
    "id": "scen183.0046",
    "jp": "メルフィに何と言いますか？",
-   "en": "",
+   "en": "What will you say to Melfie?",
    "term": "end"
   },
   {
    "id": "scen183.0047",
    "jp": "・信じる事をやめるな",
-   "en": "",
+   "en": "・Don't stop believing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0048",
    "jp": "・諦めればそこで終わる",
-   "en": "",
+   "en": "・If you give up, it ends there",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0049",
    "jp": "・本当はお前が人を殺したいのか？",
-   "en": "",
+   "en": "・Do YOU really want to kill people?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0050",
    "jp": "‥‥{v:000C}うぅ‥‥。",
-   "en": "",
+   "en": "...{v:000C}Ugh...",
    "term": "end"
   },
   {
    "id": "scen183.0051",
    "jp": "{v:000E}まさか、お前自身が人を殺したいのか？",
-   "en": "",
+   "en": "{v:000E}Don't tell me YOU are the one who wants to kill people?",
    "term": "end"
   },
   {
    "id": "scen183.0052",
    "jp": "{v:000F}そんなことはない‥‥。{n}私は誰も‥‥。",
-   "en": "",
+   "en": "{v:000F}That's not true... I don't want anyone to...",
    "term": "end"
   },
   {
    "id": "scen183.0053",
    "jp": "{v:0010}だったら、お願い！{n}思いなおして‥‥！",
-   "en": "",
+   "en": "{v:0010}Then please! Change your mind...!",
    "term": "end"
   },
   {
    "id": "scen183.0054",
    "jp": "{v:0011}だったら、お願い！{n}思いなおして‥‥！",
-   "en": "",
+   "en": "{v:0011}Then please! Change your mind...!",
    "term": "end"
   },
   {
    "id": "scen183.0055",
    "jp": "{v:0012}耳を貸すな、メルフィ！",
-   "en": "",
+   "en": "{v:0012}Don't listen to them, Melfie!",
    "term": "end"
   },
   {
    "id": "scen183.0056",
    "jp": "{FFF6}‥‥{v:0013}さい‥‥るさい‥‥うるさい！{p}{v:0014}私のことは、私が決める！{n}指図するな、指図するなぁ！",
-   "en": "",
+   "en": "{FFF6}...{v:0013}...et... quiet... Be quiet!{p}{v:0014}I decide for myself! Stop ordering me around! Stop{n}ordering me arouuund!",
    "term": "end"
   },
   {
    "id": "scen183.0057",
    "jp": "{v:0015}メルフィ‥‥。",
-   "en": "",
+   "en": "{v:0015}Melfie...",
    "term": "end"
   },
   {
    "id": "scen183.0058",
    "jp": "{v:0016}メルフィさん‥‥。",
-   "en": "",
+   "en": "{v:0016}Melfie-san...",
    "term": "end"
   },
   {
    "id": "scen183.0059",
    "jp": "‥‥‥‥{v:0017}。",
-   "en": "",
+   "en": "........{v:0017}",
    "term": "end"
   },
   {
    "id": "scen183.0060",
    "jp": "‥‥{v:0018}ジャスティン‥‥、こいつら‥‥。{n}私はこいつらを‥‥。{FFF9}{FFFB}{n}{FC02}{v:0019}私はこいつらを信じたい！",
-   "en": "",
+   "en": "...{v:0018}Justin... these people... I want to... these people...{FFF9}{FFFB} {FC02}{v:0019}I want{n}to believe in them!",
    "term": "end"
   },
   {
    "id": "scen183.0061",
    "jp": "{v:001A}バカなことを言うな。{n}お前がいなければ、時空分離は成功しない。",
-   "en": "",
+   "en": "{v:001A}Don't talk nonsense. Without you, the space-time{n}separation can't succeed.",
    "term": "end"
   },
   {
    "id": "scen183.0062",
    "jp": "{FFF6}{v:001B}いいや、私は決めた。{n}時空分離は行わない。{n}{FFF7}この世界の人たちを死なせたくない。{p}{FC03}{v:001C}ジャスティン。{n}もうやめよう。{n}今、歪みを閉じれば、まだ間に合う‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:001B}No. I've made up my mind. I won't carry out the{n}space-time separation. {FFF7}I don't want the people of this{n}world to die.{p}{FC03}{v:001C}Justin. Let's stop this. If we close the distortion now,{n}there's still time...",
    "term": "end"
   },
   {
    "id": "scen183.0063",
    "jp": "{FFF6}‥‥{v:001D}そうか‥‥。{n}お前の気持ちは、良く分かったよ。{n}メルフィ‥‥。",
-   "en": "",
+   "en": "{FFF6}...{v:001D}I see... I understand how you feel perfectly{n}well, Melfie...",
    "term": "end"
   },
   {
    "id": "scen183.0064",
    "jp": "{v:001E}ジャスティン、分かってくれたか‥‥。",
-   "en": "",
+   "en": "{v:001E}Justin, you understand...",
    "term": "end"
   },
   {
    "id": "scen183.0065",
    "jp": "{FFF6}{v:001F}ああ、よく分かった‥‥。{p}{FFF7}{FC02}{v:0020}お前があてに出来ないということがな！",
-   "en": "",
+   "en": "{FFF6}{v:001F}Yes, I understand perfectly...{p}{FFF7}{FC02}{v:0020}That you can't be relied on!",
    "term": "end"
   },
   {
    "id": "scen183.0066",
    "jp": "{v:0021}私のブレスレット‥‥、{n}何する気‥‥？",
-   "en": "",
+   "en": "{v:0021}My bracelet... What are you going to do...?",
    "term": "end"
   },
   {
    "id": "scen183.0067",
    "jp": "{v:0022}お前が協力する気がないなら、{n}こうやって従わせるしかない。",
-   "en": "",
+   "en": "{v:0022}If you won't cooperate, I'll just have to make you obey{n}like this.",
    "term": "end"
   },
   {
    "id": "scen183.0068",
    "jp": "{v:0023}それくらいで、従うと思うの？",
-   "en": "",
+   "en": "{v:0023}You think that's enough to make me obey?",
    "term": "end"
   },
   {
    "id": "scen183.0069",
    "jp": "{v:0071}別にお前の意志など関係ない。{n}絶対にオレの思った通りになるのだからな。",
-   "en": "",
+   "en": "{v:0071}Your will doesn't matter in the least. Things will go{n}exactly as I intend, no matter what.",
    "term": "end"
   },
   {
    "id": "scen183.0070",
    "jp": "‥‥{v:0072}？{n}どういう意味？",
-   "en": "",
+   "en": "...{v:0072}? What do you mean?",
    "term": "end"
   },
   {
    "id": "scen183.0071",
    "jp": "‥‥{v:0073}くっくっくっ‥‥。{n}さて、どういう事だろうな？",
-   "en": "",
+   "en": "...{v:0073}Heh heh heh... Now, what could I mean?",
    "term": "end"
   },
   {
    "id": "scen183.0072",
    "jp": "{v:0074}この野郎、とうとう本性を現しやがったか‥‥。",
-   "en": "",
+   "en": "{v:0074}You bastard, so you're finally showing your{n}true colors...",
    "term": "end"
   },
   {
    "id": "scen183.0073",
    "jp": "{v:0075}ああ、この段階まで来れば、{n}もはや善人ぶる必要もないからな。",
-   "en": "",
+   "en": "{v:0075}Yes. Now that we've come this far, there's no need to{n}play the good guy anymore.",
    "term": "end"
   },
   {
    "id": "scen183.0074",
    "jp": "{v:0076}あなたが何を企んでいるかわからないけど‥‥{n}やめる気はないのね？",
-   "en": "",
+   "en": "{v:0076}I don't know what you're scheming... but you have no{n}intention of stopping, do you?",
    "term": "end"
   },
   {
    "id": "scen183.0075",
    "jp": "{v:0077}作戦の中止など、ありえない。{n}絶対にな‥‥。",
-   "en": "",
+   "en": "{v:0077}Calling off the operation is out of the{n}question. Absolutely...",
    "term": "end"
   },
   {
    "id": "scen183.0076",
    "jp": "{v:003D}どうして、こんなことまでして、{n}この世界の人を滅ぼしたいの？{p}{v:0083}元々はこの世界の人を故郷に{n}帰すために来たんでしょ！",
-   "en": "",
+   "en": "{v:003D}Why go this far just to destroy the people of{n}this world?{p}{v:0083}You originally came here to take the people of this{n}world back to their homeland!",
    "term": "end"
   },
   {
    "id": "scen183.0077",
    "jp": "{v:003E}どうして、こんなことまでして、{n}この世界の人を滅ぼしたいのよ？{p}{v:0084}元々はこの世界の人をあっちの世界に{n}帰すために来たんでしょ！",
-   "en": "",
+   "en": "{v:003E}Why go this far just to destroy the people of{n}this world?!{p}{v:0084}You originally came here to take the people of this{n}world back to the other world!",
    "term": "end"
   },
   {
    "id": "scen183.0078",
    "jp": "{v:003F}たしかにチームの目的はそうだったかもしれない。{n}だがな、俺はその計画を潰すために{n}チームメンバーにもぐりこんだんだよ。",
-   "en": "",
+   "en": "{v:003F}That may well have been the team's objective. But you{n}see, I joined the team to sabotage that plan.",
    "term": "end"
   },
   {
    "id": "scen183.0079",
    "jp": "{v:0040}えっ？{n}どういうこと？",
-   "en": "",
+   "en": "{v:0040}Huh? What do you mean?",
    "term": "end"
   },
   {
    "id": "scen183.0080",
    "jp": "{v:0041}えぇっ？{n}どういうこと？",
-   "en": "",
+   "en": "{v:0041}Whaaat? What do you mean?",
    "term": "end"
   },
   {
    "id": "scen183.0081",
    "jp": "{v:0042}政治だよ。{n}この計画を立案し支持を得た大統領の失脚を願う{n}政敵に雇われたのさ。{p}{v:0085}莫大な費用と２０人からのメンバーの人生を{n}無駄にしたとなれば、失脚間違いなしだろう。{p}{v:0043}だから、チームリーダーである、{n}メルフィの両親をグローシアンのせいにして殺した。",
-   "en": "",
+   "en": "{v:0042}Politics. I was hired by the political enemies of the{n}president who drew up this plan and won support for{n}it, men who wanted to see him fall.{p}{v:0085}Squander a vast fortune and the lives of twenty-odd{n}team members, and his downfall would be guaranteed.{p}{v:0043}So I killed the team leaders, Melfie's parents, and pinned{n}it on the Growsians.",
    "term": "end"
   },
   {
    "id": "scen183.0082",
    "jp": "‥‥{v:0078}なっ！？{n}そんな！？",
-   "en": "",
+   "en": "...{v:0078}Wha-?! No...!",
    "term": "end"
   },
   {
    "id": "scen183.0083",
    "jp": "{v:0044}まさか‥‥博士たちを殺したのが、{n}あなただったなんて‥‥。",
-   "en": "",
+   "en": "{v:0044}I can't believe... it was you who killed the doctors...",
    "term": "end"
   },
   {
    "id": "scen183.0084",
    "jp": "‥‥{v:0045}メルフィさんの両親まで‥‥。",
-   "en": "",
+   "en": "...{v:0045}Even Melfie-san's parents...",
    "term": "end"
   },
   {
    "id": "scen183.0085",
    "jp": "{v:0046}俺たちが水晶の中で百年以上過ごした時点で、{n}故郷ではこの計画を失敗と判断しただろうからな。{n}作戦は成功だ。",
-   "en": "",
+   "en": "{v:0046}By the time we'd spent over a hundred years in the{n}crystal, our homeland would have judged the plan a{n}failure. The operation is a success.",
    "term": "end"
   },
   {
    "id": "scen183.0086",
    "jp": "‥‥{v:0047}だったら、どうして今更、{n}この世界の人たちを滅ぼそうなんて考えるのよ！",
-   "en": "",
+   "en": "...{v:0047}Then why on earth are you trying to destroy the{n}people of this world now?!",
    "term": "end"
   },
   {
    "id": "scen183.0087",
    "jp": "{v:0048}だったら、どうして今更アタシたちを{n}滅ぼそうなんて考えるの？",
-   "en": "",
+   "en": "{v:0048}Then why are you trying to wipe us out now, of{n}all times?",
    "term": "end"
   },
   {
    "id": "scen183.0088",
    "jp": "{v:0049}それは‥‥俺が故郷を守りたいという{n}気持ちだけは本物だからだ！{p}{v:004A}別の道を歩み始めて、千年。{n}今更一緒にやっていけるわけがないだろう！{p}{v:0086}やっと故郷では戦争がなくなり、{n}人もフェザリアンも幸せに暮らせる世界になった！{p}{v:004B}そこに今更問題の種を持ちかえる必要はない！{n}だからこの計画は絶対に潰す。{n}こちらの世界の連中など、いなくなればいいのだ！",
-   "en": "",
+   "en": "{v:0049}Because... my wish to protect my homeland, at least,{n}is genuine!{p}{v:004A}A thousand years since we took separate paths.{n}There's no way we could live together now!{p}{v:0086}At long last, war has vanished from our homeland, and{n}it's become a world where humans and Featherians can{n}live in happiness!{p}{v:004B}There's no need to bring the seeds of trouble back{n}there now! That's why I'll crush this plan no matter{n}what. The people of this world can just disappear!",
    "term": "end"
   },
   {
    "id": "scen183.0089",
    "jp": "{v:0079}そんな‥‥、{n}そんなあなたの勝手な想いのために‥‥、{n}私の両親を殺したの！？{p}{FFF6}{FC02}{v:007A}それなのに、私をだまして‥‥今まで‥‥。{n}‥‥信じていたのに‥‥。{p}{FFF7}{v:007B}絶対に許さない！{n}絶対に‥‥あなたの言うことなんて聞くものか！",
-   "en": "",
+   "en": "{v:0079}No... For a selfish wish like that... you killed{n}my parents?!{p}{FFF6}{FC02}{v:007A}And then you deceived me... all this time... ...And I{n}trusted you...{p}{FFF7}{v:007B}I'll never forgive you! I'll never... listen to anything{n}you say!",
    "term": "end"
   },
   {
    "id": "scen183.0090",
    "jp": "{v:007C}だから言っているだろう。{n}お前の意志など関係ないとな。{n}それを今から証明してやる。",
-   "en": "",
+   "en": "{v:007C}As I keep telling you, your will doesn't matter. And now{n}I'll prove it.",
    "term": "end"
   },
   {
    "id": "scen183.0091",
    "jp": "{v:0026}このブレスレットは、ただの形見なんかじゃない。{n}お前の力をセーブするためのアイテムだ。",
-   "en": "",
+   "en": "{v:0026}That bracelet is no mere keepsake. It's a device to hold{n}back your power.",
    "term": "end"
   },
   {
    "id": "scen183.0092",
    "jp": "{v:0027}力を‥‥？{n}どう言う意味だ？",
-   "en": "",
+   "en": "{v:0027}Her power...? What do you mean?",
    "term": "end"
   },
   {
    "id": "scen183.0093",
    "jp": "{FFF6}{v:0028}メルフィに移植したゲヴェル細胞は、{n}普通よりかなり多い量にしてあってね。{p}{v:0087}このブレスレットにセットしたグローシュで、{n}増殖を抑制していたのだ。",
-   "en": "",
+   "en": "{FFF6}{v:0028}The Gevel cells implanted in Melfie are a far larger dose{n}than usual, you see.{p}{v:0087}The Grosh set in this bracelet was suppressing{n}their growth.",
    "term": "end"
   },
   {
    "id": "scen183.0094",
    "jp": "{v:0029}それって、コイツとルイセちゃんの関係みたい‥‥。",
-   "en": "",
+   "en": "{v:0029}That sounds just like this guy and Luise-chan...",
    "term": "end"
   },
   {
    "id": "scen183.0095",
    "jp": "{v:002A}そう。{n}分かりやすいだろ？{n}だが、両者には大きな違いがある。{p}{v:002B}彼の場合はゲヴェルが思念で操るために細胞を{n}使っているだけだが、メルフィは細胞自体が{n}彼女の内で成長するのだよ。",
-   "en": "",
+   "en": "{v:002A}Exactly. Easy to grasp, isn't it? But there's one big{n}difference between the two.{p}{v:002B}In his case, Gevel merely uses the cells to control him{n}with its thoughts. But in Melfie, the cells themselves{n}grow inside her.",
    "term": "end"
   },
   {
    "id": "scen183.0096",
    "jp": "‥‥{v:002C}ジャスティン‥‥、{n}あなた、いったい何を言って‥‥。",
-   "en": "",
+   "en": "...{v:002C}Justin... What on earth are you saying...?",
    "term": "end"
   },
   {
    "id": "scen183.0097",
    "jp": "{v:002D}その細胞にデュンケルスをあてれば、{n}ゲヴェル細胞は活性化し、更に時空分離を進める。",
-   "en": "",
+   "en": "{v:002D}Expose those cells to Dunkels, and the Gevel cells will{n}activate and push the space-time separation{n}even further.",
    "term": "end"
   },
   {
    "id": "scen183.0098",
    "jp": "{v:002E}そう！{n}メルフィが望まずとも、{n}時空分離を行ってしまうのだよ！",
-   "en": "",
+   "en": "{v:002E}That's right! Even if Melfie doesn't want it, she'll carry{n}out the space-time separation!",
    "term": "end"
   },
   {
    "id": "scen183.0099",
    "jp": "{v:002F}この外道がっ！",
-   "en": "",
+   "en": "{v:002F}You monster!",
    "term": "end"
   },
   {
    "id": "scen183.0100",
    "jp": "{v:0030}ジャスティン‥‥許さない！{n}‥‥よくも‥‥！",
-   "en": "",
+   "en": "{v:0030}Justin... I'll never forgive you! ...How could you...!",
    "term": "end"
   },
   {
    "id": "scen183.0101",
    "jp": "{v:0032}メルフィ！",
-   "en": "",
+   "en": "{v:0032}Melfie!",
    "term": "end"
   },
   {
    "id": "scen183.0102",
    "jp": "{v:0033}メルフィさん！",
-   "en": "",
+   "en": "{v:0033}Melfie-san!",
    "term": "end"
   },
   {
    "id": "scen183.0103",
    "jp": "{v:0034}始まったようだな。{n}もはや止めることは出来んぞ‥‥！",
-   "en": "",
+   "en": "{v:0034}It seems to have begun. There's no stopping it now...!",
    "term": "end"
   },
   {
    "id": "scen183.0104",
    "jp": "{v:0035}ど、どうすればいいのよ‥‥！",
-   "en": "",
+   "en": "{v:0035}Wh-what are we supposed to do...?!",
    "term": "end"
   },
   {
    "id": "scen183.0105",
    "jp": "・ルイセに指示する",
-   "en": "",
+   "en": "・Give Luise instructions",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0106",
    "jp": "・どうにもならない",
-   "en": "",
+   "en": "・There's nothing we can do",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0107",
    "jp": "{v:0036}わたしが‥‥？{n}‥‥あ、‥‥そうか！",
-   "en": "",
+   "en": "{v:0036}Me...? ...Oh... I see!",
    "term": "end"
   },
   {
    "id": "scen183.0108",
    "jp": "{v:0037}そんなことないよ！{n}わたしが何とかするから！",
-   "en": "",
+   "en": "{v:0037}That's not true! I'll do something about it!",
    "term": "end"
   },
   {
    "id": "scen183.0109",
    "jp": "{v:0038}どうする気だ？",
-   "en": "",
+   "en": "{v:0038}What are you going to do?",
    "term": "end"
   },
   {
    "id": "scen183.0110",
    "jp": "{v:0039}メルフィさんのゲヴェル細胞を、{n}わたしのグローシアンの力で弱らせるの！",
-   "en": "",
+   "en": "{v:0039}I'll weaken Melfie-san's Gevel cells with my{n}Growsian power!",
    "term": "end"
   },
   {
    "id": "scen183.0111",
    "jp": "{v:003A}ああ、そうか！{n}コイツの時と同じ事をするんだ！",
-   "en": "",
+   "en": "{v:003A}Oh, I get it! You'll do the same thing you did for{n}this guy!",
    "term": "end"
   },
   {
    "id": "scen183.0112",
    "jp": "{v:003B}そうはさせんぞ！",
-   "en": "",
+   "en": "{v:003B}I won't let you!",
    "term": "end"
   },
   {
    "id": "scen183.0113",
    "jp": "{v:003C}お兄ちゃん、状況を見て、{n}わたしをメルフィさんの所まで誘導して！",
-   "en": "",
+   "en": "{v:003C}Big Brother, watch the situation and guide me{n}to Melfie-san!",
    "term": "end"
   },
   {
    "id": "scen183.0114",
    "jp": "メルフィ！！",
-   "en": "",
+   "en": "Melfie!!",
    "term": "end"
   },
   {
    "id": "scen183.0115",
    "jp": "‥{FE14}‥{FE14}‥{FE14}。{p}‥‥ずっと、お父さんとお母さんを殺したのは{n}グローシアンだって思い込んでた‥‥。",
-   "en": "",
+   "en": ".{FE14}.{FE14}.{FE14}.{p}...All this time, I was convinced it was Growsians who{n}killed my father and mother...",
    "term": "end"
   },
   {
    "id": "scen183.0116",
    "jp": "メルフィさん‥‥。",
-   "en": "",
+   "en": "Melfie-san...",
    "term": "end"
   },
   {
    "id": "scen183.0117",
    "jp": "けど、まさか‥‥{n}{FFFB}まさか、全てジャスティンが{n}仕組んでいたなんて！{p}{FFF6}そうとも知らずに、私は‥‥。",
-   "en": "",
+   "en": "But I never... {FFFB}I never imagined Justin had set it all up!{p}{FFF6}And without knowing that, I...",
    "term": "end"
   },
   {
@@ -752,262 +752,262 @@
   {
    "id": "scen183.0119",
    "jp": "どうしよう‥‥。{n}{FFFB}既に、とてつもない量のデュンケルスが{n}この世界に流れ込んでしまった‥‥。{p}私のせいで‥‥{n}{FFFB}この世界が滅んでしまう‥‥！",
-   "en": "",
+   "en": "What do I do... {FFFB}An enormous amount of Dunkels has{n}already flowed into this world...{p}Because of me... {FFFB}this world is going to be destroyed...!",
    "term": "end"
   },
   {
    "id": "scen183.0120",
    "jp": "メルフィ‥‥。",
-   "en": "",
+   "en": "Melfie...",
    "term": "end"
   },
   {
    "id": "scen183.0121",
    "jp": "‥‥この世界が滅びる！？{n}{FFFB}バカなこと言わないで！！{p}今ここで諦めたら、{n}私たちはこの世界の人たち全員を{n}見殺しにすることになるのよ！？",
-   "en": "",
+   "en": "...This world will be destroyed?! {FFFB}Don't talk nonsense!!{p}If you give up here and now, we'll be leaving every{n}person in this world to die, you know?!",
    "term": "end"
   },
   {
    "id": "scen183.0122",
    "jp": "キツいこと言って、ごめんね‥‥。{n}{FFFB}確かに、メルフィにとっては{n}とても辛い事実だったと思う。{p}{FFF6}‥‥私だって悔しいわよ。{n}まさかジャスティンが、あんなこと‥‥。",
-   "en": "",
+   "en": "Sorry for being so harsh... {FFFB}I'm sure that was a very{n}painful truth for you, Melfie.{p}{FFF6}...I'm furious too, you know. To think Justin would do{n}something like that...",
    "term": "end"
   },
   {
    "id": "scen183.0123",
    "jp": "けどね、辛いのはメルフィだけじゃない。{n}デュンケルスの被害を受けてる人たちは、{n}まだ大勢いるわ。{p}こうしてる間にも、デュンケルスは流入してきてるの。{n}この現状が、あなたには分かる？{p}自分の行いを少しでも悔やむ気持ちがあるなら、{n}諦めないで、自分に何が出来るか考えなさい！",
-   "en": "",
+   "en": "But listen, Melfie, you're not the only one who's hurting.{n}There are still lots of people suffering because of{n}the Dunkels.{p}Even as we speak, Dunkels keeps pouring in. Do you{n}understand the situation we're in?{p}If you regret what you've done even a little, don't give{n}up. Think about what you can do!",
    "term": "end"
   },
   {
    "id": "scen183.0124",
    "jp": "け、けど‥‥‥。",
-   "en": "",
+   "en": "B-but......",
    "term": "end"
   },
   {
    "id": "scen183.0125",
    "jp": "メルフィになんと声をかけますか？",
-   "en": "",
+   "en": "What will you say to Melfie?",
    "term": "end"
   },
   {
    "id": "scen183.0126",
    "jp": "・無理しなくていい",
-   "en": "",
+   "en": "・You don't have to push yourself",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0127",
    "jp": "・逃げるな！",
-   "en": "",
+   "en": "・Don't run away!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0128",
    "jp": "・‥‥‥‥。",
-   "en": "",
+   "en": "・........",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0129",
    "jp": "私だって、{n}メルフィに無理をさせたいわけじゃない。{p}けど、それでもメルフィに{n}現実を受け入れさせないと‥‥。",
-   "en": "",
+   "en": "I don't want to push Melfie too hard either.{p}But even so, she has to accept reality...",
    "term": "end"
   },
   {
    "id": "scen183.0130",
    "jp": "‥‥すまなかった‥‥。{n}{FFFB}アメリア‥‥{n}私はもう、大丈夫だから‥‥。",
-   "en": "",
+   "en": "...I'm sorry... {FFFB}Amelia... I'm all right now...",
    "term": "end"
   },
   {
    "id": "scen183.0131",
    "jp": "‥‥っ！",
-   "en": "",
+   "en": "...!",
    "term": "end"
   },
   {
    "id": "scen183.0132",
    "jp": "‥‥彼の言うとおりよ。{n}辛い現実から目を背けるだけじゃ、{n}何も解決なんてしないわ。",
-   "en": "",
+   "en": "...He's right. Just turning away from a painful reality{n}won't solve anything.",
    "term": "end"
   },
   {
    "id": "scen183.0133",
    "jp": "{FFF6}現実を受け入れないということは、{n}自分の過ちからも逃げてしまうことか‥‥。",
-   "en": "",
+   "en": "{FFF6}Refusing to accept reality means running from my own{n}mistakes, too...",
    "term": "end"
   },
   {
    "id": "scen183.0134",
    "jp": "‥‥ありがとう。{n}{FFFB}その一言で、目が覚めたわ。{n}私はもう、大丈夫だから‥‥。",
-   "en": "",
+   "en": "...Thank you. {FFFB}Those words woke me up. I'm all{n}right now...",
    "term": "end"
   },
   {
    "id": "scen183.0135",
    "jp": "落ち込んで、立ち止まってても仕方ないのよ。{n}{FFFB}だったら、少しでも前に進むことを{n}一緒に考えましょう？",
-   "en": "",
+   "en": "Wallowing and standing still won't do any good. {FFFB}So let's{n}think together about how to take even one step{n}forward, all right?",
    "term": "end"
   },
   {
    "id": "scen183.0136",
    "jp": "{FFF6}私、両親を失った悲しみから、ずっと逃げてた‥‥。{n}ジャスティンを盾にして、過去しか見てなかった。",
-   "en": "",
+   "en": "{FFF6}I've been running from the grief of losing my parents{n}all this time... Hiding behind Justin, looking only at{n}the past.",
    "term": "end"
   },
   {
    "id": "scen183.0137",
    "jp": "でも‥‥{FE1E}もう逃げない。{n}ちゃんと向き合って、全部受け止めていくわ。",
-   "en": "",
+   "en": "But...{FE1E} I won't run anymore. I'll face it properly and{n}accept all of it.",
    "term": "end"
   },
   {
    "id": "scen183.0138",
    "jp": "‥‥メルフィ！",
-   "en": "",
+   "en": "...Melfie!",
    "term": "end"
   },
   {
    "id": "scen183.0139",
    "jp": "ふっ‥‥。{n}ようやく前に向かって歩き出せそうだな。",
-   "en": "",
+   "en": "Heh... Looks like she can finally start walking forward.",
    "term": "end"
   },
   {
    "id": "scen183.0140",
    "jp": "よかった、メルフィさん‥‥。{n}{FFFB}{FFF6}本当によかったぁ‥‥。",
-   "en": "",
+   "en": "I'm so glad, Melfie-san... {FFFB}{FFF6}So, so glad...",
    "term": "end"
   },
   {
    "id": "scen183.0141",
    "jp": "‥‥残る問題は、さっきの時空干渉で{n}流れ込んできたであろう大量のデュンケルスを{n}処理することだけだな。",
-   "en": "",
+   "en": "...The only problem left is dealing with all the Dunkels{n}that must have poured in during that space-time{n}interference just now.",
    "term": "end"
   },
   {
    "id": "scen183.0142",
    "jp": "‥‥あ、ちょっと待って‥‥！",
-   "en": "",
+   "en": "...Ah, wait a sec...!",
    "term": "end"
   },
   {
    "id": "scen183.0143",
    "jp": "どうしたの、マスター‥‥。{n}{FFFB}‥‥えっ、もうムリ？{n}うん、わかった、伝えるね！",
-   "en": "",
+   "en": "What is it, Master... {FFFB}...Huh, you can't take any more?{n}Okay, got it, I'll tell them!",
    "term": "end"
   },
   {
    "id": "scen183.0144",
    "jp": "ティピ、お母さんから何か言われたの？",
-   "en": "",
+   "en": "Tippi, did Mother tell you something?",
    "term": "end"
   },
   {
    "id": "scen183.0145",
    "jp": "うん！{n}{FFFB}集魔柱で集めてるデュンケルスが{n}魔法学院で処理しきれなくなってるんだって！",
-   "en": "",
+   "en": "Yep! {FFFB}The Magic Academy can't keep up with processing{n}the Dunkels the mana collection pillars are gathering!",
    "term": "end"
   },
   {
    "id": "scen183.0146",
    "jp": "それじゃ、{n}私たちの身体を使って無害にするしかないわね。",
-   "en": "",
+   "en": "Then we'll have no choice but to render it harmless with{n}our own bodies.",
    "term": "end"
   },
   {
    "id": "scen183.0147",
    "jp": "私なら、いつでも準備は出来ているぞ。",
-   "en": "",
+   "en": "As for me, I'm ready anytime.",
    "term": "end"
   },
   {
    "id": "scen183.0148",
    "jp": "携帯用集魔柱は持っているわね？{n}{FFFB}この塔の上階に、外が見える場所があるわ。{n}そこからデュンケルスを呼び込みましょう。",
-   "en": "",
+   "en": "You have the portable mana collection pillar, don't you?{n}{FFFB}There's a place on the upper floors of this tower{n}where you can see outside.{p}Let's draw the Dunkels in from there.",
    "term": "end"
   },
   {
    "id": "scen183.0149",
    "jp": "アメリア、私も行かせて！",
-   "en": "",
+   "en": "Amelia, let me go too!",
    "term": "end"
   },
   {
    "id": "scen183.0150",
    "jp": "‥‥無理だわ。{n}{FFFB}メルフィはさっきの時空干渉で、{n}大きく体力を消耗してるはずよ。{p}そんな状態で来たら、メルフィの体が危ない。{n}まずは、体力を回復させないと‥‥。",
-   "en": "",
+   "en": "...You can't. {FFFB}You must have used up a lot of your{n}strength in that space-time interference, Melfie.{p}If you come in that state, your body will be in danger.{n}First, you need to recover your strength...",
    "term": "end"
   },
   {
    "id": "scen183.0151",
    "jp": "で、でも‥‥！",
-   "en": "",
+   "en": "B-but...!",
    "term": "end"
   },
   {
    "id": "scen183.0152",
    "jp": "わたしたちなら、大丈夫だよ！{n}だからお願い、{n}メルフィさんは少しここで休んでて？",
-   "en": "",
+   "en": "We'll be fine! So please, Melfie-san, rest here for a little{n}while, okay?",
    "term": "end"
   },
   {
    "id": "scen183.0153",
    "jp": "ルイセ‥‥。{n}{FFFB}{FFF6}わかった、お前がそう言うなら‥‥。",
-   "en": "",
+   "en": "Luise... {FFFB}{FFF6}All right, if you say so...",
    "term": "end"
   },
   {
    "id": "scen183.0154",
    "jp": "よーーしっ！{n}{FFFB}それじゃ、とっととデュンケルスをなんとかして{n}みんなで帰りましょ！",
-   "en": "",
+   "en": "All riiight! {FFFB}Then let's hurry up and deal with the Dunkels{n}so we can all go home!",
    "term": "end"
   },
   {
    "id": "scen183.0155",
    "jp": "闇を浄化せよ！",
-   "en": "",
+   "en": "Purify the Darkness!",
    "term": "end"
   },
   {
    "id": "scen183.0156",
    "jp": "この先、何が起こるか分からないわ。{n}{FFFB}もし不安だったら、１度戻るのも手よ。{n}‥‥準備だけは、万全に整えておいてね？",
-   "en": "",
+   "en": "There's no telling what will happen from here on. {FFFB}If{n}you're worried, going back once is an option too. ...Just{n}make sure you're fully prepared, okay?",
    "term": "end"
   },
   {
    "id": "scen183.0157",
    "jp": "こんなこと、言える立場じゃないけど‥‥。{n}{FFFB}‥‥どうか、気をつけて‥‥。",
-   "en": "",
+   "en": "I'm in no position to say this, but... {FFFB}...please,{n}be careful...",
    "term": "end"
   },
   {
    "id": "scen183.0158",
    "jp": "パワーストーン精製装置は現在、{n}システムリソースが工房機能に{n}振り分けられているため、使用できません。{p}変更するには、管理者権限を持つ{n}ユーザーのアクセスが必要です。",
-   "en": "",
+   "en": "The Power Stone refinement device is currently{n}unavailable, as system resources are allocated to the{n}workshop function.{p}To change this, access by a user with administrator{n}privileges is required.",
    "term": "end"
   },
   {
    "id": "scen183.0159",
    "jp": "耐久限界を超えたアーティファクトを検知。{n}工房機能を起動して修復しますか？",
-   "en": "",
+   "en": "Artifact beyond its durability limit detected. Activate{n}the workshop function to repair it?",
    "term": "end"
   },
   {
    "id": "scen183.0160",
    "jp": "あっ！{n}{FFFB}この機能を利用すれば{n}あのガラクタを接合出来るかもしれないわ！{p}駄目でもともとだけど、{n}チャレンジしてみる価値はあると思うわよ？",
-   "en": "",
+   "en": "Oh! {FFFB}With this function, we might be able to join that junk{n}back together!{p}We've got nothing to lose, so I think it's worth a try,{n}don't you?",
    "term": "end"
   },
   {
    "id": "scen183.0161",
    "jp": "槍部品を修理させてみますか？",
-   "en": "",
+   "en": "Have it repair the spear parts?",
    "term": "end"
   },
   {
@@ -1029,55 +1029,55 @@
   {
    "id": "scen183.0164",
    "jp": "　{n}　　　　　『{FFEF}槍部品・柄{FFF1}』を投入した！",
-   "en": "",
+   "en": "　{n}　　　　　Inserted '{FFEF}Spear Part: Shaft{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen183.0165",
    "jp": "　{n}　　　　　『{FFEF}槍部品・穂先{FFF1}』を投入した！",
-   "en": "",
+   "en": "　{n}　　　　　Inserted '{FFEF}Spear Part: Head{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen183.0166",
    "jp": "　{n}　　　　　『{FFEF}槍部品・握り{FFF1}』を投入した！",
-   "en": "",
+   "en": "　{n}　　　　　Inserted '{FFEF}Spear Part: Grip{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen183.0167",
    "jp": "材質を分析します。",
-   "en": "",
+   "en": "Analyzing materials.",
    "term": "end"
   },
   {
    "id": "scen183.0168",
    "jp": "断層検査を開始‥‥完了。{n}３Ｄプラズマ溶接を開始‥‥‥{FE1E}完了。{n}{FE0A}冷却開始‥‥{FE1E}完了。{p}全工程、終了しました。",
-   "en": "",
+   "en": "Starting fault inspection... complete. Starting 3D plasma{n}welding......{FE1E} complete. {FE0A}Starting cooling...{FE1E} complete.{p}All processes finished.",
    "term": "end"
   },
   {
    "id": "scen183.0169",
    "jp": "　{n}　　聖槍{FFEF}ロンゴミアント{FFF1}を手に入れた！",
-   "en": "",
+   "en": "　{n}　　Obtained the holy spear {FFEF}Rhongomyniad{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen183.0170",
    "jp": "すごーい！{n}全部くっついて、武器になったよ！",
-   "en": "",
+   "en": "Wooow! It all stuck together and turned into a weapon!",
    "term": "end"
   },
   {
    "id": "scen183.0171",
    "jp": "ほう、これは素晴らしい槍だな‥‥。{n}{FFFB}これさえあれば、{n}我の力が十二分に発揮されるだろう。",
-   "en": "",
+   "en": "Hoh, this is a splendid spear... {FFFB}With this, my power will{n}be unleashed to the fullest.",
    "term": "end"
   },
   {
    "id": "scen183.0172",
    "jp": "そう‥‥。{n}まぁ、気が向いたらチャレンジしてみてね。",
-   "en": "",
+   "en": "I see... Well, give it a try if you ever feel like it.",
    "term": "end"
   },
   {
@@ -1125,25 +1125,25 @@
   {
    "id": "scen183.0179",
    "jp": "{v:0003}くぅぅ‥‥この程度で‥‥！",
-   "en": "",
+   "en": "{v:0003}Ngh... As if this is enough to...!",
    "term": "end"
   },
   {
    "id": "scen183.0180",
    "jp": "{v:0004}きゃああっ！{n}‥‥研究中に何度か感電したけど‥‥、{n}慣れないわ‥‥。",
-   "en": "",
+   "en": "{v:0004}Kyaaah! ...I got shocked a few times during my{n}research, but... I never get used to it...",
    "term": "end"
   },
   {
    "id": "scen183.0181",
    "jp": "{v:0005}あれよ！{n}アレにパワーストーンをセットして！",
-   "en": "",
+   "en": "{v:0005}That's it! Set the Power Stone in that!",
    "term": "end"
   },
   {
    "id": "scen183.0182",
    "jp": "{v:0006}早く、早く！",
-   "en": "",
+   "en": "{v:0006}Hurry, hurry!",
    "term": "end"
   },
   {
@@ -1156,264 +1156,264 @@
   {
    "id": "scen183.0184",
    "jp": "{v:0007}セット完了だよ！",
-   "en": "",
+   "en": "{v:0007}It's all set!",
    "term": "end"
   },
   {
    "id": "scen183.0185",
    "jp": "{v:0008}私たちに出来るのはここまで‥‥。{n}これで間に合わなかったら‥‥。{p}‥‥{v:0009}ううん、メルフィたちを信じましょう。",
-   "en": "",
+   "en": "{v:0008}This is as far as we can go... If this isn't in time...{p}...{v:0009}No. Let's believe in Melfie and the others.",
    "term": "end"
   },
   {
    "id": "scen183.0186",
    "jp": "{v:000A}ルイセ‥‥。{n}グローシアンの力で‥‥、{n}お前の持つグローシュで‥‥この闇を相殺するんだ！",
-   "en": "",
+   "en": "{v:000A}Luise... With your Growsian power... with the Grosh you{n}hold... cancel out this darkness!",
    "term": "end"
   },
   {
    "id": "scen183.0187",
    "jp": "{v:000B}うん、やってみる！{p}{v:000C}うぅぅぅぅぅぅ！{n}高まれ！{n}わたしのグローシュ！{p}{v:000D}人間も、フェザリアンも、グローシアンも！{n}絶対に守ってみせる！",
-   "en": "",
+   "en": "{v:000B}Okay, I'll try!{p}{v:000C}Nnnnnnngh! Rise up, my Grosh!{p}{v:000D}Humans, Featherians, Growsians! I'll protect them all,{n}no matter what!",
    "term": "end"
   },
   {
    "id": "scen183.0188",
    "jp": "‥‥{v:000E}これは‥‥この光‥‥あたたかい‥‥。{n}これがグローシュ‥‥？{n}‥‥いや、これはルイセの想い‥‥。",
-   "en": "",
+   "en": "...{v:000E}This... this light... it's warm... Is this Grosh...? ...No, this{n}is Luise's feelings...",
    "term": "end"
   },
   {
    "id": "scen183.0189",
    "jp": "{v:000F}ルイセの想いと‥‥私の思いが‥‥{n}シンクロしていく‥‥。",
-   "en": "",
+   "en": "{v:000F}Luise's feelings... and mine... are coming into sync...",
    "term": "end"
   },
   {
    "id": "scen183.0190",
    "jp": "{v:0010}メルフィさん！",
-   "en": "",
+   "en": "{v:0010}Melfie-san!",
    "term": "end"
   },
   {
    "id": "scen183.0191",
    "jp": "{v:0011}ああ！",
-   "en": "",
+   "en": "{v:0011}Yes!",
    "term": "end"
   },
   {
    "id": "scen183.0192",
    "jp": "{v:0012}闇の世界になんか、させない！",
-   "en": "",
+   "en": "{v:0012}I won't let this become a world of darkness!",
    "term": "end"
   },
   {
    "id": "scen183.0193",
    "jp": "{v:0014}やった‥‥やったよ、メルフィさん！{n}みんな助かったよ！",
-   "en": "",
+   "en": "{v:0014}We did it... We did it, Melfie-san! Everyone's saved!",
    "term": "end"
   },
   {
    "id": "scen183.0194",
    "jp": "{v:0015}ああ、よくやった‥‥。",
-   "en": "",
+   "en": "{v:0015}Yes, well done...",
    "term": "end"
   },
   {
    "id": "scen183.0195",
    "jp": "{v:0016}だが、すまない‥‥。{n}私はここまでのようだ‥‥。",
-   "en": "",
+   "en": "{v:0016}But I'm sorry... It seems this is as far as I go...",
    "term": "end"
   },
   {
    "id": "scen183.0196",
    "jp": "{v:0018}きゃあああああっ！",
-   "en": "",
+   "en": "{v:0018}Kyaaaaaah!",
    "term": "end"
   },
   {
    "id": "scen183.0197",
    "jp": "{v:0019}これは‥‥フェザリアンの人たち‥‥。",
-   "en": "",
+   "en": "{v:0019}These are... Featherians...",
    "term": "end"
   },
   {
    "id": "scen183.0198",
    "jp": "{v:001A}女王に命じられて来た。{n}世界を救った者を死なせるわけにはいかない。{p}{v:001B}そして何より、{n}フェザリアンとグローシアンの{n}架け橋となるお前たちをな。",
-   "en": "",
+   "en": "{v:001A}We came on the Queen's orders. We cannot let the one{n}who saved the world die.{p}{v:001B}And above all, not those of you who will be the bridge{n}between Featherians and Growsians.",
    "term": "end"
   },
   {
    "id": "scen183.0199",
    "jp": "{v:001C}フェザリアンとグローシアンの架け橋‥‥。{n}私が‥‥。{p}{FFF6}‥‥{v:001D}そう‥‥私が、架け橋に‥‥。",
-   "en": "",
+   "en": "{v:001C}A bridge between Featherians and Growsians... Me...{p}{FFF6}...{v:001D}Yes... I'll be a bridge...",
    "term": "end"
   },
   {
    "id": "scen183.0200",
    "jp": "{v:004A}こんどこそ‥‥本当に終わったよね‥‥？",
-   "en": "",
+   "en": "{v:004A}This time... it's really over, right...?",
    "term": "end"
   },
   {
    "id": "scen183.0201",
    "jp": "{v:0027}ああ、そのようだな。{n}だが歪みが大きくなっちまったようだぜ！",
-   "en": "",
+   "en": "{v:0027}Yeah, looks that way. But the distortion's{n}gotten bigger!",
    "term": "end"
   },
   {
    "id": "scen183.0202",
    "jp": "{v:0028}こんな歪み‥‥。{n}デュンケルスの流入が大きすぎる‥‥。{n}集魔柱の許容量を超えてるわ‥‥。",
-   "en": "",
+   "en": "{v:0028}A distortion like this... Too much Dunkels is pouring in...{n}It's beyond what the mana collection pillars can hold...",
    "term": "end"
   },
   {
    "id": "scen183.0203",
    "jp": "{v:0029}それじゃ、どうなるんだ？{n}あのまま放置しておいたら、時空分離が進んで、{n}世界は闇に飲まれるぞ！",
-   "en": "",
+   "en": "{v:0029}Then what happens? If we leave it like that, the{n}space-time separation will advance, and the world will{n}be swallowed by darkness!",
    "term": "end"
   },
   {
    "id": "scen183.0204",
    "jp": "{v:002A}そんな‥‥！ど、どうしよう！？",
-   "en": "",
+   "en": "{v:002A}No...! Wh-what do we do?!",
    "term": "end"
   },
   {
    "id": "scen183.0205",
    "jp": "・もはや手遅れ",
-   "en": "",
+   "en": "・It's already too late",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0206",
    "jp": "・最後まで諦めない！",
-   "en": "",
+   "en": "・I won't give up till the end!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0207",
    "jp": "・時空制御塔を使えれば‥‥",
-   "en": "",
+   "en": "・If we could use the Space-Time Control Tower...",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0208",
    "jp": "{v:002B}イヤだよ！{n}わたしはあきらめない！",
-   "en": "",
+   "en": "{v:002B}No way! I'm not giving up!",
    "term": "end"
   },
   {
    "id": "scen183.0209",
    "jp": "{v:002C}そうだよ！{n}わたしもあきらめない！",
-   "en": "",
+   "en": "{v:002C}That's right! I won't give up either!",
    "term": "end"
   },
   {
    "id": "scen183.0210",
    "jp": "{v:002D}そうだよ！{n}ここには時空制御塔があるんだよ？{n}わたし、あきらめないから！",
-   "en": "",
+   "en": "{v:002D}That's right! We have the Space-Time Control Tower{n}right here, don't we? I'm not giving up!",
    "term": "end"
   },
   {
    "id": "scen183.0211",
    "jp": "{v:002E}その通り‥‥、{n}諦めてはダメ‥‥。",
-   "en": "",
+   "en": "{v:002E}That's right... You mustn't give up...",
    "term": "end"
   },
   {
    "id": "scen183.0212",
    "jp": "{v:002F}メルフィさん？",
-   "en": "",
+   "en": "{v:002F}Melfie-san?",
    "term": "end"
   },
   {
    "id": "scen183.0213",
    "jp": "{v:0030}ルイセ‥‥。{n}お前のグローシアンとしての力が必要だ。{n}私に、手を貸して。",
-   "en": "",
+   "en": "{v:0030}Luise... I need your power as a Growsian. Lend me{n}a hand.",
    "term": "end"
   },
   {
    "id": "scen183.0214",
    "jp": "{v:0031}メルフィさん‥‥。",
-   "en": "",
+   "en": "{v:0031}Melfie-san...",
    "term": "end"
   },
   {
    "id": "scen183.0215",
    "jp": "・ルイセ、行ってこい",
-   "en": "",
+   "en": "・Go, Luise",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0216",
    "jp": "・ルイセ、危険だ",
-   "en": "",
+   "en": "・Luise, it's dangerous",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen183.0217",
    "jp": "‥‥{v:0032}うん、そうだよね！{n}‥‥わたし、やる！",
-   "en": "",
+   "en": "...{v:0032}Yes, you're right! ...I'll do it!",
    "term": "end"
   },
   {
    "id": "scen183.0218",
    "jp": "‥‥{v:0033}うん‥‥。{n}でもね‥‥危険だけどやらないと‥‥！{n}わたし、この世界を助けたいの！",
-   "en": "",
+   "en": "...{v:0033}Yes... But even so... it's dangerous, but I have to do{n}it...! I want to save this world!",
    "term": "end"
   },
   {
    "id": "scen183.0219",
    "jp": "{v:0034}アメリアたちは、時空制御塔の機能を取り戻して。{n}ここにパワーストーンがあるわ。",
-   "en": "",
+   "en": "{v:0034}Amelia, you and the others restore the Space-Time{n}Control Tower's functions. Here's a Power Stone.",
    "term": "end"
   },
   {
    "id": "scen183.0220",
    "jp": "{v:0035}パワーストーン！{n}これがあれば、時空分離を止められる！",
-   "en": "",
+   "en": "{v:0035}A Power Stone! With this, we can stop the{n}space-time separation!",
    "term": "end"
   },
   {
    "id": "scen183.0221",
    "jp": "　{n}メルフィから{FFEF}パワーストーン{FFF1}を受け取った！",
-   "en": "",
+   "en": "　{n}Received the {FFEF}Power Stone{FFF1} from Melfie!",
    "term": "end"
   },
   {
    "id": "scen183.0222",
    "jp": "{v:0036}メルフィさんはどうするの？",
-   "en": "",
+   "en": "{v:0036}What will you do, Melfie-san?",
    "term": "end"
   },
   {
    "id": "scen183.0223",
    "jp": "{v:0037}ルイセと、デュンケルスの侵入を食い止める！{p}{v:0038}行くぞ、ルイセ。",
-   "en": "",
+   "en": "{v:0037}Luise and I will hold back the Dunkels' invasion!{p}{v:0038}Let's go, Luise.",
    "term": "end"
   },
   {
    "id": "scen183.0224",
    "jp": "{v:0039}は、はい！",
-   "en": "",
+   "en": "{v:0039}Y-yes!",
    "term": "end"
   },
   {
    "id": "scen183.0225",
    "jp": "{v:003A}オレたちも急ごう。",
-   "en": "",
+   "en": "{v:003A}We'd better hurry too.",
    "term": "end"
   },
   {
    "id": "scen183.0226",
    "jp": "{v:003B}もう一度最上階まで行って！{n}一番奥に時空融合装置があるわ！",
-   "en": "",
+   "en": "{v:003B}Go to the top floor once more! The space-time fusion{n}device is at the very back!",
    "term": "end"
   },
   {
@@ -1433,25 +1433,25 @@
   {
    "id": "scen183.0229",
    "jp": "時空融合装置を起動せよ！",
-   "en": "",
+   "en": "Activate the space-time fusion device!",
    "term": "end"
   },
   {
    "id": "scen183.0230",
    "jp": "{v:0000}早いところ、{n}パワーストーンで時空制御装置を動かすのよ！",
-   "en": "",
+   "en": "{v:0000}Hurry up and use the Power Stone to activate the{n}space-time control device!",
    "term": "end"
   },
   {
    "id": "scen183.0231",
    "jp": "{v:0001}ここまでにそんな装置はなかったぞ。",
-   "en": "",
+   "en": "{v:0001}There wasn't any device like that on the way here.",
    "term": "end"
   },
   {
    "id": "scen183.0232",
    "jp": "{v:0002}もっと奥よ！",
-   "en": "",
+   "en": "{v:0002}It's further in!",
    "term": "end"
   },
   {
@@ -1471,7 +1471,7 @@
   {
    "id": "scen183.0235",
    "jp": "{v:0000}携帯用集魔柱を使うのね？",
-   "en": "",
+   "en": "{v:0000}You're going to use the portable mana collection pillar?",
    "term": "end"
   },
   {
@@ -1493,133 +1493,133 @@
   {
    "id": "scen183.0238",
    "jp": "{v:0001}準備がまだなら早くしましょう。",
-   "en": "",
+   "en": "{v:0001}If you're not ready yet, let's hurry.",
    "term": "end"
   },
   {
    "id": "scen183.0239",
    "jp": "‥‥{v:0002}では始めましょうか。",
-   "en": "",
+   "en": "...{v:0002}Well then, shall we begin?",
    "term": "end"
   },
   {
    "id": "scen183.0240",
    "jp": "{v:0004}よし、いつでもいいわよ。",
-   "en": "",
+   "en": "{v:0004}All right, I'm ready whenever you are.",
    "term": "end"
   },
   {
    "id": "scen183.0241",
    "jp": "{v:0005}闇の波動が‥‥、{n}デュンケルスの波動が来る‥‥。",
-   "en": "",
+   "en": "{v:0005}The wave of darkness... The Dunkels wave is coming...",
    "term": "end"
   },
   {
    "id": "scen183.0242",
    "jp": "{v:0006}がんばってね！{n}アンタたちが頼りなんだから！",
-   "en": "",
+   "en": "{v:0006}Hang in there! We're counting on you guys!",
    "term": "end"
   },
   {
    "id": "scen183.0243",
    "jp": "{v:0007}この程度で、私が‥‥まいると思うか‥‥？",
-   "en": "",
+   "en": "{v:0007}You think... something like this... will wear me down...?",
    "term": "end"
   },
   {
    "id": "scen183.0244",
    "jp": "{FFF6}{v:0008}でも‥‥キツイのは‥‥事実よね‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0008}Still... it's true that... it's rough...",
    "term": "end"
   },
   {
    "id": "scen183.0245",
    "jp": "{v:0009}あと少しで、全部転送が終わるって！{n}がんばって！",
-   "en": "",
+   "en": "{v:0009}They say the transfer's almost done! Hang in there!",
    "term": "end"
   },
   {
    "id": "scen183.0246",
    "jp": "{FFF6}{v:000A}この程度なら‥‥！",
-   "en": "",
+   "en": "{FFF6}{v:000A}This much... I can take...!",
    "term": "end"
   },
   {
    "id": "scen183.0247",
    "jp": "{FFF6}‥‥{v:000B}うぅ‥‥耐えて‥‥みせるぅぅ‥‥！",
-   "en": "",
+   "en": "{FFF6}...{v:000B}Ngh... I'll... endure it...!",
    "term": "end"
   },
   {
    "id": "scen183.0248",
    "jp": "{v:000C}えっ‥‥！？{n}この感じ‥‥‥。",
-   "en": "",
+   "en": "{v:000C}Huh...?! This feeling......",
    "term": "end"
   },
   {
    "id": "scen183.0249",
    "jp": "{v:000D}転送が終わったって！{n}もうじき収まるはずだよ！",
-   "en": "",
+   "en": "{v:000D}They say the transfer's done! It should settle{n}down soon!",
    "term": "end"
   },
   {
    "id": "scen183.0250",
    "jp": "{v:000E}お、お兄ちゃん！{n}それ‥‥。",
-   "en": "",
+   "en": "{v:000E}B-Big Brother! That's...",
    "term": "end"
   },
   {
    "id": "scen183.0251",
    "jp": "{v:000F}な、何だ、何が起こっているんだ？",
-   "en": "",
+   "en": "{v:000F}Wh-what? What's happening?",
    "term": "end"
   },
   {
    "id": "scen183.0252",
    "jp": "{v:0010}お兄ちゃん達の身体から‥‥。",
-   "en": "",
+   "en": "{v:0010}From your bodies, Big Brother...",
    "term": "end"
   },
   {
    "id": "scen183.0253",
    "jp": "{v:0011}うわああっ！{n}身体が２つに分かれたぁぁ！？",
-   "en": "",
+   "en": "{v:0011}Whoaaa! Their bodies split in twooo?!",
    "term": "end"
   },
   {
    "id": "scen183.0254",
    "jp": "{v:0012}分裂しただと！？",
-   "en": "",
+   "en": "{v:0012}They split apart?!",
    "term": "end"
   },
   {
    "id": "scen183.0255",
    "jp": "{v:0013}これはいい‥‥。{n}やっと肉体を手に入れたぞ‥‥。{n}これで自由だ‥‥。",
-   "en": "",
+   "en": "{v:0013}This is good... At last, I have a body of my own... Now I{n}am free...",
    "term": "end"
   },
   {
    "id": "scen183.0256",
    "jp": "{v:003C}まさか‥‥。{n}私たちの身体のゲヴェル細胞が‥‥！？{p}{v:003D}活性化したゲヴェル細胞が自我を！？",
-   "en": "",
+   "en": "{v:003C}It can't be... The Gevel cells in our bodies...?!{p}{v:003D}The activated Gevel cells gained a will of their own?!",
    "term": "end"
   },
   {
    "id": "scen183.0257",
    "jp": "{v:0014}我らが人間に屈するなど、あってはならぬのだ。{p}{v:0015}さあ、人間は滅び去れ！",
-   "en": "",
+   "en": "{v:0014}We will never bow to humans.{p}{v:0015}Now, humanity, perish!",
    "term": "end"
   },
   {
    "id": "scen183.0258",
    "jp": "{v:0016}そんな‥‥３人の闇の姿が‥‥。{p}{v:0017}ひょっとして、コイツに予言された、{n}この世を破壊する闇となるって、こういうこと？",
-   "en": "",
+   "en": "{v:0016}No way... Three figures of darkness...{p}{v:0017}Could this be what the prophecy meant, about this guy{n}becoming the darkness that destroys the world?",
    "term": "end"
   },
   {
    "id": "scen183.0259",
    "jp": "{v:0018}そんなことさせない！{n}お兄ちゃんのニセ者なんて、許さないんだから！",
-   "en": "",
+   "en": "{v:0018}I won't let that happen! I won't forgive a fake{n}Big Brother!",
    "term": "end"
   },
   {
@@ -1632,7 +1632,7 @@
   {
    "id": "scen183.0261",
    "jp": "お兄ちゃん、メルフィさんを無視して{n}どこへ行くつもりなの？",
-   "en": "",
+   "en": "Big Brother, where are you going? You're{n}ignoring Melfie-san!",
    "term": "end"
   },
   {

@@ -50,13 +50,13 @@
   {
    "id": "scen175.0006",
    "jp": "{s:0160}王城",
-   "en": "",
+   "en": "{s:0160} Castle",
    "term": "end"
   },
   {
    "id": "scen175.0007",
    "jp": "おい、どこへ行くんだ？{n}これからの方針を立てるために、{n}まずは{s:0004}王と相談をすべきだろう？",
-   "en": "",
+   "en": "Hey, where are you going? We should talk with King {s:0004}{n}first to decide our course of action, shouldn't we?",
    "term": "end"
   },
   {
@@ -90,163 +90,163 @@
   {
    "id": "scen175.0012",
    "jp": "{s:000A}様、{n}この武器をお持ちください。",
-   "en": "",
+   "en": "{s:000A}, please take this weapon with you.",
    "term": "end"
   },
   {
    "id": "scen175.0013",
    "jp": "　{n}　　シルバーランスをこれ以上持てなかった。",
-   "en": "",
+   "en": "　{n}　　Couldn't carry any more Silver Lances.",
    "term": "end"
   },
   {
    "id": "scen175.0014",
    "jp": "すまない、{s:0154}。{n}その武器は、これ以上持てないようだ。{n}気持ちだけありがたく受け取っておこう。",
-   "en": "",
+   "en": "I'm sorry, {s:0154}. It seems I can't carry{n}any more weapons. I'll gratefully accept the{n}thought alone.",
    "term": "end"
   },
   {
    "id": "scen175.0015",
    "jp": "そうでしたか‥‥。{n}それは残念ですが、仕方ありませんね。",
-   "en": "",
+   "en": "I see... That's a shame, but it can't be helped.",
    "term": "end"
   },
   {
    "id": "scen175.0016",
    "jp": "　{n}　　　　　『{FFEF}シルバーランス{FFF1}』を手に入れた。",
-   "en": "",
+   "en": "　{n}　　　　　Obtained '{FFEF}Silver Lance{FFF1}'.",
    "term": "end"
   },
   {
    "id": "scen175.0017",
    "jp": "‥‥これは、私が愛用していた武器‥‥。{p}{FFF6}驚いた。{n}とっくに廃棄されたものだと思っていたよ。",
-   "en": "",
+   "en": "...This is the weapon I once favoured...{p}{FFF6}I'm surprised. I thought it had been disposed of{n}long ago.",
    "term": "end"
   },
   {
    "id": "scen175.0018",
    "jp": "この武器は、かつて{s:000A}様が{n}国民たちのために力をふるった証‥‥。{n}{FFFB}それを、やすやすと廃棄できる訳がありません。",
-   "en": "",
+   "en": "This weapon is proof of how {s:000A} once{n}wielded his strength for the people... {FFFB}How could I{n}discard it so easily?",
    "term": "end"
   },
   {
    "id": "scen175.0019",
    "jp": "ふっ‥‥。{n}それを再び手にするというのは、責任重大だな。{p}ありがとう、大事に使わせてもらうよ。",
-   "en": "",
+   "en": "Heh... To take this up once more is a{n}heavy responsibility.{p}Thank you. I will take good care of it.",
    "term": "end"
   },
   {
    "id": "scen175.0020",
    "jp": "{FFF6}{s:0154}、お前の心遣いに改めて感謝する。{n}私は、本当に良い友人を持った。",
-   "en": "",
+   "en": "{FFF6}{s:0154}, once again, I thank you for your{n}kindness. I truly have a good friend.",
    "term": "end"
   },
   {
    "id": "scen175.0021",
    "jp": "{FFF6}勿体なきお言葉‥‥。",
-   "en": "",
+   "en": "{FFF6}You honor me too much...",
    "term": "end"
   },
   {
    "id": "scen175.0022",
    "jp": "では、行ってくる！",
-   "en": "",
+   "en": "Well then, I'm off!",
    "term": "end"
   },
   {
    "id": "scen175.0023",
    "jp": "皆様のご武運をお祈りします。",
-   "en": "",
+   "en": "I pray for your success in battle, all of you.",
    "term": "end"
   },
   {
    "id": "scen175.0024",
    "jp": "何の罪もない人々を襲おうとするとは‥‥。",
-   "en": "",
+   "en": "To think he would attack people who have done{n}nothing wrong...",
    "term": "end"
   },
   {
    "id": "scen175.0025",
    "jp": "{s:0160}城は、{n}私が命に変えても死守してみせます。",
-   "en": "",
+   "en": "I will defend {s:0160} Castle, even at the{n}cost of my life.",
    "term": "end"
   },
   {
    "id": "scen175.0026",
    "jp": "{s:000A}様のこと、感謝している。{p}お前は、我が友を救ってくれた恩人だ。{n}この恩、一生忘れることはないだろう。",
-   "en": "",
+   "en": "I am grateful for what you did for {s:000A}.{p}You are the one who saved my friend. I will never{n}forget this debt as long as I live.",
    "term": "end"
   },
   {
    "id": "scen175.0027",
    "jp": "私はナイツの誇りにかけて、{s:00AE}を守ってみせる。",
-   "en": "",
+   "en": "On my pride as a Knight, I will protect every last{n}{s:00AE}.",
    "term": "end"
   },
   {
    "id": "scen175.0028",
    "jp": "牢の中にいる{s:000A}様が、{n}日に日に衰弱されている。{n}そのお姿を見るのが、私には辛い‥‥。",
-   "en": "",
+   "en": "{s:000A} grows weaker by the day in that{n}cell. It pains me to see him like that...",
    "term": "end"
   },
   {
    "id": "scen175.0029",
    "jp": "{s:0161}城の下から{s:0119}を解放したと{n}思われる３人組のことだが‥‥。{p}そいつらは、{s:0119}がそこに眠っていることを{n}どこで知ったのだろうか？",
-   "en": "",
+   "en": "About the trio thought to have released {s:0119}{n}from beneath {s:0161} Castle...{p}Where did they learn that {s:0119} was{n}sleeping there?",
    "term": "end"
   },
   {
    "id": "scen175.0030",
    "jp": "あの衝撃‥‥‥。{n}ただの地震ではないな。",
-   "en": "",
+   "en": "That tremor..... That was no ordinary earthquake.",
    "term": "end"
   },
   {
    "id": "scen175.0031",
    "jp": "{s:000A}様、どうぞこの防具をお持ちください。",
-   "en": "",
+   "en": "{s:000A}, please take this armor with you.",
    "term": "end"
   },
   {
    "id": "scen175.0032",
    "jp": "　{n}　　　　ナイツの鎧をこれ以上持てなかった。",
-   "en": "",
+   "en": "　{n}　　　　Couldn't carry any more Knight's Armor.",
    "term": "end"
   },
   {
    "id": "scen175.0033",
    "jp": "すまない、{s:0151}。{n}その防具は、これ以上持てないようだ。{n}気持ちだけありがたく受け取っておこう。",
-   "en": "",
+   "en": "I'm sorry, {s:0151}. It seems I can't carry{n}any more armor. I'll gratefully accept the{n}thought alone.",
    "term": "end"
   },
   {
    "id": "scen175.0034",
    "jp": "‥‥そうですか。{n}残念ですが、そういう理由なら彼も納得するでしょう。",
-   "en": "",
+   "en": "...I see. It's a shame, but he'll understand if that's{n}the reason.",
    "term": "end"
   },
   {
    "id": "scen175.0035",
    "jp": "ん‥‥？{n}それはどういう意味だ？",
-   "en": "",
+   "en": "Hm...? What do you mean by that?",
    "term": "end"
   },
   {
    "id": "scen175.0036",
    "jp": "　{n}　　　　　　『{FFEF}ナイツの鎧{FFF1}』を手に入れた。",
-   "en": "",
+   "en": "　{n}　　　　　　Obtained '{FFEF}Knight's Armor{FFF1}'.",
    "term": "end"
   },
   {
    "id": "scen175.0037",
    "jp": "ありがとう、{s:0151}。{n}大事に使わせてもらうよ。",
-   "en": "",
+   "en": "Thank you, {s:0151}. I will take good care{n}of it.",
    "term": "end"
   },
   {
    "id": "scen175.0038",
    "jp": "そう言って頂けると幸いです。{n}きっと、彼も喜んでいるはずですよ。",
-   "en": "",
+   "en": "I'm glad to hear you say so. I'm sure he's pleased{n}as well.",
    "term": "end"
   },
   {
@@ -259,14 +259,14 @@
   {
    "id": "scen175.0040",
    "jp": "・{s:0153}が用意した",
-   "en": "",
+   "en": "・{s:0153} prepared it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen175.0041",
    "jp": "・言わぬが花",
-   "en": "",
+   "en": "・Some things are best left unsaid",
    "term": "end",
    "unref": true
   },
@@ -281,109 +281,109 @@
   {
    "id": "scen175.0043",
    "jp": "さすが、鋭いですね。{p}{FC00}{s:000A}様の大事な門出に、{n}武器と防具をそれぞれ用意しようと提案したのは{n}{s:0154}なんですよ。",
-   "en": "",
+   "en": "Sharp as ever.{p}{FC00}It was {s:0154} who proposed that we each{n}prepare a weapon and armor for {s:000A}'s{n}important new start.",
    "term": "end"
   },
   {
    "id": "scen175.0044",
    "jp": "ゴ‥‥ゴホン！",
-   "en": "",
+   "en": "Ah... ahem!",
    "term": "end"
   },
   {
    "id": "scen175.0045",
    "jp": "{FFF6}ふっ‥‥。{n}なるほど、そういう事か。",
-   "en": "",
+   "en": "{FFF6}Heh... I see, so that's how it is.",
    "term": "end"
   },
   {
    "id": "scen175.0046",
    "jp": "ありがとう、これは大事に使わせてもらうよ。",
-   "en": "",
+   "en": "Thank you. I will take good care of this.",
    "term": "end"
   },
   {
    "id": "scen175.0047",
    "jp": "‥‥その心遣いに感謝しよう。",
-   "en": "",
+   "en": "...I am grateful for your consideration.",
    "term": "end"
   },
   {
    "id": "scen175.0048",
    "jp": "皆様、お気をつけて。",
-   "en": "",
+   "en": "Take care, everyone.",
    "term": "end"
   },
   {
    "id": "scen175.0049",
    "jp": "{s:0160}王都以外の闇落としも、{n}絶対に阻止しなければならないね。",
-   "en": "",
+   "en": "We must stop the Darkfall outside {s:0160}'s{n}capital as well, no matter what.",
    "term": "end"
   },
   {
    "id": "scen175.0050",
    "jp": "{s:000A}様の実力は保証するよ。{n}なんと言っても、僕らインペリアル・ナイツの{n}指揮をとっていたお方だからね。",
-   "en": "",
+   "en": "I can vouch for {s:000A}'s skill. After all, he's{n}the one who used to command us Imperial Knights.",
    "term": "end"
   },
   {
    "id": "scen175.0051",
    "jp": "どんなものが相手だろうと、僕はこの国‥‥、{n}いや、この大陸の平和を守ってみせるよ。",
-   "en": "",
+   "en": "Whatever we're up against, I'll protect the peace of{n}this country... no, of this whole continent.",
    "term": "end"
   },
   {
    "id": "scen175.0052",
    "jp": "{s:000A}様の衰弱が激しくなっている。{n}{FFFB}だけど、どうすればいいのか{n}僕たちには手立てが分からないんだ。",
-   "en": "",
+   "en": "{s:000A}'s condition is getting much worse.{n}{FFFB}But we have no idea what we can do about it.",
    "term": "end"
   },
   {
    "id": "scen175.0053",
    "jp": "{s:0154}も言ってる通り、{n}謎の３人組の{s:012A}的が気になるね。{p}１人のフェザリアンが荷担しているらしい、{n}というのも引っかかるな‥‥。",
-   "en": "",
+   "en": "As {s:0154} says, the mysterious trio's aim{n}worries me.{p}And the fact that a Featherian is apparently helping{n}them bothers me too...",
    "term": "end"
   },
   {
    "id": "scen175.0054",
    "jp": "嫌な予感がするな‥‥。",
-   "en": "",
+   "en": "I've got a bad feeling about this...",
    "term": "end"
   },
   {
    "id": "scen175.0055",
    "jp": "くっ‥‥、{s:0136}相手に直接{n}立ち向かうことが出来れば‥‥！",
-   "en": "",
+   "en": "Tch... If only I could face {s:0136} head-on...!",
    "term": "end"
   },
   {
    "id": "scen175.0056",
    "jp": "{s:0153}のあんな嬉しそうな顔は、{n}久しぶりに見た気がするな。{n}お前たちのおかげだ、礼を言うよ。",
-   "en": "",
+   "en": "It feels like ages since I last saw {s:0153}{n}look so happy. It's thanks to you. You have my thanks.",
    "term": "end"
   },
   {
    "id": "scen175.0057",
    "jp": "これ以上、国民に不安を与えてはおけぬ。",
-   "en": "",
+   "en": "We cannot let our people live in fear any longer.",
    "term": "end"
   },
   {
    "id": "scen175.0058",
    "jp": "ラシェルの一報は受けている。{n}まさか、こんな事態になるなんてな‥‥。",
-   "en": "",
+   "en": "We've received word from Rachelle. To think things{n}would come to this...",
    "term": "end"
   },
   {
    "id": "scen175.0059",
    "jp": "{s:0024}‥‥。{n}惜しい方を亡くしたものだ。",
-   "en": "",
+   "en": "{s:0024}... We have lost a fine man.",
    "term": "end"
   },
   {
    "id": "scen175.0060",
    "jp": "何が起こったんだ！？",
-   "en": "",
+   "en": "What happened?!",
    "term": "end"
   },
   {
@@ -454,245 +454,245 @@
   {
    "id": "scen175.0070",
    "jp": "全員そろったようですね。{n}では、今後の方針について作戦を立てましょう。",
-   "en": "",
+   "en": "It seems everyone is here. Now, let's plan our course{n}of action.",
    "term": "end"
   },
   {
    "id": "scen175.0071",
    "jp": "早速だけど、皆に話したいことがあるの。{n}いいかしら？",
-   "en": "",
+   "en": "Let's get right to it. There's something I want to tell{n}everyone. Is that all right?",
    "term": "end"
   },
   {
    "id": "scen175.0072",
    "jp": "{s:0136}のことか？",
-   "en": "",
+   "en": "You mean {s:0136}?",
    "term": "end"
   },
   {
    "id": "scen175.0073",
    "jp": "ええ。{p}{FFF6}現在、{s:0136}は機能を取り戻した{n}時空制御塔を拠点としているわ。{n}{FFFB}{FFF7}その理由が、何だか分かる？",
-   "en": "",
+   "en": "Yes.{p}{FFF6}Right now, {s:0136} is using the Space-Time{n}Control Tower, which has regained its functions, as his{n}base. {FFFB}{FFF7}Do you have any idea why?",
    "term": "end"
   },
   {
    "id": "scen175.0074",
    "jp": "時空制御塔を拠点とする理由は、何だと思いますか？",
-   "en": "",
+   "en": "Why do you think he is using the Space-Time Control{n}Tower as his base?",
    "term": "end"
   },
   {
    "id": "scen175.0075",
    "jp": "・移動が楽だから",
-   "en": "",
+   "en": "・It's easy to get around",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen175.0076",
    "jp": "・敵からの攻撃を受けない",
-   "en": "",
+   "en": "・Enemies can't attack it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen175.0077",
    "jp": "・各地に闇落としが出来る",
-   "en": "",
+   "en": "・He can cause Darkfalls anywhere",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen175.0078",
    "jp": "・わかりません",
-   "en": "",
+   "en": "・I don't know",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen175.0079",
    "jp": "{FFF6}まぁ‥‥、確かに楽ではあるけどね。{n}{FFFB}{FC02}{FFF7}でも、もっと別の理由よ。",
-   "en": "",
+   "en": "{FFF6}Well... it is easy, I'll give you that. {FFFB}{FC02}{FFF7}But there's{n}another reason.",
    "term": "end"
   },
   {
    "id": "scen175.0080",
    "jp": "確かにそれもあるけど、{n}もっと別の理由よ。",
-   "en": "",
+   "en": "That's true too, but there's another reason.",
    "term": "end"
   },
   {
    "id": "scen175.0081",
    "jp": "正解、その通りよ。",
-   "en": "",
+   "en": "Correct, that's exactly it.",
    "term": "end"
   },
   {
    "id": "scen175.0082",
    "jp": "もしかして、時空の歪みを大きくさせるためか？",
-   "en": "",
+   "en": "Could it be to make the space-time distortion grow?",
    "term": "end"
   },
   {
    "id": "scen175.0083",
    "jp": "ええ、その通りよ。",
-   "en": "",
+   "en": "Yes, exactly.",
    "term": "end"
   },
   {
    "id": "scen175.0084",
    "jp": "{s:0136}が闇落としを行うことによって、{n}時空の歪みはどんどん大きくなっていくわ。",
-   "en": "",
+   "en": "Each time {s:0136} carries out a Darkfall, the{n}space-time distortion grows larger and larger.",
    "term": "end"
   },
   {
    "id": "scen175.0085",
    "jp": "そうやって時空の完全分離を促進しつつ、{n}この世界の人たちを滅ぼそうとしてるわけ。",
-   "en": "",
+   "en": "That way, he's hastening the complete space-time{n}separation while wiping out the people of this world.",
    "term": "end"
   },
   {
    "id": "scen175.0086",
    "jp": "卑劣な男め‥‥。",
-   "en": "",
+   "en": "That despicable man...",
    "term": "end"
   },
   {
    "id": "scen175.0087",
    "jp": "ホント、なんて男なの！？",
-   "en": "",
+   "en": "Seriously, what is WITH that guy?!",
    "term": "end"
   },
   {
    "id": "scen175.0088",
    "jp": "そんなやつ、塔から引きずり下ろして{n}アタシのキックでボコボコにしてやるんだから！",
-   "en": "",
+   "en": "I'll drag him down from that tower and kick him black{n}and blue!",
    "term": "end"
   },
   {
    "id": "scen175.0089",
    "jp": "彼の思惑通りにさせる訳にはいきませんね。{n}これ以上の犠牲者は、絶対に出させません！",
-   "en": "",
+   "en": "We can't let him have his way. I won't allow a single{n}victim more!",
    "term": "end"
   },
   {
    "id": "scen175.0090",
    "jp": "さいわい、塔はまだ機能が完全回復してないわ。{n}‥‥けれど、それも時間の問題ね。{p}私の計算だと、そろそろ塔が動き始める頃よ。{n}早急に手を打って、{n}{s:0136}の計画を阻止しないといけないわ！",
-   "en": "",
+   "en": "Fortunately, the tower hasn't fully recovered its{n}functions yet. ...But that's only a matter of time.{p}By my calculations, the tower should start moving any{n}moment now. We have to act fast and stop{n}{s:0136}'s plan!",
    "term": "end"
   },
   {
    "id": "scen175.0091",
    "jp": "でも、いつ、どこに闇が落とされるかなんて{n}分からないのに、どうやって対処すればいいのよ？",
-   "en": "",
+   "en": "But how are we supposed to deal with it when we{n}don't know when or where the darkness will fall?",
    "term": "end"
   },
   {
    "id": "scen175.0092",
    "jp": "方法はあるわ。{n}{FFFB}魔法学院の屋上にある時空観測計で、{n}歪みの数値が大きい場所を特定すればいいのよ。{p}とにかく、今は現状把握が第一ね。{n}その後の対策については、魔法学院で考えましょう！",
-   "en": "",
+   "en": "There's a way. {FFFB}We just need to use the space-time{n}meter on the roof of the Magic Academy to pinpoint{n}where the distortion readings are high.{p}Anyway, getting a grasp of the situation comes first.{n}Let's work out what to do next at the Magic Academy!",
    "term": "end"
   },
   {
    "id": "scen175.0093",
    "jp": "お兄ちゃん、早く魔法学院に行こう！",
-   "en": "",
+   "en": "Big Brother, let's hurry to the Magic Academy!",
    "term": "end"
   },
   {
    "id": "scen175.0094",
    "jp": "おい、私も連れていけ。{p}さっそく恩を返すチャンスが来たと言うことだ。{n}インペリアル・ナイトマスターの力、伊達ではないぞ？",
-   "en": "",
+   "en": "Hey, take me with you.{p}Here's my chance to repay my debt already. The power{n}of an Imperial Knight Master is no mere show,{n}you know.",
    "term": "end"
   },
   {
    "id": "scen175.0095",
    "jp": "そうですね、{s:000A}の実力は折紙つきです。{n}きっと、みなさんの役に立ってくれるでしょう。",
-   "en": "",
+   "en": "That's right. {s:000A}'s skill is beyond{n}question. I'm sure he'll be a great help to all of you.",
    "term": "end"
   },
   {
    "id": "scen175.0096",
    "jp": "うん、わかった。{n}よろしくね、{s:000A}！",
-   "en": "",
+   "en": "Okay, got it. Glad to have you, {s:000A}!",
    "term": "end"
   },
   {
    "id": "scen175.0097",
    "jp": "　{n}　　　　{FFEF}{s:000A}が仲間になった！{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　{FFEF}{s:000A} joined the party!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen175.0098",
    "jp": "みなさん、頑張ってください！",
-   "en": "",
+   "en": "Good luck, everyone!",
    "term": "end"
   },
   {
    "id": "scen175.0099",
    "jp": "闇落としを阻止せよ！",
-   "en": "",
+   "en": "Stop the Darkfall!",
    "term": "end"
   },
   {
    "id": "scen175.0100",
    "jp": "ついに、{s:0136}の攻撃が始まったようですね‥‥。",
-   "en": "",
+   "en": "It seems {s:0136}'s attack has{n}finally begun...",
    "term": "end"
   },
   {
    "id": "scen175.0101",
    "jp": "みなさんなら、他の場所も必ず{n}闇から救ってくれると信じています！",
-   "en": "",
+   "en": "I believe you will surely save the other places from the{n}darkness too!",
    "term": "end"
   },
   {
    "id": "scen175.0102",
    "jp": "{s:000A}のこと、よろしくおねがいしますね。",
-   "en": "",
+   "en": "Please take good care of {s:000A}.",
    "term": "end"
   },
   {
    "id": "scen175.0103",
    "jp": "これ以上の被害は、{n}絶対に出すわけにはいきません。",
-   "en": "",
+   "en": "We absolutely cannot allow any more harm to be done.",
    "term": "end"
   },
   {
    "id": "scen175.0104",
    "jp": "先ほど{s:014B}様から連絡があって、{n}お話はうかがってます。{p}{s:000A}は地下牢にいますから、{n}どうぞ行ってください。",
-   "en": "",
+   "en": "We received word from {s:014B} a moment{n}ago, so we've heard the story.{p}{s:000A} is in the dungeon, so please, go{n}on through.",
    "term": "end"
   },
   {
    "id": "scen175.0105",
    "jp": "‥‥手がかりは見つかりましたか？{n}{FFFB}どうぞ、お気をつけて。",
-   "en": "",
+   "en": "...Did you find any leads? {FFFB}Please, take care.",
    "term": "end"
   },
   {
    "id": "scen175.0106",
    "jp": "保養地ラシェルで、闇落としという事件が{n}発生したと聞きました。{p}{FC02}信じたくない話ですが、これは我々にとっても{n}深刻な問題です。{p}人々の平和のために、一刻も早い対処をせねば{n}なりませんね。",
-   "en": "",
+   "en": "I heard that an incident called the Darkfall occurred at{n}the resort town of Rachelle.{p}{FC02}I don't want to believe it, but this is a serious problem{n}for us as well.{p}For the sake of people's peace, we must deal with it{n}as quickly as possible.",
    "term": "end"
   },
   {
    "id": "scen175.0107",
    "jp": "まさか、{s:0119}が{s:0161}城の下にも{n}眠っていたなんて‥‥。ショックですね。",
-   "en": "",
+   "en": "To think {s:0119} was sleeping beneath {s:0161}{n}Castle too... It's a shock.",
    "term": "end"
   },
   {
    "id": "scen175.0108",
    "jp": "せっかく、祝賀会の最中でしたのに‥‥。{n}なにがあったんでしょうか？",
-   "en": "",
+   "en": "And right in the middle of the celebration, too... What{n}happened?",
    "term": "end"
   },
   {
    "id": "scen175.0109",
    "jp": "私は持ち場を離れるわけにはいきませんので、{n}よろしくお願いします。",
-   "en": "",
+   "en": "I cannot leave my post, so I must leave this to you.",
    "term": "end"
   },
   {
@@ -705,7 +705,7 @@
   {
    "id": "scen175.0111",
    "jp": "私はフライシュベルグの前で待ってるわ。{n}状況がどうなるか分からないから、{n}早く戻って来てね。",
-   "en": "",
+   "en": "I'll be waiting in front of Fleischeberg. There's no telling{n}how things will turn out, so come back quickly.",
    "term": "end"
   },
   {
@@ -753,7 +753,7 @@
   {
    "id": "scen175.0118",
    "jp": "ここは{s:005C}の待機室ですよ。",
-   "en": "",
+   "en": "This is the {s:005C} standby room.",
    "term": "end"
   },
   {
@@ -766,79 +766,79 @@
   {
    "id": "scen175.0120",
    "jp": "{v:0040}お帰りなさい。",
-   "en": "",
+   "en": "{v:0040}Welcome back.",
    "term": "end"
   },
   {
    "id": "scen175.0121",
    "jp": "{v:0041}久しぶりの外の空気はうまかっただろう？",
-   "en": "",
+   "en": "{v:0041}The outside air tasted good after so long, didn't it?",
    "term": "end"
   },
   {
    "id": "scen175.0122",
    "jp": "{v:0042}ああ、{s:0160}は良い国だ。{n}我が命をかけて守るに値する、{n}良い国だとわかったよ。",
-   "en": "",
+   "en": "{v:0042}Yes. {s:0160} is a good country. I've come to{n}see that it is a good country, worth defending with{n}my life.",
    "term": "end"
   },
   {
    "id": "scen175.0123",
    "jp": "翌朝",
-   "en": "",
+   "en": "The next morning",
    "term": "end"
   },
   {
    "id": "scen175.0124",
    "jp": "{v:0016}{s:000A}さん！",
-   "en": "",
+   "en": "{v:0016}{s:000A}!",
    "term": "end"
   },
   {
    "id": "scen175.0125",
    "jp": "{v:0017}君たちに礼を言おう。{n}おかげで牢を出ることが出来た。",
-   "en": "",
+   "en": "{v:0017}Allow me to thank you. Thanks to you, I was able to{n}leave my cell.",
    "term": "end"
   },
   {
    "id": "scen175.0126",
    "jp": "{v:0018}うんうん、良かったね！",
-   "en": "",
+   "en": "{v:0018}Yeah, yeah, good for you!",
    "term": "end"
   },
   {
    "id": "scen175.0127",
    "jp": "{v:0019}そんなキミに、{n}もう１つ願いがあるんだが‥‥聞いてくれるか？",
-   "en": "",
+   "en": "{v:0019}I have one more request of you... Will you hear it?",
    "term": "end"
   },
   {
    "id": "scen175.0128",
    "jp": "{v:001A}とりあえず話だけは聞くけど、{n}ムリなことだったら聞くだけムダになるよ？",
-   "en": "",
+   "en": "{v:001A}We'll hear you out for now, but if it's something{n}impossible, listening's a waste of time, y'know?",
    "term": "end"
   },
   {
    "id": "scen175.0129",
    "jp": "{v:001B}ムリなことではない。{n}しばらく牢に入っていたのでな、{n}久々に街を歩いてみたいのだ。",
-   "en": "",
+   "en": "{v:001B}It is not impossible. I have been in a cell for some time,{n}so I would like to walk the streets again after so long.",
    "term": "end"
   },
   {
    "id": "scen175.0130",
    "jp": "{v:001C}街を‥‥。",
-   "en": "",
+   "en": "{v:001C}The streets...",
    "term": "end"
   },
   {
    "id": "scen175.0131",
    "jp": "{v:001D}私が外出できるのは、君たちに協力するときだけだ。{n}自由に外出するわけにはいかないからな。",
-   "en": "",
+   "en": "{v:001D}I may only go outside when I am assisting you. I{n}cannot simply go out as I please.",
    "term": "end"
   },
   {
    "id": "scen175.0132",
    "jp": "{v:001E}お兄ちゃん、どうする？",
-   "en": "",
+   "en": "{v:001E}Big Brother, what should we do?",
    "term": "end"
   },
   {
@@ -859,98 +859,98 @@
   {
    "id": "scen175.0135",
    "jp": "・協力する",
-   "en": "",
+   "en": "・I'll help",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen175.0136",
    "jp": "{FFF6}‥‥{v:001F}そうか‥‥。{n}仕方ないな。",
-   "en": "",
+   "en": "{FFF6}...{v:001F}I see... It cannot be helped.",
    "term": "end"
   },
   {
    "id": "scen175.0137",
    "jp": "{v:0020}そんな、お兄ちゃん。{n}考え直してあげてよ。",
-   "en": "",
+   "en": "{v:0020}Oh, Big Brother... Please, think it over again.",
    "term": "end"
   },
   {
    "id": "scen175.0138",
    "jp": "{v:0021}ありがとう。{n}恩に着る。",
-   "en": "",
+   "en": "{v:0021}Thank you. I am in your debt.",
    "term": "end"
   },
   {
    "id": "scen175.0139",
    "jp": "{v:0022}あまり大勢で歩くのも何だから、{n}お兄ちゃんと２人で行ってきて。{n}わたしたち、ここで待ってるから。",
-   "en": "",
+   "en": "{v:0022}It'd be a bit much to walk around in a big group, so you{n}two go, Big Brother. We'll wait here.",
    "term": "end"
   },
   {
    "id": "scen175.0140",
    "jp": "{v:0023}一応、アタシはついて行くね。",
-   "en": "",
+   "en": "{v:0023}I'll tag along, just in case.",
    "term": "end"
   },
   {
    "id": "scen175.0141",
    "jp": "　{n}　　　　　　{FFEF}{s:000A}が同行者になった！{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　{FFEF}{s:000A} is now travelling with{n}you!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen175.0142",
    "jp": "そういえば、これからの方針について{n}{s:0004}王が相談したいと言っていたぞ。",
-   "en": "",
+   "en": "By the way, King {s:0004} said he wanted to{n}discuss our course of action.",
    "term": "end"
   },
   {
    "id": "scen175.0143",
    "jp": "そうだな。{n}１度、みんなで話し合ったほうが{n}いいだろう。",
-   "en": "",
+   "en": "Right. It'd be best for all of us to talk it over once.",
    "term": "end"
   },
   {
    "id": "scen175.0144",
    "jp": "あまり大勢で歩くのも何だし、{n}{s:000A}さんと２人で行ってきなよ。{n}わたしたちはここで待ってるね。",
-   "en": "",
+   "en": "It'd be a bit much to walk around in a big group, so you{n}and {s:000A} go on your own. We'll{n}wait here.",
    "term": "end"
   },
   {
    "id": "scen175.0145",
    "jp": "お前にも良い息抜きになるだろう。{n}俺たちのことは気にせず、行ってこい。",
-   "en": "",
+   "en": "It'll be a good breather for you, too. Don't worry about{n}us. Go.",
    "term": "end"
   },
   {
    "id": "scen175.0146",
    "jp": "いってらっしゃい、お兄さま！",
-   "en": "",
+   "en": "Have a nice time, Big Brother!",
    "term": "end"
   },
   {
    "id": "scen175.0147",
    "jp": "せっかくだし、ゆっくりしてくるといいよ。",
-   "en": "",
+   "en": "While you're at it, take your time and relax.",
    "term": "end"
   },
   {
    "id": "scen175.0148",
    "jp": "つかのまの休息、楽しんできてくださいね。",
-   "en": "",
+   "en": "Enjoy your brief rest.",
    "term": "end"
   },
   {
    "id": "scen175.0149",
    "jp": "この機会に、おまえも{s:0160}という国を{n}よく見てくるといい。",
-   "en": "",
+   "en": "Take this chance to get a good look at the country of{n}{s:0160}, too.",
    "term": "end"
   },
   {
    "id": "scen175.0150",
    "jp": "指輪があれば、キミも{s:000A}も大丈夫。{n}体のことは気にせず、羽を伸ばしてきなさい。",
-   "en": "",
+   "en": "As long as you have the ring, you and {s:000A}{n}will both be fine. Don't worry about your bodies. Go and{n}stretch your wings.",
    "term": "end"
   },
   {
@@ -963,13 +963,13 @@
   {
    "id": "scen175.0152",
    "jp": "ここはお客様用の待合室です。",
-   "en": "",
+   "en": "This is the guest waiting room.",
    "term": "end"
   },
   {
    "id": "scen175.0153",
    "jp": "ここは普通の図書室です。{n}{s:005C}やこの国の学者が利用したりします。{p}今はがらがらですけどね。",
-   "en": "",
+   "en": "This is an ordinary library. Any {s:005C} or{n}scholar of this country may use it.{p}It's quite empty at the moment, though.",
    "term": "end"
   },
   {
@@ -982,292 +982,292 @@
   {
    "id": "scen175.0155",
    "jp": "あっ、待ってください！{n}{FFFB}みなさんお疲れでしょうから、{n}良かったら今晩は泊まっていってください。{p}明日になれば、{s:000A}も牢を出れますし。",
-   "en": "",
+   "en": "Ah, please wait! {FFFB}You must all be tired, so if you like,{n}please stay the night.{p}By tomorrow, {s:000A} will be able to leave{n}the cell, too.",
    "term": "end"
   },
   {
    "id": "scen175.0156",
    "jp": "そうだな‥‥。{n}{FFFB}せっかくだし、ご厚意に甘えて{n}今夜はここで１泊させてもらおう。",
-   "en": "",
+   "en": "Right... {FFFB}Since it's offered, let's accept their kindness{n}and stay the night here.",
    "term": "end"
   },
   {
    "id": "scen175.0157",
    "jp": "すまないが、僕は学院の方に戻らせてもらうよ。",
-   "en": "",
+   "en": "Sorry, but I'll be heading back to the Academy.",
    "term": "end"
   },
   {
    "id": "scen175.0158",
    "jp": "どうしたの、{s:0003}さん？",
-   "en": "",
+   "en": "What's wrong, {s:0003}?",
    "term": "end"
   },
   {
    "id": "scen175.0159",
    "jp": "グローシュと相対する闇の存在デュンケルス‥‥。{n}{FFFB}これについて、今は分かってないことが多すぎる。{p}だから、僕はデュンケルスについて詳しく{n}調べてみようと思うんだ。",
-   "en": "",
+   "en": "Dunkels, the being of darkness that stands opposed to{n}Grosh... {FFFB}There's too much we don't know about it{n}right now.{p}So I'm thinking of researching the Dunkels in detail.",
    "term": "end"
   },
   {
    "id": "scen175.0160",
    "jp": "デュンケルスについて調べる？",
-   "en": "",
+   "en": "Research the Dunkels?",
    "term": "end"
   },
   {
    "id": "scen175.0161",
    "jp": "ああ。{n}{FFFB}デュンケルスの特性など詳しいことが分かれば、{n}今後、君たちの行動の役に立つだろう？{p}例えば、{n}デュンケルスを引き寄せるような機械があれば、{n}人々が触れる前に除去できる‥‥、とかね。",
-   "en": "",
+   "en": "Right. {FFFB}If we can learn more about the Dunkels, like its{n}properties, that should help you in whatever you do{n}next, right?{p}For example, if we had a machine that could draw in{n}the Dunkels, we could remove it before anyone touches{n}it... that sort of thing.",
    "term": "end"
   },
   {
    "id": "scen175.0162",
    "jp": "なるほど！{n}期待してるね、{s:0003}さん！",
-   "en": "",
+   "en": "I see! We're counting on you, {s:0003}!",
    "term": "end"
   },
   {
    "id": "scen175.0163",
    "jp": "ありがたいことに、{n}{s:0006}君も手伝いを名乗り出てくれたからね。{n}期待に応えられるよう、一緒に頑張るよ。{p}{FC00}キミたちも頑張ってくれ、応援している。",
-   "en": "",
+   "en": "Luckily, {s:0006} offered to help out, too.{n}We'll work hard together to live up to{n}your expectations.{p}{FC00}You all do your best too. We're rooting for you.",
    "term": "end"
   },
   {
    "id": "scen175.0164",
    "jp": "　{n}　　　　　{s:0003}の装備を回収した。",
-   "en": "",
+   "en": "　{n}　　　　　Collected {s:0003}'s equipment.",
    "term": "end"
   },
   {
    "id": "scen175.0165",
    "jp": "あ、お兄さま‥‥。{p}ごめんなさい、アタシ‥‥{n}{FFFB}{FFF6}お兄さまにお別れを言わなくちゃいけないんです！",
-   "en": "",
+   "en": "Ah, Big Brother...{p}I'm sorry, I... {FFFB}{FFF6}I have to say goodbye to you,{n}Big Brother!",
    "term": "end"
   },
   {
    "id": "scen175.0166",
    "jp": "ど、どうしたのよ、急に？",
-   "en": "",
+   "en": "Wh-what's this all of a sudden?",
    "term": "end"
   },
   {
    "id": "scen175.0167",
    "jp": "でもアタシ、お兄さまと離れ離れになっても、{n}ずっとお兄さまのこと‥‥。",
-   "en": "",
+   "en": "But even if we're torn apart, Big Brother, I'll always...{n}think of you...",
    "term": "end"
   },
   {
    "id": "scen175.0168",
    "jp": "だから、一体どうしたのよ！？",
-   "en": "",
+   "en": "I said, what's going ON?!",
    "term": "end"
   },
   {
    "id": "scen175.0169",
    "jp": "{FFF6}アタシ、きっと星空を眺めるたびに{n}お兄さまのことを想って{n}寂しさで涙するんだわ‥‥。{p}{FFF7}{FC05}ああ、お兄さま‥‥。{n}{FFFB}{FFF6}あなたは今、{n}どこで何をしていらっしゃるの‥‥！？",
-   "en": "",
+   "en": "{FFF6}I just know that every time I gaze up at the starry{n}sky, I'll think of you, Big Brother, and weep{n}with loneliness...{p}{FFF7}{FC05}Oh, Big Brother... {FFFB}{FFF6}Where are you now, and what are{n}you doing...?!",
    "term": "end"
   },
   {
    "id": "scen175.0170",
    "jp": "{FFEC}　　人の話を聞け！{FFED}",
-   "en": "",
+   "en": "{FFEC}　　LISTEN TO ME!{FFED}",
    "term": "end"
   },
   {
    "id": "scen175.0171",
    "jp": "ふみぃ‥‥。痛いぃ‥‥。",
-   "en": "",
+   "en": "Fumyuu... That hurts...",
    "term": "end"
   },
   {
    "id": "scen175.0172",
    "jp": "そんなこと聞いてないわよ！{n}で、何でお別れなの！？",
-   "en": "",
+   "en": "That's not what I asked! So why are you{n}saying goodbye?!",
    "term": "end"
   },
   {
    "id": "scen175.0173",
    "jp": "実は{s:0003}先輩が、デュンケルスの特性について{n}もっと詳しいことを調べてみるって言ってて。{n}私は、それのお手伝いをしようと思うんです。",
-   "en": "",
+   "en": "Well, {s:0003} said he's going to research the{n}properties of the Dunkels in more detail. I'm going to{n}help him with it.",
    "term": "end"
   },
   {
    "id": "scen175.0174",
    "jp": "デュンケルスの特性？",
-   "en": "",
+   "en": "The properties of the Dunkels?",
    "term": "end"
   },
   {
    "id": "scen175.0175",
    "jp": "デュンケルスの特性が分かれば、{n}お兄さまたちの行動のお役に立てるかなって★{p}{FC00}例えば、デュンケルスを引き寄せるような{n}機械があれば、人々が触れる前に{n}除去できるかもですし。",
-   "en": "",
+   "en": "I thought if we figured out the Dunkels' properties, it{n}might help you and the others, Big Brother!{p}{FC00}Like, if there was a machine that could draw in the{n}Dunkels, maybe we could remove it before anyone{n}touches it.",
    "term": "end"
   },
   {
    "id": "scen175.0176",
    "jp": "なるほど、それはいい考えね！",
-   "en": "",
+   "en": "I see, that's a good idea!",
    "term": "end"
   },
   {
    "id": "scen175.0177",
    "jp": "‥‥ってコレ、{n}{s:0003}先輩の言葉なんですけどね[01BE]",
-   "en": "",
+   "en": "...Though, those are actually {s:0003}'s{n}words[01BE]",
    "term": "end"
   },
   {
    "id": "scen175.0178",
    "jp": "{FB00}どーせ、そんなことだろうと思ったわ‥‥。",
-   "en": "",
+   "en": "{FB00}I figured it'd be something like that...",
    "term": "end"
   },
   {
    "id": "scen175.0179",
    "jp": "お兄さまのお手伝い、出来なくてごめんなさい！{n}{FFFB}{FC00}でも、お兄さまたちのこと応援してますから！",
-   "en": "",
+   "en": "I'm sorry I can't help you, Big Brother! {FFFB}{FC00}But I'll be{n}cheering for you all!",
    "term": "end"
   },
   {
    "id": "scen175.0180",
    "jp": "うん、{s:0006}も頑張りなさいよね。",
-   "en": "",
+   "en": "Yeah. You do your best too, {s:0006},{n}got it?",
    "term": "end"
   },
   {
    "id": "scen175.0181",
    "jp": "　{n}　　　　　{s:0006}の装備を回収した。",
-   "en": "",
+   "en": "　{n}　　　　　Collected {s:0006}'s equipment.",
    "term": "end"
   },
   {
    "id": "scen175.0182",
    "jp": "陛下、私は謁見の間にて待機しております。{n}何かありましたら、お呼びください。",
-   "en": "",
+   "en": "Your Majesty, I shall wait in the audience chamber.{n}Please call for me if anything comes up.",
    "term": "end"
   },
   {
    "id": "scen175.0183",
    "jp": "ご苦労様でした、{s:0008}。",
-   "en": "",
+   "en": "Thank you for your hard work, {s:0008}.",
    "term": "end"
   },
   {
    "id": "scen175.0184",
    "jp": "それでは、失礼いたします。",
-   "en": "",
+   "en": "Then, if you will excuse me.",
    "term": "end"
   },
   {
    "id": "scen175.0185",
    "jp": "　{n}　　　　　{s:0008}の装備を回収した。",
-   "en": "",
+   "en": "　{n}　　　　　Collected {s:0008}'s equipment.",
    "term": "end"
   },
   {
    "id": "scen175.0186",
    "jp": "みなさんの部屋はもう用意してありますから、{n}どうぞこちらへ。",
-   "en": "",
+   "en": "Your rooms are all prepared. Please, this way.",
    "term": "end"
   },
   {
    "id": "scen175.0187",
    "jp": "‥‥{v:0000}お前たちか‥‥。",
-   "en": "",
+   "en": "...{v:0000}So it's you...",
    "term": "end"
   },
   {
    "id": "scen175.0188",
    "jp": "・大丈夫か？",
-   "en": "",
+   "en": "・Are you all right?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen175.0189",
    "jp": "・元気そうだな",
-   "en": "",
+   "en": "・You look well",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen175.0190",
    "jp": "・つらそうだな",
-   "en": "",
+   "en": "・You look like you're suffering",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen175.0191",
    "jp": "‥‥{v:0001}この姿を見て、大丈夫だと思うか？",
-   "en": "",
+   "en": "...{v:0001}Look at me. Do you think I'm all right?",
    "term": "end"
   },
   {
    "id": "scen175.0192",
    "jp": "‥‥{v:0002}この姿を見て、そう見えるなら、{n}病院に行った方がいいぞ。",
-   "en": "",
+   "en": "...{v:0002}If I look well to you like this, you'd best go see{n}a doctor.",
    "term": "end"
   },
   {
    "id": "scen175.0193",
    "jp": "‥‥{v:0003}当たり前だ。",
-   "en": "",
+   "en": "...{v:0003}Obviously.",
    "term": "end"
   },
   {
    "id": "scen175.0194",
    "jp": "{v:0004}お前も{s:0119}様に作られた存在なら、{n}この苦しみはわかるだろう。{n}ずっと絶食しているようなものだからな。",
-   "en": "",
+   "en": "{v:0004}If you were created by {s:0119} too, you{n}should understand this suffering. It's as if I've been{n}starving all this time.",
    "term": "end"
   },
   {
    "id": "scen175.0195",
    "jp": "{v:0005}{s:000A}さん。{n}あなたやお兄ちゃんを助けるには、{n}どうすればいいんですか？",
-   "en": "",
+   "en": "{v:0005}{s:000A}... What can we do to save you and{n}Big Brother?",
    "term": "end"
   },
   {
    "id": "scen175.0196",
    "jp": "{v:0006}そんな方法があるなら、とっくに試しているさ。",
-   "en": "",
+   "en": "{v:0006}If there were such a way, I'd have tried it long ago.",
    "term": "end"
   },
   {
    "id": "scen175.0197",
    "jp": "‥‥{v:0007}うぅ‥‥。",
-   "en": "",
+   "en": "...{v:0007}Ugh...",
    "term": "end"
   },
   {
    "id": "scen175.0198",
    "jp": "{v:0008}だが‥‥。",
-   "en": "",
+   "en": "{v:0008}But...",
    "term": "end"
   },
   {
    "id": "scen175.0199",
    "jp": "{v:0009}だが‥‥？",
-   "en": "",
+   "en": "{v:0009}But...?",
    "term": "end"
   },
   {
    "id": "scen175.0200",
    "jp": "{FFF6}{v:000A}城の北の方に何かを感じる。{n}もし、あそこに行ければ、{n}今よりだいぶマシになれそうな気がする。",
-   "en": "",
+   "en": "{FFF6}{v:000A}I sense something to the north of the castle. If I could{n}go there, I feel I'd be a good deal better off than I{n}am now.",
    "term": "end"
   },
   {
    "id": "scen175.0201",
    "jp": "{v:000B}ここから北か‥‥。",
-   "en": "",
+   "en": "{v:000B}North of here, huh...",
    "term": "end"
   },
   {
    "id": "scen175.0202",
    "jp": "・北にはグローシュが多い",
-   "en": "",
+   "en": "・There's a lot of Grosh up north",
    "term": "end",
    "unref": true
   },
@@ -1282,176 +1282,176 @@
   {
    "id": "scen175.0204",
    "jp": "・{s:0119}の造った居城だ",
-   "en": "",
+   "en": "・The castle {s:0119} built is there",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen175.0205",
    "jp": "{v:000C}それはそうだけど、{n}{s:0119}はグローシュが苦手なんでしょ？{n}違うんじゃないかなぁ？",
-   "en": "",
+   "en": "{v:000C}That's true, but {s:0119} can't stand Grosh,{n}right? I don't think that's it...",
    "term": "end"
   },
   {
    "id": "scen175.0206",
    "jp": "{v:000D}う～ん、ここから北だと‥‥、{n}{s:0119}と戦ったところくらいだよね？",
-   "en": "",
+   "en": "{v:000D}Hmm, north of here... There's only the place where we{n}fought {s:0119}, right?",
    "term": "end"
   },
   {
    "id": "scen175.0207",
    "jp": "{v:000E}それか！{n}たしかに、あそこなら{s:0119}の波動が{n}残っているかもしれないな！",
-   "en": "",
+   "en": "{v:000E}That's it! Yes, {s:0119}'s waves may still{n}linger there!",
    "term": "end"
   },
   {
    "id": "scen175.0208",
    "jp": "{v:000F}そうだね！{n}行ってみようよ！{p}{v:0010}{s:000A}さん、待っていてくださいね！{n}すぐに行ってきます！",
-   "en": "",
+   "en": "{v:000F}Right! Let's go check it out!{p}{v:0010}{s:000A}, please wait for us! We'll be{n}right back!",
    "term": "end"
   },
   {
    "id": "scen175.0209",
    "jp": "{FFF6}‥‥{v:0011}ふん‥‥期待しないで待っているよ。",
-   "en": "",
+   "en": "{FFF6}...{v:0011}Hmph... I'll wait, but I won't get my hopes up.",
    "term": "end"
   },
   {
    "id": "scen175.0210",
    "jp": "フライシェベルグ探索",
-   "en": "",
+   "en": "Search Fleischeberg",
    "term": "end"
   },
   {
    "id": "scen175.0211",
    "jp": "‥‥{v:0000}ん？{n}‥‥お前たち‥‥その波動は‥‥。",
-   "en": "",
+   "en": "...{v:0000}Hm? ...You... those waves...",
    "term": "end"
   },
   {
    "id": "scen175.0212",
    "jp": "{v:0001}{s:0009}さんが、{n}{s:0119}波動の出る指輪を作ってくれたんだよ！",
-   "en": "",
+   "en": "{v:0001}{s:0009} made us a ring that gives off{n}{s:0119}'s waves!",
    "term": "end"
   },
   {
    "id": "scen175.0213",
    "jp": "‥‥{FFF6}{v:0002}ふぅ‥‥。{n}これが生き返った心地というやつだろうな‥‥。{p}{FFF7}{v:0003}命を救われたこの恩は{n}一生忘れることはないだろう。{p}{v:0004}この牢から出られるのなら、{n}お前たちに力をかせるのだが‥‥。",
-   "en": "",
+   "en": "...{FFF6}{v:0002}Phew... So this is what it feels like to come back{n}to life...{p}{FFF7}{v:0003}I will never forget that you saved my life.{p}{v:0004}If only I could get out of this cell, I could lend you{n}my strength...",
    "term": "end"
   },
   {
    "id": "scen175.0214",
    "jp": "{v:0005}では、ここから出られるようにしましょう。",
-   "en": "",
+   "en": "{v:0005}Then let's see to it that you can get out of here.",
    "term": "end"
   },
   {
    "id": "scen175.0215",
    "jp": "{v:0006}エ、{s:0004}君‥‥じゃなかった、{n}{s:0004}王‥‥？",
-   "en": "",
+   "en": "{v:0006}E-{s:0004}... I mean, King{n}{s:0004}...?",
    "term": "end"
   },
   {
    "id": "scen175.0216",
    "jp": "{v:0007}色々と考えてみたんです。{p}{v:0008}{s:000A}が王位についていた頃の{n}{s:0160}がどうだったのかとか。{p}{v:0009}彼は悪政を強いたこともありません。{p}{v:000A}インペリアル・ナイツを束ねるマスターとしても、{n}その名に負けぬ立派な人だということは{n}誰もが知っていること。{p}{v:000B}そこで僕は{s:000A}をインペリアル・ナイトの{n}１人として、迎えたいと思います。",
-   "en": "",
+   "en": "{v:0007}I've given it a lot of thought.{p}{v:0008}About what {s:0160} was like when {s:000A}{n}sat on the throne, and so on.{p}{v:0009}He never ruled with tyranny.{p}{v:000A}And as the Master who led the Imperial Knights,{n}everyone knows he was a fine man who lived up to{n}that title.{p}{v:000B}So I would like to welcome {s:000A} back as{n}one of the Imperial Knights.",
    "term": "end"
   },
   {
    "id": "scen175.0217",
    "jp": "{v:000C}おい、いいのか？{n}仮にも私は{s:0166}に{n}戦争をしかけたのだぞ？",
-   "en": "",
+   "en": "{v:000C}Hey, are you sure about this? I'm the one who waged{n}war on {s:0166}, you know.",
    "term": "end"
   },
   {
    "id": "scen175.0218",
    "jp": "{v:000D}たしかに{s:0166}と戦争になったことなども{n}ありますが、今ではそれが{s:0119}の仕業だと、{n}関係者の誰もが知っています。{p}{FC02}{v:000E}僕は{s:0160}の王として、{n}{s:000A}に命じます。{p}{v:000F}{s:0160}と、この世界のために、{n}この者たちに協力しなさい。",
-   "en": "",
+   "en": "{v:000D}It's true that there was a war with {s:0166}{n}and more, but now everyone involved knows it was{n}{s:0119}'s doing.{p}{FC02}{v:000E}As King of {s:0160}, I command you,{n}{s:000A}.{p}{v:000F}For {s:0160} and for this world, lend these{n}people your aid.",
    "term": "end"
   },
   {
    "id": "scen175.0219",
    "jp": "{FFF6}‥‥‥{v:0010}ふっ。{n}王としての風格が出てきたか‥‥。",
-   "en": "",
+   "en": "{FFF6}...{v:0010}Heh. So you've begun to carry yourself like a king...",
    "term": "end"
   },
   {
    "id": "scen175.0220",
    "jp": "{v:0011}はっ。{n}{s:0004}王のご命令のままに。",
-   "en": "",
+   "en": "{v:0011}Yes, sir. As King {s:0004} commands.",
    "term": "end"
   },
   {
    "id": "scen175.0221",
    "jp": "{v:0012}よかったね、{s:000A}さん！",
-   "en": "",
+   "en": "{v:0012}Isn't that great, {s:000A}?",
    "term": "end"
   },
   {
    "id": "scen175.0222",
    "jp": "{v:0013}他の者への説明などしなければなりませんから、{n}実際に{s:000A}が牢を出られるのは{n}明日以降になります。{p}{v:0014}ですが、彼の力が必要なら、{n}いつでもこの城に来てください。",
-   "en": "",
+   "en": "{v:0013}We'll have to explain things to the others, so {s:000A}{n}won't actually be able to leave the cell until tomorrow at{n}the earliest.{p}{v:0014}But if you need his strength, please come to the{n}castle anytime.",
    "term": "end"
   },
   {
    "id": "scen175.0223",
    "jp": "{v:0015}これで一段落だな。",
-   "en": "",
+   "en": "{v:0015}That settles things for now.",
    "term": "end"
   },
   {
    "id": "scen175.0224",
    "jp": "新たな仲間{s:000A}",
-   "en": "",
+   "en": "A New Ally: {s:000A}",
    "term": "end"
   },
   {
    "id": "scen175.0225",
    "jp": "これからよろしく頼むよ。",
-   "en": "",
+   "en": "I look forward to working with you.",
    "term": "end"
   },
   {
    "id": "scen175.0226",
    "jp": "‥‥{v:00A3}{s:000A}、大丈夫？",
-   "en": "",
+   "en": "...{v:00A3}{s:000A}, are you okay?",
    "term": "end"
   },
   {
    "id": "scen175.0227",
    "jp": "‥‥{v:00A4}{s:0119}が死んだようだな‥‥。{n}まるで自分の身体じゃないように、{n}力が入らん‥‥。",
-   "en": "",
+   "en": "...{v:00A4}It seems {s:0119} is dead... I can't put any{n}strength into this body. It's as if it isn't mine...",
    "term": "end"
   },
   {
    "id": "scen175.0228",
    "jp": "{v:00A5}{s:000A}さん‥‥。",
-   "en": "",
+   "en": "{v:00A5}{s:000A}...",
    "term": "end"
   },
   {
    "id": "scen175.0229",
    "jp": "{v:00A6}少し、その男と２人にしてくれるか？",
-   "en": "",
+   "en": "{v:00A6}Would you leave me alone with him for a moment?",
    "term": "end"
   },
   {
    "id": "scen175.0230",
    "jp": "‥‥{v:00A7}あ、うん‥‥。",
-   "en": "",
+   "en": "...{v:00A7}Oh, okay...",
    "term": "end"
   },
   {
    "id": "scen175.0231",
    "jp": "{v:00A8}アタシも、行ってたほうが良いよね‥‥。",
-   "en": "",
+   "en": "{v:00A8}I guess I should go too, huh...",
    "term": "end"
   },
   {
    "id": "scen175.0232",
    "jp": "{v:00A9}言いたいことの察しは付いているか？",
-   "en": "",
+   "en": "{v:00A9}Do you have any idea what I want to say?",
    "term": "end"
   },
   {
@@ -1473,31 +1473,31 @@
   {
    "id": "scen175.0235",
    "jp": "{FFF6}{v:00AA}そうか‥‥。{n}覚悟は出来ているか‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:00AA}I see... So you're prepared...",
    "term": "end"
   },
   {
    "id": "scen175.0236",
    "jp": "{v:00AB}わからぬか‥‥。{n}ならばハッキリ言おう。",
-   "en": "",
+   "en": "{v:00AB}You don't know...? Then I will say it plainly.",
    "term": "end"
   },
   {
    "id": "scen175.0237",
    "jp": "{v:00AC}私のこの姿を見ておけ。{n}これがお前の未来の姿だ。{p}{v:00AD}自分の命の源である{s:0119}を倒したのだ。{n}お前も遠からず、こうなる‥‥。{p}{FFF6}{v:00AE}作られた存在である我々には、{n}それに抗う手段はない‥‥。{n}奇跡でも起きぬ限りはな‥‥。{p}{v:00AF}覚悟はしていたが‥‥いざその時が来ると、{n}堪えるぞ‥‥。{p}{FFF7}{v:00B0}だが、もう時間は戻せん。{n}覚悟しておけ‥‥。",
-   "en": "",
+   "en": "{v:00AC}Look at me, at what I've become. This is what your{n}future holds.{p}{v:00AD}You defeated {s:0119}, the source of your{n}own life. Before long, you will end up like this too...{p}{FFF6}{v:00AE}We who were created have no means to resist it... Not{n}unless a miracle occurs...{p}{v:00AF}I was prepared for it, but... now that the time has{n}come, it is hard to bear...{p}{FFF7}{v:00B0}But there's no turning back time now. Prepare{n}yourself...",
    "term": "end"
   },
   {
    "id": "scen175.0238",
    "jp": "{v:00B1}あ、もういいの？{n}それじゃ、行こうか。",
-   "en": "",
+   "en": "{v:00B1}Oh, are you done? Let's get going, then.",
    "term": "end"
   },
   {
    "id": "scen175.0239",
    "jp": "覚悟しておけ‥‥。",
-   "en": "",
+   "en": "Prepare yourself...",
    "term": "end"
   },
   {
@@ -1531,7 +1531,7 @@
   {
    "id": "scen175.0244",
    "jp": "　{n}　　　　『{FFEF}{s:000E}の可能性７{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "　{n}　　　　Obtained '{FFEF}{s:000E}'s Potential 7{FFF1}'!",
    "term": "end"
   },
   {
@@ -1572,7 +1572,7 @@
   {
    "id": "scen175.0250",
    "jp": "　{n}　　　　不思議な力でかき消された‥‥。",
-   "en": "",
+   "en": "　{n}　　　　A mysterious force dispelled it...",
    "term": "end"
   }
  ]

@@ -15,37 +15,37 @@
   {
    "id": "scen177.0001",
    "jp": "{FB00}{v:0005}あー、びっくりした‥‥。{n}まさか、あんな仕掛けがあるなんて‥‥。",
-   "en": "",
+   "en": "{FB00}{v:0005}Whew, that gave me a scare... Who'd have thought{n}there'd be a trap like that...",
    "term": "end"
   },
   {
    "id": "scen177.0002",
    "jp": "{v:0006}ここって、グローシアンの遺跡みたいだね‥‥。{n}こんなところに耐魔鉱石なんてあるの？",
-   "en": "",
+   "en": "{v:0006}This place looks like Growsian ruins... Is there really{n}Antimagic Ore in a place like this?",
    "term": "end"
   },
   {
    "id": "scen177.0003",
    "jp": "{v:0007}とにかく探そうぜ。",
-   "en": "",
+   "en": "{v:0007}Let's just look for it.",
    "term": "end"
   },
   {
    "id": "scen177.0004",
    "jp": "{v:003B}ああ、お兄ちゃん！",
-   "en": "",
+   "en": "{v:003B}Oh, Big Brother!",
    "term": "end"
   },
   {
    "id": "scen177.0005",
    "jp": "{v:003C}おお、無事だったか！{n}今、探しに行こうとしていたところだ。",
-   "en": "",
+   "en": "{v:003C}Oh, you're safe! We were just about to go looking{n}for you.",
    "term": "end"
   },
   {
    "id": "scen177.0006",
    "jp": "{v:003D}みんな、大丈夫だった？",
-   "en": "",
+   "en": "{v:003D}Are you all okay?",
    "term": "end"
   },
   {
@@ -65,115 +65,115 @@
   {
    "id": "scen177.0009",
    "jp": "{v:003E}ん？{n}その後ろのヤツは‥‥。",
-   "en": "",
+   "en": "{v:003E}Hm? That one behind you...",
    "term": "end"
   },
   {
    "id": "scen177.0010",
    "jp": "{v:003F}えっと‥‥彼女は‥‥。",
-   "en": "",
+   "en": "{v:003F}Um... well, she's...",
    "term": "end"
   },
   {
    "id": "scen177.0011",
    "jp": "{v:0040}脱出するまで、協力してきたのよ。{n}一時休戦というわけ。",
-   "en": "",
+   "en": "{v:0040}We worked together until we got out. A temporary{n}truce, you might say.",
    "term": "end"
   },
   {
    "id": "scen177.0012",
    "jp": "{v:0041}‥‥ほほぅ。{n}それじゃ、ここまで来た今は休戦終了って事だな？",
-   "en": "",
+   "en": "{v:0041}...Is that so? Then now that we're here, the truce is{n}over, right?",
    "term": "end"
   },
   {
    "id": "scen177.0013",
    "jp": "‥‥‥‥‥‥{v:0042}。",
-   "en": "",
+   "en": "......{v:0042}...",
    "term": "end"
   },
   {
    "id": "scen177.0014",
    "jp": "{v:0043}あ、あのね！{n}この人、コイツを助けてくれたんだよ？{n}だからね‥‥。",
-   "en": "",
+   "en": "{v:0043}H-hey, wait! She saved this guy, you know? So, um...",
    "term": "end"
   },
   {
    "id": "scen177.0015",
    "jp": "{v:0044}えっ？{n}お兄ちゃんに何かあったの？",
-   "en": "",
+   "en": "{v:0044}Huh? Did something happen to Big Brother?",
    "term": "end"
   },
   {
    "id": "scen177.0016",
    "jp": "{v:0045}ゲヴェルの波動が枯渇して倒れたようね。{n}だから少し分け与えてあげたの。",
-   "en": "",
+   "en": "{v:0045}It seems he collapsed because Gevel's waves had run{n}dry in him. So I shared a little of mine.",
    "term": "end"
   },
   {
    "id": "scen177.0017",
    "jp": "{v:0046}えっ？{n}ゲヴェルの波動を？",
-   "en": "",
+   "en": "{v:0046}What? Gevel's waves?",
    "term": "end"
   },
   {
    "id": "scen177.0018",
    "jp": "‥‥{v:0047}ついでだから少しだけ話してあげる。{n}闇落としのことをね。{p}‥‥{FC02}{v:0048}闇落としは時空の歪みを大きくし、{n}その隙間を広げることで、グローシュよりも{n}粒子の大きなデュンケルスを呼びいれることよ。{p}{v:0049}デュンケルスの大きさはグローシュの{n}数十倍はあるから、かなり大きく歪ませないと{n}入ってこないけどね。",
-   "en": "",
+   "en": "...{v:0047}Since we're at it, I'll tell you a little. About{n}the Darkfall.{p}...{FC02}{v:0048}The Darkfall enlarges the distortion in space-time and{n}widens the gaps in it, to draw in Dunkels, whose{n}particles are larger than Grosh.{p}{v:0049}Dunkels are dozens of times larger than Grosh, though,{n}so space-time has to be distorted a great deal for{n}them to get in.",
    "term": "end"
   },
   {
    "id": "scen177.0019",
    "jp": "{v:004A}一体どうやって時空を歪ませるの？",
-   "en": "",
+   "en": "{v:004A}How on earth do you distort space-time?",
    "term": "end"
   },
   {
    "id": "scen177.0020",
    "jp": "{v:004B}それは時空干渉能力によって行うのよ。",
-   "en": "",
+   "en": "{v:004B}That's done with space-time interference.",
    "term": "end"
   },
   {
    "id": "scen177.0021",
    "jp": "{v:004C}時空干渉能力だと‥‥？",
-   "en": "",
+   "en": "{v:004C}Space-time interference...?",
    "term": "end"
   },
   {
    "id": "scen177.0022",
    "jp": "{FFF6}{v:004D}今話せるのはこれだけよ。{n}それじゃ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:004D}That's all I can tell you for now. Well then...",
    "term": "end"
   },
   {
    "id": "scen177.0023",
    "jp": "{v:004E}あっ！",
-   "en": "",
+   "en": "{v:004E}Ah!",
    "term": "end"
   },
   {
    "id": "scen177.0024",
    "jp": "{v:004F}逃げられたか‥‥。",
-   "en": "",
+   "en": "{v:004F}She got away...",
    "term": "end"
   },
   {
    "id": "scen177.0025",
    "jp": "{v:0050}こいつを助けてくれたお礼を{n}まだ言ってなかった‥‥。",
-   "en": "",
+   "en": "{v:0050}We never even thanked her for saving him...",
    "term": "end"
   },
   {
    "id": "scen177.0026",
    "jp": "{v:0051}あ、そういえば、耐魔鉱石を探さなきゃ！",
-   "en": "",
+   "en": "{v:0051}Oh, right! We have to look for the Antimagic Ore!",
    "term": "end"
   },
   {
    "id": "scen177.0027",
    "jp": "・すでにある",
-   "en": "",
+   "en": "・We already have it",
    "term": "end",
    "unref": true
   },
@@ -188,179 +188,179 @@
   {
    "id": "scen177.0029",
    "jp": "{v:0052}あ、それなら、もうとってきたよ！",
-   "en": "",
+   "en": "{v:0052}Oh, about that, we already got it!",
    "term": "end"
   },
   {
    "id": "scen177.0030",
    "jp": "{v:0053}やったね、お兄ちゃん！",
-   "en": "",
+   "en": "{v:0053}Way to go, Big Brother!",
    "term": "end"
   },
   {
    "id": "scen177.0031",
    "jp": "{v:0054}それじゃ、すぐ魔法学院に戻ろうぜ。",
-   "en": "",
+   "en": "{v:0054}Then let's head straight back to the Magic Academy.",
    "term": "end"
   },
   {
    "id": "scen177.0032",
    "jp": "　{n}　　　　　　扉は堅く閉じられている。",
-   "en": "",
+   "en": "　{n}　　　　　　The door is firmly closed.",
    "term": "end"
   },
   {
    "id": "scen177.0033",
    "jp": "仕掛けを動かすスイッチがある。",
-   "en": "",
+   "en": "There is a switch that works the mechanism.",
    "term": "end"
   },
   {
    "id": "scen177.0034",
    "jp": "　{n}　　　　　５０００エルムを手に入れた！",
-   "en": "",
+   "en": "　{n}　　　　　Obtained 5000 Elm!",
    "term": "end"
   },
   {
    "id": "scen177.0035",
    "jp": "{v:0013}ここって、どこよ？{n}‥‥どこに飛ばされたの‥‥？",
-   "en": "",
+   "en": "{v:0013}Where ARE we? ...Where did we get sent...?",
    "term": "end"
   },
   {
    "id": "scen177.0036",
    "jp": "・みんなを探そう",
-   "en": "",
+   "en": "・Let's look for the others",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen177.0037",
    "jp": "・出口を探そう",
-   "en": "",
+   "en": "・Let's look for the exit",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen177.0038",
    "jp": "{v:0014}うん、そうだね！",
-   "en": "",
+   "en": "{v:0014}Yeah, good idea!",
    "term": "end"
   },
   {
    "id": "scen177.0039",
    "jp": "{v:0015}あぁっ！{n}だ、大丈夫？{n}‥‥アンタ、顔色がすごく悪いわよ‥‥？",
-   "en": "",
+   "en": "{v:0015}Ah! A-are you okay? ...You look really pale, you know...",
    "term": "end"
   },
   {
    "id": "scen177.0040",
    "jp": "{FFF6}なんと答えますか？",
-   "en": "",
+   "en": "{FFF6}How will you answer?",
    "term": "end"
   },
   {
    "id": "scen177.0041",
    "jp": "・大丈夫",
-   "en": "",
+   "en": "・I'm fine",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen177.0042",
    "jp": "・つらい",
-   "en": "",
+   "en": "・It's hard",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen177.0043",
    "jp": "{v:0016}大丈夫じゃないわよ！{n}どうみたって、普通じゃないもん！",
-   "en": "",
+   "en": "{v:0016}You are NOT fine! Anyone can see something's wrong!",
    "term": "end"
   },
   {
    "id": "scen177.0044",
    "jp": "{v:0017}うん、すごく具合悪そうだよ‥‥。",
-   "en": "",
+   "en": "{v:0017}Yeah, you look really sick...",
    "term": "end"
   },
   {
    "id": "scen177.0045",
    "jp": "{v:0018}ああっ！{n}し、しっかりしてよ！{p}{FC02}{v:0019}マスター！{n}マスター、聞こえる？{n}ねぇ、マスター？{p}{FC03}{v:001A}ああん、ダメだ‥‥。{n}声が届かないよぉ‥‥！{n}‥‥どうしよう‥‥。",
-   "en": "",
+   "en": "{v:0018}Ahh! H-hang in there!{p}{FC02}{v:0019}Master! Master, can you hear me? Hey, Master?{p}{FC03}{v:001A}Ohh, it's no good... My voice won't reach her...! ...What do{n}I do...?",
    "term": "end"
   },
   {
    "id": "scen177.0046",
    "jp": "{v:001B}まさか、私まで転送に巻き込まれるとは‥‥、{n}失敗、失敗‥‥。",
-   "en": "",
+   "en": "{v:001B}To think I'd get caught up in the transfer too... What a{n}blunder, what a blunder...",
    "term": "end"
   },
   {
    "id": "scen177.0047",
    "jp": "{v:001C}はっ！",
-   "en": "",
+   "en": "{v:001C}Ah!",
    "term": "end"
   },
   {
    "id": "scen177.0048",
    "jp": "{v:001D}むっ！？",
-   "en": "",
+   "en": "{v:001D}Hm?!",
    "term": "end"
   },
   {
    "id": "scen177.0049",
    "jp": "{v:001E}あ、アンタは‥‥！{p}{FC03}{v:001F}ねぇ、早く起きて！{n}敵だよ！{n}やられちゃうよ！",
-   "en": "",
+   "en": "{v:001E}Y-you're...!{p}{FC03}{v:001F}Hey, wake up, quick! It's an enemy! She's gonna get us!",
    "term": "end"
   },
   {
    "id": "scen177.0050",
    "jp": "‥‥‥‥{v:0020}彼はどうしたの？{n}具合が悪いの？",
-   "en": "",
+   "en": "......{v:0020}What's wrong with him? Is he ill?",
    "term": "end"
   },
   {
    "id": "scen177.0051",
    "jp": "{FFF6}{v:0021}く、来るな！{n}アタシの命に変えても、{n}こいつのことは守ってみせる‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0021}D-don't come any closer! I'll protect this guy even if it{n}costs me my life...",
    "term": "end"
   },
   {
    "id": "scen177.0052",
    "jp": "{v:0022}いいから、どいて！",
-   "en": "",
+   "en": "{v:0022}Just move!",
    "term": "end"
   },
   {
    "id": "scen177.0053",
    "jp": "‥‥{v:0023}これは‥‥ひどい衰弱ね‥‥。{p}{v:0024}ねぇ、彼は病気なの？",
-   "en": "",
+   "en": "...{v:0023}This is... severe weakness...{p}{v:0024}Tell me, is he sick?",
    "term": "end"
   },
   {
    "id": "scen177.0054",
    "jp": "{v:0025}そ、そうじゃないけど‥‥。{n}ゲヴェルを倒しちゃったから、{n}ゲヴェルから作られたこいつは‥‥。",
-   "en": "",
+   "en": "{v:0025}N-no, not exactly... We defeated Gevel, so this guy, since{n}he was made from Gevel...",
    "term": "end"
   },
   {
    "id": "scen177.0055",
    "jp": "{v:0026}ゲヴェル‥‥そういうこと‥‥。{n}だったら‥‥。",
-   "en": "",
+   "en": "{v:0026}Gevel... So that's it... In that case...",
    "term": "end"
   },
   {
    "id": "scen177.0056",
    "jp": "{v:0027}えっ？{n}ナニするの？",
-   "en": "",
+   "en": "{v:0027}Huh? What are you doing?",
    "term": "end"
   },
   {
    "id": "scen177.0057",
    "jp": "{v:0028}静かに‥‥黙っていて‥‥。",
-   "en": "",
+   "en": "{v:0028}Quiet... Be still...",
    "term": "end"
   },
   {
@@ -373,61 +373,61 @@
   {
    "id": "scen177.0059",
    "jp": "‥‥{v:002A}え？{n}‥‥顔色がちょっとずつ良くなって‥‥。{n}どうして？",
-   "en": "",
+   "en": "...{v:002A}Huh? ...His color's getting a little better... How?",
    "term": "end"
   },
   {
    "id": "scen177.0060",
    "jp": "{v:002B}ああ‥良かったぁ‥‥！{p}{v:002C}マスターともテレパシーが通じないし、{n}どうなるかと思ったよぉ～！",
-   "en": "",
+   "en": "{v:002B}Oh... thank goodness...!{p}{v:002C}I couldn't even reach Master by telepathy, so I didn't{n}know what was gonna happen!",
    "term": "end"
   },
   {
    "id": "scen177.0061",
    "jp": "{v:002D}ああ、ここには耐魔鉱石があるからね。{n}それで魔法が遠くまで届かないんでしょうね。",
-   "en": "",
+   "en": "{v:002D}Ah, that's because there's Antimagic Ore here. I suppose{n}that keeps magic from reaching very far.",
    "term": "end"
   },
   {
    "id": "scen177.0062",
    "jp": "{v:002E}耐魔鉱石！{n}それってアタシたちが探してたやつ？",
-   "en": "",
+   "en": "{v:002E}Antimagic Ore! You mean the stuff we've been{n}looking for?",
    "term": "end"
   },
   {
    "id": "scen177.0063",
    "jp": "{v:002F}この奥にたくさんあるけど‥‥。",
-   "en": "",
+   "en": "{v:002F}There's plenty of it further in, but...",
    "term": "end"
   },
   {
    "id": "scen177.0064",
    "jp": "{v:0030}やった！{n}とりに行かなきゃ！",
-   "en": "",
+   "en": "{v:0030}Yay! We've gotta go get it!",
    "term": "end"
   },
   {
    "id": "scen177.0065",
    "jp": "{v:0031}あ、待って！{n}‥‥頼みがあるんだけど‥‥。",
-   "en": "",
+   "en": "{v:0031}Ah, wait! ...I have a favor to ask...",
    "term": "end"
   },
   {
    "id": "scen177.0066",
    "jp": "{v:0032}頼み？",
-   "en": "",
+   "en": "{v:0032}A favor?",
    "term": "end"
   },
   {
    "id": "scen177.0067",
    "jp": "{v:0033}もし、上に戻るなら、{n}私も一緒に連れて行ってくれないかな？",
-   "en": "",
+   "en": "{v:0033}If you're going back up, would you take me with you?",
    "term": "end"
   },
   {
    "id": "scen177.0068",
    "jp": "・わかった",
-   "en": "",
+   "en": "・All right",
    "term": "end",
    "unref": true
   },
@@ -442,85 +442,85 @@
   {
    "id": "scen177.0070",
    "jp": "{v:0034}ありがとう。{n}上に着くまで休戦としましょう。{n}その間はキミの言う通りに戦ってあげるから。",
-   "en": "",
+   "en": "{v:0034}Thank you. Let's call a truce until we reach the top.{n}Until then, I'll fight however you tell me to.",
    "term": "end"
   },
   {
    "id": "scen177.0071",
    "jp": "{v:0035}そんな！{n}ローランディアの騎士は、{n}助けてもらった恩をアダで返すの？",
-   "en": "",
+   "en": "{v:0035}What?! So a knight of Rolandia repays the person who{n}saved him with betrayal?",
    "term": "end"
   },
   {
    "id": "scen177.0072",
    "jp": "{v:0036}う、うぐ‥‥‥‥。{n}それって脅迫‥‥？",
-   "en": "",
+   "en": "{v:0036}Ugh, ngh... Is that a threat...?",
    "term": "end"
   },
   {
    "id": "scen177.0073",
    "jp": "{v:0037}上に着くまで休戦しようと言っているだけよ。{n}悪いことじゃないでしょ？{p}{v:0055}その代わり、一緒にいる間はキミの言う通りに{n}戦ってあげるから。",
-   "en": "",
+   "en": "{v:0037}I'm only saying we should call a truce until we reach{n}the top. That's not so bad, is it?{p}{v:0055}In exchange, while we're together, I'll fight however{n}you tell me to.",
    "term": "end"
   },
   {
    "id": "scen177.0074",
    "jp": "　{n}　　　　{FFEF}アメリアが同行者になった！{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　{FFEF}Amelia is now traveling with you!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen177.0075",
    "jp": "耐魔鉱石はこの奥よ。{n}取っていかなくていいの？",
-   "en": "",
+   "en": "The Antimagic Ore is further in. Don't you want to{n}take some?",
    "term": "end"
   },
   {
    "id": "scen177.0076",
    "jp": "ここにあるのが耐魔鉱石よ。",
-   "en": "",
+   "en": "This here is the Antimagic Ore.",
    "term": "end"
   },
   {
    "id": "scen177.0077",
    "jp": "へ～、綺麗な石なのね。",
-   "en": "",
+   "en": "Wow, what pretty stones.",
    "term": "end"
   },
   {
    "id": "scen177.0078",
    "jp": "１つ忠告しておくけど、{n}加工前の耐魔鉱石はとても鋭利だから、触る時は‥‥",
-   "en": "",
+   "en": "Just a word of warning: unprocessed Antimagic Ore is{n}very sharp, so when you touch it...",
    "term": "end"
   },
   {
    "id": "scen177.0079",
    "jp": "痛っっ！",
-   "en": "",
+   "en": "Ow!",
    "term": "end"
   },
   {
    "id": "scen177.0080",
    "jp": "‥‥っぅぅ～‥‥。",
-   "en": "",
+   "en": "...Owww...",
    "term": "end"
   },
   {
    "id": "scen177.0081",
    "jp": "{FFF6}‥‥触る時は気をつけないと、{n}手をケガするから気をつけてね‥‥。",
-   "en": "",
+   "en": "{FFF6}...When you touch it, be careful, or you'll cut{n}your hand...",
    "term": "end"
   },
   {
    "id": "scen177.0082",
    "jp": "もしかして、手を切っちゃったの？{n}血が出てるよ！？",
-   "en": "",
+   "en": "Did you cut your hand? You're bleeding!",
    "term": "end"
   },
   {
    "id": "scen177.0083",
    "jp": "こ、これくらい平気よ‥‥。{n}放っておいても大丈夫。{n}{FFFB}幸い、傷も深くないしね‥‥。",
-   "en": "",
+   "en": "Th-this is nothing... I'll be fine if I just leave it.{FFFB} Luckily,{n}it's not deep...",
    "term": "end"
   },
   {
@@ -533,7 +533,7 @@
   {
    "id": "scen177.0085",
    "jp": "・傷の手当てをする",
-   "en": "",
+   "en": "・Treat the wound",
    "term": "end",
    "unref": true
   },
@@ -548,25 +548,25 @@
   {
    "id": "scen177.0087",
    "jp": "えっ‥‥手当てしてくれるの？",
-   "en": "",
+   "en": "Huh... You'll treat it for me?",
    "term": "end"
   },
   {
    "id": "scen177.0088",
    "jp": "大した傷じゃなくても、{n}雑菌が入ったら大変だものね。",
-   "en": "",
+   "en": "Even if it's not a serious cut, it'd be bad if germs{n}got in.",
    "term": "end"
   },
   {
    "id": "scen177.0089",
    "jp": "‥‥ありがとう‥‥。",
-   "en": "",
+   "en": "...Thank you...",
    "term": "end"
   },
   {
    "id": "scen177.0090",
    "jp": "‥‥あなたって不思議な人ね。{n}{FFFB}休戦中とはいえ、大抵の人間は敵に対して{n}こんなことしないわ。",
-   "en": "",
+   "en": "...You're a strange one.{FFFB} Truce or not, most humans{n}wouldn't do something like this for an enemy.",
    "term": "end"
   },
   {
@@ -579,214 +579,214 @@
   {
    "id": "scen177.0092",
    "jp": "・そんなことない",
-   "en": "",
+   "en": "・That's not true",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen177.0093",
    "jp": "・自分も助けてもらった",
-   "en": "",
+   "en": "・You helped me too",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen177.0094",
    "jp": "・俺は特別だ",
-   "en": "",
+   "en": "・I'm special",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen177.0095",
    "jp": "うーん、そうかしら‥‥？",
-   "en": "",
+   "en": "Hmm, I wonder about that...?",
    "term": "end"
   },
   {
    "id": "scen177.0096",
    "jp": "でもさ、そっちだって{n}コイツのこと助けてくれたじゃない？{n}一緒だよ。",
-   "en": "",
+   "en": "But hey, you saved this guy too, didn't you? It's the{n}same thing.",
    "term": "end"
   },
   {
    "id": "scen177.0097",
    "jp": "あ、あれは別に‥‥。",
-   "en": "",
+   "en": "Oh, th-that was nothing...",
    "term": "end"
   },
   {
    "id": "scen177.0098",
    "jp": "あれは何ていうか、あまりに酷い状態だったから‥‥。{n}{FFFB}それに比べたら、私はただのかすり傷よ？",
-   "en": "",
+   "en": "That was, how should I put it, because he was in such{n}a terrible state...{FFFB} Compared to that, mine is just a{n}scratch, isn't it?",
    "term": "end"
   },
   {
    "id": "scen177.0099",
    "jp": "助けてくれたことに変わりはないじゃない。{n}だから、おあいこだよ。",
-   "en": "",
+   "en": "You still helped him, didn't you? So we're even.",
    "term": "end"
   },
   {
    "id": "scen177.0100",
    "jp": "おあいこ、か‥‥。{n}ふふっ、確かにそうかもね。",
-   "en": "",
+   "en": "Even, huh...? Heh, maybe you're right.",
    "term": "end"
   },
   {
    "id": "scen177.0101",
    "jp": "特別‥‥？",
-   "en": "",
+   "en": "Special...?",
    "term": "end"
   },
   {
    "id": "scen177.0102",
    "jp": "ちょっと、なに調子に乗ってんのよ！？{p}だいたい、最初にアメリアさんがアンタを{n}助けてくれたんでしょーが！",
-   "en": "",
+   "en": "Hey, what are you getting so full of yourself for?!{p}Amelia-san's the one who saved YOU first, remember?!",
    "term": "end"
   },
   {
    "id": "scen177.0103",
    "jp": "けど‥‥。{p}{FFF6}この世界には、あなたのような人もいるのね‥‥。{n}{FC03}だって、私が昔に見てきた人間は‥‥。",
-   "en": "",
+   "en": "But...{p}{FFF6}So there are people like you in this world, too...{FC03} Because{n}the humans I saw long ago were...",
    "term": "end"
   },
   {
    "id": "scen177.0104",
    "jp": "昔‥‥？",
-   "en": "",
+   "en": "Long ago...?",
    "term": "end"
   },
   {
    "id": "scen177.0105",
    "jp": "えっっ！？{n}{FFFB}ああ、なんでもないの。{n}気にしないで？",
-   "en": "",
+   "en": "Wha-?!{FFFB} Oh, it's nothing. Don't worry about it, okay?",
    "term": "end"
   },
   {
    "id": "scen177.0106",
    "jp": "　{n}　　　　　『{FFEF}耐魔鉱石{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "　{n}　　　　　Obtained '{FFEF}Antimagic Ore{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen177.0107",
    "jp": "{v:0039}では、上を目指すとしましょうか。",
-   "en": "",
+   "en": "{v:0039}Well then, shall we head for the top?",
    "term": "end"
   },
   {
    "id": "scen177.0108",
    "jp": "{v:003A}みんなも無事だといいな‥‥。",
-   "en": "",
+   "en": "{v:003A}I hope everyone else is okay too...",
    "term": "end"
   },
   {
    "id": "scen177.0109",
    "jp": "耐魔鉱石を魔法学院へ",
-   "en": "",
+   "en": "Bring the Antimagic Ore to the Magic Academy",
    "term": "end"
   },
   {
    "id": "scen177.0110",
    "jp": "　{n}　　　　壁一面が耐魔鉱石で埋まっている。",
-   "en": "",
+   "en": "　{n}　　　　The whole wall is covered in Antimagic Ore.",
    "term": "end"
   },
   {
    "id": "scen177.0111",
    "jp": "‥‥{v:0008}よし、これで全部持ち出せたかな。{n}さて、あとは‥‥。",
-   "en": "",
+   "en": "...{v:0008}Right, that should be all of it carried out. Now, all{n}that's left is...",
    "term": "end"
   },
   {
    "id": "scen177.0112",
    "jp": "{v:0009}あーー！{n}アンタはっ！",
-   "en": "",
+   "en": "{v:0009}Aaah! It's YOU!",
    "term": "end"
   },
   {
    "id": "scen177.0113",
    "jp": "{v:000A}えぇぇっ！{n}な、なんでここにっ！？{n}ここって普通は入れないところだったはず‥‥。",
-   "en": "",
+   "en": "{v:000A}Wha-?! Wh-why are you here?! No one is normally{n}supposed to be able to get in here...",
    "term": "end"
   },
   {
    "id": "scen177.0114",
    "jp": "{v:000B}ここでナニしてんのよ！",
-   "en": "",
+   "en": "{v:000B}What are you doing here?!",
    "term": "end"
   },
   {
    "id": "scen177.0115",
    "jp": "{v:000C}あ、あなたたちに教えることなんてないわ。",
-   "en": "",
+   "en": "{v:000C}Th-there's nothing I have to tell you people.",
    "term": "end"
   },
   {
    "id": "scen177.0116",
    "jp": "{v:000D}ほう‥‥、お前の仲間がやった闇落としって{n}やつのせいで、罪もない人が怪物にさせられたんだ。{n}黙って帰すわけにはいかねぇな‥‥。",
-   "en": "",
+   "en": "{v:000D}Oh yeah...? Thanks to that Darkfall thing your buddies{n}pulled, innocent people got turned into monsters. Can't{n}just let you walk away quiet-like...",
    "term": "end"
   },
   {
    "id": "scen177.0117",
    "jp": "{v:000E}あ、あれはジャスティンがやったことよ。{n}私は知らないわ‥‥。{n}だいたい、私は反対してたし‥‥。",
-   "en": "",
+   "en": "{v:000E}Th-that was Justin's doing. I don't know anything{n}about it... Besides, I was against it...",
    "term": "end"
   },
   {
    "id": "scen177.0118",
    "jp": "{v:000F}やっぱり何か知ってるな。{n}それじゃ、詳しく聞かせてもらおうか‥‥。",
-   "en": "",
+   "en": "{v:000F}So you DO know something. Then let's hear the details...",
    "term": "end"
   },
   {
    "id": "scen177.0119",
    "jp": "{v:0010}つ、捕まるもんですか！",
-   "en": "",
+   "en": "{v:0010}L-like I'd let you catch me!",
    "term": "end"
   },
   {
    "id": "scen177.0120",
    "jp": "{v:0011}な、何の音？",
-   "en": "",
+   "en": "{v:0011}Wh-what was that sound?",
    "term": "end"
   },
   {
    "id": "scen177.0121",
    "jp": "{v:0012}ああっ、ルイセちゃん、ウォレスさん！",
-   "en": "",
+   "en": "{v:0012}Ah, Luise-chan! Wallace-san!",
    "term": "end"
   },
   {
    "id": "scen177.0122",
    "jp": "どこに行くつもりよ！？{n}早くあの人を捕まえないと！",
-   "en": "",
+   "en": "Where do you think you're going?! We have to catch{n}her, quick!",
    "term": "end"
   },
   {
    "id": "scen177.0123",
    "jp": "モンスターが沢山いるわね‥‥。{n}ここを通らないと、地上へ出られないわよ。",
-   "en": "",
+   "en": "There are a lot of monsters here... We can't get back to{n}the surface without going through here.",
    "term": "end"
   },
   {
    "id": "scen177.0124",
    "jp": "そ、そんなぁ！",
-   "en": "",
+   "en": "N-no waaay!",
    "term": "end"
   },
   {
    "id": "scen177.0125",
    "jp": "あぁっ、気づかれた！{n}こうなったら戦うしかないよ、がんばって！",
-   "en": "",
+   "en": "Ahh, they spotted us! Now we've got no choice but to{n}fight. Do your best!",
    "term": "end"
   },
   {
    "id": "scen177.0126",
    "jp": "ご‥ごめんなさい‥‥。",
-   "en": "",
+   "en": "I... I'm sorry...",
    "term": "end"
   }
  ]

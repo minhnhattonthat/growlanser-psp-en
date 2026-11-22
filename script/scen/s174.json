@@ -29,13 +29,13 @@
   {
    "id": "scen174.0003",
    "jp": "おばさん",
-   "en": "",
+   "en": "Woman",
    "term": "null"
   },
   {
    "id": "scen174.0004",
    "jp": "おじさん",
-   "en": "",
+   "en": "Man",
    "term": "null"
   },
   {
@@ -69,67 +69,67 @@
   {
    "id": "scen174.0009",
    "jp": "まずいわね、想像以上の速さで{n}時空の歪みが大きくなってるわ。{n}{FFFB}時間がないわよ！",
-   "en": "",
+   "en": "This is bad. The space-time distortion is growing faster{n}than we imagined. {FFFB}We're out of time!",
    "term": "end"
   },
   {
    "id": "scen174.0010",
    "jp": "おい、どこに集魔柱を立てるんだ？",
-   "en": "",
+   "en": "Hey, where are we setting up the mana collection pillar?",
    "term": "end"
   },
   {
    "id": "scen174.0011",
    "jp": "周りに障害物がない場所がいいわ。{n}どこに立てるかは、{n}行ってみてから決めましょう。",
-   "en": "",
+   "en": "Somewhere with no obstacles around would be best.{n}Let's decide where to put it once we get there.",
    "term": "end"
   },
   {
    "id": "scen174.0012",
    "jp": "やぁ、みなさん。{n}そろそろ来る頃だと思って、待っていました。{p}こちらは、いつでも準備が出来ていますよ。{n}僕たちは何をすればいいですか？",
-   "en": "",
+   "en": "Hello, everyone. I thought you would be arriving about{n}now, so I've been waiting.{p}We're ready on our end at any time. What would you{n}like us to do?",
    "term": "end"
   },
   {
    "id": "scen174.0013",
    "jp": "えっ！？",
-   "en": "",
+   "en": "Huh?!",
    "term": "end"
   },
   {
    "id": "scen174.0014",
    "jp": "あの後、あなた方のお力になれるようにと{n}陛下はすぐに準備を始められたんです。{p}さぁ、何でもおっしゃってください。",
-   "en": "",
+   "en": "After that, His Majesty began preparations at once so{n}that we could be of help to you.{p}Now, please, tell us whatever you need.",
    "term": "end"
   },
   {
    "id": "scen174.0015",
    "jp": "{FFF6}‥‥ふっ、さすがだな。{n}{FFFB}{FFF7}では、遠慮なく頼むことにしよう。",
-   "en": "",
+   "en": "{FFF6}...Heh, impressive. {FFFB}{FFF7}Then we'll take you up on that without{n}holding back.",
    "term": "end"
   },
   {
    "id": "scen174.0016",
    "jp": "ジャスティンの次のターゲットは、{n}クレイン村、コムスプリングス、{n}ヴァルミエ、シュッツベルグと予測した。",
-   "en": "",
+   "en": "We predict Justin's next targets will be Crane Village,{n}Comsprings, Valmier and Schutzberg.",
    "term": "end"
   },
   {
    "id": "scen174.0017",
    "jp": "シュッツベルグだと！？{n}{FFFB}くそっ、あそこもか‥‥‥‥。",
-   "en": "",
+   "en": "Schutzberg?! {FFFB}Damn it, there too.........",
    "term": "end"
   },
   {
    "id": "scen174.0018",
    "jp": "それで、各地へ携帯集魔柱を立てに行くのに{n}ぜひとも協力していただきたいんです。",
-   "en": "",
+   "en": "So we'd very much like your help in going to each place{n}to set up the Portable Mana Pillars.",
    "term": "end"
   },
   {
    "id": "scen174.0019",
    "jp": "ええ、もちろんです。{p}では、こちらからはインペリアル・ナイトを{n}派遣しましょう。{p}ジュリアン、オスカー。{n}この件はお前たちに頼みます。{n}{FFFB}アーネストは、城で警護を努めてください。",
-   "en": "",
+   "en": "Yes, of course.{p}Then we will dispatch Imperial Knights from our side.{p}Julian, Oscar. I leave this matter to you. {FFFB}Ernest, please{n}stand guard at the castle.",
    "term": "end"
   },
   {
@@ -142,185 +142,185 @@
   {
    "id": "scen174.0021",
    "jp": "御意。",
-   "en": "",
+   "en": "As you command.",
    "term": "end"
   },
   {
    "id": "scen174.0022",
    "jp": "エリオット王の仰せのままに。",
-   "en": "",
+   "en": "As King Elliot wishes.",
    "term": "end"
   },
   {
    "id": "scen174.0023",
    "jp": "それじゃあ、{n}担当場所の振り分けを決めましょう。",
-   "en": "",
+   "en": "All right, then. Let's decide who covers which place.",
    "term": "end"
   },
   {
    "id": "scen174.0024",
    "jp": "南西に進んでいる塔の位置から推測して、{n}今、１番危険なのはクレイン村だと考えられるわ。{n}{FFFB}ここは、私たちがテレポートで向かうのがいいわね。",
-   "en": "",
+   "en": "Judging from where the tower is as it moves{n}southwest, Crane Village is probably in the most{n}danger right now.{p}{FFFB}We should be the ones to go there, with Teleport.",
    "term": "end"
   },
   {
    "id": "scen174.0025",
    "jp": "では、残るはコムスプリングスとヴァルミエ、{n}シュッツベルグの３ヶ所になりますね。{p}ここから１番近いのは北にあるシュッツベルグ、{n}１番遠いのは西にあるコムスプリングスですが‥‥。",
-   "en": "",
+   "en": "Then that leaves three places: Comsprings, Valmier{n}and Schutzberg.{p}The closest from here is Schutzberg to the north, and{n}the farthest is Comsprings to the west, but...",
    "term": "end"
   },
   {
    "id": "scen174.0026",
    "jp": "コムスプリングスは遠いが、{n}時空制御塔が到達するまで時間がかかるだろう。{p}時空制御塔が先にコムスプリングス以外の{n}どこかへ向かえば、人の足でも間に合うかもしれん。",
-   "en": "",
+   "en": "Comsprings is far, but it'll take the Space-Time Control{n}Tower a while to reach it.{p}If the Space-Time Control Tower heads somewhere{n}other than Comsprings first, people on foot might make{n}it in time.",
    "term": "end"
   },
   {
    "id": "scen174.0027",
    "jp": "シュッツベルグは近いから、{n}現在の時空制御塔の位置から考えて、{n}人の足でも間に合うと思うの。",
-   "en": "",
+   "en": "Schutzberg is close, so going by where the Space-Time{n}Control Tower is now, I think people on foot can make{n}it in time.",
    "term": "end"
   },
   {
    "id": "scen174.0028",
    "jp": "残るヴァルミエだが、あそこは入り組んだ場所にある。{n}時空制御塔の位置を考えると、{n}人の足では難しいかもしれん。",
-   "en": "",
+   "en": "As for Valmier, it lies deep in tangled terrain. Considering{n}the Space-Time Control Tower's position, it may be{n}hard to make it on foot.",
    "term": "end"
   },
   {
    "id": "scen174.0029",
    "jp": "ジュリアンとオスカーは、どこに派遣しましょう？",
-   "en": "",
+   "en": "Where shall we send Julian and Oscar?",
    "term": "end"
   },
   {
    "id": "scen174.0030",
    "jp": "・コムスプリングスとヴァルミエ",
-   "en": "",
+   "en": "・Comsprings and Valmier",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen174.0031",
    "jp": "・コムスプリングスとシュッツベルグ",
-   "en": "",
+   "en": "・Comsprings and Schutzberg",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen174.0032",
    "jp": "・ヴァルミエとシュッツベルグ",
-   "en": "",
+   "en": "・Valmier and Schutzberg",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen174.0033",
    "jp": "・もう１度、状況を確認をする",
-   "en": "",
+   "en": "・Go over the situation again",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen174.0034",
    "jp": "コムスプリングスは危険かもしれないけど、{n}確率的に、その判断が正しいと思うわ。{n}私もその意見に賛成よ。",
-   "en": "",
+   "en": "Comsprings may be dangerous, but going by the odds,{n}I think that's the right call. I agree with that plan.",
    "term": "end"
   },
   {
    "id": "scen174.0035",
    "jp": "ヴァルミエは人の足で行くと、{n}難しいんでしょ？{p}そこは、テレポートで向かったほうが{n}いいんじゃないのかなぁ‥‥？",
-   "en": "",
+   "en": "Valmier is hard to reach on foot, right?{p}So wouldn't it be better to go there with Teleport...?",
    "term": "end"
   },
   {
    "id": "scen174.0036",
    "jp": "ええ、ルイセちゃんの言う通りよ。{n}ヴァルミエへは、私たちで向かったほうが{n}いいと思うわ。",
-   "en": "",
+   "en": "Yes, Luise-chan is right. I think it's best if we're the{n}ones who go to Valmier.",
    "term": "end"
   },
   {
    "id": "scen174.0037",
    "jp": "分かったわ、もう１度言うわね。",
-   "en": "",
+   "en": "All right, I'll go over it once more.",
    "term": "end"
   },
   {
    "id": "scen174.0038",
    "jp": "分かりました。{n}インペリアル・ナイトには、コムスプリングスと{n}シュッツベルグへ向かわせましょう。",
-   "en": "",
+   "en": "Understood. We will send the Imperial Knights to{n}Comsprings and Schutzberg.",
    "term": "end"
   },
   {
    "id": "scen174.0039",
    "jp": "では、僕はコムスプリングスを担当しよう。{n}ジュリアンは、シュッツベルグを頼むよ。",
-   "en": "",
+   "en": "Then I'll take Comsprings. Julian, I'll leave Schutzberg{n}to you.",
    "term": "end"
   },
   {
    "id": "scen174.0040",
    "jp": "{FFF6}‥‥気を遣わせてしまったようだな。{p}{FFF7}では、私はシュッツベルグへ向かわせてもらおう。",
-   "en": "",
+   "en": "{FFF6}...It seems you're being considerate of me.{p}{FFF7}Then I shall take Schutzberg.",
    "term": "end"
   },
   {
    "id": "scen174.0041",
    "jp": "　{n}　　　　ジュリアンに携帯集魔柱を渡した！",
-   "en": "",
+   "en": "　{n}　　　　Gave Julian a Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen174.0042",
    "jp": "　{n}　　　　リーヴスに携帯集魔柱を渡した！",
-   "en": "",
+   "en": "　{n}　　　　Gave Reeves a Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen174.0043",
    "jp": "決まったな。{n}俺たちは、クレイン村とヴァルミエに向かうぞ。",
-   "en": "",
+   "en": "That settles it. We're heading to Crane Village{n}and Valmier.",
    "term": "end"
   },
   {
    "id": "scen174.0044",
    "jp": "みなさん、お気をつけて！",
-   "en": "",
+   "en": "Please be careful, everyone!",
    "term": "end"
   },
   {
    "id": "scen174.0045",
    "jp": "健闘を祈っているぞ。",
-   "en": "",
+   "en": "I'll be praying for your success.",
    "term": "end"
   },
   {
    "id": "scen174.0046",
    "jp": "釘を刺しておくけど、{n}携帯集魔柱はちゃんと順番を考えて立ててね？{n}そうしないと、村や町が壊滅しちゃうわよ。",
-   "en": "",
+   "en": "Let me warn you: think carefully about the order you{n}set up the Portable Mana Pillars in, okay? Otherwise,{n}the villages and towns will be wiped out.",
    "term": "end"
   },
   {
    "id": "scen174.0047",
    "jp": "{v:0000}ティピを通じてある程度は聞いていますが、{n}国王にも報告しなければなりません。{n}まずは城へ戻りましょう。",
-   "en": "",
+   "en": "{v:0000}I have heard some of it through Tippi, but we must{n}report to the King as well. First, let us return to{n}the castle.",
    "term": "end"
   },
   {
    "id": "scen174.0048",
    "jp": "{v:0001}はい、お母さん！",
-   "en": "",
+   "en": "{v:0001}Okay, Mother!",
    "term": "end"
   },
   {
    "id": "scen174.0049",
    "jp": "国王に報告",
-   "en": "",
+   "en": "Report to the King",
    "term": "end"
   },
   {
    "id": "scen174.0050",
    "jp": "アンタ、リシャールさんを連れて、{n}どこ行く気よ！",
-   "en": "",
+   "en": "Hey, where do you think you're going{n}with Richard-san?!",
    "term": "end"
   },
   {
@@ -333,7 +333,7 @@
   {
    "id": "scen174.0052",
    "jp": "さっきまで晴れてたのに、{n}急に空が暗くなってきたんだ！{p}もしかして、これが噂の化け物になる{n}闇が落ちてくる前兆なのか！？",
-   "en": "",
+   "en": "It was sunny just a moment ago, and suddenly the sky{n}went dark!{p}Could this be the sign that the darkness everyone's{n}talking about, the one that turns people into{n}monsters, is about to fall?!",
    "term": "end"
   },
   {
@@ -346,19 +346,19 @@
   {
    "id": "scen174.0054",
    "jp": "‥‥{v:0024}久しぶりだ‥‥。{n}またこの街を見られるとは思わなかった。{p}{FFF6}{v:0025}ゲヴェルが死に、{n}あのまま牢の中で命果てるものだと思ったよ。",
-   "en": "",
+   "en": "...{v:0024}It has been a long time... I never thought I would see{n}this city again.{p}{FFF6}{v:0025}With Gevel dead, I thought I would simply waste away{n}in that cell.",
    "term": "end"
   },
   {
    "id": "scen174.0055",
    "jp": "{v:0026}リシャールさん‥‥。",
-   "en": "",
+   "en": "{v:0026}Richard-san...",
    "term": "end"
   },
   {
    "id": "scen174.0056",
    "jp": "{v:0027}昔、アーネストとオスカーとこの街を歩きながら、{n}国の民を守ろうと誓ったのだ。{p}{FC02}{v:0028}だが私はゲヴェルの命令に逆らえず、{n}戦争を引き起こしてしまった。{p}{FFF6}{v:0029}私のせいで死傷した兵がいるわけだ‥‥。",
-   "en": "",
+   "en": "{v:0027}Long ago, I walked these streets with Ernest and Oscar{n}and swore to protect the people of this nation.{p}{FC02}{v:0028}But I could not defy Gevel's orders, and I started{n}a war.{p}{FFF6}{v:0029}There are soldiers who died or were wounded because{n}of me...",
    "term": "end"
   },
   {
@@ -371,100 +371,100 @@
   {
    "id": "scen174.0058",
    "jp": "・それは仕方ない",
-   "en": "",
+   "en": "・It couldn't be helped",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen174.0059",
    "jp": "・過ぎたことだ",
-   "en": "",
+   "en": "・It's in the past",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen174.0060",
    "jp": "・それを償わなければ",
-   "en": "",
+   "en": "・You must atone for it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen174.0061",
    "jp": "{v:002A}仕方ないだと！？{n}それで許されるわけがないだろう！{p}{v:002B}私が犯した罪は、必ず償わねばならない‥‥。",
-   "en": "",
+   "en": "{v:002A}Couldn't be helped?! As if that could ever excuse it!{p}{v:002B}I must atone for the crimes I have committed,{n}without fail...",
    "term": "end"
   },
   {
    "id": "scen174.0062",
    "jp": "{FFF6}{v:002C}過ぎたこと‥‥。{n}確かにそうではあるが、{n}‥‥この罪は償わねばならない‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:002C}In the past... That may be true, but... I must atone for{n}this crime...",
    "term": "end"
   },
   {
    "id": "scen174.0063",
    "jp": "{FFF6}{v:002D}そうだな。{n}‥‥この罪は償わねばならない‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:002D}Yes... I must atone for this crime...",
    "term": "end"
   },
   {
    "id": "scen174.0064",
    "jp": "{v:002E}あら、エリオット様じゃないですか！{n}また城を抜け出してお散歩ですか？",
-   "en": "",
+   "en": "{v:002E}Oh my, if it isn't Elliot-sama! Have you slipped out of{n}the castle for another stroll?",
    "term": "end"
   },
   {
    "id": "scen174.0065",
    "jp": "{v:002F}えっ？",
-   "en": "",
+   "en": "{v:002F}Huh?",
    "term": "end"
   },
   {
    "id": "scen174.0066",
    "jp": "{v:0030}ははは。{n}ライエル様、リーヴス様が{n}またお困りになられてしまいますぞ。",
-   "en": "",
+   "en": "{v:0030}Hahaha. You'll have Lyell-sama and Reeves-sama at{n}their wits' end again, I daresay.",
    "term": "end"
   },
   {
    "id": "scen174.0067",
    "jp": "{v:0031}あ、いや‥‥その‥‥。",
-   "en": "",
+   "en": "{v:0031}Ah, no... well, um...",
    "term": "end"
   },
   {
    "id": "scen174.0068",
    "jp": "{FB00}{v:0032}あはは、そーなのそーなのぉ～！{n}もー、エリオットってば、{n}ホントに困った王様よねぇ～！{FFFA}",
-   "en": "",
+   "en": "{FB00}{v:0032}Ahaha, that's right, that's riiight! Jeez, Elliot is SUCH a{n}troublesome king, huh!{FFFA}",
    "term": "end"
   },
   {
    "id": "scen174.0069",
    "jp": "{v:0033}まったく、まったく！",
-   "en": "",
+   "en": "{v:0033}Indeed, indeed!",
    "term": "end"
   },
   {
    "id": "scen174.0070",
    "jp": "{v:0034}そういえば、エリオット様。{n}リシャール様はどうなさっていますか？",
-   "en": "",
+   "en": "{v:0034}By the way, Elliot-sama. How is Richard-sama doing?",
    "term": "end"
   },
   {
    "id": "scen174.0071",
    "jp": "{FFF6}{v:0035}その‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0035}Well...",
    "term": "end"
   },
   {
    "id": "scen174.0072",
    "jp": "{v:0036}元気よ、元気！",
-   "en": "",
+   "en": "{v:0036}He's fine, just fine!",
    "term": "end"
   },
   {
    "id": "scen174.0073",
    "jp": "{v:0037}そうかい、それはよかったよ。{p}{v:0038}あの人は偽物だとかって{n}罪で捕らえられたそうだけど、{n}私たち国民のことを考えてくれていたからね。{p}{v:0039}こんな事をエリオット様に申し上げるのは{n}失礼かと思いますが、どうかリシャール様に{n}寛大なご処置をお願いします。{p}{v:003A}では、失礼します。",
-   "en": "",
+   "en": "{v:0037}Is that so? That's good to hear.{p}{v:0038}I heard he was arrested for being an impostor or{n}some such, but he always thought of us common folk.{p}{v:0039}It may be rude of me to say this to you, Elliot-sama,{n}but please, show Richard-sama leniency.{p}{v:003A}Well, I'll be on my way.",
    "term": "end"
   },
   {
@@ -477,7 +477,7 @@
   {
    "id": "scen174.0075",
    "jp": "・愛されているな",
-   "en": "",
+   "en": "・You're well loved",
    "term": "end",
    "unref": true
   },
@@ -492,25 +492,25 @@
   {
    "id": "scen174.0077",
    "jp": "{v:003B}そうだね。{n}あなたが王様としてやってきたことは、{n}間違えてなかったんだね。",
-   "en": "",
+   "en": "{v:003B}Yeah. The things you did as king weren't a mistake{n}after all.",
    "term": "end"
   },
   {
    "id": "scen174.0078",
    "jp": "{v:003C}今でもあなたを慕ってくれる{n}国民がいるなんて、良かったね。",
-   "en": "",
+   "en": "{v:003C}Isn't it great that there are people who still look up to{n}you, even now?",
    "term": "end"
   },
   {
    "id": "scen174.0079",
    "jp": "{FFF6}‥‥{v:003D}そうだな。",
-   "en": "",
+   "en": "{FFF6}...{v:003D}I suppose so.",
    "term": "end"
   },
   {
    "id": "scen174.0080",
    "jp": "‥‥{v:003E}ありがとう。{n}やはり無理を言ってつれてきてもらって良かった。{p}{v:003F}さあ、帰ろう。{n}あまり長くいると、エリオットに悪い噂を{n}立ててしまうかもしれない。",
-   "en": "",
+   "en": "...{v:003E}Thank you. I'm glad I insisted that you bring me here{n}after all.{p}{v:003F}Come, let us go back. If I stay too long, I may start ill{n}rumours about Elliot.",
    "term": "end"
   },
   {
@@ -523,7 +523,7 @@
   {
    "id": "scen174.0082",
    "jp": "なんだい？{n}俺の楽団『ジョニー・カルテット』に{n}出演の依頼かい？{p}依頼料は１２００エルムだ。",
-   "en": "",
+   "en": "What's that? Want to book my band, the 'Johnny{n}Quartet', for a performance?{p}Our fee is 1200 Elm.",
    "term": "end"
   },
   {
@@ -564,7 +564,7 @@
   {
    "id": "scen174.0088",
    "jp": "その気になったら、いつでも声をかけてくれ。",
-   "en": "",
+   "en": "Just let me know whenever you feel like it.",
    "term": "end"
   },
   {
@@ -598,7 +598,7 @@
   {
    "id": "scen174.0093",
    "jp": "外へのお誘いなら、お断りよ。{n}だって、闇が落ちてきたら怖いもの。",
-   "en": "",
+   "en": "If you're inviting me outside, the answer's no. I'd be{n}scared if the darkness fell, after all.",
    "term": "end"
   },
   {
@@ -611,25 +611,25 @@
   {
    "id": "scen174.0095",
    "jp": "ここから北西に行った場所に、{n}普通とは違う店があるんだけどさ‥‥。{p}どうやらそこのオヤジが、{n}変わったサービスを始めたらしいんだ。{n}どんなサービスなんだろうね？",
-   "en": "",
+   "en": "Northwest of here, there's a shop that's not like the{n}usual ones...{p}Seems the old man there started some unusual{n}service. Wonder what kind of service it is?",
    "term": "end"
   },
   {
    "id": "scen174.0096",
    "jp": "このごろ、急に空が曇る時があるんだ。{n}{FFFB}せっかく日当たりのいい街なんだから、{n}ずっと晴れててほしいもんだよね。",
-   "en": "",
+   "en": "Lately, the sky clouds over all of a sudden sometimes.{n}{FFFB}This town gets so much sunshine, I wish it'd just stay{n}clear all the time.",
    "term": "end"
   },
   {
    "id": "scen174.0097",
    "jp": "よかった。{n}もう一生、外に出られないかと思ったよ。",
-   "en": "",
+   "en": "Thank goodness. I thought I'd never get to go outside{n}again for the rest of my life.",
    "term": "end"
   },
   {
    "id": "scen174.0098",
    "jp": "曇りだと思ってた天候が、{n}実は闇が落ちてくる前兆だったなんて！{n}{FFFB}１人で、のんびりしすぎてたよ‥‥[01BE]",
-   "en": "",
+   "en": "To think the weather I thought was just cloudy was{n}really a sign of the darkness falling! {FFFB}I was way too{n}laid-back, all on my own...[01BE]",
    "term": "end"
   },
   {
@@ -642,37 +642,37 @@
   {
    "id": "scen174.0100",
    "jp": "バーンシュタインを救ってくれて、ありがとう！",
-   "en": "",
+   "en": "Thank you for saving Burnstein!",
    "term": "end"
   },
   {
    "id": "scen174.0101",
    "jp": "人が触れると、化け物になる闇だって！？{n}{FFFB}せっかくのんびりできると思ってたのに、{n}これじゃおちおち生活できないよ[01BE]",
-   "en": "",
+   "en": "A darkness that turns people into monsters if they{n}touch it?! {FFFB}Just when I thought I could finally relax, now{n}I can't even live in peace[01BE]",
    "term": "end"
   },
   {
    "id": "scen174.0102",
    "jp": "戦争も終わったし、{n}やっとのんびり暮らせそうだよ。",
-   "en": "",
+   "en": "The war's over, so it looks like I can finally live a{n}quiet life.",
    "term": "end"
   },
   {
    "id": "scen174.0103",
    "jp": "最近、他の国じゃ物騒な事件が起きてるんでしょ？{n}あんた達の力で、なんとかしてよ。",
-   "en": "",
+   "en": "There've been some nasty incidents in other countries{n}lately, right? Do something about it with that strength{n}of yours, would you?",
    "term": "end"
   },
   {
    "id": "scen174.0104",
    "jp": "あんたたち、凄いじゃない！{n}インペリアル・ナイト以外にも{n}すごい人っているもんねぇ～‥‥。",
-   "en": "",
+   "en": "You folks are amazing! Who knew there were people{n}this incredible besides the Imperial Knights...",
    "term": "end"
   },
   {
    "id": "scen174.0105",
    "jp": "あら、お久しぶりですわね。{n}‥‥ごめんなさい、また人間違いだったわ。{n}あんた、知ってる人にそっくりなのよね。",
-   "en": "",
+   "en": "Oh my, it's been a while, hasn't it? ...Sorry, I mixed you{n}up with someone again. You look just like somebody I{n}know, you see.",
    "term": "end"
   },
   {
@@ -847,19 +847,19 @@
   {
    "id": "scen174.0129",
    "jp": "現在、特別警戒中です。",
-   "en": "",
+   "en": "We are currently on special alert.",
    "term": "end"
   },
   {
    "id": "scen174.0130",
    "jp": "こういう時こそ、国とか関係なしに{n}人々は協力し合わなければなりませんね。",
-   "en": "",
+   "en": "It's at times like this that people must work together,{n}no matter what country they're from.",
    "term": "end"
   },
   {
    "id": "scen174.0131",
    "jp": "ランザック爆発事件の詳細については、まだ調査中です。",
-   "en": "",
+   "en": "The details of the Ranzak explosion are still{n}under investigation.",
    "term": "end"
   },
   {
@@ -872,25 +872,25 @@
   {
    "id": "scen174.0133",
    "jp": "ラシェルの報告を受けて、{n}ただいま警備を厳重にしております。",
-   "en": "",
+   "en": "Following the report from Rachelle, we are now{n}tightening security.",
    "term": "end"
   },
   {
    "id": "scen174.0134",
    "jp": "バーンシュタインのこと、{n}本当にありがとうございました。{n}感謝しています。",
-   "en": "",
+   "en": "Thank you truly for what you did for Burnstein. We{n}are grateful.",
    "term": "end"
   },
   {
    "id": "scen174.0135",
    "jp": "ゲヴェルがまた出現したと聞いたときは、{n}正直、身の毛がよだちましたよ。{p}その後、すぐに殺されたと聞いて安心したのですが、{n}まだ何かありそうな気配ですね‥‥。",
-   "en": "",
+   "en": "When I heard Gevel had appeared again, frankly, my{n}hair stood on end.{p}I was relieved to hear it was killed soon after, but it{n}feels like something else is still afoot...",
    "term": "end"
   },
   {
    "id": "scen174.0136",
    "jp": "この先にあるゲヴェルがつくった城ですが、{n}化け物が住み着いてるとの報告がありました。{n}お気をつけください。",
-   "en": "",
+   "en": "There have been reports of monsters settling in the{n}castle Gevel built up ahead. Please be careful.",
    "term": "end"
   },
   {
@@ -910,7 +910,7 @@
   {
    "id": "scen174.0139",
    "jp": "ラルフぼっちゃんがいつでも帰ってこれるよう、{n}部屋の掃除は怠っておりません。{p}あとは、ぼっちゃんさえ無事に{n}帰ってきてくれれば‥‥。",
-   "en": "",
+   "en": "I never neglect cleaning his room, so that young{n}Master Ralph can come home at any time.{p}Now if only the young master would return safely...",
    "term": "end"
   },
   {
@@ -930,7 +930,7 @@
   {
    "id": "scen174.0142",
    "jp": "アンタ、リシャールさんのために{n}街へ来ているんでしょ！{n}ほらほら、こんな所で寄り道しない！",
-   "en": "",
+   "en": "You came to town for Richard-san's sake, didn't you?!{n}Come on, come on, no wandering off around here!",
    "term": "end"
   },
   {
@@ -971,7 +971,7 @@
   {
    "id": "scen174.0148",
    "jp": "急いで家の中に避難するんだ！",
-   "en": "",
+   "en": "Hurry and take shelter indoors!",
    "term": "end"
   },
   {
@@ -984,181 +984,181 @@
   {
    "id": "scen174.0150",
    "jp": "この街も、ついに闇に襲われちゃうの！？{n}ど、どうしよう、逃げなきゃ！",
-   "en": "",
+   "en": "Is the darkness finally coming for this city too?!{n}Wh-what do I do? I have to run!",
    "term": "end"
   },
   {
    "id": "scen174.0151",
    "jp": "みなさん、{n}落ち着いて家の中に避難してください！{p}安全が確保できるまで、外に出ないでください！",
-   "en": "",
+   "en": "Everyone, please stay calm and take shelter in{n}your homes!{p}Do not go outside until it is safe!",
    "term": "end"
   },
   {
    "id": "scen174.0152",
    "jp": "市民たちの避難は終わったか？",
-   "en": "",
+   "en": "Have the citizens finished evacuating?",
    "term": "end"
   },
   {
    "id": "scen174.0153",
    "jp": "ああ。{p}だが、闇落としに対して何も対策がない以上、{n}安全が確保されたとは言えないね。",
-   "en": "",
+   "en": "Yes.{p}But as long as we have no countermeasure against the{n}Darkfall, we can't say they're safe.",
    "term": "end"
   },
   {
    "id": "scen174.0154",
    "jp": "そんなことは百も承知だ。{p}だが、我々インペリアル・ナイツは{n}例え命に代えてでも、{n}この国の人々を守る使命がある！",
-   "en": "",
+   "en": "I know that full well.{p}But we Imperial Knights are duty-bound to protect the{n}people of this nation, even at the cost of our lives!",
    "term": "end"
   },
   {
    "id": "scen174.0155",
    "jp": "‥‥驚いたな。{p}まだ新米だと思っていた君が、{n}いつの間にかこんなに立派な{n}インペリアル・ナイトになっているとはね。{p}これは、僕も負けていられないな。",
-   "en": "",
+   "en": "...I'm surprised.{p}I thought you were still a rookie, but before I knew it,{n}you'd become such a fine Imperial Knight.{p}I can't let myself fall behind, then.",
    "term": "end"
   },
   {
    "id": "scen174.0156",
    "jp": "お褒めに預かり光栄だ、と言いたい所だが‥‥。{n}今はそれどころではないな。",
-   "en": "",
+   "en": "I'd like to say I'm honored by the praise, but... now is{n}hardly the time.",
    "term": "end"
   },
   {
    "id": "scen174.0157",
    "jp": "ああ、そうだね。{p}今まで数々の戦いを経験してきたが、{n}闇を相手にするのは、さすがに僕も初めてだ。",
-   "en": "",
+   "en": "Yes, you're right.{p}I've been through many battles, but even for me, this{n}is the first time I've faced the darkness.",
    "term": "end"
   },
   {
    "id": "scen174.0158",
    "jp": "ジュリアン、リーヴスさん！",
-   "en": "",
+   "en": "Julian, Reeves-san!",
    "term": "end"
   },
   {
    "id": "scen174.0159",
    "jp": "キミたちは‥‥！",
-   "en": "",
+   "en": "It's you...!",
    "term": "end"
   },
   {
    "id": "scen174.0160",
    "jp": "闇落としを回避するために来たのよ。{n}{FFFB}今は時間がないから、{n}詳しい話はまた後でするわ！{p}とにかく、あなたたちはこの場所に{n}誰も近づかないように見張っていて！",
-   "en": "",
+   "en": "We came to avert the Darkfall. {FFFB}There's no time now, so{n}I'll explain the details later!{p}Anyway, keep watch and make sure nobody comes near{n}this place!",
    "term": "end"
   },
   {
    "id": "scen174.0161",
    "jp": "わ、分かった！",
-   "en": "",
+   "en": "R-right!",
    "term": "end"
   },
   {
    "id": "scen174.0162",
    "jp": "それじゃあ、私たちは急いで携帯集魔柱を{n}セットできる場所を探しましょう！",
-   "en": "",
+   "en": "All right, let's hurry and find a spot where we can set{n}up the Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen174.0163",
    "jp": "よしっ、設置完了よ。{n}みんな、すぐに離れて！",
-   "en": "",
+   "en": "Okay, setup complete. Everyone, get away from it, now!",
    "term": "end"
   },
   {
    "id": "scen174.0164",
    "jp": "集魔柱を立てるなら、別の場所がいいわ！",
-   "en": "",
+   "en": "If we're setting up the mana collection pillar,{n}somewhere else would be better!",
    "term": "end"
   },
   {
    "id": "scen174.0165",
    "jp": "うん、ここなら良さそうね。{n}ここに集魔柱を立てましょう。",
-   "en": "",
+   "en": "Yes, this looks like a good spot. Let's set up the mana{n}collection pillar here.",
    "term": "end"
   },
   {
    "id": "scen174.0166",
    "jp": "ここじゃダメだよ！{n}もっと別の場所を探さないと！",
-   "en": "",
+   "en": "Not here! We've gotta find somewhere else!",
    "term": "end"
   },
   {
    "id": "scen174.0167",
    "jp": "南西の階段を降りた辺りが適してるわ。{n}そこにしましょう。",
-   "en": "",
+   "en": "The area at the bottom of the southwest stairs is{n}ideal. Let's go there.",
    "term": "end"
   },
   {
    "id": "scen174.0168",
    "jp": "あの階段を降りた辺りが適してるわ。{n}あそこに携帯集魔柱をセットしましょう！",
-   "en": "",
+   "en": "The area at the bottom of those stairs is ideal. Let's{n}set up the Portable Mana Pillar there!",
    "term": "end"
   },
   {
    "id": "scen174.0169",
    "jp": "来るわ！",
-   "en": "",
+   "en": "Here it comes!",
    "term": "end"
   },
   {
    "id": "scen174.0170",
    "jp": "やった、成功だよ！",
-   "en": "",
+   "en": "Yay, it worked!",
    "term": "end"
   },
   {
    "id": "scen174.0171",
    "jp": "{FFF3}{FFF6}‥{FE14}‥{FE14}‥{FE14}{FFF2}ふぅ。{p}{FFF4}よかった、バーンシュタイン王都の{n}闇落としは防げたわね‥‥。",
-   "en": "",
+   "en": "{FFF3}{FFF6}...{FE14}...{FE14}...{FE14}{FFF2}Phew.{p}{FFF4}Thank goodness, we prevented the Darkfall in{n}Burnstein's capital...",
    "term": "end"
   },
   {
    "id": "scen174.0172",
    "jp": "みなさん！",
-   "en": "",
+   "en": "Everyone!",
    "term": "end"
   },
   {
    "id": "scen174.0173",
    "jp": "エリオット王、ライエル‥‥。{p}{FFF6}安心しろ、バーンシュタインの闇落としは{n}ひとまず回避できたようだぞ。",
-   "en": "",
+   "en": "King Elliot, Lyell...{p}{FFF6}Rest assured, it seems Burnstein's Darkfall has been{n}averted for now.",
    "term": "end"
   },
   {
    "id": "scen174.0174",
    "jp": "みなさん、お怪我はありませんでしたか？",
-   "en": "",
+   "en": "Were any of you hurt, everyone?",
    "term": "end"
   },
   {
    "id": "scen174.0175",
    "jp": "うん。{n}こっちは大丈夫だよ！",
-   "en": "",
+   "en": "Nope. We're all fine over here!",
    "term": "end"
   },
   {
    "id": "scen174.0176",
    "jp": "まずは、状況を教えていただけませんか？",
-   "en": "",
+   "en": "First, could you tell us what's going on?",
    "term": "end"
   },
   {
    "id": "scen174.0177",
    "jp": "時間がないから手短に説明するわね。",
-   "en": "",
+   "en": "We're short on time, so I'll keep it brief.",
    "term": "end"
   },
   {
    "id": "scen174.0178",
    "jp": "ジャスティンの闇落とし計画を阻止するために{n}私たちが打ち出した案は、改造した携帯集魔柱で{n}デュンケルスを集めること。{p}ここが初めての試みだったけど、{n}無事に成功して安心したわ。",
-   "en": "",
+   "en": "To thwart Justin's Darkfall plan, the idea we came up{n}with was to gather the Dunkels with modified Portable{n}Mana Pillars.{p}This was our first attempt, so I'm relieved it went off{n}without a hitch.",
    "term": "end"
   },
   {
    "id": "scen174.0179",
    "jp": "なるほど、そういうことだったんですか。{p}{FC00}ありがとうございます。{n}{FFFB}みなさんのおかけで、{n}バーンシュタイン王都は助かりました。",
-   "en": "",
+   "en": "I see, so that's how it was.{p}{FC00}Thank you. {FFFB}Thanks to all of you, Burnstein's capital has{n}been saved.",
    "term": "end"
   },
   {
@@ -1171,166 +1171,166 @@
   {
    "id": "scen174.0181",
    "jp": "・これで安心だな",
-   "en": "",
+   "en": "・Now we can rest easy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen174.0182",
    "jp": "・もっと感謝しろ",
-   "en": "",
+   "en": "・You should be more grateful",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen174.0183",
    "jp": "・まだ安心はできない",
-   "en": "",
+   "en": "・We can't relax yet",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen174.0184",
    "jp": "{FFF6}いえ、まだ安心は出来ないわ。",
-   "en": "",
+   "en": "{FFF6}No, we can't relax yet.",
    "term": "end"
   },
   {
    "id": "scen174.0185",
    "jp": "まったく、すーぐ調子乗るんだから。",
-   "en": "",
+   "en": "Jeez, you get full of yourself sooo fast.",
    "term": "end"
   },
   {
    "id": "scen174.0186",
    "jp": "{FFF6}だけど、まだ安心は出来ないわ。",
-   "en": "",
+   "en": "{FFF6}But we can't relax yet.",
    "term": "end"
   },
   {
    "id": "scen174.0187",
    "jp": "{FFF6}そうね、まだ安心は出来ないわ。",
-   "en": "",
+   "en": "{FFF6}That's right, we can't relax yet.",
    "term": "end"
   },
   {
    "id": "scen174.0188",
    "jp": "アリオストくんが言ってたように、{n}携帯集魔柱は耐久力が低いわ。{n}{FFFB}つまり、いつかは壊れてしまう。{p}そうなる前に、問題の根本である{n}ジャスティンを止めなきゃダメよ。",
-   "en": "",
+   "en": "As Ariost-kun said, the Portable Mana Pillars aren't{n}very durable. {FFFB}In other words, sooner or later{n}they'll break.{p}Before that happens, we have to stop Justin, the root{n}of the problem.",
    "term": "end"
   },
   {
    "id": "scen174.0189",
    "jp": "うん、アメリアさんの言うとおりだよね。{p}それに、これからもっと多くの場所に{n}闇落としが実行されるはずだよ。",
-   "en": "",
+   "en": "Yeah, Amelia-san is right.{p}And besides, the Darkfall is sure to be carried out in{n}many more places from now on.",
    "term": "end"
   },
   {
    "id": "scen174.0190",
    "jp": "そういうことでしたら、{n}ぜひ我々にも協力させてください。{p}必要な時に言ってくだされば、{n}いつでも喜んで力をお貸しいたします。",
-   "en": "",
+   "en": "If that's the case, please allow us to help as well.{p}Just say the word when you need us, and we will gladly{n}lend you our strength anytime.",
    "term": "end"
   },
   {
    "id": "scen174.0191",
    "jp": "うん。{n}ありがと、エリオット！",
-   "en": "",
+   "en": "Yeah. Thanks, Elliot!",
    "term": "end"
   },
   {
    "id": "scen174.0192",
    "jp": "{FFF6}これで、しばらくこの場所は大丈夫ね。",
-   "en": "",
+   "en": "{FFF6}This place should be fine for a while now.",
    "term": "end"
   },
   {
    "id": "scen174.0193",
    "jp": "けど、きっとすぐ次の闇落としが始まるわ。{n}早く学院に戻って、時空観測計を確認しましょう！",
-   "en": "",
+   "en": "But the next Darkfall is sure to start soon. Let's hurry{n}back to the Academy and check the space-time meter!",
    "term": "end"
   },
   {
    "id": "scen174.0194",
    "jp": "お前たち、どうしてここに！？",
-   "en": "",
+   "en": "What are you doing here?!",
    "term": "end"
   },
   {
    "id": "scen174.0195",
    "jp": "言われた通り、{n}この付近には誰も近づけないようにする。{n}そっちは頼んだぞ！",
-   "en": "",
+   "en": "As you said, I will keep everyone away from this area. I{n}leave the rest to you!",
    "term": "end"
   },
   {
    "id": "scen174.0196",
    "jp": "空が青い‥‥。{n}どうやら、闇が晴れたようだな‥‥。",
-   "en": "",
+   "en": "The sky is blue... It seems the darkness has cleared...",
    "term": "end"
   },
   {
    "id": "scen174.0197",
    "jp": "こんなことを言うと笑われるかもしれないが、{n}私は心のどこかで、お前たちが駆けつけて{n}くれるような気がしていたんだ。{p}{FFF6}しかし、まさかそれが現実になるとはな‥‥。{n}{FFFB}{FFF7}ありがとう、お前たちは私の誇りだ。",
-   "en": "",
+   "en": "You may laugh at me for saying this, but somewhere in{n}my heart, I had a feeling you would come rushing here.{p}{FFF6}But I never thought it would actually come true... {FFFB}{FFF7}Thank{n}you. I am proud of you all.",
    "term": "end"
   },
   {
    "id": "scen174.0198",
    "jp": "キミたち、どうしてここに！？",
-   "en": "",
+   "en": "What are you doing here?!",
    "term": "end"
   },
   {
    "id": "scen174.0199",
    "jp": "今はキミたちに賭けるしかない。{n}どうか頼んだよ。",
-   "en": "",
+   "en": "Right now, all we can do is bet on you. Please, we're{n}counting on you.",
    "term": "end"
   },
   {
    "id": "scen174.0200",
    "jp": "すごいな‥‥。{n}あんなに暗かった空が、{n}一気に明るくなるなんて。",
-   "en": "",
+   "en": "Incredible... The sky was so dark, and now it's bright{n}again all at once.",
    "term": "end"
   },
   {
    "id": "scen174.0201",
    "jp": "ありがとう。{n}バーンシュタインは、{n}君たちのおかげで助かったよ。",
-   "en": "",
+   "en": "Thank you. Burnstein was saved thanks to you.",
    "term": "end"
   },
   {
    "id": "scen174.0202",
    "jp": "市民たちに被害は出てないようだな‥‥。",
-   "en": "",
+   "en": "It seems no harm has come to the citizens...",
    "term": "end"
   },
   {
    "id": "scen174.0203",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
    "id": "scen174.0204",
    "jp": "せっかくだし、{n}エリオットたちと話して行こうよ。",
-   "en": "",
+   "en": "While we're here, let's go talk to Elliot and the others.",
    "term": "end"
   },
   {
    "id": "scen174.0205",
    "jp": "こんな時に、笑えない冗談はやめて！{n}早く設置しないと、{n}バーンシュタインが滅んじゃうのよ！",
-   "en": "",
+   "en": "This is no time for unfunny jokes! If we don't set it up{n}soon, Burnstein will be destroyed!",
    "term": "end"
   },
   {
    "id": "scen174.0206",
    "jp": "ちょっと、どこに行くつもり？",
-   "en": "",
+   "en": "Hey, where do you think you're going?",
    "term": "end"
   },
   {
    "id": "scen174.0207",
    "jp": "　{n}　　　　　　扉は堅く閉ざされている。",
-   "en": "",
+   "en": "　{n}　　　　　　The door is firmly shut.",
    "term": "end"
   }
  ]

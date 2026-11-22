@@ -22,7 +22,7 @@
   {
    "id": "scen179.0002",
    "jp": "警告",
-   "en": "",
+   "en": "Warning",
    "term": "null"
   },
   {
@@ -49,37 +49,37 @@
   {
    "id": "scen179.0006",
    "jp": "{v:0023}ここからグローシアンが造った所みたいだね。",
-   "en": "",
+   "en": "{v:0023}Looks like the Growsians built everything from{n}here on.",
    "term": "end"
   },
   {
    "id": "scen179.0007",
    "jp": "右の扉を進めば、直接制御室へと上れる{n}エレベーターがある。{n}それを使うといい。",
-   "en": "",
+   "en": "Through the door on the right is an elevator that goes{n}straight up to the control room. Use that.",
    "term": "end"
   },
   {
    "id": "scen179.0008",
    "jp": "右の扉と言ったはずだが‥‥。",
-   "en": "",
+   "en": "I believe I said the door on the right...",
    "term": "end"
   },
   {
    "id": "scen179.0009",
    "jp": "　{n}このエレベータは、動いていないようだ‥‥。",
-   "en": "",
+   "en": "　{n}This elevator doesn't seem to be running...",
    "term": "end"
   },
   {
    "id": "scen179.0010",
    "jp": "どこへ行く気だ。{n}お前たちが調べたがっていたＤＡＴＡは、{n}そこの端末にあるぞ。",
-   "en": "",
+   "en": "Where do you think you are going? The DATA you were{n}so eager to examine is in that terminal there.",
    "term": "end"
   },
   {
    "id": "scen179.0011",
    "jp": "どこへ行く気だ。{n}制御室へ行かなくてよいのか？",
-   "en": "",
+   "en": "Where do you think you are going? Do you not need to{n}go to the control room?",
    "term": "end"
   },
   {
@@ -92,25 +92,25 @@
   {
    "id": "scen179.0013",
    "jp": "{v:000F}ここは、グローシアンの記録室か‥‥。",
-   "en": "",
+   "en": "{v:000F}So this is a Growsian archive...",
    "term": "end"
   },
   {
    "id": "scen179.0014",
    "jp": "{v:0011}グローシアンの記録室みたい‥‥。",
-   "en": "",
+   "en": "{v:0011}It looks like a Growsian archive...",
    "term": "end"
   },
   {
    "id": "scen179.0015",
    "jp": "{v:0008}お前たちの知りたがっていることはここにあるぞ。",
-   "en": "",
+   "en": "{v:0008}What you wish to know is right here.",
    "term": "end"
   },
   {
    "id": "scen179.0016",
    "jp": "{v:0009}お兄ちゃん、調べてみようよ！",
-   "en": "",
+   "en": "{v:0009}Big Brother, let's take a look!",
    "term": "end"
   },
   {
@@ -130,150 +130,150 @@
   {
    "id": "scen179.0019",
    "jp": "・旧世界とこの世界について",
-   "en": "",
+   "en": "・The Old World and this world",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen179.0020",
    "jp": "・時空干渉能力について",
-   "en": "",
+   "en": "・About space-time interference",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen179.0021",
    "jp": "・時空干渉能力の持たせ方",
-   "en": "",
+   "en": "・How to grant space-time interference",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen179.0022",
    "jp": "・グローシュとデュンケルス",
-   "en": "",
+   "en": "・Grosh and Dunkels",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen179.0023",
    "jp": "・ゲヴェル細胞とデュンケルス",
-   "en": "",
+   "en": "・Gevel cells and Dunkels",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen179.0024",
    "jp": "かつて人々は、この世界とは別の世界に住んでいた。{n}元いた世界のことを、人々は『旧世界』と呼ぶ。{n}その旧世界の滅びを避けるため、多くの人間と{n}フェザリアンがこちらの世界へと移り住んできた。{p}しかし、こちらの世界には人が存在せず、{n}代わりに存在したのは、人々にとってモンスターと{n}いえる生物たちであった。",
-   "en": "",
+   "en": "Long ago, people lived in a world other than this one.{n}People call the world they originally came from the{n}'Old World.'{p}To escape the Old World's destruction, many humans and{n}Featherians migrated to this world.{p}However, there were no people in this world. Instead,{n}it was inhabited by creatures that, to people, could{n}only be called monsters.",
    "term": "end"
   },
   {
    "id": "scen179.0025",
    "jp": "２つの世界にまたがる存在は、{n}２つの時空に働きかける力を有する。{n}つまり、空間の重なりを強固にしたり、{n}ゆがませたりすることが可能である。",
-   "en": "",
+   "en": "A being that spans the two worlds possesses the{n}power to act upon both space-times.{p}In other words, it can strengthen the overlap of the{n}spaces, or distort it.",
    "term": "end"
   },
   {
    "id": "scen179.0026",
    "jp": "こちらの世界の生命体と融合することが出来れば、{n}２つの世界と交わった者となるため、{n}時空干渉能力を持つ事が可能となる。{p}しかし、融合には他の細胞との融和力に長けている{n}ゲヴェルの細胞のみが可能であり、{n}他の生命体の細胞では融合が不可能であった。",
-   "en": "",
+   "en": "If one could fuse with a life-form of this world, one{n}would become a being joined to both worlds, and could{n}thus possess space-time interference.{p}However, only Gevel's cells, which excel at harmonizing{n}with other cells, made fusion possible. Fusion with the{n}cells of any other life-form was impossible.",
    "term": "end"
   },
   {
    "id": "scen179.0027",
    "jp": "旧世界から新たにやってきた者たちによって、{n}この世界を覆う空間には、２つの物質が存在する{n}ことが伝えられた。{p}１つは魔法の源であり、光をつかさどる物質である{n}『グローシュ』である。もう１つは闇をつかさどる{n}『デュンケルス』という物質であり、{n}この存在は人々にとって未知のものであった。{p}その後の観測によって、デュンケルスは確かに{n}存在することが確認され、更に人々にとっては{n}とても有害な物質であることが判明した。{p}元来、こちらの世界に存在する生命体にとって{n}デュンケルスはエネルギーになるようだが、{n}旧世界の生命体、つまり人がデュンケルスに触れると{n}存在そのものが変質し、モンスター化してしまう。{p}もし時空融合を解いた場合、時空の外を取り巻く{n}デュンケルスによって、こちらの世界に移民した{n}人々はモンスター化してしまうだろう。",
-   "en": "",
+   "en": "The newcomers from the Old World reported that two{n}substances exist in the space enveloping this world.{p}One is 'Grosh,' the source of magic and the substance{n}that governs light.{p}The other is a substance called 'Dunkels' that governs{n}darkness, which was unknown to people.{p}Later observation confirmed that Dunkels does indeed{n}exist, and further revealed it to be extremely harmful{n}to people.{p}To life-forms native to this world, Dunkels appears to{n}serve as energy.{p}But when Old World life-forms, that is, people, touch{n}Dunkels, their very existence is altered and they turn{n}into monsters.{p}Should the space-time fusion be undone, the Dunkels{n}surrounding the outside of space-time would turn the{n}people who migrated to this world into monsters.",
    "term": "end"
   },
   {
    "id": "scen179.0028",
    "jp": "{v:000A}旧世界から現れた者か‥‥。{n}旧世界が滅びていなかったというのは{n}本当のようだな‥‥。",
-   "en": "",
+   "en": "{v:000A}People who came from the Old World...? So it's true that{n}the Old World was never destroyed...",
    "term": "end"
   },
   {
    "id": "scen179.0029",
    "jp": "{v:000B}だけど、時空融合を解いたら、{n}みんな怪物になっちゃう‥‥。",
-   "en": "",
+   "en": "{v:000B}But if the space-time fusion is undone, everyone will{n}turn into monsters...",
    "term": "end"
   },
   {
    "id": "scen179.0030",
    "jp": "{v:000C}それじゃ、いくらあっちの世界が{n}大丈夫だったとしても、帰れないじゃない！",
-   "en": "",
+   "en": "{v:000C}Then even if that other world is fine, nobody can{n}go back!",
    "term": "end"
   },
   {
    "id": "scen179.0031",
    "jp": "{v:000D}そういうことになるな。{n}そこでワシは学者たちに命じて、対策を考えさせた。{n}その研究成果もどこかにあるだろう。",
-   "en": "",
+   "en": "{v:000D}So it would seem. That is why I ordered my scholars to{n}devise countermeasures. The results of their research{n}should be here somewhere too.",
    "term": "end"
   },
   {
    "id": "scen179.0032",
    "jp": "デュンケルスは元からこちらの存在であった{n}モンスターに触れても害は起こらないどころか、{n}モンスターを活性化させるということが分かった。{p}ここで、先のゲヴェル細胞と融合させた人間に{n}デュンケルスを浴びさせたところ、何の変化も{n}見られなかった。{p}これはこちらの存在であるゲヴェル細胞により{n}デュンケルスが無害化された事を意味する。",
-   "en": "",
+   "en": "It was found that Dunkels not only causes no harm{n}when it touches monsters, which originally belong to{n}this world, but actually invigorates them.{p}Next, when humans fused with the aforementioned{n}Gevel cells were exposed to Dunkels, no change{n}whatsoever was observed.{p}This means that the Gevel cells, being native to this{n}world, rendered the Dunkels harmless.",
    "term": "end"
   },
   {
    "id": "scen179.0033",
    "jp": "{v:000E}ゲヴェル細胞との融合って‥‥。",
-   "en": "",
+   "en": "{v:000E}Fused with Gevel cells...",
    "term": "end"
   },
   {
    "id": "scen179.0034",
    "jp": "{v:000F}くそ‥いま全てがつながったぜ‥‥。{n}なぜ時空干渉能力にこだわったかがな‥‥。",
-   "en": "",
+   "en": "{v:000F}Damn... Now it all fits together... Why you were so hung{n}up on space-time interference...",
    "term": "end"
   },
   {
    "id": "scen179.0035",
    "jp": "{v:0010}そうだ。{n}時空干渉能力を持つ者は、{n}同時にデュンケルスへの耐性を有する事になる。",
-   "en": "",
+   "en": "{v:0010}Indeed. Those who possess space-time interference{n}also have resistance to Dunkels.",
    "term": "end"
   },
   {
    "id": "scen179.0036",
    "jp": "{v:0011}それじゃ、みんながゲヴェルと融合して、{n}時空干渉能力を持っちゃえばいいじゃん！",
-   "en": "",
+   "en": "{v:0011}Then everyone should just fuse with Gevel and get{n}space-time interference!",
    "term": "end"
   },
   {
    "id": "scen179.0037",
    "jp": "{FFF6}{v:0012}それは無理だ。{n}誰しもがゲヴェル細胞との融合に{n}耐えられるわけではない。{p}{v:0035}ゲヴェル細胞に飲まれて怪物になるか、{n}ショック死する方が多いのだ。{p}{v:0013}ゲヴェルに対し、最も優位な存在である{n}グローシアンでさえ、失敗することもある。{p}{FFF7}{v:0036}このワシさえも、ゲヴェル細胞との融合時に{n}精神を浸食されかかったのだからな。",
-   "en": "",
+   "en": "{FFF6}{v:0012}That is impossible. Not everyone can withstand fusion{n}with Gevel cells.{p}{v:0035}Most are swallowed by the Gevel cells and become{n}monsters, or die of shock.{p}{v:0013}Even Growsians, who hold the greatest advantage over{n}Gevel, sometimes fail.{p}{FFF7}{v:0036}Even I nearly had my mind consumed when I fused with{n}the Gevel cells, after all.",
    "term": "end"
   },
   {
    "id": "scen179.0038",
    "jp": "{v:0014}ど、どういうことですか‥‥？",
-   "en": "",
+   "en": "{v:0014}Wh-what do you mean...?",
    "term": "end"
   },
   {
    "id": "scen179.0039",
    "jp": "{FFF6}{v:0015}言葉の通りだよ‥、心がモンスターになるのだ。{n}ワシはその時に自分の部下を{n}この手で殺してしまった。{p}{v:0016}幸いにもワシと敵対する者に殺されかけ、{n}そのショックで人間の心に戻ることが出来たがな。{n}他の誰もがこううまくいくとは思えん。",
-   "en": "",
+   "en": "{FFF6}{v:0015}Exactly what I said... The heart becomes a monster's. At{n}the time, I killed my own subordinates with these{n}very hands.{p}{v:0016}Fortunately, one who opposed me nearly killed me, and{n}the shock let me return to a human heart. I doubt it{n}would go so well for anyone else.",
    "term": "end"
   },
   {
    "id": "scen179.0040",
    "jp": "{v:0017}たしかに、そうだろうな‥‥。",
-   "en": "",
+   "en": "{v:0017}Yeah, I guess not...",
    "term": "end"
   },
   {
    "id": "scen179.0041",
    "jp": "{v:0018}とにかく、{n}今は時空制御塔のロックを解くとしよう。{p}{v:0019}パワーストーンが失われたといえ、{n}塔の機能が回復すれば、時空分離をある程度{n}食いとめられるはずだ。",
-   "en": "",
+   "en": "{v:0018}In any case, let us unlock the Space-Time Control{n}Tower for now.{p}{v:0019}Even with the Power Stone lost, once the tower's{n}functions are restored, we should be able to hold off{n}the space-time separation to some degree.",
    "term": "end"
   },
   {
    "id": "scen179.0042",
    "jp": "{v:001A}そ、そうだね。",
-   "en": "",
+   "en": "{v:001A}R-right.",
    "term": "end"
   },
   {
@@ -286,28 +286,28 @@
   {
    "id": "scen179.0044",
    "jp": "・旧世界とこの世界について",
-   "en": "",
+   "en": "・The Old World and this world",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen179.0045",
    "jp": "・時空干渉能力について",
-   "en": "",
+   "en": "・About space-time interference",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen179.0046",
    "jp": "・時空干渉能力の持たせ方",
-   "en": "",
+   "en": "・How to grant space-time interference",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen179.0047",
    "jp": "・グローシュとデュンケルス",
-   "en": "",
+   "en": "・Grosh and Dunkels",
    "term": "end",
    "unref": true
   },
@@ -321,19 +321,19 @@
   {
    "id": "scen179.0049",
    "jp": "おい、どうすればここの記録を{n}見ることができるんだ！",
-   "en": "",
+   "en": "Hey, how do we view the records here?!",
    "term": "end"
   },
   {
    "id": "scen179.0050",
    "jp": "左の通路を行ったところに、{n}記録装置の起動スイッチがある。{n}それを起動させればよい。",
-   "en": "",
+   "en": "Down the passage on the left is the switch that{n}activates the recording device. Turn it on, and that{n}will do.",
    "term": "end"
   },
   {
    "id": "scen179.0051",
    "jp": "お兄ちゃん、行ってみよう！",
-   "en": "",
+   "en": "Big Brother, let's go check it out!",
    "term": "end"
   },
   {
@@ -346,7 +346,7 @@
   {
    "id": "scen179.0053",
    "jp": "　{n}　　　　　　　{FFEF}装置は稼動している！{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　　{FFEF}The device is running!{FFF1}",
    "term": "end"
   },
   {
@@ -429,267 +429,267 @@
   {
    "id": "scen179.0065",
    "jp": "この扉はロックが解除されておりません。{n}ロックの解除作業を行ってください。",
-   "en": "",
+   "en": "The lock on this door has not been released. Please{n}carry out the unlocking procedure.",
    "term": "end"
   },
   {
    "id": "scen179.0066",
    "jp": "えぇ、開かないの！{n}どこかに仕掛けでもあるのかな‥。",
-   "en": "",
+   "en": "Huh, it won't open?! Maybe there's a{n}mechanism somewhere...",
    "term": "end"
   },
   {
    "id": "scen179.0067",
    "jp": "制御ルーム",
-   "en": "",
+   "en": "Control Room",
    "term": "end"
   },
   {
    "id": "scen179.0068",
    "jp": "{v:0029}みんな、お疲れ！{n}だけど、ゆっくりしてる暇はないよ！",
-   "en": "",
+   "en": "{v:0029}Good work, everyone! But there's no time to relax!",
    "term": "end"
   },
   {
    "id": "scen179.0069",
    "jp": "{v:002A}ああ、急いでヴェンツェルを追うんだ！",
-   "en": "",
+   "en": "{v:002A}Right, we have to hurry after Wenzel!",
    "term": "end"
   },
   {
    "id": "scen179.0070",
    "jp": "{v:002B}うん！",
-   "en": "",
+   "en": "{v:002B}Okay!",
    "term": "end"
   },
   {
    "id": "scen179.0071",
    "jp": "{v:002C}きゃぁぁ！",
-   "en": "",
+   "en": "{v:002C}Kyaaah!",
    "term": "end"
   },
   {
    "id": "scen179.0072",
    "jp": "{v:002D}じ、地震よ、地震！",
-   "en": "",
+   "en": "{v:002D}A-an earthquake! It's an earthquake!",
    "term": "end"
   },
   {
    "id": "scen179.0073",
    "jp": "{v:002E}いや‥この浮遊感‥‥。{n}これは‥‥。{p}{FC02}‥‥{v:002F}これは時空制御塔が空に浮かび上がったんだ！",
-   "en": "",
+   "en": "{v:002E}No... this floating feeling... This is...{p}{FC02}...{v:002F}The Space-Time Control Tower has risen into the sky!",
    "term": "end"
   },
   {
    "id": "scen179.0074",
    "jp": "{v:0030}それってヴェンツェルがやってるの？{n}急ぎましょ！",
-   "en": "",
+   "en": "{v:0030}Is that Wenzel's doing? Let's hurry!",
    "term": "end"
   },
   {
    "id": "scen179.0075",
    "jp": "{v:001B}ここが制御ルームだ。",
-   "en": "",
+   "en": "{v:001B}This is the control room.",
    "term": "end"
   },
   {
    "id": "scen179.0076",
    "jp": "{v:001C}それじゃ、塔のロックを解いてもらおうか。",
-   "en": "",
+   "en": "{v:001C}Now then, how about you unlock the tower?",
    "term": "end"
   },
   {
    "id": "scen179.0077",
    "jp": "{v:001D}わかっておるわい。",
-   "en": "",
+   "en": "{v:001D}I know, I know.",
    "term": "end"
   },
   {
    "id": "scen179.0078",
    "jp": "{v:001E}生体波パターン検出‥‥{n}グローシアンの王‥‥ヴェンツェル様と確認。{p}{v:001F}時空制御塔の機能を回復させます。",
-   "en": "",
+   "en": "{v:001E}Bio-wave pattern detected... Confirmed as the King of{n}the Growsians... Lord Wenzel.{p}{v:001F}Restoring Space-Time Control Tower functions.",
    "term": "end"
   },
   {
    "id": "scen179.0079",
    "jp": "{v:0020}制御室内の異分子反応を検出しました。{n}これより排除に移ります。",
-   "en": "",
+   "en": "{v:0020}Foreign elements detected inside the control room.{n}Commencing elimination.",
    "term": "end"
   },
   {
    "id": "scen179.0080",
    "jp": "{v:0021}えぇぇぇぇっ！？",
-   "en": "",
+   "en": "{v:0021}Whaaaaat?!",
    "term": "end"
   },
   {
    "id": "scen179.0081",
    "jp": "{v:0022}くそっ！{n}やられた！",
-   "en": "",
+   "en": "{v:0022}Damn it! He got us!",
    "term": "end"
   },
   {
    "id": "scen179.0082",
    "jp": "{v:0023}ふはははははっ！{n}例え魔力を拘束されようと、{n}ここにはお前たちを排除する手段があるのだ！{p}{v:0024}さあ、ガーディアンに殺されるがいい！",
-   "en": "",
+   "en": "{v:0023}Fwahahahaha! Even with my magic bound, there are{n}means here to eliminate you!{p}{v:0024}Now, die at the hands of the Guardians!",
    "term": "end"
   },
   {
    "id": "scen179.0083",
    "jp": "{v:0025}ああっ、待ちなさい！",
-   "en": "",
+   "en": "{v:0025}Ah, wait!",
    "term": "end"
   },
   {
    "id": "scen179.0084",
    "jp": "・急いで追おう",
-   "en": "",
+   "en": "・Hurry after him",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen179.0085",
    "jp": "・今はガーディアンを倒す方が先",
-   "en": "",
+   "en": "・Defeat the Guardians first",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen179.0086",
    "jp": "{v:0026}そんなこと言われても、{n}このガーディアンがいたら‥‥。",
-   "en": "",
+   "en": "{v:0026}Easy for you to say, but with these Guardians here...",
    "term": "end"
   },
   {
    "id": "scen179.0087",
    "jp": "{v:0027}まずはこいつらを止めるしかねぇぜ！",
-   "en": "",
+   "en": "{v:0027}We've got no choice but to stop these things first!",
    "term": "end"
   },
   {
    "id": "scen179.0088",
    "jp": "{v:0028}う、うん‥‥！",
-   "en": "",
+   "en": "{v:0028}O-okay...!",
    "term": "end"
   },
   {
    "id": "scen179.0089",
    "jp": "バカ！{n}早くヴェンツェルを追わないと！",
-   "en": "",
+   "en": "Idiot! We have to go after Wenzel, now!",
    "term": "end"
   },
   {
    "id": "scen179.0090",
    "jp": "どこに行くつもり！？{n}ヴェンツェルを追わないと！",
-   "en": "",
+   "en": "Where are you going?! We have to go after Wenzel!",
    "term": "end"
   },
   {
    "id": "scen179.0091",
    "jp": "{v:0001}やあ、なかなか早かったね。",
-   "en": "",
+   "en": "{v:0001}Well, well, that was rather quick.",
    "term": "end"
   },
   {
    "id": "scen179.0092",
    "jp": "{v:0000}えっ、あいつは‥‥！",
-   "en": "",
+   "en": "{v:0000}Huh, that guy...!",
    "term": "end"
   },
   {
    "id": "scen179.0093",
    "jp": "{v:0035}だが、それでもヴェンツェルを殺す時間は{n}十分にあったけどね。",
-   "en": "",
+   "en": "{v:0035}But even so, I had more than enough time to{n}kill Wenzel.",
    "term": "end"
   },
   {
    "id": "scen179.0094",
    "jp": "{v:0002}そんな‥‥。",
-   "en": "",
+   "en": "{v:0002}No...",
    "term": "end"
   },
   {
    "id": "scen179.0095",
    "jp": "{v:0003}この塔の機能を回復させてくれるとは‥‥、{n}礼を言おう‥‥。{p}{v:0033}そしてヴェンツェルを殺す機会を{n}与えてくれた事にもな。",
-   "en": "",
+   "en": "{v:0003}You restored this tower's functions for me... For that,{n}you have my thanks...{p}{v:0033}And for giving me the chance to kill Wenzel, too.",
    "term": "end"
   },
   {
    "id": "scen179.0096",
    "jp": "{v:0004}どうして殺した！？",
-   "en": "",
+   "en": "{v:0004}Why did you kill him?!",
    "term": "end"
   },
   {
    "id": "scen179.0097",
    "jp": "{v:0005}こんな男、死んでもいいだろう？{n}こいつは生かしておく価値などない男だ。{n}いや、生かしておくと危険なのだ‥‥。",
-   "en": "",
+   "en": "{v:0005}A man like that deserved to die, don't you think? He{n}wasn't worth keeping alive. No, keeping him alive{n}was dangerous...",
    "term": "end"
   },
   {
    "id": "scen179.0098",
    "jp": "{v:0006}そこまで言うほどのことなの？",
-   "en": "",
+   "en": "{v:0006}Was he really that bad?",
    "term": "end"
   },
   {
    "id": "scen179.0099",
    "jp": "{v:0007}当たり前だ。{n}この男を生かしておくと、この世界だけでなく、{n}俺たちの故郷まで危険になる。",
-   "en": "",
+   "en": "{v:0007}Of course. If this man were left alive, not just this{n}world but even our homeland would be in danger.",
    "term": "end"
   },
   {
    "id": "scen179.0100",
    "jp": "{v:0008}俺たちの故郷！？{n}‥‥何の話だ‥‥。",
-   "en": "",
+   "en": "{v:0008}Your homeland?! ...What are you talking about...?",
    "term": "end"
   },
   {
    "id": "scen179.0101",
    "jp": "{v:0009}まだわからないのか？{p}{v:000A}時空融合でここの連中が移動する前まで、{n}我々は同じ大地に生きていた。{n}お前たちが旧世界と呼ぶあの大地にな。",
-   "en": "",
+   "en": "{v:0009}You still don't get it?{p}{v:000A}Until the people here moved over through the{n}space-time fusion, we lived on the same land. The land{n}you call the Old World.",
    "term": "end"
   },
   {
    "id": "scen179.0102",
    "jp": "{v:000B}旧世界！{n}‥‥それじゃ‥‥ひょっとして記録にあった{n}旧世界から来た人っていうのは‥‥。",
-   "en": "",
+   "en": "{v:000B}The Old World! ...Then... could it be that the people from{n}the Old World in the records...",
    "term": "end"
   },
   {
    "id": "scen179.0103",
    "jp": "{v:000C}そうとも。{n}こっちの世界に、故郷の無事を伝えに来たチームの{n}生き残りだよ。{p}{v:000D}あれだけいたメンバーも、{n}グローシアンとフェザリアンの戦争に巻き込まれ、{n}生き残ったのは我々３人だけだ。",
-   "en": "",
+   "en": "{v:000C}That's right. We're the survivors of the team that{n}came to this world to report that our homeland{n}was safe.{p}{v:000D}We had so many members, but they got caught up in{n}the war between the Growsians and Featherians. Only{n}the three of us survived.",
    "term": "end"
   },
   {
    "id": "scen179.0104",
    "jp": "{v:000E}でも、それは過去の話ですよね？{n}だったら、今はもう‥‥。",
-   "en": "",
+   "en": "{v:000E}But that's all in the past, isn't it? Then surely now...",
    "term": "end"
   },
   {
    "id": "scen179.0105",
    "jp": "{v:000F}ヴェンツェルは時空干渉能力を使って、{n}我らの故郷を侵略しようと企んでいた。{n}その理由は奴が王であることにこだわったからだ。{p}{v:0010}２つの空間を重ね合わせた、この不自然な世界は、{n}グローシアンという特殊な存在を生む。{p}{v:0011}他人にない力を持った人間は、{n}力を持たぬ者を下に置き、支配者たろうとする。{p}{v:0012}そして反発は戦争を呼び、多くの命が失われる‥‥。",
-   "en": "",
+   "en": "{v:000F}Wenzel was plotting to use his space-time interference{n}to invade our homeland. And all because he clung to{n}being a king.{p}{v:0010}This unnatural world, two spaces laid over each other,{n}gives birth to the special beings called Growsians.{p}{v:0011}People with powers others lack put the powerless{n}beneath them and try to make themselves rulers.{p}{v:0012}Then resistance brings war, and many lives are lost...",
    "term": "end"
   },
   {
    "id": "scen179.0106",
    "jp": "{v:0013}それはここでなくても同じだろう。{n}どんな世界にも、支配階級があり、{n}非支配階級がある。",
-   "en": "",
+   "en": "{v:0013}It would be the same anywhere, not just here. Every{n}world has a ruling class and a class that is ruled.",
    "term": "end"
   },
   {
    "id": "scen179.0107",
    "jp": "{v:0014}この世界ではそれが顕著なんだよ！{n}グローシアンの特別意識がな！{p}{v:0015}お前たちを生かしておけば、何十年か先にまた{n}グローシアンの国が生まれるかもしれない。",
-   "en": "",
+   "en": "{v:0014}In this world it's blatant! The Growsians and their{n}sense of being special!{p}{v:0015}If we let you all live, a Growsian nation could rise again{n}a few decades from now.",
    "term": "end"
   },
   {
    "id": "scen179.0108",
    "jp": "{v:0034}そしてその連中が、{n}我が故郷に攻め込まないとも限らない！",
-   "en": "",
+   "en": "{v:0034}And there's no telling those people won't march on{n}our homeland!",
    "term": "end"
   },
   {
@@ -703,7 +703,7 @@
   {
    "id": "scen179.0110",
    "jp": "・そうかもしれない",
-   "en": "",
+   "en": "・Maybe so",
    "term": "end",
    "unref": true
   },
@@ -718,67 +718,67 @@
   {
    "id": "scen179.0112",
    "jp": "{v:0016}お前はそのつもりかもしれないが、お前の子孫や、{n}これから生まれてくるグローシアンにも{n}責任は持てるか？",
-   "en": "",
+   "en": "{v:0016}That may be what you intend, but can you answer for{n}your descendants, or for the Growsians yet to{n}be born?",
    "term": "end"
   },
   {
    "id": "scen179.0113",
    "jp": "{v:0017}そうだろう？{n}この世界の人間は、欲が強すぎるのだよ。",
-   "en": "",
+   "en": "{v:0017}You see? The people of this world are far too greedy.",
    "term": "end"
   },
   {
    "id": "scen179.0114",
    "jp": "{v:0018}どうだ？{n}何も言い返せまい？",
-   "en": "",
+   "en": "{v:0018}Well? You can't argue with that, can you?",
    "term": "end"
   },
   {
    "id": "scen179.0115",
    "jp": "{v:0019}それに、お前も時空干渉能力を持っていたな‥‥。",
-   "en": "",
+   "en": "{v:0019}Besides, you have space-time interference too,{n}don't you...",
    "term": "end"
   },
   {
    "id": "scen179.0116",
    "jp": "{v:001A}いったい‥‥何を‥‥？",
-   "en": "",
+   "en": "{v:001A}What... are you...?",
    "term": "end"
   },
   {
    "id": "scen179.0117",
    "jp": "{v:001B}時空干渉能力を持つ者を生かしてはおけない‥‥{n}ここで始末する！",
-   "en": "",
+   "en": "{v:001B}No one with space-time interference can be allowed to{n}live... I'll finish you here!",
    "term": "end"
   },
   {
    "id": "scen179.0118",
    "jp": "{FFF6}‥‥‥‥。",
-   "en": "",
+   "en": "{FFF6}........",
    "term": "end"
   },
   {
    "id": "scen179.0119",
    "jp": "{v:001F}ね、ねぇ！{n}ちょっと！やめてよ！",
-   "en": "",
+   "en": "{v:001F}H-hey! Hey, wait! Stop it!",
    "term": "end"
   },
   {
    "id": "scen179.0120",
    "jp": "{v:0020}時空干渉能力を持つ者は‥‥{n}生かしておけない‥‥。",
-   "en": "",
+   "en": "{v:0020}No one with space-time interference... can be allowed{n}to live...",
    "term": "end"
   },
   {
    "id": "scen179.0121",
    "jp": "‥‥‥！！",
-   "en": "",
+   "en": "......!!",
    "term": "end"
   },
   {
    "id": "scen179.0122",
    "jp": "{v:0029}ちょ、ちょっと、どうしたのよ！",
-   "en": "",
+   "en": "{v:0029}H-hey, what's gotten into you?!",
    "term": "end"
   },
   {
@@ -798,55 +798,55 @@
   {
    "id": "scen179.0125",
    "jp": "{v:002A}おやおや、ゲヴェル波動が切れたか‥‥。",
-   "en": "",
+   "en": "{v:002A}Oh my, has his Gevel wave run out...?",
    "term": "end"
   },
   {
    "id": "scen179.0126",
    "jp": "{v:002B}しっかりしなさい！{n}敵の前よ！　ねぇ！",
-   "en": "",
+   "en": "{v:002B}Pull yourself together! The enemy's right in front of{n}us! Hey!",
    "term": "end"
   },
   {
    "id": "scen179.0127",
    "jp": "{v:0032}みんな、お兄ちゃんの所に集まって！",
-   "en": "",
+   "en": "{v:0032}Everyone, gather around Big Brother!",
    "term": "end"
   },
   {
    "id": "scen179.0128",
    "jp": "{v:002C}イチかバチか‥‥。{n}{FFF6}‥‥テレポート！",
-   "en": "",
+   "en": "{v:002C}It's all or nothing...{FFF6} ...Teleport!",
    "term": "end"
   },
   {
    "id": "scen179.0129",
    "jp": "‥{v:002D}ふん‥逃げられたか‥‥。",
-   "en": "",
+   "en": "..{v:002D}Hmph... They got away...",
    "term": "end"
   },
   {
    "id": "scen179.0130",
    "jp": "{v:002F}あの男はもう長くない。{n}放っておくとしよう。",
-   "en": "",
+   "en": "{v:002F}That man doesn't have long. We'll leave him be.",
    "term": "end"
   },
   {
    "id": "scen179.0131",
    "jp": "{v:0030}それよりも、私たちにはやることがある。",
-   "en": "",
+   "en": "{v:0030}More importantly, we have work to do.",
    "term": "end"
   },
   {
    "id": "scen179.0132",
    "jp": "{v:0031}そうとも‥‥。{n}故郷を救うためにな‥‥。",
-   "en": "",
+   "en": "{v:0031}Indeed... To save our homeland...",
    "term": "end"
   },
   {
    "id": "scen179.0133",
    "jp": "{v:002E}ジャスティン‥‥。",
-   "en": "",
+   "en": "{v:002E}Justin...",
    "term": "end"
   },
   {

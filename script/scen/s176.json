@@ -50,7 +50,7 @@
   {
    "id": "scen176.0006",
    "jp": "ジャスティン",
-   "en": "",
+   "en": "Justin",
    "term": "null"
   },
   {
@@ -70,31 +70,31 @@
   {
    "id": "scen176.0009",
    "jp": "うわあああ、空が真っ暗だよぉ～[01BE]",
-   "en": "",
+   "en": "Waaaah, the sky's gone pitch-black[01BE]",
    "term": "end"
   },
   {
    "id": "scen176.0010",
    "jp": "ここは地上よりも空に近い分、{n}闇も近くに迫っているのよ。{n}{FFFB}急ぎましょう！",
-   "en": "",
+   "en": "We're closer to the sky here than on the ground, so{n}the darkness is closing in faster, too. {FFFB}Let's hurry!",
    "term": "end"
   },
   {
    "id": "scen176.0011",
    "jp": "{v:000B}ここが、フェザーランド‥‥。{n}フェザリアンの住む、空の浮島か‥‥。",
-   "en": "",
+   "en": "{v:000B}So this is Featherland... The floating island in the sky{n}where the Featherians live...",
    "term": "end"
   },
   {
    "id": "scen176.0012",
    "jp": "あれ‥‥？{n}{FFFB}人がほとんどいないみたい‥‥。",
-   "en": "",
+   "en": "Huh...? {FFFB}It looks like hardly anyone's here...",
    "term": "end"
   },
   {
    "id": "scen176.0013",
    "jp": "そういえば、フェザリアンから{n}魔法学院に呼ばれていたな‥‥。{n}行けば、なにか事情が分かるかもしれん。",
-   "en": "",
+   "en": "Come to think of it, the Featherians did call the Magic{n}Academy here... If we go, we may find out what's{n}going on.",
    "term": "end"
   },
   {
@@ -121,7 +121,7 @@
   {
    "id": "scen176.0017",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
@@ -155,49 +155,49 @@
   {
    "id": "scen176.0022",
    "jp": "そなたたちか‥‥。{n}{FFFB}あんなことがあったばかりだというのに、{n}今度はどうしたのだ？",
-   "en": "",
+   "en": "So it is you... {FFFB}After all that has only just happened,{n}what is it this time?",
    "term": "end"
   },
   {
    "id": "scen176.0023",
    "jp": "えっとね、時空制御塔についてちょっと‥‥。",
-   "en": "",
+   "en": "Um, well, it's about the Space-Time Control Tower...",
    "term": "end"
   },
   {
    "id": "scen176.0024",
    "jp": "フェザリアンの方たちも既にご存知の通り、{n}あの時空制御塔を奪った者は、{n}時空の完全分離を企んでいます。{p}止めなければ大変なことになりますが、{n}空を飛ばれていては、中に入ることはできません。{p}時空制御塔はフェザリアンが造ったものと{n}聞いていますが、アレを何とかする方法は{n}ありませんか？",
-   "en": "",
+   "en": "As you Featherians already know, the one who seized{n}that Space-Time Control Tower is plotting the complete{n}separation of space-time.{p}If we don't stop him, it will be a disaster, but as long{n}as it's flying through the sky, we can't get inside.{p}We've heard that the Featherians built the Space-Time{n}Control Tower. Is there any way to do something{n}about it?",
    "term": "end"
   },
   {
    "id": "scen176.0025",
    "jp": "‥‥なるほど、事情は分かった。{n}{FFFB}時空制御塔を止める方法は、１つだけある。",
-   "en": "",
+   "en": "...I see. I understand the situation. {FFFB}There is but one way{n}to stop the Space-Time Control Tower.",
    "term": "end"
   },
   {
    "id": "scen176.0026",
    "jp": "本当ですか！？",
-   "en": "",
+   "en": "Really?!",
    "term": "end"
   },
   {
    "id": "scen176.0027",
    "jp": "‥‥だが、私の一存では決定できぬ。{n}少し、時間がほしい‥‥。{p}結果は、なるべく早く知らせよう。{n}答えが出たら、こちらから使いを出す。",
-   "en": "",
+   "en": "...However, I cannot decide this on my own authority. I{n}need some time...{p}I shall inform you of the result as soon as I can. Once{n}we have an answer, I shall send a messenger.",
    "term": "end"
   },
   {
    "id": "scen176.0028",
    "jp": "‥‥分かりました、よろしくお願いします。",
-   "en": "",
+   "en": "...Understood. We're counting on you.",
    "term": "end"
   },
   {
    "id": "scen176.0029",
    "jp": "それなら１度、国王とサンドラ様に{n}これまでの報告をしたほうがいいだろう。",
-   "en": "",
+   "en": "In that case, we'd better report what's happened so{n}far to the King and Sandra-sama.",
    "term": "end"
   },
   {
@@ -210,199 +210,199 @@
   {
    "id": "scen176.0031",
    "jp": "返事は早いうちにしよう。{n}それまで待っているがよい。",
-   "en": "",
+   "en": "We shall reply soon. Until then, wait.",
    "term": "end"
   },
   {
    "id": "scen176.0032",
    "jp": "時空が完全分離される前に、{n}この事態を何とかせねばならぬな‥‥。",
-   "en": "",
+   "en": "We must do something about this before space-time is{n}completely separated...",
    "term": "end"
   },
   {
    "id": "scen176.0033",
    "jp": "また時空の歪みが不安定に{n}なっているようであるな‥‥。",
-   "en": "",
+   "en": "It seems the space-time distortion has become{n}unstable again...",
    "term": "end"
   },
   {
    "id": "scen176.0034",
    "jp": "そなたたちには世話になったな。{p}我々は、人間に対する考え方を{n}改めなければならないのかもしれぬ‥‥。",
-   "en": "",
+   "en": "We are indebted to you.{p}Perhaps we must reconsider how we think of humans...",
    "term": "end"
   },
   {
    "id": "scen176.0035",
    "jp": "反省室へ入る許可は、出しておいたぞ。",
-   "en": "",
+   "en": "I have granted you permission to enter the{n}Reflection Room.",
    "term": "end"
   },
   {
    "id": "scen176.0036",
    "jp": "フェザーランドで情報収集",
-   "en": "",
+   "en": "Gather Information in Featherland",
    "term": "end"
   },
   {
    "id": "scen176.0037",
    "jp": "そなたたちか。{n}我々に何か用でも？",
-   "en": "",
+   "en": "So it is you. Have you some business with us?",
    "term": "end"
   },
   {
    "id": "scen176.0038",
    "jp": "はい、実はちょっと‥‥。",
-   "en": "",
+   "en": "Yes, actually, um...",
    "term": "end"
   },
   {
    "id": "scen176.0039",
    "jp": "突然、申し訳ありません。{p}お尋ねしたいことがあるのですが、{n}メルフィというフェザリアンの女の子を{n}知ってますか？",
-   "en": "",
+   "en": "Forgive us for asking so suddenly.{p}There's something we'd like to ask. Do you know a{n}Featherian girl named Melfie?",
    "term": "end"
   },
   {
    "id": "scen176.0040",
    "jp": "‥‥メルフィ‥‥？{n}‥‥聞いたことはないな。{p}フェザリアンに、{n}メルフィという名の者はおらぬ。",
-   "en": "",
+   "en": "...Melfie...? ...I have never heard the name.{p}There is no Featherian by the name of Melfie.",
    "term": "end"
   },
   {
    "id": "scen176.0041",
    "jp": "えええっ！？",
-   "en": "",
+   "en": "Whaaat?!",
    "term": "end"
   },
   {
    "id": "scen176.0042",
    "jp": "実は、１人のフェザリアンが{n}地上を襲ってる人間と一緒にいてね、{n}それがメルフィさんっていって‥‥。",
-   "en": "",
+   "en": "See, there's this one Featherian who's with the humans{n}attacking the world below, and her name's{n}Melfie-san, and...",
    "term": "end"
   },
   {
    "id": "scen176.0043",
    "jp": "ティピ、突然そんなことを言っても、{n}女王様も話が分からないと思うよ。{n}まずは、闇落としの説明からしないと‥‥。",
-   "en": "",
+   "en": "Tippi, if you spring that on her out of nowhere, I don't{n}think the Queen will understand. We have to start by{n}explaining the Darkfall...",
    "term": "end"
   },
   {
    "id": "scen176.0044",
    "jp": "‥‥待て。{n}{FFFB}そなた今、『闇』と言ったか？",
-   "en": "",
+   "en": "...Wait. {FFFB}Did you just say 'darkness'?",
    "term": "end"
   },
   {
    "id": "scen176.0045",
    "jp": "もしかして、知ってるの！？",
-   "en": "",
+   "en": "Wait, you know about it?!",
    "term": "end"
   },
   {
    "id": "scen176.0046",
    "jp": "とつぜん、黒い物質が空から地上へと{n}落下していったのを我々も目撃しておる。{n}{FFFB}そなたの言う闇とやらは、もしかしてそのことか？",
-   "en": "",
+   "en": "We too witnessed a black substance suddenly falling{n}from the sky to the land below. {FFFB}Is that what you call{n}the darkness?",
    "term": "end"
   },
   {
    "id": "scen176.0047",
    "jp": "はい、その通りです。{n}こちらでも、既に確認されていたんですね。",
-   "en": "",
+   "en": "Yes, exactly. So you've already seen it here, too.",
    "term": "end"
   },
   {
    "id": "scen176.0048",
    "jp": "あれはデュンケルスと言って、{n}時空の狭間から流れ込んでくるものらしい。{n}それに触れた者は、心身共に化け物になっちまう。",
-   "en": "",
+   "en": "That's called Dunkels. Seems it pours in from the rift in{n}space-time. Anyone who touches it turns into a{n}monster, body and soul.",
    "term": "end"
   },
   {
    "id": "scen176.0049",
    "jp": "なんと‥‥。{p}フェザリアンでありながら、{n}そのような凶行に手を貸している者が{n}いるというのか‥‥。",
-   "en": "",
+   "en": "Good heavens...{p}You mean to say that a Featherian, of all beings, is{n}lending a hand to such atrocities...?",
    "term": "end"
   },
   {
    "id": "scen176.0050",
    "jp": "アタシたち、闇落としを止めさせたいの！{n}そのために、情報を集めてるんだけど‥‥。",
-   "en": "",
+   "en": "We want to stop the Darkfall! That's why we're{n}gathering information, but...",
    "term": "end"
   },
   {
    "id": "scen176.0051",
    "jp": "‥‥その、メルフィとやらのことだが‥‥、{n}ジーナなら知ってるかもしれぬな‥‥。",
-   "en": "",
+   "en": "...As for this Melfie you speak of... Gina may know{n}something of her...",
    "term": "end"
   },
   {
    "id": "scen176.0052",
    "jp": "母が！？",
-   "en": "",
+   "en": "My mother?!",
    "term": "end"
   },
   {
    "id": "scen176.0053",
    "jp": "ジーナって、確か‥‥。{n}アリオストさんのお母さん！？",
-   "en": "",
+   "en": "Gina... wait, isn't that... Ariost-san's mother?!",
    "term": "end"
   },
   {
    "id": "scen176.0054",
    "jp": "そうだ。{n}そなたらも知っての通り、{n}ジーナは長い間、地上で人間と暮らしておった。{p}‥‥もしかしたら、我々が知らぬ情報を{n}持っているやもしれん。{p}ジーナは反省室に入っているが‥‥、{n}１度だけ、特別に面会を許可しよう。",
-   "en": "",
+   "en": "Indeed. As you are well aware, Gina lived among humans{n}on the surface for a long time.{p}...She may possess knowledge that we do not.{p}Gina is confined to the Reflection Room, but... I shall{n}grant you a special audience with her, just this once.",
    "term": "end"
   },
   {
    "id": "scen176.0055",
    "jp": "はい、ありがとうございます！",
-   "en": "",
+   "en": "Yes! Thank you very much!",
    "term": "end"
   },
   {
    "id": "scen176.0056",
    "jp": "アリオストさん、嬉しそう★",
-   "en": "",
+   "en": "Ariost-san looks so happy!",
    "term": "end"
   },
   {
    "id": "scen176.0057",
    "jp": "そりゃあ、ねぇ？",
-   "en": "",
+   "en": "Well, of course he is. Right?",
    "term": "end"
   },
   {
    "id": "scen176.0058",
    "jp": "やったぁ★",
-   "en": "",
+   "en": "Yaaay!",
    "term": "end"
   },
   {
    "id": "scen176.0059",
    "jp": "まさか、こんな形で母さんに会えるなんて‥‥。",
-   "en": "",
+   "en": "I never imagined I'd get to see Mother like this...",
    "term": "end"
   },
   {
    "id": "scen176.0060",
    "jp": "我々に何か用か？",
-   "en": "",
+   "en": "Do you have business with us?",
    "term": "end"
   },
   {
    "id": "scen176.0061",
    "jp": "なんだ、また人間か‥‥。何の用だ？",
-   "en": "",
+   "en": "What, humans again...? What do you want?",
    "term": "end"
   },
   {
    "id": "scen176.0062",
    "jp": "愚かな人間のせいで、{n}歪みが不安定になっているようだな。",
-   "en": "",
+   "en": "It seems foolish humans have made the{n}distortion unstable.",
    "term": "end"
   },
   {
    "id": "scen176.0063",
    "jp": "我々はお前たち人間たちのことを、{n}少し勘違いしてたかもしれんな‥‥。",
-   "en": "",
+   "en": "Perhaps we have misjudged you humans somewhat...",
    "term": "end"
   },
   {
@@ -415,31 +415,31 @@
   {
    "id": "scen176.0065",
    "jp": "愚かな人間同士の争いに、{n}我々は関係ない。{p}だが、時空の歪みだけは{n}放っておくわけにはいかんな‥‥。",
-   "en": "",
+   "en": "The squabbles of foolish humans are no concern{n}of ours.{p}But the distortion in space-time is another matter. That{n}we cannot ignore...",
    "term": "end"
   },
   {
    "id": "scen176.0066",
    "jp": "まさか、お前たち人間に{n}助けられるとは思わなかったな‥‥。{n}ここは素直に感謝しよう。",
-   "en": "",
+   "en": "I never thought we would be saved by you humans, of{n}all people... I shall be honest and thank you.",
    "term": "end"
   },
   {
    "id": "scen176.0067",
    "jp": "もしかしたら、フェザリアンと人間は{n}理解し合えるのだろうか‥‥。",
-   "en": "",
+   "en": "Perhaps Featherians and humans can understand one{n}another after all...",
    "term": "end"
   },
   {
    "id": "scen176.0068",
    "jp": "最近、また地上が騒がしいようだな。",
-   "en": "",
+   "en": "The surface seems to be in an uproar again lately.",
    "term": "end"
   },
   {
    "id": "scen176.0069",
    "jp": "長らく眠っていた時空制御塔が、{n}再び浮遊を始めたようだな‥‥。",
-   "en": "",
+   "en": "It seems the Space-Time Control Tower, long dormant,{n}has begun to float once more...",
    "term": "end"
   },
   {
@@ -452,19 +452,19 @@
   {
    "id": "scen176.0071",
    "jp": "あら、人間が何かご用でしょうか？",
-   "en": "",
+   "en": "Oh my, can I help you, human?",
    "term": "end"
   },
   {
    "id": "scen176.0072",
    "jp": "最近、空がとても不気味ですわ‥‥。",
-   "en": "",
+   "en": "The sky has been terribly eerie lately...",
    "term": "end"
   },
   {
    "id": "scen176.0073",
    "jp": "私も、諦めたくはありません。{n}こう思えるのは、アナタたち人間の{n}影響なのでしょうか？",
-   "en": "",
+   "en": "I do not wish to give up either. Is it the influence of{n}you humans that makes me feel this way?",
    "term": "end"
   },
   {
@@ -477,13 +477,13 @@
   {
    "id": "scen176.0075",
    "jp": "空の裂け目から、黒い闇が落ちてくるのを見た。{n}‥‥あれは何なのだ？",
-   "en": "",
+   "en": "I saw black darkness falling from a rift in the sky.{n}...What is it?",
    "term": "end"
   },
   {
    "id": "scen176.0076",
    "jp": "このままでは人間のせいで、{n}時空の狭間から大量の闇が流入して{n}世界が滅んでしまうかもしれん‥‥。",
-   "en": "",
+   "en": "At this rate, thanks to humans, darkness may flood in{n}from the rift in space-time and destroy the world...",
    "term": "end"
   },
   {
@@ -503,7 +503,7 @@
   {
    "id": "scen176.0079",
    "jp": "またお前たちか‥‥。{n}いつも何をしに、わざわざここまで来るんだ？",
-   "en": "",
+   "en": "You again...? What do you come all the way up here for{n}every time?",
    "term": "end"
   },
   {
@@ -516,13 +516,13 @@
   {
    "id": "scen176.0081",
    "jp": "こうなってしまった以上、{n}もうどこへ行っても闇からは逃れられない。{n}これが運命なのかもしれんな‥‥。",
-   "en": "",
+   "en": "Now that it has come to this, there is nowhere left to{n}escape the darkness. Perhaps this is fate...",
    "term": "end"
   },
   {
    "id": "scen176.0082",
    "jp": "少しずつだが、{n}人間のことが分かってきた気がするな。",
-   "en": "",
+   "en": "Little by little, I feel I am coming to{n}understand humans.",
    "term": "end"
   },
   {
@@ -542,7 +542,7 @@
   {
    "id": "scen176.0085",
    "jp": "‥‥留守のようだ。{n}{FFFB}が、よく見ると張り紙がしてある。{p}『精神力が切れて、地上へ帰れなくなった者は{n}石像を正面から調べてみること。{n}グローシアンがいるならば、何かが起こるはずだ。』",
-   "en": "",
+   "en": "...No one seems to be home.{FFFB} But on closer inspection,{n}there is a notice posted.{p}'Those who have exhausted their mental energy and{n}cannot return to the surface should examine the{n}stone statue from the front.{p}If there is a Growsian among you, something{n}should happen.'",
    "term": "end"
   },
   {
@@ -569,7 +569,7 @@
   {
    "id": "scen176.0089",
    "jp": "誰もいないようだ‥‥。",
-   "en": "",
+   "en": "There seems to be no one here...",
    "term": "end"
   },
   {
@@ -589,73 +589,73 @@
   {
    "id": "scen176.0092",
    "jp": "お前たちは、いつも何かに必死だな。{n}自分には、それがまだ理解できん‥‥。",
-   "en": "",
+   "en": "You humans are always desperate about something. I{n}still do not understand that...",
    "term": "end"
   },
   {
    "id": "scen176.0093",
    "jp": "人間がなにか用か？",
-   "en": "",
+   "en": "What does a human want?",
    "term": "end"
   },
   {
    "id": "scen176.0094",
    "jp": "大きな闇が、また大陸に落ち始めたようだな。",
-   "en": "",
+   "en": "It seems great darkness has begun to fall on the{n}continent again.",
    "term": "end"
   },
   {
    "id": "scen176.0095",
    "jp": "‥‥我々は、{n}また昔のように協力し合えるのだろうか？",
-   "en": "",
+   "en": "...I wonder if we can cooperate again, as we did{n}long ago?",
    "term": "end"
   },
   {
    "id": "scen176.0096",
    "jp": "お前たちの顔は、{n}すっかり見慣れてしまったな‥‥。",
-   "en": "",
+   "en": "I have grown quite used to seeing your faces...",
    "term": "end"
   },
   {
    "id": "scen176.0097",
    "jp": "空から地上へと闇が落ちていく様子は、{n}この島からよく見える。{n}なんとも気味が悪い光景だ。",
-   "en": "",
+   "en": "From this island, one can clearly see the darkness falling{n}from the sky to the surface. It is a truly{n}unsettling sight.",
    "term": "end"
   },
   {
    "id": "scen176.0098",
    "jp": "人間の諦めの悪さ、か‥‥。",
-   "en": "",
+   "en": "The stubbornness of humans, is it...?",
    "term": "end"
   },
   {
    "id": "scen176.0099",
    "jp": "何度もお前たちの顔を見てると、{n}嫌でも覚えてしまうな。",
-   "en": "",
+   "en": "See your faces this often and I cannot help but{n}remember them.",
    "term": "end"
   },
   {
    "id": "scen176.0100",
    "jp": "メルフィの詳細は分からなかったが、{n}その代わり重要な情報を得られたな。",
-   "en": "",
+   "en": "We didn't learn the details about Melfie, but we got{n}some important information in exchange.",
    "term": "end"
   },
   {
    "id": "scen176.0101",
    "jp": "あとは、デュンケルスについて調べないとね！",
-   "en": "",
+   "en": "Now we just have to look into Dunkels!",
    "term": "end"
   },
   {
    "id": "scen176.0102",
    "jp": "デュンケルスとメルフィさんについて、{n}これで一応は調べられたかな？{p}あとは、ヴェンツェルを連れ出すための{n}装置をどうにかするだけだね。",
-   "en": "",
+   "en": "I guess we've looked into Dunkels and Melfie-san as{n}much as we can for now?{p}Now all that's left is to deal with the device for{n}bringing Wenzel out.",
    "term": "end"
   },
   {
    "id": "scen176.0103",
    "jp": "デュンケルスとメルフィさんについて、{n}これで一応は調べられたかな？{p}あとは、ヴェンツェルを連れ出すための{n}相談をマスターにしないとね。",
-   "en": "",
+   "en": "I guess we've looked into Dunkels and Melfie-san as{n}much as we can for now?{p}Now all that's left is to talk to Master about bringing{n}Wenzel out.",
    "term": "end"
   },
   {
@@ -668,25 +668,25 @@
   {
    "id": "scen176.0105",
    "jp": "女王から、面会許可を得たようだな。{p}だがジーナは今、{n}己の罪を認めるための説法を受けている。{n}もう少し時間をおいてから、来られよ。",
-   "en": "",
+   "en": "I see you have obtained the Queen's permission for{n}an audience.{p}However, Gina is currently receiving a sermon so that{n}she may acknowledge her crime. Come back after some{n}time has passed.",
    "term": "end"
   },
   {
    "id": "scen176.0106",
    "jp": "もうっ、なによ！{n}ケチね！",
-   "en": "",
+   "en": "Ugh, what's with that?! How stingy!",
    "term": "end"
   },
   {
    "id": "scen176.0107",
    "jp": "ねぇ、お兄ちゃん‥‥。{n}１つ提案なんだけど、せっかくだから{n}アリオストさん連れてきてあげようよ。{p}お母さんと会いたいって言ってたし、{n}これっていい機会だと思うんだ。",
-   "en": "",
+   "en": "Um, Big Brother... I have an idea. Since we're here{n}anyway, why don't we bring Ariost-san?{p}He said he wanted to see his mother, and I think this is{n}a good chance.",
    "term": "end"
   },
   {
    "id": "scen176.0108",
    "jp": "さっすがルイセちゃん、優しいわね～。{n}もちろん、アンタも賛成でしょ！？",
-   "en": "",
+   "en": "That's our Luise-chan, so kind! Of course YOU agree{n}too, right?!",
    "term": "end"
   },
   {
@@ -699,63 +699,63 @@
   {
    "id": "scen176.0110",
    "jp": "・賛成",
-   "en": "",
+   "en": "・I agree",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen176.0111",
    "jp": "・反対",
-   "en": "",
+   "en": "・I disagree",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen176.0112",
    "jp": "よかった。{n}それじゃ、アリオストさん呼びにいこう？",
-   "en": "",
+   "en": "Great. Then let's go get Ariost-san, okay?",
    "term": "end"
   },
   {
    "id": "scen176.0113",
    "jp": "‥‥お兄ちゃん‥‥。",
-   "en": "",
+   "en": "...Big Brother...",
    "term": "end"
   },
   {
    "id": "scen176.0114",
    "jp": "ティピちゃん、きーーーっく！",
-   "en": "",
+   "en": "Tippi-chan... KIIIICK!",
    "term": "end"
   },
   {
    "id": "scen176.0115",
    "jp": "アンタには、ルイセちゃんみたいな優しさが{n}みじんもないの？",
-   "en": "",
+   "en": "Don't you have even an ounce of Luise-chan's kindness?",
    "term": "end"
   },
   {
    "id": "scen176.0116",
    "jp": "この様子だと、{n}反省室にはまだ入れてもらえそうにない。{p}どのみち時間つぶしをするなら、{n}その間に呼んできてやればいいじゃねぇか。",
-   "en": "",
+   "en": "By the looks of it, they won't let us into the Reflection{n}Room yet.{p}If we've got time to kill either way, we may as well go{n}fetch him in the meantime.",
    "term": "end"
   },
   {
    "id": "scen176.0117",
    "jp": "それじゃ、やっぱアリオストさん呼びにいこう？{n}うん、決まり！",
-   "en": "",
+   "en": "So let's go get Ariost-san after all, okay? Yep,{n}it's decided!",
    "term": "end"
   },
   {
    "id": "scen176.0118",
    "jp": "ジーナは今、己の罪を認めるための{n}説法を受けている。{n}終わるまで、反省室へ入ることは出来ぬ。{p}もう少し時間をおいてから、来られよ。",
-   "en": "",
+   "en": "Gina is currently receiving a sermon so that she may{n}acknowledge her crime. Until it is over, none may enter{n}the Reflection Room.{p}Come back after some time has passed.",
    "term": "end"
   },
   {
    "id": "scen176.0119",
    "jp": "ここは禁を破った者が反省をする部屋だ。{n}許可がない者を入れる訳にはいかぬ。",
-   "en": "",
+   "en": "This is a room where those who break our laws reflect{n}on their actions. I cannot let anyone in{n}without permission.",
    "term": "end"
   },
   {
@@ -796,13 +796,13 @@
   {
    "id": "scen176.0125",
    "jp": "あの‥‥、お邪魔します。",
-   "en": "",
+   "en": "Um... excuse me for intruding.",
    "term": "end"
   },
   {
    "id": "scen176.0126",
    "jp": "‥‥誰です‥‥？",
-   "en": "",
+   "en": "...Who is it...?",
    "term": "end"
   },
   {
@@ -815,67 +815,67 @@
   {
    "id": "scen176.0128",
    "jp": "‥‥アリオスト‥‥！？",
-   "en": "",
+   "en": "...Ariost...?!",
    "term": "end"
   },
   {
    "id": "scen176.0129",
    "jp": "そうです。{n}やっと‥‥やっと母さんに会えた‥‥！",
-   "en": "",
+   "en": "Yes, it's me. At last... at last I've found you, Mother...!",
    "term": "end"
   },
   {
    "id": "scen176.0130",
    "jp": "いや～、まさに感動のご対面って‥‥‥",
-   "en": "",
+   "en": "Wow, now THIS is what you call a touching reun...",
    "term": "end"
   },
   {
    "id": "scen176.0131",
    "jp": "‥‥むぐっっ！？",
-   "en": "",
+   "en": "...Mmmph?!",
    "term": "end"
   },
   {
    "id": "scen176.0132",
    "jp": "せっかくの再会だ。{n}俺たちは、しばらく外そう。",
-   "en": "",
+   "en": "They've finally been reunited. Let's step outside for{n}a while.",
    "term": "end"
   },
   {
    "id": "scen176.0133",
    "jp": "みんな、待たせてすまなかったね。",
-   "en": "",
+   "en": "Sorry to keep you all waiting.",
    "term": "end"
   },
   {
    "id": "scen176.0134",
    "jp": "もういいのか？",
-   "en": "",
+   "en": "You sure you're done?",
    "term": "end"
   },
   {
    "id": "scen176.0135",
    "jp": "ああ、おかげさまでね。{n}みんなのことは母にも話しておいたから、{n}入ってくれ。",
-   "en": "",
+   "en": "Yes, thanks to you. I've told Mother all about you, so{n}please come in.",
    "term": "end"
   },
   {
    "id": "scen176.0136",
    "jp": "この方々が今のお話の？",
-   "en": "",
+   "en": "Are these the people you were just telling me about?",
    "term": "end"
   },
   {
    "id": "scen176.0137",
    "jp": "そうだよ、母さん。",
-   "en": "",
+   "en": "That's right, Mother.",
    "term": "end"
   },
   {
    "id": "scen176.0138",
    "jp": "息子がお世話になりました。",
-   "en": "",
+   "en": "Thank you for taking care of my son.",
    "term": "end"
   },
   {
@@ -888,67 +888,67 @@
   {
    "id": "scen176.0140",
    "jp": "そうよ。{n}アタシ達の方がずっとお世話になってるし‥‥。",
-   "en": "",
+   "en": "Really! We're the ones he's done way more for...",
    "term": "end"
   },
   {
    "id": "scen176.0141",
    "jp": "息子から、話は聞きました。{n}地上では今、{n}大変なことが起こっているのですね。",
-   "en": "",
+   "en": "My son has told me everything. Something terrible is{n}happening on the surface right now, isn't it?",
    "term": "end"
   },
   {
    "id": "scen176.0142",
    "jp": "メルフィという名前のフェザリアンについて、{n}ご存じないですか？",
-   "en": "",
+   "en": "Do you know anything about a Featherian{n}named Melfie?",
    "term": "end"
   },
   {
    "id": "scen176.0143",
    "jp": "残念ながら、見たことも聞いたこともありませんね。{p}ご存知だと思いますが、{n}フェザリアンは協調性を重視する種族。{p}単独で地上に居ようものなら、{n}私のように強制的に連れ戻されているはずです。",
-   "en": "",
+   "en": "I'm afraid I have never seen nor heard of her.{p}As you likely know, Featherians are a race that places{n}great value on harmony.{p}If one were living alone on the surface, she would{n}surely have been forcibly brought back, as I was.",
    "term": "end"
   },
   {
    "id": "scen176.0144",
    "jp": "連れ戻されないように、{n}上手く逃げていたとか‥‥？",
-   "en": "",
+   "en": "Maybe she was good at running away so they couldn't{n}bring her back...?",
    "term": "end"
   },
   {
    "id": "scen176.0145",
    "jp": "いや、そもそも女王がメルフィを知らなかったんだ。{n}連れ戻す以前の問題だろう。",
-   "en": "",
+   "en": "No. The Queen didn't even know who Melfie was to begin{n}with. Bringing her back never even came into it.",
    "term": "end"
   },
   {
    "id": "scen176.0146",
    "jp": "あ、それじゃ、あの羽は実は偽物とか！？",
-   "en": "",
+   "en": "Ah, then maybe those wings are actually fake?!",
    "term": "end"
   },
   {
    "id": "scen176.0147",
    "jp": "でも、メルフィさんが飛んでるのを見たよ。{n}羽が偽物ってことは、ないんじゃないかなぁ‥‥？",
-   "en": "",
+   "en": "But we saw Melfie-san flying. I don't think her wings{n}could be fake...",
    "term": "end"
   },
   {
    "id": "scen176.0148",
    "jp": "ううう‥‥。{n}{FFFB}メルフィさんってば、{n}いったい何者なのよぉ～っ！？",
-   "en": "",
+   "en": "Ugggh...{FFFB} Just what IS Melfie-san, anywaaay?!",
    "term": "end"
   },
   {
    "id": "scen176.0149",
    "jp": "‥‥失礼する。{n}メルフィとやらについて、何か分かったか？",
-   "en": "",
+   "en": "...Pardon the intrusion. Have you learned anything about{n}this Melfie?",
    "term": "end"
   },
   {
    "id": "scen176.0150",
    "jp": "いえ、それが‥‥。{n}ジーナさんも、何も知らないらしくて‥‥。",
-   "en": "",
+   "en": "No, well... It seems Gina-san doesn't know{n}anything either...",
    "term": "end"
   },
   {
@@ -961,214 +961,214 @@
   {
    "id": "scen176.0152",
    "jp": "パワーストーンを渡した時は、{n}普通のフェザリアンの人だと{n}思ってたんだけどなぁ‥‥。",
-   "en": "",
+   "en": "When we handed her the Power Stone, I thought she{n}was just an ordinary Featherian...",
    "term": "end"
   },
   {
    "id": "scen176.0153",
    "jp": "‥‥って、そういえば！{n}あのパワーストーン、どこにいっちゃったの！？",
-   "en": "",
+   "en": "...Wait, that reminds me! Where did that Power{n}Stone go?!",
    "term": "end"
   },
   {
    "id": "scen176.0154",
    "jp": "パワーストーン？{n}あなた達は、パワーストーンを{n}持っていたのですか？",
-   "en": "",
+   "en": "The Power Stone? You had the Power Stone?",
    "term": "end"
   },
   {
    "id": "scen176.0155",
    "jp": "うん‥‥。{p}だけどメルフィさんが、{n}『危険なものだから、フェザリアンで管理する』って{n}言って持っていっちゃったの。",
-   "en": "",
+   "en": "Yes...{p}But Melfie-san said, 'It's dangerous, so the Featherians{n}will look after it,' and took it away.",
    "term": "end"
   },
   {
    "id": "scen176.0156",
    "jp": "パワーストーンは、我々の元には来ておらぬぞ。",
-   "en": "",
+   "en": "The Power Stone has not come to us.",
    "term": "end"
   },
   {
    "id": "scen176.0157",
    "jp": "なんてことでしょう‥‥。{n}パワーストーンが、{n}持ち去られてしまうなんて‥‥。",
-   "en": "",
+   "en": "How terrible... To think the Power Stone has been{n}taken away...",
    "term": "end"
   },
   {
    "id": "scen176.0158",
    "jp": "母さん、{n}パワーストーンについて何か知ってるんですか？",
-   "en": "",
+   "en": "Mother, do you know something about the{n}Power Stone?",
    "term": "end"
   },
   {
    "id": "scen176.0159",
    "jp": "この世界を構成する因果律を歪めることで、{n}様々な奇跡を起こす秘石‥‥。{n}それが『{FFEF}パワーストーン{FFF1}』です。",
-   "en": "",
+   "en": "A precious stone that works all manner of miracles by{n}distorting the law of causality that makes up this{n}world... That is the '{FFEF}Power Stone{FFF1}'.",
    "term": "end"
   },
   {
    "id": "scen176.0160",
    "jp": "奇跡を起こす石‥‥？",
-   "en": "",
+   "en": "A stone that works miracles...?",
    "term": "end"
   },
   {
    "id": "scen176.0161",
    "jp": "人の内には決して諦めない心と、{n}時には奇跡さえ引き起こす意志の力があります。{p}その意志を結晶化し、パワーストーンは{n}できました。{p}パワーストーンは不可能を可能にする、{n}人の神秘そのものなのです。",
-   "en": "",
+   "en": "Within people lie a heart that never gives up and a{n}strength of will that at times can even bring{n}about miracles.{p}The Power Stone was made by crystallizing that will.{p}The Power Stone makes the impossible possible. It is the{n}very mystery of humankind itself.",
    "term": "end"
   },
   {
    "id": "scen176.0162",
    "jp": "まさか、そんな凄いものだったなんて‥‥。{n}だけど、何で母さんがそのことを？",
-   "en": "",
+   "en": "I never imagined it was something so incredible... But how{n}do you know about it, Mother?",
    "term": "end"
   },
   {
    "id": "scen176.0163",
    "jp": "私が仕事で地上を訪れた時に、{n}パワーストーンの存在を知ったのです。{p}私の仕事は、地上で様々な記録を調べ、{n}まとめ、また更新することでした。{p}地上に何度も足を運んだのも、{n}そのためだったのです。",
-   "en": "",
+   "en": "I learned of the Power Stone's existence when I{n}visited the surface for my work.{p}My work was to examine all manner of records on the{n}surface, compile them, and keep them up to date.{p}That is also why I went down to the surface so{n}many times.",
    "term": "end"
   },
   {
    "id": "scen176.0164",
    "jp": "そうだったのか‥‥。",
-   "en": "",
+   "en": "So that's how it was...",
    "term": "end"
   },
   {
    "id": "scen176.0165",
    "jp": "それじゃ、なんのためにパワーストーンはあるの？",
-   "en": "",
+   "en": "So then, what is the Power Stone for?",
    "term": "end"
   },
   {
    "id": "scen176.0166",
    "jp": "‥‥それについては、我が説明しよう。",
-   "en": "",
+   "en": "...I shall explain that.",
    "term": "end"
   },
   {
    "id": "scen176.0167",
    "jp": "その昔、我々の世界の太陽に異変が起こった。{n}そこでフェザリアンの科学力と、人間の持つ魔力とを{n}合わせて、{FFEF}時空制御装置{FFF1}を造ったのだ。",
-   "en": "",
+   "en": "Long ago, something went wrong with the sun in our{n}world. So Featherian science and human magic were{n}combined to create the {FFEF}space-time control device{FFF1}.",
    "term": "end"
   },
   {
    "id": "scen176.0168",
    "jp": "それってもしかして、{n}ヴェンツェルが言ってた時空制御塔ってやつと{n}関係あるの？",
-   "en": "",
+   "en": "Hey, could that have something to do with the{n}Space-Time Control Tower Wenzel was talking about?",
    "term": "end"
   },
   {
    "id": "scen176.0169",
    "jp": "時空制御装置？",
-   "en": "",
+   "en": "The space-time control device?",
    "term": "end"
   },
   {
    "id": "scen176.0170",
    "jp": "時空制御装置は、塔のように巨大な物。{n}運搬のため、浮遊する土台の上に造られたという。{p}その装置を使い、２つの世界は重なっておる。",
-   "en": "",
+   "en": "The space-time control device is an immense structure,{n}much like a tower. It is said to have been built on a{n}floating platform so it could be moved.{p}Using that device, the two worlds are made to overlap.",
    "term": "end"
   },
   {
    "id": "scen176.0171",
    "jp": "なるほど、そういうことだったのか‥‥。",
-   "en": "",
+   "en": "I see, so that's how it was...",
    "term": "end"
   },
   {
    "id": "scen176.0172",
    "jp": "フェザリアンは時空制御装置を造ったが、{n}どうしても時空の歪みが引き起こす強力な反動を{n}吸収することが出来なかった。{p}そこで人間たちは、特殊な力を用いて、{n}反動を吸収させようとしたのだ。",
-   "en": "",
+   "en": "The Featherians built the space-time control device, but{n}they could not absorb the powerful backlash caused by{n}the distortion in space-time.{p}So the humans attempted to absorb that backlash{n}using a special power.",
    "term": "end"
   },
   {
    "id": "scen176.0173",
    "jp": "その特殊な力こそ、人の意志の力なのです。{p}人の意思を結晶化したパワーストーンは、{n}時空制御装置を動かす要‥‥。{n}{FFFB}例えるなら、鍵のようなもの。",
-   "en": "",
+   "en": "That special power is none other than the strength of{n}human will.{p}The Power Stone, made by crystallizing human will, is{n}the linchpin that drives the space-time control device...{FFFB}{n}Much like a key, you might say.",
    "term": "end"
   },
   {
    "id": "scen176.0174",
    "jp": "つまり、時空制御塔とパワーストーンは、{n}２つの世界を重ねるために必要不可欠と{n}いうことだ。",
-   "en": "",
+   "en": "In other words, the Space-Time Control Tower and the{n}Power Stone are both indispensable for overlapping the{n}two worlds.",
    "term": "end"
   },
   {
    "id": "scen176.0175",
    "jp": "ええええっ！？{n}そんな大事なものだったの！？",
-   "en": "",
+   "en": "Whaaat?! It was THAT important?!",
    "term": "end"
   },
   {
    "id": "scen176.0176",
    "jp": "人間とフェザリアンは、{n}ずいぶんと長いこと交流が無かった‥‥。{p}それゆえ、地上で羽が生えた者を見れば、{n}フェザーランドに居住するフェザリアンだと{n}思い込むのは仕方あるまいな‥‥。",
-   "en": "",
+   "en": "Humans and Featherians have had no contact for a{n}very long time...{p}So it is only natural that, seeing someone with wings on{n}the surface, you would assume she was a Featherian{n}who lives in Featherland...",
    "term": "end"
   },
   {
    "id": "scen176.0177",
    "jp": "その上、フェザリアンに限って{n}そんな大事なものを悪用するはずがないと{n}普通は疑わないでしょうね。",
-   "en": "",
+   "en": "What's more, one would not normally suspect that a{n}Featherian, of all people, would misuse something{n}so important.",
    "term": "end"
   },
   {
    "id": "scen176.0178",
    "jp": "ともかく、パワーストーンがない状態では、{n}時空制御塔の機能は完全に働かぬ。{p}そうすると、重なっている２つの世界の歪みは{n}どんどん大きくなる‥‥。{p}そして、自然とデュンケルスが時空の隙間を通り、{n}この世界へと流れ込んでくるだろう。",
-   "en": "",
+   "en": "In any case, without the Power Stone, the Space-Time{n}Control Tower cannot function fully.{p}Then the distortion between the two overlapping worlds{n}will grow larger and larger...{p}And Dunkels will naturally pass through the gaps in{n}space-time and flood into this world.",
    "term": "end"
   },
   {
    "id": "scen176.0179",
    "jp": "そんなことになったら、この世界は‥‥。",
-   "en": "",
+   "en": "If that happens, this world will...",
    "term": "end"
   },
   {
    "id": "scen176.0180",
    "jp": "そうなる前に、何としてでも時空分離を{n}阻止せねばならぬが‥‥。",
-   "en": "",
+   "en": "We must prevent the space-time separation by any{n}means before that comes to pass, but...",
    "term": "end"
   },
   {
    "id": "scen176.0181",
    "jp": "パワーストーンがあちらの手に渡ってるとなると、{n}この状況はかなり不利であるな‥‥。",
-   "en": "",
+   "en": "With the Power Stone in their hands, the situation is{n}very much against us...",
    "term": "end"
   },
   {
    "id": "scen176.0182",
    "jp": "・多分、なんとかなる",
-   "en": "",
+   "en": "・We'll probably manage somehow",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen176.0183",
    "jp": "・それでも諦めない",
-   "en": "",
+   "en": "・I still won't give up",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen176.0184",
    "jp": "・‥‥‥‥。",
-   "en": "",
+   "en": "・......",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen176.0185",
    "jp": "なに言ってンのよ、アンタ！{n}多分じゃなくて、絶対になんとかするんでしょ！？",
-   "en": "",
+   "en": "What are you saying, you?! Not \"probably\"! We're{n}DEFINITELY gonna manage it, right?!",
    "term": "end"
   },
   {
    "id": "scen176.0186",
    "jp": "そうだよ。{n}それに、まだ無理だって決まったわけじゃないもん！{n}私、最後まで絶対に諦めない！",
-   "en": "",
+   "en": "That's right. Besides, it's not decided yet that it's{n}impossible! I'm never giving up, not until the very end!",
    "term": "end"
   },
   {
@@ -1181,325 +1181,325 @@
   {
    "id": "scen176.0188",
    "jp": "ふっ‥‥。{n}{s:0000}の言う通りだな。{p}俺も、途中で諦めるのは性に合わん。",
-   "en": "",
+   "en": "Heh... {s:0000}'s right.{p}Giving up halfway doesn't suit me either.",
    "term": "end"
   },
   {
    "id": "scen176.0189",
    "jp": "た、確かに状況は不利かもしれませんが‥‥、{n}まだ無理だと決まったわけではありません。{p}最後まで、絶対に諦めたくはないんです！",
-   "en": "",
+   "en": "Th-the situation may be against us, but... it isn't{n}decided yet that it's impossible.{p}I don't want to give up, not until the very end!",
    "term": "end"
   },
   {
    "id": "scen176.0190",
    "jp": "歩き出す前から諦めるのは、愚か者のする事だ。{n}この世界に生まれた以上、向かい風でもくじけず歩け。{p}‥‥そうだよね、母さん？",
-   "en": "",
+   "en": "Only a fool gives up before taking the first step. Since{n}you were born into this world, keep walking, even{n}against the wind.{p}...Right, Mother?",
    "term": "end"
   },
   {
    "id": "scen176.0191",
    "jp": "その言葉は、あの人がよく言っていた‥‥。",
-   "en": "",
+   "en": "Those words... he used to say them often...",
    "term": "end"
   },
   {
    "id": "scen176.0192",
    "jp": "とにかく、今は一刻も早く{n}ジャスティンたちを止めねぇとな！",
-   "en": "",
+   "en": "Anyway, right now we've gotta stop Justin and his lot{n}as fast as we can!",
    "term": "end"
   },
   {
    "id": "scen176.0193",
    "jp": "女王様、ジーナさん。{n}色々とお話を聞かせてくださって、{n}ありがとうございました。",
-   "en": "",
+   "en": "Your Majesty, Gina-san. Thank you for telling us{n}so much.",
    "term": "end"
   },
   {
    "id": "scen176.0194",
    "jp": "構わぬ‥‥。{n}{FFFB}我々にとっても、{n}この問題は無関係ではないからな。",
-   "en": "",
+   "en": "It is nothing...{FFFB} This problem is hardly unrelated to us,{n}after all.",
    "term": "end"
   },
   {
    "id": "scen176.0195",
    "jp": "面会時間は、これで終わりだ。{n}人間は、反省室から速やかに退室するように。",
-   "en": "",
+   "en": "Visiting time is over. Humans, leave the Reflection Room{n}at once.",
    "term": "end"
   },
   {
    "id": "scen176.0196",
    "jp": "‥‥私は、あなた達を信じてますよ。{n}{FFFB}さぁ‥‥行きなさい、アリオスト。",
-   "en": "",
+   "en": "...I believe in all of you.{FFFB} Now... go, Ariost.",
    "term": "end"
   },
   {
    "id": "scen176.0197",
    "jp": "‥‥ありがとう、母さん。{n}行ってくるよ。",
-   "en": "",
+   "en": "...Thank you, Mother. I'll be going.",
    "term": "end"
   },
   {
    "id": "scen176.0198",
    "jp": "まだジーナさんから、{n}何も話を聞いてないでしょ！",
-   "en": "",
+   "en": "We haven't heard anything from Gina-san yet!",
    "term": "end"
   },
   {
    "id": "scen176.0199",
    "jp": "感動の再会を果たさずに、{n}どこに行く気なのよ！",
-   "en": "",
+   "en": "Where do you think you're going without having your{n}touching reunion?!",
    "term": "end"
   },
   {
    "id": "scen176.0200",
    "jp": "　{n}　　　　　　扉は堅く閉ざされている。",
-   "en": "",
+   "en": "　{n}　　　　　　The door is firmly shut.",
    "term": "end"
   },
   {
    "id": "scen176.0201",
    "jp": "‥‥私は、あなた達を信じてますよ。",
-   "en": "",
+   "en": "...I believe in all of you.",
    "term": "end"
   },
   {
    "id": "scen176.0202",
    "jp": "おじちゃん！{n}早く携帯集魔柱を立てないと！",
-   "en": "",
+   "en": "Mister! Hurry and set up the Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen176.0203",
    "jp": "わかっておるわい！",
-   "en": "",
+   "en": "I know, I know!",
    "term": "end"
   },
   {
    "id": "scen176.0204",
    "jp": "うむ、立てるポイントは{n}だいたいこの位置がよいな！{p}ここに携帯集魔柱を立てれば、{n}フェザーランド全体をカバーできるぞい！",
-   "en": "",
+   "en": "Right, this spot here should do nicely!{p}Set up the Portable Mana Pillar here, and it'll cover all of{n}Featherland, by gum!",
    "term": "end"
   },
   {
    "id": "scen176.0205",
    "jp": "じゃあ、さっさと立てちゃって。お願い！",
-   "en": "",
+   "en": "Then just hurry up and set it up already. Please!",
    "term": "end"
   },
   {
    "id": "scen176.0206",
    "jp": "ちょっと待つんじゃ！{p}学院でも説明したとおり、{n}携帯集魔柱のチャンネルをいじらないと、{n}デュンケルスが集魔柱から溢れてしまうぞ！",
-   "en": "",
+   "en": "Hold your horses!{p}Like I explained at the Academy, if we don't fiddle with{n}the Portable Mana Pillar's channels, the Dunkels'll spill{n}right out of the mana collection pillar!",
    "term": "end"
   },
   {
    "id": "scen176.0207",
    "jp": "だから、こんな感じでチャンネルを‥‥。{n}{FFFB}焦らず‥‥{FE14}じっくり‥‥{FE14}確実に‥‥。",
-   "en": "",
+   "en": "So you set the channels like so...{FFFB} Nice and easy...{FE14} slow{n}and steady...{FE14} and sure...",
    "term": "end"
   },
   {
    "id": "scen176.0208",
    "jp": "ハッハッハッ、セット完了じゃ！{p}デュンケルスの吸引アンド送魔、開始！{n}{FFFB}ほれ、ポチっとな！",
-   "en": "",
+   "en": "Ha ha ha! All set!{p}Dunkels suction and mana transfer, commence!{FFFB}{n}And... click!",
    "term": "end"
   },
   {
    "id": "scen176.0209",
    "jp": "マズイ！{n}闇落としが来るぞ！{n}みんな離れろ！",
-   "en": "",
+   "en": "Uh-oh! The Darkfall's coming! Everybody get back!",
    "term": "end"
   },
   {
    "id": "scen176.0210",
    "jp": "よっしゃあ！{n}コレで敵は全部やっつけたわね！",
-   "en": "",
+   "en": "Alriiight! That takes care of all the enemies!",
    "term": "end"
   },
   {
    "id": "scen176.0211",
    "jp": "こ、こいつらめ‥‥！",
-   "en": "",
+   "en": "Wh-why, you...!",
    "term": "end"
   },
   {
    "id": "scen176.0212",
    "jp": "ああっ、フェザリアンさんが！",
-   "en": "",
+   "en": "Oh no, Featherian-san!",
    "term": "end"
   },
   {
    "id": "scen176.0213",
    "jp": "またガーディアンどもか‥‥。{n}まったく、芸のない奴だな。",
-   "en": "",
+   "en": "Guardians again...? He really has no other tricks,{n}does he?",
    "term": "end"
   },
   {
    "id": "scen176.0214",
    "jp": "時空制御塔のガーディアンだわ‥‥！{n}ジャスティンが塔から降下させたのね。",
-   "en": "",
+   "en": "They're the Space-Time Control Tower's Guardians...!{n}Justin must have sent them down from the tower.",
    "term": "end"
   },
   {
    "id": "scen176.0215",
    "jp": "おい、早く逃げろ！{p}もうすぐ、フェザーランドに{n}闇が落ちてくるぞ！",
-   "en": "",
+   "en": "Hey, get out of here, quick!{p}The darkness is about to fall on Featherland!",
    "term": "end"
   },
   {
    "id": "scen176.0216",
    "jp": "なんだと！？{p}この浮遊島も、まさか人間の手によって{n}滅ぼされてしまう運命とは‥‥。",
-   "en": "",
+   "en": "What did you say?!{p}To think that this floating island, too, is fated to be{n}destroyed by human hands...",
    "term": "end"
   },
   {
    "id": "scen176.0217",
    "jp": "そんなこと、絶対にさせません！{n}闇落としは、わたしたちが阻止してみせます！",
-   "en": "",
+   "en": "We'll never let that happen! We'll stop the Darkfall,{n}I promise!",
    "term": "end"
   },
   {
    "id": "scen176.0218",
    "jp": "ああ、その通りだ。{n}ここは俺たちに任せて、お前たちは退け！",
-   "en": "",
+   "en": "Yeah, that's right. Leave this to us and fall back!",
    "term": "end"
   },
   {
    "id": "scen176.0219",
    "jp": "くっ‥‥、わかった。",
-   "en": "",
+   "en": "Ngh... Very well.",
    "term": "end"
   },
   {
    "id": "scen176.0220",
    "jp": "フェザーランドまで攻撃するなんて‥‥。{n}{FFFB}メルフィは、このことを承知しているの！？",
-   "en": "",
+   "en": "Attacking even Featherland...{FFFB} Does Melfie know{n}about this?!",
    "term": "end"
   },
   {
    "id": "scen176.0221",
    "jp": "　　{FFF0}‥‥くっくっく‥‥。{p}　　違う種族のために、{n}　　わざわざ命を張ろうとするなんてね‥‥。{n}　　{FFFB}なかなか美しいじゃないか。{FFF1}",
-   "en": "",
+   "en": "　　{FFF0}...Heh heh heh...{p}Going so far as to risk your lives for a different race...{FFFB}{n}How rather beautiful.{FFF1}",
    "term": "end"
   },
   {
    "id": "scen176.0222",
    "jp": "出やがったな！",
-   "en": "",
+   "en": "So you finally show up!",
    "term": "end"
   },
   {
    "id": "scen176.0223",
    "jp": "　　{FFF0}貴様らのほうから、{n}　　わざわざデュンケルスの真下へと{n}　　出向いてくれるとはね‥‥。{p}　　敬意を表して、{n}　　最高のもてなしをしてやろう！{FFF1}",
-   "en": "",
+   "en": "　　{FFF0}To think you'd come all the way to stand right{n}beneath the Dunkels of your own accord...{p}As a mark of respect, allow me to give you the finest{n}welcome!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen176.0224",
    "jp": "　　{FFF0}中々しぶとい連中だな‥‥。{p}　　だが、その方が{n}　　こちらも潰しがいがあって楽しいよ。{FFF1}",
-   "en": "",
+   "en": "　　{FFF0}What a tenacious bunch...{p}But that just makes crushing you all the more fun.{FFF1}",
    "term": "end"
   },
   {
    "id": "scen176.0225",
    "jp": "ああっ、またこの声！{n}{FE14}‥‥ジャスティンだよ！",
-   "en": "",
+   "en": "Ah, that voice again!{FE14} ...It's Justin!",
    "term": "end"
   },
   {
    "id": "scen176.0226",
    "jp": "ふざけるな！{n}人の命を何だと思ってやがる！",
-   "en": "",
+   "en": "Don't screw with us! What the hell do you think people's{n}lives are?!",
    "term": "end"
   },
   {
    "id": "scen176.0227",
    "jp": "　　{FFF0}はっ、貴様らがそんなことを言える立場か？{p}　　グローシアン支配時代、{n}　　思い上がったグローシアン共は{n}　　人間を奴隷として支配し、{n}　　フェザリアンを追撃して科学技術を奪った！{p}　　時が経った今も、{n}　　愚かなお前たちは戦争を繰り返し、{n}　　命の奪い合いをしているだろう！？{FFF1}",
-   "en": "",
+   "en": "　　{FFF0}Hah! Are you in any position to say that?{p}In the age of Growsian rule, the arrogant Growsians{n}enslaved humans and hunted down the Featherians to{n}steal their science!{p}Even now, after all this time, you fools keep waging war{n}over and over, taking each other's lives, don't you?!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen176.0228",
    "jp": "{FFF6}‥‥わかったわ、ジャスティン。{p}{FC02}{FFF7}残念だけど、あなたには{n}もう何を言っても無駄なのね‥‥。",
-   "en": "",
+   "en": "{FFF6}...I understand, Justin.{p}{FC02}{FFF7}It's a shame, but nothing I say will reach you{n}anymore, will it...?",
    "term": "end"
   },
   {
    "id": "scen176.0229",
    "jp": "　　{FFF0}‥‥わかってくれて嬉しいよ。{n}　　{FFFB}これで貴様らも、{n}　　納得して死ねるだろうからな！{FFF1}",
-   "en": "",
+   "en": "　　{FFF0}...I'm glad you understand.{FFFB} Now you can all die{n}satisfied!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen176.0230",
    "jp": "　　{FFF0}なるほど‥‥。{n}　　バーンシュタインや{n}　　ローザリアが無事だったのは、{n}　　お前たちのせいだったのか‥‥。{FFF1}",
-   "en": "",
+   "en": "　　{FFF0}I see... So you lot are the reason Burnstein and{n}Rosaria came through unharmed...{FFF1}",
    "term": "end"
   },
   {
    "id": "scen176.0231",
    "jp": "‥‥あっ、この声は！",
-   "en": "",
+   "en": "...Ah, that voice!",
    "term": "end"
   },
   {
    "id": "scen176.0232",
    "jp": "ジャスティン‥‥。{n}{FFFB}時空制御塔の機能を使って、{n}私たちの脳内にメッセージを送ってるんだわ。",
-   "en": "",
+   "en": "Justin...{FFFB} He's using the Space-Time Control Tower's{n}power to send messages straight into our minds.",
    "term": "end"
   },
   {
    "id": "scen176.0233",
    "jp": "　　{FFF0}携帯集魔柱を使うとは、{n}　　よく思いついたものだな。{n}　　{FFFB}‥‥さすがはアメリアだ。{p}　　だが、優秀なキミが我々を裏切って、{n}　　そちらの味方についてしまうとはね‥‥。{n}　　{FFFB}とても残念でならないよ。{p}　　‥‥だが、今なら許してやろう。{n}　　我々の故郷を救う為に、こちらへ戻ってこい。{FFF1}",
-   "en": "",
+   "en": "　　{FFF0}Using the Portable Mana Pillar... What a clever{n}idea.{FFFB} ...As expected of Amelia.{p}But to think that someone as talented as you would{n}betray us and side with them...{FFFB} It's truly a{n}great shame.{p}...But I'll forgive you, if you come now. Come back to us,{n}to save our homeland.{FFF1}",
    "term": "end"
   },
   {
    "id": "scen176.0234",
    "jp": "絶対にイヤよ！{p}ジャスティンこそ、{n}この世界を滅ぼすだなんて馬鹿げた考えは{n}もうやめてちょうだい！",
-   "en": "",
+   "en": "Absolutely not!{p}YOU are the one who should give up this ridiculous idea{n}of destroying the world, Justin!",
    "term": "end"
   },
   {
    "id": "scen176.0235",
    "jp": "　　{FFF0}‥‥くくくっ‥‥。{n}　　{FE14}そうか‥‥残念だよ‥‥。{p}　　ならば、この世界の人間どもと{n}　　仲良く死んでもらうしかない！{FFF1}",
-   "en": "",
+   "en": "　　{FFF0}...Heh heh heh...{FE14} I see... What a pity...{p}Then you'll just have to die nice and cozy with the{n}humans of this world!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen176.0236",
    "jp": "あっ、来るよ！{n}みんな、気をつけて！",
-   "en": "",
+   "en": "Ah, here they come! Everyone, be careful!",
    "term": "end"
   },
   {
    "id": "scen176.0237",
    "jp": "やったあ～！",
-   "en": "",
+   "en": "We did iiit!",
    "term": "end"
   },
   {
    "id": "scen176.0238",
    "jp": "あ、女王様だ！",
-   "en": "",
+   "en": "Oh, it's the Queen!",
    "term": "end"
   },
   {
    "id": "scen176.0239",
    "jp": "まさか、闇を集魔柱に吸収させるとはな‥‥。{n}{FFFB}その発想には、さすがに驚かされたぞ。",
-   "en": "",
+   "en": "To think you would have the mana collection pillar{n}absorb the darkness...{FFFB} I confess, that idea took even me{n}by surprise.",
    "term": "end"
   },
   {
    "id": "scen176.0240",
    "jp": "そうじゃろ、そうじゃろ！{n}フェザリアンもビックリな集魔柱じゃったろう！",
-   "en": "",
+   "en": "Didn't it, though, didn't it! A mana collection pillar to{n}amaze even the Featherians, eh?!",
    "term": "end"
   },
   {
    "id": "scen176.0241",
    "jp": "‥‥だが、もし失敗していたら{n}お前たちが闇の餌食になっていたのだぞ。{p}例えフェザーランドが滅んだとしても、{n}人間たちには関係ない問題であろう？{p}それなのに、なぜ危険と分かっていながら{n}立ち向かっていったのだ？",
-   "en": "",
+   "en": "...But had you failed, you would have fallen prey to the{n}darkness yourselves.{p}Even were Featherland destroyed, it would be no{n}concern of you humans, would it?{p}And yet, why did you stand against it, knowing{n}the danger?",
    "term": "end"
   },
   {
@@ -1512,232 +1512,232 @@
   {
    "id": "scen176.0243",
    "jp": "・最初から諦めたくないから",
-   "en": "",
+   "en": "・I didn't want to give up before trying",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen176.0244",
    "jp": "・勝てるような気がしたから",
-   "en": "",
+   "en": "・I had a feeling we could win",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen176.0245",
    "jp": "・自分でもよくわからない",
-   "en": "",
+   "en": "・I don't really know myself",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen176.0246",
    "jp": "{FFF6}ふふっ、いいこと言うじゃない。",
-   "en": "",
+   "en": "{FFF6}Heh, well said.",
    "term": "end"
   },
   {
    "id": "scen176.0247",
    "jp": "コイツの言うとおりだよ！{p}最初から諦めちゃったら、{n}何も出来ないものね！",
-   "en": "",
+   "en": "He's right!{p}If you give up from the start, you can't do anything!",
    "term": "end"
   },
   {
    "id": "scen176.0248",
    "jp": "‥‥アンタねぇ、自信過剰すぎ！{n}みんなのおかげで勝てたんでしょーが！",
-   "en": "",
+   "en": "...Seriously, you're WAY too full of yourself! We only won{n}thanks to everyone!",
    "term": "end"
   },
   {
    "id": "scen176.0249",
    "jp": "どんな理由にせよ、{n}何もしないで尻尾を巻いて逃げるよりは{n}よっぽどマシだったと思うぞ。{p}最初から諦めてしまったら、{n}納得のいく結果など出るわけがない。",
-   "en": "",
+   "en": "Whatever the reason, I'd say it beat turning tail and{n}running without doing a thing.{p}Give up from the start, and you'll never get a result{n}you can live with.",
    "term": "end"
   },
   {
    "id": "scen176.0250",
    "jp": "もぉ、頼りないわねぇ～！{n}そんなんで、よく勝てたもんね。",
-   "en": "",
+   "en": "Geez, you're so unreliable! I can't believe we won with{n}you like that.",
    "term": "end"
   },
   {
    "id": "scen176.0251",
    "jp": "だが、何もしないで尻尾を巻いて逃げるよりは{n}よっぽどマシだったと思うぞ。{p}最初から諦めてしまったら、{n}納得のいく結果など出るわけがない。",
-   "en": "",
+   "en": "Still, I'd say it beat turning tail and running without{n}doing a thing.{p}Give up from the start, and you'll never get a result{n}you can live with.",
    "term": "end"
   },
   {
    "id": "scen176.0252",
    "jp": "ああ、そうだな。{p}何事もやってみなきゃ分からないし、{n}やらないで逃げたら後悔する。",
-   "en": "",
+   "en": "Yeah, that's right.{p}You never know until you try, and if you run without{n}trying, you'll regret it.",
    "term": "end"
   },
   {
    "id": "scen176.0253",
    "jp": "‥‥‥‥‥‥。{p}これが人間の諦めの悪さというものか‥‥。",
-   "en": "",
+   "en": "..................{p}So this is the stubbornness of humans...",
    "term": "end"
   },
   {
    "id": "scen176.0254",
    "jp": "とりあえず、当分の間は携帯集魔柱が{n}闇の処理をしてくれるじゃろう。",
-   "en": "",
+   "en": "For the time being, the Portable Mana Pillar should take{n}care of the darkness for a good while.",
    "term": "end"
   },
   {
    "id": "scen176.0255",
    "jp": "そうか‥‥、礼を言おう。",
-   "en": "",
+   "en": "I see... You have my thanks.",
    "term": "end"
   },
   {
    "id": "scen176.0256",
    "jp": "なに、こっちも久しぶりに{n}気持ちのいい仕事ができて満足じゃよ！",
-   "en": "",
+   "en": "Think nothing of it! I'm just happy I got to do a job that{n}felt this good for once in a long while!",
    "term": "end"
   },
   {
    "id": "scen176.0257",
    "jp": "これで、今度こそ本当に大丈夫なんだよね？",
-   "en": "",
+   "en": "So this time it's really, truly okay, right?",
    "term": "end"
   },
   {
    "id": "scen176.0258",
    "jp": "時空制御塔がローランディアの西部で{n}不審な動きをしてたのが気になるけど、{n}集魔柱の件は、これで大丈夫だと思うわ。",
-   "en": "",
+   "en": "The Space-Time Control Tower moving suspiciously in{n}western Rolandia worries me, but as far as the mana{n}collection pillar goes, I think we're fine now.",
    "term": "end"
   },
   {
    "id": "scen176.0259",
    "jp": "{FFF6}みんな、よく頑張ったわね。",
-   "en": "",
+   "en": "{FFF6}You all did very well.",
    "term": "end"
   },
   {
    "id": "scen176.0260",
    "jp": "はぁ～、やっと終わったぁ～。{n}本当に、ここまで長かったよぉ～！",
-   "en": "",
+   "en": "Phew, it's finally oveeer. It's been such a long road to{n}get here!",
    "term": "end"
   },
   {
    "id": "scen176.0261",
    "jp": "お疲れさま、ティピ。{n}{FFFB}あとは、送魔線技師の先生を{n}魔法学院に送り届けるだけだよ。",
-   "en": "",
+   "en": "Good work, Tippi.{FFFB} Now all that's left is to see the Mana{n}Line Engineer safely back to the Magic Academy.",
    "term": "end"
   },
   {
    "id": "scen176.0262",
    "jp": "さすがに、ワシ１人ではここから帰れんからな。{n}よろしく頼むぞい！",
-   "en": "",
+   "en": "I can't very well get home from here all by my{n}lonesome. I'm counting on you!",
    "term": "end"
   },
   {
    "id": "scen176.0263",
    "jp": "せっかくなんだから、{n}女王様と話していこうよ。",
-   "en": "",
+   "en": "Since we're here anyway, let's go talk to the Queen.",
    "term": "end"
   },
   {
    "id": "scen176.0264",
    "jp": "待て、そなたらに渡したいものがある。",
-   "en": "",
+   "en": "Wait. There is something I wish to give you.",
    "term": "end"
   },
   {
    "id": "scen176.0265",
    "jp": "そなたたちのおかげで、{n}フェザリアンは誰も死なずにすんだようだ。{p}この借りを返すのに足りるかは分からぬが、{n}これを持っていくがいい。",
-   "en": "",
+   "en": "Thanks to you, it seems not a single Featherian lost{n}their life.{p}I do not know whether it is enough to repay this debt,{n}but take this with you.",
    "term": "end"
   },
   {
    "id": "scen176.0266",
    "jp": "　{n}　　　　　『{FFEF}槍部品・握り{FFF1}』を受け取った！",
-   "en": "",
+   "en": "　{n}　　　　　Received '{FFEF}Spear Part: Grip{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen176.0267",
    "jp": "{FB00}うわ、またガラクタだよ‥‥。{FFFA}",
-   "en": "",
+   "en": "{FB00}Ugh, more junk...{FFFA}",
    "term": "end"
   },
   {
    "id": "scen176.0268",
    "jp": "これがガラクタかどうかは、{n}そなたらの使い方次第であろう。{p}これは我々の技術でも、{n}一切傷をつけることができなかった代物だ。{p}我々には必要ないものだが、{n}お前たちの役には立つかもしれぬぞ。",
-   "en": "",
+   "en": "Whether or not it is junk depends on how you use it.{p}Even our technology could not leave a single scratch{n}on it.{p}We have no need of it, but it may prove useful to you.",
    "term": "end"
   },
   {
    "id": "scen176.0269",
    "jp": "なんか、ガラクタっぽいのが{n}３つそろったけど‥‥。",
-   "en": "",
+   "en": "So now we've got a set of three junky-looking{n}things, but...",
    "term": "end"
   },
   {
    "id": "scen176.0270",
    "jp": "柄、穂先、握り、か‥‥。{p}触った感じはいいようだが、{n}これをどうすればいいんだ？",
-   "en": "",
+   "en": "A shaft, a head, and a grip, huh...{p}They feel good in the hand, but what are we supposed{n}to do with them?",
    "term": "end"
   },
   {
    "id": "scen176.0271",
    "jp": "ちょっとそれ、見せてくれるかしら？",
-   "en": "",
+   "en": "Would you mind letting me have a look at those?",
    "term": "end"
   },
   {
    "id": "scen176.0272",
    "jp": "{FFF6}ふむふむ‥‥{FE14}なるほど‥‥。",
-   "en": "",
+   "en": "{FFF6}Hmm, hmm...{FE14} I see...",
    "term": "end"
   },
   {
    "id": "scen176.0273",
    "jp": "アメリアさん、何か分かる？",
-   "en": "",
+   "en": "Amelia-san, can you tell anything?",
    "term": "end"
   },
   {
    "id": "scen176.0274",
    "jp": "うーん、ちょっと厳しいわね。{p}{FFF6}あまりにも金属が硬すぎて、{n}全てのパーツをくっつける方法がないわ。{n}{FFF7}どうやって分解したのかも謎なくらいよ。{p}私のいた世界での技術なら{n}くっつけることも可能だと思うけど、{n}この世界の技術では難しいわね‥‥。",
-   "en": "",
+   "en": "Hmm, this is a tough one.{p}{FFF6}The metal is far too hard. There's no way to join all{n}the parts together.{FFF7} It's a mystery how they were even{n}taken apart.{p}With the technology of the world I came from, I think it{n}would be possible to join them, but with this world's{n}technology, it's difficult...",
    "term": "end"
   },
   {
    "id": "scen176.0275",
    "jp": "そうか‥‥。{n}{FFFB}上手く接合できれば良い武器に{n}なりそうだったが、仕方あるまいな‥‥。",
-   "en": "",
+   "en": "I see...{FFFB} If they could be joined properly, they'd make a{n}fine weapon, but I guess it can't be helped...",
    "term": "end"
   },
   {
    "id": "scen176.0276",
    "jp": "助けてもらった礼を言おう。{p}だが時空制御塔が奪われている以上、{n}少し寿命が延びただけだな‥‥。",
-   "en": "",
+   "en": "Let me thank you for saving us.{p}But as long as the Space-Time Control Tower is in their{n}hands, we have only bought a little more time...",
    "term": "end"
   },
   {
    "id": "scen176.0277",
    "jp": "死を覚悟していたのに、{n}まさか人間に助けられるとはな‥‥。",
-   "en": "",
+   "en": "I was prepared to die, and yet I was saved by{n}humans, of all people...",
    "term": "end"
   },
   {
    "id": "scen176.0278",
    "jp": "人間に対する考えを、{n}改めなきゃいけないかもな‥‥。",
-   "en": "",
+   "en": "Maybe I need to rethink how I see humans...",
    "term": "end"
   },
   {
    "id": "scen176.0279",
    "jp": "時空制御塔が奪われている以上、{n}いつ、またこんな事態が起こるか{n}分からないのですね‥‥。",
-   "en": "",
+   "en": "As long as the Space-Time Control Tower is in their{n}hands, there is no telling when something like this{n}might happen again...",
    "term": "end"
   },
   {
    "id": "scen176.0280",
    "jp": "人間の諦めの悪さとやらのおかげか‥‥。",
-   "en": "",
+   "en": "Is this thanks to that so-called stubbornness{n}of humans...?",
    "term": "end"
   },
   {
@@ -1750,7 +1750,7 @@
   {
    "id": "scen176.0282",
    "jp": "テレポートを唱えてる間に、{n}闇が落ちてきちゃうよ。{n}今は、早く携帯集魔柱から離れよう？",
-   "en": "",
+   "en": "The darkness will fall on us while you're casting{n}Teleport. For now, let's hurry and get away from the{n}Portable Mana Pillar, okay?",
    "term": "end"
   }
  ]

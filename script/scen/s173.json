@@ -71,13 +71,13 @@
   {
    "id": "scen173.0009",
    "jp": "ちょっと、何でシュッツベルグに来てるのよ！{n}{FFFB}ここはジュリアンにお願いしたの、{n}まさか忘れちゃったの！？",
-   "en": "",
+   "en": "Hey, what are you doing in Schutzberg?! {FFFB}We left this{n}place to Julian! Don't tell me you forgot?!",
    "term": "end"
   },
   {
    "id": "scen173.0010",
    "jp": "そ、空が‥‥。{n}どうしよう、逃げたほうがいいのかな？",
-   "en": "",
+   "en": "Th-the sky... What should I do? Should I run?",
    "term": "end"
   },
   {
@@ -97,7 +97,7 @@
   {
    "id": "scen173.0013",
    "jp": "こんな空を見るのは、{n}生まれて初めてだ‥‥。",
-   "en": "",
+   "en": "This is the first time in my life I've ever seen a sky{n}like this...",
    "term": "end"
   },
   {
@@ -110,61 +110,61 @@
   {
    "id": "scen173.0015",
    "jp": "アンタ、まさかここに携帯集魔柱を{n}使おうとか思ってないわよね‥‥！？",
-   "en": "",
+   "en": "You're not seriously thinking of using a Portable Mana{n}Pillar here, are you...?!",
    "term": "end"
   },
   {
    "id": "scen173.0016",
    "jp": "　{n}　　　　　　携帯集魔柱を設置した！",
-   "en": "",
+   "en": "　{n}　　　　　　Set up the Portable Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen173.0017",
    "jp": "アンタ、ココはジュリアンが立てる{n}場所だって話を聞いてなかったの！？",
-   "en": "",
+   "en": "Weren't you listening when we said Julian would set{n}one up here?!",
    "term": "end"
   },
   {
    "id": "scen173.0018",
    "jp": "ちょっと、いい加減にしなさいよね！{n}これじゃ、携帯集魔柱がムダになっちゃうじゃない！",
-   "en": "",
+   "en": "Hey, knock it off already! You're wasting a Portable{n}Mana Pillar!",
    "term": "end"
   },
   {
    "id": "scen173.0019",
    "jp": "お前たち、どうしてここにいる？{n}ここは私が引き受けると話したはずだぞ！",
-   "en": "",
+   "en": "Why are you here? I told you I would handle{n}this place!",
    "term": "end"
   },
   {
    "id": "scen173.0020",
    "jp": "それが、コイツが勝手に立てちゃって‥‥。",
-   "en": "",
+   "en": "Well, this guy went and set one up on his own...",
    "term": "end"
   },
   {
    "id": "scen173.0021",
    "jp": "くっ‥‥。{n}ならば、作戦を変更するしかないだろう！{p}お前たちはこれを持って、他の場所へ急げ！",
-   "en": "",
+   "en": "Tch... Then we have no choice but to change the plan!{p}Take this and hurry to the other locations!",
    "term": "end"
   },
   {
    "id": "scen173.0022",
    "jp": "　{n}　　ジュリアンから携帯集魔柱を受け取った。",
-   "en": "",
+   "en": "　{n}　　Received a Portable Mana Pillar from Julian.",
    "term": "end"
   },
   {
    "id": "scen173.0023",
    "jp": "私は、無事を見届けるまでここにいる。{n}もう時間がない、お前たちは他へ急げ！",
-   "en": "",
+   "en": "I will stay here until I see this place safe. We're out of{n}time. Hurry on elsewhere!",
    "term": "end"
   },
   {
    "id": "scen173.0024",
    "jp": "１度、魔法学院に戻って{n}状況を確認した方がよさそうだな。",
-   "en": "",
+   "en": "We'd better go back to the Magic Academy and check{n}on the situation.",
    "term": "end"
   },
   {
@@ -177,7 +177,7 @@
   {
    "id": "scen173.0026",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
@@ -310,7 +310,7 @@
   {
    "id": "scen173.0044",
    "jp": "なんでも、可愛い女の子たちとお話できる{n}店が町外れに出来たんだってさ！{p}‥‥え、場所はどこかって？{n}ここから東に行ったところに{n}あるって聞いたよ。",
-   "en": "",
+   "en": "Word is, a shop opened on the edge of town where you{n}can chat with cute girls!{p}...Huh? Where is it? I heard it's east of here.",
    "term": "end"
   },
   {
@@ -323,13 +323,13 @@
   {
    "id": "scen173.0046",
    "jp": "こんな所にも闇落としが！？{p}こんな時、インペリアル・ナイツが{n}駆けつけてくれたら‥‥！",
-   "en": "",
+   "en": "The Darkfall, even in a place like this?!{p}If only the Imperial Knights would come rushing to help{n}at a time like this...!",
    "term": "end"
   },
   {
    "id": "scen173.0047",
    "jp": "あんなに恐い思いをしたのは、{n}生まれて初めてだよ。{n}{FFFB}もう二度とゴメンだけどね‥‥[01BE]",
-   "en": "",
+   "en": "That was the most frightening experience of my life.{n}{FFFB}Never again, though...[01BE]",
    "term": "end"
   },
   {
@@ -349,37 +349,37 @@
   {
    "id": "scen173.0050",
    "jp": "なにこれ‥‥。{n}まるで、知らない街にいるみたいだわ。",
-   "en": "",
+   "en": "What is this...? It's like I'm in a town I don't even know.",
    "term": "end"
   },
   {
    "id": "scen173.0051",
    "jp": "‥‥よかった、元の街に戻ったのね。",
-   "en": "",
+   "en": "...Thank goodness, the town is back to normal.",
    "term": "end"
   },
   {
    "id": "scen173.0052",
    "jp": "ダグラス様が剣を握っているときの、{n}真剣なあのまなざし‥‥。{n}いつ見ても、うっとりしてしまいますわ。",
-   "en": "",
+   "en": "That earnest gaze of Douglas-sama's when he grips{n}his sword... It leaves me utterly spellbound every time,{n}I must say.",
    "term": "end"
   },
   {
    "id": "scen173.0053",
    "jp": "ぼくもダグラス様たちみたいに、強くなりたいなぁ。{n}しゅぎょーすればなれるのかな？",
-   "en": "",
+   "en": "I wanna be strong like Douglas-sama and the others{n}too. Can I get that strong if I do lotsa trainin'?",
    "term": "end"
   },
   {
    "id": "scen173.0054",
    "jp": "お空が黒いけど、どうしたんだろ？{n}お兄ちゃんたち、何かしってる？",
-   "en": "",
+   "en": "The sky's all black. What's going on? Do you guys{n}know anything?",
    "term": "end"
   },
   {
    "id": "scen173.0055",
    "jp": "わ～い、お空が青くなったよ。",
-   "en": "",
+   "en": "Yaaay, the sky's blue again!",
    "term": "end"
   },
   {
@@ -509,7 +509,7 @@
   {
    "id": "scen173.0073",
    "jp": "おかしいな‥‥。{n}視界が暗くなった気が‥‥あれ？",
-   "en": "",
+   "en": "That's odd... It feels like everything's gone dark... Huh?",
    "term": "end"
   },
   {

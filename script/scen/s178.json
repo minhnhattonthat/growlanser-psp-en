@@ -15,55 +15,55 @@
   {
    "id": "scen178.0001",
    "jp": "時空制御塔の調査",
-   "en": "",
+   "en": "Investigate the Space-Time Control Tower",
    "term": "end"
   },
   {
    "id": "scen178.0002",
    "jp": "{v:0000}こ、これが時空制御塔‥‥！？",
-   "en": "",
+   "en": "{v:0000}S-so this is the Space-Time Control Tower...?!",
    "term": "end"
   },
   {
    "id": "scen178.0003",
    "jp": "{v:0001}お、大きいねぇ‥‥。",
-   "en": "",
+   "en": "{v:0001}I-it's huge...",
    "term": "end"
   },
   {
    "id": "scen178.0004",
    "jp": "{v:0002}これが時空融合計画の要だったのか‥‥。",
-   "en": "",
+   "en": "{v:0002}So this was the linchpin of the space-time{n}fusion plan...",
    "term": "end"
   },
   {
    "id": "scen178.0005",
    "jp": "{FFF6}{v:0003}左様。{n}今は機能をロックされているがな。",
-   "en": "",
+   "en": "{FFF6}{v:0003}Just so. Though for now, its functions are locked.",
    "term": "end"
   },
   {
    "id": "scen178.0006",
    "jp": "{v:0004}機能をロックだと？",
-   "en": "",
+   "en": "{v:0004}Locked, you say?",
    "term": "end"
   },
   {
    "id": "scen178.0007",
    "jp": "{v:0005}安心しろ。{n}グローシアンの王であるワシだけが、{n}この機能を回復することが出来る。{p}{v:0034}どうだ、連れてきてよかっただろう？",
-   "en": "",
+   "en": "{v:0005}Rest easy. Only I, as king of the Growsians, can restore{n}its functions.{p}{v:0034}Well? Aren't you glad you brought me along?",
    "term": "end"
   },
   {
    "id": "scen178.0008",
    "jp": "{v:0006}それじゃ、さっさとやってもらおうか。",
-   "en": "",
+   "en": "{v:0006}Then how about you get on with it?",
    "term": "end"
   },
   {
    "id": "scen178.0009",
    "jp": "{v:0007}では、上に行くとしよう。",
-   "en": "",
+   "en": "{v:0007}Then let us head up.",
    "term": "end"
   }
  ]

@@ -62,7 +62,8 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
   name variable are dropped (`{s:0001}ちゃん` -> `{s:0001}`; the PS1 lines do the same).
 - Some `{s:XXXX}` draw common nouns from the names table ({s:005C} Soldier, {s:00AE} Citizen, {s:003C} Patient): they
   render capitalised and can't take a plural "s" - build the sentence around the word as it is.
-- Notes from earlier batches: boot.save strings show a raw line break as `{lf}`: keep one per JP `{lf}`. In names
+- Notes from earlier batches: American spelling (rumor, favor, traveling). 様 after a name variable may become
+  "Lord/Lady {s:XXXX}" where a title is natural. Dunkels is plural ("the Dunkels ... them"). boot.save strings show a raw line break as `{lf}`: keep one per JP `{lf}`. In names
   tables, use the item/skill names already in build/terms_<batch>.txt; terms the glossary lacks: report them.
 
 ## Consistency

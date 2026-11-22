@@ -15,144 +15,144 @@
   {
    "id": "scen185.0001",
    "jp": "これは新規イベントへ直接飛ぶ為の処理です。{n}イベントを過ぎたら、動作は保障しません。",
-   "en": "",
+   "en": "This routine jumps directly to the new events. Operation{n}is not guaranteed once past the event.",
    "term": "end"
   },
   {
    "id": "scen185.0002",
    "jp": "どのイベントを見ますか？",
-   "en": "",
+   "en": "Which event will you view?",
    "term": "end"
   },
   {
    "id": "scen185.0003",
    "jp": "・メルフィ",
-   "en": "",
+   "en": "・Melfie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0004",
    "jp": "・アメリア",
-   "en": "",
+   "en": "・Amelia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0005",
    "jp": "・ジャスティン",
-   "en": "",
+   "en": "・Justin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0006",
    "jp": "・リシャール",
-   "en": "",
+   "en": "・Richard",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0007",
    "jp": "・新規メイン",
-   "en": "",
+   "en": "・New main",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0008",
    "jp": "・ビジュアルシーン確認",
-   "en": "",
+   "en": "・Check visual scenes",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0009",
    "jp": "・ＣＥＲＯ",
-   "en": "",
+   "en": "・CERO",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0010",
    "jp": "・戻る",
-   "en": "",
+   "en": "・Back",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0011",
    "jp": "メルフィイベントのどれを見ますか？",
-   "en": "",
+   "en": "Which Melfie event will you view?",
    "term": "end"
   },
   {
    "id": "scen185.0012",
    "jp": "・メルフィとの出会い",
-   "en": "",
+   "en": "・Meeting Melfie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0013",
    "jp": "・メルフィの墓参り",
-   "en": "",
+   "en": "・Melfie visits the graves",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0014",
    "jp": "・メルフィとジャスティン",
-   "en": "",
+   "en": "・Melfie and Justin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0015",
    "jp": "・メルフィとアメリア",
-   "en": "",
+   "en": "・Melfie and Amelia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0016",
    "jp": "・保養所のメルフィ",
-   "en": "",
+   "en": "・Melfie at the sanatorium",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0017",
    "jp": "・ブレスレットの部品",
-   "en": "",
+   "en": "・Bracelet parts",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0018",
    "jp": "・メルフィとルイセ",
-   "en": "",
+   "en": "・Melfie and Luise",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0019",
    "jp": "・パワーストーンの行方",
-   "en": "",
+   "en": "・The Power Stone's whereabouts",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0020",
    "jp": "・戻る",
-   "en": "",
+   "en": "・Back",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0021",
    "jp": "どちらのイベントを見ますか？",
-   "en": "",
+   "en": "Which event will you view?",
    "term": "end"
   },
   {
@@ -166,14 +166,14 @@
   {
    "id": "scen185.0023",
    "jp": "・メルフィとジャスティン",
-   "en": "",
+   "en": "・Melfie and Justin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0024",
    "jp": "ルイセがキュアを覚えているようにしますか？",
-   "en": "",
+   "en": "Make Luise know Cure?",
    "term": "end"
   },
   {
@@ -195,257 +195,257 @@
   {
    "id": "scen185.0027",
    "jp": "イベントの出発点をどちらにしますか？",
-   "en": "",
+   "en": "Which starting point for the event?",
    "term": "end"
   },
   {
    "id": "scen185.0028",
    "jp": "・東",
-   "en": "",
+   "en": "・East",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0029",
    "jp": "・南",
-   "en": "",
+   "en": "・South",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0030",
    "jp": "どのバージョンを見ますか？",
-   "en": "",
+   "en": "Which version will you view?",
    "term": "end"
   },
   {
    "id": "scen185.0031",
    "jp": "アメリアとの再会２を見ている",
-   "en": "",
+   "en": "Seen Reunion with Amelia 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0032",
    "jp": "アメリアとの再会２を見ていない",
-   "en": "",
+   "en": "Not seen Reunion with Amelia 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0033",
    "jp": "アメリアイベントのどれを見ますか？",
-   "en": "",
+   "en": "Which Amelia event will you view?",
    "term": "end"
   },
   {
    "id": "scen185.0034",
    "jp": "・アメリアとの出会い",
-   "en": "",
+   "en": "・Meeting Amelia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0035",
    "jp": "・アメリアとの再会",
-   "en": "",
+   "en": "・Reunion with Amelia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0036",
    "jp": "・アメリアとの再会２",
-   "en": "",
+   "en": "・Reunion with Amelia 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0037",
    "jp": "・アメリアの研究",
-   "en": "",
+   "en": "・Amelia's research",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0038",
    "jp": "・アメリアの心理テスト",
-   "en": "",
+   "en": "・Amelia's personality test",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0039",
    "jp": "・戻る",
-   "en": "",
+   "en": "・Back",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0040",
    "jp": "どのバージョンを見ますか？",
-   "en": "",
+   "en": "Which version will you view?",
    "term": "end"
   },
   {
    "id": "scen185.0041",
    "jp": "・００７Ｂ",
-   "en": "",
+   "en": "・007B",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0042",
    "jp": "・００７Ｃ",
-   "en": "",
+   "en": "・007C",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0043",
    "jp": "まだ実装してません",
-   "en": "",
+   "en": "Not implemented yet",
    "term": "end"
   },
   {
    "id": "scen185.0044",
    "jp": "ジャスティンイベントのどれを見ますか？",
-   "en": "",
+   "en": "Which Justin event will you view?",
    "term": "end"
   },
   {
    "id": "scen185.0045",
    "jp": "・ジャスティンの本音",
-   "en": "",
+   "en": "・Justin's true feelings",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0046",
    "jp": "・戻る",
-   "en": "",
+   "en": "・Back",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0047",
    "jp": "リシャールイベントのどれを見ますか？",
-   "en": "",
+   "en": "Which Richard event will you view?",
    "term": "end"
   },
   {
    "id": "scen185.0048",
    "jp": "・牢のリシャール１",
-   "en": "",
+   "en": "・Richard in the cell 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0049",
    "jp": "・牢のリシャール２",
-   "en": "",
+   "en": "・Richard in the cell 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0050",
    "jp": "・戻る",
-   "en": "",
+   "en": "・Back",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0051",
    "jp": "メインイベントのどれを見ますか？",
-   "en": "",
+   "en": "Which main event will you view?",
    "term": "end"
   },
   {
    "id": "scen185.0052",
    "jp": "・ヴェンツェル、グローシュ強奪",
-   "en": "",
+   "en": "・Wenzel steals Grosh",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0053",
    "jp": "・ジャスティン、グローシュ強奪",
-   "en": "",
+   "en": "・Justin steals Grosh",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0054",
    "jp": "・ヴェンツェルへの詰問",
-   "en": "",
+   "en": "・Questioning Wenzel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0055",
    "jp": "・祝賀会（改）",
-   "en": "",
+   "en": "・Celebration (revised)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0056",
    "jp": "・ランザック城消滅",
-   "en": "",
+   "en": "・Ranzak Castle vanishes",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0057",
    "jp": "・サンドラに報告",
-   "en": "",
+   "en": "・Report to Sandra",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0058",
    "jp": "・王に報告",
-   "en": "",
+   "en": "・Report to the King",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0059",
    "jp": "・ヴェンツェルへの詰問２",
-   "en": "",
+   "en": "・Questioning Wenzel 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0060",
    "jp": "・魔法学園到着",
-   "en": "",
+   "en": "・Arrival at the Magic Academy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0061",
    "jp": "・学院長室到着",
-   "en": "",
+   "en": "・Arrival at the Headmaster's office",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0062",
    "jp": "・次へ",
-   "en": "",
+   "en": "・Next",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0063",
    "jp": "副学院長が学院長に就任したのを{n}知っているようにしますか？",
-   "en": "",
+   "en": "Make the hero know the Vice Headmaster{n}became Headmaster?",
    "term": "end"
   },
   {
    "id": "scen185.0064",
    "jp": "・知っている",
-   "en": "",
+   "en": "・Knows",
    "term": "end",
    "unref": true
   },
@@ -460,110 +460,110 @@
   {
    "id": "scen185.0066",
    "jp": "メインイベントのどれを見ますか？",
-   "en": "",
+   "en": "Which main event will you view?",
    "term": "end"
   },
   {
    "id": "scen185.0067",
    "jp": "・闇落とし",
-   "en": "",
+   "en": "・Fall to darkness",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0068",
    "jp": "・ベルガー死亡",
-   "en": "",
+   "en": "・Berger's death",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0069",
    "jp": "・ヴェンツェルへの詰問３",
-   "en": "",
+   "en": "・Questioning Wenzel 3",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0070",
    "jp": "・サンドラ報告",
-   "en": "",
+   "en": "・Sandra report",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0071",
    "jp": "・フェザリアン訪問",
-   "en": "",
+   "en": "・Featherian visit",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0072",
    "jp": "・魔封じの腕輪作り開始",
-   "en": "",
+   "en": "・Start making the Spellseal Bracelet",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0073",
    "jp": "・耐魔鉱石を取りに",
-   "en": "",
+   "en": "・Fetching the Antimagic Ore",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0074",
    "jp": "・アメリアと休戦",
-   "en": "",
+   "en": "・Truce with Amelia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0075",
    "jp": "・アメリアの助言",
-   "en": "",
+   "en": "・Amelia's advice",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0076",
    "jp": "・魔封じの腕輪作成",
-   "en": "",
+   "en": "・Making the Spellseal Bracelet",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0077",
    "jp": "・次へ",
-   "en": "",
+   "en": "・Next",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0078",
    "jp": "フェザリアンから先に話を聞いている？",
-   "en": "",
+   "en": "Heard from the Featherians first?",
    "term": "end"
   },
   {
    "id": "scen185.0079",
    "jp": "はい",
-   "en": "",
+   "en": "Yes",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0080",
    "jp": "いいえ",
-   "en": "",
+   "en": "No",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0081",
    "jp": "アリオストを連れていく？",
-   "en": "",
+   "en": "Take Ariost along?",
    "term": "end"
   },
   {
@@ -585,226 +585,226 @@
   {
    "id": "scen185.0084",
    "jp": "ヴェンツェルから先に話を聞いている？",
-   "en": "",
+   "en": "Heard from Wenzel first?",
    "term": "end"
   },
   {
    "id": "scen185.0085",
    "jp": "ヴェンツェルから聞いてる",
-   "en": "",
+   "en": "Heard from Wenzel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0086",
    "jp": "サンドラに報告している",
-   "en": "",
+   "en": "Reported to Sandra",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0087",
    "jp": "なにもしてない",
-   "en": "",
+   "en": "Done nothing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0088",
    "jp": "メインイベントのどれを見ますか？",
-   "en": "",
+   "en": "Which main event will you view?",
    "term": "end"
   },
   {
    "id": "scen185.0089",
    "jp": "・サンドラに報告２",
-   "en": "",
+   "en": "・Report to Sandra 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0090",
    "jp": "・ヴェンツェル受け渡し",
-   "en": "",
+   "en": "・Handing over Wenzel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0091",
    "jp": "・時空制御塔到着",
-   "en": "",
+   "en": "・Arrival at Space-Time Control Tower",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0092",
    "jp": "・時空制御塔上部到着",
-   "en": "",
+   "en": "・Arrival at the tower's upper part",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0093",
    "jp": "・ヴェンツェルの死",
-   "en": "",
+   "en": "・Wenzel's death",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0094",
    "jp": "・主人公目覚める",
-   "en": "",
+   "en": "・Hero awakens",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0095",
    "jp": "・アメリア救出戦",
-   "en": "",
+   "en": "・Amelia rescue battle",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0096",
    "jp": "・衰弱リシャール",
-   "en": "",
+   "en": "・Weakened Richard",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0097",
    "jp": "・アメリア同行",
-   "en": "",
+   "en": "・Amelia joins",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0098",
    "jp": "・肉城最深部",
-   "en": "",
+   "en": "・Deepest part of the Castle of Flesh",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0099",
    "jp": "・次へ",
-   "en": "",
+   "en": "・Next",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0100",
    "jp": "どっちからブローニュ村へ行きますか？",
-   "en": "",
+   "en": "Which way to Boulogne Village?",
    "term": "end"
   },
   {
    "id": "scen185.0101",
    "jp": "・東",
-   "en": "",
+   "en": "・East",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0102",
    "jp": "・西",
-   "en": "",
+   "en": "・West",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0103",
    "jp": "どっちを入れる？",
-   "en": "",
+   "en": "Which pair to add?",
    "term": "end"
   },
   {
    "id": "scen185.0104",
    "jp": "ミとア",
-   "en": "",
+   "en": "Misha & Ariost",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0105",
    "jp": "エとジュ",
-   "en": "",
+   "en": "Elliot & Julian",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0106",
    "jp": "メインイベントのどれを見ますか？",
-   "en": "",
+   "en": "Which main event will you view?",
    "term": "end"
   },
   {
    "id": "scen185.0107",
    "jp": "・リシャール開放",
-   "en": "",
+   "en": "・Richard released",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0108",
    "jp": "・リシャール散歩",
-   "en": "",
+   "en": "・Richard's walk",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0109",
    "jp": "・ツインゲヴェル",
-   "en": "",
+   "en": "・Twin Gevel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0110",
    "jp": "・指輪チェックのお誘い",
-   "en": "",
+   "en": "・Invitation to the ring check",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0111",
    "jp": "・集魔柱の依頼",
-   "en": "",
+   "en": "・Mana collection pillar request",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0112",
    "jp": "・指輪チェック",
-   "en": "",
+   "en": "・Ring check",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0113",
    "jp": "・フェザーランドへ",
-   "en": "",
+   "en": "・To Featherland",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0114",
    "jp": "・最後の休暇",
-   "en": "",
+   "en": "・Last vacation",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0115",
    "jp": "・フェザーランド墜落",
-   "en": "",
+   "en": "・Featherland crash",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0116",
    "jp": "・告白前",
-   "en": "",
+   "en": "・Before the confession",
    "term": "end",
    "unref": true
   },
