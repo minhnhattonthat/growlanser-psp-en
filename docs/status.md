@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 1. Research and recon in progress (session 2, 2026-11-22; graphics sheets left to review). No build yet.
+- **Phase:** 2. Debug tool next (phase 1 recon done session 3, 2026-11-22). No build yet.
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -18,10 +18,13 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Session 2: GLB.DAT decoded (`tools/glb.py`, RLE + palette + swizzled tiles, verified vs RAM); title source found
   (P8 = GLB B99_02_A, via `tools/gedump.py` GE frame capture); new P11 (tutorial status picture, GLB B08_01B), P12
   (仮 stamp, V49); GLB B/O/V, bind.dat, name_*.bmp clean. `pspdbg.py dump` also writes vram.bin.
-- **Next (finish phase 1):** review the generated sheets (docs/re/graphics.md "Still to sweep": work/gfx/glbsheets,
-  map128, map256, map4; codex is out of quota until 2026-11-26, so by hand, few sheets at a time); MAGD/NEFF/UPD,
-  .ani; check the 30 kana-like runs in MAP.DAT for font text. Then phase 2 (debug tool: PPSSPP has no Lua, poke RAM over the WebSocket with tools/pspdbg.py; port
-  the PS1 scene ids: PSP scene N = SCEN entry N+380, PS1 warp notes ../growlanser-en/docs/re/debug.md).
+  Session 3: static graphics sweep finished (graphics.md): `tools/textfind.py` (glyph-row screener + crop sheets)
+  over GLB maps and MAP.DAT; new P13 = MAP.DAT 1325 PS1-style credits + kana atlas ("プレイヤー／"); GLB maps,
+  rest of MAP.DAT, MAGD/NEFF (= PS1 files), .ani, the 30 MAP.DAT kana runs: clean. UPD.UPD compressed: re-check on
+  screen in phase 8 (graphics.md "Re-check on screen").
+- **Next (phase 2):** debug tool: PPSSPP has no Lua, poke RAM over the WebSocket with tools/pspdbg.py; port the PS1
+  scene ids (PSP scene N = SCEN entry N+380, PS1 warp notes ../growlanser-en/docs/re/debug.md). Scene list should
+  include the credits (to settle P5 vs P13 with gedump.py), title, game over, appendix room, tutorial (P11).
 - **Open bugs:** none.
 - **Waiting on the user:** (non-blocking) face-plate art spells ELIOTTE/RUISE/RICHART (DATA.DAT chr_face*.bmp);
   default = redraw to the glossary spellings (Elliot, Luise, Richard) per D9.

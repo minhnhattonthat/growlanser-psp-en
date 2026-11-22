@@ -75,5 +75,6 @@ each **pool first and its table right after it**; together they tile **BOOT.BIN 
   "セーブデータ", Memory Stick errors, "%dKB" free-space prompts, save/load cancelled/failed, "AUTO SAVEをOFFにします。";
   plus Shift-JIS format strings 0x1172E4 (voice not found, debug) and 0x117408 (save title `グローランサー［%s］　%s：%s：%s　%s`).
   "NEW RAINBOW ISLANDS\nハーディガーディ大冒険!!" at 0x118C34 (guess: another game's title in a library/advert list).
-- MAP.DAT: 30 kana-like runs (not yet checked; PS1 MAP.DAT held no font text). UPD.UPD: 1 hit (noise, guess).
+- MAP.DAT: 30 kana-like runs, checked (session 3): tile data (ざぶぷェ複..., こここ...), no font text. UPD.UPD: 1 hit
+  (noise; the file is compressed).
 - GLB.DAT kana-like hits are image data (checked a sample: decodes as noise).

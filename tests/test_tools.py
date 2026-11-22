@@ -26,3 +26,14 @@ def test_glb_rle_and_unswizzle():
         body += bytes([0x80 + len(chunk)]) + chunk
     pix, p, u = glb.decode(bytes([0x82, 1, 1]) + bytes(body))
     assert (pix == tile).all() and len(u) == glb.PIX + 128 * 128 and p[1] == 0x0302
+
+
+def test_textfind_row_of_glyphs():
+    import numpy as np
+    from textfind import score
+    a = np.zeros((64, 200), np.uint8)
+    assert score(a, 5)[0] == 0
+    for i in range(7):  # 7 glyph-sized blobs, 10 px tall, 3 px gaps, one baseline
+        a[20:30, 10 + i * 13:20 + i * 13:2] = 255
+        a[24, 10 + i * 13:20 + i * 13] = 255
+    assert score(a, 5)[0] >= 5
