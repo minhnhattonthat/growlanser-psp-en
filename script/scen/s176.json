@@ -888,7 +888,7 @@
   {
    "id": "scen176.0140",
    "jp": "そうよ。{n}アタシ達の方がずっとお世話になってるし‥‥。",
-   "en": "Really! We're the ones he's done way more for...",
+   "en": "Exactly! If anything, we're the ones who owe him{n}way more...",
    "term": "end"
   },
   {
@@ -1379,7 +1379,7 @@
   {
    "id": "scen176.0221",
    "jp": "　　{FFF0}‥‥くっくっく‥‥。{p}　　違う種族のために、{n}　　わざわざ命を張ろうとするなんてね‥‥。{n}　　{FFFB}なかなか美しいじゃないか。{FFF1}",
-   "en": "　　{FFF0}...Heh heh heh...{p}Going so far as to risk your lives for a different race...{FFFB}{n}How rather beautiful.{FFF1}",
+   "en": "　　{FFF0}...Heh heh heh...{p}Going out of your way to risk your lives for a different{n}race...{FFFB} Quite beautiful, really.{FFF1}",
    "term": "end"
   },
   {
@@ -1463,7 +1463,7 @@
   {
    "id": "scen176.0235",
    "jp": "　　{FFF0}‥‥くくくっ‥‥。{n}　　{FE14}そうか‥‥残念だよ‥‥。{p}　　ならば、この世界の人間どもと{n}　　仲良く死んでもらうしかない！{FFF1}",
-   "en": "　　{FFF0}...Heh heh heh...{FE14} I see... What a pity...{p}Then you'll just have to die nice and cozy with the{n}humans of this world!{FFF1}",
+   "en": "　　{FFF0}...Heh heh heh...{FE14} I see... What a pity...{p}Then you'll just have to die side by side with the{n}wretched humans of this world!{FFF1}",
    "term": "end"
   },
   {
@@ -1493,7 +1493,7 @@
   {
    "id": "scen176.0240",
    "jp": "そうじゃろ、そうじゃろ！{n}フェザリアンもビックリな集魔柱じゃったろう！",
-   "en": "Didn't it, though, didn't it! A mana collection pillar to{n}amaze even the Featherians, eh?!",
+   "en": "Right? Right?! A mana collection pillar to amaze even{n}the Featherians, wasn't it?!",
    "term": "end"
   },
   {

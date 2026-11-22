@@ -17,6 +17,10 @@ def main():
                           text=True, encoding="utf-8")
     if lint.returncode:
         sys.exit("fit.py (width lint) failed:\n" + lint.stdout[-3000:])
+    tl = subprocess.run([sys.executable, "-X", "utf8", str(ROOT / "tools/batches.py"), "check"], cwd=ROOT,
+                        capture_output=True, text=True, encoding="utf-8")
+    if tl.returncode:  # glossary/Avoid, honorifics, control codes, choice periods on all shipped English
+        sys.exit("batches.py check (translation lint) failed:\n" + tl.stdout[-3000:])
     print("check ok")
 
 

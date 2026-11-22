@@ -15,6 +15,7 @@ import json
 import re
 import sys
 from collections import Counter
+from functools import lru_cache
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -27,6 +28,7 @@ TL = ROOT / "work/tl"
 SCRIPT = ROOT / "script"
 GLOSSARY = ROOT / "glossary.md"
 MAX_ENTRIES = 150
+_rx = lru_cache(maxsize=None)(re.compile)  # per-term patterns: re's own 512-entry cache thrashed (28 min full check)
 
 # ---- ADAPTER: this game's text format ----
 TOKEN = re.compile(r"\{[^}\n]*\}|\[[0-9A-F]{4}\]")  # control codes, placeholders, [XXXX] icon glyphs
@@ -312,7 +314,9 @@ def kind(char):
 def has_term(jp, term):
     """term occurs as a whole kana or kanji run: ミン isn't in タイミング, くも isn't in ぼくも."""
     jp = jp.replace(" / ", "")
-    for m in re.finditer(re.escape(term), jp):
+    if term not in jp:
+        return False
+    for m in _rx(re.escape(term)).finditer(jp):
         a, b = m.start(), m.end()
         if (a == 0 or kind(jp[a - 1]) != kind(term[0])) and (b == len(jp) or kind(jp[b]) != kind(term[-1])):
             return True
@@ -364,10 +368,10 @@ def problems(entry, en, terms):
     for jps, ens, avoid in terms:
         if any(has_term(jp_plain, j) for j in jps) and not any(" ".join(e.split()).lower() in en_terms for e in ens):
             out.append(f"glossary: {jps[0]} -> {ens[0]}")
-        out += [f"glossary Avoid: {a}" for a in avoid if re.search(rf"\b{re.escape(a)}\b", en)]
+        out += [f"glossary Avoid: {a}" for a in avoid if _rx(rf"\b{re.escape(a)}\b").search(en)]
     names = [j for jps, _, _ in terms if re.fullmatch(r"[ァ-ヺー・]+", jps[0]) for j in jps]  # katakana names
     for jp_form, en_form in HONORIFICS.items():  # after a name only: メイドさん is "maid", not "maid-san"
-        if any(re.search(rf"(?<![ァ-ヺー]){n}{jp_form}", jp_plain) for n in names) and en_form.lower() not in en.lower():
+        if jp_form in jp_plain and any(_rx(rf"(?<![ァ-ヺー]){n}{jp_form}").search(jp_plain) for n in names) and en_form.lower() not in en.lower():
             out.append(f"honorific {jp_form} needs {en_form}")
     return out + width_problems(entry, en)
 

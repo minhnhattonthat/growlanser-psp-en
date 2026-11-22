@@ -415,7 +415,7 @@
   {
    "id": "scen061.0059",
    "jp": "{v:004F}陛下は私におっしゃいました。{n}『人々の生活を守れ』と。{n}これぞ名誉挽回の機会です。{p}{v:0050}それにあなた方が出てゆき、{n}{s:0025}にいらぬ警戒をさせたくはありません。{p}{v:0051}ここは、私めにお任せを。",
-   "en": "{v:004F}His Majesty told me, 'Protect the people's way of life.'{n}This is my chance to redeem my honor.{p}{v:0050}Besides, if you were to go out, I would not want {s:0025}{n}put needlessly on his guard.{p}{v:0051}Leave this to me.",
+   "en": "{v:004F}His Majesty told me, 'Protect the people's way of life.'{n}This is my chance to redeem my honor.{p}{v:0050}Besides, if you were to go out, I would not want {s:0025}{n}put needlessly on his guard.{p}{v:0051}Leave this to your humble servant.",
    "term": "end"
   },
   {
@@ -1624,7 +1624,7 @@
   {
    "id": "scen061.0236",
    "jp": "ねぇ、{s:0004}！{n}地下牢に{s:000A}がいないんだけど、{n}どうしちゃったの？",
-   "en": "Hey, {s:0004}! {s:000A} isn't in the{n}dungeon. What happened?",
+   "en": "Hey, {s:0004}! {s:000A} isn't in the{n}dungeon! What's going on?",
    "term": "end"
   },
   {

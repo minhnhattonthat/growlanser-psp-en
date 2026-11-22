@@ -282,7 +282,9 @@ alternatives); an Avoid spelling fails.
 | 源流洞窟 | Headwater Cave | | | |
 | 御師様 | my teacher | | PS1 s016/s019 | |
 | 時空観測計 | space-time meter | | Academy roof device (b033-b036 first) | observation gauge |
-| 妖精コンテスト | Fairy Contest | | | |- Not lint rows (wording varies with the sentence): 闇落とし "the Darkfall" (the event; debug labels "fall to
+| 妖精コンテスト | Fairy Contest | | | |
+
+- Not lint rows (wording varies with the sentence): 闇落とし "the Darkfall" (the event; debug labels "fall to
   darkness"), 時空分離 space-time separation, 時空の歪み space-time distortion.
 
 ## Decisions from earlier batches

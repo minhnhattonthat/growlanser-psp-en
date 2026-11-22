@@ -89,3 +89,57 @@ IDs below identify principal narrative scenes and selected corresponding battles
 - **System/environment:** s085, s097, s118, s121–s144, s213–s214; s066 is peaceful ambient dialogue. s232 is the combat tutorial.
 - **Battle scripts:** Much of s156–s236 contains objectives, orders, alternate deaths, and results. Many also carry major reveals, especially s195, s208–s212, s215, s222–s224, s226, and s228. Never discard them wholesale as non-story.
 - **Insufficient context:** s104, s160, s174, s177, s182, s199, s236 cannot support confident wider placement. Empty supplied entries: s012, s192, s227, s245. Other omitted IDs are unavailable evidence, not confirmed empty scenes.
+
+## 6. PSP-only scenes (the Darkfall arc and the PSP extras)
+
+PSP scene ids (script/scen/sNNN.json), not PS1 ones. Written in session 10 from the shipped English of the 43 scenes
+in work/psp_scenes.txt (skimmed per scene plus targeted reads), not from a line-by-line read: the phase 9 story pass
+reads these scenes in order against it and corrects it. Placement: after Wenzel is beaten and jailed in Rolandia
+Castle while Luise is still without her Grosh (§2 ch. 10-12 territory); confirm the exact slot in the story pass.
+
+### Who is who (new on PSP)
+
+| Name | Who | Voice |
+|---|---|---|
+| Justin | Leader of the three survivors of a team sent from the Old World (the "homeland") to tell this world the Old World was never destroyed. Caught in the Growsian-Featherian war, the team was sealed in crystal for over a century. Has Gevel cells in him. Wants space-time separation: undo the fusion so this world perishes, to keep Wenzel and this world's people from ever threatening the homeland. Summons Dunkels through space-time distortions (the Darkfall) from the moving Space-Time Control Tower. | Telepathic lines in {FFF0}..{FFF1}, polite-cold, contemptuous of "humans of this world"; laughs "heh heh heh". Final boss of the arc: absorbs Dunkels and becomes darkness itself (s286). |
+| Melfie | Featherian, Justin's companion from the same team. Kind to everyone back home (humans and Featherians lived in peace there); believes in Justin and takes part out of love for the homeland. Has trouble with Dunkels (her body accepts Gevel cells worse than Justin's). Doubts, is saved by the party (s285) and syncs with Luise against the separation (s183). | Earnest, defensive, "I believe in Justin". Shy kindness in her side event (s328, saves a child from a tree). |
+| Amelia | Third survivor of the team. Poses as a devoted researcher at the Magic Academy, then breaks with Justin ("I can't go along with Justin's methods anymore", s167), runs off with Wenzel's Grosh (s279) and works with the party: Portable Mana Pillars, the magic-sealing bracelet, the Wave Ring that keeps the hero (and Richard) from collapsing for lack of Gevel wave (s180). Romanceable (s184 "I love Amelia"). Justin calls her a talented traitor. | Bright, teasing, scientist ("Let's try anything we can"); flustered when thanked. No sense of direction (s325). |
+| Wenzel (PSP arc) | Jailed former Growsian king; the only one who knows how to restore Luise, so the party must keep him alive and escort him (s157-s159: bracelet that seals magic). Explains the Old World: the original world was not destroyed; undoing the fusion returns this world to the Old World and kills everyone in it (s157). | Arrogant, old-king cadence; pathetic in jail. |
+| Mana Line Engineer | Academy engineer ("Mana Line Engineer mister" to Tippi) who builds the Portable Mana Pillars. | Old man, "eh?", じゃ speech. |
+| Fairy Café fairies | s187 hub; one talk scene each: Lamie s329, Yuni s330, Piti s331, s332 (names Yurie as her rival cook), s333. Paid chat dates with the hero as "Master"; each "graduates" at the end of her route. | Lamie drawn-out vowels ("tiiime", "Masterrr"), wants to be a comedian; Yuni polite, acupressure; Piti dreamy, actress; s332 cheeky glutton; s333 formal, ojou-sama "-wa" register. |
+
+### Terms
+Dunkels (the substance of darkness; Grosh's opposite), the Darkfall (闇落とし: Justin dropping Dunkels on a region;
+people touched turn into Jung monsters), Space-Time Control Tower, space-time separation / distortion, Portable
+Mana Pillar (carried mana collection pillar that soaks up Dunkels), space-time meter (Academy roof device that
+predicts where darkness falls), Power Stone (crystallized human will; the tower's key), Wave Ring, Antimagic Ore.
+
+### Plot in scene order
+- s092 (reworked PS1 Grancil visit): bandits catch a Featherian girl (Melfie) to sell; the party frees her; she
+  distrusts humans. Choice "We'll be the bridge" between humans and Featherians.
+- s279-s280 (battles): Justin and Melfie attack to kill Wenzel; the party protects him; Amelia takes Wenzel's Grosh
+  and flees; Justin turns villagers into Jung with a Darkfall and explains Dunkels.
+- s156-s160: Rosaria and Rolandia Castle after Ranzak Castle collapses (a Gevel from under it was beaten by a
+  "mysterious trio"). King Alcadius and Sandra send the party to draw information out of Wenzel and escort him to the
+  Space-Time Control Tower; the hero is exhausted (Gevel wave running low). Portable Mana Pillars go up town by town.
+- s161-s172: regional defence: Boulogne-type villages, Rachelle sanatorium attack (doctors killed), Grancil (Xenos
+  wounded; Amelia confronts Melfie: "Justin has poisoned your mind"), Valmier, Galashiels, Ranzak, Crane Village.
+  Misjudged spots fail ("Damn, did I misjudge it?!"), correct ones clear the darkness.
+- s162-s163, s186: Magic Academy hub: Ariost, Professor, Headmaster Bradley, Mana Line Engineer; mass-producing the
+  pillars, tracking the tower by distortion values.
+- s174-s176: Burnstein and Featherland: Queen Stella explains the Power Stone; the tower cannot work fully without it.
+  Justin traps the party (s176), s177 they climb out with an injured Featherian under a truce.
+- s179-s180: tower Block A: data bank on the Old World, Grosh and Dunkels; Justin reveals the team's origin (reveal
+  boundary: before s179 nobody knows Justin/Melfie/Amelia are from the Old World). Amelia makes the Wave Rings.
+- s183-s184, s284-s291: final stage: two Gevels (s284), Melfie freed and Justin fought (s285), Justin absorbs Dunkels
+  (s286), last defence of the pillars with General Bronson (s290-s291). Eve-of-battle talks (s184: Luise, Richard and
+  Reeves, Amelia's confession, Wenzel's "king or not, I am still a man").
+- s185: developer jump menu for the new events and a sound test (debug, not story).
+- Extras: s187 Fairy Café (s329-s333 fairy talks), s325-s328 companion events (Amelia cooking, Richard's villa and hot
+  spring with Oscar and Ernest, fortune teller's affection readout s327, Melfie and the village child s328).
+
+### Reveal boundaries (do not anticipate)
+- Amelia's link to Justin and Melfie: hinted from s167, stated in s179. Before that she is just an Academy researcher.
+- The Old World survived: Wenzel's account (s157), confirmed by Justin (s179).
+- Justin carries Gevel cells: s286 ("I have Gevel cells inside me too").
+- The Gev (what Gevel came from): s291.
