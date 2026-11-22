@@ -219,24 +219,38 @@ def binder(data):
     return bmp_edit(data, fn)
 
 
-def png_bytes(im):
+def png_bytes(im, size=None):
+    """PNG bytes; with size, padded to exactly size bytes by a tEXt chunk before IEND. DATA.DAT and DATA_BOOT.DAT
+    must keep their entry sizes: with a shorter save icon in DATA.DAT the ending's staff roll stayed black (the game
+    reaches some entries by fixed offsets, not only through the directory)."""
+    import struct
+    import zlib
     f = io.BytesIO()
     im.save(f, "PNG", optimize=True)
-    return f.getvalue()
+    b = f.getvalue()
+    if size is None:
+        return b
+    pad = size - len(b) - 12 - len(b"Comment\0")
+    assert pad >= 0, (len(b), size)
+    body = b"tEXt" + b"Comment\0" + b" " * pad
+    chunk = struct.pack(">I", len(body) - 4) + body + struct.pack(">I", zlib.crc32(body))
+    out = b[:-12] + chunk + b[-12:]
+    assert len(out) == size
+    return out
 
 
 def icon0(data):
     """P10: ICON0 / GR_SAVE_ICON0 (144x80, parchment): subtitle rows -> parchment 8 rows below."""
     a = np.array(Image.open(io.BytesIO(data)).convert("RGB"))
     a[62:69, 28:73] = a[70:77, 28:73]
-    return png_bytes(Image.fromarray(a))
+    return png_bytes(Image.fromarray(a), len(data))
 
 
 def pic0(data):
     """P10: PIC0 (310x180 RGBA over the XMB): subtitle -> transparent."""
     a = np.array(Image.open(io.BytesIO(data)).convert("RGBA"))
     a[101:116, 72:160] = 0
-    return png_bytes(Image.fromarray(a))
+    return png_bytes(Image.fromarray(a), len(data))
 
 
 def pic1(data):
@@ -245,7 +259,7 @@ def pic1(data):
     m = subtitle_mask(a, (266, 253, 350, 272), k=2)
     fill_down(a, m, 11)
     a[251:254, 268:353] = a[251:254, 365:366]  # the bar's white bottom outline + dark row under it, as right of it
-    return png_bytes(Image.fromarray(a))
+    return png_bytes(Image.fromarray(a), len(data))
 
 
 def sfo_title(data):
@@ -279,6 +293,10 @@ def apply(flat, edits):
     d = orig(G + "DATA.DAT")
     edits[G + "DATA.DAT"].update(credits.patch(lambda n: datadat.get(d, n)))
     edits[G + "DATA.DAT"]["chips/chips01.bmp"] = binder(datadat.get(d, "chips/chips01.bmp"))
+    for arc in (G + "DATA.DAT", U + "DATA_BOOT.DAT"):  # entry sizes must not change (png_bytes)
+        d = orig(arc)
+        bad = [n for n, b in edits[arc].items() if len(b) != len(datadat.get(d, n))]
+        assert not bad, f"{arc}: size changed for {bad}"
     flat.update({
         "/PSP_GAME/ICON0.PNG": icon0(orig("/PSP_GAME/ICON0.PNG")),
         "/PSP_GAME/PIC0.PNG": pic0(orig("/PSP_GAME/PIC0.PNG")),

@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator in progress (session 13: tour gate + text coverage done; graphics, inkbox,
-  stress saves left; see "Phase 8 progress" below).
+- **Phase:** 8. QA in the emulator in progress (session 14: graphics text P1-P6, P8, P10-P12 done; P7 face
+  plates, P9 movies, inkbox, stress saves left; see "Phase 8 progress" below).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -117,10 +117,24 @@ Updated at the end of every session. Keep it to what the next session needs; his
     (drawn, never closed; work/qa/cov/stalls.tsv, `tools/debug/cover_ids.py`): mostly {FB00}..{FFFA} animated-face
     lines (dev menu scen018/379, scen325 x8); check a few in their own scene (scen112.0096, scen328.0044,
     scen071.0013, scen210.0017 have no FB00). `warp.py --textlog` logs strings per warp too.
+  - **Graphics text (session 14): mostly done.** `tools/gfx.py` (`apply` from build.py in --mode en; `preview DIR`
+    = original | English PNGs) computes every edit from the original files: P8 title (GLB B99_02_A subtitle ->
+    marble; `glb.encode`), P10 ICON0/PIC0/GR_SAVE_ICON0/GR_SAVE_PIC1 (ISO + DATA.DAT + DATA_BOOT.DAT copies) + SFO
+    TITLE "Growlanser", P12 V49 = V41, P1/P2 `statusgfx.py` (MSYS 0x9100, = PS1), P3 MESWDA3E.bmp labels (this is
+    what the status screen draws), P11 tutorial GLB B08_01B (items + grid), P4 `appendixgfx.py` (MSYS 0x71000),
+    P5 `tools/credits.py` (staff/stf01-07(b).bmp as one 256x7168 roll: 46 cast roles + song lines; P13 MAP.DAT
+    pages are not drawn on PSP), P6 chips01.bmp GLUE. D15/D16. **DATA.DAT/DATA_BOOT.DAT entries must keep their
+    size** (shorter PNG -> black staff roll; asserted in gfx.apply, tests/test_gfx.py). Verified in game on build
+    2e1da691: title (work/qa/g1 smoke), gear_status grid (work/qa/gfx_status), tut_status (work/qa/gfx_tut f001800),
+    credits roll English (work/qa/gfx_cred f018600-f025000), smoke ok. Not yet seen in game: appendix room (OMAKE),
+    card binder, XMB/save icons (save screen at the end of the credits warp shows GR_SAVE_PIC1?).
 - **Next (phase 8, QA in the emulator):**
-  1. Graphics text (docs/re/graphics.md P1-P13, groups G1-G8): redraw in English, one pilot group then the rest;
-     every row English in a zoomed cold-boot shot (title P8, credits P5/P13: check with gedump which the PSP draws,
-     face plates P7, affinity P1/P2/P3, tutorial P11, appendix P4, card binder P6, movies P9, icons/SFO P10).
+  1. Graphics left: P7 face plates (DATA.DAT + DATA_BOOT.DAT chr_face.bmp / chr_face_frd.bmp, 72x11 plates at
+     (0|80, 81+12k), 8bpp, gradient bg: ELIOTTE->ELLIOT, RUISE->LUISE, JURIAN->JULIAN, RICHART->RICHARD (no D on
+     the sheet: build from P/O), ダミー 3 plate and the ダミー NN cells -> DUMMY; the plate shows on the status screen
+     header); P9 movies op1/op2.pmf subtitle (H.264 PSMF: re-encode the logo frames, or a ruling to keep); UPD.UPD
+     re-check on screen; then a zoomed cold-boot shot of every P row (appendix room warp title_appendix, binder,
+     save screen) and a fresh `qa_gate init` + verdicts for the changed screens.
   2. inkbox on centred boxes: port ../growlanser-en/tools/inkqa.py + inkcheck.py (colours/positions for PSP: field
      bubbles, place popup, captions; choice boxes are left-aligned like the JP: not targets).
   3. Stress saves (references/emulator-qa.md §Stress saves) with `tools/debug/save.py`: longest item names, full
