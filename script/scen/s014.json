@@ -281,7 +281,7 @@
   {
    "id": "scen014.0039",
    "jp": "{FB00}{v:000A}あ‥‥[01BE]{n}忘れてた‥‥[01BE]",
-   "en": "",
+   "en": "{FB00}{v:000A}Oh...[01BE] I forgot...[01BE]",
    "term": "end"
   },
   {
@@ -987,7 +987,7 @@
   {
    "id": "scen014.0139",
    "jp": "　{n}プレートに『{FFEE}るいせちゃんのお部屋{FFF1}』と書いてある。",
-   "en": "",
+   "en": "　{n}The sign reads '{FFEE}Luise-chan's Room{FFF1}.'",
    "term": "end"
   },
   {

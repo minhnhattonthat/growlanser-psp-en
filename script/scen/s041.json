@@ -36,13 +36,13 @@
   {
    "id": "scen041.0004",
    "jp": "ジャスティン",
-   "en": "",
+   "en": "Justin",
    "term": "null"
   },
   {
    "id": "scen041.0005",
    "jp": "メルフィ",
-   "en": "",
+   "en": "Melfie",
    "term": "null"
   },
   {
@@ -139,7 +139,7 @@
   {
    "id": "scen041.0019",
    "jp": "　　{FFEE}{FFEC}街をきれいに！{FFED}{FFF1}{n}　　　　　　　　　　　～グランシル{s:00BD}会～",
-   "en": "",
+   "en": "　　{FFEE}{FFEC}Keep our town clean!{FFED}{FFF1}{n}--Grancil {s:00BD} Association--",
    "term": "end"
   },
   {
@@ -187,7 +187,7 @@
   {
    "id": "scen041.0026",
    "jp": "{v:0018}エキスパートの部は覚えてないが、{n}フレッシュマンの部は確か{s:0160}王国に{n}ある温泉街、{s:015C}への旅行券だったな。{p}{v:0019}ま、それよりも俺は仕官{s:012A}当てだから関係ないけどな。",
-   "en": "",
+   "en": "{v:0018}I don't remember the Expert division prize, but I think{n}the Freshman prize is a Travel Voucher to{n}{s:015C}, a hot spring town in the Kingdom{p}of {s:0160}.{p}{v:0019}Well, I've got my eye on a military post, so the prize{n}doesn't matter to me.",
    "term": "end"
   },
   {
@@ -235,7 +235,7 @@
   {
    "id": "scen041.0033",
    "jp": "{v:0020}そうらしいな。{p}{v:0021}ま、それよりも俺は仕官{s:012A}当てだから関係ないけどな。",
-   "en": "",
+   "en": "{v:0020}So I hear.{p}{v:0021}Well, I've got my eye on a military post, so the prize{n}doesn't matter to me.",
    "term": "end"
   },
   {
@@ -269,55 +269,55 @@
   {
    "id": "scen041.0038",
    "jp": "前までココにいた生意気なフェザリアンと{n}連れの優男だが、最近見なくなったな。{p}おおかた、俺様に恐れをなして{n}遠くにでも逃げたんだろうな！{n}{FE14}がっはっはっはっは！",
-   "en": "",
+   "en": "That cheeky Featherian who used to hang around here{n}and her pretty-boy pal? Ain't seen 'em lately.{p}Bet they got scared of yours truly and ran off{n}somewhere far away!{FE14} Gahahahaha!",
    "term": "end"
   },
   {
    "id": "scen041.0039",
    "jp": "‥‥{s:000B}さん達、{n}どこに行っちゃったのかな？{n}{FFFB}せっかく知り合いになったのに、残念だね。",
-   "en": "",
+   "en": "...I wonder where {s:000B} and the others{n}went. {FFFB}It's a shame, after we finally got to know them.",
    "term": "end"
   },
   {
    "id": "scen041.0040",
    "jp": "前までココにいたフェザリアンと{n}連れの優男だが、最近見なくなったな。{p}まぁ、そもそもフェザリアンが{n}地上にいること自体、おかしいんだけどよ！",
-   "en": "",
+   "en": "That Featherian who used to be here and her{n}pretty-boy pal? Ain't seen 'em lately.{p}Well, a Featherian bein' down here on the ground was{n}weird to begin with!",
    "term": "end"
   },
   {
    "id": "scen041.0041",
    "jp": "それって、{s:00C3}に襲われてたフェザリアンさんと、{n}迎えに来た男の人のことかな‥‥？",
-   "en": "",
+   "en": "You mean the Featherian-san who was attacked by{n}{s:00C3}, and the man who came to{n}get her...?",
    "term": "end"
   },
   {
    "id": "scen041.0042",
    "jp": "チッ‥‥。{n}人間に追い出された感じがして、後味が悪いな。{n}{FFFB}‥‥もう行こうぜ。",
-   "en": "",
+   "en": "Tch... Feels like humans chased them out. Leaves a bad{n}taste. {FFFB}...Let's get going.",
    "term": "end"
   },
   {
    "id": "scen041.0043",
    "jp": "ムカつくフェザリアンがいなくなって、{n}せいせいしたぜ！",
-   "en": "",
+   "en": "Good riddance to that infuriatin' Featherian!",
    "term": "end"
   },
   {
    "id": "scen041.0044",
    "jp": "最近、知り合いがこの辺りでフェザリアンを{n}見かけたって言うんだよ。{n}もし俺が見つけたら、すぐに追っ払ってやる！",
-   "en": "",
+   "en": "A buddy of mine says he spotted a Featherian around{n}here lately. If I find one, I'll run 'em right outta town!",
    "term": "end"
   },
   {
    "id": "scen041.0045",
    "jp": "ええっ、どうして？",
-   "en": "",
+   "en": "Huh? Why?",
    "term": "end"
   },
   {
    "id": "scen041.0046",
    "jp": "だってあいつら、俺たち人間のことを{n}愚かな存在だとかほざいてるんだろ！？{p}ったく、自分たちのことを崇高な種族だと{n}勘違いしてるんじゃねぇのか？{p}俺は、あんな鼻持ちならない奴らと{n}同じ空気なんて吸いたくないね！",
-   "en": "",
+   "en": "'Cause those guys go around callin' us humans fools,{n}don't they?!{p}Bet they think they're some kinda noble race, huh?{p}I don't wanna breathe the same air as those{n}stuck-up jerks!",
    "term": "end"
   },
   {
@@ -330,19 +330,19 @@
   {
    "id": "scen041.0048",
    "jp": "くそっ、フェザリアンめ！",
-   "en": "",
+   "en": "Damn Featherians!",
    "term": "end"
   },
   {
    "id": "scen041.0049",
    "jp": "くっそう！{n}やっぱり、フェザリアンってのは{n}いつ見てもむかつく存在だぜ！",
-   "en": "",
+   "en": "Dammit! Featherians tick me off every single time I{n}see 'em!",
    "term": "end"
   },
   {
    "id": "scen041.0050",
    "jp": "あ、あのフェザリアン、{n}{s:0119}を連れてきやがった[01BE]{n}なんてことしやがるんだ‥‥。",
-   "en": "",
+   "en": "Th-that Featherian went and brought {s:0119}{n}here![01BE] What the hell's she thinkin'...",
    "term": "end"
   },
   {
@@ -411,7 +411,7 @@
   {
    "id": "scen041.0060",
    "jp": "ここの家に住んでいる兄妹の妹さんは、{n}{s:003D}顔負けの薬草の知識があるのよ。",
-   "en": "",
+   "en": "The younger sister of the pair who live here knows so{n}much about medicinal herbs, she'd put any {s:003D}{n}to shame.",
    "term": "end"
   },
   {
@@ -438,277 +438,277 @@
   {
    "id": "scen041.0064",
    "jp": "{v:007F}そうか。{n}さて、これで{s:015C}へ行く準備もできたし、{n}いよいよフェザリアンの情報を聞き出せるな。",
-   "en": "",
+   "en": "{v:007F}Good. Well, we're ready to go to {s:015C}{n}now. We can finally get some information on{n}the Featherians.",
    "term": "end"
   },
   {
    "id": "scen041.0065",
    "jp": "{v:0000}そのフェザリアンの翼が当たったせいで{n}転んだんだぞ！",
-   "en": "",
+   "en": "{v:0000}I fell 'cause that Featherian's wing hit me!",
    "term": "end"
   },
   {
    "id": "scen041.0066",
    "jp": "{v:0001}ですから、そのことについては{n}何度も謝罪してるでしょう？",
-   "en": "",
+   "en": "{v:0001}And I've apologized for that again and again, haven't I?",
    "term": "end"
   },
   {
    "id": "scen041.0067",
    "jp": "{v:0002}お前じゃなくて、そこの生意気な{n}フェザリアンのガキに謝ってもらわねぇと、{n}気がすまねぇんだよ！",
-   "en": "",
+   "en": "{v:0002}Not you! I ain't gonna be satisfied till that cheeky{n}Featherian brat apologizes!",
    "term": "end"
   },
   {
    "id": "scen041.0068",
    "jp": "{v:0003}‥‥嫌よ。{n}だって、翼は当たってないもの。",
-   "en": "",
+   "en": "{v:0003}...No. My wing never touched you.",
    "term": "end"
   },
   {
    "id": "scen041.0069",
    "jp": "{v:0004}それじゃ、誰がオレを突き飛ばしたんだよ！{n}そのせいでオレはすりむいたんだぞ！",
-   "en": "",
+   "en": "{v:0004}Then who shoved me, huh?! I got scraped up 'cause{n}of it!",
    "term": "end"
   },
   {
    "id": "scen041.0070",
    "jp": "{v:0005}知らないわ。{n}それはあなたの不注意じゃない。{n}それにその程度では死にはしないわ。",
-   "en": "",
+   "en": "{v:0005}I don't know. That was your own carelessness, wasn't{n}it? Besides, a scrape like that won't kill you.",
    "term": "end"
   },
   {
    "id": "scen041.0071",
    "jp": "{v:0006}{s:000B}、やめないか。",
-   "en": "",
+   "en": "{v:0006}{s:000B}, that's enough.",
    "term": "end"
   },
   {
    "id": "scen041.0072",
    "jp": "{v:0007}もう、頭にきたぜ！{p}{v:0008}だいたい、フェザリアンが地上にいること自体が{n}おかしいんだ！{p}{v:0009}フェザリアンが、上から俺たちのこと{n}見下してるだけでもムカツクのに！{p}{v:000A}だったら、ずっと飛んでりゃいいだろ！{n}地上に降りてくるな！",
-   "en": "",
+   "en": "{v:0007}That's it, I've had it!{p}{v:0008}Featherians got no business bein' down on the ground{n}in the first place!{p}{v:0009}It's bad enough you Featherians look down on us from{n}up there!{p}{v:000A}So just stay up in the sky! Don't come down here!",
    "term": "end"
   },
   {
    "id": "scen041.0073",
    "jp": "‥‥{v:000B}ちょっと待ってください。{p}{v:000C}フェザリアンにも、{n}地上に降り立つ権利はあるはずです。{p}{v:0042}それを否定するということは、{n}種族の差別じゃありませんか？",
-   "en": "",
+   "en": "...{v:000B}Please wait a moment.{p}{v:000C}Featherians should have the right to set foot on the{n}ground, too.{p}{v:0042}Isn't denying them that discrimination against a race?",
    "term": "end"
   },
   {
    "id": "scen041.0074",
    "jp": "{v:000D}だからなんだってんだ！{n}フェザリアンが先に人間を馬鹿にしたんだろ！",
-   "en": "",
+   "en": "{v:000D}So what?! The Featherians started it by treatin'{n}humans like idiots!",
    "term": "end"
   },
   {
    "id": "scen041.0075",
    "jp": "{v:000E}ねぇ、お兄ちゃん！{n}止めてあげないと！",
-   "en": "",
+   "en": "{v:000E}Hey, Big Brother! We have to stop them!",
    "term": "end"
   },
   {
    "id": "scen041.0076",
    "jp": "{v:000F}そうだよね！",
-   "en": "",
+   "en": "{v:000F}Yeah, totally!",
    "term": "end"
   },
   {
    "id": "scen041.0077",
    "jp": "{v:0010}そこのオジさん、ちょっとまったぁ！",
-   "en": "",
+   "en": "{v:0010}Hey, mister! Hold it right theeere!",
    "term": "end"
   },
   {
    "id": "scen041.0078",
    "jp": "{v:0011}何だ、オマエたちは？{n}これはオレたちの‥‥。",
-   "en": "",
+   "en": "{v:0011}What, who're you lot? This is between us...",
    "term": "end"
   },
   {
    "id": "scen041.0079",
    "jp": "{v:0012}その赤いジャケットの男と、{n}赤いワンピースの娘は‥‥。{n}今年の闘技大会の優勝者兄妹？",
-   "en": "",
+   "en": "{v:0012}A guy in a red jacket and a girl in a red dress... Ain't you{n}the brother and sister who won this{n}year's tournament?",
    "term": "end"
   },
   {
    "id": "scen041.0080",
    "jp": "{v:0013}キミたち‥‥。",
-   "en": "",
+   "en": "{v:0013}You kids...",
    "term": "end"
   },
   {
    "id": "scen041.0081",
    "jp": "{v:0014}あの、今のやりとりを途中から{n}見させて頂きましたが、ここはわたしたちに免じて{n}仲直りしてくれませんか？",
-   "en": "",
+   "en": "{v:0014}Um, we saw part of what just happened. Couldn't you{n}two make up, for our sake?",
    "term": "end"
   },
   {
    "id": "scen041.0082",
    "jp": "{v:0015}うむぅ‥‥、{n}‥‥お嬢ちゃんがそういうなら‥‥。",
-   "en": "",
+   "en": "{v:0015}Hrmm... ...Well, if you say so, little lady...",
    "term": "end"
   },
   {
    "id": "scen041.0083",
    "jp": "{v:0016}おじさんのケガは今、治しますから。",
-   "en": "",
+   "en": "{v:0016}I'll heal your injury right away, sir.",
    "term": "end"
   },
   {
    "id": "scen041.0084",
    "jp": "{v:0017}おお、傷が治った！{n}お嬢ちゃんは治癒魔法が使えるのか！{p}{v:0043}だがいくら治癒魔法でも、{n}ここまでキレイになるとは‥‥。",
-   "en": "",
+   "en": "{v:0017}Whoa, it's healed! You can use healing magic, little lady!{p}{v:0043}But even with healing magic, I never figured it'd heal up{n}this clean...",
    "term": "end"
   },
   {
    "id": "scen041.0085",
    "jp": "{v:0018}そりゃ、{s:0001}ちゃんは{n}皆既日食のグローシアンだもんね！{n}他の人の魔法とは効きがちがうって！",
-   "en": "",
+   "en": "{v:0018}Well, duh! {s:0001}'s a Growsian born during{n}a total solar eclipse! Her magic works waaay better than{n}other people's!",
    "term": "end"
   },
   {
    "id": "scen041.0086",
    "jp": "{v:0019}グローシアンってのは、スゴイもんだな！{n}今日のところは、お嬢ちゃん達に免じて、{n}おとなしく帰ることにするよ。",
-   "en": "",
+   "en": "{v:0019}Growsians sure are somethin'! For today, I'll go home{n}quiet-like, for you kids' sake.",
    "term": "end"
   },
   {
    "id": "scen041.0087",
    "jp": "なかなか手際が良いな‥‥。",
-   "en": "",
+   "en": "Pretty slick work...",
    "term": "end"
   },
   {
    "id": "scen041.0088",
    "jp": "そりゃ、アタシたちは{n}{s:0166}のために戦う騎士だしね！{p}それに、こう見えても{s:0001}ちゃんはグローシアンよ。{n}ただの女の子とは違うんだから！",
-   "en": "",
+   "en": "Well, of course! We're knights who fight for{n}{s:0166}!{p}Besides, {s:0001} may not look it, but she's{n}a Growsian. She's not just some ordinary girl!",
    "term": "end"
   },
   {
    "id": "scen041.0089",
    "jp": "そうか！{n}グローシアンってのは、お嬢ちゃんのことか！{p}今日のところは、お嬢ちゃん達に免じて、{n}おとなしく帰ることにするよ。",
-   "en": "",
+   "en": "So that's it! You're the Growsian, little lady!{p}For today, I'll go home quiet-like, for you kids' sake.",
    "term": "end"
   },
   {
    "id": "scen041.0090",
    "jp": "{v:001A}また助けてもらったね。{n}あのままだったらどうなっていたか‥‥。",
-   "en": "",
+   "en": "{v:001A}You've helped us again. Who knows what would have{n}happened if that had gone on...",
    "term": "end"
   },
   {
    "id": "scen041.0091",
    "jp": "{v:001B}あの人も、引っ込みがつかなくなっちゃってた{n}みたいだしね‥‥。",
-   "en": "",
+   "en": "{v:001B}It looked like he'd gotten himself into a spot where he{n}couldn't back down, too...",
    "term": "end"
   },
   {
    "id": "scen041.0092",
    "jp": "{v:001C}それにしても、フェザリアンというだけで{n}あんな言い方をしなくても‥‥。",
-   "en": "",
+   "en": "{v:001C}Even so, he didn't have to talk like that just because{n}she's a Featherian...",
    "term": "end"
   },
   {
    "id": "scen041.0093",
    "jp": "{v:001D}自分たちと違う、{n}フェザリアンということを理由にすれば、{n}周囲を味方に付けられると思ったんだろう。",
-   "en": "",
+   "en": "{v:001D}He probably figured that if he made it about her being{n}a Featherian, someone different from them, he'd get{n}the crowd on his side.",
    "term": "end"
   },
   {
    "id": "scen041.0094",
    "jp": "{FFF6}{v:001E}それよりも{s:000B}、{n}またこの人たちに助けてもらったんだ。{n}こういう時はお礼を言いなさいと前にも教えたよね？",
-   "en": "",
+   "en": "{FFF6}{v:001E}More importantly, {s:000B}, these people{n}have helped us again. I've taught you before to say{n}thank you at times like this, haven't I?",
    "term": "end"
   },
   {
    "id": "scen041.0095",
    "jp": "{v:001F}やっぱり、人間なんて嫌いよ‥‥。",
-   "en": "",
+   "en": "{v:001F}I still hate humans...",
    "term": "end"
   },
   {
    "id": "scen041.0096",
    "jp": "{FFF7}{v:0020}{s:000B}！{n}ここで生きていくのなら、{n}その考えは改めなくちゃ駄{s:012A}だと‥‥。",
-   "en": "",
+   "en": "{FFF7}{v:0020}{s:000B}! If you're going to live here, you{n}have to change that way of thinking...",
    "term": "end"
   },
   {
    "id": "scen041.0097",
    "jp": "{v:0021}いやよ！{n}だって、その子、グローシアンなんでしょ？{n}絶対にイヤ！",
-   "en": "",
+   "en": "{v:0021}No! I mean, that girl's a Growsian, isn't she? Absolutely{n}not!",
    "term": "end"
   },
   {
    "id": "scen041.0098",
    "jp": "{v:0022}{s:000B}！",
-   "en": "",
+   "en": "{v:0022}{s:000B}!",
    "term": "end"
   },
   {
    "id": "scen041.0099",
    "jp": "‥‥{v:0023}すまない。{n}あの子にはちょっとした事情があってね‥‥。",
-   "en": "",
+   "en": "...{v:0023}I'm sorry. She has her reasons, you see...",
    "term": "end"
   },
   {
    "id": "scen041.0100",
    "jp": "{v:0024}そうみたいですね。{n}それより、追ってあげて下さい。",
-   "en": "",
+   "en": "{v:0024}So it seems. Never mind us, please go after her.",
    "term": "end"
   },
   {
    "id": "scen041.0101",
    "jp": "{FFF6}{v:0025}本当にすまない。",
-   "en": "",
+   "en": "{FFF6}{v:0025}I truly am sorry.",
    "term": "end"
   },
   {
    "id": "scen041.0102",
    "jp": "{v:0026}グローシアン嫌いか‥‥。{n}一体どんな理由があるんだろうな。",
-   "en": "",
+   "en": "{v:0026}Hates Growsians, huh... I wonder what her reason is.",
    "term": "end"
   },
   {
    "id": "scen041.0103",
    "jp": "‥‥{v:0027}うん。",
-   "en": "",
+   "en": "...{v:0027}Yeah.",
    "term": "end"
   },
   {
    "id": "scen041.0104",
    "jp": "{v:0000}あ、お兄ちゃん、ちょっといいかな？",
-   "en": "",
+   "en": "{v:0000}Oh, Big Brother, can I ask you something?",
    "term": "end"
   },
   {
    "id": "scen041.0105",
    "jp": "{v:0001}どうしたの、{s:0001}ちゃん？",
-   "en": "",
+   "en": "{v:0001}What's up, {s:0001}?",
    "term": "end"
   },
   {
    "id": "scen041.0106",
    "jp": "{v:0002}あそこのお店にアクセサリーが{n}売ってるんだけど、見ていい？",
-   "en": "",
+   "en": "{v:0002}That shop over there sells accessories. Can I take{n}a look?",
    "term": "end"
   },
   {
    "id": "scen041.0107",
    "jp": "{v:003B}いらっしゃいませ。{n}本日はお買い求めですか？",
-   "en": "",
+   "en": "{v:003B}Welcome. Will you be making a purchase today?",
    "term": "end"
   },
   {
    "id": "scen041.0108",
    "jp": "{v:0007}へ～、製品だけじゃなく、{n}部品も売ってるんだ～。",
-   "en": "",
+   "en": "{v:0007}Ooh, they don't just sell finished pieces, they sell the{n}parts toooo.",
    "term": "end"
   },
   {
    "id": "scen041.0109",
    "jp": "{v:0008}うん。{n}部品をそろえたら、自分のオリジナルも作れるよ。",
-   "en": "",
+   "en": "{v:0008}Yeah. If you collect the parts, you can make an original{n}of your own.",
    "term": "end"
   },
   {
@@ -763,7 +763,7 @@
   {
    "id": "scen041.0117",
    "jp": "{v:003B}ああ。{n}今までの私は、父に誉められるために{n}剣術をみがいていた。{p}{v:003C}確かにインペリアル・ナイトになることは{n}名誉なことだが、本来は国と民を守るということだ。{n}私はそれを{s:012A}指してみたい。",
-   "en": "",
+   "en": "{v:003B}Yes. Until now, I honed my swordsmanship to win my{n}father's praise.{p}{v:003C}Becoming an Imperial Knight is certainly an honor, but{n}its true purpose is to protect the country and its{n}people. That is the goal I want to set my sights on.",
    "term": "end"
   },
   {
@@ -849,7 +849,7 @@
   {
    "id": "scen041.0129",
    "jp": "{v:0045}ありがとう。{p}{v:0046}ところで優勝の賞品は{s:015C}だって？",
-   "en": "",
+   "en": "{v:0045}Thank you.{p}{v:0046}By the way, I hear your prize for winning is a trip to{n}{s:015C}?",
    "term": "end"
   },
   {
@@ -862,7 +862,7 @@
   {
    "id": "scen041.0131",
    "jp": "‥‥{v:0048}いやいや、そんなわけじゃない。{p}{v:0049}それに私は{s:0160}王国の人間だ。{n}何度か行ったこともあるしな。",
-   "en": "",
+   "en": "...{v:0048}No, no, that is not what I meant.{p}{v:0049}Besides, I am from the Kingdom of {s:0160}.{n}I have been there a few times.",
    "term": "end"
   },
   {
@@ -903,7 +903,7 @@
   {
    "id": "scen041.0137",
    "jp": "{s:0166}軍に仕官したんだって？{n}へぇ～、やっぱり優勝者だけあるね。",
-   "en": "",
+   "en": "I hear you've joined the {s:0166} army as{n}an officer? Wow, just what I'd expect from a champion.",
    "term": "end"
   },
   {
@@ -923,7 +923,7 @@
   {
    "id": "scen041.0140",
    "jp": "君がフレッシュマンの優勝者なんだって？{n}確かに一{s:012A}見たときから、{n}何か凄いパワーを感じていたんだよ。",
-   "en": "",
+   "en": "So you're the Freshman champion? I could sense some{n}incredible power from the moment you first caught{n}my eye.",
    "term": "end"
   },
   {
@@ -1013,7 +1013,7 @@
   {
    "id": "scen041.0153",
    "jp": "ここで売っている武器は、間接攻撃武器が多い。{n}これさえあれば、相手の間合いに入ることなく{n}攻撃することができるのだが‥‥。{p}‥‥‥かなり高価なのが問題だ‥‥。{n}街のそばにいる{s:00F5}じゃ、いくら倒しても{n}ここまで貯まりそうにない‥‥。",
-   "en": "",
+   "en": "Many of the weapons sold here are ranged weapons.{n}With one of those, I could attack without stepping{n}within my opponent's reach...{p}...The trouble is, they're quite expensive. No matter how{n}many {s:00F5} I defeat near town, I doubt I{n}could save up that much...",
    "term": "end"
   },
   {
@@ -1236,7 +1236,7 @@
   {
    "id": "scen041.0183",
    "jp": "・ブレスレットの部品を購入",
-   "en": "",
+   "en": "・Buy bracelet parts",
    "term": "end",
    "unref": true
   },
@@ -1266,7 +1266,7 @@
   {
    "id": "scen041.0187",
    "jp": "・ブレスレットの部品を購入",
-   "en": "",
+   "en": "・Buy bracelet parts",
    "term": "end",
    "unref": true
   },
@@ -1340,55 +1340,55 @@
   {
    "id": "scen041.0197",
    "jp": "ブレスレットの部品ですね。{n}{FFEB}エルムになりますが？",
-   "en": "",
+   "en": "Bracelet parts, is it? That will be {FFEB} Elm.",
    "term": "end"
   },
   {
    "id": "scen041.0198",
    "jp": "　{n}　　　　　ブレスレット部品を購入した！",
-   "en": "",
+   "en": "　{n}　　　　　Bought the bracelet parts!",
    "term": "end"
   },
   {
    "id": "scen041.0199",
    "jp": "{v:003C}ありがとうございます。",
-   "en": "",
+   "en": "{v:003C}Thank you very much.",
    "term": "end"
   },
   {
    "id": "scen041.0200",
    "jp": "{v:0009}アンタ、そんな物買ってどうする気？{n}無駄遣いはダメだよ～？",
-   "en": "",
+   "en": "{v:0009}Hey, what're you gonna do with that? No wasting{n}money, got iiit?",
    "term": "end"
   },
   {
    "id": "scen041.0201",
    "jp": "{v:000A}あ！{n}ひょっとして、{s:000B}さんのブレスレットを{n}直す部品じゃない？",
-   "en": "",
+   "en": "{v:000A}Oh! Could those be parts to fix {s:000B}'s{n}bracelet?",
    "term": "end"
   },
   {
    "id": "scen041.0202",
    "jp": "{v:000B}あ～、この間言ってたやつだね！",
-   "en": "",
+   "en": "{v:000B}Ohhh, the one we talked about the other day!",
    "term": "end"
   },
   {
    "id": "scen041.0203",
    "jp": "{v:000C}ご両親の形見だって言ってたし、{n}無くしたら可哀想だもんね！{n}さすがお兄ちゃん！",
-   "en": "",
+   "en": "{v:000C}She said it was a keepsake from her parents. It'd be{n}so sad if she lost it! That's my Big Brother!",
    "term": "end"
   },
   {
    "id": "scen041.0204",
    "jp": "{v:0003}{s:000B}さんに会ったら、{n}部品の交換はわたしがやってあげるね！",
-   "en": "",
+   "en": "{v:0003}When we see {s:000B}, I'll swap the parts{n}for her!",
    "term": "end"
   },
   {
    "id": "scen041.0205",
    "jp": "{v:003A}申し訳ありませんが、{n}お代金が不足しているようです。",
-   "en": "",
+   "en": "{v:003A}I'm terribly sorry, but you don't seem to have{n}enough money.",
    "term": "end"
   },
   {
@@ -1727,19 +1727,19 @@
   {
    "id": "scen041.0253",
    "jp": "南へ行くときは気をつけた方がいいぜ。{n}毒を持った{s:00F5}が多いからな。",
-   "en": "",
+   "en": "Watch yourself if you're heading south. You'll run into{n}one venomous {s:00F5} after another{n}down there.",
    "term": "end"
   },
   {
    "id": "scen041.0254",
    "jp": "やあ、どうだい{s:0158}での評判は？",
-   "en": "",
+   "en": "Hey, how's your reputation in {s:0158}?",
    "term": "end"
   },
   {
    "id": "scen041.0255",
    "jp": "君、{s:0158}の人だったんだね？{n}試合を見せて貰ったよ。",
-   "en": "",
+   "en": "So you're from {s:0158}? I watched{n}your match.",
    "term": "end"
   },
   {
@@ -1877,7 +1877,7 @@
   {
    "id": "scen041.0274",
    "jp": "{v:003F}かなり昔のことだがな。{n}あの頃は両{s:012A}も右腕も自前だった。",
-   "en": "",
+   "en": "{v:003F}A long time ago. Back when both eyes and my right arm{n}were my own.",
    "term": "end"
   },
   {
@@ -1904,7 +1904,7 @@
   {
    "id": "scen041.0278",
    "jp": "{v:0043}{s:0160}王国や{s:0161}王国なんか{n}すぐに飛んできたが、性に合わなくてな。{n}結局、傭兵団にいた。",
-   "en": "",
+   "en": "{v:0043}{s:0160} and {s:0161} were{n}among the kingdoms that came running. Wasn't the life{n}for me.{p}Stayed with the mercenary company in the end.",
    "term": "end"
   },
   {
@@ -2064,7 +2064,7 @@
   {
    "id": "scen041.0301",
    "jp": "私、闘技大会の{s:0123}なんだ。{n}こう見えても、けっこう強いのよ。{p}驚いた？{n}‥‥ふふふ。",
-   "en": "",
+   "en": "I'm a tournament {s:0123}, you know. I may{n}not look it, but I'm quite strong.{p}Surprised? ...Hee hee.",
    "term": "end"
   },
   {
@@ -2168,7 +2168,7 @@
   {
    "id": "scen041.0316",
    "jp": "{v:0006}フレッシュマンの部の優勝賞品は、{n}温泉街への旅行チケットだ！{p}{v:0007}しかも場所は、{s:0160}王国の{n}{s:015C}。{p}{v:0008}夏は王侯貴族の避暑地として、{n}冬は身体を暖める温泉として、{n}一生に一度は行ってみたい、あこがれの街だ！{p}{v:0009}めったにないチャンスだから、{n}優勝狙って、がんばりな！",
-   "en": "",
+   "en": "{v:0006}The prize for winning the Freshman division is a travel{n}ticket to a hot spring town!{p}{v:0007}And that town is {s:015C}, in the Kingdom of{n}{s:0160}.{p}{v:0008}A summer retreat for royalty and nobles, with hot{n}springs to warm you in winter! It's the town everyone{n}dreams of visiting at least once!{p}{v:0009}Chances like this don't come often. Aim for the{n}championship and give it your best!",
    "term": "end"
   },
   {
@@ -2195,7 +2195,7 @@
   {
    "id": "scen041.0320",
    "jp": "{v:000D}おいおい、優勝すれば{n}{s:015C}へ行けるんだぞ？{n}こんなチャンスを放っておく手はないじゃないか。{p}{v:000E}この２人をフレッシュマンの部に登録してくれ。",
-   "en": "",
+   "en": "{v:000D}Now, hold on. Win this, and we get to go to{n}{s:015C}. We can't let a chance like that{n}slip by.{p}{v:000E}Sign these two up for the Freshman division.",
    "term": "end"
   },
   {
@@ -2208,7 +2208,7 @@
   {
    "id": "scen041.0322",
    "jp": "グランシルは都会じゃろ？{n}{s:0166}で１番、栄えてると思うんじゃが{n}どうかのう？{p}ず～っと昔、グランシルはこの辺りで栄えた{n}国家だったらしくてのう。{n}おそらくその名残じゃろう。",
-   "en": "",
+   "en": "Grancil's quite a city, eh? I'd say it's the most{n}prosperous in {s:0166}. What do you think?{p}Long, long ago, Grancil was apparently a thriving nation{n}hereabouts. I suppose what you see now is a remnant{n}of those days.",
    "term": "end"
   },
   {
@@ -2342,7 +2342,7 @@
   {
    "id": "scen041.0341",
    "jp": "{v:0029}お{s:003D}さんは何だって？",
-   "en": "",
+   "en": "{v:0029}What did the {s:003D} say?",
    "term": "end"
   },
   {
@@ -2446,19 +2446,19 @@
   {
    "id": "scen041.0356",
    "jp": "{v:0081}{s:0005}さん、いないね？{n}闘技大会は終わったのに‥‥。",
-   "en": "",
+   "en": "{v:0081}{s:0005} isn't here, is he? But the{n}tournament's over...",
    "term": "end"
   },
   {
    "id": "scen041.0357",
    "jp": "{v:0084}{s:0007}さんもいないよ！？",
-   "en": "",
+   "en": "{v:0084}{s:0007} isn't here either?!",
    "term": "end"
   },
   {
    "id": "scen041.0358",
    "jp": "{v:0082}いったい、どこへ行ったんだろう？",
-   "en": "",
+   "en": "{v:0082}Where could they have gone?",
    "term": "end"
   },
   {

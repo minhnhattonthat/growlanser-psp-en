@@ -228,7 +228,7 @@
   {
    "id": "boot.sys.0032",
    "jp": "しばらくお待ちください。",
-   "en": "",
+   "en": "Please wait.",
    "term": "null"
   },
   {
@@ -995,7 +995,7 @@
   {
    "id": "boot.sys.0146",
    "jp": "自分以外はオート",
-   "en": "",
+   "en": "Auto for All but Self",
    "term": "null"
   },
   {
@@ -1316,25 +1316,25 @@
   {
    "id": "boot.sys.0192",
    "jp": "ルイセの武器が大天使カードに成長した！",
-   "en": "",
+   "en": "Luise's weapon grew into the Archangel Card!",
    "term": "null"
   },
   {
    "id": "boot.sys.0193",
    "jp": "ルイセの武器がプリンセスカードに成長した！",
-   "en": "",
+   "en": "Luise's weapon grew into the Princess Card!",
    "term": "null"
   },
   {
    "id": "boot.sys.0194",
    "jp": "ウォレスの武器がメタルヴァジュラに成長した！",
-   "en": "",
+   "en": "Wallace's weapon grew into the Metal Vajra!",
    "term": "null"
   },
   {
    "id": "boot.sys.0195",
    "jp": "テスト４",
-   "en": "",
+   "en": "Test 4",
    "term": "null",
    "unref": true
   }

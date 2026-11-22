@@ -1112,7 +1112,7 @@
   {
    "id": "scen046.0155",
    "jp": "{v:0096}別にそれくらい、いいんじゃないのか？{p}{v:0097}見つかって、あとで酷い目に遭うのが{n}怖くなければ行ってこい。",
-   "en": "",
+   "en": "{v:0096}What's the harm in that?{p}{v:0097}Go on, then. If you're not afraid of getting caught and{n}paying for it later.",
    "term": "end"
   },
   {
@@ -1762,14 +1762,14 @@
   {
    "id": "scen046.0247",
    "jp": "・諦める",
-   "en": "",
+   "en": "・Give up",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen046.0248",
    "jp": "・諦めず、薬を取りに行く",
-   "en": "",
+   "en": "・Keep trying and fetch the medicine",
    "term": "end",
    "unref": true
   },
@@ -1798,7 +1798,7 @@
   {
    "id": "scen046.0252",
    "jp": "{v:0049}その通りだ。{n}何もせず、諦めるなんて出来ねぇからな。",
-   "en": "",
+   "en": "{v:0049}Exactly. Can't just sit around and give up.",
    "term": "end"
   },
   {

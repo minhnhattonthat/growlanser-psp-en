@@ -708,61 +708,61 @@
   {
    "id": "msys.items.0100",
    "jp": "{F4D2}{F4EA}{F4D1}{F4C2}媒体とし、周囲の{F44F}を集め{n}矢状に{F4CE}撃ち出す弓。",
-   "en": "",
+   "en": "A bow that uses the wielder's magic power as a medium{n}to gather the surrounding Grosh and fire it as arrows.",
    "term": "null"
   },
   {
    "id": "msys.items.0101",
    "jp": "強化{F47C}{F4D1}弓。撃ち出す{F4D1}矢には貫通{F4C2}増す{n}{F4D1}付与が施{F4D6}{F480}、厚い鎧をもやすやすと貫く{F4BA}{F43E}１０{F4E6}魔射程Ｄ",
-   "en": "",
+   "en": "An enhanced magic bow. Its arrows are enchanted to{n}pierce deeper, punching through even thick armor with{n}ease. Critical +10%; magic range D.",
    "term": "null"
   },
   {
    "id": "msys.items.0102",
    "jp": "処女神が{F4F1}たと言{F4F8}る狩猟弓{F4BA}聡明な乙女を加護{F4C2}{F4FF}。ホーリーライト{F4F6}可{F4BA}聖{F4DA}・{F43E}４{F4E6}{F481}＋５％",
-   "en": "",
+   "en": "A hunting bow said to have been used by the virgin{n}goddess. It protects wise maidens. Grants Holy Light.{n}Holy; Critical +4%; magic power +5%.",
    "term": "null"
   },
   {
    "id": "msys.items.0103",
    "jp": "東方の神皇帝が怪神を倒すのに使{F4CF}と言{F4F8}る弓{F4BA}撃ち出す矢は{F4D1}障壁をも貫く{F4BA}{F43E}１０{F4E6}{F481}＋５％",
-   "en": "",
+   "en": "A bow said to have slain a monstrous god in the hands{n}of the divine emperor of the East. Its arrows pierce{n}even magic barriers. Critical +10%; magic power +5%.",
    "term": "null"
   },
   {
    "id": "msys.items.0104",
    "jp": "護身用に{F4CE}は巨大すぎる鉄塊。先端部{F4C7}{n}発せ{F47F}強力な電撃を{F4D5}に浴びせ{F4CC}{n}雷{F4DA}・マヒ{F4C3}・{F4D5}に硬直＋２０ＣＴ",
-   "en": "",
+   "en": "An iron club far too big for self-defense. Its tip{n}unleashes powerful electric shocks. Lightning; paralysis{n}attack; target recovery +20 CT.",
    "term": "null"
   },
   {
    "id": "msys.items.0105",
    "jp": "護身用に{F4CE}は巨大すぎる放電鉄塊{F4BA}雷{F4DA}・サンダー{F4F6}可{n}マヒ{F4C3}・{F4C3}{F4D5}に硬直＋２０ＣＴ",
-   "en": "",
+   "en": "A shock-emitting iron club far too big for self-defense.{n}Lightning; grants Thunder; paralysis attack; target{n}recovery +20 CT.",
    "term": "null"
   },
   {
    "id": "msys.items.0106",
    "jp": "究極の護身用放電鉄塊{F4BA}雷{F4DA}・サンダー{F4F6}可・石化・マヒ{F4C3}{n}{F4C3}{F4D5}に硬直＋２０ＣＴ・{F43E}４％",
-   "en": "",
+   "en": "The ultimate shock-emitting iron club for self-defense.{n}Lightning; grants Thunder; petrify and paralysis attack;{n}target recovery +20 CT; Critical +4%.",
    "term": "null"
   },
   {
    "id": "msys.items.0107",
    "jp": "銀の浮き彫りが施{F47C}重槍{F4BA}徒歩で扱うには並外れた技量が要求{F486}{F4BA}{F43E}５％",
-   "en": "",
+   "en": "A heavy lance decorated with silver relief. Wielding it on{n}foot demands extraordinary skill. Critical +5%.",
    "term": "null"
   },
   {
    "id": "msys.items.0108",
    "jp": "希少な超硬度の鉱石を核に{F45F}重槍{F4BA}ミスリルの鎧をもやすやすと貫く{F4F5}が{F4C4}{F4BA}{F43E}５％",
-   "en": "",
+   "en": "A heavy spear built around a core of rare, ultra-hard{n}ore. It can pierce even mithril armor with ease. Critical{n}+5%.",
    "term": "null"
   },
   {
    "id": "msys.items.0109",
    "jp": "穂先{F4C7}血を滴らせた聖槍{F4BA}真実の探求者を導くと言{F4F8}{F45E}{n}聖{F4DA}・{F43E}７％",
-   "en": "",
+   "en": "A holy spear with blood dripping from its tip. It is said{n}to guide those who seek the truth. Holy; Critical +7%.",
    "term": "null"
   },
   {
@@ -1342,7 +1342,7 @@
   {
    "id": "msys.items.0192",
    "jp": "{F48A}帯び{F4E5}甘い香り{F49A}果実{F4BA}栽培が{F48E}難し{F4CD}め、珍重{F4D6}{F45E}{n}ＭＰ{F4F4}、１２～２１",
-   "en": "",
+   "en": "A sweet-smelling fruit imbued with magic. Highly prized{n}because it is extremely difficult to grow. Restores{n}12-21 MP.",
    "term": "null"
   },
   {
@@ -1928,73 +1928,73 @@
   {
    "id": "msys.items.0276",
    "jp": "ブレスレットの留め金{F4BA}これがあ{F485}壊れたブレスレットの修理が{F47A}。",
-   "en": "",
+   "en": "A bracelet clasp. With this, a broken bracelet can{n}be repaired.",
    "term": "null"
   },
   {
    "id": "msys.items.0277",
    "jp": "宝石の{F4C8}に見える{F4BE}{n}実は洞窟内の隠{F47C}場所に入る{F4C5}のカギ{F4BA}不思議な光を放{F4D4}い{F4CC}",
-   "en": "",
+   "en": "It looks like a gem, but it is actually a key to a hidden{n}place inside the cave. It gives off a strange light.",
    "term": "null"
   },
   {
    "id": "msys.items.0278",
    "jp": "{F467}{F48A}封じ込めてしまうパワー{F49A}鉱石{F4BA}洞窟の奥深くの、特殊な場所でしか採取{F46D}。",
-   "en": "",
+   "en": "Ore that gives off a power that seals away all magic. It{n}can only be mined in a special place deep inside{n}the cave.",
    "term": "null"
   },
   {
    "id": "msys.items.0279",
    "jp": "耐魔鉱石をあしら{F4CF}指輪{F4BA}{F459}{F4EA}{F48A}完全に封じてしまう{F4C0}強力な呪いの{F417}。",
-   "en": "",
+   "en": "A bracelet set with antimagic ore. A powerful cursed{n}item that completely seals away the wearer's magic.",
    "term": "null"
   },
   {
    "id": "msys.items.0280",
    "jp": "ゲヴェル波動を凝縮{F4BC}水晶がつい{F498}{F4C0}アメリア特{F4DB}指輪{F4BA}身につけてい{F485}ゲヴェル波動が絶えず流れ込む。",
-   "en": "",
+   "en": "A ring specially made by Amelia, set with a crystal of{n}condensed Gevel waves. While worn, Gevel waves flow{n}into the wearer without end.",
    "term": "null"
   },
   {
    "id": "msys.items.0281",
    "jp": "５人の妖精たち{F4C7}の、感謝の気持ち{F4FB}つづ{F4EC}{F498}手紙{F4BA}妖精たちと過ご{F4BC}、大切な思い出の証。",
-   "en": "",
+   "en": "A letter in which the five fairies express their{n}gratitude. A token of the precious memories you shared{n}with them.",
    "term": "null"
   },
   {
    "id": "msys.items.0282",
    "jp": "携帯用に改造{F47C}集魔柱{F4BA}地上に落ちてきたデュンケルスを集め{F4C0}近辺の集魔柱へと分散{F48B}。",
-   "en": "",
+   "en": "A mana collection pillar modified to be portable. It{n}gathers Dunkels that fall to the surface and disperses{n}them to nearby pillars.",
    "term": "null"
   },
   {
    "id": "msys.items.0283",
    "jp": "初期型{F4D7}更に改造を重ねた携帯集魔柱{F4BA}設置す{F485}どこでも蓄積{F47C}{n}デュンケルスの受信が可能{F4AE}。",
-   "en": "",
+   "en": "A portable mana collection pillar, modified further from{n}the first model. Once set up, it can receive stored{n}Dunkels anywhere.",
    "term": "null"
   },
   {
    "id": "msys.items.0284",
    "jp": "ヴァルミエの鉱山{F4C7}発掘{F47C}、錆び{F4D8}貴{F4E1}{F4BA}単品{F4F7}役に立たなそうだが‥‥。",
-   "en": "",
+   "en": "A rustproof precious metal dug from the Valmier mines.{n}It doesn't look useful on its own...",
    "term": "null"
   },
   {
    "id": "msys.items.0285",
    "jp": "ラージン砦の基礎に刺さ{F4D4}{F4CD}、鋭利な{F4E1}{F4BA}単品{F4F7}役に立たなそうだが‥‥。",
-   "en": "",
+   "en": "A sharp piece of metal that was stuck in the{n}foundation of Fort Rajin. It doesn't look useful on{n}its own...",
    "term": "null"
   },
   {
    "id": "msys.items.0286",
    "jp": "{F44E}の技術でも、傷つけ{F4EC}なか{F4CF}代物{F4BA}単品{F4F7}役に立たなそうだが‥‥。",
-   "en": "",
+   "en": "Something even Featherian technology couldn't scratch.{n}It doesn't look useful on its own...",
    "term": "null"
   },
   {
    "id": "msys.items.0287",
    "jp": "だみー{F417}０１",
-   "en": "",
+   "en": "Dummy Item 01",
    "term": "null"
   }
  ]

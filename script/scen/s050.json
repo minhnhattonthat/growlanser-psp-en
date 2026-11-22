@@ -457,7 +457,7 @@
   {
    "id": "scen050.0063",
    "jp": "{v:0029}この手形は、この街までのものだ。{n}ここより先へ通すわけにはいかん。",
-   "en": "",
+   "en": "{v:0029}This pass only permits you to travel as far as this{n}town. I can't let you go beyond it.",
    "term": "end"
   },
   {
@@ -470,7 +470,7 @@
   {
    "id": "scen050.0065",
    "jp": "{v:002A}何がしたいんだ？{n}用がないなら戻れ！",
-   "en": "",
+   "en": "{v:002A}What do you want? If you've no business here,{n}turn back!",
    "term": "end"
   },
   {

@@ -99,7 +99,7 @@
   {
    "id": "scen007.0013",
    "jp": "武器の選択は慎重にな。{n}攻撃の速さ、リーチ、威力‥‥。{n}これらを考えて、一番自分にあったものを選ぶんだ。",
-   "en": "",
+   "en": "Choose your weapon carefully. Attack speed, reach,{n}power... Take all of those into account and pick what{n}suits you best.",
    "term": "end"
   },
   {
@@ -535,7 +535,7 @@
   {
    "id": "scen007.0075",
    "jp": "{v:0008}本当にグレッグ卿がリシャール王に{n}斬りかかったのか？",
-   "en": "",
+   "en": "{v:0008}Did Lord Greg truly raise his sword against{n}King Richard?",
    "term": "end"
   },
   {

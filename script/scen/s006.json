@@ -113,7 +113,7 @@
   {
    "id": "scen006.0015",
    "jp": "武器の選択は慎重にな。{n}攻撃の速さ、リーチ、威力‥‥。{n}これらを考えて、一番自分にあったものを選ぶんだ。",
-   "en": "",
+   "en": "Choose your weapon carefully. Attack speed, reach,{n}power... Weigh them all and pick what suits you best.",
    "term": "end"
   },
   {
@@ -798,7 +798,7 @@
   {
    "id": "scen006.0113",
    "jp": "{v:000E}人を滅ぼし、グローシアンの力をもって{n}やっと倒されたとされる、あのゲヴェルか？",
-   "en": "",
+   "en": "{v:000E}The very Gevel said to have ravaged humanity, whom{n}even Growsian power could only just defeat?",
    "term": "end"
   },
   {
@@ -1198,7 +1198,7 @@
   {
    "id": "scen006.0169",
    "jp": "{v:0013}それについては私から説明しましょう。{p}{v:0014}あなた達の調査を聞いて、すぐに魔法学院へ連絡し、{n}調査団を送ってもらいました。{p}{v:0015}事態を重視したため、{n}調査隊には学院長、副学院長らが自ら参加しました。{p}{v:0016}ですが、調査隊が内部に進入したとたん崩落が起こり、{n}通路が完全に埋まってしまったのです。",
-   "en": "",
+   "en": "{v:0013}Allow me to explain.{p}{v:0014}Upon hearing your findings, I immediately contacted the{n}Magic Academy and had them send an{n}investigation team.{p}{v:0015}They took the matter so seriously that the{n}Headmaster and Vice Headmaster joined the team{n}in person.{p}{v:0016}However, the moment the team entered the mine, a{n}cave-in occurred, completely blocking the passage.",
    "term": "end"
   },
   {

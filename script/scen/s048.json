@@ -162,7 +162,7 @@
   {
    "id": "scen048.0022",
    "jp": "{v:0006}ここに来る途中に分かれ道があっただろ？{n}あそこを西に行くとブレーム火山があるんだが、{n}至る所からガスが噴き出していて危ないんだ。{p}{v:0007}お前たちも近づかないようにな。",
-   "en": "",
+   "en": "{v:0006}You passed a fork in the road on your way here, right?{n}The west road leads to Brehm Volcano, but gas comes{n}spewing out all over the place. It's dangerous.{p}{v:0007}You'd best stay away.",
    "term": "end"
   },
   {
@@ -238,13 +238,13 @@
   {
    "id": "scen048.0033",
    "jp": "‥‥はぁ。{n}寝ては夢、醒めてはうつつ‥‥。{p}調査団の中にいた、{n}あの学院長の秘書さん、綺麗だったなぁ‥‥。{p}おかげで仕事が手につかないよ‥‥。",
-   "en": "",
+   "en": "...*sigh* Asleep or awake, I can't stop thinking of her...{p}That secretary of the Headmaster's, the one with the{n}survey team... She was so beautiful...{p}I can't get any work done...",
    "term": "end"
   },
   {
    "id": "scen048.0034",
    "jp": "いやぁ、あんた達には本当に頭が上がらないなぁ。{p}あんた達を見ていると、諦めない気持ちってのが{n}大切に思えてくるよ。",
-   "en": "",
+   "en": "I really can't thank you enough.{p}Seeing you makes me realize how much it matters to{n}never give up.",
    "term": "end"
   },
   {

@@ -19,3 +19,41 @@ Minor reviewer findings, deferred to one polish pass (translation.md §Review). 
 - [ ] b016 scen092.0030 - 気になる = curious: "Big Brother, I'm curious about it too..."
 - [ ] b016 scen092.0083 - "you lot" off for Featherian: "In that respect, you don't make a fuss, which makes things easy."
 - [ ] b016 scen092.0016 - "Featherian-san" reads oddly (optional)
+- [ ] b009 scen040.0190 - "Wouldn't you?" misreads だってそうだろう ("Right?"); 一発 (one good punch) lost
+- [ ] b009 scen039.0240 - "Why, this is Melfie's" stagey: "What? ...Isn't this Melfie's...?"
+- [ ] b009 scen040.0194 - Karen "strongly opposed" stiff: "I fought him on it with everything I had"
+- [ ] b010 scen041.0073 - "Isn't denying them that racial discrimination?"
+- [ ] b010 scen041.0076 - Tippi "Yeah, totally!" too modern: "Yeah, you said it!"
+- [ ] b010 scen041.0019 - 子供会 sign: "--Grancil {s:00BD} Club--"
+- [ ] b011 scen041.0153 - "how many {s:00F5}" (singular Monster): "how many {s:00F5} fights I win"
+- [ ] b011 scen053.0078 - "foster parents" plural added: check scene, maybe singular
+- [ ] b011 scen049.0058 - JP ends doubtful "?": "...we haven't searched the mansion yet, have we?"
+- [ ] b012 scen060.0185 - "such a young Child" redundant: "still only a {s:00BD}, yet you defeated..."
+- [ ] b012 scen060.0229 - "rightful" added: "The one who rules you."
+- [ ] b012 scen061.0059 - 私め humble lost: "Please, leave this humble servant to it."
+- [ ] b012 scen060.0273 - {s:00EA} "my Subordinate" singular: check the drawn word
+- [ ] b001 boot.skills.0097/0098 - "Hit Stun" vs PS1 skill text "stagger": align
+- [ ] b002 scen001.0075 - "Ber......" = Berger half-said (correct); trim the six-dot run
+- [ ] b002 scen001.0100 - flustered denial weak: "I do NOT have no sense of direction."
+- [ ] b002 scen001.0091 - Tippi bland: "Hey! No lying to her, you dummy!"
+- [ ] b002 msys.items.0279 - JP says 指輪 (ring) for 腕輪 item; EN follows the item name (bracelet): confirm
+- [ ] b002 msys.items.0108 - 重槍 "heavy spear" vs 0107 "heavy lance": align
+- [ ] b003 scen002.0040 - "Welcome!" added: "Lady {s:014B}!"
+- [ ] b003 scen002.0158 - "I hear" shifts meaning: "Looks like you came to visit {s:0007}. Thanks for that."
+- [ ] b003 scen003.0227 - "gratefully" lost
+- [ ] b003 scen003.0232 - Tippi plain: "Well then, guess we should get going too, huh?"
+- [ ] b003 scen006.0113 - muddled clause: "The very Gevel said to have wiped out humanity...?"
+- [ ] b004 scen010.0093 - "Once I obtain Grosh, my former power will return."
+- [ ] b004 scen011.0061 - 時空分離計画: "space-time separation plan"
+- [ ] b004 scen011.0227 - stretched whine lost: "...end up all the way outsiiide?!"
+- [ ] b004 scen011.0226 - "Yeah, riiight...! *twitch, twitch, twitch*"
+- [ ] b005 scen011.0260 - 8 dots: "...{v:0036}Heh. Same as ever."
+- [ ] b005 scen011.0271 - Richard fluster lost: "I-idiot, stop with the stiff formalities..."
+- [ ] b005 scen011.0285 - choice そうだね = agree: "・You're right"
+- [ ] b005 scen018.0142 - 新肉城 debug label: "New Flesh Castle"
+- [ ] b006 scen018.0450 - V04 鬼の抜け跡 "shed skin" guess: "The demon's traces"
+- [ ] b007 scen028.0002/0003 - name tags: "Directionless Woman" / "Faceblind Woman" (144 px)
+- [ ] b007 scen028.0217 - Misha ガーン weak: "Gaaah..."
+- [ ] b007 scen025.0043 - Wallace unclear subject: "It may be sad, but right now I'm worried about Luise."
+- [ ] b008 scen032.0206 - jammer pun: "That thing's a real jammer on my research!"
+- [ ] b008 scen039.0153 - "next" added: "Then I'll write that in a letter..."

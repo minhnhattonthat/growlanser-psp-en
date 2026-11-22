@@ -317,7 +317,7 @@
   {
    "id": "scen056.0043",
    "jp": "ここから東に行った場所に、{n}ちょっと変わった建物の店があるんだよ。{p}で、そこで新しい商売を始めたという{n}噂を聞いたんだが‥‥。{n}{FFFB}なんちゃら喫茶‥‥だったかな？",
-   "en": "",
+   "en": "There's a shop in a rather odd-looking building east{n}of here.{p}And I heard a rumor they've started some new{n}business there... {FFFB}Something-or-other Café, was it?",
    "term": "end"
   },
   {
@@ -1092,7 +1092,7 @@
   {
    "id": "scen056.0152",
    "jp": "これから私たちが進む道は、{n}たいへん険しいものとなるでしょう。{p}ですがこのままでは、この世界は{n}ゲヴェルという化け物に支配されてしまいます。{p}逃げ出す方が楽かもしれませんが、{n}それでは何も変わりません。{n}だから決して、諦めてはいけませんよ。",
-   "en": "",
+   "en": "The road ahead of us will be a very difficult one.{p}But if we do nothing, this world will fall under the rule{n}of the monster called Gevel.{p}Running away may be easier, but it will change nothing.{n}That is why you must never give up.",
    "term": "end"
   },
   {

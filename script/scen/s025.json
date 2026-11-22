@@ -255,129 +255,129 @@
   {
    "id": "scen025.0035",
    "jp": "ねぇ、あの話聞いた？",
-   "en": "",
+   "en": "Hey, did you hear?",
    "term": "end"
   },
   {
    "id": "scen025.0036",
    "jp": "‥‥え、あの話って？",
-   "en": "",
+   "en": "...Huh? Hear what?",
    "term": "end"
   },
   {
    "id": "scen025.0037",
    "jp": "ほら、魔法学院に来てた{n}技術研究者のアメリアさんが、{n}なんかの事情で学院を去っちゃったって話！{p}ずいぶんと優秀な人だったから、{n}教授たちが惜しんで嘆いてたわ。",
-   "en": "",
+   "en": "You know, Amelia-san, that technical researcher who{n}came to the Magic Academy? She left for some reason!{p}She was really brilliant, so the professors are all{n}lamenting losing her.",
    "term": "end"
   },
   {
    "id": "scen025.0038",
    "jp": "えええっ！？{p}アメリアさんって、{n}いつも学院内を迷っていた人だろ！？{p}元学院長の秘書が居なくなってからは、{n}アメリアさんが心のオアシスだったのに！",
-   "en": "",
+   "en": "Whaaat?!{p}Amelia-san, the one who was always getting lost around{n}the Academy?!{p}After the former Headmaster's secretary vanished,{n}Amelia-san was the oasis of my heart!",
    "term": "end"
   },
   {
    "id": "scen025.0039",
    "jp": "もう、そういう問題じゃないでしょ‥‥。",
-   "en": "",
+   "en": "Geez, that's not the point...",
    "term": "end"
   },
   {
    "id": "scen025.0040",
    "jp": "そんな‥‥。{p}アメリアさん、アタシ達に何も言わずに{n}魔法学院から出ていっちゃったなんて‥‥。",
-   "en": "",
+   "en": "No way...{p}Amelia-san left the Magic Academy without saying a{n}word to us...?",
    "term": "end"
   },
   {
    "id": "scen025.0041",
    "jp": "‥‥アメリアって誰？{n}お兄ちゃんの知り合い？",
-   "en": "",
+   "en": "...Who's Amelia? Someone you know, Big Brother?",
    "term": "end"
   },
   {
    "id": "scen025.0042",
    "jp": "ルイセちゃん、{n}アメリアさんのことも忘れちゃってる‥‥。",
-   "en": "",
+   "en": "Luise-chan's forgotten Amelia-san too...",
    "term": "end"
   },
   {
    "id": "scen025.0043",
    "jp": "きっと、何か事情があってのことだろう。{p}寂しいかもしれんが、今はルイセのことが心配だ。{n}早く行こうぜ。",
-   "en": "",
+   "en": "She must've had her reasons.{p}Might be lonely, but right now I'm worried about Luise.{n}Let's get moving.",
    "term": "end"
   },
   {
    "id": "scen025.0044",
    "jp": "{v:0024}やあ、偶然だね、こんな所で。",
-   "en": "",
+   "en": "{v:0024}Well, hello. Fancy running into you here.",
    "term": "end"
   },
   {
    "id": "scen025.0045",
    "jp": "{v:0025}魔法学院に何かご用ですか？",
-   "en": "",
+   "en": "{v:0025}Do you have some business at the Magic Academy?",
    "term": "end"
   },
   {
    "id": "scen025.0046",
    "jp": "{v:0026}近くまで来たんで、{n}知り合いを訪ねてきただけさ。",
-   "en": "",
+   "en": "{v:0026}I was in the area, so I just dropped by to visit{n}an acquaintance.",
    "term": "end"
   },
   {
    "id": "scen025.0047",
    "jp": "{v:0027}ところでキミたちは？",
-   "en": "",
+   "en": "{v:0027}And what brings you all here?",
    "term": "end"
   },
   {
    "id": "scen025.0048",
    "jp": "・グローシアン失踪事件のことで",
-   "en": "",
+   "en": "・The Growsian disappearances",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen025.0049",
    "jp": "・バーンシュタインとの戦争のことで",
-   "en": "",
+   "en": "・The war with Burnstein",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen025.0050",
    "jp": "{FFF6}{v:0028}ああ、その噂は耳にするよ。",
-   "en": "",
+   "en": "{FFF6}{v:0028}Ah, I've heard the rumors about that.",
    "term": "end"
   },
   {
    "id": "scen025.0051",
    "jp": "{FFF6}{v:0029}戦争か‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0029}War, huh...",
    "term": "end"
   },
   {
    "id": "scen025.0052",
    "jp": "{FFF6}{v:002A}戦争にグローシアン失踪事件‥‥。{n}本当にこの世界は事件であふれているね。{p}{FFF7}{v:002B}どうして事件ばかりが起こるのだろう？{n}この世界が狂っているのか、この世界で暮らす人々が{n}狂っているのか、またはその両方か‥。",
-   "en": "",
+   "en": "{FFF6}{v:002A}A war, and Growsians disappearing... This world truly is{n}overflowing with trouble.{p}{FFF7}{v:002B}Why does nothing but trouble ever happen? Is this{n}world mad, or are the people living in it mad, or is{n}it both...?",
    "term": "end"
   },
   {
    "id": "scen025.0053",
    "jp": "{v:002D}ジャスティンさん‥‥？",
-   "en": "",
+   "en": "{v:002D}Justin-san...?",
    "term": "end"
   },
   {
    "id": "scen025.0054",
    "jp": "‥‥{FFF6}{v:002E}ああ、すまない‥‥。{n}ちょっと考え込んでしまったよ。",
-   "en": "",
+   "en": "...{FFF6}{v:002E}Ah, sorry... I got a little lost in thought.",
    "term": "end"
   },
   {
    "id": "scen025.0055",
    "jp": "さっきは、変なことを言ってしまって{n}すまなかったね。{p}最近、悲しい事件が多かったせいか{n}色々と思うことが多くて、つい‥‥。{p}{FC00}僕もちょっと、考えすぎてたかもしれない。{n}あまり気にしないでくれ。",
-   "en": "",
+   "en": "I'm sorry for saying such strange things earlier.{p}There have been so many sad incidents lately, I{n}suppose I've had a lot on my mind, and I just...{p}{FC00}Maybe I was overthinking things a bit. Please don't let{n}it bother you.",
    "term": "end"
   },
   {
@@ -432,13 +432,13 @@
   {
    "id": "scen025.0063",
    "jp": "秘書さんにアメリアさん‥‥。{n}{FFFB}ああ、美人ばかりが{n}この学院から消えていく～‥‥。",
-   "en": "",
+   "en": "The secretary, and now Amelia-san... {FFFB}Ahh, all the{n}beauties keep vanishing from this Academy...",
    "term": "end"
   },
   {
    "id": "scen025.0064",
    "jp": "女の子を前にして、その発言‥‥。{n}まったく失礼しちゃうわね！",
-   "en": "",
+   "en": "Saying that right in front of a girl... How rude can{n}you get?!",
    "term": "end"
   },
   {
@@ -605,7 +605,7 @@
   {
    "id": "scen025.0088",
    "jp": "{v:0040}そんな！？{n}僕が城を空けているうちに‥‥。",
-   "en": "",
+   "en": "{v:0040}What?! While I'm away from the castle...",
    "term": "end"
   },
   {

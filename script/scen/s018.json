@@ -125,21 +125,21 @@
   {
    "id": "scen018.0015",
    "jp": "・追加コマンドテスト",
-   "en": "",
+   "en": "・Extra command test",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0016",
    "jp": "・石原チェック用",
-   "en": "",
+   "en": "・For Ishihara check",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0017",
    "jp": "・ＳＥチェック",
-   "en": "",
+   "en": "・SE check",
    "term": "end",
    "unref": true
   },
@@ -160,7 +160,7 @@
   {
    "id": "scen018.0020",
    "jp": "・スタッフロール周りチェック",
-   "en": "",
+   "en": "・Staff roll check",
    "term": "end",
    "unref": true
   },
@@ -215,20 +215,20 @@
   {
    "id": "scen018.0027",
    "jp": "ビジュアルを見ますか？{n}それともスタッフロール？",
-   "en": "",
+   "en": "View the visuals? Or the staff roll?",
    "term": "end"
   },
   {
    "id": "scen018.0028",
    "jp": "・ＥＮＤ　ＦＩＮ",
-   "en": "",
+   "en": "・END FIN",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0029",
    "jp": "・スタッフロール",
-   "en": "",
+   "en": "・Staff roll",
    "term": "end",
    "unref": true
   },
@@ -1074,28 +1074,28 @@
   {
    "id": "scen018.0141",
    "jp": "・源流洞窟",
-   "en": "",
+   "en": "・Headwater Cave",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0142",
    "jp": "・新肉城",
-   "en": "",
+   "en": "・New Castle of Flesh",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0143",
    "jp": "・時空制御塔１",
-   "en": "",
+   "en": "・Space-Time Control Tower 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0144",
    "jp": "・時空制御塔２",
-   "en": "",
+   "en": "・Space-Time Control Tower 2",
    "term": "end",
    "unref": true
   },
@@ -1234,7 +1234,7 @@
   {
    "id": "scen018.0162",
    "jp": "・山頂",
-   "en": "",
+   "en": "・Mountain summit",
    "term": "end",
    "unref": true
   },
@@ -1249,97 +1249,97 @@
   {
    "id": "scen018.0164",
    "jp": "・新規分へ",
-   "en": "",
+   "en": "・To new additions",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0165",
    "jp": "追加戦闘を選ぶ",
-   "en": "",
+   "en": "Choose an extra battle",
    "term": "end"
   },
   {
    "id": "scen018.0166",
    "jp": "・メルフィブレスレット",
-   "en": "",
+   "en": "・Melfie's bracelet",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0167",
    "jp": "・ヴェンツェル確保",
-   "en": "",
+   "en": "・Capture Wenzel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0168",
    "jp": "・ラシェル闇落とし",
-   "en": "",
+   "en": "・Rachelle falls to darkness",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0169",
    "jp": "・アメリアキャラ戦闘",
-   "en": "",
+   "en": "・Amelia character battle",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0170",
    "jp": "・アメリアとの協同戦",
-   "en": "",
+   "en": "・Joint battle with Amelia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0171",
    "jp": "・時空制御塔ガーディアン",
-   "en": "",
+   "en": "・Space-Time Control Tower Guardian",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0172",
    "jp": "・ツインゲヴェル戦",
-   "en": "",
+   "en": "・Twin Gevel battle",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0173",
    "jp": "・ジャスティン戦",
-   "en": "",
+   "en": "・Justin battle",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0174",
    "jp": "・追加最終戦",
-   "en": "",
+   "en": "・Extra final battle",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0175",
    "jp": "・ヴァルミエ防衛戦",
-   "en": "",
+   "en": "・Defense of Valmier",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0176",
    "jp": "・ラージン防衛戦",
-   "en": "",
+   "en": "・Defense of Rajin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0177",
    "jp": "・フェザーランド防衛戦",
-   "en": "",
+   "en": "・Defense of Featherland",
    "term": "end",
    "unref": true
   },
@@ -1755,14 +1755,14 @@
   {
    "id": "scen018.0230",
    "jp": "・新顔",
-   "en": "",
+   "en": "・New faces",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0231",
    "jp": "・歴代妖精＋レティシア",
-   "en": "",
+   "en": "・Past fairies + Leticia",
    "term": "end",
    "unref": true
   },
@@ -1801,118 +1801,118 @@
   {
    "id": "scen018.0236",
    "jp": "・ビジュアルチェック",
-   "en": "",
+   "en": "・Visual check",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0237",
    "jp": "新顔の選択",
-   "en": "",
+   "en": "Select a new face",
    "term": "end"
   },
   {
    "id": "scen018.0238",
    "jp": "・闇主人公＆闇リシャール",
-   "en": "",
+   "en": "・Dark hero & Dark Richard",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0239",
    "jp": "・アメリア　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Amelia -- 0 & 1 (near death)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0240",
    "jp": "・アメリア　　－２",
-   "en": "",
+   "en": "・Amelia -- 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0241",
    "jp": "・アメリア闇　－３＆４",
-   "en": "",
+   "en": "・Dark Amelia -- 3 & 4",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0242",
    "jp": "・アメリア　　－５（胸に手）",
-   "en": "",
+   "en": "・Amelia -- 5 (hand on chest)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0243",
    "jp": "・アメリア　　－６（シャキーン）",
-   "en": "",
+   "en": "・Amelia -- 6 (shing!)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0244",
    "jp": "・メルフィ　　－０＆１の瀕死",
-   "en": "",
+   "en": "・Melfie -- 0 & 1 (near death)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0245",
    "jp": "・メルフィ　　－２（ブレスレット）",
-   "en": "",
+   "en": "・Melfie -- 2 (bracelet)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0246",
    "jp": "・メルフィ　　－３（横向き？）",
-   "en": "",
+   "en": "・Melfie -- 3 (side view?)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0247",
    "jp": "・メルフィ　　－４",
-   "en": "",
+   "en": "・Melfie -- 4",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0248",
    "jp": "・メルフィ　　－５",
-   "en": "",
+   "en": "・Melfie -- 5",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0249",
    "jp": "・ジャスティン－０＆１の瀕死",
-   "en": "",
+   "en": "・Justin -- 0 & 1 (near death)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0250",
    "jp": "・ジャスティン－２＆３の瀕死",
-   "en": "",
+   "en": "・Justin -- 2 & 3 (near death)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0251",
    "jp": "・ジャスティン－４（善人）",
-   "en": "",
+   "en": "・Justin -- 4 (good guy)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0252",
    "jp": "・ジャスティン－５＆６（超悪人）",
-   "en": "",
+   "en": "・Justin -- 5 & 6 (super villain)",
    "term": "end",
    "unref": true
   },
@@ -1940,7 +1940,7 @@
   {
    "id": "scen018.0256",
    "jp": "瀕死－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
+   "en": "Near death -- animated{p}{FB00}...{FFFA}",
    "term": "end"
   },
   {
@@ -1953,7 +1953,7 @@
   {
    "id": "scen018.0258",
    "jp": "悲しい－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
+   "en": "Sad -- animated{p}{FB00}...{FFFA}",
    "term": "end"
   },
   {
@@ -1980,7 +1980,7 @@
   {
    "id": "scen018.0262",
    "jp": "特殊３－アニメあり{p}{FB00}‥{FFFA}",
-   "en": "",
+   "en": "Special 3 -- animated{p}{FB00}...{FFFA}",
    "term": "end"
   },
   {
@@ -2014,184 +2014,184 @@
   {
    "id": "scen018.0267",
    "jp": "特殊２",
-   "en": "",
+   "en": "Special 2",
    "term": "end"
   },
   {
    "id": "scen018.0268",
    "jp": "特殊３",
-   "en": "",
+   "en": "Special 3",
    "term": "end"
   },
   {
    "id": "scen018.0269",
    "jp": "瀕死（腕輪有り）",
-   "en": "",
+   "en": "Near death (with bracelet)",
    "term": "end"
   },
   {
    "id": "scen018.0270",
    "jp": "悲しい（腕輪無し瀕死）",
-   "en": "",
+   "en": "Sad (near death, no bracelet)",
    "term": "end"
   },
   {
    "id": "scen018.0271",
    "jp": "歴代妖精＋レティシアの選択",
-   "en": "",
+   "en": "Select past fairy + Leticia",
    "term": "end"
   },
   {
    "id": "scen018.0272",
    "jp": "・ラミィ",
-   "en": "",
+   "en": "・Lamie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0273",
    "jp": "・コリン",
-   "en": "",
+   "en": "・Colin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0274",
    "jp": "・ユリィ",
-   "en": "",
+   "en": "・Yurie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0275",
    "jp": "・ＴＰ",
-   "en": "",
+   "en": "・TP",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0276",
    "jp": "・ＬＮ",
-   "en": "",
+   "en": "・LN",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0277",
    "jp": "・レティシア",
-   "en": "",
+   "en": "・Leticia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0278",
    "jp": "ラミィ",
-   "en": "",
+   "en": "Lamie",
    "term": "end"
   },
   {
    "id": "scen018.0279",
    "jp": "・ラミィ０",
-   "en": "",
+   "en": "・Lamie 0",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0280",
    "jp": "・ラミィ１",
-   "en": "",
+   "en": "・Lamie 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0281",
    "jp": "特殊１（ニコ）",
-   "en": "",
+   "en": "Special 1 (smile)",
    "term": "end"
   },
   {
    "id": "scen018.0282",
    "jp": "コリン",
-   "en": "",
+   "en": "Colin",
    "term": "end"
   },
   {
    "id": "scen018.0283",
    "jp": "・コリン０",
-   "en": "",
+   "en": "・Colin 0",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0284",
    "jp": "・コリン１",
-   "en": "",
+   "en": "・Colin 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0285",
    "jp": "特殊２（驚き）",
-   "en": "",
+   "en": "Special 2 (surprised)",
    "term": "end"
   },
   {
    "id": "scen018.0286",
    "jp": "ユリィ",
-   "en": "",
+   "en": "Yurie",
    "term": "end"
   },
   {
    "id": "scen018.0287",
    "jp": "・ユリィ０",
-   "en": "",
+   "en": "・Yurie 0",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0288",
    "jp": "・ユリィ１",
-   "en": "",
+   "en": "・Yurie 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0289",
    "jp": "ＴＰ",
-   "en": "",
+   "en": "TP",
    "term": "end"
   },
   {
    "id": "scen018.0290",
    "jp": "・ＴＰ０",
-   "en": "",
+   "en": "・TP 0",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0291",
    "jp": "・ＴＰ１",
-   "en": "",
+   "en": "・TP 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0292",
    "jp": "ＬＮ",
-   "en": "",
+   "en": "LN",
    "term": "end"
   },
   {
    "id": "scen018.0293",
    "jp": "・ＬＮ０",
-   "en": "",
+   "en": "・LN 0",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0294",
    "jp": "・ＬＮ１",
-   "en": "",
+   "en": "・LN 1",
    "term": "end",
    "unref": true
   },
@@ -2205,7 +2205,7 @@
   {
    "id": "scen018.0296",
    "jp": "・主人公　　－０＆１の瀕死＆２",
-   "en": "",
+   "en": "・Hero -- 0 & 1 (near death) & 2",
    "term": "end",
    "unref": true
   },
@@ -3292,62 +3292,62 @@
   {
    "id": "scen018.0446",
    "jp": "どのビジュアルを見ますか？",
-   "en": "",
+   "en": "Which visual will you view?",
    "term": "end"
   },
   {
    "id": "scen018.0447",
    "jp": "・Ｖ０１：目覚ましシーン",
-   "en": "",
+   "en": "・V01: Wake-up scene",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0448",
    "jp": "・Ｖ０２：魔法学院紹介",
-   "en": "",
+   "en": "・V02: Magic Academy introduction",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0449",
    "jp": "・Ｖ０３：尻餅ミーシャ",
-   "en": "",
+   "en": "・V03: Misha falls on her bottom",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0450",
    "jp": "・Ｖ０４：鬼の抜け跡",
-   "en": "",
+   "en": "・V04: The demon's shed skin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0451",
    "jp": "・Ｖ０５：橋の向こうのジュリアン",
-   "en": "",
+   "en": "・V05: Julian across the bridge",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0452",
    "jp": "・Ｖ０８：ミーシャを慰めるルイセ",
-   "en": "",
+   "en": "・V08: Luise comforts Misha",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0453",
    "jp": "・Ｖ３４：ＥＢ０１、カレンとゼノス",
-   "en": "",
+   "en": "・V34: EB01, Karen and Xenos",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0454",
    "jp": "・Ｖ１０：牢屋のカレン",
-   "en": "",
+   "en": "・V10: Karen in the cell",
    "term": "end",
    "unref": true
   },
@@ -3362,62 +3362,62 @@
   {
    "id": "scen018.0456",
    "jp": "どのビジュアルを見ますか？",
-   "en": "",
+   "en": "Which visual will you view?",
    "term": "end"
   },
   {
    "id": "scen018.0457",
    "jp": "・Ｖ３２：ペンダントに落ちる涙",
-   "en": "",
+   "en": "・V32: Tear falling on the pendant",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0458",
    "jp": "・Ｖ１３：復活ルイセ",
-   "en": "",
+   "en": "・V13: Luise revived",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0459",
    "jp": "・Ｖ１５：落ち込みルイセ",
-   "en": "",
+   "en": "・V15: Luise depressed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0460",
    "jp": "・Ｖ１７：告白ルイセ",
-   "en": "",
+   "en": "・V17: Luise's confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0461",
    "jp": "・Ｖ１８：編み物ミーシャ",
-   "en": "",
+   "en": "・V18: Misha knitting",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0462",
    "jp": "・Ｖ１９：ミーシャ号泣",
-   "en": "",
+   "en": "・V19: Misha sobbing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0463",
    "jp": "・Ｖ２０：告白ミーシャ",
-   "en": "",
+   "en": "・V20: Misha's confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0464",
    "jp": "・Ｖ２１：カレン告白",
-   "en": "",
+   "en": "・V21: Karen's confession",
    "term": "end",
    "unref": true
   },
@@ -3432,62 +3432,62 @@
   {
    "id": "scen018.0466",
    "jp": "どのビジュアルを見ますか？",
-   "en": "",
+   "en": "Which visual will you view?",
    "term": "end"
   },
   {
    "id": "scen018.0467",
    "jp": "・Ｖ２２：抱き留められるカレン",
-   "en": "",
+   "en": "・V22: Karen caught in an embrace",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0468",
    "jp": "・Ｖ２３：カレン・ラブラブ",
-   "en": "",
+   "en": "・V23: Karen lovey-dovey",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0469",
    "jp": "・Ｖ２４：告白ジュリアン",
-   "en": "",
+   "en": "・V24: Julian's confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0470",
    "jp": "・Ｖ３３：ドレス姿ジュリアン",
-   "en": "",
+   "en": "・V33: Julian in a dress",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0471",
    "jp": "・Ｖ２６：告白ティピ",
-   "en": "",
+   "en": "・V26: Tippi's confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0472",
    "jp": "・Ｖ４１：アイキャッチ・ジュリアン",
-   "en": "",
+   "en": "・V41: Eyecatch - Julian",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0473",
    "jp": "・Ｖ４２：アイキャッチ・ティピ",
-   "en": "",
+   "en": "・V42: Eyecatch - Tippi",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0474",
    "jp": "・Ｖ４３：アイキャッチ・ルイセ１",
-   "en": "",
+   "en": "・V43: Eyecatch - Luise 1",
    "term": "end",
    "unref": true
   },
@@ -3502,62 +3502,62 @@
   {
    "id": "scen018.0476",
    "jp": "どのビジュアルを見ますか？",
-   "en": "",
+   "en": "Which visual will you view?",
    "term": "end"
   },
   {
    "id": "scen018.0477",
    "jp": "・Ｖ４４：アイキャッチ・ルイセ２",
-   "en": "",
+   "en": "・V44: Eyecatch - Luise 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0478",
    "jp": "・Ｖ４５：アイキャッチ・エリオット",
-   "en": "",
+   "en": "・V45: Eyecatch - Elliot",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0479",
    "jp": "・Ｖ４６：アイキャッチ・ジュリアン２",
-   "en": "",
+   "en": "・V46: Eyecatch - Julian 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0480",
    "jp": "・Ｖ４７：アイキャッチ・カレン",
-   "en": "",
+   "en": "・V47: Eyecatch - Karen",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0481",
    "jp": "・Ｖ４８：アイキャッチ・主人公",
-   "en": "",
+   "en": "・V48: Eyecatch - Hero",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0482",
    "jp": "・Ｂ６＿１：フェザーランド落下",
-   "en": "",
+   "en": "・B6_1: Featherland falls",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0483",
    "jp": "・Ｂ１＿２：ティピ日記",
-   "en": "",
+   "en": "・B1_2: Tippi's diary",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0484",
    "jp": "・Ｂ９＿０：時空制御塔１",
-   "en": "",
+   "en": "・B9_0: Space-Time Control Tower 1",
    "term": "end",
    "unref": true
   },
@@ -3572,62 +3572,62 @@
   {
    "id": "scen018.0486",
    "jp": "どのビジュアルを見ますか？",
-   "en": "",
+   "en": "Which visual will you view?",
    "term": "end"
   },
   {
    "id": "scen018.0487",
    "jp": "・Ｖ５０？：時空制御塔２",
-   "en": "",
+   "en": "・V50?: Space-Time Control Tower 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0488",
    "jp": "・Ｖ５１？：時空制御塔３",
-   "en": "",
+   "en": "・V51?: Space-Time Control Tower 3",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0489",
    "jp": "・Ｂ１＿１：ルイセイメージ",
-   "en": "",
+   "en": "・B1_1: Luise image",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0490",
    "jp": "・Ｂ５＿１：キャンプファイアー",
-   "en": "",
+   "en": "・B5_1: Campfire",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0491",
    "jp": "・Ｂ４＿１：温泉",
-   "en": "",
+   "en": "・B4_1: Hot spring",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0492",
    "jp": "・Ｂ３＿１：温泉の穴",
-   "en": "",
+   "en": "・B3_1: Hole at the hot spring",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0493",
    "jp": "・Ｂ１＿２：ティピ日記",
-   "en": "",
+   "en": "・B1_2: Tippi's diary",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0494",
    "jp": "・Ｂ１＿３：空",
-   "en": "",
+   "en": "・B1_3: Sky",
    "term": "end",
    "unref": true
   },
@@ -3642,222 +3642,222 @@
   {
    "id": "scen018.0496",
    "jp": "どのビジュアルを見ますか？",
-   "en": "",
+   "en": "Which visual will you view?",
    "term": "end"
   },
   {
    "id": "scen018.0497",
    "jp": "・Ｂ８＿１：ステータス画面",
-   "en": "",
+   "en": "・B8_1: Status screen",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0498",
    "jp": "・Ｂ７＿１：レストラン高級",
-   "en": "",
+   "en": "・B7_1: Restaurant, upscale",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0499",
    "jp": "・Ｂ７＿２：レストランカフェ",
-   "en": "",
+   "en": "・B7_2: Restaurant, cafe",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0500",
    "jp": "・Ｂ７＿３：レストラン和風",
-   "en": "",
+   "en": "・B7_3: Restaurant, Japanese-style",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0501",
    "jp": "・Ｂ７＿４：劇場　演奏会",
-   "en": "",
+   "en": "・B7_4: Theater, concert",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0502",
    "jp": "・Ｂ７＿５：劇場　オペラ",
-   "en": "",
+   "en": "・B7_5: Theater, opera",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0503",
    "jp": "・Ｂ７＿６：博物館　絵画展",
-   "en": "",
+   "en": "・B7_6: Museum, painting exhibition",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0504",
    "jp": "・Ｂ７＿７：博物館　オブジェ",
-   "en": "",
+   "en": "・B7_7: Museum, sculptures",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0505",
    "jp": "・Ｂ７＿８：ボート",
-   "en": "",
+   "en": "・B7_8: Boat",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0506",
    "jp": "・Ｂ７＿９：エリオット用演奏会",
-   "en": "",
+   "en": "・B7_9: Concert for Elliot",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0507",
    "jp": "・Ｅ００：エピローグ用空",
-   "en": "",
+   "en": "・E00: Sky for the epilogue",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0508",
    "jp": "・ＥＮＤ：Ｆｉｎ",
-   "en": "",
+   "en": "・END: Fin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0509",
    "jp": "・Ｖ０６：ＢＣ密談",
-   "en": "",
+   "en": "・V06: BC secret talk",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0510",
    "jp": "・Ｂ２＿１：警戒区域",
-   "en": "",
+   "en": "・B2_1: Restricted area",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0511",
    "jp": "・その他　新規分",
-   "en": "",
+   "en": "・Others, new additions",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0512",
    "jp": "どのビジュアルを見ますか？",
-   "en": "",
+   "en": "Which visual will you view?",
    "term": "end"
   },
   {
    "id": "scen018.0513",
    "jp": "・Ｖ５０：メルフィ登場シーン",
-   "en": "",
+   "en": "・V50: Melfie's entrance scene",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0514",
    "jp": "・Ｖ５１：アメリア登場シーン",
-   "en": "",
+   "en": "・V51: Amelia's entrance scene",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0515",
    "jp": "・Ｖ５２：アメリア告白シーン",
-   "en": "",
+   "en": "・V52: Amelia's confession scene",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0516",
    "jp": "・Ｖ５３：リシャール友情シーン",
-   "en": "",
+   "en": "・V53: Richard friendship scene",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0517",
    "jp": "・Ｖ５４：ラストシーン１",
-   "en": "",
+   "en": "・V54: Last scene 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0518",
    "jp": "・Ｖ５５：ラストシーン２",
-   "en": "",
+   "en": "・V55: Last scene 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0519",
    "jp": "・Ｖ５６：ラストシーン３",
-   "en": "",
+   "en": "・V56: Last scene 3",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0520",
    "jp": "・Ｖ５７：ラストシーン４",
-   "en": "",
+   "en": "・V57: Last scene 4",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0521",
    "jp": "・Ｖ５８：闇落としシーン",
-   "en": "",
+   "en": "・V58: Fall-to-darkness scene",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0522",
    "jp": "・Ｖ５９：アメリア妄想シーン",
-   "en": "",
+   "en": "・V59: Amelia daydream scene",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0523",
    "jp": "・Ｖ６０：メルフィ告白シーン",
-   "en": "",
+   "en": "・V60: Melfie's confession scene",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0524",
    "jp": "・Ｖ２＿２：追加　魔法学院紹介",
-   "en": "",
+   "en": "・V2_2: Extra Magic Academy introduction",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0525",
    "jp": "・Ｖ１７＿２：追加　告白ルイセ",
-   "en": "",
+   "en": "・V17_2: Extra Luise's confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0526",
    "jp": "・Ｖ２０＿２：追加告白ミーシャ",
-   "en": "",
+   "en": "・V20_2: Extra Misha's confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen018.0527",
    "jp": "・最初に戻る",
-   "en": "",
+   "en": "・Back to the start",
    "term": "end",
    "unref": true
   },

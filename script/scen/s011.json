@@ -78,19 +78,19 @@
   {
    "id": "scen011.0010",
    "jp": "リシャールのこと",
-   "en": "",
+   "en": "About Richard",
    "term": "null"
   },
   {
    "id": "scen011.0011",
    "jp": "アメリアのこと",
-   "en": "",
+   "en": "About Amelia",
    "term": "null"
   },
   {
    "id": "scen011.0012",
    "jp": "メルフィのこと",
-   "en": "",
+   "en": "About Melfie",
    "term": "null"
   },
   {
@@ -117,7 +117,7 @@
   {
    "id": "scen011.0016",
    "jp": "{v:0003}そなたらからは、いろいろと教えられた。{p}{v:0004}最後まで諦めない心、勇気。{n}そして何より、我々に人間との共存という機会を{n}与えてくれた。{p}{v:0005}我も礼を言わせてもらおう。{n}本当にありがとう。",
-   "en": "",
+   "en": "{v:0003}You have taught us much.{p}{v:0004}The will to persevere to the very end. Courage. Above{n}all, you have given us the chance to live{n}alongside humanity.{p}{v:0005}Allow us to offer our gratitude as well. You have our{n}heartfelt thanks.",
    "term": "end"
   },
   {
@@ -151,7 +151,7 @@
   {
    "id": "scen011.0021",
    "jp": "　{n}　　　　　　パワーストーンを渡した！",
-   "en": "",
+   "en": "　{n}　　　　　　Handed over the Power Stone!",
    "term": "end"
   },
   {
@@ -430,153 +430,153 @@
   {
    "id": "scen011.0061",
    "jp": "{v:0000}ただいま戻りました。{n}ジャスティンの企む時空分離計画は完全に失敗し、{n}現在は時空の歪みも消失しました。",
-   "en": "",
+   "en": "{v:0000}We have returned. Justin's scheme to separate{n}space-time has failed completely, and the distortion in{n}space-time has now vanished.",
    "term": "end"
   },
   {
    "id": "scen011.0062",
    "jp": "{v:0001}どう、お兄ちゃん？{n}リシャールさん？",
-   "en": "",
+   "en": "{v:0001}How do you feel, Big Brother? Richard-san?",
    "term": "end"
   },
   {
    "id": "scen011.0063",
    "jp": "{v:0002}顔色がいいみたい！{p}{v:0003}やったぁ★{n}もう、大丈夫なんだね！{p}{v:0004}やった、やったぁ★",
-   "en": "",
+   "en": "{v:0002}Your color looks better!{p}{v:0003}Yaaay! You're going to be all right now!{p}{v:0004}We did it! We did it!",
    "term": "end"
   },
   {
    "id": "scen011.0064",
    "jp": "{v:001D}あの戦いから、{n}もうひと月ぐらいたつんだ‥‥‥‥。{n}時間がたつのって早いね‥‥‥‥。{p}{v:001E}こうやってると、あの時の騒ぎが嘘みたいに{n}思えてくるもん‥‥‥‥。{p}{v:001F}ホンの数ヶ月前まではバーンシュタイン王国と{n}戦争して、ゲヴェルやジャスティンなんかと戦って{n}いたのがまるで夢みたい‥‥‥‥。{p}{v:0020}でも、夢じゃないんだよね。{n}戦争を終わらせて、ゲヴェルやジャスティンを{n}倒したんだもの。",
-   "en": "",
+   "en": "{v:001D}It's already been about a month since that battle...{n}Time sure flies...{p}{v:001E}Sitting here like this, it's hard to believe all that{n}trouble ever happened...{p}{v:001F}Just a few months ago, we were at war with the{n}Kingdom of Burnstein, fighting Gevel and Justin and all...{n}It all feels like a dream...{p}{v:0020}But it wasn't a dream, was it? We ended the war and{n}defeated Gevel and Justin.",
    "term": "end"
   },
   {
    "id": "scen011.0065",
    "jp": "{v:0021}これでもう、しばらく戦争なんかは起こらないよね？",
-   "en": "",
+   "en": "{v:0021}There won't be any more wars for a while now, right?",
    "term": "end"
   },
   {
    "id": "scen011.0066",
    "jp": "・そうだな",
-   "en": "",
+   "en": "・I think you're right",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0067",
    "jp": "・どうかな？",
-   "en": "",
+   "en": "・Who knows?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0068",
    "jp": "{v:0022}ホント、もうあんなのはコリゴリよ。",
-   "en": "",
+   "en": "{v:0022}Honestly, I've had enough of all that to last a lifetime.",
    "term": "end"
   },
   {
    "id": "scen011.0069",
    "jp": "{v:0023}アタシ、もうあんなのコリゴリだからね！{p}{FC04}{v:0024}ま、そん時には、アタシ達が何とかしちゃうけどさ！",
-   "en": "",
+   "en": "{v:0023}I've had enough of that stuff, too!{p}{FC04}{v:0024}Well, if it happens again, we'll just have to sort it out!",
    "term": "end"
   },
   {
    "id": "scen011.0070",
    "jp": "{v:0005}時空分離を防いでから、{n}もう、数ヶ月が過ぎました。{p}{v:0006}今では混乱も収まって、街のみんなも、{n}元のような暮らしにもどることが出来ました。{p}{v:0007}また、各国の親睦も深まり、{n}戦争の心配がなくなったので、{n}人々の生活に、活気が出てきました。{p}{v:0008}いっしょに戦ったみんなも{n}元気でやってるみたいです。",
-   "en": "",
+   "en": "{v:0005}It's been several months now since we stopped{n}space-time from separating.{p}{v:0006}Things have finally settled down, and everyone in town{n}has been able to get back to their old lives.{p}{v:0007}The countries are getting along better, too. Now that{n}there's no fear of war, everyone's lives are full of{n}energy again.{p}{v:0008}Everyone who fought alongside us seems to be doing{n}well, too.",
    "term": "end"
   },
   {
    "id": "scen011.0071",
    "jp": "{v:0009}ルイセちゃんは、マスターの助手として{n}王宮に仕えることになりました。{p}{v:000A}やっぱりルイセちゃんのグローシュパワーは{n}みんなより強いみたいで、マスターを越える{n}すごい魔術師になるって、期待されてます。",
-   "en": "",
+   "en": "{v:0009}Luise-chan is going to serve at the royal palace as{n}Master's assistant.{p}{v:000A}Her Grosh power really does seem stronger than{n}everyone else's. They expect her to become an{n}amazing mage who'll even surpass Master!",
    "term": "end"
   },
   {
    "id": "scen011.0072",
    "jp": "{v:000B}ウォレスさんは、{n}ローランディア軍に将軍として招かれました。{p}{v:000C}戦争しないのに、何で軍隊がいるんだろう？{n}って思ったら、王国周辺の治安維持が仕事みたいです。",
-   "en": "",
+   "en": "{v:000B}Wallace-san was invited to join Rolandia's army as{n}a general.{p}{v:000C}I wondered why we'd need an army when we're not{n}fighting any wars. Turns out their job is to keep the{n}peace around the kingdom.",
    "term": "end"
   },
   {
    "id": "scen011.0073",
    "jp": "{v:000D}エリオットは、王様に向いていたみたいで{n}貴族や国民に、すごく評価されてます。{n}見た目は、あんなに頼りないのにフシギです。",
-   "en": "",
+   "en": "{v:000D}Elliot seems to have a knack for being king. The nobles{n}and his people think very highly of him. Funny,{n}considering how helpless he looks.",
    "term": "end"
   },
   {
    "id": "scen011.0074",
    "jp": "{v:000E}ミーシャはあいかわらず、のんびりしてます。{n}いつまで、魔法学院の生徒を{n}やってるつもりなんだろう‥‥‥‥。",
-   "en": "",
+   "en": "{v:000E}Misha's still taking things easy, as usual. Just how long{n}does she plan to stay a student at the{n}Magic Academy...?",
    "term": "end"
   },
   {
    "id": "scen011.0075",
    "jp": "{v:000F}そう言えば、{n}来月、アリオストさんと結婚するみたいです。{n}２人とも、幸せになってね★",
-   "en": "",
+   "en": "{v:000F}Oh, right! Apparently, she's marrying Ariost-san next{n}month. Wishing you both every happiness!",
    "term": "end"
   },
   {
    "id": "scen011.0076",
    "jp": "{v:0010}アリオストさんは、また変な機械を作ってます。{n}こんどのは、長いあいだ、{n}水にもぐれる機械だそうです。{p}{v:0011}それと、フェザリアンと友好関係がむすべたおかげで、{n}お母さんといっしょに暮らせるように{n}なったみたいです。",
-   "en": "",
+   "en": "{v:0010}Ariost-san is building another weird machine. This one's{n}supposed to let you stay underwater for a long time.{p}{v:0011}And now that we've made friends with the{n}Featherians, it looks like he can live with his{n}mother, too.",
    "term": "end"
   },
   {
    "id": "scen011.0077",
    "jp": "{v:0012}ジュリアンは、女性初の{n}インペリアル・ナイトとしてがんばってるみたいです。{n}これからは女性の時代だと思いました。",
-   "en": "",
+   "en": "{v:0012}Julian seems to be working hard as the first woman to{n}become an Imperial Knight. I think the future belongs to{n}us girls!",
    "term": "end"
   },
   {
    "id": "scen011.0078",
    "jp": "{v:0013}あと、最近、ずいぶん女っぽくなってきて{n}きれいになりました。{n}やっぱり、恋は人を変えるんだなー‥‥‥‥。",
-   "en": "",
+   "en": "{v:0013}She's also become much more feminine lately, and{n}prettier, too. Love really does change people, huh...?",
    "term": "end"
   },
   {
    "id": "scen011.0079",
    "jp": "{v:0014}ジュリアンは、インペリアル・ナイツの一員として、{n}今日もバーンシュタインのためにがんばっている{n}みたいです。",
-   "en": "",
+   "en": "{v:0014}Julian seems to be working hard for Burnstein today,{n}too, as one of the Imperial Knights.",
    "term": "end"
   },
   {
    "id": "scen011.0080",
    "jp": "{v:0015}ゼノスは、身体を治して{n}今では闘技場で拳闘士をやっています。{n}がんばってチャンピオンをめざしてね★",
-   "en": "",
+   "en": "{v:0015}Xenos got his body healed, and now he's working as a{n}boxer at the arena. Keep at it, and go for{n}the championship!",
    "term": "end"
   },
   {
    "id": "scen011.0081",
    "jp": "{v:0016}カレンさんは、小さな病院を開きました。{n}多くの貧しい人たちにも、ちゃんとした手当を{n}してあげるのが、目的だそうです。",
-   "en": "",
+   "en": "{v:0016}Karen-san has opened a little hospital. She says she{n}wants to make sure plenty of poor people can get{n}proper care, too.",
    "term": "end"
   },
   {
    "id": "scen011.0082",
    "jp": "{v:0017}リシャールはインペリアル・ナイトマスターとして、{n}バーンシュタインのために働いています。{n}時々エリオットの相談役にもなってるそうです。",
-   "en": "",
+   "en": "{v:0017}Richard is working for Burnstein as Imperial Knight{n}Master. I hear he sometimes acts as Elliot's{n}advisor, too.",
    "term": "end"
   },
   {
    "id": "scen011.0083",
    "jp": "{v:0019}アメリアさんは、魔法学院で研究を続けています。{n}なんでも研究室をもらえることになったそうで、{n}張りきって研究しているようです。",
-   "en": "",
+   "en": "{v:0019}Amelia-san is continuing her research at the Magic{n}Academy. Apparently she's getting her own laboratory,{n}so she's throwing herself into her work.",
    "term": "end"
   },
   {
    "id": "scen011.0084",
    "jp": "{v:0018}メルフィさんは、他のフェザリアンと協力して{n}地上で暮らすためにいろいろと頑張っているそうです。{n}もうだいぶ、人間嫌いは直ったみたい。",
-   "en": "",
+   "en": "{v:0018}Melfie-san is working hard with the other Featherians{n}on all sorts of things so they can live on the surface.{n}Looks like she's mostly gotten over hating humans.",
    "term": "end"
   },
   {
    "id": "scen011.0085",
    "jp": "{v:001A}これで、今日の日記を終わります。{p}{v:001B}みんなといっしょに冒険できて、{n}とっても嬉しかったです。{n}アタシを作ってくれたマスターに感謝★{p}{v:001C}ホムンクルスのじゅみょうは短いけど、{n}最後の最後まで、{n}アイツといっしょに冒険しようと思います。",
-   "en": "",
+   "en": "{v:001A}That's all for today's diary entry.{p}{v:001B}I'm so happy I got to go on adventures with{n}everyone. Thanks for making me, Master!{p}{v:001C}A homunculus doesn't live very long, but I'm going to{n}keep adventuring with that guy until the very,{n}very end.",
    "term": "end"
   },
   {
@@ -1070,7 +1070,7 @@
   {
    "id": "scen011.0154",
    "jp": "{v:00EF}実はカレンも年頃でな‥‥。{n}どっかにいい相手がいないかと探してるんだが‥‥。{p}{v:00F0}お前にその気があるなら、{n}カレンとの仲を俺が取りなしてやるぞ？{p}{v:00F1}お前だったら俺も安心してカレンを任せられる。",
-   "en": "",
+   "en": "{v:00EF}See, Karen's old enough to marry now... I've been{n}looking for a good man for her...{p}{v:00F0}If you're interested, I could help get things going{n}between you and Karen.{p}{v:00F1}If it's you, I can trust you to take care of Karen.",
    "term": "end"
   },
   {
@@ -1083,7 +1083,7 @@
   {
    "id": "scen011.0156",
    "jp": "{v:00F5}ま、カレンとの事は考えておいてくれ。{n}お前の決心がついたら、{n}カレンには俺から話しておくからよ。{p}{v:00F6}何かあったら、いつでも俺を訪ねてきてくれ。{n}必ずお前を守ってやるからよ。",
-   "en": "",
+   "en": "{v:00F5}Anyway, think about it. About Karen, I mean. Once you've{n}made up your mind, I'll talk to her.{p}{v:00F6}If anything happens, come see me. Anytime. I'll keep you{n}safe, you can count on that.",
    "term": "end"
   },
   {
@@ -1473,232 +1473,232 @@
   {
    "id": "scen011.0210",
    "jp": "‥‥{v:0000}う～ん、アメリアさん遅いねぇ‥‥。{n}自分で呼びだしておいて、どうしちゃったんだろ？",
-   "en": "",
+   "en": "...{v:0000}Hmmm, Amelia-san sure is late... She's the one who{n}called us out here. What happened to her?",
    "term": "end"
   },
   {
    "id": "scen011.0211",
    "jp": "{FB00}{v:0001}まさか、また学院の中で迷ってたりして！",
-   "en": "",
+   "en": "{FB00}{v:0001}Don't tell me she's gotten lost inside the{n}Academy again!",
    "term": "end"
   },
   {
    "id": "scen011.0212",
    "jp": "・それはないだろう",
-   "en": "",
+   "en": "・I doubt it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0213",
    "jp": "・そうかも",
-   "en": "",
+   "en": "・Could be",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0214",
    "jp": "{v:001C}あはははっ、そうだよね！{n}あれからけっこう経ってるんだしね！",
-   "en": "",
+   "en": "{v:001C}Ahahaha, you're right! It's been a good while since{n}then, after all!",
    "term": "end"
   },
   {
    "id": "scen011.0215",
    "jp": "{FB00}{v:0002}うっ‥‥。{n}アタシから言っといて何だけど、{n}そうだったらヤバイって‥‥。",
-   "en": "",
+   "en": "{FB00}{v:0002}Ugh... I'm the one who said it, but if that's true, we're{n}in trouble...",
    "term": "end"
   },
   {
    "id": "scen011.0216",
    "jp": "{v:0003}だけど、本当にどうしちゃったんだろ‥‥。",
-   "en": "",
+   "en": "{v:0003}But seriously, what happened to her...?",
    "term": "end"
   },
   {
    "id": "scen011.0217",
    "jp": "{v:0004}あっ、来たみたい！",
-   "en": "",
+   "en": "{v:0004}Oh, looks like she's here!",
    "term": "end"
   },
   {
    "id": "scen011.0218",
    "jp": "{v:0005}や～、どうも、どうも！{n}お待たせ～！",
-   "en": "",
+   "en": "{v:0005}Heyyy, sorry, sorry! Thanks for waitiiing!",
    "term": "end"
   },
   {
    "id": "scen011.0219",
    "jp": "{v:0006}あれ？{n}外から帰ってきたの？",
-   "en": "",
+   "en": "{v:0006}Huh? Did you just come in from outside?",
    "term": "end"
   },
   {
    "id": "scen011.0220",
    "jp": "{v:0007}えっ、いや‥‥その‥‥。{n}ほら、ここってフクザツじゃない？{n}{FB00}気を抜くといつの間にか外に出てるのよね‥‥。{FFFA}",
-   "en": "",
+   "en": "{v:0007}Wh-what? No... um... This place is really complicated, isn't{n}it?{FB00} If I let my guard down, I end up outside before I{n}know it...{FFFA}",
    "term": "end"
   },
   {
    "id": "scen011.0221",
    "jp": "{FB00}‥‥{v:0008}えーーと‥‥、こう言うとき、{n}どういう顔をして良いかわからないわ‥‥。",
-   "en": "",
+   "en": "{FB00}...{v:0008}Ummm... I don't know what face I should make at a time{n}like this...",
    "term": "end"
   },
   {
    "id": "scen011.0222",
    "jp": "・笑えばいいよ",
-   "en": "",
+   "en": "・Just smile",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0223",
    "jp": "・怒ればいいよ",
-   "en": "",
+   "en": "・Just get angry",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0224",
    "jp": "・泣けばいいよ",
-   "en": "",
+   "en": "・Just cry",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0225",
    "jp": "{v:0009}あっはっはっはっはっ！",
-   "en": "",
+   "en": "{v:0009}Ahahahahaha!",
    "term": "end"
   },
   {
    "id": "scen011.0226",
    "jp": "{v:000A}そぉねぇ～‥‥！{n}ピキピキピキ‥‥。",
-   "en": "",
+   "en": "{v:000A}Oh, is thaaat so...! *twitch, twitch, twitch*",
    "term": "end"
   },
   {
    "id": "scen011.0227",
    "jp": "{v:000B}どうしてここで迷ったら{n}外まで行っちゃうのよ～！",
-   "en": "",
+   "en": "{v:000B}How do I get lost in here and end up all the{n}way outside?!",
    "term": "end"
   },
   {
    "id": "scen011.0228",
    "jp": "{FFF6}{v:000C}べ、別にいいでしょ！{n}もう、私が方向音痴だって事は、{n}自分でもよく分かったわよ！",
-   "en": "",
+   "en": "{FFF6}{v:000C}W-well, so what?! Fine, I've figured out for myself that{n}I have no sense of direction!",
    "term": "end"
   },
   {
    "id": "scen011.0229",
    "jp": "{v:000D}それより、今日はどうしたの？",
-   "en": "",
+   "en": "{v:000D}Anyway, what did you call us here for today?",
    "term": "end"
   },
   {
    "id": "scen011.0230",
    "jp": "{v:000E}実はね、とうとう私も{n}ここに研究室を持たせてもらえたのよ！",
-   "en": "",
+   "en": "{v:000E}Well, guess what? They've finally given me a research{n}lab of my own here!",
    "term": "end"
   },
   {
    "id": "scen011.0231",
    "jp": "・おめでとう",
-   "en": "",
+   "en": "・Congratulations",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0232",
    "jp": "・すごい！",
-   "en": "",
+   "en": "・That's amazing!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0233",
    "jp": "{FFF6}{v:000F}えへへ、どうも、どうも‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:000F}Ehehe, thanks, thanks...",
    "term": "end"
   },
   {
    "id": "scen011.0234",
    "jp": "{v:0010}何の研究だっけ？",
-   "en": "",
+   "en": "{v:0010}What was your research again?",
    "term": "end"
   },
   {
    "id": "scen011.0235",
    "jp": "{v:0011}時空干渉能力に頼らず、{n}デュンケルスを無害化する方法の探求。{p}{v:0012}正直、難しいから、私が生きている間に{n}発見できるかどうか怪しいけどね。{n}でも諦めないで、探してみるわ。",
-   "en": "",
+   "en": "{v:0011}Finding a way to render the Dunkels harmless without{n}relying on space-time interference powers.{p}{v:0012}Honestly, it's so hard I'm not sure I'll discover it in my{n}lifetime. But I won't give up. I'll keep looking.",
    "term": "end"
   },
   {
    "id": "scen011.0236",
    "jp": "{v:0013}この世界で生きる人にとって、{n}時空分離は死活問題だからね。",
-   "en": "",
+   "en": "{v:0013}For the people living in this world, space-time separation{n}is a matter of life and death, after all.",
    "term": "end"
   },
   {
    "id": "scen011.0237",
    "jp": "・そうだな",
-   "en": "",
+   "en": "・That's true",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0238",
    "jp": "・発見の目処は？",
-   "en": "",
+   "en": "・Any idea when you'll find it?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0239",
    "jp": "{v:0014}それに私も、この世界で{n}生きる者の１人になったわけだしね！",
-   "en": "",
+   "en": "{v:0014}Besides, I'm one of the people living in this world{n}now, too!",
    "term": "end"
   },
   {
    "id": "scen011.0240",
    "jp": "{v:0015}ねぇねぇ、その研究って成功の目処はあるの？",
-   "en": "",
+   "en": "{v:0015}Hey, hey, does that research of yours have any real{n}chance of working?",
    "term": "end"
   },
   {
    "id": "scen011.0241",
    "jp": "{FFF6}{v:0016}一応、グローシュとグローシアンが{n}そのカギだと思うわ。{p}{FFF7}{v:0017}あなたも見たでしょ？{n}ルイセちゃんとメルフィが{n}デュンケルスを消したのを。",
-   "en": "",
+   "en": "{FFF6}{v:0016}Well, I think Grosh and Growsians are the key.{p}{FFF7}{v:0017}You saw it too, didn't you? Luise-chan and Melfie making{n}the Dunkels vanish.",
    "term": "end"
   },
   {
    "id": "scen011.0242",
    "jp": "{v:001D}だから不可能ではないと思う。{p}{v:0018}あの２人が起こした奇跡を、{n}奇跡のままにしないこと。{n}それが私の使命だと思うの。",
-   "en": "",
+   "en": "{v:001D}So I don't think it's impossible.{p}{v:0018}The miracle those two worked... I won't let it stay just{n}a miracle. I think that's my mission.",
    "term": "end"
   },
   {
    "id": "scen011.0243",
    "jp": "{v:0019}こんな風に自分の使命だって思えたのも、{n}キミがいたからよ。{n}だから、真っ先にキミに報告したかったんだ。",
-   "en": "",
+   "en": "{v:0019}And it's thanks to you that I could see it as my{n}mission. That's why I wanted you to be the first{n}to hear.",
    "term": "end"
   },
   {
    "id": "scen011.0244",
    "jp": "{v:001A}研究はまだ始まったばかり‥‥、{n}つまずくこともあると思う‥‥。",
-   "en": "",
+   "en": "{v:001A}The research has only just begun... I'm sure I'll stumble{n}along the way...",
    "term": "end"
   },
   {
    "id": "scen011.0245",
    "jp": "{v:001E}だけど、キミがそばにいてくれたら‥‥、{n}きっと乗り越えられるから‥‥。",
-   "en": "",
+   "en": "{v:001E}But if you're by my side... I know I can get through it...",
    "term": "end"
   },
   {
    "id": "scen011.0246",
    "jp": "{FFF6}{v:001B}だから‥‥これからもよろしくね！",
-   "en": "",
+   "en": "{FFF6}{v:001B}So... I'm counting on you from here on, too!",
    "term": "end"
   },
   {
@@ -1711,67 +1711,67 @@
   {
    "id": "scen011.0248",
    "jp": "{v:0000}あれれ？{n}インペリアル・ナイトが３人そろってどこへお出かけ？",
-   "en": "",
+   "en": "{v:0000}Huh? Where are all three Imperial Knights off{n}to together?",
    "term": "end"
   },
   {
    "id": "scen011.0249",
    "jp": "{v:0001}何か、緊急事態でも起こったんですか？",
-   "en": "",
+   "en": "{v:0001}Has some kind of emergency come up?",
    "term": "end"
   },
   {
    "id": "scen011.0250",
    "jp": "{v:0002}その通りだ。{n}一刻の猶予もならぬ事態だ。",
-   "en": "",
+   "en": "{v:0002}Precisely. It is a matter that permits not a{n}moment's delay.",
    "term": "end"
   },
   {
    "id": "scen011.0251",
    "jp": "{v:0003}えぇっ！　一体どうしちゃったの？{n}最近はバーンシュタインに{n}変な噂なんて聞かないのに‥‥。",
-   "en": "",
+   "en": "{v:0003}Whaaat?! What on earth happened? We haven't heard{n}any weird rumors about Burnstein lately...",
    "term": "end"
   },
   {
    "id": "scen011.0252",
    "jp": "{v:0004}ひょっとして、{n}今日呼ばれたのはそのことですか？",
-   "en": "",
+   "en": "{v:0004}Could that be why you called us here today?",
    "term": "end"
   },
   {
    "id": "scen011.0253",
    "jp": "{v:0005}そ、それは‥‥。{n}つまりだな‥‥その‥‥。",
-   "en": "",
+   "en": "{v:0005}W-well, that is... What I mean to say is... er...",
    "term": "end"
   },
   {
    "id": "scen011.0254",
    "jp": "{v:00BB}リシャール様のことは、気にしないでくれ。",
-   "en": "",
+   "en": "{v:00BB}Pay Lord Richard no mind.",
    "term": "end"
   },
   {
    "id": "scen011.0255",
    "jp": "{v:0006}もう、いったい何なのよ！",
-   "en": "",
+   "en": "{v:0006}Geez, what is going on?!",
    "term": "end"
   },
   {
    "id": "scen011.0256",
    "jp": "{v:0007}その‥‥今日は新たな茶葉が入荷してだな‥‥。",
-   "en": "",
+   "en": "{v:0007}Well... a new shipment of tea leaves arrived today,{n}you see...",
    "term": "end"
   },
   {
    "id": "scen011.0257",
    "jp": "{v:0008}えっ？{n}茶葉って‥‥お茶の？",
-   "en": "",
+   "en": "{v:0008}Huh? Tea leaves... as in, for tea?",
    "term": "end"
   },
   {
    "id": "scen011.0258",
    "jp": "{v:0009}アーネスト、オスカー！{n}先に行って、準備をしておけ！",
-   "en": "",
+   "en": "{v:0009}Ernest, Oscar! Go on ahead and make{n}the preparations!",
    "term": "end"
   },
   {
@@ -1784,20 +1784,20 @@
   {
    "id": "scen011.0260",
    "jp": "‥‥‥‥{v:0036}くすっ。{n}相変わらずだ。",
-   "en": "",
+   "en": "........{v:0036}Heh. Same as ever.",
    "term": "end"
   },
   {
    "id": "scen011.0261",
    "jp": "・また会おう",
-   "en": "",
+   "en": "・See you again",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0262",
    "jp": "・２人とも大変だな",
-   "en": "",
+   "en": "・You two have it rough",
    "term": "end",
    "unref": true
   },
@@ -1818,75 +1818,75 @@
   {
    "id": "scen011.0265",
    "jp": "{v:000A}今日はお茶会だったんですね‥‥。",
-   "en": "",
+   "en": "{v:000A}So today was a tea party...",
    "term": "end"
   },
   {
    "id": "scen011.0266",
    "jp": "{v:000B}だからアタシたちを呼んでくれたんだ！",
-   "en": "",
+   "en": "{v:000B}So that's why you invited us!",
    "term": "end"
   },
   {
    "id": "scen011.0267",
    "jp": "{v:000C}ま、まぁな‥‥。{p}{FFF6}{v:000D}あの戦いの後、互いに色々な雑務で{n}ゆっくりと話す暇などなかったからな。",
-   "en": "",
+   "en": "{v:000C}W-well, yes...{p}{FFF6}{v:000D}After that battle, we were each buried in duties and{n}never had the time to sit down and talk.",
    "term": "end"
   },
   {
    "id": "scen011.0268",
    "jp": "{v:000E}ローランディアとバーンシュタインの平和のために、{n}こういう催しもよかろう。{n}これも、外交の一つだ。",
-   "en": "",
+   "en": "{v:000E}For the sake of peace between Rolandia and{n}Burnstein, an occasion such as this is fitting. This, too,{n}is a form of diplomacy.",
    "term": "end"
   },
   {
    "id": "scen011.0269",
    "jp": "・お招きに預かり光栄です",
-   "en": "",
+   "en": "・I'm honored by your invitation",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0270",
    "jp": "・呼べばいつでも来る",
-   "en": "",
+   "en": "・Call me anytime and I'll come",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0271",
    "jp": "{v:000F}ば、バカ、そう言う堅苦しいのはやめてくれ。{n}お前とは親友だと思っているんだからな。",
-   "en": "",
+   "en": "{v:000F}D-don't be absurd. Spare me the formalities. I consider{n}you my best friend, after all.",
    "term": "end"
   },
   {
    "id": "scen011.0272",
    "jp": "{FFF6}{v:0010}お前はそう言うだろうがな、私はそうもいかんのだ。{n}それに、親友をもてなすなら、{n}手を抜きたくないからな。",
-   "en": "",
+   "en": "{FFF6}{v:0010}You may say so, but I cannot be so casual. Besides,{n}when I entertain my best friend, I refuse to{n}cut corners.",
    "term": "end"
   },
   {
    "id": "scen011.0273",
    "jp": "{v:0011}とにかく、お茶会、お茶会！{n}早く行こうよ～！",
-   "en": "",
+   "en": "{v:0011}Anyway, tea party, tea party! Let's hurry up and gooo!",
    "term": "end"
   },
   {
    "id": "scen011.0274",
    "jp": "{v:0012}もう、ティピったら‥‥。",
-   "en": "",
+   "en": "{v:0012}Oh, Tippi...",
    "term": "end"
   },
   {
    "id": "scen011.0275",
    "jp": "{v:0013}今日はたくさん話そう。{n}こちらのことも話したいしお前の近況も聞きたいしな。{n}さあ、行こう！こっちだ！",
-   "en": "",
+   "en": "{v:0013}Let us talk at length today. I have much to tell you,{n}and I want to hear how you have been. Now, come!{n}This way!",
    "term": "end"
   },
   {
    "id": "scen011.0276",
    "jp": "{v:0000}お久しぶり。{n}色々と忙しいようね。",
-   "en": "",
+   "en": "{v:0000}Long time no see. You seem to have been quite busy.",
    "term": "end"
   },
   {
@@ -1900,118 +1900,118 @@
   {
    "id": "scen011.0278",
    "jp": "・メルフィの方こそ",
-   "en": "",
+   "en": "・You're one to talk, Melfie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0279",
    "jp": "{v:0001}別に怒っているわけじゃないわ。{n}私もけっこう自由な時間がないからね。",
-   "en": "",
+   "en": "{v:0001}I'm not angry or anything. I don't have much free{n}time myself.",
    "term": "end"
   },
   {
    "id": "scen011.0280",
    "jp": "{FFF6}{v:0002}そうだね。{n}私も自由な時間がないから、おあいこだね。",
-   "en": "",
+   "en": "{FFF6}{v:0002}That's true. I don't have much free time either, so{n}we're even.",
    "term": "end"
   },
   {
    "id": "scen011.0281",
    "jp": "{v:0003}あなたと出会ったばかりの頃は、{n}この世界の誰もが嫌いだった。{n}人間も、フェザリアンも、もちろんグローシアンも。",
-   "en": "",
+   "en": "{v:0003}When I first met you, I hated everyone in this world.{n}Humans, Featherians, and of course, Growsians.",
    "term": "end"
   },
   {
    "id": "scen011.0282",
    "jp": "{v:0004}だって私がこの世界に来たときは、{n}その３者がいがみ合っていたんだもの。{p}{FFF6}{v:0005}私たちはこっちの世界の人々を故郷に{n}連れ帰るために来たのに、こっちの世界の{n}人たちは互いに殺し合っていたんだから‥‥。",
-   "en": "",
+   "en": "{v:0004}After all, when I came to this world, those three were{n}at each other's throats.{p}{FFF6}{v:0005}We came to bring the people of this world back to our{n}homeland, and yet the people here were killing{n}one another...",
    "term": "end"
   },
   {
    "id": "scen011.0283",
    "jp": "{v:0006}だけど、時は流れ、{n}今こうして平和な時代になった。{p}‥‥{FC06}{v:0007}私も変わらねばならなかったのに、{n}あの頃の気持ちを引きずっていたわ‥‥。",
-   "en": "",
+   "en": "{v:0006}But time has passed, and now we live in an age{n}of peace.{p}...{FC06}{v:0007}I should have changed too, but I kept clinging to how{n}I felt back then...",
    "term": "end"
   },
   {
    "id": "scen011.0284",
    "jp": "{v:0008}だけど、あなたやルイセに出会って、{n}自分の間違いに気づけた。",
-   "en": "",
+   "en": "{v:0008}But meeting you and Luise made me realize{n}my mistake.",
    "term": "end"
   },
   {
    "id": "scen011.0285",
    "jp": "・そうだね",
-   "en": "",
+   "en": "・I see",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0286",
    "jp": "・それはメルフィの力だ",
-   "en": "",
+   "en": "・That was your own strength, Melfie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen011.0287",
    "jp": "{FFF6}{v:0009}本当にありがとう。",
-   "en": "",
+   "en": "{FFF6}{v:0009}Thank you, truly.",
    "term": "end"
   },
   {
    "id": "scen011.0288",
    "jp": "{v:000A}そうかな‥‥。{n}そうだったら、うれしい‥‥。",
-   "en": "",
+   "en": "{v:000A}You think so...? If that's true, I'm glad...",
    "term": "end"
   },
   {
    "id": "scen011.0289",
    "jp": "{FFF6}{v:000B}アメリアがよく言っていたわ。{n}私たちは過去の亡霊なんだ、って。{p}{v:000C}過去の亡霊が未来の可能性を{n}潰してはいけないって‥‥。{p}{FFF7}{v:000D}本当だわ。{n}私はもう少しで取り返しのつかないことを{n}してしまうところだった。",
-   "en": "",
+   "en": "{FFF6}{v:000B}Amelia used to say it all the time. That we are ghosts{n}of the past.{p}{v:000C}And that ghosts of the past must not crush the{n}possibilities of the future...{p}{FFF7}{v:000D}She was right. I very nearly did something that could{n}never be undone.",
    "term": "end"
   },
   {
    "id": "scen011.0290",
    "jp": "{v:000E}これからはこっちの世界の人たちのために生きるわ。{n}過去の亡霊ではなく、この世界で生きる１人となるわ。",
-   "en": "",
+   "en": "{v:000E}From now on, I will live for the people of this world. Not{n}as a ghost of the past, but as one of those who live{n}in this world.",
    "term": "end"
   },
   {
    "id": "scen011.0291",
    "jp": "{FFF6}{v:000F}みんなと共に、１歩ずつ歩いていくわ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:000F}Together with everyone, I'll walk forward, one step at{n}a time...",
    "term": "end"
   },
   {
    "id": "scen011.0292",
    "jp": "{v:0010}だけど、１つだけお願いがあるの‥‥。",
-   "en": "",
+   "en": "{v:0010}But I have just one request...",
    "term": "end"
   },
   {
    "id": "scen011.0293",
    "jp": "{v:0011}私はフェザリアン。{n}地上を歩くのは慣れていないわ。{n}{FC04}だから‥‥手をつないでほしいの‥‥。",
-   "en": "",
+   "en": "{v:0011}I'm a Featherian. I'm not used to walking on the ground.{n}{FC04}So... I'd like you to hold my hand...",
    "term": "end"
   },
   {
    "id": "scen011.0294",
    "jp": "{v:0012}ありがとう‥‥。{n}{FFF6}暖かくて、大きな手ね‥‥。",
-   "en": "",
+   "en": "{v:0012}Thank you... {FFF6}What a warm, big hand...",
    "term": "end"
   },
   {
    "id": "scen011.0295",
    "jp": "‥‥{v:0013}行ってきます。{n}お父さん、お母さん‥‥。",
-   "en": "",
+   "en": "...{v:0013}I'm off now. Father, Mother...",
    "term": "end"
   },
   {
    "id": "scen011.0296",
    "jp": "{v:0014}さあ、一緒に行きましょう。{n}あなたの歩む先が、私の向かう先だから。",
-   "en": "",
+   "en": "{v:0014}Now, let's go together. Wherever you walk is where{n}I'm headed.",
    "term": "end"
   }
  ]

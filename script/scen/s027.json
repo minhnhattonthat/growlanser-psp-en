@@ -930,7 +930,7 @@
   {
    "id": "scen027.0126",
    "jp": "{v:00B6}彼女はわたしの友達で‥‥。",
-   "en": "",
+   "en": "{v:00B6}She's a friend of mine, and...",
    "term": "end"
   },
   {
@@ -2166,7 +2166,7 @@
   {
    "id": "scen027.0297",
    "jp": "{v:00D2}これはね、時空の歪みを{n}測定するための装置だよ。{p}{v:00D3}エレベーターの上にあるセンサーが捉えた歪みを{n}ここで記録しているんだ。",
-   "en": "",
+   "en": "{v:00D2}This is a device for measuring distortions{n}in space-time.{p}{v:00D3}It records the distortions detected by the sensor{n}above the elevator.",
    "term": "end"
   },
   {

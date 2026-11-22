@@ -200,13 +200,13 @@
   {
    "id": "scen060.0027",
    "jp": "{v:0011}その声、{s:0157}か？",
-   "en": "",
+   "en": "{v:0011}That voice... {s:0157}?",
    "term": "end"
   },
   {
    "id": "scen060.0028",
    "jp": "{v:0012}ああ。{n}{s:0161}王国を代表して、私が招かれたんだ。{p}{v:0013}しかし、驚いたな。{n}お前たちが{s:0119}を倒すとは。",
-   "en": "",
+   "en": "{v:0012}Yes. I was invited to represent the Kingdom of{n}{s:0161}.{p}{v:0013}Still, I was astonished to hear that you defeated{n}{s:0119}.",
    "term": "end"
   },
   {
@@ -240,31 +240,31 @@
   {
    "id": "scen060.0033",
    "jp": "{v:0000}{s:0004}王。{n}{s:0161}には声をかけなかったんですか？",
-   "en": "",
+   "en": "{v:0000}King {s:0004}, didn't you send word to{n}{s:0161}?",
    "term": "end"
   },
   {
    "id": "scen060.0034",
    "jp": "{v:0001}そんなことはありません。{n}ですが、何やら急な用事が出来たとかで‥‥。",
-   "en": "",
+   "en": "{v:0001}Of course we did. But it seems something urgent{n}came up...",
    "term": "end"
   },
   {
    "id": "scen060.0035",
    "jp": "{v:0002}そうですか‥‥。",
-   "en": "",
+   "en": "{v:0002}I see...",
    "term": "end"
   },
   {
    "id": "scen060.0036",
    "jp": "{v:0003}とりあえず、今日は楽しんでいってください。",
-   "en": "",
+   "en": "{v:0003}In any case, please enjoy yourselves today.",
    "term": "end"
   },
   {
    "id": "scen060.0037",
    "jp": "{v:001B}僕が案内しますよ。",
-   "en": "",
+   "en": "{v:001B}I'll show you around.",
    "term": "end"
   },
   {
@@ -319,13 +319,13 @@
   {
    "id": "scen060.0045",
    "jp": "{v:0020}ご来場のみなさま。{n}ご歓談中、申し訳ありません。{p}{v:0021}人々の生活を脅かした{n}異形{s:0119}の脅威が去ったことを祝し、{n}ささやかながら宴をとりおこないたいと思います。{p}{v:0022}まずは{s:0160}国王、{s:0004}陛下より、{n}開会のご挨拶をたまわりたいと思います。",
-   "en": "",
+   "en": "{v:0020}Distinguished guests, please forgive this interruption{n}to your conversations.{p}{v:0021}We would like to hold this modest celebration to mark{n}the end of the threat posed by the monstrous{n}{s:0119}, who endangered so many lives.{p}{v:0022}First, His Majesty {s:0004}, King of{n}{s:0160}, will deliver the opening address.",
    "term": "end"
   },
   {
    "id": "scen060.0046",
    "jp": "{v:0023}みなさん、お楽しみいただけているでしょうか？{n}先日まで、{n}我々は{s:0119}の脅威にさらされていました。{p}{v:0024}{s:0119}は恐ろしくも巧妙な手段で、{n}我が国を手中に収め、更には{s:0166}王国や{n}{s:0161}王国をも戦火にまみれさせようとしました。{p}{v:0025}今日、このような場を設けられたのも、{n}ひとえに彼らが{s:0119}の企みに気づき、{n}命がけで{s:0119}を倒したからであります。{p}{v:0026}みなさん、彼らに感謝の意を込めて{n}盛大な拍手をお願いします！",
-   "en": "",
+   "en": "{v:0023}Is everyone enjoying themselves? Until just recently, we{n}were all living under the threat of {s:0119}.{p}{v:0024}Through terrifyingly cunning means, {s:0119}{n}seized control of our country and sought to engulf the{n}kingdoms of {s:0166} and {s:0161}{p}in war as well.{p}{v:0025}We can gather here today only because these brave{n}people uncovered {s:0119}'s plot and risked{n}their lives to defeat {s:0119}.{p}{v:0026}Everyone, please join me in thanking them with a great{n}round of applause!",
    "term": "end"
   },
   {
@@ -417,7 +417,7 @@
   {
    "id": "scen060.0059",
    "jp": "{v:0008}今日は{s:012A}一杯楽しもうね！",
-   "en": "",
+   "en": "{v:0008}Let's enjoy today to the fullest!",
    "term": "end"
   },
   {
@@ -542,7 +542,7 @@
   {
    "id": "scen060.0077",
    "jp": "{v:00CE}ああ、最高の気分だ。",
-   "en": "",
+   "en": "{v:00CE}Yeah. Couldn't feel better.",
    "term": "end"
   },
   {
@@ -562,7 +562,7 @@
   {
    "id": "scen060.0080",
    "jp": "{v:0031}はうっ、お兄さま、{s:000E}ちゃん！{p}{v:0032}み‥見られた‥‥。",
-   "en": "",
+   "en": "{v:0031}Eep! Big Brother! {s:000E}!{p}{v:0032}Y-you saw me...",
    "term": "end"
   },
   {
@@ -589,7 +589,7 @@
   {
    "id": "scen060.0084",
    "jp": "{v:0036}そ、そうですか‥‥。{n}ちょっと安心しました。{p}{v:0037}最近やっと自分に自信がもてるようになったんですよ。{n}それもお兄さまと出会って、{n}いろいろ経験できたおかげと思うんです。{p}{FC03}{v:0038}そりゃ、あの時はショックでしたけど‥‥。{p}{FC00}{v:003A}でも今はアタシのことより、お兄さまのことが{n}気がかりです。まさか、お兄さまも{s:0119}に{n}作られた存在だったなんて‥‥。",
-   "en": "",
+   "en": "{v:0036}Y-you think so...? That's a bit of a relief.{p}{v:0037}I've finally started feeling confident in myself lately. I{n}think it's all thanks to meeting you, Big Brother, and{n}everything I've experienced since.{p}{FC03}{v:0038}Of course, what happened back then was a shock...{p}{FC00}{v:003A}But now I'm more worried about you than myself, Big{n}Brother. I never imagined you were created by {s:0119}{n}too...",
    "term": "end"
   },
   {
@@ -623,7 +623,7 @@
   {
    "id": "scen060.0089",
    "jp": "{v:0041}あの{s:0119}も倒しちゃったってことは、{n}もうみんなで冒険できないってことですよね？{p}‥‥{v:0042}ちょっと寂しいなぁ。",
-   "en": "",
+   "en": "{v:0041}Now that we've even defeated {s:0119}, does{n}that mean we won't get to go adventuring{n}together anymore?{p}...{v:0042}I'll miss that a little.",
    "term": "end"
   },
   {
@@ -769,7 +769,7 @@
   {
    "id": "scen060.0110",
    "jp": "{v:00D0}料理は見るための物じゃないよ？{n}ちゃんと食べなくちゃ。",
-   "en": "",
+   "en": "{v:00D0}Food isn't just for looking at, you know! You've got to{n}eat some.",
    "term": "end"
   },
   {
@@ -932,7 +932,7 @@
   {
    "id": "scen060.0133",
    "jp": "{v:0067}俺はシャドー・ナイツの手先として、{n}{s:0166}王国と戦ってたんだぜ？{p}{v:0068}いわば{s:0160}王国にとっちゃ、{n}忘れたい過去の汚点だ。{p}{v:0069}そんな俺がここに招かれているってのは、{n}やっぱり変じゃねぇか？",
-   "en": "",
+   "en": "{v:0067}I fought against the Kingdom of {s:0166} as{n}a pawn of the Shadow Knights, remember?{p}{v:0068}You could say I'm a stain on the Kingdom of{n}{s:0160}'s past they'd rather forget.{p}{v:0069}Doesn't it seem odd that someone like me got{n}invited here?",
    "term": "end"
   },
   {
@@ -1043,13 +1043,13 @@
   {
    "id": "scen060.0149",
    "jp": "{v:0089}知り合いをこんなに招待するなんて、{n}すごいじゃない？",
-   "en": "",
+   "en": "{v:0089}You invited so many people you know! Pretty{n}impressive, huh?",
    "term": "end"
   },
   {
    "id": "scen060.0150",
    "jp": "{v:008A}いやぁ‥‥。{p}{v:008B}何かの節{s:012A}が欲しかったんですよ。{n}これからは安心して過ごせるんだよって、{n}みんなに知ってもらえるような。{p}{v:008C}それに、みなさんは僕にとってお世話になった人たち{n}ですから。",
-   "en": "",
+   "en": "{v:008A}Well...{p}{v:008B}I wanted an occasion to mark a new beginning.{n}Something to let everyone know they can live without{n}fear from now on.{p}{v:008C}Besides, everyone here has done so much for me.",
    "term": "end"
   },
   {
@@ -1062,7 +1062,7 @@
   {
    "id": "scen060.0152",
    "jp": "{v:008E}そんなにすぐには変わりませんよ。{n}あの{s:000A}だって、{s:0119}によって覚醒される{n}前の性格は消えなかったじゃないですか。",
-   "en": "",
+   "en": "{v:008E}People don't change that quickly. Even {s:000A}{n}didn't lose the personality he had before {s:0119}{n}awakened him, did he?",
    "term": "end"
   },
   {
@@ -1166,7 +1166,7 @@
   {
    "id": "scen060.0167",
    "jp": "{v:0080}そうですか。{n}仕方ありません。{n}諦めるとします。",
-   "en": "",
+   "en": "{v:0080}I see. It cannot be helped. I shall give up, then.",
    "term": "end"
   },
   {
@@ -1193,7 +1193,7 @@
   {
    "id": "scen060.0171",
    "jp": "{s:000E}を黙らせますか？",
-   "en": "",
+   "en": "Silence {s:000E}?",
    "term": "end"
   },
   {
@@ -1241,7 +1241,7 @@
   {
    "id": "scen060.0178",
    "jp": "{v:009F}こうして{s:0160}の方々と一緒に{n}パーティーが出来るのも、{n}あなた達のおかげですね。",
-   "en": "",
+   "en": "{v:009F}It is thanks to you that we can celebrate together{n}with the people of {s:0160} like this.",
    "term": "end"
   },
   {
@@ -1282,13 +1282,13 @@
   {
    "id": "scen060.0184",
    "jp": "{v:00A6}あまり羽{s:012A}を外してはダメですよ。",
-   "en": "",
+   "en": "{v:00A6}Do not get too carried away, now.",
    "term": "end"
   },
   {
    "id": "scen060.0185",
    "jp": "{v:00A8}ああ、君たちは{s:0002}の‥‥。{p}{FC04}{v:00A9}まだ{s:00BD}なのに、{n}あの{s:0119}を倒すとは恐れ入ったぞ。{p}{FC04}{v:00AB}何にしても、君たちに救われた。{n}ありがとう。",
-   "en": "",
+   "en": "{v:00A8}Ah, you are {s:0002}'s...{p}{FC04}{v:00A9}You are still such a young {s:00BD}, yet you{n}defeated {s:0119}. I am impressed.{p}{FC04}{v:00AB}In any case, you saved us. Thank you.",
    "term": "end"
   },
   {
@@ -1308,13 +1308,13 @@
   {
    "id": "scen060.0188",
    "jp": "{v:00AF}へぇ！{n}おめでとうっ！{p}{v:00B0}ところで、{s:0018}さんはどう？",
-   "en": "",
+   "en": "{v:00AF}Wow! Congratulations!{p}{v:00B0}By the way, how's {s:0018}?",
    "term": "end"
   },
   {
    "id": "scen060.0189",
    "jp": "{v:00B1}それは私の方が聞きたいよ。{n}{s:0001}君はどうやってグローシュを{n}取り戻したんだね？",
-   "en": "",
+   "en": "{v:00B1}That is what I should be asking you. How did {s:0001}{n}regain her Grosh?",
    "term": "end"
   },
   {
@@ -1369,13 +1369,13 @@
   {
    "id": "scen060.0197",
    "jp": "‥‥{v:00B9}まあな。{p}{v:00BA}だが、気にしないでくれ。{n}{s:000A}様が昔のように戻られただけで十分だ。",
-   "en": "",
+   "en": "...{v:00B9}I suppose it was.{p}{v:00BA}But do not concern yourselves. It is enough that Lord{n}{s:000A} is himself again.",
    "term": "end"
   },
   {
    "id": "scen060.0198",
    "jp": "{v:00BB}{s:000A}様のことは、気にしないでくれ。",
-   "en": "",
+   "en": "{v:00BB}Do not concern yourselves about Lord{n}{s:000A}.",
    "term": "end"
   },
   {
@@ -1395,7 +1395,7 @@
   {
    "id": "scen060.0201",
    "jp": "{v:00BE}生きているなら、それだけでいいさ。{p}{v:00BF}２人のどちらかが敵になれば、どちらかが生き残る。{n}そして生き残った方が陛下を最後まで守る。{p}{v:00C0}それが{s:0154}と話し合って決めていたことだ。{n}その誓いは果たせたしね。",
-   "en": "",
+   "en": "{v:00BE}As long as he is alive, that is enough.{p}{v:00BF}If the two of us ended up on opposite sides, one of us{n}would survive. The survivor would protect His Majesty{n}to the very end.{p}{v:00C0}That was what {s:0154} and I agreed upon.{n}And we fulfilled that vow.",
    "term": "end"
   },
   {
@@ -1415,67 +1415,67 @@
   {
    "id": "scen060.0204",
    "jp": "{v:0004}きゃああああ！{n}何ナニ、いまのナニ！？",
-   "en": "",
+   "en": "{v:0004}Kyaaaah! What, what, what was that?!",
    "term": "end"
   },
   {
    "id": "scen060.0205",
    "jp": "{v:0005}みなさん、落ち着いてください！{n}いま状況を確認させます！",
-   "en": "",
+   "en": "{v:0005}Everyone, please stay calm! I'll have the situation{n}checked at once!",
    "term": "end"
   },
   {
    "id": "scen060.0206",
    "jp": "{v:0006}どこかで爆発があったみたいだが‥‥。",
-   "en": "",
+   "en": "{v:0006}Sounded like an explosion somewhere...",
    "term": "end"
   },
   {
    "id": "scen060.0207",
    "jp": "{v:0007}遠くの方みたいだったけど、{n}いったいどこだろう？",
-   "en": "",
+   "en": "{v:0007}It sounded far away, but where could it have been?",
    "term": "end"
   },
   {
    "id": "scen060.0208",
    "jp": "{v:0008}陛下！{n}南の方で爆発を確認しました。",
-   "en": "",
+   "en": "{v:0008}Your Majesty! We've confirmed an explosion to{n}the south.",
    "term": "end"
   },
   {
    "id": "scen060.0209",
    "jp": "{v:0009}南ですか‥‥。",
-   "en": "",
+   "en": "{v:0009}To the south...",
    "term": "end"
   },
   {
    "id": "scen060.0210",
    "jp": "{v:000A}はい、方角と距離からして、{n}{s:0161}かと‥‥。",
-   "en": "",
+   "en": "{v:000A}Yes. Judging by the direction and distance, it may be{n}{s:0161}...",
    "term": "end"
   },
   {
    "id": "scen060.0211",
    "jp": "{v:000B}{s:0161}だと！？{n}そういえば、今日は{s:0161}が不参加だったな‥‥。",
-   "en": "",
+   "en": "{v:000B}{s:0161}?! Come to think of it, {s:0161}{n}didn't attend today...",
    "term": "end"
   },
   {
    "id": "scen060.0212",
    "jp": "{v:000C}偶然とは思えませんね。{p}{v:000E}{s:0001}、テレポートの使えるお前なら、{n}すぐに向かえるでしょう。{n}調査をお願いします。",
-   "en": "",
+   "en": "{v:000C}This can't be a coincidence.{p}{v:000E}{s:0001}, you can use Teleport, so you can{n}get there at once. Please investigate.",
    "term": "end"
   },
   {
    "id": "scen060.0213",
    "jp": "{v:000D}は、はい！",
-   "en": "",
+   "en": "{v:000D}Y-yes!",
    "term": "end"
   },
   {
    "id": "scen060.0214",
    "jp": "{s:0161}の調査",
-   "en": "",
+   "en": "Investigate {s:0161}",
    "term": "end"
   },
   {
@@ -1502,7 +1502,7 @@
   {
    "id": "scen060.0218",
    "jp": "{s:0161}王城が危ない",
-   "en": "",
+   "en": "{s:0161} Castle in Danger",
    "term": "end"
   },
   {
@@ -1571,13 +1571,13 @@
   {
    "id": "scen060.0228",
    "jp": "‥{v:000A}{s:0025}‥‥。",
-   "en": "",
+   "en": "...{v:000A}{s:0025}...",
    "term": "end"
   },
   {
    "id": "scen060.0229",
    "jp": "{v:000B}{FFEE}　　　　　　我が名は{s:0025}。{n}　　　　　キング・オブ・グローシアン。{n}　　　　　お前たちの支配者たる存在だ。{FFF1}",
-   "en": "",
+   "en": "{v:000B}{FFEE}　　　　　　My name is {s:0025}. King of{n}the Growsians. Your rightful ruler.{FFF1}",
    "term": "end"
   },
   {
@@ -1590,7 +1590,7 @@
   {
    "id": "scen060.0231",
    "jp": "{v:000D}{FFEE}　　　{s:0119}を倒して浮かれているようだが、{n}　　　我が能力をあの程度と一緒にするなよ。{n}　　　いわば、あれは旧型なのだからな！{FFF1}",
-   "en": "",
+   "en": "{v:000D}{FFEE}　　　You seem elated at having defeated{n}{s:0119}, but do not compare my power to{n}that thing. It is, so to speak, an obsolete model!{FFF1}",
    "term": "end"
   },
   {
@@ -1603,7 +1603,7 @@
   {
    "id": "scen060.0233",
    "jp": "{v:000F}{FFEE}これから、この{s:0025}様の支配が始まるのだ！{n}　　　　　　まずは手始めに、{n}　　この{s:0161}王城を吹き飛ばしてくれる！{FFF1}",
-   "en": "",
+   "en": "{v:000F}{FFEE}Now begins the reign of the great {s:0025}!{n}And to start, I shall blast this {s:0161}{n}Castle to pieces!{FFF1}",
    "term": "end"
   },
   {
@@ -1616,7 +1616,7 @@
   {
    "id": "scen060.0235",
    "jp": "{v:0011}待て、{s:0157}！",
-   "en": "",
+   "en": "{v:0011}Wait, {s:0157}!",
    "term": "end"
   },
   {
@@ -1657,7 +1657,7 @@
   {
    "id": "scen060.0241",
    "jp": "{v:0017}よし！{n}俺たちと一緒に行こう、{s:0157}。",
-   "en": "",
+   "en": "{v:0017}All right! Come with us, {s:0157}.",
    "term": "end"
   },
   {
@@ -1670,7 +1670,7 @@
   {
    "id": "scen060.0243",
    "jp": "　{n}　　{FFF0}一緒に向かうメンバーを選んで下さい。{FFF1}",
-   "en": "",
+   "en": "　{n}　　{FFF0}Choose the members who will go with you.{FFF1}",
    "term": "end"
   },
   {
@@ -1732,7 +1732,7 @@
   {
    "id": "scen060.0252",
    "jp": "{v:0034}さぁ、がんばろう！",
-   "en": "",
+   "en": "{v:0034}Come on, let's do our best!",
    "term": "end"
   },
   {
@@ -1773,7 +1773,7 @@
   {
    "id": "scen060.0258",
    "jp": "私も、兄さんと一緒にここに残ります。{n}みなさん、どうかお気をつけてください。",
-   "en": "",
+   "en": "I'll stay here with my brother too. Everyone, please{n}be careful.",
    "term": "end"
   },
   {
@@ -1807,7 +1807,7 @@
   {
    "id": "scen060.0263",
    "jp": "いざって時のために、{n}こっちにも何人か残ってた方がいいだろ。{p}ここは俺が引き受けるから、{n}お前たちは{s:0161}に行ってくれ！",
-   "en": "",
+   "en": "Some of us oughta stay behind too, just in case.{p}I'll handle things here, so you lot head to{n}{s:0161}!",
    "term": "end"
   },
   {
@@ -1876,25 +1876,25 @@
   {
    "id": "scen060.0273",
    "jp": "{v:002E}私は{s:0153}や{s:0151}と、{s:00EA}を率いて戦う。{n}構わず先に行ってくれ。",
-   "en": "",
+   "en": "{v:002E}I will lead my {s:00EA} into battle alongside {s:0153}{n}and {s:0151}. Go on ahead without us.",
    "term": "end"
   },
   {
    "id": "scen060.0274",
    "jp": "{v:0036}構わず先に行ってくれ。",
-   "en": "",
+   "en": "{v:0036}Go on ahead without us.",
    "term": "end"
   },
   {
    "id": "scen060.0275",
    "jp": "まさか{s:0025}が‥‥。",
-   "en": "",
+   "en": "I can't believe {s:0025} would...",
    "term": "end"
   },
   {
    "id": "scen060.0276",
    "jp": "何が起こったのでしょう‥‥。",
-   "en": "",
+   "en": "What could have happened...?",
    "term": "end"
   },
   {
@@ -1907,7 +1907,7 @@
   {
    "id": "scen060.0278",
    "jp": "なんだか、とても嫌な予感がします‥‥。{n}私の思い違いだといいのですが‥‥。",
-   "en": "",
+   "en": "I have a terrible feeling about this... I hope{n}I'm mistaken...",
    "term": "end"
   },
   {
@@ -1920,7 +1920,7 @@
   {
    "id": "scen060.0280",
    "jp": "さぁ、早く{s:0161}へ向かおう！",
-   "en": "",
+   "en": "Come on, let's hurry to {s:0161}!",
    "term": "end"
   },
   {
@@ -1933,19 +1933,19 @@
   {
    "id": "scen060.0282",
    "jp": "今の揺れ方、自然ではなかったぞ。",
-   "en": "",
+   "en": "That tremor just now was not natural.",
    "term": "end"
   },
   {
    "id": "scen060.0283",
    "jp": "{s:0025}め‥‥。",
-   "en": "",
+   "en": "{s:0025}, curse him...",
    "term": "end"
   },
   {
    "id": "scen060.0284",
    "jp": "万が一に備えて、私はここに残る。",
-   "en": "",
+   "en": "I will stay here in case of emergency.",
    "term": "end"
   },
   {
@@ -1958,7 +1958,7 @@
   {
    "id": "scen060.0286",
    "jp": "あの揺れ、気になるな‥‥。",
-   "en": "",
+   "en": "That tremor worries me...",
    "term": "end"
   },
   {
@@ -1971,19 +1971,19 @@
   {
    "id": "scen060.0288",
    "jp": "また何か事件なんでしょうか‥‥。",
-   "en": "",
+   "en": "Has something else happened...?",
    "term": "end"
   },
   {
    "id": "scen060.0289",
    "jp": "やっと{s:0119}がいなくなったのに‥‥。",
-   "en": "",
+   "en": "And just when {s:0119} was finally gone...",
    "term": "end"
   },
   {
    "id": "scen060.0290",
    "jp": "何事もなければいいのですが‥‥。",
-   "en": "",
+   "en": "I hope nothing is wrong...",
    "term": "end"
   },
   {
@@ -1996,7 +1996,7 @@
   {
    "id": "scen060.0292",
    "jp": "な、何があったんだ！？",
-   "en": "",
+   "en": "Wh-what happened?!",
    "term": "end"
   },
   {
@@ -2016,13 +2016,13 @@
   {
    "id": "scen060.0295",
    "jp": "お兄ちゃん！{n}今はそれどこじゃないでしょ！",
-   "en": "",
+   "en": "Big Brother! This isn't the time for that!",
    "term": "end"
   },
   {
    "id": "scen060.0296",
    "jp": "　{n}　　　　不思議な力でかき消された‥‥。",
-   "en": "",
+   "en": "　{n}　　　　A mysterious force dispelled it...",
    "term": "end"
   }
  ]

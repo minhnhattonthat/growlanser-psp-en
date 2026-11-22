@@ -450,223 +450,223 @@
   {
    "id": "boot.skills.0063",
    "jp": "自爆",
-   "en": "",
+   "en": "Self-Destruct",
    "term": "null"
   },
   {
    "id": "boot.skills.0064",
    "jp": "退却",
-   "en": "",
+   "en": "Retreat",
    "term": "null"
   },
   {
    "id": "boot.skills.0065",
    "jp": "武器無効",
-   "en": "",
+   "en": "Weapon Immunity",
    "term": "null"
   },
   {
    "id": "boot.skills.0066",
    "jp": "武器受け減少１",
-   "en": "",
+   "en": "Weapon Guard 1",
    "term": "null"
   },
   {
    "id": "boot.skills.0067",
    "jp": "武器受け減少２",
-   "en": "",
+   "en": "Weapon Guard 2",
    "term": "null"
   },
   {
    "id": "boot.skills.0068",
    "jp": "武器受け減少３",
-   "en": "",
+   "en": "Weapon Guard 3",
    "term": "null"
   },
   {
    "id": "boot.skills.0069",
    "jp": "武器受け減少４",
-   "en": "",
+   "en": "Weapon Guard 4",
    "term": "null"
   },
   {
    "id": "boot.skills.0070",
    "jp": "魔法受け減少１",
-   "en": "",
+   "en": "Magic Guard 1",
    "term": "null"
   },
   {
    "id": "boot.skills.0071",
    "jp": "魔法受け減少２",
-   "en": "",
+   "en": "Magic Guard 2",
    "term": "null"
   },
   {
    "id": "boot.skills.0072",
    "jp": "魔法受け減少３",
-   "en": "",
+   "en": "Magic Guard 3",
    "term": "null"
   },
   {
    "id": "boot.skills.0073",
    "jp": "魔法受け減少４",
-   "en": "",
+   "en": "Magic Guard 4",
    "term": "null"
   },
   {
    "id": "boot.skills.0074",
    "jp": "ダメージ減少１",
-   "en": "",
+   "en": "Damage Cut 1",
    "term": "null"
   },
   {
    "id": "boot.skills.0075",
    "jp": "ダメージ減少２",
-   "en": "",
+   "en": "Damage Cut 2",
    "term": "null"
   },
   {
    "id": "boot.skills.0076",
    "jp": "ダメージ減少３",
-   "en": "",
+   "en": "Damage Cut 3",
    "term": "null"
   },
   {
    "id": "boot.skills.0077",
    "jp": "ダメージ減少４",
-   "en": "",
+   "en": "Damage Cut 4",
    "term": "null"
   },
   {
    "id": "boot.skills.0078",
    "jp": "詠唱時間短縮２",
-   "en": "",
+   "en": "Faster Casting 2",
    "term": "null"
   },
   {
    "id": "boot.skills.0079",
    "jp": "詠唱時間短縮３",
-   "en": "",
+   "en": "Faster Casting 3",
    "term": "null"
   },
   {
    "id": "boot.skills.0080",
    "jp": "詠唱時間短縮４",
-   "en": "",
+   "en": "Faster Casting 4",
    "term": "null"
   },
   {
    "id": "boot.skills.0081",
    "jp": "詠唱延長",
-   "en": "",
+   "en": "Slower Casting",
    "term": "null"
   },
   {
    "id": "boot.skills.0082",
    "jp": "全毒攻撃２",
-   "en": "",
+   "en": "All-Poison Hit 2",
    "term": "null"
   },
   {
    "id": "boot.skills.0083",
    "jp": "全毒攻撃３",
-   "en": "",
+   "en": "All-Poison Hit 3",
    "term": "null"
   },
   {
    "id": "boot.skills.0084",
    "jp": "全毒攻撃４",
-   "en": "",
+   "en": "All-Poison Hit 4",
    "term": "null"
   },
   {
    "id": "boot.skills.0085",
    "jp": "矢貫通",
-   "en": "",
+   "en": "Piercing Arrows",
    "term": "null"
   },
   {
    "id": "boot.skills.0086",
    "jp": "入手なし",
-   "en": "",
+   "en": "Unobtainable",
    "term": "null"
   },
   {
    "id": "boot.skills.0087",
    "jp": "超回避１",
-   "en": "",
+   "en": "Super Evasion 1",
    "term": "null"
   },
   {
    "id": "boot.skills.0088",
    "jp": "超回避２",
-   "en": "",
+   "en": "Super Evasion 2",
    "term": "null"
   },
   {
    "id": "boot.skills.0089",
    "jp": "超回避３",
-   "en": "",
+   "en": "Super Evasion 3",
    "term": "null"
   },
   {
    "id": "boot.skills.0090",
    "jp": "超回避４",
-   "en": "",
+   "en": "Super Evasion 4",
    "term": "null"
   },
   {
    "id": "boot.skills.0091",
    "jp": "全アップ２",
-   "en": "",
+   "en": "All Stats Up 2",
    "term": "null"
   },
   {
    "id": "boot.skills.0092",
    "jp": "全アップ３",
-   "en": "",
+   "en": "All Stats Up 3",
    "term": "null"
   },
   {
    "id": "boot.skills.0093",
    "jp": "全毒無効",
-   "en": "",
+   "en": "All-Poison Immune",
    "term": "null"
   },
   {
    "id": "boot.skills.0094",
    "jp": "状態異常無効",
-   "en": "",
+   "en": "Status Immunity",
    "term": "null"
   },
   {
    "id": "boot.skills.0095",
    "jp": "集中状態異常無効",
-   "en": "",
+   "en": "Status Immunity+",
    "term": "null"
   },
   {
    "id": "boot.skills.0096",
    "jp": "超サイクル",
-   "en": "",
+   "en": "Super Cycle",
    "term": "null"
   },
   {
    "id": "boot.skills.0097",
    "jp": "Ｄ硬直半減",
-   "en": "",
+   "en": "Half Hit Stun",
    "term": "null"
   },
   {
    "id": "boot.skills.0098",
    "jp": "Ｄ硬直なし",
-   "en": "",
+   "en": "No Hit Stun",
    "term": "null"
   },
   {
    "id": "boot.skills.0099",
    "jp": "死なない",
-   "en": "",
+   "en": "Undying",
    "term": "null"
   },
   {
@@ -679,7 +679,7 @@
   {
    "id": "boot.skills.0101",
    "jp": "タ",
-   "en": "",
+   "en": "Ta",
    "term": "null"
   }
  ]

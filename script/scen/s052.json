@@ -176,73 +176,73 @@
   {
    "id": "scen052.0024",
    "jp": "ん‥‥？{p}{FC04}ああ、キミたちか。誰かと思ったよ。",
-   "en": "",
+   "en": "Hm...?{p}{FC04}Oh, it's you kids. I wondered who it was.",
    "term": "end"
   },
   {
    "id": "scen052.0025",
    "jp": "こんにちは！{n}ジャスティンさん、お買い物中？",
-   "en": "",
+   "en": "Hello! Are you out shopping, Justin-san?",
    "term": "end"
   },
   {
    "id": "scen052.0026",
    "jp": "メルフィに何かお土産でも‥‥、と思ってね。{n}{FFFB}最近、色々と僕が忙しかったせいで彼女を{n}１人にしてしまっていたから、そのおわびさ。{p}{FC03}だけど、メルフィはあまり物を欲しがらないから、{n}こういう時どうすればいいのか悩んでしまうよ。",
-   "en": "",
+   "en": "I thought I'd get Melfie a little present... {FFFB}I've been busy{n}with one thing and another lately and left her on her{n}own. It's my way of apologizing.{p}{FC03}But Melfie hardly ever asks for anything, so at times{n}like this I'm at a loss for what to do.",
    "term": "end"
   },
   {
    "id": "scen052.0027",
    "jp": "あの子のご機嫌取りも大変そうね～。",
-   "en": "",
+   "en": "Sounds like keeping that girl happy is a lot of work, huh?",
    "term": "end"
   },
   {
    "id": "scen052.0028",
    "jp": "まぁ、僕が好きで買ってるだけなんだけどね。{p}{FC00}今日も、つい色々と買いすぎてしまったよ。{n}これだけの量を持って帰るのは、{n}さすがに大変そうだな。",
-   "en": "",
+   "en": "Well, I only buy these things because I enjoy it.{p}{FC00}I got carried away and bought too much again today.{n}Hauling all this home is going to be quite a job.",
    "term": "end"
   },
   {
    "id": "scen052.0029",
    "jp": "あはは。{p}メルフィさんとは、{n}どこで待ち合わせてるんですか？",
-   "en": "",
+   "en": "Ahaha.{p}Where are you meeting Melfie-san?",
    "term": "end"
   },
   {
    "id": "scen052.0030",
    "jp": "彼女の両親のお墓の前だよ。{p}フェザリアンであるメルフィが落ち着ける場所は、{n}残念ながら地上にはあまりないからね。",
-   "en": "",
+   "en": "In front of her parents' grave.{p}Sadly, there aren't many places on the surface where a{n}Featherian like Melfie can feel at ease.",
    "term": "end"
   },
   {
    "id": "scen052.0031",
    "jp": "そっか‥‥。",
-   "en": "",
+   "en": "I see...",
    "term": "end"
   },
   {
    "id": "scen052.0032",
    "jp": "そう言えば最近、{n}メルフィがよくキミたちの話をするよ。{p}{FC04}あのメルフィが他の人間の話をするなんて、{n}相当めずらしいことなんだ。{n}きっと、キミたちには心を許してきてるんだね。{p}{FC00}よかったら、{n}これからもメルフィと仲良くしてやってくれ。{n}頼むよ。",
-   "en": "",
+   "en": "Come to think of it, Melfie's been talking about you kids{n}a lot lately.{p}{FC04}For Melfie to talk about other humans is very rare.{n}She must be starting to open her heart to you.{p}{FC00}If you like, please go on being friends with Melfie. I'm{n}counting on you.",
    "term": "end"
   },
   {
    "id": "scen052.0033",
    "jp": "もちろんです！",
-   "en": "",
+   "en": "Of course!",
    "term": "end"
   },
   {
    "id": "scen052.0034",
    "jp": "ありがとう。{p}それじゃ、メルフィが待っているから{n}僕はこれで失礼するよ。",
-   "en": "",
+   "en": "Thank you.{p}Well then, Melfie's waiting, so I'll be on my way.",
    "term": "end"
   },
   {
    "id": "scen052.0035",
    "jp": "メルフィさんが、わたしたちに心を{n}許し始めてくれてるなんて嬉しい‥‥。{p}{FC03}時間があるときでいいから、{n}またメルフィさんに会いに行きたいな。{n}{FFFB}お兄ちゃん、よかったら考えておいてね。",
-   "en": "",
+   "en": "I'm so happy Melfie-san's starting to open up to us...{p}{FC03}Whenever we have time, I'd like to go see Melfie-san{n}again. {FFFB}Big Brother, think about it, okay?",
    "term": "end"
   },
   {
@@ -477,7 +477,7 @@
   {
    "id": "scen052.0067",
    "jp": "ここから先は通行禁止だ。",
-   "en": "",
+   "en": "No entry beyond this point.",
    "term": "end"
   },
   {
@@ -602,13 +602,13 @@
   {
    "id": "scen052.0085",
    "jp": "まさか、城が無くなるなんて‥‥。",
-   "en": "",
+   "en": "I can't believe the castle's just... gone...",
    "term": "end"
   },
   {
    "id": "scen052.0086",
    "jp": "お城の方でスゴイ音がしたんだ！{n}ど、どうしよう！？{n}様子を見に行った方がいいのかな？{p}でも、持ち場を離れるわけにはいかないし‥‥。",
-   "en": "",
+   "en": "There was a huge noise from the castle! Wh-what{n}should I do?! Should I go and check?{p}But I can't leave my post...",
    "term": "end"
   },
   {
@@ -677,67 +677,67 @@
   {
    "id": "scen052.0096",
    "jp": "ランザック城、か‥‥。",
-   "en": "",
+   "en": "Ranzak Castle, huh...",
    "term": "end"
   },
   {
    "id": "scen052.0097",
    "jp": "あれ？{n}{FFFB}ねぇ、あそこにジャスティンさんがいるよ！",
-   "en": "",
+   "en": "Huh? {FFFB}Hey, Justin-san's over there!",
    "term": "end"
   },
   {
    "id": "scen052.0098",
    "jp": "キミたち‥‥。",
-   "en": "",
+   "en": "You kids...",
    "term": "end"
   },
   {
    "id": "scen052.0099",
    "jp": "やぁ、久しぶりだね。{n}元気だったかい？",
-   "en": "",
+   "en": "Hey, long time no see. Have you been well?",
    "term": "end"
   },
   {
    "id": "scen052.0100",
    "jp": "こんにちは、ジャスティンさん。{n}こんな所で会えるなんて偶然ですね。{p}ランザック城に何かご用があるんですか？",
-   "en": "",
+   "en": "Hello, Justin-san. What a coincidence, running into{n}you here.{p}Do you have business at Ranzak Castle?",
    "term": "end"
   },
   {
    "id": "scen052.0101",
    "jp": "いや、城に用はないんだ。{n}{FFFB}探し物をして歩き回っていたら、{n}ここにたどり着いてしまったというかね‥‥。",
-   "en": "",
+   "en": "No, nothing at the castle. {FFFB}I was wandering around{n}looking for something, and I suppose I just ended{n}up here...",
    "term": "end"
   },
   {
    "id": "scen052.0102",
    "jp": "‥‥えっ！？{n}{FFFB}もしかして、何か落としちゃったんですか？",
-   "en": "",
+   "en": "...Huh?! {FFFB}Did you drop something?",
    "term": "end"
   },
   {
    "id": "scen052.0103",
    "jp": "ああ、大したことじゃないんだ。{n}こちらのことは気にしないでくれ。{p}{FC00}キミたちとゆっくり話したいところだけど、{n}こちらも時間があまりなくてね。{n}悪いが、僕はそろそろ失礼するよ。",
-   "en": "",
+   "en": "Ah, it's nothing serious. Don't worry about me.{p}{FC00}I'd love to sit and talk with you, but I'm short on time{n}myself. Sorry, but I'd better be going.",
    "term": "end"
   },
   {
    "id": "scen052.0104",
    "jp": "ジャスティンさん、忙しそうだね。{n}普段、何してる人なんだろ？",
-   "en": "",
+   "en": "Justin-san sure seems busy. I wonder what he does{n}for a living?",
    "term": "end"
   },
   {
    "id": "scen052.0105",
    "jp": "今まで気にしたことはなかったが、{n}確かに俺たちはあいつの素性を{n}よく知らないな‥‥。",
-   "en": "",
+   "en": "I never thought about it before, but we really don't{n}know much about who he is...",
    "term": "end"
   },
   {
    "id": "scen052.0106",
    "jp": "ジャスティンさんやメルフィさんのこと、{n}これからもっと知っていけたらいいね。",
-   "en": "",
+   "en": "I hope we get to know Justin-san and Melfie-san better{n}from now on.",
    "term": "end"
   },
   {

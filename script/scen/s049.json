@@ -99,49 +99,49 @@
   {
    "id": "scen049.0013",
    "jp": "{v:0053}ちょっとアンタ、{n}今の話をみんなに知らせるのが先決でしょう！",
-   "en": "",
+   "en": "{v:0053}Hey, you! Telling everyone what we just heard{n}comes first!",
    "term": "end"
   },
   {
    "id": "scen049.0014",
    "jp": "{v:0054}お兄ちゃん、まだ屋敷を調べてないよ？",
-   "en": "",
+   "en": "{v:0054}Big Brother, we haven't searched the mansion yet,{n}have we?",
    "term": "end"
   },
   {
    "id": "scen049.0015",
    "jp": "{v:0055}どこへ行こうってのよ。まったく‥‥。",
-   "en": "",
+   "en": "{v:0055}Where do you think you're going? Honestly...",
    "term": "end"
   },
   {
    "id": "scen049.0016",
    "jp": "{v:0056}まだ屋敷を調べてませんけど？",
-   "en": "",
+   "en": "{v:0056}But we haven't searched the mansion yet...?",
    "term": "end"
   },
   {
    "id": "scen049.0017",
    "jp": "{v:0057}ほらほら、戻った戻った。",
-   "en": "",
+   "en": "{v:0057}Come on, back you go!",
    "term": "end"
   },
   {
    "id": "scen049.0018",
    "jp": "{v:0058}あれ？{n}お兄さま、まだ屋敷を調べてないけど？",
-   "en": "",
+   "en": "{v:0058}Huh? Big Brother, we haven't searched the{n}mansion yet!",
    "term": "end"
   },
   {
    "id": "scen049.0019",
    "jp": "{v:0059}まだ屋敷を調べてないけどいいのかい？",
-   "en": "",
+   "en": "{v:0059}We haven't searched the mansion yet. Are you sure{n}about this?",
    "term": "end"
   },
   {
    "id": "scen049.0020",
    "jp": "{v:0052}ちょっとアンタ、{n}まだ情報収集がすんでないでしょうが！",
-   "en": "",
+   "en": "{v:0052}Hey, you! We haven't finished gathering information yet!",
    "term": "end"
   },
   {
@@ -479,7 +479,7 @@
   {
    "id": "scen049.0068",
    "jp": "{v:0073}まだ立ってるよ。{n}あの警備してる人をどうにかしないと{n}あの向こうを調べられないね。",
-   "en": "",
+   "en": "{v:0073}He's still standing there. We can't investigate past that{n}point unless we do something about that guard.",
    "term": "end"
   },
   {

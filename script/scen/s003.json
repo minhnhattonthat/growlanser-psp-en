@@ -141,7 +141,7 @@
   {
    "id": "scen003.0019",
    "jp": "やぁ、こんにちは。{n}今日も君たちは忙しそうだね。",
-   "en": "",
+   "en": "Hey there, hello. You all look busy again today.",
    "term": "end"
   },
   {
@@ -859,7 +859,7 @@
   {
    "id": "scen003.0120",
    "jp": "おい、ヴェンツェルに話を聞きに{n}行くんだろ。{n}城の地下へ行こうぜ。",
-   "en": "",
+   "en": "Hey, we're going to hear what Wenzel has to say,{n}right? Let's get down to the castle basement.",
    "term": "end"
   },
   {
@@ -1449,7 +1449,7 @@
   {
    "id": "scen003.0204",
    "jp": "がんばってください！",
-   "en": "",
+   "en": "Good luck out there!",
    "term": "end"
   },
   {
@@ -1476,97 +1476,97 @@
   {
    "id": "scen003.0208",
    "jp": "‥‥どこに行ったんだ‥‥。",
-   "en": "",
+   "en": "...Where did they go...?",
    "term": "end"
   },
   {
    "id": "scen003.0209",
    "jp": "あれ？{n}{FFFB}ねえ、あそこにいるのって{n}ジャスティンさんじゃない？{p}おーい、ジャスティンさ～ん！",
-   "en": "",
+   "en": "Huh?{FFFB} Hey, isn't that Justin-san over there?{p}Hey, Justin-saaan!",
    "term": "end"
   },
   {
    "id": "scen003.0210",
    "jp": "ん？{n}君たちは‥‥。",
-   "en": "",
+   "en": "Hm? You're...",
    "term": "end"
   },
   {
    "id": "scen003.0211",
    "jp": "こんにちは、ジャスティンさん。{n}こんな所で会うなんて、奇遇ですね。",
-   "en": "",
+   "en": "Hello, Justin-san. What a coincidence, running into{n}you here.",
    "term": "end"
   },
   {
    "id": "scen003.0212",
    "jp": "ああ、本当にね。",
-   "en": "",
+   "en": "Yes, it really is.",
    "term": "end"
   },
   {
    "id": "scen003.0213",
    "jp": "‥‥あれ？{n}{FFFB}メルフィさん、せっかく退院できたのに{n}一緒じゃないんだね。",
-   "en": "",
+   "en": "...Huh?{FFFB} Melfie-san finally got out of the hospital, but she{n}isn't with you?",
    "term": "end"
   },
   {
    "id": "scen003.0214",
    "jp": "おや？{n}メルフィが退院したこと、知ってたのかい？",
-   "en": "",
+   "en": "Oh? You knew Melfie had been discharged?",
    "term": "end"
   },
   {
    "id": "scen003.0215",
    "jp": "はい、実はメルフィさんと会う機会があって‥‥。{n}ずいぶん良くなったみたいで、安心しました。",
-   "en": "",
+   "en": "Yes, actually, we had a chance to see Melfie-san... She{n}seemed so much better, it was a relief.",
    "term": "end"
   },
   {
    "id": "scen003.0216",
    "jp": "あの、あれからメルフィさんの様子はどうですか？",
-   "en": "",
+   "en": "Um, how has Melfie-san been since then?",
    "term": "end"
   },
   {
    "id": "scen003.0217",
    "jp": "ああ、そのことなんだけどね。{n}{FFFB}実は先日、無事に退院することができて、{n}今ではすっかり元気になったよ。",
-   "en": "",
+   "en": "Ah, about that.{FFFB} Actually, she was safely discharged the{n}other day, and she's completely well now.",
    "term": "end"
   },
   {
    "id": "scen003.0218",
    "jp": "えっ、本当に！？",
-   "en": "",
+   "en": "Huh, really?!",
    "term": "end"
   },
   {
    "id": "scen003.0219",
    "jp": "メルフィさん、元気になったんですね。{n}よかったぁ‥‥。",
-   "en": "",
+   "en": "So Melfie-san is better. Thank goodness...",
    "term": "end"
   },
   {
    "id": "scen003.0220",
    "jp": "メルフィのこと、気遣ってくれてありがとう。{n}予想より早く退院できて、僕もホッとしてるよ。",
-   "en": "",
+   "en": "Thank you for worrying about Melfie. She got out{n}sooner than we expected, so I'm relieved too.",
    "term": "end"
   },
   {
    "id": "scen003.0221",
    "jp": "それで、ジャスティンさんは何してたの？",
-   "en": "",
+   "en": "So what were you up to, Justin-san?",
    "term": "end"
   },
   {
    "id": "scen003.0222",
    "jp": "‥‥ん、僕かい？{n}僕はちょっと、人を捜していたとこでね。{p}さすがに病み上がりのメルフィを連れまわす{n}訳にはいかないから、今日は１人きりなんだよ。",
-   "en": "",
+   "en": "...Hm, me? I was just looking for someone.{p}I can hardly drag Melfie around when she's only just{n}recovered, so I'm on my own today.",
    "term": "end"
   },
   {
    "id": "scen003.0223",
    "jp": "そうだったんですか。{n}{FFFB}あの‥‥、よかったら私たちも{n}人捜しを手伝いましょうか？{p}ね、いいよね？　お兄ちゃん。",
-   "en": "",
+   "en": "I see.{FFFB} Um... if you'd like, we could help you look for them?{p}That's okay, right, Big Brother?",
    "term": "end"
   },
   {
@@ -1579,51 +1579,51 @@
   {
    "id": "scen003.0225",
    "jp": "・もちろん",
-   "en": "",
+   "en": "・Of course",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen003.0226",
    "jp": "・ダメだ",
-   "en": "",
+   "en": "・No",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen003.0227",
    "jp": "どうもありがとう。{p}‥‥けど、その気持ちだけ{n}ありがたく頂いておくよ。",
-   "en": "",
+   "en": "Thank you so much.{p}...But I'll just accept the kind thought.",
    "term": "end"
   },
   {
    "id": "scen003.0228",
    "jp": "え、どうして‥‥？",
-   "en": "",
+   "en": "Huh, but why...?",
    "term": "end"
   },
   {
    "id": "scen003.0229",
    "jp": "いいんだ、気にしないでくれ。{n}君たちだって忙しいだろうしね。{n}本当に、その気持ちだけで充分だよ。",
-   "en": "",
+   "en": "It's fine, don't worry about it. I'm sure you're busy too.{n}Really, the thought alone is more than enough.",
    "term": "end"
   },
   {
    "id": "scen003.0230",
    "jp": "そうですか‥‥、分かりました。{n}早く見つかるといいですね。",
-   "en": "",
+   "en": "I see... All right. I hope you find them soon.",
    "term": "end"
   },
   {
    "id": "scen003.0231",
    "jp": "ああ、ありがとう。{n}それじゃ、僕はそろそろ失礼するよ。",
-   "en": "",
+   "en": "Yes, thank you. Well, I should be going.",
    "term": "end"
   },
   {
    "id": "scen003.0232",
    "jp": "それじゃ、{n}アタシたちも行きましょうか。",
-   "en": "",
+   "en": "Well then, shall we get going too?",
    "term": "end"
   }
  ]

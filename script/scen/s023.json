@@ -141,7 +141,7 @@
   {
    "id": "scen023.0019",
    "jp": "　{n}　　　　　手入れの行き届いた墓石だ。",
-   "en": "",
+   "en": "　{n}　　　　　The gravestone is carefully tended.",
    "term": "end"
   },
   {
@@ -287,19 +287,19 @@
   {
    "id": "scen023.0040",
    "jp": "‥‥{v:0024}ここで諦めてしまうと、{n}あの人に笑われてしまいます。{n}私は私で、別の方法を考えてみます。",
-   "en": "",
+   "en": "...{v:0024}If I give up now, he will laugh at me. I will try to think{n}of another way myself.",
    "term": "end"
   },
   {
    "id": "scen023.0041",
    "jp": "{v:0026}アリオスト。{n}あなたはあの人の息子なのですよ。{n}最後まで諦めないで。",
-   "en": "",
+   "en": "{v:0026}Ariost. You are his son, after all. See it through to the{n}very end.",
    "term": "end"
   },
   {
    "id": "scen023.0042",
    "jp": "{v:0027}そうだな。{n}やる前から諦めちゃ、何にも始まらねぇ。",
-   "en": "",
+   "en": "{v:0027}That's right. Give up before you even try, and you'll{n}never get anywhere.",
    "term": "end"
   },
   {
@@ -1047,7 +1047,7 @@
   {
    "id": "scen023.0149",
    "jp": "頭の良し悪しじゃないさ。{n}人の役に立とうと思ったら{n}しっかり勉強するんだよ。",
-   "en": "",
+   "en": "It isn't a matter of how clever you are. If you want to{n}help people, study hard.",
    "term": "end"
   },
   {

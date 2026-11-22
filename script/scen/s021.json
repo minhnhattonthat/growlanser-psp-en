@@ -1212,45 +1212,45 @@
   {
    "id": "scen021.0170",
    "jp": "私は人をめぐる星を読む占い師。{n}私が力を発揮できる地を求めて旅をしています。{p}私が必要とするのは、{n}森に囲まれ、人々の喜びにあふれた湖‥‥。{p}あなたは、特殊な星の下に生まれた人ですね。{n}もし、私が求める場所を教えてくれたならば、{n}あなたに星の声をお聞かせしましょう。",
-   "en": "",
+   "en": "I am a fortune teller who reads the stars that circle{n}each person. I travel in search of a land where my{n}power may flourish.{p}What I require is a lake surrounded by forest and{n}overflowing with people's joy...{p}You were born under a special star, I see. If you will{n}tell me of the place I seek, I shall let you hear the{n}voice of the stars.",
    "term": "end"
   },
   {
    "id": "scen021.0171",
    "jp": "アンタがもらった領地に、{n}ボート乗り場を作ったんだよね？{n}あそこってどうかな？",
-   "en": "",
+   "en": "You had a boat dock built on that estate you got,{n}right? How about there?",
    "term": "end"
   },
   {
    "id": "scen021.0172",
    "jp": "おお、ボート乗り場！{n}まさしく人々の喜びにあふれた湖！{n}ぜひ私をそこに案内して下さい！",
-   "en": "",
+   "en": "Oh, a boat dock! Truly a lake overflowing with people's{n}joy! Please, you must take me there!",
    "term": "end"
   },
   {
    "id": "scen021.0173",
    "jp": "・場所を教える",
-   "en": "",
+   "en": "・Tell her the place",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen021.0174",
    "jp": "・場所を教えない",
-   "en": "",
+   "en": "・Don't tell her",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen021.0175",
    "jp": "‥‥ふむふむ‥‥。{n}ローザリアの西にそんな場所が‥‥。{p}ありがとうございます。{n}さっそく向かってみます！",
-   "en": "",
+   "en": "...I see, I see... Such a place lies west of Rosaria...{p}Thank you very much. I shall head there at once!",
    "term": "end"
   },
   {
    "id": "scen021.0176",
    "jp": "そうですか。{n}今はまだ早いと言うことですね。{p}その時が来ましたら、{n}再び声をかけてください。",
-   "en": "",
+   "en": "I see. So the time is not yet ripe.{p}When that time comes, please speak to me again.",
    "term": "end"
   },
   {

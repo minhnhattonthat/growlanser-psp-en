@@ -141,112 +141,112 @@
   {
    "id": "scen002.0019",
    "jp": "あれ？{n}ねぇ、あの人って確か‥‥。",
-   "en": "",
+   "en": "Huh? Hey, isn't that man...?",
    "term": "end"
   },
   {
    "id": "scen002.0020",
    "jp": "ん‥‥？{FFFB}{n}おお、キミたちは！",
-   "en": "",
+   "en": "Hm...?{FFFB} Oh, it's you kids!",
    "term": "end"
   },
   {
    "id": "scen002.0021",
    "jp": "フェザリアン研究家のダニーさんだ！",
-   "en": "",
+   "en": "It's Danny-san, the Featherian researcher!",
    "term": "end"
   },
   {
    "id": "scen002.0022",
    "jp": "あの時はありがとうございました。{n}今日は、{s:0158}に何かご用ですか？",
-   "en": "",
+   "en": "Thank you for the other day. What brings you to {s:0158}{n}today?",
    "term": "end"
   },
   {
    "id": "scen002.0023",
    "jp": "実は、最近{s:0166}国内で{n}フェザリアンを見かけるという噂を聞いてね。{p}気になって来てみたんだが、{n}キミたち、何か情報を知らないかい？{n}噂によると、長髪の若い女性らしいのだが‥‥。",
-   "en": "",
+   "en": "Well, I recently heard a rumor that a Featherian has{n}been seen in {s:0166}.{p}It caught my interest, so I came to look. Do you kids{n}know anything? According to the rumor, it's a young{n}woman with long hair...",
    "term": "end"
   },
   {
    "id": "scen002.0024",
    "jp": "それって、{s:00C3}たちに襲われてた{n}フェザリアンさんのことかな？",
-   "en": "",
+   "en": "Do you mean Featherian-san, who was being attacked{n}by that {s:00C3} gang?",
    "term": "end"
   },
   {
    "id": "scen002.0025",
    "jp": "おお、知っているのかね！{n}{FFFB}で、そのフェザリアンはいったいどこに？",
-   "en": "",
+   "en": "Oh, so you know of her!{FFFB} Then where is this Featherian?",
    "term": "end"
   },
   {
    "id": "scen002.0026",
    "jp": "アタシたちが出会ったのは、{n}確かグランシルの南の方だったよ。",
-   "en": "",
+   "en": "We met her somewhere south of Grancil, I think!",
    "term": "end"
   },
   {
    "id": "scen002.0027",
    "jp": "グランシルの南だな！{p}さっそく行ってみるよ！{n}情報をありがとう！",
-   "en": "",
+   "en": "South of Grancil, eh!{p}I'll go there right away! Thanks for the information!",
    "term": "end"
   },
   {
    "id": "scen002.0028",
    "jp": "‥‥教えちまってよかったのか？{n}彼女は、人間を嫌ってるんだろう？",
-   "en": "",
+   "en": "...Was it all right to tell him? She hates humans,{n}doesn't she?",
    "term": "end"
   },
   {
    "id": "scen002.0029",
    "jp": "{FB00}あう‥‥やっぱり、マズかった‥？",
-   "en": "",
+   "en": "{FB00}Uh... was that a bad idea after all...?",
    "term": "end"
   },
   {
    "id": "scen002.0030",
    "jp": "・マズイだろう",
-   "en": "",
+   "en": "・That was bad",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen002.0031",
    "jp": "・別にマズくないだろう",
-   "en": "",
+   "en": "・It's not really a problem",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen002.0032",
    "jp": "・自分たちも行ってみよう",
-   "en": "",
+   "en": "・Let's go there too",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen002.0033",
    "jp": "あうぅぅ～‥‥。",
-   "en": "",
+   "en": "Auuugh...",
    "term": "end"
   },
   {
    "id": "scen002.0034",
    "jp": "ねえ、お兄ちゃん。{n}わたしたちも行ってみようよ。",
-   "en": "",
+   "en": "Hey, Big Brother. Let's go there too.",
    "term": "end"
   },
   {
    "id": "scen002.0035",
    "jp": "だ‥‥だよね、だよね？",
-   "en": "",
+   "en": "R-right? Right?",
    "term": "end"
   },
   {
    "id": "scen002.0036",
    "jp": "それが良いかもしれないな。{n}人間とフェザリアンの間に{n}これ以上問題が起こったら大変だ。",
-   "en": "",
+   "en": "That might be best. If any more trouble breaks out{n}between humans and Featherians, it'll be serious.",
    "term": "end"
   },
   {
@@ -273,13 +273,13 @@
   {
    "id": "scen002.0040",
    "jp": "これは{s:014B}様！",
-   "en": "",
+   "en": "Lady {s:014B}! Welcome!",
    "term": "end"
   },
   {
    "id": "scen002.0041",
    "jp": "この者たちを王にお{s:012A}通りさせたいのです。",
-   "en": "",
+   "en": "I would like these people to have an audience with{n}the King.",
    "term": "end"
   },
   {
@@ -341,13 +341,13 @@
   {
    "id": "scen002.0050",
    "jp": "‥‥{s:0166}は、のどかでいいよね。{p}{s:0160}や{s:0161}は、{n}どうも俺の性に合わないよ。",
-   "en": "",
+   "en": "...It's nice how peaceful {s:0166} is.{p}{s:0160} and {s:0161} just don't{n}suit me.",
    "term": "end"
   },
   {
    "id": "scen002.0051",
    "jp": "あれ？君たちの連れの人は‥‥{s:014B}様！？{p}そうか、薬を見つけられたのか。{n}それはよかった。",
-   "en": "",
+   "en": "Huh? Isn't that person with you... Lady{n}{s:014B}?!{p}So you found the medicine. That's a relief.",
    "term": "end"
   },
   {
@@ -360,19 +360,19 @@
   {
    "id": "scen002.0053",
    "jp": "‥‥って思っていたけど、{n}{s:014B}様は城内で襲われたんだろ？{n}おお、怖い。",
-   "en": "",
+   "en": "...Or so I thought, but Lady {s:014B} was{n}attacked inside the castle, wasn't she? Oh,{n}that's frightening.",
    "term": "end"
   },
   {
    "id": "scen002.0054",
    "jp": "{s:014B}様！？{p}お元気になられたのですね、よかった‥‥。",
-   "en": "",
+   "en": "Lady {s:014B}?!{p}You've recovered! What a relief...",
    "term": "end"
   },
   {
    "id": "scen002.0055",
    "jp": "すぐ北に大きな城門があるだろ？{n}あれが{s:0166}の王城の門だよ。",
-   "en": "",
+   "en": "You know that big castle gate just north of here?{n}That's the gate to {s:0166}'s royal castle.",
    "term": "end"
   },
   {
@@ -385,7 +385,7 @@
   {
    "id": "scen002.0057",
    "jp": "それにしても、あれだけの警備なのに、{n}賊はどうやって侵入したんだろう？",
-   "en": "",
+   "en": "Still, with all those guards, how did the intruder get in?",
    "term": "end"
   },
   {
@@ -465,13 +465,13 @@
   {
    "id": "scen002.0068",
    "jp": "この頃さ、やけに事件が多くない？{n}{s:014B}様のことといい、戦争のことといい‥‥。{p}どうなっちゃうのかしらね。",
-   "en": "",
+   "en": "Hasn't there been an awful lot of trouble lately? First{n}it was Lady {s:014B}, then the war...{p}I wonder what's going to happen to us.",
    "term": "end"
   },
   {
    "id": "scen002.0069",
    "jp": "はぁ‥‥{s:00BD}の頃が懐かしいわね‥‥。{n}岬ではるか遠くを飛ぶフェザリアンを見た日も、{n}こんな晴れた空だったわ‥‥",
-   "en": "",
+   "en": "Ah... How I miss the days when I was a{n}{s:00BD}...{p}The day I stood on the cape and saw a Featherian{n}flying far off in the distance, the sky was just as{n}clear as this...",
    "term": "end"
   },
   {
@@ -582,13 +582,13 @@
   {
    "id": "scen002.0085",
    "jp": "{s:014B}様がお倒れになったらしいわね。{n}大したことじゃないといいのだけれど‥‥。",
-   "en": "",
+   "en": "I hear Lady {s:014B} has fallen ill. I do hope{n}it isn't serious...",
    "term": "end"
   },
   {
    "id": "scen002.0086",
    "jp": "あっ！？{n}{s:014B}様、お元気になられたのですね。",
-   "en": "",
+   "en": "Oh?! Lady {s:014B}, you've recovered!",
    "term": "end"
   },
   {
@@ -643,7 +643,7 @@
   {
    "id": "scen002.0094",
    "jp": "{s:0159}村の{s:00A3}は私の叔父なのよ。{n}今でこそ、ぼ～っとして見えてるけど{n}昔はけっこう切れ者だったらしいわ。",
-   "en": "",
+   "en": "The {s:00A3} of {s:0159} Village is{n}my uncle. He may seem rather absentminded now, but I{n}hear he used to be quite sharp.",
    "term": "end"
   },
   {
@@ -761,7 +761,7 @@
   {
    "id": "scen002.0111",
    "jp": "覆面をした男？{n}アンタ達の探してる男かどうかわからないけど、{n}怪しい男ならここをまっすぐ走っていったよ。",
-   "en": "",
+   "en": "A masked man? I don't know if he's the one you're{n}after, but some suspicious guy ran straight down{n}this way.",
    "term": "end"
   },
   {
@@ -894,7 +894,7 @@
   {
    "id": "scen002.0129",
    "jp": "おお、あなたが{s:0019}ですか！{n}いやぁ、お美しい‥‥。",
-   "en": "",
+   "en": "Oh, so you're {s:0019}! My, what a beauty...",
    "term": "end"
   },
   {
@@ -921,13 +921,13 @@
   {
    "id": "scen002.0133",
    "jp": "おお、これはこれは{s:0019}。{n}ご機嫌うるわしゅう‥‥。",
-   "en": "",
+   "en": "Oh, well, well, {s:0019}. I trust you are in{n}good spirits...",
    "term": "end"
   },
   {
    "id": "scen002.0134",
    "jp": "{s:00CB}？{n}何で、私がこの顔を隠さなくちゃいけないんですか？",
-   "en": "",
+   "en": "{s:00CB}? Why would I need to hide{n}this face?",
    "term": "end"
   },
   {
@@ -1066,13 +1066,13 @@
   {
    "id": "scen002.0154",
    "jp": "{v:0050}{s:0005}さん。{n}お久しぶりです。",
-   "en": "",
+   "en": "{v:0050}{s:0005}. It's been so long.",
    "term": "end"
   },
   {
    "id": "scen002.0155",
    "jp": "{v:0051}{s:0007}さんはどうしているの？",
-   "en": "",
+   "en": "{v:0051}How is {s:0007} doing?",
    "term": "end"
   },
   {
@@ -1092,7 +1092,7 @@
   {
    "id": "scen002.0158",
    "jp": "{v:0054}{s:0007}の見舞いに来てくれたみたいだな。{n}礼を言うよ。",
-   "en": "",
+   "en": "{v:0054}I hear you came to visit {s:0007}. Thanks{n}for that.",
    "term": "end"
   },
   {
@@ -1119,7 +1119,7 @@
   {
    "id": "scen002.0162",
    "jp": "その前にも、妹の{s:0007}さんが、{n}{s:00C3}に襲われていたのを{n}一緒に助けたことがあったんだ。",
-   "en": "",
+   "en": "Even before that, we helped him rescue his sister {s:0007}{n}when a {s:00C3} attacked her.",
    "term": "end"
   },
   {
@@ -1139,31 +1139,31 @@
   {
    "id": "scen002.0165",
    "jp": "{s:0007}さんは元気？",
-   "en": "",
+   "en": "Is {s:0007} doing well?",
    "term": "end"
   },
   {
    "id": "scen002.0166",
    "jp": "‥‥実は、あの後、また{s:00C3}に襲われてな。{n}今はラシェルに入院している。",
-   "en": "",
+   "en": "...Actually, a {s:00C3} attacked her again{n}after that. She's in the hospital in Rachelle now.",
    "term": "end"
   },
   {
    "id": "scen002.0167",
    "jp": "そういえば、{s:0007}さん、{n}入院してたけど、何かあったの？",
-   "en": "",
+   "en": "Come to think of it, {s:0007} was in the{n}hospital. Did something happen?",
    "term": "end"
   },
   {
    "id": "scen002.0168",
    "jp": "‥‥実は、あの後、また{s:00C3}に襲われてな。",
-   "en": "",
+   "en": "...Actually, a {s:00C3} attacked her again{n}after that.",
    "term": "end"
   },
   {
    "id": "scen002.0169",
    "jp": "幸い、ラシェルに入院できて、{n}今は快復に向かっている。",
-   "en": "",
+   "en": "Luckily, she got into the hospital in Rachelle. She's{n}recovering now.",
    "term": "end"
   },
   {
@@ -1183,7 +1183,7 @@
   {
    "id": "scen002.0172",
    "jp": "{v:0057}そうそう！{n}ねぇ、{s:0005}。{n}こっちに怪しい男が逃げてこなかった？",
-   "en": "",
+   "en": "{v:0057}Oh, right! Hey, {s:0005}! Did some suspicious{n}guy run this way?",
    "term": "end"
   },
   {
@@ -1231,7 +1231,7 @@
   {
    "id": "scen002.0179",
    "jp": "{v:005F}そうか。{n}{s:0007}の入院で金が必要なんだ。{n}ひとつ、捕まえてみるか！{p}{v:0060}それじゃな！",
-   "en": "",
+   "en": "{v:005F}I see. I need money for {s:0007}'s hospital{n}bills. Guess I'll try catching him!{p}{v:0060}See you!",
    "term": "end"
   },
   {
@@ -1258,7 +1258,7 @@
   {
    "id": "scen002.0183",
    "jp": "王都{s:0158}",
-   "en": "",
+   "en": "Royal Capital {s:0158}",
    "term": "end"
   },
   {
@@ -1285,7 +1285,7 @@
   {
    "id": "scen002.0187",
    "jp": "あっ、{s:0019}？{n}自分は姫のためなら、命も捨てる覚悟です！",
-   "en": "",
+   "en": "Oh, {s:0019}! I am prepared to lay down my{n}life for you, Princess!",
    "term": "end"
   },
   {
@@ -1333,13 +1333,13 @@
   {
    "id": "scen002.0194",
    "jp": "{v:0010}そうだな。{n}諦めたらそこで終わりだ。",
-   "en": "",
+   "en": "{v:0010}That's right. Give up, and it's over.",
    "term": "end"
   },
   {
    "id": "scen002.0195",
    "jp": "{v:0011}はい、そうですね。{p}{FC00}{v:0012}ところで１つ聞きたいことがあるのですが‥‥。",
-   "en": "",
+   "en": "{v:0011}Yes, you are right.{p}{FC00}{v:0012}There is something I would like to ask, though...",
    "term": "end"
   },
   {
@@ -1352,13 +1352,13 @@
   {
    "id": "scen002.0197",
    "jp": "{s:0019}を救出に向かった理由はなんですか？",
-   "en": "",
+   "en": "Why did you set out to rescue {s:0019}?",
    "term": "end"
   },
   {
    "id": "scen002.0198",
    "jp": "・{s:0013}に命じられたから",
-   "en": "",
+   "en": "・Because {s:0013} ordered us to",
    "term": "end",
    "unref": true
   },
@@ -1388,7 +1388,7 @@
   {
    "id": "scen002.0202",
    "jp": "{v:0015}そうそう。{n}王様やお姫様あっての{s:0166}王国だもんね。",
-   "en": "",
+   "en": "{v:0015}Right, right. Where would the Kingdom of {s:0166}{n}be without its king and princess?",
    "term": "end"
   },
   {
@@ -1422,7 +1422,7 @@
   {
    "id": "scen002.0207",
    "jp": "{FFF6}{v:001A}ありがとう。{n}本当にありがとう。",
-   "en": "",
+   "en": "{FFF6}{v:001A}Thank you. Thank you so much.",
    "term": "end"
   },
   {
@@ -1442,7 +1442,7 @@
   {
    "id": "scen002.0210",
    "jp": "姫のこと、よろしく頼むぞ！",
-   "en": "",
+   "en": "Take good care of the princess!",
    "term": "end"
   },
   {
@@ -1469,7 +1469,7 @@
   {
    "id": "scen002.0214",
    "jp": "ここは王都{s:0158}{s:005D}詰め所だよ。{n}悪い人たちを見かけたら、おじさんに教えてくれ。",
-   "en": "",
+   "en": "This is the {s:005D} post of the royal{n}capital, {s:0158}. If you see any bad people,{n}come tell me, all right?",
    "term": "end"
   },
   {
@@ -1510,7 +1510,7 @@
   {
    "id": "scen002.0220",
    "jp": "　{n}　　『出かけるときは、戸締まりを忘れずに！』{n}　　　　　　　～{s:0158}警備隊～",
-   "en": "",
+   "en": "　{n}　　'Remember to lock up when you go out!'{n}--{s:0158} Guard",
    "term": "end"
   },
   {
@@ -1537,7 +1537,7 @@
   {
    "id": "scen002.0224",
    "jp": "{v:004B}俺と{s:0006}はここで２人の護衛をする。{n}お前と{s:0001}で追跡しろ！",
-   "en": "",
+   "en": "{v:004B}{s:0006} and I will stay and guard these{n}two. You and {s:0001} go after him!",
    "term": "end"
   },
   {
@@ -1564,7 +1564,7 @@
   {
    "id": "scen002.0228",
    "jp": "{v:001E}あ、{s:0004}君？",
-   "en": "",
+   "en": "{v:001E}Oh, {s:0004}?",
    "term": "end"
   },
   {
@@ -1654,7 +1654,7 @@
   {
    "id": "scen002.0241",
    "jp": "‥‥{v:002C}ん‥‥？{n}{s:0019}‥‥？{FFF9}{FFFB}{n}{v:002D}それに奴らは‥‥。",
-   "en": "",
+   "en": "...{v:002C}Hm...? {s:0019}...?{FFF9}{FFFB}{v:002D}And those people...",
    "term": "end"
   },
   {
@@ -1758,7 +1758,7 @@
   {
    "id": "scen002.0256",
    "jp": "{v:006A}えっ？{n}ここにいるわけは、両親に{s:0166}城へ{n}参るように言われたためですが‥‥。{p}{FC03}{v:006B}その‥‥紹介状をなくしてしまって‥‥。",
-   "en": "",
+   "en": "{v:006A}Huh? I'm here because my parents told me to go to {s:0166}{n}Castle...{p}{FC03}{v:006B}But, um... I lost my letter of introduction...",
    "term": "end"
   },
   {
@@ -1778,7 +1778,7 @@
   {
    "id": "scen002.0259",
    "jp": "{v:006F}{s:0004}が、どうかしたの？",
-   "en": "",
+   "en": "{v:006F}What's wrong with {s:0004}?",
    "term": "end"
   },
   {
@@ -1798,13 +1798,13 @@
   {
    "id": "scen002.0262",
    "jp": "{v:0072}似ているのです。{n}{s:0160}王国の王子‥‥{n}‥‥いいえ、新しい王、{s:000A}に。",
-   "en": "",
+   "en": "{v:0072}He resembles the prince of the Kingdom of{n}{s:0160}... No, its new king,{n}{s:000A}.",
    "term": "end"
   },
   {
    "id": "scen002.0263",
    "jp": "{s:0004}と{s:000A}王との関係を{n}どう思いますか？",
-   "en": "",
+   "en": "What do you make of the connection between {s:0004}{n}and King {s:000A}?",
    "term": "end"
   },
   {
@@ -1879,7 +1879,7 @@
   {
    "id": "scen002.0273",
    "jp": "{v:0077}しかし、{s:000A}王に{n}双子の兄弟がいるという話は聞いたことがありません。",
-   "en": "",
+   "en": "{v:0077}But I have never heard of King {s:000A}{n}having a twin brother.",
    "term": "end"
   },
   {
@@ -1899,7 +1899,7 @@
   {
    "id": "scen002.0276",
    "jp": "{v:007B}私は{s:0160}王国内で、{n}彼の戴冠式に出席してきました。{p}{v:007C}本人がほぼ同時に２ヶ所に存在することは{n}出来ないと思います。",
-   "en": "",
+   "en": "{v:007B}I attended his coronation in the Kingdom of{n}{s:0160}.{p}{v:007C}I do not believe he could be in two places at nearly the{n}same time.",
    "term": "end"
   },
   {
@@ -1940,7 +1940,7 @@
   {
    "id": "scen002.0282",
    "jp": "{v:0083}{s:0001}ちゃんはどう思う？",
-   "en": "",
+   "en": "{v:0083}What do you think, {s:0001}?",
    "term": "end"
   },
   {
@@ -1953,7 +1953,7 @@
   {
    "id": "scen002.0284",
    "jp": "{v:0085}とにかく、こいつが{s:0160}王国の{n}{s:000A}新王に似ているってことは事実なわけだ。{p}{v:0086}それにこいつは元々城に行くように指示されていた。{n}さらに何者かに命を狙われている。",
-   "en": "",
+   "en": "{v:0085}Anyway, the fact is, this kid looks like{n}{s:000A}, the new king of{n}{s:0160}.{p}{v:0086}He was told to go to the castle in the first place. And{n}someone's trying to kill him.",
    "term": "end"
   },
   {
@@ -1987,7 +1987,7 @@
   {
    "id": "scen002.0289",
    "jp": "{v:008B}間違いありません。{n}全く同じブレスレットを、{s:000A}王も{n}していました。",
-   "en": "",
+   "en": "{v:008B}There is no mistake. King {s:000A} was{n}wearing exactly the same bracelet.",
    "term": "end"
   },
   {
@@ -2007,7 +2007,7 @@
   {
    "id": "scen002.0292",
    "jp": "　{n}　　　　　{FFEF}{s:0004}が仲間になった！{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　{FFEF}{s:0004} joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -2125,7 +2125,7 @@
   {
    "id": "scen002.0309",
    "jp": "　　　スターロード武器・防具店{n}　　　　　　　{s:0158}本店",
-   "en": "",
+   "en": "　　　Star Road Weapons and Armor{n}{s:0158} Main Store",
    "term": "end"
   },
   {
@@ -2180,7 +2180,7 @@
   {
    "id": "scen002.0317",
    "jp": "{FFEC}{s:000E}ちゃーん、きーっく{FFED}",
-   "en": "",
+   "en": "{FFEC}{s:000E} Kiiick!{FFED}",
    "term": "end"
   },
   {

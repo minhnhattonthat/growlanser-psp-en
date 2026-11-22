@@ -64,7 +64,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   work/tl/termscan.tsv: new PSP names to rule (メルフィ 178, アメリア 145, ジャスティン 113, デュンケルス 88, ラミィ 46,
   ユリィ 21, コリン 14, 『るいせちゃんのお部屋』).
   codex exec hit its usage limit (until 2026-11-26): D13 = translator/reviewer subagents instead. On PSP 目 is
-  `{s:012A}` (GLYPH_VARS). TODO: tbl 04C2 is 噂 not 哮 (every use reads 噂の/噂は): fix tbl + jp fields after wave 1.
+  `{s:012A}` (GLYPH_VARS, + {s:012E} 爪, {s:0047} 教授). tbl 04C2 = 噂 (was 哮), 07ED = 哮; jp fields updated.
+  Check rules added: no honorific after a {s:} variable (PS1 dropped 90/90); boot.save raw newline = `{lf}` in
+  batches, no VWF lint for boot.save. `tools/svars.py > build/svars.txt` (what each {s:XXXX} draws: regenerate
+  after names merge). Review = reviewer subagents on `tl_run.py pairs bNNN` files; Minors -> docs/polish.md;
+  merged batches get work/tl/bNNN.done. Progress: b013-b016 merged; b001-b012 checked OK, in review; b017-b036
+  translating; b037-b067 not started (batches re-split after the tbl fix).
 - **Next (phase 6, translate):** (1) terms pass: rule the new PSP names (termscan.tsv) into glossary.md. (2) Synopsis
   section 6 for the 43 PSP-only scenes in work/psp_scenes.txt (`tl_run.py psp-scenes` once codex works, or by hand).
   (3) Translate work/tl/bNNN.tsv -> bNNN.out.tsv per docs/translator-brief.md, `batches.py check bNNN`, review

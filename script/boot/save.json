@@ -5,7 +5,7 @@
   {
    "id": "boot.save.0000",
    "jp": "グローランサー［%s］　%s：%s：%s　%s",
-   "en": "",
+   "en": "Growlanser [%s] %s:%s:%s %s",
    "at": "0x117408",
    "size": 40,
    "enc": "cp932"
@@ -13,7 +13,7 @@
   {
    "id": "boot.save.0001",
    "jp": "グローランサー",
-   "en": "",
+   "en": "Growlanser",
    "at": "0x117A80",
    "size": 24,
    "enc": "utf-8"
@@ -21,7 +21,7 @@
   {
    "id": "boot.save.0002",
    "jp": "セーブデータ",
-   "en": "",
+   "en": "Save Data",
    "at": "0x117A98",
    "size": 20,
    "enc": "utf-8"
@@ -29,7 +29,7 @@
   {
    "id": "boot.save.0003",
    "jp": "セーブデータ格納ファイル",
-   "en": "",
+   "en": "Save Data Storage File",
    "at": "0x117AAC",
    "size": 40,
    "enc": "utf-8"
@@ -37,7 +37,7 @@
   {
    "id": "boot.save.0004",
    "jp": "メモリースティック™が抜かれました。",
-   "en": "",
+   "en": "The Memory Stick has been removed.",
    "at": "0x117AF4",
    "size": 56,
    "enc": "utf-8"
@@ -45,7 +45,7 @@
   {
    "id": "boot.save.0005",
    "jp": "メモリースティック™が入っていません。",
-   "en": "",
+   "en": "No Memory Stick is inserted.",
    "at": "0x117B2C",
    "size": 60,
    "enc": "utf-8"
@@ -53,7 +53,7 @@
   {
    "id": "boot.save.0006",
    "jp": "セーブがキャンセルされました。",
-   "en": "",
+   "en": "Saving was canceled.",
    "at": "0x117B68",
    "size": 48,
    "enc": "utf-8"
@@ -61,7 +61,7 @@
   {
    "id": "boot.save.0007",
    "jp": "ロードがキャンセルされました。",
-   "en": "",
+   "en": "Loading was canceled.",
    "at": "0x117B98",
    "size": 48,
    "enc": "utf-8"
@@ -69,7 +69,7 @@
   {
    "id": "boot.save.0008",
    "jp": "メモリースティック™が入っていません。このゲームのデータをセーブするには空き容量が %dKB 以上のメモリースティック™が必要です。",
-   "en": "",
+   "en": "No Memory Stick is inserted. To save data for this game, a Memory Stick with at least %dKB of free space is required.",
    "at": "0x117BC8",
    "size": 188,
    "enc": "utf-8"
@@ -77,7 +77,7 @@
   {
    "id": "boot.save.0009",
    "jp": "空き容量が不足しています。このゲームのデータをセーブするには空き容量が %dKB 以上必要です。",
-   "en": "",
+   "en": "There is not enough free space. To save data for this game, at least %dKB of free space is required.",
    "at": "0x117C84",
    "size": 136,
    "enc": "utf-8"
@@ -85,7 +85,7 @@
   {
    "id": "boot.save.0010",
    "jp": "他のゲームのデータを削除して、 空き容量を確保しますか？",
-   "en": "",
+   "en": "Delete data from other games to free up space?",
    "at": "0x117D0C",
    "size": 84,
    "enc": "utf-8"
@@ -93,7 +93,7 @@
   {
    "id": "boot.save.0011",
    "jp": "AUTO SAVEをOFFにします。",
-   "en": "",
+   "en": "AUTO SAVE will be turned OFF.",
    "at": "0x119284",
    "size": 32,
    "enc": "utf-8"
@@ -101,7 +101,7 @@
   {
    "id": "boot.save.0012",
    "jp": "セーブできませんでした。　\nゲームに戻ります。",
-   "en": "",
+   "en": "Could not save.\nReturning to the game.",
    "at": "0x1192A4",
    "size": 68,
    "enc": "utf-8"
@@ -109,7 +109,7 @@
   {
    "id": "boot.save.0013",
    "jp": "ロードできませんでした。　\nゲームに戻ります。",
-   "en": "",
+   "en": "Could not load.\nReturning to the game.",
    "at": "0x1192E8",
    "size": 68,
    "enc": "utf-8"
@@ -117,7 +117,7 @@
   {
    "id": "boot.save.0014",
    "jp": "ロードが中断されました。　\nこのままゲームを開始してよろしいですか？",
-   "en": "",
+   "en": "Loading was interrupted.\nStart the game as is?",
    "at": "0x11932C",
    "size": 104,
    "enc": "utf-8"
@@ -125,7 +125,7 @@
   {
    "id": "boot.save.0015",
    "jp": "ロードが中断されました。",
-   "en": "",
+   "en": "Loading was interrupted.",
    "at": "0x119394",
    "size": 40,
    "enc": "utf-8"
@@ -133,7 +133,7 @@
   {
    "id": "boot.save.0016",
    "jp": "セーブが中断されました。　\nセーブ処理を終了しますか？",
-   "en": "",
+   "en": "Saving was interrupted.\nQuit saving?",
    "at": "0x1193BC",
    "size": 80,
    "enc": "utf-8"

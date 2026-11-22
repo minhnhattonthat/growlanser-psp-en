@@ -134,7 +134,7 @@
   {
    "id": "scen016.0018",
    "jp": "{v:001F}詳しいことは直接本人から聞くしか{n}ありませんね。",
-   "en": "",
+   "en": "{v:001F}For the details, we will have no choice but to ask{n}him directly.",
    "term": "end"
   },
   {
@@ -252,43 +252,43 @@
   {
    "id": "scen016.0035",
    "jp": "{v:0021}出発の前に、{n}城の地下に寄ってみるといいでしょう。",
-   "en": "",
+   "en": "{v:0021}Before you leave, you would do well to stop by the{n}castle's lower levels.",
    "term": "end"
   },
   {
    "id": "scen016.0036",
    "jp": "{v:0022}え？{n}お城の地下？",
-   "en": "",
+   "en": "{v:0022}Huh? The castle's lower levels?",
    "term": "end"
   },
   {
    "id": "scen016.0037",
    "jp": "{v:0023}まさかヴェンツェルか？",
-   "en": "",
+   "en": "{v:0023}Don't tell me... Wenzel?",
    "term": "end"
   },
   {
    "id": "scen016.0038",
    "jp": "{v:0024}はい。{n}少し前にヴェンツェルの意識が戻ったと{n}連絡がありました。",
-   "en": "",
+   "en": "{v:0024}Yes. I received word a short while ago that Wenzel has{n}regained consciousness.",
    "term": "end"
   },
   {
    "id": "scen016.0039",
    "jp": "{v:0025}わかりました。{n}寄ってみます。{n}ルイセを戻す手がかりが得られるかもしれない。",
-   "en": "",
+   "en": "{v:0025}Understood. We'll stop by. We might find a clue to{n}restoring Luise.",
    "term": "end"
   },
   {
    "id": "scen016.0040",
    "jp": "{v:0026}頼みます。",
-   "en": "",
+   "en": "{v:0026}Please do.",
    "term": "end"
   },
   {
    "id": "scen016.0041",
    "jp": "ヴェンツェルに事情聴取",
-   "en": "",
+   "en": "Question Wenzel",
    "term": "end"
   },
   {
@@ -465,7 +465,7 @@
   {
    "id": "scen016.0066",
    "jp": "{v:003A}では、『{FFEF}発生の元となる現象{FFF1}』とは{n}何だと思いますか？",
-   "en": "",
+   "en": "{v:003A}Then what do you think '{FFEF}the phenomenon that gives rise{n}to Growsians{FFF1}' is?",
    "term": "end"
   },
   {
@@ -517,7 +517,7 @@
   {
    "id": "scen016.0073",
    "jp": "{v:003D}考える前から諦めてはいけませんよ。",
-   "en": "",
+   "en": "{v:003D}You must not give up before you have even thought{n}about it.",
    "term": "end"
   },
   {
@@ -901,7 +901,7 @@
   {
    "id": "scen016.0128",
    "jp": "　{n}プレートに『{FFEE}るいせちゃんのお部屋{FFF1}』と書いてある。",
-   "en": "",
+   "en": "　{n}The sign reads '{FFEE}Luise-chan's Room{FFF1}.'",
    "term": "end"
   },
   {
@@ -1927,7 +1927,7 @@
   {
    "id": "scen016.0270",
    "jp": "おい、ヴェンツェルに話を聞きに{n}行くんだろ。{n}城の地下へ行こうぜ。",
-   "en": "",
+   "en": "Hey, we're going to question Wenzel, right? Let's head{n}down to the castle's lower levels.",
    "term": "end"
   },
   {

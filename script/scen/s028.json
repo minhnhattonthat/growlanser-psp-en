@@ -22,13 +22,13 @@
   {
    "id": "scen028.0002",
    "jp": "方向音痴の人",
-   "en": "",
+   "en": "Lost Woman",
    "term": "null"
   },
   {
    "id": "scen028.0003",
    "jp": "顔が覚えられない人",
-   "en": "",
+   "en": "Face-Forgetting Woman",
    "term": "null"
   },
   {
@@ -118,145 +118,145 @@
   {
    "id": "scen028.0016",
    "jp": "{v:0024}う～ん‥‥。",
-   "en": "",
+   "en": "{v:0024}Hmmm...",
    "term": "end"
   },
   {
    "id": "scen028.0017",
    "jp": "{v:0025}あれ？{n}あの人って、王都で会った方向音痴の人だよね？",
-   "en": "",
+   "en": "{v:0025}Huh? Isn't that the lady with no sense of direction we{n}met in the capital?",
    "term": "end"
   },
   {
    "id": "scen028.0018",
    "jp": "{v:0026}また迷ってるようだな。",
-   "en": "",
+   "en": "{v:0026}Looks like she's lost again.",
    "term": "end"
   },
   {
    "id": "scen028.0019",
    "jp": "{v:0027}魔法学院は広いから、仕方ないよ。",
-   "en": "",
+   "en": "{v:0027}The Magic Academy is huge. You can't blame her.",
    "term": "end"
   },
   {
    "id": "scen028.0020",
    "jp": "{FFF6}{v:0028}こんにちは。どうしたんですか？",
-   "en": "",
+   "en": "{FFF6}{v:0028}Hello. Is something wrong?",
    "term": "end"
   },
   {
    "id": "scen028.0021",
    "jp": "{v:0029}あら、あなたは確か‥‥{n}どこかで見たような‥‥。",
-   "en": "",
+   "en": "{v:0029}Oh, you're... I feel like I've seen you{n}somewhere before...",
    "term": "end"
   },
   {
    "id": "scen028.0022",
    "jp": "{v:002A}前に王都ローザリアで‥‥。",
-   "en": "",
+   "en": "{v:002A}We met in the Royal Capital Rosaria...",
    "term": "end"
   },
   {
    "id": "scen028.0023",
    "jp": "{v:002B}ああ、あの時の！",
-   "en": "",
+   "en": "{v:002B}Oh, that's right, it was you!",
    "term": "end"
   },
   {
    "id": "scen028.0024",
    "jp": "{FB00}{v:002C}この人、方向音痴なだけじゃなくて、{n}人の顔も覚えられないんじゃ‥‥。",
-   "en": "",
+   "en": "{FB00}{v:002C}This lady doesn't just have no sense of direction... she{n}can't remember faces either...",
    "term": "end"
   },
   {
    "id": "scen028.0025",
    "jp": "{v:002D}ええと、私、この学院の生徒なので、{n}何かお手伝いできるかと‥‥。",
-   "en": "",
+   "en": "{v:002D}Um, I'm a student at this Academy, so I thought maybe{n}I could help...",
    "term": "end"
   },
   {
    "id": "scen028.0026",
    "jp": "{v:002E}そうだったの？",
-   "en": "",
+   "en": "{v:002E}Is that so?",
    "term": "end"
   },
   {
    "id": "scen028.0027",
    "jp": "{v:002F}そうだよ！{n}ルイセちゃんは魔法学院の中でも{n}有名人なんだから！",
-   "en": "",
+   "en": "{v:002F}Yep! Luise-chan's famous, even here at the{n}Magic Academy!",
    "term": "end"
   },
   {
    "id": "scen028.0028",
    "jp": "{v:0030}もう、ティピ、そういうのはやめてよぉ～‥‥。",
-   "en": "",
+   "en": "{v:0030}Oh, Tippi, please don't do that...",
    "term": "end"
   },
   {
    "id": "scen028.0029",
    "jp": "{v:0031}ルイセ‥‥そう、{n}あなたがグローシアンのルイセだったのね‥‥。",
-   "en": "",
+   "en": "{v:0031}Luise... I see, so you're Luise the Growsian...",
    "term": "end"
   },
   {
    "id": "scen028.0030",
    "jp": "{v:0032}やっぱり有名人だったな。",
-   "en": "",
+   "en": "{v:0032}Famous after all, huh.",
    "term": "end"
   },
   {
    "id": "scen028.0031",
    "jp": "{v:0033}{FFF6}あう‥‥。",
-   "en": "",
+   "en": "{v:0033}{FFF6}Auu...",
    "term": "end"
   },
   {
    "id": "scen028.0032",
    "jp": "{v:0034}それじゃ、遠慮なく質問させてもらうんだけど‥‥。{n}私、重要図書の閲覧をしたいのよね。",
-   "en": "",
+   "en": "{v:0034}Well then, I'll ask without holding back... I want to read{n}some of the restricted books.",
    "term": "end"
   },
   {
    "id": "scen028.0033",
    "jp": "{v:0035}重要図書の閲覧には、{n}学院長の許可が必要ですけど。",
-   "en": "",
+   "en": "{v:0035}To read the restricted books, you need the{n}Headmaster's permission, though.",
    "term": "end"
   },
   {
    "id": "scen028.0034",
    "jp": "{v:0036}ああ、その許可はもうもらったのよ。",
-   "en": "",
+   "en": "{v:0036}Oh, I already have that permission.",
    "term": "end"
   },
   {
    "id": "scen028.0035",
    "jp": "{v:0037}えっ？{n}だったら特に難しいことはないと{n}思いますけど‥‥。",
-   "en": "",
+   "en": "{v:0037}Huh? Then I don't think there should be any{n}particular problem...",
    "term": "end"
   },
   {
    "id": "scen028.0036",
    "jp": "{v:0038}問題は閲覧室が見つからないって事なのよね～。",
-   "en": "",
+   "en": "{v:0038}The problem is that I can't find the reading room.",
    "term": "end"
   },
   {
    "id": "scen028.0037",
    "jp": "{FB00}‥{v:0039}あ‥あははは‥‥。{n}‥‥そんなことだろーと思いましたよ‥‥。",
-   "en": "",
+   "en": "{FB00}...{v:0039}A-ahahaha... ...I figured it'd be something like that...",
    "term": "end"
   },
   {
    "id": "scen028.0038",
    "jp": "{FFF6}{v:003A}重要図書閲覧室っていうだけあって、{n}警戒も厳重なのね‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:003A}It IS the Restricted Reading Room, so I suppose the{n}security is really tight...",
    "term": "end"
   },
   {
    "id": "scen028.0039",
    "jp": "・場所を教えてあげる",
-   "en": "",
+   "en": "・Tell her where it is",
    "term": "end",
    "unref": true
   },
@@ -271,37 +271,37 @@
   {
    "id": "scen028.0041",
    "jp": "{v:003B}あの‥‥そのエレベータに乗って、{n}５階で降りて下さい‥‥。",
-   "en": "",
+   "en": "{v:003B}Um... Take that elevator and get off on the 5th floor...",
    "term": "end"
   },
   {
    "id": "scen028.0042",
    "jp": "{v:003C}おおおっ！{n}目指す物はすぐそこにあったのね！{n}これは盲点だわ！",
-   "en": "",
+   "en": "{v:003C}Ooooh! What I was looking for was right there all along!{n}I never thought of that!",
    "term": "end"
   },
   {
    "id": "scen028.0043",
    "jp": "{FFF6}{v:003D}いやぁ、あなたたちっていい人ね！",
-   "en": "",
+   "en": "{FFF6}{v:003D}Wow, you're all such nice people!",
    "term": "end"
   },
   {
    "id": "scen028.0044",
    "jp": "{v:003E}私、アメリア！{n}今後ともよろしくね！{n}それじゃ！",
-   "en": "",
+   "en": "{v:003E}I'm Amelia! Hope we'll get along from now on! Bye!",
    "term": "end"
   },
   {
    "id": "scen028.0045",
    "jp": "{v:003F}なかなかにぎやかな人のようだな。",
-   "en": "",
+   "en": "{v:003F}She's a lively one, isn't she?",
    "term": "end"
   },
   {
    "id": "scen028.0046",
    "jp": "{v:0040}ミーシャとどっちが上かしら‥‥。",
-   "en": "",
+   "en": "{v:0040}I wonder who's louder, her or Misha...",
    "term": "end"
   },
   {
@@ -1372,184 +1372,184 @@
   {
    "id": "scen028.0193",
    "jp": "ごめん、調べものがあるから。{n}また、今度ね。",
-   "en": "",
+   "en": "Sorry, I have some research to do. Some other{n}time, okay?",
    "term": "end"
   },
   {
    "id": "scen028.0194",
    "jp": "‥‥{v:0041}歪みの検出とグローシュの測定値には‥‥。",
-   "en": "",
+   "en": "...{v:0041}Distortion detection and the Grosh measurements...",
    "term": "end"
   },
   {
    "id": "scen028.0195",
    "jp": "{v:0042}あ、アメリアさんだ。",
-   "en": "",
+   "en": "{v:0042}Oh, it's Amelia-san.",
    "term": "end"
   },
   {
    "id": "scen028.0196",
    "jp": "{v:0043}熱心に読んでるみたいだね。",
-   "en": "",
+   "en": "{v:0043}Looks like she's really absorbed in her reading.",
    "term": "end"
   },
   {
    "id": "scen028.0197",
    "jp": "{v:0044}こんにちは、アメリアさん。",
-   "en": "",
+   "en": "{v:0044}Hello, Amelia-san.",
    "term": "end"
   },
   {
    "id": "scen028.0198",
    "jp": "{v:0045}あら、あなたたちは‥‥。",
-   "en": "",
+   "en": "{v:0045}Oh, it's you all...",
    "term": "end"
   },
   {
    "id": "scen028.0199",
    "jp": "・目当ての本は見つかったか",
-   "en": "",
+   "en": "・Did you find the book you wanted?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen028.0200",
    "jp": "・ジャマをしてすまない",
-   "en": "",
+   "en": "・Sorry to bother you",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen028.0201",
    "jp": "・名乗る",
-   "en": "",
+   "en": "・Introduce yourself",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen028.0202",
    "jp": "{v:0046}ええ。{n}今読んでるのがそうよ、ええと‥‥。",
-   "en": "",
+   "en": "{v:0046}Yes. This one I'm reading is it. Um...",
    "term": "end"
   },
   {
    "id": "scen028.0203",
    "jp": "{v:0048}あ、コイツは{s:0000}。{n}ルイセちゃんのお兄さんだよ。",
-   "en": "",
+   "en": "{v:0048}Oh, this guy's {s:0000}. He's Luise-chan's{n}big brother.",
    "term": "end"
   },
   {
    "id": "scen028.0204",
    "jp": "{FFF6}{v:0049}よろしく。",
-   "en": "",
+   "en": "{FFF6}{v:0049}Nice to meet you.",
    "term": "end"
   },
   {
    "id": "scen028.0205",
    "jp": "{v:0047}いいえ、大丈夫よ。{n}ええと‥‥。",
-   "en": "",
+   "en": "{v:0047}No, it's fine. Um...",
    "term": "end"
   },
   {
    "id": "scen028.0206",
    "jp": "{v:004A}あら、ご丁寧にどうも。{n}私はアメリア‥‥ってのはもう言ったわね。",
-   "en": "",
+   "en": "{v:004A}Oh, how polite of you. I'm Amelia... but I already told you{n}that, didn't I?",
    "term": "end"
   },
   {
    "id": "scen028.0207",
    "jp": "{v:004B}アメリアさん、今読んでるその報告書は‥‥。",
-   "en": "",
+   "en": "{v:004B}Amelia-san, that report you're reading...",
    "term": "end"
   },
   {
    "id": "scen028.0208",
    "jp": "{v:004C}時空の歪みと、{n}グローシュの測定値についての報告書よ。",
-   "en": "",
+   "en": "{v:004C}It's a report on space-time distortion and{n}Grosh measurements.",
    "term": "end"
   },
   {
    "id": "scen028.0209",
    "jp": "{v:004D}時空の歪みを研究しているんですか？",
-   "en": "",
+   "en": "{v:004D}You're researching space-time distortion?",
    "term": "end"
   },
   {
    "id": "scen028.0210",
    "jp": "{v:004E}まあね。{n}決まった所属はないけど、{n}ここの研究資料は読ませてもらえる事になったわ。",
-   "en": "",
+   "en": "{v:004E}More or less. I'm not affiliated with anywhere in{n}particular, but they've agreed to let me read the{n}research materials here.",
    "term": "end"
   },
   {
    "id": "scen028.0211",
    "jp": "{FFF6}{v:004F}アメリアさんって、スゴイ人なんですね！",
-   "en": "",
+   "en": "{FFF6}{v:004F}Amelia-san, you're really amazing!",
    "term": "end"
   },
   {
    "id": "scen028.0212",
    "jp": "{v:0050}どうして凄いんだ？",
-   "en": "",
+   "en": "{v:0050}What's so amazing about it?",
    "term": "end"
   },
   {
    "id": "scen028.0213",
    "jp": "{v:0051}魔法学院で研究が出来るって事は、学院を{n}卒業したのと同程度の知識があるって事なんだよ。",
-   "en": "",
+   "en": "{v:0051}Being allowed to do research at the Magic Academy{n}means you know as much as someone who's graduated{n}from it.",
    "term": "end"
   },
   {
    "id": "scen028.0214",
    "jp": "{v:00B7}アメリアさん、こんなに若いのに、{n}いきなり研究をさせてもらえるなんて‥‥。",
-   "en": "",
+   "en": "{v:00B7}Amelia-san, you're so young, and they're already letting{n}you do research...",
    "term": "end"
   },
   {
    "id": "scen028.0215",
    "jp": "{v:0052}いやぁ‥‥照れるわ‥‥。",
-   "en": "",
+   "en": "{v:0052}Oh, stop... You're making me blush...",
    "term": "end"
   },
   {
    "id": "scen028.0216",
    "jp": "{v:0053}人は見かけによらないのね‥‥。{n}ミーシャと比べたりしてごめんなさい‥‥。",
-   "en": "",
+   "en": "{v:0053}I guess you can't judge people by their looks... Sorry for{n}comparing you to Misha...",
    "term": "end"
   },
   {
    "id": "scen028.0217",
    "jp": "{v:0012}ガーン‥‥。{FFF9}{FFFB}{n}{FFF6}{v:0013}ティピちゃん‥‥ヒドイ‥‥",
-   "en": "",
+   "en": "{v:0012}Ouch...{FFF9}{FFFB} {FFF6}{v:0013}Tippi-chan... that's so mean...",
    "term": "end"
   },
   {
    "id": "scen028.0218",
    "jp": "{v:00B3}えっ？",
-   "en": "",
+   "en": "{v:00B3}Huh?",
    "term": "end"
   },
   {
    "id": "scen028.0219",
    "jp": "{v:0054}えっ？{n}ミーシャ？",
-   "en": "",
+   "en": "{v:0054}Huh? Misha?",
    "term": "end"
   },
   {
    "id": "scen028.0220",
    "jp": "{FB00}{v:0055}あははは‥‥、こっちのこと‥！",
-   "en": "",
+   "en": "{FB00}{v:0055}Ahahaha... Never mind, just talking to myself!",
    "term": "end"
   },
   {
    "id": "scen028.0221",
    "jp": "{v:0056}まぁ、いいわ。{p}{FC05}{v:0057}それじゃ、{n}私はこれを読まないといけないから。",
-   "en": "",
+   "en": "{v:0056}Well, whatever.{p}{FC05}{v:0057}Anyway, I need to read this, so...",
    "term": "end"
   },
   {
    "id": "scen028.0222",
    "jp": "{v:0058}あ、はい。{n}おじゃましました。",
-   "en": "",
+   "en": "{v:0058}Oh, right. Sorry to bother you.",
    "term": "end"
   },
   {

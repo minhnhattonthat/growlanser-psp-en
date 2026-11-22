@@ -64,13 +64,13 @@
   {
    "id": "scen061.0008",
    "jp": "{s:0160}王城",
-   "en": "",
+   "en": "{s:0160} Castle",
    "term": "end"
   },
   {
    "id": "scen061.0009",
    "jp": "{s:000A}は地下牢にいるはずです。",
-   "en": "",
+   "en": "{s:000A} should be in the dungeon.",
    "term": "end"
   },
   {
@@ -111,7 +111,7 @@
   {
    "id": "scen061.0015",
    "jp": "{v:0004}{s:0025}のことで、話があるんだ。{n}エリオ‥‥国王陛下は？",
-   "en": "",
+   "en": "{v:0004}We need to talk about {s:0025}. Where's{n}Elli... His Majesty?",
    "term": "end"
   },
   {
@@ -124,7 +124,7 @@
   {
    "id": "scen061.0017",
    "jp": "{v:0006}インペリアル・ナイツもいた方がいい。{n}{s:0153}は？",
-   "en": "",
+   "en": "{v:0006}We'd better have the Imperial Knights there too.{n}Where's {s:0153}?",
    "term": "end"
   },
   {
@@ -172,13 +172,13 @@
   {
    "id": "scen061.0024",
    "jp": "{v:0036}戻ってきたのですか？{n}それで{s:0161}城は？",
-   "en": "",
+   "en": "{v:0036}You've returned? And what of {s:0161}{n}Castle?",
    "term": "end"
   },
   {
    "id": "scen061.0025",
    "jp": "{v:0037}それがヒドイのよ！{n}{s:0025}の奴、一瞬でお城を壊しちゃったのよ！",
-   "en": "",
+   "en": "{v:0037}It's awful! That {s:0025} wrecked the castle{n}in an instant!",
    "term": "end"
   },
   {
@@ -375,7 +375,7 @@
   {
    "id": "scen061.0053",
    "jp": "{v:0049}仕方ねぇよ。{n}俺たちの敵は{s:0025}であって、{s:00AE}じゃない。{n}むしろ{s:00AE}を守るのが俺たちの役{s:012A}だ。",
-   "en": "",
+   "en": "{v:0049}Can't be helped. Our enemy is {s:0025}, not{n}{s:00AE}. If anything, protecting {s:00AE}{n}is our job.",
    "term": "end"
   },
   {
@@ -402,7 +402,7 @@
   {
    "id": "scen061.0057",
    "jp": "‥‥{v:004D}その役{s:012A}、私にお任せくださいませんか？",
-   "en": "",
+   "en": "...{v:004D}Would you entrust that duty to me?",
    "term": "end"
   },
   {
@@ -415,7 +415,7 @@
   {
    "id": "scen061.0059",
    "jp": "{v:004F}陛下は私におっしゃいました。{n}『人々の生活を守れ』と。{n}これぞ名誉挽回の機会です。{p}{v:0050}それにあなた方が出てゆき、{n}{s:0025}にいらぬ警戒をさせたくはありません。{p}{v:0051}ここは、私めにお任せを。",
-   "en": "",
+   "en": "{v:004F}His Majesty told me, 'Protect the people's way of life.'{n}This is my chance to redeem my honor.{p}{v:0050}Besides, if you were to go out, I would not want {s:0025}{n}put needlessly on his guard.{p}{v:0051}Leave this to me.",
    "term": "end"
   },
   {
@@ -442,7 +442,7 @@
   {
    "id": "scen061.0063",
    "jp": "　{n}　　『{FFEF}パワーストーン{FFF1}』を{s:0153}に渡した！",
-   "en": "",
+   "en": "　{n}　　Gave the '{FFEF}Power Stone{FFF1}' to {s:0153}!",
    "term": "end"
   },
   {
@@ -469,7 +469,7 @@
   {
    "id": "scen061.0067",
    "jp": "{v:0007}あ、いや‥‥。{n}{s:0154}がどこにもいないんだ。",
-   "en": "",
+   "en": "{v:0007}Ah, no... {s:0154} is nowhere to be found.",
    "term": "end"
   },
   {
@@ -503,7 +503,7 @@
   {
    "id": "scen061.0072",
    "jp": "{v:000C}そう言えば、牢屋にいた{s:000A}は{n}どうしちゃったの？",
-   "en": "",
+   "en": "{v:000C}Come to think of it, what happened to{n}{s:000A}, who was in the dungeon?",
    "term": "end"
   },
   {
@@ -530,7 +530,7 @@
   {
    "id": "scen061.0076",
    "jp": "{v:0010}{s:0025}を倒すのに{n}{s:000A}が必要だっていうのに！",
-   "en": "",
+   "en": "{v:0010}And we need {s:000A} to defeat{n}{s:0025}!",
    "term": "end"
   },
   {

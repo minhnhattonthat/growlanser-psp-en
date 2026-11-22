@@ -526,7 +526,7 @@
   {
    "id": "scen053.0074",
    "jp": "{v:002B}そうか。{n}まだ名乗ったことはなかったな。{p}{v:002C}私の名はヴェンツェル。{n}君たちが探している、{n}元バーンシュタイン宮廷魔術師だ。",
-   "en": "",
+   "en": "{v:002B}Ah, yes. I have yet to introduce myself.{p}{v:002C}My name is Wenzel. I am the former Burnstein Court{n}Magician whom you seek.",
    "term": "end"
   },
   {
@@ -553,7 +553,7 @@
   {
    "id": "scen053.0078",
    "jp": "{v:0031}私は君の素性を記した書簡を君の育ての親に渡し、{n}ローザリアへ向かわせたはずだ。",
-   "en": "",
+   "en": "{v:0031}I gave your foster parents a letter explaining your{n}origins and sent them to Rosaria.",
    "term": "end"
   },
   {
@@ -622,7 +622,7 @@
   {
    "id": "scen053.0088",
    "jp": "{v:003F}あの化け物のことか？",
-   "en": "",
+   "en": "{v:003F}You mean that monster?",
    "term": "end"
   },
   {
@@ -1055,7 +1055,7 @@
   {
    "id": "scen053.0150",
    "jp": "{v:0099}ゲヴェルは自分の創造主である{n}グローシアンの前では能力を失う。{p}{v:009A}バーンシュタイン内で起こった{n}グローシアン殺害事件は、自分の弱点をなくすため、{n}ゲヴェルが命じていたものだ。{p}{v:009B}魔法学院のマクスウェルが自分の研究のために{n}グローシアンをさらったのは、ゲヴェルによる{n}グローシアン殺害事件を利用したにすぎん。{p}{v:009C}ゲヴェルはユングという自分の複製の他にも{n}シャドー・ナイツまで利用してバーンシュタイン王国{n}内のグローシアンはすべて抹殺された。",
-   "en": "",
+   "en": "{v:0099}Gevel loses his powers in the presence of his{n}creators, the Growsians.{p}{v:009A}Gevel ordered the Growsian murders in Burnstein to{n}eliminate his own weakness.{p}{v:009B}Maxwell of the Magic Academy merely took advantage{n}of Gevel's murders to abduct Growsians for his{n}own research.{p}{v:009C}Using not only his replicas, the Jung, but even the{n}Shadow Knights, Gevel saw every Growsian in the{n}Kingdom of Burnstein exterminated.",
    "term": "end"
   },
   {

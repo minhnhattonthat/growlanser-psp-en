@@ -822,7 +822,7 @@
   {
    "id": "scen000.0114",
    "jp": "　{n}プレートに『{FFEE}るいせちゃんのお部屋{FFF1}』と書いてある。",
-   "en": "",
+   "en": "　{n}The sign reads '{FFEE}Luise-chan's Room{FFF1}.'",
    "term": "end"
   },
   {
@@ -982,13 +982,13 @@
   {
    "id": "scen000.0137",
    "jp": "{v:0027}ひらめきなんて言葉とは無縁ね。{n}あれだけ時間をかけて考えれば、{n}赤ちゃんでも気づくもん。{p}{v:0028}思考の速さが、ひっくり返ってもがいてる{n}カメ並ってとこね。",
-   "en": "",
+   "en": "{v:0027}You've never had a flash of inspiration in your life, huh?{n}Even a baby would catch on with that much time{n}to think!{p}{v:0028}Your thoughts move about as fast as a turtle flailing{n}around on its back.",
    "term": "end"
   },
   {
    "id": "scen000.0138",
    "jp": "{v:0029}鋭い洞察力なんて、お世辞でも言えないよ。{n}思考の速さが、ひっくり返ってもがいてる{n}カメ並だしね。{p}{v:002A}さらに無駄なあがきはするくせに、{n}やり通そうとする根性もない。{p}{v:0068}限界まで木の実を口に詰め込むリスの方が、{n}よっぽど根性あるわ。",
-   "en": "",
+   "en": "{v:0029}I couldn't call you perceptive even if I were trying to{n}flatter you. Your thoughts move about as fast as a{n}turtle flailing around on its back!{p}{v:002A}And for all that pointless flailing, you haven't got the{n}guts to see things through.{p}{v:0068}A squirrel stuffing its mouth with every last nut it can{n}fit has way more determination!",
    "term": "end"
   },
   {
@@ -1372,7 +1372,7 @@
   {
    "id": "scen000.0193",
    "jp": "ＭＹ　ＣＩＴＹ",
-   "en": "",
+   "en": "MY CITY",
    "term": "end"
   },
   {
@@ -1455,7 +1455,7 @@
   {
    "id": "scen000.0205",
    "jp": "{v:000C}うふふっ。{n}何も知らないのに、いきなりそんなこと言っちゃ、{n}お兄ちゃんが可哀想だよ。",
-   "en": "",
+   "en": "{v:000C}Tee hee. He doesn't even know what's going on. It's{n}not fair to scold Big Brother like that out of nowhere.",
    "term": "end"
   },
   {

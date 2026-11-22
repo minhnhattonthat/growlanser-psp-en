@@ -830,13 +830,13 @@
   {
    "id": "scen057.0117",
    "jp": "{v:004A}そりゃ、自分のことを考えてみれば分かるだろ？{n}魔法使いなんて、考えようによっちゃ兵士と{n}同じだぜ？",
-   "en": "",
+   "en": "{v:004A}Think about yourself. That oughta tell you. Look at it{n}his way, and mages are no different from soldiers.",
    "term": "end"
   },
   {
    "id": "scen057.0118",
    "jp": "{v:004B}あ、そうか‥‥。{p}{v:004C}つまり、{n}自分を狙う戦力だけを目標にしてるってこと？{p}{v:004D}支配者として、労働力には手を出さない‥‥。",
-   "en": "",
+   "en": "{v:004B}Oh, I see...{p}{v:004C}So he's only targeting forces that could fight him?{p}{v:004D}As their ruler, he won't harm his workforce...",
    "term": "end"
   },
   {
@@ -1003,7 +1003,7 @@
   {
    "id": "scen057.0142",
    "jp": "なんだい？{n}俺の楽団『ジョニー・カルテット』に{n}出演の依頼かい？{p}依頼料は１２００エルムだ。",
-   "en": "",
+   "en": "What's that? Want to book my band, the 'Johnny{n}Quartet', for a performance?{p}Our fee is 1200 Elm.",
    "term": "end"
   },
   {
@@ -1044,7 +1044,7 @@
   {
    "id": "scen057.0148",
    "jp": "その気になったら、いつでも声をかけてくれ。",
-   "en": "",
+   "en": "Just let me know whenever you feel like it.",
    "term": "end"
   },
   {
@@ -1085,7 +1085,7 @@
   {
    "id": "scen057.0154",
    "jp": "ここから北西に行ったあたりに、{n}からくり屋敷みたいな店があるんだけど、{n}最近新しいサービスを始めたらしいぜ。{p}どうやら、可愛い女の子たちが‥‥‥{n}{FFFB}‥‥おっと、これ以上は自分の目で{n}確かめたほうがいいだろうな。",
-   "en": "",
+   "en": "Northwest of here there's a shop that looks like some{n}kind of trick mansion, and I hear they've started a new{n}service lately.{p}Seems there's a bunch of cute girls who... {FFFB}...Whoops,{n}better you see that with your own eyes.",
    "term": "end"
   },
   {

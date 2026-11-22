@@ -260,7 +260,7 @@
   {
    "id": "msys.skills.0036",
    "jp": "{F4F6}学に習熟{F4BD}{F4BB}{F4C1}{F47D}{F4F6}時間{F4CA}短縮{F4BD}{F41C}。{F4F6}時間を８０％に短縮{F47A}{F4BA}発動：{F46F}時",
-   "en": "",
+   "en": "Mastery of incantations cuts spell casting time to 80%{n}of normal. When casting spells.",
    "term": "null"
   },
   {
@@ -399,13 +399,13 @@
   {
    "id": "msys.skills.0056",
    "jp": "ダミー",
-   "en": "",
+   "en": "Dummy",
    "term": "null"
   },
   {
    "id": "msys.skills.0057",
    "jp": "２人の天使{n}～ねーお兄ちゃん、起きてよ～",
-   "en": "",
+   "en": "Two Angels -- Hey, Big Brother, wake up!",
    "term": "null"
   },
   {
@@ -425,13 +425,13 @@
   {
    "id": "msys.skills.0060",
    "jp": "尻もちミーシャ{n}～今日は何回目？～",
-   "en": "",
+   "en": "Misha Falls on Her Bottom -- How many times today?",
    "term": "null"
   },
   {
    "id": "msys.skills.0061",
    "jp": "水晶に刻まれた傷跡{n}～えっ？こんな場所{F4C7}？～",
-   "en": "",
+   "en": "Scars Etched in Crystal -- Huh? From a place like this?",
    "term": "null"
   },
   {
@@ -444,7 +444,7 @@
   {
    "id": "msys.skills.0063",
    "jp": "ミーシャとルイセ{n}～元気を出{F4CE}よ！！～",
-   "en": "",
+   "en": "Misha and Luise -- Cheer up!!",
    "term": "null"
   },
   {
@@ -471,7 +471,7 @@
   {
    "id": "msys.skills.0067",
    "jp": "たそがれのルイセ{n}～わたし{F4D4}バカだ～",
-   "en": "",
+   "en": "Luise at Twilight -- I'm such a fool...",
    "term": "null"
   },
   {
@@ -484,13 +484,13 @@
   {
    "id": "msys.skills.0069",
    "jp": "も～そ～少女ミーシャ{n}～愛の力で編め！！～",
-   "en": "",
+   "en": "Daydreaming Misha -- Knit with the Power of Love!!",
    "term": "null"
   },
   {
    "id": "msys.skills.0070",
    "jp": "悲しき魔導生命体{n}～アタシ{F4D4}い{F4CF}い何～",
-   "en": "",
+   "en": "Sorrow of a Magical Life Form -- Just what am{n}I, anyway?",
    "term": "null"
   },
   {
@@ -503,13 +503,13 @@
   {
    "id": "msys.skills.0072",
    "jp": "カレンの動揺{n}～大丈夫？カレンさん～",
-   "en": "",
+   "en": "Karen Shaken -- Are you all right, Karen-san?",
    "term": "null"
   },
   {
    "id": "msys.skills.0073",
    "jp": "彼とカレン{n}～愛のマキシマムパワー！～",
-   "en": "",
+   "en": "He and Karen -- Love at Maximum Power!",
    "term": "null"
   },
   {
@@ -557,43 +557,43 @@
   {
    "id": "msys.skills.0080",
    "jp": "メルフィとの出会い{n}～危{F4D8}ところだ{F4CF}ね～",
-   "en": "",
+   "en": "Meeting Melfie -- That was a close call!",
    "term": "null"
   },
   {
    "id": "msys.skills.0081",
    "jp": "方・向・音・痴！{n}～今どこにいる{F4ED}ろう？～",
-   "en": "",
+   "en": "No! Sense! Of! Direction! -- Where am I now, I wonder?",
    "term": "null"
   },
   {
    "id": "msys.skills.0082",
    "jp": "癒しの膝枕{n}～生きる{F4E8}みなぎ{F4D4}くる！～",
-   "en": "",
+   "en": "A Healing Lap Pillow -- I feel the will to live surging!",
    "term": "null"
   },
   {
    "id": "msys.skills.0083",
    "jp": "アメリアの告白{n}～最後の戦いへ向かう前に～",
-   "en": "",
+   "en": "Amelia's Confession -- Before the Final Battle",
    "term": "null"
   },
   {
    "id": "msys.skills.0084",
    "jp": "リシャールの決意{n}～親友～",
-   "en": "",
+   "en": "Richard's Resolve -- Best Friends",
    "term": "null"
   },
   {
    "id": "msys.skills.0085",
    "jp": "ルイセとメルフィ、二人の力で{n}～闇の世界になんか、させ{F4D8}！～",
-   "en": "",
+   "en": "Luise and Melfie, Together -- We won't let the world{n}fall into darkness!",
    "term": "null"
   },
   {
    "id": "msys.skills.0086",
    "jp": "メルフィの心{n}～今、最高の笑顔で～",
-   "en": "",
+   "en": "Melfie's Heart -- Now, with My Brightest Smile",
    "term": "null"
   },
   {
@@ -669,7 +669,7 @@
   {
    "id": "msys.skills.0097",
    "jp": "小松　里歌（小松　里賀）",
-   "en": "",
+   "en": "Rika Komatsu",
    "term": "null"
   },
   {
@@ -703,7 +703,7 @@
   {
    "id": "msys.skills.0102",
    "jp": "石村　知子（鶴野恭子・柊美冬）",
-   "en": "",
+   "en": "Tomoko Ishimura (Kyoko Tsuruno, Mifuyu Hiiragi)",
    "term": "null"
   },
   {
@@ -737,7 +737,7 @@
   {
    "id": "msys.skills.0107",
    "jp": "うえだゆうじ（上田　祐司）",
-   "en": "",
+   "en": "Yuji Ueda",
    "term": "null"
   },
   {
@@ -876,7 +876,7 @@
   {
    "id": "msys.skills.0127",
    "jp": "中井　和哉",
-   "en": "",
+   "en": "Kazuya Nakai",
    "term": "null"
   },
   {
@@ -1036,13 +1036,13 @@
   {
    "id": "msys.skills.0150",
    "jp": "２０",
-   "en": "",
+   "en": "20",
    "term": "null"
   },
   {
    "id": "msys.skills.0151",
    "jp": "２１",
-   "en": "",
+   "en": "21",
    "term": "null"
   },
   {
@@ -1146,7 +1146,7 @@
   {
    "id": "msys.skills.0166",
    "jp": "３６",
-   "en": "",
+   "en": "36",
    "term": "null"
   },
   {
@@ -1180,49 +1180,49 @@
   {
    "id": "msys.skills.0171",
    "jp": "４１",
-   "en": "",
+   "en": "41",
    "term": "null"
   },
   {
    "id": "msys.skills.0172",
    "jp": "４２",
-   "en": "",
+   "en": "42",
    "term": "null"
   },
   {
    "id": "msys.skills.0173",
    "jp": "４３",
-   "en": "",
+   "en": "43",
    "term": "null"
   },
   {
    "id": "msys.skills.0174",
    "jp": "４４",
-   "en": "",
+   "en": "44",
    "term": "null"
   },
   {
    "id": "msys.skills.0175",
    "jp": "４５",
-   "en": "",
+   "en": "45",
    "term": "null"
   },
   {
    "id": "msys.skills.0176",
    "jp": "４６",
-   "en": "",
+   "en": "46",
    "term": "null"
   },
   {
    "id": "msys.skills.0177",
    "jp": "４７",
-   "en": "",
+   "en": "47",
    "term": "null"
   },
   {
    "id": "msys.skills.0178",
    "jp": "４８",
-   "en": "",
+   "en": "48",
    "term": "null"
   },
   {
@@ -1242,7 +1242,7 @@
   {
    "id": "msys.skills.0181",
    "jp": "ＣＶモードダミー０ＣＶモードダミー１ＣＶモードダミー２ＣＶモードダミー３ＣＶモードダミー４ＣＶモードダミー５",
-   "en": "",
+   "en": "CV Mode Dummy 0CV Mode Dummy 1CV Mode Dummy 2CV{n}Mode Dummy 3CV Mode Dummy 4CV Mode Dummy 5",
    "term": "null"
   }
  ]

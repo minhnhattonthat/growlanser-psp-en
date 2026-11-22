@@ -78,37 +78,37 @@
   {
    "id": "scen039.0010",
    "jp": "{v:0000}あれ、キミたち？",
-   "en": "",
+   "en": "{v:0000}Huh? Is that you guys?",
    "term": "end"
   },
   {
    "id": "scen039.0011",
    "jp": "{v:0001}あ、ジャスティンさんだ！",
-   "en": "",
+   "en": "{v:0001}Oh, it's Justin-san!",
    "term": "end"
   },
   {
    "id": "scen039.0012",
    "jp": "{v:0002}まさか、メルフィのお見舞いに{n}来てくれたワケじゃないよね？",
-   "en": "",
+   "en": "{v:0002}You didn't come to visit Melfie, by any chance?",
    "term": "end"
   },
   {
    "id": "scen039.0013",
    "jp": "{v:0003}えっ、メルフィさんどうしちゃったんですか！？",
-   "en": "",
+   "en": "{v:0003}Huh? What happened to Melfie-san?!",
    "term": "end"
   },
   {
    "id": "scen039.0014",
    "jp": "{v:0004}ああ、メルフィは身体が丈夫じゃないからね。{n}よく体調を崩すんだ。",
-   "en": "",
+   "en": "{v:0004}Ah, Melfie's not very strong. She often falls ill.",
    "term": "end"
   },
   {
    "id": "scen039.0015",
    "jp": "{v:002A}今回はかなり具合が悪くてね、{n}だからここに連れてきたんだよ。",
-   "en": "",
+   "en": "{v:002A}She's in pretty bad shape this time, so I brought{n}her here.",
    "term": "end"
   },
   {
@@ -122,70 +122,70 @@
   {
    "id": "scen039.0017",
    "jp": "・人の世話になるなんて",
-   "en": "",
+   "en": "・Her, accepting help from people?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen039.0018",
    "jp": "{FB00}{v:0028}でも人間嫌いのあの子を、{n}よくここに連れてこられたわね～。",
-   "en": "",
+   "en": "{FB00}{v:0028}But I'm amazed you got a human-hater like her to{n}come here!",
    "term": "end"
   },
   {
    "id": "scen039.0019",
    "jp": "{v:0029}最初は彼女もいやがっていたけど、{n}とうとう抵抗する気力も無くなったらしくてね。{n}それでようやくここに連れてこられたんだ。",
-   "en": "",
+   "en": "{v:0029}She fought it at first, but in the end she seemed to{n}lose the strength to resist. That's how I finally{n}managed to bring her here.",
    "term": "end"
   },
   {
    "id": "scen039.0020",
    "jp": "{v:0005}よかったら、会っていってくれるかい？{n}病室は一番奥だよ。",
-   "en": "",
+   "en": "{v:0005}If you like, would you go and see her? Her room is at{n}the very back.",
    "term": "end"
   },
   {
    "id": "scen039.0021",
    "jp": "{v:0006}メルフィさんって入院してるんだ‥‥。",
-   "en": "",
+   "en": "{v:0006}So Melfie-san's in the hospital...",
    "term": "end"
   },
   {
    "id": "scen039.0022",
    "jp": "{v:0007}大丈夫かな‥‥。{n}ねえ、お兄ちゃん。{n}ちょっと会っていきたいんだけど、いいかな？",
-   "en": "",
+   "en": "{v:0007}I hope she's okay... Hey, Big Brother. I'd like to go see{n}her for a bit. Is that okay?",
    "term": "end"
   },
   {
    "id": "scen039.0023",
    "jp": "・ダメ",
-   "en": "",
+   "en": "・No",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen039.0024",
    "jp": "・もちろん",
-   "en": "",
+   "en": "・Of course",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen039.0025",
    "jp": "{v:0008}そう言うなって。{n}ちょっと顔出すくらいいいだろう。",
-   "en": "",
+   "en": "{v:0008}Don't be like that. Dropping in for a quick visit{n}can't hurt.",
    "term": "end"
   },
   {
    "id": "scen039.0026",
    "jp": "{v:0009}それじゃ、ちょっと顔見に行きましょうか！",
-   "en": "",
+   "en": "{v:0009}Then let's go see how she's doing!",
    "term": "end"
   },
   {
    "id": "scen039.0027",
    "jp": "お兄ちゃん、メルフィさんに会っていこうよ‥‥。",
-   "en": "",
+   "en": "Big Brother, let's go see Melfie-san...",
    "term": "end"
   },
   {
@@ -457,7 +457,7 @@
   {
    "id": "scen039.0066",
    "jp": "{v:007A}そうなの。{n}でもごめんなさいね。{n}私もどこにいるか知らなくて‥‥。",
-   "en": "",
+   "en": "{v:007A}I see. I'm sorry, but I don't know where she is either...",
    "term": "end"
   },
   {
@@ -1043,7 +1043,7 @@
   {
    "id": "scen039.0149",
    "jp": "あの～‥‥アタシ、ミラさんを褒めたんだけど‥‥。",
-   "en": "",
+   "en": "Um... I was complimenting Mira-san...",
    "term": "end"
   },
   {
@@ -1070,7 +1070,7 @@
   {
    "id": "scen039.0153",
    "jp": "それじゃ、その事を手紙に書いておいてあげるよ。{n}みんなとミラが会えるようにね。",
-   "en": "",
+   "en": "Then I'll mention that in my next letter, so you can all{n}meet Mira.",
    "term": "end"
   },
   {
@@ -1167,7 +1167,7 @@
   {
    "id": "scen039.0167",
    "jp": "隣におったフェザリアンの女の子は、{n}もう退院してしまったのかい？{p}ずいぶんと人間を嫌ってる様子じゃったが、{n}時おり、とても寂しげな顔をしていたのが{n}ワシには印象的だったのう‥‥。",
-   "en": "",
+   "en": "Has that Featherian girl who was next door been{n}discharged already?{p}She seemed to hate humans something fierce, but now{n}and then she'd get such a lonely look on her face. That{n}stuck with me, it did...",
    "term": "end"
   },
   {
@@ -1271,7 +1271,7 @@
   {
    "id": "scen039.0182",
    "jp": "うん、アタシたちがここに来る前から{n}いるんでしょう？",
-   "en": "",
+   "en": "Yeah, he's been here since before we arrived,{n}hasn't he?",
    "term": "end"
   },
   {
@@ -1333,7 +1333,7 @@
   {
    "id": "scen039.0191",
    "jp": "諦めないで下さいね。",
-   "en": "",
+   "en": "Please don't give up.",
    "term": "end"
   },
   {
@@ -1563,239 +1563,239 @@
   {
    "id": "scen039.0224",
    "jp": "あれ‥‥？{n}メルフィさん、どこに行っちゃったんだろう？{n}せっかく部品を買ってきたのに‥‥。",
-   "en": "",
+   "en": "Huh...? Where did Melfie-san go? And we went to the{n}trouble of buying the parts...",
    "term": "end"
   },
   {
    "id": "scen039.0225",
    "jp": "もう退院できたのかな？{p}ねぇ、お兄ちゃん。{n}メルフィさんがいそうな場所があったら、{n}立ち寄ってみようよ。",
-   "en": "",
+   "en": "Maybe she's been discharged already?{p}Hey, Big Brother. If we pass anywhere Melfie-san might{n}be, let's stop by.",
    "term": "end"
   },
   {
    "id": "scen039.0226",
    "jp": "{v:000A}おじゃましま～す‥‥。",
-   "en": "",
+   "en": "{v:000A}Sorry to barge iiin...",
    "term": "end"
   },
   {
    "id": "scen039.0227",
    "jp": "{v:000B}ああ、キミたち。{n}メルフィは今眠ってしまったよ。{n}せっかく来てくれたのに悪いね。",
-   "en": "",
+   "en": "{v:000B}Ah, it's you kids. Melfie's just fallen asleep. I'm sorry,{n}after you came all this way.",
    "term": "end"
   },
   {
    "id": "scen039.0228",
    "jp": "・起こしてもらう",
-   "en": "",
+   "en": "・Ask him to wake her",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen039.0229",
    "jp": "・そのままでいい",
-   "en": "",
+   "en": "・Let her sleep",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen039.0230",
    "jp": "{v:000C}ダメだよ、お兄ちゃん。{n}寝てるのに起こしちゃ悪いよ。",
-   "en": "",
+   "en": "{v:000C}No, Big Brother. It'd be mean to wake her while{n}she's sleeping.",
    "term": "end"
   },
   {
    "id": "scen039.0231",
    "jp": "{v:000D}本当にすまないね。",
-   "en": "",
+   "en": "{v:000D}I really am sorry.",
    "term": "end"
   },
   {
    "id": "scen039.0232",
    "jp": "{v:000E}顔色はそれほど悪くないみたいですね。",
-   "en": "",
+   "en": "{v:000E}Her color doesn't look too bad.",
    "term": "end"
   },
   {
    "id": "scen039.0233",
    "jp": "{v:000F}これでも昨日までは危なかったんだよ。{n}ギリギリのところで保養所にたどり着けたから、{n}何とか落ち着いたが‥‥。",
-   "en": "",
+   "en": "{v:000F}Believe it or not, she was in danger until yesterday. We{n}reached the sanatorium just in time, so she's settled{n}down somehow, but...",
    "term": "end"
   },
   {
    "id": "scen039.0234",
    "jp": "{v:0010}えーーっ？{n}そうだったの！？",
-   "en": "",
+   "en": "{v:0010}Whaaat?! Really?!",
    "term": "end"
   },
   {
    "id": "scen039.0235",
    "jp": "{v:0011}けど、この施設の人が良くしてくれてね。{n}フェザリアン相手でも嫌な顔１つせずに{n}受け入れてくれたおかげで、助かったよ。",
-   "en": "",
+   "en": "{v:0011}But the people here have been good to us. They took{n}her in without so much as a frown, Featherian or not.{n}That's what saved her.",
    "term": "end"
   },
   {
    "id": "scen039.0236",
    "jp": "{v:0012}フェザリアンってだけで、{n}拒否されたりするのか？",
-   "en": "",
+   "en": "{v:0012}Places turn you away just for being a Featherian?",
    "term": "end"
   },
   {
    "id": "scen039.0237",
    "jp": "{v:0013}ああ、面倒なことをさけて、{n}関わらないようにしているんだろうね。",
-   "en": "",
+   "en": "{v:0013}Yes. I suppose they'd rather avoid the trouble and{n}keep their distance.",
    "term": "end"
   },
   {
    "id": "scen039.0238",
    "jp": "{v:0014}そんな‥。",
-   "en": "",
+   "en": "{v:0014}That's awful...",
    "term": "end"
   },
   {
    "id": "scen039.0239",
    "jp": "{v:0015}あれ？{n}ここにブレスレットが落ちてますよ？",
-   "en": "",
+   "en": "{v:0015}Huh? There's a bracelet on the floor here.",
    "term": "end"
   },
   {
    "id": "scen039.0240",
    "jp": "{v:0016}えっ？{n}‥‥これはメルフィのじゃないか‥‥。",
-   "en": "",
+   "en": "{v:0016}What? ...Why, this is Melfie's...",
    "term": "end"
   },
   {
    "id": "scen039.0241",
    "jp": "{v:0017}留め金がゆるんじゃってる‥‥。",
-   "en": "",
+   "en": "{v:0017}The clasp's come loose...",
    "term": "end"
   },
   {
    "id": "scen039.0242",
    "jp": "{v:0018}古い物だからね‥‥。",
-   "en": "",
+   "en": "{v:0018}It's an old thing, you see...",
    "term": "end"
   },
   {
    "id": "scen039.0243",
    "jp": "{v:0019}このブレスレットがなくなったら、{n}メルフィは大変だ‥‥。{n}メルフィが起きる前に、そっとつけ直しておかないと。",
-   "en": "",
+   "en": "{v:0019}If this bracelet went missing, Melfie would be beside{n}herself... I'd better quietly put it back on her before{n}she wakes.",
    "term": "end"
   },
   {
    "id": "scen039.0244",
    "jp": "{v:001A}メルフィさんの宝物なんですね、それ。",
-   "en": "",
+   "en": "{v:001A}That's Melfie-san's treasure, isn't it?",
    "term": "end"
   },
   {
    "id": "scen039.0245",
    "jp": "{v:001B}ああ。{n}これはね‥‥メルフィの両親の形見だから‥‥。",
-   "en": "",
+   "en": "{v:001B}Yes. You see... it's a keepsake from Melfie's parents...",
    "term": "end"
   },
   {
    "id": "scen039.0246",
    "jp": "{v:001C}形見！？",
-   "en": "",
+   "en": "{v:001C}A keepsake?!",
    "term": "end"
   },
   {
    "id": "scen039.0247",
    "jp": "‥‥{v:001D}もうだいぶ前のことだけど‥‥、{n}メルフィの両親が殺されてね。{n}その犯人というのがグローシアンだったんだ。",
-   "en": "",
+   "en": "...{v:001D}It was quite a while ago now... Melfie's parents were{n}murdered. And the killer was a Growsian.",
    "term": "end"
   },
   {
    "id": "scen039.0248",
    "jp": "{v:001E}えぇっ！？",
-   "en": "",
+   "en": "{v:001E}Whaaat?!",
    "term": "end"
   },
   {
    "id": "scen039.0249",
    "jp": "{v:001F}それがグローシアン嫌いの理由か‥‥。",
-   "en": "",
+   "en": "{v:001F}So that's why she hates Growsians...",
    "term": "end"
   },
   {
    "id": "scen039.0250",
    "jp": "{v:0020}そのため、グローシアンどころか{n}人間全体も嫌っている。",
-   "en": "",
+   "en": "{v:0020}Because of it, she hates not just Growsians, but{n}humans as a whole.",
    "term": "end"
   },
   {
    "id": "scen039.0251",
    "jp": "{v:002B}だから、メルフィの態度のことは{n}大目に見てくれるとうれしい。",
-   "en": "",
+   "en": "{v:002B}So I'd be grateful if you could overlook{n}Melfie's attitude.",
    "term": "end"
   },
   {
    "id": "scen039.0252",
    "jp": "・わかった",
-   "en": "",
+   "en": "・All right",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen039.0253",
    "jp": "・それでも改めるべき",
-   "en": "",
+   "en": "・She should still change her ways",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen039.0254",
    "jp": "{v:0021}ありがとう。",
-   "en": "",
+   "en": "{v:0021}Thank you.",
    "term": "end"
   },
   {
    "id": "scen039.0255",
    "jp": "{v:0022}そうだね。{n}私も言っているけど、すぐには難しいね。",
-   "en": "",
+   "en": "{v:0022}You're right. I tell her so myself, but it won't{n}happen overnight.",
    "term": "end"
   },
   {
    "id": "scen039.0256",
    "jp": "{v:0023}医者の話だと、もうすぐ退院できると言う事だ。{n}その時にはここでお世話になった先生には{n}お礼が出来るように言っておこう。",
-   "en": "",
+   "en": "{v:0023}The doctor says she can leave soon. When she does,{n}I'll tell her to thank the doctors who looked after{n}her here.",
    "term": "end"
   },
   {
    "id": "scen039.0257",
    "jp": "{v:0024}あのブレスレット、直してあげないと、{n}また落としちゃうよね‥‥。",
-   "en": "",
+   "en": "{v:0024}If we don't fix that bracelet, she'll just drop it again...",
    "term": "end"
   },
   {
    "id": "scen039.0258",
    "jp": "{v:0025}う～ん、でも、どうするの？",
-   "en": "",
+   "en": "{v:0025}Hmmm, but how?",
    "term": "end"
   },
   {
    "id": "scen039.0259",
    "jp": "{FFF6}{v:0026}どこかでアクセサリーを買ってきて、{n}留め金部分だけ付け替えてあげれば‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0026}If we bought an accessory somewhere and swapped in{n}just its clasp...",
    "term": "end"
   },
   {
    "id": "scen039.0260",
    "jp": "{v:0027}なるほどね！",
-   "en": "",
+   "en": "{v:0027}Ooh, good thinking!",
    "term": "end"
   },
   {
    "id": "scen039.0261",
    "jp": "お花、どうもありがとう。{n}メルフィもきっと喜ぶと思うよ。",
-   "en": "",
+   "en": "Thank you for the flowers. I'm sure Melfie will{n}be pleased.",
    "term": "end"
   },
   {
    "id": "scen039.0262",
    "jp": "良かったら、{n}メルフィと仲良くしてやってくれ。",
-   "en": "",
+   "en": "If you like, please be a friend to Melfie.",
    "term": "end"
   },
   {
@@ -1808,7 +1808,7 @@
   {
    "id": "scen039.0264",
    "jp": "‥‥これ、メルフィに持ってきてくれたのかい？{p}{FC04}ありがとう、メルフィはとても花が好きでね。{n}きっと喜ぶと思うよ。",
-   "en": "",
+   "en": "...Did you bring these for Melfie?{p}{FC04}Thank you. Melfie loves flowers. I'm sure she'll{n}be pleased.",
    "term": "end"
   },
   {
@@ -2059,7 +2059,7 @@
   {
    "id": "scen039.0300",
    "jp": "大変な仕事だけど、{n}患者さんが快復していくのを見ると嬉しくなるわ。",
-   "en": "",
+   "en": "It's hard work, but seeing the patients recover makes{n}me happy.",
    "term": "end"
   },
   {

@@ -15,7 +15,7 @@
   {
    "id": "scen019.0001",
    "jp": "急いで追わないと！",
-   "en": "",
+   "en": "We have to hurry after him!",
    "term": "end"
   },
   {
@@ -643,7 +643,7 @@
   {
    "id": "scen019.0090",
    "jp": "ルイセのことは私に任せて、{n}あなた達は御師様を追いなさい！",
-   "en": "",
+   "en": "Leave Luise to me. You must go after my teacher!",
    "term": "end"
   },
   {
@@ -1418,25 +1418,25 @@
   {
    "id": "scen019.0200",
    "jp": "{v:0000}おい、ヴェンツェルを追わなくていいのか？",
-   "en": "",
+   "en": "{v:0000}Hey, shouldn't we be going after Wenzel?",
    "term": "end"
   },
   {
    "id": "scen019.0201",
    "jp": "{v:0001}そうですね、今の御師様なら、{n}そう遠くまでテレポート出来ないはずです。{n}すぐに追えば、間に合うでしょう。",
-   "en": "",
+   "en": "{v:0001}Indeed. In his present state, my teacher should not be{n}able to Teleport very far. If you pursue him at once,{n}you should make it in time.",
    "term": "end"
   },
   {
    "id": "scen019.0202",
    "jp": "{v:0002}うん、そうだね！{n}ほら、急いで追いかけるのよ！",
-   "en": "",
+   "en": "{v:0002}Yeah, that's right! Come on, hurry up and go{n}after him!",
    "term": "end"
   },
   {
    "id": "scen019.0203",
    "jp": "ヴェンツェルを追え！",
-   "en": "",
+   "en": "Pursue Wenzel!",
    "term": "end"
   },
   {
@@ -1729,7 +1729,7 @@
   {
    "id": "scen019.0245",
    "jp": "おい、ヴェンツェルに話を聞きに{n}行くんだろ。{n}城の地下へ行こうぜ。",
-   "en": "",
+   "en": "Hey, we're going to question Wenzel, right? Let's head{n}down to the castle's lower levels.",
    "term": "end"
   },
   {

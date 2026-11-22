@@ -464,7 +464,7 @@
   {
    "id": "scen033.0062",
    "jp": "{s:0161}からの学生ってあんまり{n}いないんだよね。{p}あそこは魔法文化があまり発達してないからさ。{n}みんな都会の出で、肩身が狭いよ[01BE]。",
-   "en": "",
+   "en": "There aren't many students here from{n}{s:0161}.{p}Magic isn't very developed back home. Everyone else is{n}from the city, so I feel out of place[01BE].",
    "term": "end"
   },
   {
@@ -570,7 +570,7 @@
   {
    "id": "scen033.0076",
    "jp": "{s:0003}さん、{n}次は何をやってくれるのかな～？",
-   "en": "",
+   "en": "I wonder what {s:0003} will come up{n}with next?",
    "term": "end"
   },
   {
@@ -732,7 +732,7 @@
   {
    "id": "scen033.0098",
    "jp": "この大陸には大きく分けて２種類の遺跡がある。{n}１つは１００年ほど前にその姿を消した{n}グローシアン達が残した物。{p}もう１つは、それより以前に地上を去った{n}フェザリアンが残した物である。{p}グローシアンの残した遺跡には、{n}出土品と呼べる物は少ない。{n}これは彼らが我々人間と同じ種族であることが大きい。{p}彼らの遺跡のほとんどは、{s:012A}的を持った施設であり、{n}その中には原理や{s:012A}的の分からない機器が{n}置かれている。{p}対するフェザリアンの遺跡からは我々にない技術、{n}魔法などが多く発見された。{p}だが残されていた物の多くは書物であり、{n}長年に渡り解読作業を行ったのだが、{n}ほとんどが倫理、道徳を語った物であった。",
-   "en": "",
+   "en": "The ruins on this continent fall into two broad{n}categories. The first are those left by the Growsians,{n}who disappeared about a hundred years ago.{p}The second are those left by the Featherians, who{n}departed the surface even earlier.{p}Few objects that could be called artifacts have been{n}unearthed from Growsian ruins. This is largely because{n}they belong to the same race as we humans.{p}Most of their ruins are facilities built for specific{n}purposes. Some contain devices whose workings or{n}purpose remain unknown.{p}Featherian ruins, by contrast, have yielded many{n}discoveries of technology and magic unknown to us.{p}However, most of what they left behind was books. We{n}spent many years deciphering them, only to find that{n}nearly all discussed ethics and morality.",
    "term": "end"
   },
   {
@@ -745,7 +745,7 @@
   {
    "id": "scen033.0100",
    "jp": "水晶鉱山の横穴にて怪物が暴れるという事件が発生。{n}多数の死傷者がでた。{p}魔法学院は{s:0166}、{s:0160}両国の{n}要請を受け、調査隊を組織、調査を行った。{p}　　　　　　　　（中略）{p}しかし、調査隊が足を踏み込むと、{n}突如天井が崩落するという事故が発生。{n}これにより横穴は途中から完全に埋没、{n}調査は入り口周辺のみに限定された。{p}調査の結果、怪物についての情報は得られなかった。{p}調査隊メンバー　ニコラ・Ｃ{n}　　　　　　　　マクスウェル・Ｊ{n}　　　　　　　　プロキンス・Ａ‥‥",
-   "en": "",
+   "en": "A monster went on a rampage in a side tunnel of the{n}crystal mine, leaving many dead or injured.{p}At the request of both {s:0166} and{n}{s:0160}, the Magic Academy assembled an{n}expedition to investigate.{p}(Passage omitted){p}However, upon the expedition's entry, the ceiling{n}suddenly collapsed.{p}The collapse completely blocked the tunnel beyond that{n}point, restricting the investigation to the area around{n}the entrance.{p}The investigation yielded no information about{n}the monster.{p}Expedition members:{n}Nicola C.{n}Maxwell J.{p}Prokins A....",
    "term": "end"
   },
   {
@@ -765,7 +765,7 @@
   {
    "id": "scen033.0103",
    "jp": "{s:0162}砦の南東部に広がる、迷いの森。{n}我々は、その名の由来となった装置の調査、{n}‥‥グローシアンが造った遺跡にあるとされる、{n}森にいる者の方向感覚を狂わす装置の{n}捜索と調査を行った。{p}遺跡内部の防衛機能は働いていたが、{n}{s:010A}の自己再生能力を解除。{n}安全が確保された時点で、{n}遺跡最深部にある装置の調査を開始。{p}装置自体の動力は切れていたため、{n}魔水晶による起動を行う。{n}結果、実際に迷いの森を発生させる機能があると判明。{n}装置起動中、グローシアン以外の知的生物は{n}遺跡に近づくことができなかった。{p}学院{s:0047}会は、悪用の危険があると判断。{n}我々は{s:010B}の防衛機能を修復し、{n}かつ遺跡の入り口を封印。{n}{s:0162}砦の管理者がその鍵を持つこととなった。",
-   "en": "",
+   "en": "The Lost Forest stretches southeast of Fort{n}{s:0162}. We sought to locate and{n}investigate the device from which it takes its name...{p}a device said to lie within ruins built by the Growsians,{n}which disrupts the sense of direction of those in{n}the forest.{p}The ruins' defenses remained active, but we disabled{n}the {s:010A}'s regenerative ability.{p}Once the site was secure, we began investigating the{n}device in the deepest part of the ruins.{p}The device's power supply was depleted, so we{n}activated it using a magic crystal.{p}We confirmed that it could indeed produce the Lost{n}Forest's disorienting effect.{p}While the device was active, no intelligent beings other{n}than Growsians could approach the ruins.{p}The Academy's faculty council deemed the risk of{n}misuse too great.{p}We restored the {s:010B}'s defenses and{n}sealed the entrance to the ruins.{p}The key was entrusted to the commander of Fort{n}{s:0162}.",
    "term": "end"
   },
   {
@@ -799,7 +799,7 @@
   {
    "id": "scen033.0108",
    "jp": "研究にも疲れたよ‥‥。{n}{s:015C}の温泉にでもつかって{n}ゆっくり休みたい‥‥。",
-   "en": "",
+   "en": "I'm worn out from all this research... I'd love a nice, long{n}rest in the hot springs at {s:015C}...",
    "term": "end"
   },
   {
@@ -1047,7 +1047,7 @@
   {
    "id": "scen033.0141",
    "jp": "{v:0001}おお、{s:0003}か。{n}どうしたんだね？",
-   "en": "",
+   "en": "{v:0001}Oh, {s:0003}, my boy. What brings you here?",
    "term": "end"
   },
   {
@@ -1060,7 +1060,7 @@
   {
    "id": "scen033.0143",
    "jp": "{v:0003}おお、{s:0001}ちゃんかい。{n}どうしたんだね？",
-   "en": "",
+   "en": "{v:0003}Oh, if it isn't little {s:0001}. What brings{n}you here?",
    "term": "end"
   },
   {
@@ -1087,19 +1087,19 @@
   {
    "id": "scen033.0147",
    "jp": "{v:0009}おじちゃんが送魔線を引いてくれれば、{n}{s:0025}を倒すことが出来るんだよ！",
-   "en": "",
+   "en": "{v:0009}If you lay a mana line for us, mister, we'll be able to{n}defeat {s:0025}!",
    "term": "end"
   },
   {
    "id": "scen033.0148",
    "jp": "{v:000A}{s:0025}？",
-   "en": "",
+   "en": "{v:000A}{s:0025}?",
    "term": "end"
   },
   {
    "id": "scen033.0149",
    "jp": "{v:000B}この世界を征服しようと企む奴だ。{p}{v:000C}奴のせいで{s:0161}城は消滅した。",
-   "en": "",
+   "en": "{v:000B}He's plotting to conquer the world.{p}{v:000C}{s:0161} Castle was wiped out because{n}of him.",
    "term": "end"
   },
   {
@@ -1133,7 +1133,7 @@
   {
    "id": "scen033.0154",
    "jp": "{v:0012}送魔線張りひとすじ、４０年！{n}もうお役ご免かと思っていた、このワシが、{n}もう一花咲かせるチャンスが残っていたか！{p}{v:0013}よし！{n}ワシを連れて行け！{n}極上の送魔線を張ってやる！",
-   "en": "",
+   "en": "{v:0012}Forty years, all devoted to laying mana lines! I thought{n}my working days were over, but I've still a chance for{n}one last hurrah!{p}{v:0013}Right! Take me with you! I'll lay you the finest mana line{n}there is!",
    "term": "end"
   },
   {
@@ -1146,13 +1146,13 @@
   {
    "id": "scen033.0156",
    "jp": "　{n}　　　　　{FFEF}{s:0016}が同行者になった！{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　{FFEF}{s:0016} joined as a companion!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen033.0157",
    "jp": "{s:0163}の人工洞窟へ",
-   "en": "",
+   "en": "To the artificial cave in {s:0163}",
    "term": "end"
   },
   {
@@ -1272,13 +1272,13 @@
   {
    "id": "scen033.0173",
    "jp": "{v:0054}あ、いらっしゃいませ。{n}{s:0017}なら、{n}地下の研究室の方にいますが。",
-   "en": "",
+   "en": "{v:0054}Oh, welcome. If you're looking for {s:0017},{n}he's in the basement laboratory.",
    "term": "end"
   },
   {
    "id": "scen033.0174",
    "jp": "{s:0017}なら、{n}地下の研究室の方にいますが。",
-   "en": "",
+   "en": "If you're looking for {s:0017}, he's in the{n}basement laboratory.",
    "term": "end"
   },
   {
@@ -1368,7 +1368,7 @@
   {
    "id": "scen033.0187",
    "jp": "副学院長は現在、呪術解除の準備をしています。{n}『聖なる土』と『{s:012E}か髪の毛』を持って来て下さい。",
-   "en": "",
+   "en": "The Vice Headmaster is preparing to lift the curse.{n}Please bring 'Holy Soil' and a 'fingernail or hair.'",
    "term": "end"
   },
   {
@@ -1423,7 +1423,7 @@
   {
    "id": "scen033.0195",
    "jp": "{v:0016}あのね！{n}{s:0001}ちゃん、元に戻ったんだよ！",
-   "en": "",
+   "en": "{v:0016}Guess what! {s:0001} is back to normal!",
    "term": "end"
   },
   {
@@ -1492,7 +1492,7 @@
   {
    "id": "scen033.0205",
    "jp": "{v:0023}先日、時空観測器が、{n}北の方角に局地的な歪みを記録したんだ。{p}{v:0024}たぶん、{s:0001}君のグローシュが戻ったときの{n}波動だろう。",
-   "en": "",
+   "en": "{v:0023}The other day, the space-time monitor recorded a{n}localized distortion to the north.{p}{v:0024}It was probably a wave produced when{n}{s:0001}'s Grosh returned.",
    "term": "end"
   },
   {
@@ -1505,7 +1505,7 @@
   {
    "id": "scen033.0207",
    "jp": "{v:0026}時空の歪みが大きくなったときに{n}グローシアンが生まれる。{p}{v:0027}逆に{s:0001}君が戻ったとき、{n}歪みが大きくなっても不思議ではあるまい。{p}{v:0028}つまり、歪みを作ることと、{n}グローシュが戻ることには関係がある。{p}{v:0029}そしてそのペンダントが割れたという事実。",
-   "en": "",
+   "en": "{v:0026}Growsians are born when distortions in{n}space-time intensify.{p}{v:0027}Conversely, it would hardly be surprising if a distortion{n}intensified when {s:0001} recovered.{p}{v:0028}In other words, creating a distortion and restoring{n}Grosh are connected.{p}{v:0029}Then there is the fact that the pendant broke.",
    "term": "end"
   },
   {
@@ -1630,7 +1630,7 @@
   {
    "id": "scen033.0225",
    "jp": "何だね、今頃？{n}身代わり人形の効力は無くなってしまったぞ。{n}せっかく作ったのに、無駄になったじゃないか。",
-   "en": "",
+   "en": "What is it, coming by now? The Substitute Doll has{n}already lost its power. I went to all the trouble of{n}making it, and it's gone to waste.",
    "term": "end"
   },
   {
@@ -1755,13 +1755,13 @@
   {
    "id": "scen033.0243",
    "jp": "{v:0018}難しくないといっても、素人には無理だ。{p}{v:007C}用意が出来たら私が手伝ってあげるから、{n}これから言う物を持ってきなさい。{p}{v:0019}まず、対象者の体の一部。{n}{FFEF}{s:012E}{FFF1}でも{FFEF}髪の毛{FFF1}でもいい。",
-   "en": "",
+   "en": "{v:0018}I said it was not difficult, but it is beyond an amateur.{p}{v:007C}I will help once everything is ready. Bring me the things{n}I am about to name.{p}{v:0019}First, a part of the subject's body. A {FFEF}fingernail{FFF1} or some{n}{FFEF}hair{FFF1} will do.",
    "term": "end"
   },
   {
    "id": "scen033.0244",
    "jp": "{v:001A}{s:012E}か、髪の毛‥‥。",
-   "en": "",
+   "en": "{v:001A}A fingernail or some hair...",
    "term": "end"
   },
   {
@@ -1816,7 +1816,7 @@
   {
    "id": "scen033.0252",
    "jp": "材料は次の２つ。{n}{FFF0}１{FFF1}：対象者の『{FFEF}{s:012E}{FFF1}か{FFEF}髪の毛{FFF1}』{n}{FFF0}２{FFF1}：『{FFEF}聖なる土{FFF1}』{p}『聖なる土』を探すなら、グローシュが多く、{n}かつ集魔柱がない場所だ。",
-   "en": "",
+   "en": "We need these two materials:{n}{FFF0}1{FFF1}: The subject's '{FFEF}fingernail{FFF1} or {FFEF}hair{FFF1}'{n}{FFF0}2{FFF1}: '{FFEF}Holy Soil{FFF1}'{p}To find 'Holy Soil', look somewhere with plenty of Grosh{n}and no mana collection pillars.",
    "term": "end"
   },
   {
@@ -1843,7 +1843,7 @@
   {
    "id": "scen033.0256",
    "jp": "何か用かね？",
-   "en": "",
+   "en": "Is there something you need?",
    "term": "end"
   },
   {
@@ -2084,19 +2084,19 @@
   {
    "id": "scen033.0288",
    "jp": "{v:0058}あの、{s:0018}さんの具合はどうでしょうか？",
-   "en": "",
+   "en": "{v:0058}Um, how is {s:0018} doing?",
    "term": "end"
   },
   {
    "id": "scen033.0289",
    "jp": "{v:0059}あの、{s:0018}さんの具合は‥‥？",
-   "en": "",
+   "en": "{v:0059}Um, how is {s:0018}...?",
    "term": "end"
   },
   {
    "id": "scen033.0290",
    "jp": "{v:005A}{s:0018}さんの具合を聞きに来たんだけど。",
-   "en": "",
+   "en": "{v:005A}We came to ask how {s:0018} is doing.",
    "term": "end"
   },
   {
@@ -2193,7 +2193,7 @@
   {
    "id": "scen033.0304",
    "jp": "{v:0073}実は{s:0001}もグローシュを奪われちまった‥‥。",
-   "en": "",
+   "en": "{v:0073}The truth is, {s:0001} has had her Grosh{n}stolen too...",
    "term": "end"
   },
   {
@@ -2220,7 +2220,7 @@
   {
    "id": "scen033.0308",
    "jp": "{v:0077}多分、{s:0001}ちゃんは皆既日食のグローシアンだから。",
-   "en": "",
+   "en": "{v:0077}Probably because {s:0001} is a Growsian{n}born during a total solar eclipse.",
    "term": "end"
   },
   {
@@ -2282,7 +2282,7 @@
   {
    "id": "scen033.0317",
    "jp": "{s:0158}襲撃！",
-   "en": "",
+   "en": "{s:0158} under attack!",
    "term": "end"
   },
   {
@@ -2302,31 +2302,31 @@
   {
    "id": "scen033.0320",
    "jp": "いろいろと手を尽くしてみるよ。",
-   "en": "",
+   "en": "I will try every approach I can.",
    "term": "end"
   },
   {
    "id": "scen033.0321",
    "jp": "そうそう、{n}君たちに１つ連絡があったんだ。{p}客員研究員として学院にいた{s:0009}君だが、{n}諸事情とやらで急に学院を去ることに{n}なってしまってね。{p}君たちに挨拶する時間もなかったみたいで、{n}代わりによろしく伝えておいてくれと{n}言付かっていたんだ。{p}彼女のような優秀な子がいなくなってしまうのは、{n}私としても非常に残念でならんよ‥‥。",
-   "en": "",
+   "en": "Oh, yes, there was one message for you.{p}{s:0009}, who was here at the Academy as a{n}visiting researcher, had to leave the Academy quite{n}suddenly for reasons of her own.{p}It seems she had no time to say goodbye to you, so{n}she asked me to give you her regards in her place.{p}Losing such a brilliant young woman is a great shame{n}for me as well...",
    "term": "end"
   },
   {
    "id": "scen033.0322",
    "jp": "ちょっと聞きたいんだが、{n}ここにいた{s:0009}という女を最近みかけなかったか？",
-   "en": "",
+   "en": "Let me ask you something. Seen a woman named {s:0009}{n}around here lately?",
    "term": "end"
   },
   {
    "id": "scen033.0323",
    "jp": "ん、客員研究員の{s:0009}君かね？{p}そういえば最近、学院内で彼女の姿を見かけないが‥‥。{n}どうしたんだろうな？",
-   "en": "",
+   "en": "Hm, {s:0009}, the visiting researcher?{p}Now that you mention it, I haven't seen her around the{n}Academy lately... I wonder what happened?",
    "term": "end"
   },
   {
    "id": "scen033.0324",
    "jp": "‥‥やっぱり、ここからも姿を消したようだな。",
-   "en": "",
+   "en": "...Looks like she's vanished from here, too.",
    "term": "end"
   },
   {
@@ -2346,7 +2346,7 @@
   {
    "id": "scen033.0327",
    "jp": "　{n}　『{FFEF}聖なる土{FFF1}』と『{FFEF}{s:0007}の髪の毛{FFF1}』を渡した！",
-   "en": "",
+   "en": "　{n}　Handed over '{FFEF}Holy Soil{FFF1}' and '{FFEF}{s:0007}'s{n}Hair{FFF1}'!",
    "term": "end"
   },
   {

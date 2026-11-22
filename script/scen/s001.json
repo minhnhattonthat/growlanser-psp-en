@@ -64,13 +64,13 @@
   {
    "id": "scen001.0008",
    "jp": "道に迷った女性",
-   "en": "",
+   "en": "Lost Woman",
    "term": "null"
   },
   {
    "id": "scen001.0009",
    "jp": "方向音痴の女性",
-   "en": "",
+   "en": "Hopelessly Lost Woman",
    "term": "null"
   },
   {
@@ -293,7 +293,7 @@
   {
    "id": "scen001.0041",
    "jp": "あれだけの警備なのに、{n}賊はどうやって侵入したんだろう？{n}よほどの奴に違いない。",
-   "en": "",
+   "en": "With all those guards, how did the intruder get in? Must{n}have been someone pretty capable.",
    "term": "end"
   },
   {
@@ -464,85 +464,85 @@
   {
    "id": "scen001.0065",
    "jp": "{v:0000}あれ？{n}あの人、何やってるんだろう？",
-   "en": "",
+   "en": "{v:0000}Huh? What is that lady doing?",
    "term": "end"
   },
   {
    "id": "scen001.0066",
    "jp": "{v:0001}えーと‥‥‥今ってどこにいるんだろ‥‥？",
-   "en": "",
+   "en": "{v:0001}Um... Where am I right now...?",
    "term": "end"
   },
   {
    "id": "scen001.0067",
    "jp": "{v:0002}この街に初めて来た人かな？",
-   "en": "",
+   "en": "{v:0002}Maybe she's new in town?",
    "term": "end"
   },
   {
    "id": "scen001.0068",
    "jp": "‥‥{v:0003}えーとこっちから来たから、お城が南で‥‥{n}東に出るには‥‥‥こっち？",
-   "en": "",
+   "en": "...{v:0003}Um, I came from this way, so the castle is to the{n}south... and to get out to the east... this way?",
    "term": "end"
   },
   {
    "id": "scen001.0069",
    "jp": "{v:0004}わあ、あの人間違えてるよ！{n}教えてあげないと！",
-   "en": "",
+   "en": "{v:0004}Whoa, she's got it all wrong! We have to tell her!",
    "term": "end"
   },
   {
    "id": "scen001.0070",
    "jp": "{v:0005}そうだね！{p}‥‥{v:0006}ほら、何してるの！{n}あの人、困ってるんだよ‥！",
-   "en": "",
+   "en": "{v:0005}Yeah!{p}...{v:0006}Come on, what are you just standing there for?!{n}She's in trouble...!",
    "term": "end"
   },
   {
    "id": "scen001.0071",
    "jp": "{v:0007}う～ん‥‥。",
-   "en": "",
+   "en": "{v:0007}Hmmm...",
    "term": "end"
   },
   {
    "id": "scen001.0072",
    "jp": "{v:0008}どうしたんですか？",
-   "en": "",
+   "en": "{v:0008}Is something wrong?",
    "term": "end"
   },
   {
    "id": "scen001.0073",
    "jp": "{v:0009}えっ？{n}私？",
-   "en": "",
+   "en": "{v:0009}Huh? Me?",
    "term": "end"
   },
   {
    "id": "scen001.0074",
    "jp": "{v:000A}はい。{n}何かお困りですか？",
-   "en": "",
+   "en": "{v:000A}Yes. Do you need some help?",
    "term": "end"
   },
   {
    "id": "scen001.0075",
    "jp": "{v:000B}それは‥‥えっ‥あなた‥ベル‥‥。{n}‥‥ううん、そんなわけないわよね‥。",
-   "en": "",
+   "en": "{v:000B}Well... huh... you're... Ber......No, that couldn't be...",
    "term": "end"
   },
   {
    "id": "scen001.0076",
    "jp": "{v:000C}コイツがどうかしたの？",
-   "en": "",
+   "en": "{v:000C}What about this guy?",
    "term": "end"
   },
   {
    "id": "scen001.0077",
    "jp": "{FFF6}‥‥{v:000D}あ、ううん、関係ないわ。{n}ちょっと似てる人を思い出しただけ。",
-   "en": "",
+   "en": "{FFF6}...{v:000D}Oh, no, it's nothing. You just reminded me of someone.",
    "term": "end"
   },
   {
    "id": "scen001.0078",
    "jp": "{v:000E}え、えぇと‥‥じゃ、１つ確認したいんですけど、{n}デリス村って、東にあるんですよね‥？",
-   "en": "",
+   "en": "{v:000E}Um, w-well... then I just want to check one thing. Delis{n}Village is to the east, isn't it...?",
    "term": "end"
   },
   {
@@ -564,155 +564,155 @@
   {
    "id": "scen001.0081",
    "jp": "{v:000F}おいおい、嘘を教えるもんじゃねぇぞ。{n}大丈夫ですよ。{n}デリス村は東で合ってますよ。",
-   "en": "",
+   "en": "{v:000F}Hey now, don't go telling her lies. Don't worry, miss.{n}Delis Village is east, all right.",
    "term": "end"
   },
   {
    "id": "scen001.0082",
    "jp": "{v:0010}そうよね、東で合ってるのよね。{n}それで、東がどっちかというと、{n}お城を背にして左の方だって聞いたのよ。",
-   "en": "",
+   "en": "{v:0010}That's right, it is east, isn't it. And I was told that east{n}is to the left when your back is to the castle.",
    "term": "end"
   },
   {
    "id": "scen001.0083",
    "jp": "{v:0011}はい、そうです。",
-   "en": "",
+   "en": "{v:0011}Yes, that's right.",
    "term": "end"
   },
   {
    "id": "scen001.0084",
    "jp": "{v:0012}つまり、こっちよね？{n}どう見ても道がないのよ。{n}ね？　おかしいでしょ？",
-   "en": "",
+   "en": "{v:0012}So that means this way, right? But there's clearly no{n}road. See? Isn't that strange?",
    "term": "end"
   },
   {
    "id": "scen001.0085",
    "jp": "{FB00}{v:0013}えーと、そっちは西だからじゃないかしら‥‥。",
-   "en": "",
+   "en": "{FB00}{v:0013}Um, I think maybe that's because that way is west...",
    "term": "end"
   },
   {
    "id": "scen001.0086",
    "jp": "{v:0014}えっ？{n}だって城を背にして左手でしょ？",
-   "en": "",
+   "en": "{v:0014}Huh? But it's to the left with my back to the castle,{n}isn't it?",
    "term": "end"
   },
   {
    "id": "scen001.0087",
    "jp": "{v:0015}それじゃお城ってどっち？",
-   "en": "",
+   "en": "{v:0015}So which way's the castle, then?",
    "term": "end"
   },
   {
    "id": "scen001.0088",
    "jp": "‥‥{v:0016}こっちでしょ？",
-   "en": "",
+   "en": "...{v:0016}This way, right?",
    "term": "end"
   },
   {
    "id": "scen001.0089",
    "jp": "・それで合ってる",
-   "en": "",
+   "en": "・That's right",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen001.0090",
    "jp": "・逆だ",
-   "en": "",
+   "en": "・It's the other way",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen001.0091",
    "jp": "{v:0017}こらっ！{n}嘘を言っちゃダメでしょ！",
-   "en": "",
+   "en": "{v:0017}Hey! You can't tell her lies!",
    "term": "end"
   },
   {
    "id": "scen001.0092",
    "jp": "{v:0018}お城は、こっちの階段の方ですよ？",
-   "en": "",
+   "en": "{v:0018}The castle is over this way, toward the stairs.",
    "term": "end"
   },
   {
    "id": "scen001.0093",
    "jp": "{v:0019}うそっ！{n}だって私、今こっちから来たのよ？",
-   "en": "",
+   "en": "{v:0019}No way! But I just came from this way!",
    "term": "end"
   },
   {
    "id": "scen001.0094",
    "jp": "{v:001A}この街は道がドーナツみたいな{n}輪っかになってるからな。{n}ぐるっと一回りしてきたってことだ。",
-   "en": "",
+   "en": "{v:001A}The roads in this town loop around in a ring, like a{n}doughnut. You just went all the way around.",
    "term": "end"
   },
   {
    "id": "scen001.0095",
    "jp": "{v:001B}そ、そんな‥‥。{n}それじゃまるで、私が方向音痴みたいじゃない！",
-   "en": "",
+   "en": "{v:001B}Wh-what...? That makes it sound like I have no sense{n}of direction!",
    "term": "end"
   },
   {
    "id": "scen001.0096",
    "jp": "・方向音痴だ",
-   "en": "",
+   "en": "・You have no sense of direction",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen001.0097",
    "jp": "・初めての街なら仕方ない",
-   "en": "",
+   "en": "・It's natural in a town you don't know",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen001.0098",
    "jp": "‥‥{v:001C}うぐっ！{n}そんなことないわよ！",
-   "en": "",
+   "en": "...{v:001C}Urk! I do not!",
    "term": "end"
   },
   {
    "id": "scen001.0099",
    "jp": "{v:001F}ああ、あのっ！{n}そっちは東じゃなくて、南です！",
-   "en": "",
+   "en": "{v:001F}Um, excuse me! That way isn't east, it's south!",
    "term": "end"
   },
   {
    "id": "scen001.0100",
    "jp": "{FFF6}{v:001D}そ、そうよね‥‥、たまたまよね‥‥、{n}方向音痴なんかじゃないわよ。",
-   "en": "",
+   "en": "{FFF6}{v:001D}R-right... It was just a fluke... It's not like I have no{n}sense of direction.",
    "term": "end"
   },
   {
    "id": "scen001.0101",
    "jp": "{v:001E}とにかく、ありがとう。{n}失礼します。",
-   "en": "",
+   "en": "{v:001E}Anyway, thank you. Excuse me.",
    "term": "end"
   },
   {
    "id": "scen001.0102",
    "jp": "{v:0020}ああ、あのっ！{n}そっちは東じゃなくて、北です！",
-   "en": "",
+   "en": "{v:0020}Um, excuse me! That way isn't east, it's north!",
    "term": "end"
   },
   {
    "id": "scen001.0103",
    "jp": "{v:0021}わ、わかってるわよ！",
-   "en": "",
+   "en": "{v:0021}I-I know that!",
    "term": "end"
   },
   {
    "id": "scen001.0104",
    "jp": "{v:0022}やれやれ‥‥。{n}アレは筋金入りの方向音痴だな。",
-   "en": "",
+   "en": "{v:0022}Good grief... That one's got no sense of direction,{n}through and through.",
    "term": "end"
   },
   {
    "id": "scen001.0105",
    "jp": "{v:0023}あはは‥‥ミーシャといい勝負かも‥‥。",
-   "en": "",
+   "en": "{v:0023}Ahaha... She might even give Misha a run for{n}her money...",
    "term": "end"
   },
   {
@@ -1817,31 +1817,31 @@
   {
    "id": "scen001.0261",
    "jp": "全部ＯＮ。",
-   "en": "",
+   "en": "All ON.",
    "term": "end"
   },
   {
    "id": "scen001.0262",
    "jp": "新規マクロを実行しますか？",
-   "en": "",
+   "en": "Run the new macro?",
    "term": "end"
   },
   {
    "id": "scen001.0263",
    "jp": "勝利条件{n}ステイタスＯＮ{n}拾得物ＯＮ{n}勝利ポーズなし",
-   "en": "",
+   "en": "Victory Conditions{n}Status ON{n}Items Found ON{p}No Victory Pose",
    "term": "end"
   },
   {
    "id": "scen001.0264",
    "jp": "勝利条件",
-   "en": "",
+   "en": "Victory Conditions",
    "term": "end"
   },
   {
    "id": "scen001.0265",
    "jp": "やめます",
-   "en": "",
+   "en": "Quit",
    "term": "end"
   },
   {

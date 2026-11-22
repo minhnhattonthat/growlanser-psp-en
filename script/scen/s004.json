@@ -748,7 +748,7 @@
   {
    "id": "scen004.0104",
    "jp": "最近ヴェンツェルの部下どもが、{n}この辺りにも現れるようになっています。{p}街の人たちに被害は出ていませんが、{n}多くの兵が命を落としました。",
-   "en": "",
+   "en": "Wenzel's underlings have begun appearing around{n}here lately.{p}The townspeople have not been harmed, but many{n}soldiers have lost their lives.",
    "term": "end"
   },
   {
@@ -943,19 +943,19 @@
   {
    "id": "scen004.0132",
    "jp": "‥‥{v:0070}諦めずに頑張るしかねぇな。",
-   "en": "",
+   "en": "...{v:0070}Just gotta keep at it. Can't give up.",
    "term": "end"
   },
   {
    "id": "scen004.0133",
    "jp": "{v:0071}そうですね！{n}僕たちが諦めたら、本当におしまいですからね！",
-   "en": "",
+   "en": "{v:0071}That's right! If we give up, it really will be all over!",
    "term": "end"
   },
   {
    "id": "scen004.0134",
    "jp": "{v:0072}そうだ。{n}諦めは考えず、今は出来るだけのことをしよう。",
-   "en": "",
+   "en": "{v:0072}Exactly. Let us put aside all thought of giving up and{n}do everything we can for now.",
    "term": "end"
   },
   {
@@ -975,13 +975,13 @@
   {
    "id": "scen004.0137",
    "jp": "{v:0075}その通り。諦めるのはいつでも出来る。{p}{v:0076}今はやるだけやろう。",
-   "en": "",
+   "en": "{v:0075}Exactly. We can give up anytime.{p}{v:0076}For now, let's give it all we've got.",
    "term": "end"
   },
   {
    "id": "scen004.0138",
    "jp": "{v:0087}うん。",
-   "en": "",
+   "en": "{v:0087}Yeah.",
    "term": "end"
   },
   {
@@ -1102,7 +1102,7 @@
   {
    "id": "scen004.0155",
    "jp": "{v:0002}諦めてはいけません！",
-   "en": "",
+   "en": "{v:0002}You must not give up!",
    "term": "end"
   },
   {
@@ -1115,7 +1115,7 @@
   {
    "id": "scen004.0157",
    "jp": "{v:0004}諦めは敗北を意味します。{n}全力を尽くしましょう！",
-   "en": "",
+   "en": "{v:0004}To give up is to accept defeat. Let us give this our all!",
    "term": "end"
   },
   {
