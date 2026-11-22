@@ -36,7 +36,7 @@
   {
    "id": "scen084.0004",
    "jp": "{v:0012}またここに来るとはな。",
-   "en": "",
+   "en": "{v:0012}Never thought we'd be back here.",
    "term": "end"
   },
   {
@@ -418,215 +418,215 @@
   {
    "id": "scen084.0058",
    "jp": "‥‥{v:001D}よし。{n}これで完成ね。",
-   "en": "",
+   "en": "...{v:001D}There. That finishes it.",
    "term": "end"
   },
   {
    "id": "scen084.0059",
    "jp": "{v:001E}あっ！{n}アイツは！",
-   "en": "",
+   "en": "{v:001E}Ah! It's her!",
    "term": "end"
   },
   {
    "id": "scen084.0060",
    "jp": "{v:001F}やっぱり、来たわね‥‥。{n}ここで張っていれば、現れると思ったわ。",
-   "en": "",
+   "en": "{v:001F}I knew you'd come... I thought if I waited here, you'd{n}show up.",
    "term": "end"
   },
   {
    "id": "scen084.0061",
    "jp": "{v:0020}またアタシたちの妨害をしようっての！？",
-   "en": "",
+   "en": "{v:0020}You here to get in our way again?!",
    "term": "end"
   },
   {
    "id": "scen084.0062",
    "jp": "{FFF6}‥‥{v:0021}ふふっ‥‥。",
-   "en": "",
+   "en": "{FFF6}...{v:0021}Heh heh...",
    "term": "end"
   },
   {
    "id": "scen084.0063",
    "jp": "{v:0022}相手は１人だよ！{n}今なら‥‥。",
-   "en": "",
+   "en": "{v:0022}She's all alone! If we strike now...",
    "term": "end"
   },
   {
    "id": "scen084.0064",
    "jp": "{v:0023}待て、ティピ。{n}あいつには戦う意思はなさそうだ。",
-   "en": "",
+   "en": "{v:0023}Wait, Tippi. She doesn't look like she wants a fight.",
    "term": "end"
   },
   {
    "id": "scen084.0065",
    "jp": "‥‥{v:0024}えっ？",
-   "en": "",
+   "en": "...{v:0024}Huh?",
    "term": "end"
   },
   {
    "id": "scen084.0066",
    "jp": "{FFF6}{v:0025}少し話をしましょうか。",
-   "en": "",
+   "en": "{FFF6}{v:0025}Let's talk for a bit, shall we?",
    "term": "end"
   },
   {
    "id": "scen084.0067",
    "jp": "{v:0026}あなたは人々の戦いをどう思うの？",
-   "en": "",
+   "en": "{v:0026}What do you think of people's wars?",
    "term": "end"
   },
   {
    "id": "scen084.0068",
    "jp": "・避けられない",
-   "en": "",
+   "en": "・They're unavoidable",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0069",
    "jp": "・おろかなことだ",
-   "en": "",
+   "en": "・They're foolish",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0070",
    "jp": "・止めねばならない",
-   "en": "",
+   "en": "・They must be stopped",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0071",
    "jp": "{v:0027}つまり、諦めているってこと？",
-   "en": "",
+   "en": "{v:0027}In other words, you've given up?",
    "term": "end"
   },
   {
    "id": "scen084.0072",
    "jp": "{v:0028}いいえ、あきらめていたら、{n}私たちは行動していないでしょう。",
-   "en": "",
+   "en": "{v:0028}No. If we had given up, we wouldn't be doing anything.",
    "term": "end"
   },
   {
    "id": "scen084.0073",
    "jp": "{v:0029}避けられないことだと、現実を知っているから、{n}それを何とかしようとあがくんだよ。",
-   "en": "",
+   "en": "{v:0029}It's because we know the reality, that it can't be{n}avoided, that we struggle to do something about it!",
    "term": "end"
   },
   {
    "id": "scen084.0074",
    "jp": "{v:002A}そうね。{n}だけどそうやって嘆くだけなの？",
-   "en": "",
+   "en": "{v:002A}I see. But is lamenting it all you do?",
    "term": "end"
   },
   {
    "id": "scen084.0075",
    "jp": "{v:002B}いいえ、嘆くだけなら、{n}私たちは行動していないでしょう。",
-   "en": "",
+   "en": "{v:002B}No. If all we did was lament, we wouldn't be{n}doing anything.",
    "term": "end"
   },
   {
    "id": "scen084.0076",
    "jp": "{v:002C}おろかな行為だとしても、現実を見つめて、{n}それを何とかしようとあがくんだよ。",
-   "en": "",
+   "en": "{v:002C}Even if it's foolish, we face reality and struggle to do{n}something about it!",
    "term": "end"
   },
   {
    "id": "scen084.0077",
    "jp": "{FFF6}{v:002D}そうね。{n}あなたたちの行動を見ていれば、よくわかるわ。",
-   "en": "",
+   "en": "{FFF6}{v:002D}Yes. That much is clear from watching what you do.",
    "term": "end"
   },
   {
    "id": "scen084.0078",
    "jp": "{v:002E}いったい、何が言いたいのよ？",
-   "en": "",
+   "en": "{v:002E}What are you getting at, anyway?",
    "term": "end"
   },
   {
    "id": "scen084.0079",
    "jp": "{v:002F}私たちは、こっちの世界の人が、{n}旧世界と呼ぶ元の世界から来たことは話したわね？{p}{FFF6}{v:0030}私たちがこっちに着いた時、{n}そこはグローシアンとフェザリアンの戦争の{n}末期だったわ。{p}{FFF7}{v:0031}フェザリアンは地上を捨て、グローシアンは{n}生物兵器ゲヴェルを使い反逆する人間を虐殺する、{n}そんな時代だった。",
-   "en": "",
+   "en": "{v:002F}I told you we came from the original world, the one{n}people here call the Old World, didn't I?{p}{FFF6}{v:0030}When we arrived here, the war between the Growsians{n}and the Featherians was in its final days.{p}{FFF7}{v:0031}It was an age when the Featherians had abandoned the{n}surface, and the Growsians used the biological weapon{n}Gevel to slaughter any humans who rebelled.",
    "term": "end"
   },
   {
    "id": "scen084.0080",
    "jp": "‥‥{v:0032}ひどい‥‥。",
-   "en": "",
+   "en": "...{v:0032}How awful...",
    "term": "end"
   },
   {
    "id": "scen084.0081",
    "jp": "{v:0033}私たちのチームのリーダーであった{n}メルフィの両親は、フェザリアンであったがために{n}グローシアンたちによって殺されたわ。",
-   "en": "",
+   "en": "{v:0033}Melfie, the leader of our team, lost her parents to the{n}Growsians, killed simply because they{n}were Featherians.",
    "term": "end"
   },
   {
    "id": "scen084.0082",
    "jp": "{v:006B}はい、ジャスティンさんもそう言っていました。",
-   "en": "",
+   "en": "{v:006B}Yes, Justin-san said so too.",
    "term": "end"
   },
   {
    "id": "scen084.0083",
    "jp": "{v:0034}それで、グローシアンを憎むように‥‥。",
-   "en": "",
+   "en": "{v:0034}And that's why she came to hate the Growsians...",
    "term": "end"
   },
   {
    "id": "scen084.0084",
    "jp": "{v:0035}自分たちの仲間を殺されても、{n}私たちはグローシアンに頼るしかなかった。{n}それは、自分たちの故郷に帰る方法を探すためよ。",
-   "en": "",
+   "en": "{v:0035}Even after they killed our comrades, we had no choice{n}but to rely on the Growsians. We needed them to find a{n}way back to our homeland.",
    "term": "end"
   },
   {
    "id": "scen084.0085",
    "jp": "{v:0036}帰る方法を持たずに来たわけじゃないだろう？",
-   "en": "",
+   "en": "{v:0036}You didn't come here without a way to get back,{n}did you?",
    "term": "end"
   },
   {
    "id": "scen084.0086",
    "jp": "{v:0037}こちらの世界に来るまでは闇‥‥、{n}デュンケルスの存在は知らなかったからよ。{n}通常の方法で帰ることは出来なかったのよ‥‥！{p}{FFF6}{v:0038}だから当時一番研究をするのに向いた環境‥‥{n}グローシアンの元で、デュンケルスに対処する方法を{n}調べるしかなかった‥‥。",
-   "en": "",
+   "en": "{v:0037}Until we came to this world, we didn't know about the{n}darkness... about the Dunkels. We couldn't go back by{n}ordinary means...!{p}{FFF6}{v:0038}So we had no choice but to research a way to deal with{n}the Dunkels in the environment best suited to research{n}at the time... under the Growsians.",
    "term": "end"
   },
   {
    "id": "scen084.0087",
    "jp": "{v:0039}それをヴェンツェルたちに奪われたのか？",
-   "en": "",
+   "en": "{v:0039}And Wenzel and his lot stole that from you?",
    "term": "end"
   },
   {
    "id": "scen084.0088",
    "jp": "{v:003A}ゲヴェル細胞と融合し、{n}時空干渉能力を持つことで、{n}同時にデュンケルスが無害になるということをね。{p}{FFF6}{v:003B}ヴェンツェルは人間や、{n}同じグローシアンの部下で実験すると、{n}今度は自分の身体でそれを試した。{p}{v:003C}だけどヴェンツェルの身体はゲヴェル細胞が{n}急激に侵食を行い、精神を奪われた。{p}{v:003D}これを止めるために何人もの{n}グローシアンが死んだわ。{p}{FFF7}{v:003E}でもこの研究により、急激な侵食を行わなければ、{n}確実に融合できることが分かった。",
-   "en": "",
+   "en": "{v:003A}That fusing with Gevel cells grants space-time{n}interference ability, and at the same time makes the{n}Dunkels harmless.{p}{FFF6}{v:003B}Wenzel experimented on humans and on his own{n}Growsian subordinates, and then tried it on his{n}own body.{p}{v:003C}But the Gevel cells rapidly overran Wenzel's body and{n}seized his mind.{p}{v:003D}Many Growsians died stopping it.{p}{FFF7}{v:003E}But this research showed that, as long as the cells{n}don't spread too rapidly, the fusion will{n}surely succeed.",
    "term": "end"
   },
   {
    "id": "scen084.0089",
    "jp": "{v:003F}どう言う意味？",
-   "en": "",
+   "en": "{v:003F}What do you mean?",
    "term": "end"
   },
   {
    "id": "scen084.0090",
    "jp": "{v:0040}私たちが、グローシアン支配時代から今まで、{n}どうやって生きてきたと思う？",
-   "en": "",
+   "en": "{v:0040}How do you think we've stayed alive from the age of{n}Growsian rule until now?",
    "term": "end"
   },
   {
    "id": "scen084.0091",
    "jp": "・歳を取らない",
-   "en": "",
+   "en": "・You don't age",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0092",
    "jp": "・眠っていた",
-   "en": "",
+   "en": "・You were asleep",
    "term": "end",
    "unref": true
   },
@@ -641,79 +641,79 @@
   {
    "id": "scen084.0094",
    "jp": "{FFF6}{v:0041}そんなことはないわよ。人間だもの。{n}答えはね、眠っていたから。{p}{FFF7}{v:0042}何百年もかけて、{n}眠りながらゲヴェル細胞と融合していったの。",
-   "en": "",
+   "en": "{FFF6}{v:0041}Of course we age. We're human. The answer is, we{n}were asleep.{p}{FFF7}{v:0042}Over hundreds of years, we fused with the Gevel cells{n}as we slept.",
    "term": "end"
   },
   {
    "id": "scen084.0095",
    "jp": "{v:0043}そう、その通り。{n}何百年もかけて、眠りながらゲヴェル細胞と{n}融合していったの。",
-   "en": "",
+   "en": "{v:0043}Yes, exactly. Over hundreds of years, we fused with{n}the Gevel cells as we slept.",
    "term": "end"
   },
   {
    "id": "scen084.0096",
    "jp": "{FFF6}{v:0044}そう‥‥。{n}答えはね、眠っていたから。{p}{FFF7}{v:0045}何百年もかけて、{n}眠りながらゲヴェル細胞と融合していったの。",
-   "en": "",
+   "en": "{FFF6}{v:0044}Well... The answer is, we were asleep.{p}{FFF7}{v:0045}Over hundreds of years, we fused with the Gevel cells{n}as we slept.",
    "term": "end"
   },
   {
    "id": "scen084.0097",
    "jp": "{FFF6}{v:0046}自らの身体をグローシュの結晶である魔水晶に{n}閉じ込めて、死に近い状態で眠りながら、{n}徐々に身体を慣れさせていった。{p}{FFF7}{FC02}{v:0047}おかげで、あなたやリシャールほどの力は{n}得られなかったけど、時空干渉能力と{n}デュンケルスへの耐性は得られたわ。",
-   "en": "",
+   "en": "{FFF6}{v:0046}We sealed our bodies inside magic crystals, which are{n}crystallized Grosh, and slept in a state close to death,{n}slowly letting our bodies adapt.{p}{FFF7}{FC02}{v:0047}Because of that, we never gained as much power as{n}you or Richard, but we did gain space-time{n}interference ability and resistance to the Dunkels.",
    "term": "end"
   },
   {
    "id": "scen084.0098",
    "jp": "{v:0048}それじゃ、その方法を使えば、{n}みんな怪物化しなくて済むの？",
-   "en": "",
+   "en": "{v:0048}Then if we use that method, nobody has to turn into{n}a monster?",
    "term": "end"
   },
   {
    "id": "scen084.0099",
    "jp": "{v:0049}そのために数百年も眠る必要があるんだろ？{n}まったく実用的じゃないな。",
-   "en": "",
+   "en": "{v:0049}But that means sleeping for hundreds of years, right?{n}Not exactly practical.",
    "term": "end"
   },
   {
    "id": "scen084.0100",
    "jp": "{FFF6}{v:004A}そうね。{n}だから、時空融合を解けば、{n}人々はモンスター化してこの世界は終わるわ。",
-   "en": "",
+   "en": "{FFF6}{v:004A}That's right. So if the space-time fusion is undone,{n}people will turn into monsters, and this world will end.",
    "term": "end"
   },
   {
    "id": "scen084.0101",
    "jp": "{v:004B}この世界の人を見捨てるの！？",
-   "en": "",
+   "en": "{v:004B}You'd abandon the people of this world?!",
    "term": "end"
   },
   {
    "id": "scen084.0102",
    "jp": "{v:004C}ジャスティンはそれをやろうとしているわ。",
-   "en": "",
+   "en": "{v:004C}That's what Justin intends to do.",
    "term": "end"
   },
   {
    "id": "scen084.0103",
    "jp": "{v:004D}どうして！？",
-   "en": "",
+   "en": "{v:004D}Why?!",
    "term": "end"
   },
   {
    "id": "scen084.0104",
    "jp": "{v:004E}ジャスティンはこの世界の人が故郷に{n}攻め込む事を防ごうとしている。{n}どんな小さな可能性でもなくそうとしている。{p}{v:004F}またヴェンツェルみたいな野心家が生まれないとも{n}限らないから、この世界の人間を全て滅ぼそうと{n}考えているのよ。",
-   "en": "",
+   "en": "{v:004E}Justin wants to stop the people of this world from{n}ever invading our homeland. He means to wipe out even{n}the smallest chance of it.{p}{v:004F}Since there's no telling another ambitious man like{n}Wenzel won't be born, he's thinking of destroying{n}every human in this world.",
    "term": "end"
   },
   {
    "id": "scen084.0105",
    "jp": "‥‥{v:0050}ヴェンツェルが死んだ今、{n}侵略を企む奴なんて、もういないのにな‥‥。",
-   "en": "",
+   "en": "...{v:0050}With Wenzel dead, there's nobody left who'd plot an{n}invasion anyway...",
    "term": "end"
   },
   {
    "id": "scen084.0106",
    "jp": "{FFF6}{v:0051}そうなの。{n}だから私はジャスティンの考えについて{n}いけなくなった。",
-   "en": "",
+   "en": "{FFF6}{v:0051}Exactly. That's why I could no longer go along with{n}Justin's way of thinking.",
    "term": "end"
   },
   {
@@ -726,129 +726,129 @@
   {
    "id": "scen084.0108",
    "jp": "・ヤツを止めよう",
-   "en": "",
+   "en": "・Let's stop him",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0109",
    "jp": "・ヤツは帰りたいだけでは？",
-   "en": "",
+   "en": "・Doesn't he just want to go home?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0110",
    "jp": "{v:0052}うん！{n}この世界の人を助けないと！",
-   "en": "",
+   "en": "{v:0052}Yeah! We've got to save the people of this world!",
    "term": "end"
   },
   {
    "id": "scen084.0111",
    "jp": "{v:0053}帰りたい？",
-   "en": "",
+   "en": "{v:0053}Go home?",
    "term": "end"
   },
   {
    "id": "scen084.0112",
    "jp": "{v:0054}そうなのかもしれない。{p}{FC02}{v:0055}だけど、自分が故郷に帰るためにこの世界の人々、{n}全員を危険にさらすわけにはいかないわ。{p}{FC03}{v:0077}それに、私たちのいた時代から{n}もう数百年も経っている‥‥、{n}今更帰ったって‥‥。",
-   "en": "",
+   "en": "{v:0054}Maybe so.{p}{FC02}{v:0055}But I can't put every person in this world in danger{n}just so I can go back to my homeland.{p}{FC03}{v:0077}Besides, hundreds of years have passed since our{n}time... Going back now would be...",
    "term": "end"
   },
   {
    "id": "scen084.0113",
    "jp": "{v:0056}私は、ジャスティンのやり方についていけない。{n}お願い、ジャスティンを止めるのに、力を貸して！",
-   "en": "",
+   "en": "{v:0056}I can't go along with Justin's methods. Please, lend me{n}your strength to stop him!",
    "term": "end"
   },
   {
    "id": "scen084.0114",
    "jp": "{v:0057}ありがとう！",
-   "en": "",
+   "en": "{v:0057}Thank you!",
    "term": "end"
   },
   {
    "id": "scen084.0115",
    "jp": "{v:0058}貸すも何も、俺たちだって奴を止めないと、{n}自分たちが危ないわけだからな。",
-   "en": "",
+   "en": "{v:0058}Lend it or not, we've got to stop him too, or we're the{n}ones in danger.",
    "term": "end"
   },
   {
    "id": "scen084.0116",
    "jp": "{v:0059}りがいのいっち、ってヤツよね？",
-   "en": "",
+   "en": "{v:0059}It's one of those \"mutual inner-ests\" thingies, right?",
    "term": "end"
   },
   {
    "id": "scen084.0117",
    "jp": "{v:005B}えぇぇっ！？{n}どうして？",
-   "en": "",
+   "en": "{v:005B}Whaaat?! Why?",
    "term": "end"
   },
   {
    "id": "scen084.0118",
    "jp": "{v:005C}そうだよ、お兄ちゃん！{n}私たち、ジャスティンさんを止めないと{n}死んじゃうんだよ？",
-   "en": "",
+   "en": "{v:005C}That's right, Big Brother! If we don't stop Justin-san,{n}we'll all die, you know!",
    "term": "end"
   },
   {
    "id": "scen084.0119",
    "jp": "{v:005D}そうよ！{n}りがいのいっち、ってヤツでしょ？",
-   "en": "",
+   "en": "{v:005D}Exactly! It's one of those \"mutual inner-ests\"{n}thingies, right?",
    "term": "end"
   },
   {
    "id": "scen084.0120",
    "jp": "{v:006C}それじゃ、まずはキミの身体を治すことが先決ね。{n}さあ、奥に行きましょ！",
-   "en": "",
+   "en": "{v:006C}Well then, first things first: we need to heal your{n}body. Come on, let's go farther in!",
    "term": "end"
   },
   {
    "id": "scen084.0121",
    "jp": "{v:006D}奥に？{n}やっぱりこの中にはお兄ちゃんを{n}助ける方法があるの？",
-   "en": "",
+   "en": "{v:006D}Farther in? So there really is a way to save Big Brother{n}in here?",
    "term": "end"
   },
   {
    "id": "scen084.0122",
    "jp": "{v:006E}ええ。{n}私ならそれを作ることが出来るわ。{n}というわけで、私を連れて行ってちょうだい。",
-   "en": "",
+   "en": "{v:006E}Yes. I can make it. So, take me with you, would you?",
    "term": "end"
   },
   {
    "id": "scen084.0123",
    "jp": "　{n}　　　　　{FFEF}アメリアが仲間になった！{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　{FFEF}Amelia joined the party!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen084.0124",
    "jp": "{FFF6}{v:006A}それじゃ、これからよろしく頼むね。",
-   "en": "",
+   "en": "{FFF6}{v:006A}Well then, I'm counting on you from here on.",
    "term": "end"
   },
   {
    "id": "scen084.0125",
    "jp": "{v:006F}それじゃ、パーティーを編成し直そうぜ。",
-   "en": "",
+   "en": "{v:006F}All right, let's reorganize the party.",
    "term": "end"
   },
   {
    "id": "scen084.0126",
    "jp": "{v:006A}それじゃ、これからよろしく頼むね。",
-   "en": "",
+   "en": "{v:006A}Well then, I'm counting on you from here on.",
    "term": "end"
   },
   {
    "id": "scen084.0127",
    "jp": "奥へ行くのね？",
-   "en": "",
+   "en": "Heading farther in?",
    "term": "end"
   },
   {
    "id": "scen084.0128",
    "jp": "アメリアをパーティーに加えますか？",
-   "en": "",
+   "en": "Add Amelia to the party?",
    "term": "end"
   },
   {
@@ -884,7 +884,7 @@
   {
    "id": "scen084.0133",
    "jp": "　{n}　　　　　　{FFEF}アメリアが仲間になった！{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　{FFEF}Amelia joined the party!{FFF1}",
    "term": "end"
   },
   {
@@ -932,37 +932,37 @@
   {
    "id": "scen084.0140",
    "jp": "{v:0070}このメンバーでいいの？",
-   "en": "",
+   "en": "{v:0070}Is this the team you want?",
    "term": "end"
   },
   {
    "id": "scen084.0141",
    "jp": "アタシは学院に戻って、{n}何かお兄さまのお力になれることがないか{n}探してみますね★",
-   "en": "",
+   "en": "I'll go back to the Academy and see if there's anything{n}I can do to help you, Big Brother!",
    "term": "end"
   },
   {
    "id": "scen084.0142",
    "jp": "僕はいったん魔法学院に戻るよ。{n}色々と残してきた研究もあるしね。",
-   "en": "",
+   "en": "I'll head back to the Magic Academy for now. I left a lot{n}of research unfinished, after all.",
    "term": "end"
   },
   {
    "id": "scen084.0143",
    "jp": "私はバーンシュタインに戻る。{n}陛下や国民たちのことも心配だからな。",
-   "en": "",
+   "en": "I shall return to Burnstein. I am worried about His{n}Majesty and the people as well.",
    "term": "end"
   },
   {
    "id": "scen084.0144",
    "jp": "{v:0071}それじゃ、出発しましょ！",
-   "en": "",
+   "en": "{v:0071}All right, let's get going!",
    "term": "end"
   },
   {
    "id": "scen084.0145",
    "jp": "じゃ、だれを連れていくの？",
-   "en": "",
+   "en": "So, who are you taking?",
    "term": "end"
   },
   {
@@ -996,19 +996,19 @@
   {
    "id": "scen084.0150",
    "jp": "みんなを放って、どこ行く気よ！",
-   "en": "",
+   "en": "Where do you think you're going, leaving{n}everyone behind?!",
    "term": "end"
   },
   {
    "id": "scen084.0151",
    "jp": "アメリアさんを連れて行かないと{n}意味ないでしょうが！",
-   "en": "",
+   "en": "There's no point unless we take Amelia-san with{n}us, duh!",
    "term": "end"
   },
   {
    "id": "scen084.0152",
    "jp": "ちょっと待って！{n}アメリアさんを放って行っていいの？",
-   "en": "",
+   "en": "Wait a sec! Is it really okay to leave Amelia-san behind?",
    "term": "end"
   },
   {
@@ -1098,51 +1098,51 @@
   {
    "id": "scen084.0165",
    "jp": "{v:0017}リシャールの言っていたものはどれなんだ？{n}ここ全体がゲヴェルの体内なんだろ？",
-   "en": "",
+   "en": "{v:0017}So which one is the thing Richard was talking about?{n}This whole place is the inside of Gevel's body, right?",
    "term": "end"
   },
   {
    "id": "scen084.0166",
    "jp": "{v:0018}ねぇ、アンタさ、ここに入ってから、{n}何か身体に変化は？",
-   "en": "",
+   "en": "{v:0018}Hey, you. Since we came in here, has your body felt{n}any different?",
    "term": "end"
   },
   {
    "id": "scen084.0167",
    "jp": "・良い気がする",
-   "en": "",
+   "en": "・I think I feel better",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0168",
    "jp": "・変わらない",
-   "en": "",
+   "en": "・No change",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen084.0169",
    "jp": "{v:0019}えっ、本当！",
-   "en": "",
+   "en": "{v:0019}Huh, really?!",
    "term": "end"
   },
   {
    "id": "scen084.0170",
    "jp": "{v:001A}よし、それじゃ、{n}もっと奥まで行ってみようぜ。",
-   "en": "",
+   "en": "{v:001A}All right, then let's go in deeper.",
    "term": "end"
   },
   {
    "id": "scen084.0171",
    "jp": "{v:001B}そうかぁ‥‥。",
-   "en": "",
+   "en": "{v:001B}I see...",
    "term": "end"
   },
   {
    "id": "scen084.0172",
    "jp": "{v:001C}だったら、もっと奥まで行ってみようぜ。",
-   "en": "",
+   "en": "{v:001C}Then let's go in deeper and see.",
    "term": "end"
   },
   {

@@ -33,9 +33,11 @@ TOKEN = re.compile(r"\{[^}\n]*\}|\[[0-9A-F]{4}\]")  # control codes, placeholder
 FREE = {"{n}", "{p}"}  # layout codes the English may place freely (the wrapper adds them)
 DICT = re.compile(r"\{F4([0-9A-F]{2})\}")  # dictionary words: shown expanded to translators, spelled out in English
 VARIABLE = r"\{s:[0-9A-F]{4}\}"  # a name the game draws: no suffix glued on
-GLYPH_VARS = {"{s:0127}"}  # 目 drawn from the names table (exe.names "Eye"), a kanji not a name: English spells the word
+GLYPH_VARS = {"{s:0127}", "{s:012A}"}  # 目 drawn from the names table (PS1 0127, PSP 012A), a kanji: English spells the word
+GLYPH_VARS |= {"{s:012E}", "{s:0047}"}  # PSP: 爪 ("Claw") in 爪か髪の毛, 教授 in 学院教授会 (faculty council)
 GLYPH_VARS |= {"[028B]", "[028C]", "[028D]", "[028E]"}  # ペンダント squeezed into 4 font cells: English spells "Pendant"
 GLYPH_VARS |= {"[0793]"}  # blank glyph in ＤＡＴＡ[0793]ＢＡＮＫ: its cell holds asm/vwf.asm now, English writes a space
+LF = "{lf}"  # a raw newline (boot.save) as translators see and write it; check_batch turns it back into "\n"
 HONORIFICS = {"さん": "-san", "ちゃん": "-chan", "くん": "-kun", "君": "-kun"}  # D1: honorifics kept
 from insert import KEEP_JP, needs_english  # noqa: E402,F401  the one keep-list, shared with the inserter
 WRAPPED = ("scen", "boot.help", "msys")  # multi-line boxes the wrapper lays out; {p} only added in scen dialogue
@@ -269,6 +271,8 @@ def fix_choice_periods(write):
 
 
 def width_problems(entry, en):
+    if entry["id"].startswith("boot.save"):  # utf-8 system dialog (PSP OS font), not our VWF: measured in phase 8
+        return []
     font, codec = tools()
     return [m for err, m in fit.lint(wrap(entry, en), budget(entry, en), font, codec) if err]
 
@@ -289,6 +293,7 @@ def show_jp(entry):
         d = json.loads((SCRIPT / "boot/dict.json").read_text(encoding="utf-8"))["entries"]
         _dict = {int(e["id"][-4:]): e["jp"] for e in d}
     jp = DICT.sub(lambda m: _dict.get(int(m[1], 16), ""), entry["jp"])
+    jp = jp.replace("\n", LF)  # boot.save system-dialog strings hold raw newlines: one TSV row each
     return jp.replace("{n}", " / ") if entry["id"].startswith(WRAPPED) else jp  # menus keep their {n} rows
 # ---- end of ADAPTER ----
 
@@ -332,7 +337,7 @@ def problems(entry, en, terms):
     if not en.strip():
         return ["empty English"]
     out = []
-    plain = TOKEN.sub("", en)
+    plain = TOKEN.sub("", en).replace("\n", "")
     if choice_period(entry, en) != en:
         out.append("choice line ends with a period (the JP's has none): drop it")
     if bad := sorted({c for c in plain if not encodable(c)}):
@@ -351,6 +356,8 @@ def problems(entry, en, terms):
         out.append("choice lines start with the bullet ・ exactly when the JP does")
     if re.search(VARIABLE + r"(st|nd|rd|th|s)\b", en):
         out.append("suffix glued to a name variable (only a possessive 's may follow it)")
+    if re.search(VARIABLE + r"-(san|chan|kun|sama)\b", en):
+        out.append("no honorific after a name variable: drop it (PS1 rule, 90 of 90 lines)")
     jp_plain = TOKEN.sub("", show_jp(entry))
     en_terms = " ".join(TOKEN.sub(" ", en).split()).lower()
     for jps, ens, avoid in terms:
@@ -462,7 +469,8 @@ def split(size, only):
 
 def check_batch(batch, entries, terms):
     want = [r[0] for r in read_tsv(TL / f"{batch}.tsv")]
-    rows = [(r[0], "\t".join(r[1:]).strip(" \r\n")) for r in read_tsv(TL / f"{batch}.out.tsv")]  # keeps U+3000 edges
+    rows = [(r[0], "\t".join(r[1:]).strip(" \r\n").replace(LF, "\n"))  # keeps U+3000 edges
+            for r in read_tsv(TL / f"{batch}.out.tsv")]
     bad = []
     if [r[0] for r in rows] != want:
         got = [r[0] for r in rows]

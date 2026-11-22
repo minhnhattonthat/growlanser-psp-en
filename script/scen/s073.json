@@ -487,7 +487,7 @@
   {
    "id": "scen073.0068",
    "jp": "{v:0010}サンドラの娘には感謝しているぞ。{n}あのグローシュ結晶のおかげで、{n}こうして本来の力を取り戻せたのだからな。",
-   "en": "",
+   "en": "{v:0010}I am grateful to Sandra's daughter. Thanks to that{n}Grosh crystal, I have regained my true power.",
    "term": "end"
   },
   {
@@ -570,73 +570,73 @@
   {
    "id": "scen073.0080",
    "jp": "ラージン砦が滅んじゃってる‥‥。{n}{FFFB}アタシたち、{n}ここを救ってあげられなかったんだね‥‥。",
-   "en": "",
+   "en": "Fort Rajin's been wiped out... {FFFB}We couldn't save this{n}place, could we...",
    "term": "end"
   },
   {
    "id": "scen073.0081",
    "jp": "ここはまだ大丈夫みたいだな。{n}おい、立てる場所を探そうぜ。",
-   "en": "",
+   "en": "Looks like this place is still okay. Hey, let's find a spot to{n}put it up.",
    "term": "end"
   },
   {
    "id": "scen073.0082",
    "jp": "うん、この辺りなら大丈夫だと思うわ。",
-   "en": "",
+   "en": "Yes, I think this spot should be fine.",
    "term": "end"
   },
   {
    "id": "scen073.0083",
    "jp": "ここはダメね。{n}違う場所にしましょう。",
-   "en": "",
+   "en": "This spot won't do. Let's try somewhere else.",
    "term": "end"
   },
   {
    "id": "scen073.0084",
    "jp": "ねぇ、この辺りとかどうかな？",
-   "en": "",
+   "en": "Hey, what about around here?",
    "term": "end"
   },
   {
    "id": "scen073.0085",
    "jp": "いいわね、そこの辺りにしましょう。",
-   "en": "",
+   "en": "Good, let's put it right there.",
    "term": "end"
   },
   {
    "id": "scen073.0086",
    "jp": "　{n}　　　　　　携帯集魔柱を設置した！",
-   "en": "",
+   "en": "　{n}　　　　　　Set up the portable mana{n}collection pillar!",
    "term": "end"
   },
   {
    "id": "scen073.0087",
    "jp": "やったぁ、ここも成功だね！{n}それじゃ、早く次の場所へ向かいましょ！",
-   "en": "",
+   "en": "Yaaay, success here too! Now let's hurry to the{n}next spot!",
    "term": "end"
   },
   {
    "id": "scen073.0088",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A portable mana collection pillar{n}stands here.",
    "term": "end"
   },
   {
    "id": "scen073.0089",
    "jp": "闇落としをしていた城と思われる物体は、{n}ここより西へ向かったところに落ちているようです。",
-   "en": "",
+   "en": "The object believed to be the castle that caused the{n}Darkfall appears to have fallen west of here.",
    "term": "end"
   },
   {
    "id": "scen073.0090",
-   "jp": "た、大変だ！{n}この空の色‥‥、哮の闇落としに違いない！",
-   "en": "",
+   "jp": "た、大変だ！{n}この空の色‥‥、噂の闇落としに違いない！",
+   "en": "Th-this is terrible! The color of this sky... It must be the{n}Darkfall we've heard about!",
    "term": "end"
   },
   {
    "id": "scen073.0091",
    "jp": "ありがとうございます、{n}あなた方のおかげで砦は助かりました。",
-   "en": "",
+   "en": "Thank you. Thanks to you, the fort was saved.",
    "term": "end"
   },
   {
@@ -684,13 +684,13 @@
   {
    "id": "scen073.0098",
    "jp": "闇落としの話を聞きましたが‥‥。{n}人がバケモノになるなんてショックですよ。",
-   "en": "",
+   "en": "I heard about the Darkfall... It's a shock to think people{n}can turn into monsters.",
    "term": "end"
   },
   {
    "id": "scen073.0099",
    "jp": "お疲れ様です。",
-   "en": "",
+   "en": "Thank you for your hard work.",
    "term": "end"
   },
   {
@@ -703,19 +703,19 @@
   {
    "id": "scen073.0101",
    "jp": "ここから西へ向かったところに、{n}例の城が墜落したらしいとの情報が入っています。",
-   "en": "",
+   "en": "We've received word that the castle in question{n}crashed somewhere west of here.",
    "term": "end"
   },
   {
    "id": "scen073.0102",
    "jp": "こ、これは緊急事態だ！",
-   "en": "",
+   "en": "Th-this is an emergency!",
    "term": "end"
   },
   {
    "id": "scen073.0103",
    "jp": "なんとか危機は免れたようですね、{n}本当によかったです。",
-   "en": "",
+   "en": "It seems we somehow escaped the danger. I'm{n}truly glad.",
    "term": "end"
   },
   {
@@ -763,13 +763,13 @@
   {
    "id": "scen073.0110",
    "jp": "ラシェルやブローニュ村の話は、{n}こっちの方にも伝わってきてるよ。{n}ランザック城のことといい、物騒すぎるよな‥‥。",
-   "en": "",
+   "en": "We've heard the news about Rachelle and Boulogne{n}Village out here too. What with Ranzak Castle as well,{n}things are way too dangerous...",
    "term": "end"
   },
   {
    "id": "scen073.0111",
    "jp": "戦争は終結しましたが、{n}まだゆっくりと休める感じではないな。",
-   "en": "",
+   "en": "The war may be over, but it doesn't feel like we can{n}rest easy yet.",
    "term": "end"
   },
   {
@@ -782,19 +782,19 @@
   {
    "id": "scen073.0113",
    "jp": "聞いたか？{n}西の方に、あの大きな塔が墜落したらしいぞ。",
-   "en": "",
+   "en": "Did you hear? That huge tower apparently crashed{n}somewhere to the west.",
    "term": "end"
   },
   {
    "id": "scen073.0114",
    "jp": "くそっ、これがラシェルやブローニュ村を{n}襲ったという闇落としの前触れか！",
-   "en": "",
+   "en": "Damn it, so this is the sign of the Darkfall that hit{n}Rachelle and Boulogne Village!",
    "term": "end"
   },
   {
    "id": "scen073.0115",
    "jp": "まさか、あんな形で闇を回避してしまうとは。{n}君たちには恐れ入ったよ。",
-   "en": "",
+   "en": "Who would have thought you'd avert the darkness like{n}that? You've truly impressed me.",
    "term": "end"
   },
   {
@@ -842,13 +842,13 @@
   {
    "id": "scen073.0122",
    "jp": "人をバケモノにしてしまう闇‥‥。{n}そんな恐ろしいものが存在していたとは‥‥。",
-   "en": "",
+   "en": "A darkness that turns people into monsters... To think{n}such a horrifying thing existed...",
    "term": "end"
   },
   {
    "id": "scen073.0123",
    "jp": "戦争が終わっても、{n}武器庫の管理はしっかりしなければ‥‥。",
-   "en": "",
+   "en": "Even with the war over, we must keep the armory{n}well managed...",
    "term": "end"
   },
   {
@@ -1411,20 +1411,20 @@
   },
   {
    "id": "scen073.0202",
-   "jp": "兵士たちも哮しているが、{n}例の時空制御塔と思われる塔は{n}ここから西へ行ったところへ墜落した。",
-   "en": "",
+   "jp": "兵士たちも噂しているが、{n}例の時空制御塔と思われる塔は{n}ここから西へ行ったところへ墜落した。",
+   "en": "The soldiers are shaken too, but the tower believed to{n}be the Space-Time Control Tower crashed west{n}of here.",
    "term": "end"
   },
   {
    "id": "scen073.0203",
    "jp": "情けないが、{n}今はキミたちだけが頼りだ、頼む！",
-   "en": "",
+   "en": "It's shameful to admit, but right now you're the only{n}ones we can count on. Please!",
    "term": "end"
   },
   {
    "id": "scen073.0204",
    "jp": "キミたちには、{n}いくらお礼を言っても足りないな。{n}本当にありがとう、感謝している。",
-   "en": "",
+   "en": "No amount of thanks could ever be enough for you.{n}Truly, thank you. I'm grateful.",
    "term": "end"
   },
   {
@@ -1472,45 +1472,45 @@
   {
    "id": "scen073.0211",
    "jp": "まだ、集魔柱の設置が終わってないわ！{n}闇落としが来る前に、早く立てましょう！",
-   "en": "",
+   "en": "We haven't finished setting up the mana collection pillar{n}yet! Let's put it up quickly, before the Darkfall comes!",
    "term": "end"
   },
   {
    "id": "scen073.0212",
    "jp": "携帯集魔柱も立てられたし、{n}なんとか無事に終わったみたいね。",
-   "en": "",
+   "en": "The portable mana collection pillar is up, and it looks like{n}it all ended safely somehow.",
    "term": "end"
   },
   {
    "id": "scen073.0213",
    "jp": "な、なんだ？{n}闇が更に濃くなったぞ！？",
-   "en": "",
+   "en": "Wh-what? The darkness has gotten even thicker?!",
    "term": "end"
   },
   {
    "id": "scen073.0214",
    "jp": "なんと警告しますか？",
-   "en": "",
+   "en": "What warning will you give?",
    "term": "end"
   },
   {
    "id": "scen073.0215",
    "jp": "・闇が落ちてくる、逃げろ！",
-   "en": "",
+   "en": "・The darkness is falling! Run!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen073.0216",
    "jp": "・集魔柱から離れろ！",
-   "en": "",
+   "en": "・Get away from the mana collection pillar!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen073.0217",
    "jp": "・その場から動くな！",
-   "en": "",
+   "en": "・Don't move from where you are!",
    "term": "end",
    "unref": true
   },
@@ -1525,115 +1525,115 @@
   {
    "id": "scen073.0219",
    "jp": "な、なんだと？{n}だが、どこに逃げればいいんだ！？",
-   "en": "",
+   "en": "Wh-what? But where are we supposed to run?!",
    "term": "end"
   },
   {
    "id": "scen073.0220",
    "jp": "いや、集魔柱から離れるだけで大丈夫だ！{n}早くしろ！",
-   "en": "",
+   "en": "No, you just need to get away from the mana collection{n}pillar! Hurry!",
    "term": "end"
   },
   {
    "id": "scen073.0221",
    "jp": "わ、分かった！",
-   "en": "",
+   "en": "R-right!",
    "term": "end"
   },
   {
    "id": "scen073.0222",
    "jp": "おバカ！{n}集魔柱から避難させないでどうするのよ！",
-   "en": "",
+   "en": "You dummy! You have to get them away from the mana{n}collection pillar!",
    "term": "end"
   },
   {
    "id": "scen073.0223",
    "jp": "みんな集魔柱から離れるんだ、早くしろ！",
-   "en": "",
+   "en": "Everyone, get away from the mana collection{n}pillar! Hurry!",
    "term": "end"
   },
   {
    "id": "scen073.0224",
    "jp": "闇が落ちてくる！{n}みんな集魔柱から離れるんだ、早くしろ！",
-   "en": "",
+   "en": "The darkness is falling! Everyone, get away from the{n}mana collection pillar! Hurry!",
    "term": "end"
   },
   {
    "id": "scen073.0225",
    "jp": "全員、退避しろ！",
-   "en": "",
+   "en": "All troops, fall back!",
    "term": "end"
   },
   {
    "id": "scen073.0226",
    "jp": "闇が晴れていく‥‥。{n}{FFFB}助かったのか？{n}この砦は‥‥。",
-   "en": "",
+   "en": "The darkness is clearing... {FFFB}Are we saved? Is this fort...?",
    "term": "end"
   },
   {
    "id": "scen073.0227",
    "jp": "ありがとう。{n}君たちにまた助けられてしまったな。",
-   "en": "",
+   "en": "Thank you. You've saved us once again.",
    "term": "end"
   },
   {
    "id": "scen073.0228",
    "jp": "事態の説明を詳しく聞きたいところだが、{n}察するところ、キミ達も時間がないんだろう？{p}ならば、引き止めるわけにはいかない。{n}我々のことはいいから、早く行ってくれ。",
-   "en": "",
+   "en": "I'd like to hear a full explanation of what happened,{n}but I take it you're short on time as well?{p}Then I won't keep you. Never mind us, just go.",
    "term": "end"
   },
   {
    "id": "scen073.0229",
    "jp": "すまない、そうさせてもらえると助かる。",
-   "en": "",
+   "en": "Sorry. We'd appreciate that.",
    "term": "end"
   },
   {
    "id": "scen073.0230",
    "jp": "では、また会おう。",
-   "en": "",
+   "en": "Then we'll meet again.",
    "term": "end"
   },
   {
    "id": "scen073.0231",
    "jp": "それじゃ急いで学院に戻ろう、お兄ちゃん！",
-   "en": "",
+   "en": "Then let's hurry back to the Academy, Big Brother!",
    "term": "end"
   },
   {
    "id": "scen073.0232",
    "jp": "この辺りなら大丈夫ね。{n}ここに立てましょう。",
-   "en": "",
+   "en": "This spot should be fine. Let's put it up here.",
    "term": "end"
   },
   {
    "id": "scen073.0233",
    "jp": "アンタ、最初に私が見つけた場所を{n}忘れちゃったの？",
-   "en": "",
+   "en": "Hey, you! Did you forget the spot I found first?",
    "term": "end"
   },
   {
    "id": "scen073.0234",
    "jp": "場所的に、この辺りが適してるよ。{n}ほら、早く立てないと！",
-   "en": "",
+   "en": "This area is just right for it. Come on, hurry and put{n}it up!",
    "term": "end"
   },
   {
    "id": "scen073.0235",
    "jp": "ティピちゃんが言ったように、{n}広場の中央辺りがいいと思うわ。",
-   "en": "",
+   "en": "Like Tippi-chan said, I think the middle of the square{n}would be best.",
    "term": "end"
   },
   {
    "id": "scen073.0236",
    "jp": "ここは立てるのに適してないわね。{n}他の場所にしましょう。",
-   "en": "",
+   "en": "This spot isn't suitable for it. Let's go{n}somewhere else.",
    "term": "end"
   },
   {
    "id": "scen073.0237",
    "jp": "ちょっと！{n}集魔柱の設置しないとダメでしょうが！",
-   "en": "",
+   "en": "Hey! You have to set up the mana collection pillar,{n}you know!",
    "term": "end"
   },
   {
@@ -1646,85 +1646,85 @@
   {
    "id": "scen073.0239",
    "jp": "お待ちください！",
-   "en": "",
+   "en": "Please wait!",
    "term": "end"
   },
   {
    "id": "scen073.0240",
    "jp": "キミたちのおかげで、{n}兵の損害は皆無だったよ！{n}これは気持ちばかりのお礼だ、受け取ってくれ。",
-   "en": "",
+   "en": "Thanks to you, we didn't lose a single soldier! This is{n}just a small token of thanks. Please accept it.",
    "term": "end"
   },
   {
    "id": "scen073.0241",
    "jp": "　{n}　　　　　『{FFEF}槍部品・穂先{FFF1}』を受け取った！",
-   "en": "",
+   "en": "　{n}　　　　　Received '{FFEF}Spear Part: Tip{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen073.0242",
    "jp": "何コレ、またガラクタぁ？",
-   "en": "",
+   "en": "What's this, more junk?",
    "term": "end"
   },
   {
    "id": "scen073.0243",
    "jp": "ガ、ガラクタとは失礼な‥‥。{n}{FFFB}これは、とても鋭利な金属なんだ。{p}砦の基礎に刺さっていたらしいんだけど、{n}全てのパーツが揃えば、{n}きっとキミたちの役に立つんじゃないかな？",
-   "en": "",
+   "en": "J-junk? How rude... {FFFB}This is an extremely sharp piece{n}of metal.{p}It was apparently stuck in the fort's foundations, but{n}if you gather all the parts, I'm sure it'll come in handy{n}for you.",
    "term": "end"
   },
   {
    "id": "scen073.0244",
    "jp": "後はキミたちだけが頼りだ！",
-   "en": "",
+   "en": "The rest is up to you!",
    "term": "end"
   },
   {
    "id": "scen073.0245",
    "jp": "どうやら、時空制御塔は{n}この付近から移動したようですね。",
-   "en": "",
+   "en": "It seems the Space-Time Control Tower has moved{n}away from this area.",
    "term": "end"
   },
   {
    "id": "scen073.0246",
    "jp": "ガーディアンらは撃退できたけど、{n}暗闇は晴れないですね‥‥。どうしてでしょう？",
-   "en": "",
+   "en": "We drove off the Guardians, but the darkness won't{n}clear... Why is that?",
    "term": "end"
   },
   {
    "id": "scen073.0247",
    "jp": "キミたちが来てくれなかったら、{n}今ごろ俺らは‥‥。{n}{FFFB}本当にありがとう、感謝しているよ！",
-   "en": "",
+   "en": "If you hadn't come, we'd be... {FFFB}Really, thank you. I'm{n}grateful!",
    "term": "end"
   },
   {
    "id": "scen073.0248",
    "jp": "この不気味な闇は、{n}どうすれば晴れるのでしょうか？",
-   "en": "",
+   "en": "How can we make this eerie darkness clear?",
    "term": "end"
   },
   {
    "id": "scen073.0249",
    "jp": "キミたちも頑張ってくれ！",
-   "en": "",
+   "en": "You keep up the good work too!",
    "term": "end"
   },
   {
    "id": "scen073.0250",
    "jp": "とりあえず問題は解決した‥‥のか？",
-   "en": "",
+   "en": "Well, the problem's solved for now... I think?",
    "term": "end"
   },
   {
    "id": "scen073.0251",
    "jp": "テレポートを唱えてる間に、{n}闇が落ちてきちゃうよ。{n}今は、早く携帯集魔柱から離れよう？",
-   "en": "",
+   "en": "The darkness will fall while we're still casting Teleport.{n}For now, let's hurry and get away from the portable{n}mana collection pillar, okay?",
    "term": "end"
   },
   {
    "id": "scen073.0252",
    "jp": "ダメだよ、お兄ちゃん。{n}急いで携帯集魔柱を立てないと、{n}みんなが危険なんだよ？",
-   "en": "",
+   "en": "We can't, Big Brother. If we don't hurry and put up the{n}portable mana collection pillar, everyone will be in{n}danger, remember?",
    "term": "end"
   },
   {

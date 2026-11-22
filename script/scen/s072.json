@@ -309,7 +309,7 @@
   {
    "id": "scen072.0043",
    "jp": "{FFF6}{v:0010}森の緑、そして静けさ‥‥。{FFF9}{FFFB}{n}{v:0011}かすかな虫の音‥‥。{p}{v:0012}そして‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0010}The green of the forest, and its stillness...{FFF9}{FFFB} {v:0011}The faint{n}chirping of insects...{p}{v:0012}And...",
    "term": "end"
   },
   {
@@ -671,7 +671,7 @@
   {
    "id": "scen072.0094",
    "jp": "{v:0049}そう硬くならずともよい。{n}この者たちのおかげで何の心配もありませんでした。",
-   "en": "",
+   "en": "{v:0049}There is no need to be so formal. Thanks to these{n}people, I had nothing to worry about.",
    "term": "end"
   },
   {
@@ -719,7 +719,7 @@
   {
    "id": "scen072.0101",
    "jp": "{v:0004}はい。{n}私も一時は諦めていました。",
-   "en": "",
+   "en": "{v:0004}Yes. For a time, even I had given up hope.",
    "term": "end"
   },
   {

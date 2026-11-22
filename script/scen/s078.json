@@ -78,7 +78,7 @@
   {
    "id": "scen078.0010",
    "jp": "{v:003F}ガスが噴き出してきちまったな。{n}準備をしてもう一度出直すとするか。",
-   "en": "",
+   "en": "{v:003F}The gas has started pouring out. Let's get ready and{n}come back for another try.",
    "term": "end"
   },
   {
@@ -98,7 +98,7 @@
   {
    "id": "scen078.0013",
    "jp": "{v:0004}このブレーム山の内部には{n}火山の猛毒ガスが噴き出している。{p}{v:0005}ガスは定期的に止まるが、時間がたつとまた噴き出す。{n}その短時間に戻ってこなけりゃ、毒ガスの餌食だ。",
-   "en": "",
+   "en": "{v:0004}Deadly volcanic gas pours out inside Mount Brehm.{p}{v:0005}The gas stops at regular intervals, but starts up{n}again after a while. If you don't get back in that short{n}time, it'll kill you.",
    "term": "end"
   },
   {
@@ -475,7 +475,7 @@
   {
    "id": "scen078.0067",
    "jp": "{v:002F}いつガスが噴き出すかわからんぞ。{n}無駄な戦いは避けて、出口へ急ごう！",
-   "en": "",
+   "en": "{v:002F}That gas could erupt any moment. Avoid needless fights{n}and head for the exit!",
    "term": "end"
   },
   {
@@ -495,7 +495,7 @@
   {
    "id": "scen078.0070",
    "jp": "{FFF6}{v:0024}あまり時間をかけるな。{n}ガスが噴き出してくるまで時間がないぞ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0024}Do not take too long. There is little time before the{n}gas erupts...",
    "term": "end"
   },
   {
@@ -522,7 +522,7 @@
   {
    "id": "scen078.0074",
    "jp": "{FFF6}{v:0028}急ぐのだ。{n}間もなくガスが噴き出すぞ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0028}Make haste. The gas will erupt shortly...",
    "term": "end"
   },
   {
@@ -535,7 +535,7 @@
   {
    "id": "scen078.0076",
    "jp": "{FFF6}{v:001A}気をつけろ‥‥そろそろガスが噴き出すぞ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:001A}Beware... The gas will erupt soon...",
    "term": "end"
   },
   {

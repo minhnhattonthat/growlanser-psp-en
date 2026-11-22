@@ -99,7 +99,7 @@
   {
    "id": "scen062.0013",
    "jp": "キミたちにこんなことを頼むのは{n}おかしいかもしれないが、よかったら{n}リシャール様に会いにいってくれないか？{p}気丈なリシャール様といえども、{n}やはり１人で地下牢にいるのは{n}こたえると思うからね‥‥。",
-   "en": "",
+   "en": "It may be strange of me to ask this of you, but if you{n}would, could you go and see Lord Richard?{p}Strong-willed as he is, being alone in the dungeon must{n}still be taking its toll on him...",
    "term": "end"
   },
   {
@@ -443,43 +443,43 @@
   {
    "id": "scen062.0062",
    "jp": "‥‥{v:00A3}リシャール、大丈夫？",
-   "en": "",
+   "en": "...{v:00A3}Richard, are you okay?",
    "term": "end"
   },
   {
    "id": "scen062.0063",
    "jp": "‥‥{v:00A4}ゲヴェルが死んだようだな‥‥。{n}まるで自分の身体じゃないように、{n}力が入らん‥‥。",
-   "en": "",
+   "en": "...{v:00A4}So Gevel is dead, it seems... My body feels as if it isn't{n}my own. I have no strength...",
    "term": "end"
   },
   {
    "id": "scen062.0064",
    "jp": "{v:00A5}リシャールさん‥‥。",
-   "en": "",
+   "en": "{v:00A5}Richard-san...",
    "term": "end"
   },
   {
    "id": "scen062.0065",
    "jp": "{v:00A6}少し、その男と２人にしてくれるか？",
-   "en": "",
+   "en": "{v:00A6}Would you leave me alone with him for a moment?",
    "term": "end"
   },
   {
    "id": "scen062.0066",
    "jp": "‥‥{v:00A7}あ、うん‥‥。",
-   "en": "",
+   "en": "...{v:00A7}Oh, okay...",
    "term": "end"
   },
   {
    "id": "scen062.0067",
    "jp": "{v:00A8}アタシも、行ってたほうが良いよね‥‥。",
-   "en": "",
+   "en": "{v:00A8}I guess I'd better go too, huh...",
    "term": "end"
   },
   {
    "id": "scen062.0068",
    "jp": "{v:00A9}言いたいことの察しは付いているか？",
-   "en": "",
+   "en": "{v:00A9}Do you have some idea of what I wish to say?",
    "term": "end"
   },
   {
@@ -501,31 +501,31 @@
   {
    "id": "scen062.0071",
    "jp": "{FFF6}{v:00AA}そうか‥‥。{n}覚悟は出来ているか‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:00AA}I see... So you are prepared...",
    "term": "end"
   },
   {
    "id": "scen062.0072",
    "jp": "{v:00AB}わからぬか‥‥。{n}ならばハッキリ言おう。",
-   "en": "",
+   "en": "{v:00AB}You do not know...? Then I shall say it plainly.",
    "term": "end"
   },
   {
    "id": "scen062.0073",
    "jp": "{v:00AC}私のこの姿を見ておけ。{n}これがお前の未来の姿だ。{p}{v:00AD}自分の命の源であるゲヴェルを倒したのだ。{n}お前も遠からず、こうなる‥‥。{p}{FFF6}{v:00AE}作られた存在である我々には、{n}それに抗う手段はない‥‥。{n}奇跡でも起きぬ限りはな‥‥。{p}{v:00AF}覚悟はしていたが‥‥いざその時が来ると、{n}堪えるぞ‥‥。{p}{FFF7}{v:00B0}だが、もう時間は戻せん。{n}覚悟しておけ‥‥。",
-   "en": "",
+   "en": "{v:00AC}Look well at me as I am now. This is your future.{p}{v:00AD}You defeated Gevel, the very source of your life.{n}Before long, you too will end up like this...{p}{FFF6}{v:00AE}Created beings such as we have no means to resist{n}it... Not unless a miracle occurs...{p}{v:00AF}I was prepared for this... but now that the time has{n}come, it is hard to bear...{p}{FFF7}{v:00B0}But there is no turning back the clock. Prepare{n}yourself...",
    "term": "end"
   },
   {
    "id": "scen062.0074",
    "jp": "{v:00B1}あ、もういいの？{n}それじゃ、行こうか。",
-   "en": "",
+   "en": "{v:00B1}Oh, are you done already? Let's go, then.",
    "term": "end"
   },
   {
    "id": "scen062.0075",
    "jp": "覚悟しておけ‥‥。",
-   "en": "",
+   "en": "Prepare yourself...",
    "term": "end"
   },
   {
@@ -552,57 +552,57 @@
   {
    "id": "scen062.0079",
    "jp": "‥‥{v:008B}何だ？{n}私を笑いに来たのか？",
-   "en": "",
+   "en": "...{v:008B}What is it? Have you come to laugh at me?",
    "term": "end"
   },
   {
    "id": "scen062.0080",
    "jp": "・そうだ",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen062.0081",
    "jp": "・そうではない",
-   "en": "",
+   "en": "・No, I haven't",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen062.0082",
    "jp": "{FFF6}{v:008C}ハッキリという‥‥。{n}素直すぎて怒る気にもならん。",
-   "en": "",
+   "en": "{FFF6}{v:008C}You say it plainly... You are so honest that I cannot{n}even bring myself to be angry.",
    "term": "end"
   },
   {
    "id": "scen062.0083",
    "jp": "{v:008D}あう‥‥。",
-   "en": "",
+   "en": "{v:008D}Uh...",
    "term": "end"
   },
   {
    "id": "scen062.0084",
    "jp": "{v:008E}ならば、哀れみか？",
-   "en": "",
+   "en": "{v:008E}Then is it pity?",
    "term": "end"
   },
   {
    "id": "scen062.0085",
    "jp": "{v:008F}そんな、哀れみなんて‥‥。",
-   "en": "",
+   "en": "{v:008F}No, it's not pity...",
    "term": "end"
   },
   {
    "id": "scen062.0086",
    "jp": "{v:0090}まあ、いい。{n}ここは退屈だからな。{n}少し話し相手になってもらおうか。{p}{FFF6}{v:0091}いや、私のグチを聞いてくれるだけでいい‥‥。{p}{FFF7}{v:0092}１人でいるとな、{n}どうしてもお前のことを考えるのだ。",
-   "en": "",
+   "en": "{v:0090}Well, no matter. It is dull in here. Keep me company and{n}talk awhile.{p}{FFF6}{v:0091}No, you need only listen to me complain...{p}{FFF7}{v:0092}When I am alone, I cannot help but think of you.",
    "term": "end"
   },
   {
    "id": "scen062.0087",
    "jp": "{FFF6}{v:0093}お前も私も同じ立場のはずなのに、{n}どうしてこうも違う道になったのだろう、とな。",
-   "en": "",
+   "en": "{FFF6}{v:0093}You and I should be in the same position, so why have{n}our paths turned out so differently? That is what{n}I wonder.",
    "term": "end"
   },
   {
@@ -616,7 +616,7 @@
   {
    "id": "scen062.0089",
    "jp": "・ゲヴェルに抗ったから",
-   "en": "",
+   "en": "・Because I resisted Gevel",
    "term": "end",
    "unref": true
   },
@@ -631,50 +631,50 @@
   {
    "id": "scen062.0091",
    "jp": "{v:0094}わ、わたしなんて‥‥。",
-   "en": "",
+   "en": "{v:0094}M-me? I didn't do anything...",
    "term": "end"
   },
   {
    "id": "scen062.0092",
    "jp": "{v:0095}でも、グローシアンのルイセちゃんがいたから、{n}今のコイツがいるんだよ？",
-   "en": "",
+   "en": "{v:0095}But it's because Luise-chan was there, a Growsian,{n}that this guy is who he is now, you know?",
    "term": "end"
   },
   {
    "id": "scen062.0093",
    "jp": "{v:0096}だが、それだけではあるまい。{n}ゲヴェルの支配に逆らったからこそ、{n}今のお前があるはずだ。",
-   "en": "",
+   "en": "{v:0096}Yet that cannot be all. It is precisely because you defied{n}Gevel's control that you are who you are now.",
    "term": "end"
   },
   {
    "id": "scen062.0094",
    "jp": "{v:0097}そうだろうな。{n}そのグローシアンがそばにいたというのは{n}きっかけに過ぎない。{p}{v:0098}ゲヴェルの支配に逆らおうと思わねば、{n}今のお前はあるまい。",
-   "en": "",
+   "en": "{v:0097}I suppose so. Having that Growsian by your side was{n}merely the spark.{p}{v:0098}Had you not resolved to defy Gevel's control, you{n}would not be who you are now.",
    "term": "end"
   },
   {
    "id": "scen062.0095",
    "jp": "{v:0099}答えはわかっている。{n}お前がゲヴェルの支配に逆らおうとしたからだ。{p}{v:00B6}そのグローシアンがそばにいたというのは{n}きっかけに過ぎない。",
-   "en": "",
+   "en": "{v:0099}I know the answer. It is because you tried to defy{n}Gevel's control.{p}{v:00B6}Having that Growsian by your side was merely{n}the spark.",
    "term": "end"
   },
   {
    "id": "scen062.0096",
    "jp": "{v:009A}私がお前の立場だったら、{n}逆らうことは出来ただろうか‥‥。",
-   "en": "",
+   "en": "{v:009A}Had I been in your position... would I have been able{n}to resist...?",
    "term": "end"
   },
   {
    "id": "scen062.0097",
    "jp": "・出来たはず",
-   "en": "",
+   "en": "・You could have",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen062.0098",
    "jp": "・無理だろう",
-   "en": "",
+   "en": "・Probably not",
    "term": "end",
    "unref": true
   },
@@ -689,43 +689,43 @@
   {
    "id": "scen062.0100",
    "jp": "{FFF6}{v:009B}そういわれると、素直にうれしいな。",
-   "en": "",
+   "en": "{FFF6}{v:009B}Hearing you say that... I am honestly glad.",
    "term": "end"
   },
   {
    "id": "scen062.0101",
    "jp": "{v:009C}やはり、そう思うか‥‥。",
-   "en": "",
+   "en": "{v:009C}So you think so too, after all...",
    "term": "end"
   },
   {
    "id": "scen062.0102",
    "jp": "{v:009D}そ、そんなことないですよ！{n}リシャールさんの強さなら、出来たはずです！",
-   "en": "",
+   "en": "{v:009D}Th-that's not true! With your strength, Richard-san, you{n}could have done it!",
    "term": "end"
   },
   {
    "id": "scen062.0103",
    "jp": "{v:009E}で、出来ましたよ！{n}だって、リシャールさん、強いじゃないですか！",
-   "en": "",
+   "en": "{v:009E}Y-you could have! I mean, you're strong, Richard-san!",
    "term": "end"
   },
   {
    "id": "scen062.0104",
    "jp": "{FFF6}{v:009F}とにかく、今の私を見てわかる通り、{n}ゲヴェルの声に抗うことはできなかった。{p}{v:00A0}もし、ゲヴェルの支配から逃れられたら‥私は‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:009F}In any case, as you can see from the state I am in, I{n}could not resist Gevel's voice.{p}{v:00A0}If I could have escaped Gevel's control... I...",
    "term": "end"
   },
   {
    "id": "scen062.0105",
    "jp": "{v:00A1}いや、そんなことを言っても仕方ない。{p}{FFF6}‥‥{v:00A2}もうグチは終わりだ。{n}行ってくれ‥‥。",
-   "en": "",
+   "en": "{v:00A1}No, there is no use in saying such things.{p}{FFF6}...{v:00A2}Enough complaining. Go...",
    "term": "end"
   },
   {
    "id": "scen062.0106",
    "jp": "‥{v:00A2}{FFF6}もうグチは終わりだ。{n}行ってくれ‥‥。",
-   "en": "",
+   "en": "...{v:00A2}{FFF6}Enough complaining. Go...",
    "term": "end"
   },
   {
@@ -773,7 +773,7 @@
   {
    "id": "scen062.0113",
    "jp": "　{n}　　　　不思議な力でかき消された‥‥。",
-   "en": "",
+   "en": "　{n}　　　　A mysterious force dispelled it...",
    "term": "end"
   }
  ]

@@ -126,7 +126,7 @@
   },
   {
    "id": "scen003.0017",
-   "jp": "君たちの活躍は、よく哮になってるよ。{n}もう英雄として大評判だよ。",
+   "jp": "君たちの活躍は、よく噂になってるよ。{n}もう英雄として大評判だよ。",
    "en": "People are always talking about your exploits. You're{n}already famous as heroes!",
    "term": "end",
    "src": "ps1"
@@ -1461,7 +1461,7 @@
   },
   {
    "id": "scen003.0206",
-   "jp": "これはこれは{s:0000}様。{n}ご活躍の哮は、よく聞いております。",
+   "jp": "これはこれは{s:0000}様。{n}ご活躍の噂は、よく聞いております。",
    "en": "Ah, Lord {s:0000}! We have heard much of{n}your exploits.",
    "term": "end",
    "src": "ps1"

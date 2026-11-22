@@ -99,55 +99,55 @@
   {
    "id": "scen067.0013",
    "jp": "ここにも、集魔柱を立てていくのね？{n}なら、この辺りがいいと思うわ。",
-   "en": "",
+   "en": "So we're putting up a mana collection pillar here too?{n}Then I think around here would be good.",
    "term": "end"
   },
   {
    "id": "scen067.0014",
    "jp": "‥‥あら？{n}{FFFB}やっぱり、ローザリアへ急ぐの？{p}{FC02}なら時間がないわ、早く向かいましょう！",
-   "en": "",
+   "en": "...Huh? {FFFB}So we're hurrying to Rosaria after all?{p}{FC02}Then there's no time to lose. Let's get going!",
    "term": "end"
   },
   {
    "id": "scen067.0015",
    "jp": "　{n}　　　　　　携帯集魔柱を設置した！",
-   "en": "",
+   "en": "　{n}　　　　　　Set up the portable mana{n}collection pillar!",
    "term": "end"
   },
   {
    "id": "scen067.0016",
    "jp": "やった、闇が晴れていくよ！",
-   "en": "",
+   "en": "Yay, the darkness is clearing!",
    "term": "end"
   },
   {
    "id": "scen067.0017",
    "jp": "ここは成功ね！{n}{FFFB}{FC07}それじゃ、急いでローザリアへ行きましょ！",
-   "en": "",
+   "en": "Success here! {FFFB}{FC07}Now, let's hurry to Rosaria!",
    "term": "end"
   },
   {
    "id": "scen067.0018",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A portable mana collection pillar{n}stands here.",
    "term": "end"
   },
   {
    "id": "scen067.0019",
    "jp": "私はここの土地の管理を任された者なのですが、{n}こんな天気では土地開発どころではないですね。",
-   "en": "",
+   "en": "I have been entrusted with managing this land, but in{n}weather like this, developing it is out of the question.",
    "term": "end"
   },
   {
    "id": "scen067.0020",
    "jp": "こんな天気では、何も出来ないですね。",
-   "en": "",
+   "en": "Nothing can be done in weather like this.",
    "term": "end"
   },
   {
    "id": "scen067.0021",
    "jp": "天気が良くなったので、{n}これで開発に取り掛かれますよ。",
-   "en": "",
+   "en": "The weather has cleared up, so now we can get{n}started on development.",
    "term": "end"
   },
   {
@@ -913,25 +913,25 @@
   {
    "id": "scen067.0125",
    "jp": "{s:0010}にも立てて行くのね？{n}じゃあ、この辺りに立てましょう！",
-   "en": "",
+   "en": "So we're putting one up in {s:0010} too? Then{n}let's set it up around here!",
    "term": "end"
   },
   {
    "id": "scen067.0126",
    "jp": "あれ、晴れた‥‥？{n}さっきまでの闇は、なんだったんだ？",
-   "en": "",
+   "en": "Huh, it cleared up...? What was all that darkness{n}just now?",
    "term": "end"
   },
   {
    "id": "scen067.0127",
    "jp": "昼なのに、空が黒いよ[01BE]",
-   "en": "",
+   "en": "It's the middle of the day, but the sky is black[01BE]",
    "term": "end"
   },
   {
    "id": "scen067.0128",
    "jp": "シュッツベルグの東に、{n}変な宿があるのは知ってるか？{p}なんでも、そこで変わったサービスを{n}始めたって小耳にはさんだんだけど、{n}どんなのか気になるなぁ‥‥。",
-   "en": "",
+   "en": "You know that weird inn east of Schutzberg?{p}I heard through the grapevine they've started some{n}unusual new service there. I wonder what it's like...",
    "term": "end"
   },
   {
@@ -944,13 +944,13 @@
   {
    "id": "scen067.0130",
    "jp": "ねぇねぇ、さっきまで暗かったよね？{n}突然晴れたけどさ、{n}私の目の錯覚じゃないよね！？",
-   "en": "",
+   "en": "Hey, hey, it was dark a minute ago, right? It suddenly{n}cleared up, but my eyes weren't playing tricks on me,{n}were they?!",
    "term": "end"
   },
   {
    "id": "scen067.0131",
    "jp": "なになに！？{n}なんで急に辺りが暗くなっちゃったの！？",
-   "en": "",
+   "en": "What, what?! Why did it suddenly get so dark{n}around here?!",
    "term": "end"
   },
   {
@@ -963,13 +963,13 @@
   {
    "id": "scen067.0133",
    "jp": "どうやら、空が晴れたみたいだな。{n}これで観光を楽しめるってもんだ！",
-   "en": "",
+   "en": "Looks like the sky's cleared up. Now we can enjoy{n}some sightseeing!",
    "term": "end"
   },
   {
    "id": "scen067.0134",
    "jp": "変な空模様だな‥‥。",
-   "en": "",
+   "en": "Strange-looking sky...",
    "term": "end"
   },
   {
@@ -1166,13 +1166,13 @@
   {
    "id": "scen067.0161",
    "jp": "せっかく来たのに、{n}こんなお天気だなんて～！",
-   "en": "",
+   "en": "We came all this way, and the weather's like thiiis!",
    "term": "end"
   },
   {
    "id": "scen067.0162",
    "jp": "がっかりすぎるよねぇ～！",
-   "en": "",
+   "en": "This is sooo disappointing!",
    "term": "end"
   },
   {
@@ -1276,13 +1276,13 @@
   {
    "id": "scen067.0177",
    "jp": "‥‥さっきまでのは、何だったのかしら？{n}雲が空を覆っていなかったのに、{n}急に辺りが暗くなっるなんて‥‥。",
-   "en": "",
+   "en": "...What was that just now? There were no clouds{n}covering the sky, yet everything suddenly went dark...",
    "term": "end"
   },
   {
    "id": "scen067.0178",
    "jp": "気持ちの悪い空ね‥‥。",
-   "en": "",
+   "en": "What an unsettling sky...",
    "term": "end"
   },
   {
@@ -1295,13 +1295,13 @@
   {
    "id": "scen067.0180",
    "jp": "さっきまで暗かったけど、{n}霧でも出てたのかしら‥‥？",
-   "en": "",
+   "en": "It was dark a moment ago... Was there some fog rolling{n}in, I wonder...?",
    "term": "end"
   },
   {
    "id": "scen067.0181",
    "jp": "視界が暗いと、心も沈むわね‥‥。",
-   "en": "",
+   "en": "When everything looks dark, it brings your spirits{n}down too...",
    "term": "end"
   },
   {
@@ -1335,13 +1335,13 @@
   {
    "id": "scen067.0186",
    "jp": "闇が落ちる前兆かと思って焦ったけど、{n}どうやら俺の気のせいだったみたいだな。",
-   "en": "",
+   "en": "I panicked, thinking it was a sign of the Darkfall, but it{n}looks like it was just my imagination.",
    "term": "end"
   },
   {
    "id": "scen067.0187",
    "jp": "闇が落ちてくる時の前兆は、{n}こんな感じだと聞いたことがあるが‥‥。{n}{FFFB}まさか、ここにも落ちるのか！？",
-   "en": "",
+   "en": "I've heard that this is what it's like right before the{n}darkness falls... {FFFB}Don't tell me it's going to fall{n}here too?!",
    "term": "end"
   },
   {
@@ -1426,7 +1426,7 @@
   {
    "id": "scen067.0199",
    "jp": "彼女とはここで出会ったんだ。{n}つまり、この場所は僕たちにとって{n}特別な場所っていうわけだ。{p}だから、どんな悪天候だろうが、{n}ここでデートをし続けるのさ！{n}なっ？",
-   "en": "",
+   "en": "This is where I met her. So this place is special to us.{p}That's why we'll keep having our dates here, no matter{n}how bad the weather gets! Right, sweetheart?",
    "term": "end"
   },
   {
@@ -1446,7 +1446,7 @@
   {
    "id": "scen067.0202",
    "jp": "‥‥空が恐いです‥‥。",
-   "en": "",
+   "en": "...The sky scares me...",
    "term": "end"
   },
   {
@@ -1473,7 +1473,7 @@
   {
    "id": "scen067.0206",
    "jp": "ボート遊び～★{p}って、いきたいところだけど、{n}楽しむのは休暇だけにしましょ！",
-   "en": "",
+   "en": "Let's go boating!{p}...Is what I'd love to say, but let's save the fun for{n}our vacation!",
    "term": "end"
   },
   {
@@ -1486,7 +1486,7 @@
   {
    "id": "scen067.0208",
    "jp": "こんな空模様だと、{n}ボートに乗る気もなくなっちゃうわね。",
-   "en": "",
+   "en": "With the sky looking like this, I don't even feel like{n}taking a boat out.",
    "term": "end"
   },
   {
@@ -1499,7 +1499,7 @@
   {
    "id": "scen067.0210",
    "jp": "不吉な風が吹いているな‥‥。",
-   "en": "",
+   "en": "An ill wind is blowing...",
    "term": "end"
   },
   {
@@ -1512,7 +1512,7 @@
   {
    "id": "scen067.0212",
    "jp": "突然、どうしちゃったのかしらね？{n}こんな暗くなっちゃって‥‥。",
-   "en": "",
+   "en": "What could have happened all of a sudden, I wonder?{n}It's gotten so dark...",
    "term": "end"
   },
   {
@@ -1525,7 +1525,7 @@
   {
    "id": "scen067.0214",
    "jp": "せっかく、{n}いい気分で食事してたところなのに～！",
-   "en": "",
+   "en": "And I was enjoying such a nice meal, toooo!",
    "term": "end"
   },
   {
@@ -1538,7 +1538,7 @@
   {
    "id": "scen067.0216",
    "jp": "やだ、この空‥‥何なのかしら？",
-   "en": "",
+   "en": "Ugh, this sky... What is going on?",
    "term": "end"
   },
   {
@@ -1551,7 +1551,7 @@
   {
    "id": "scen067.0218",
    "jp": "あなた達もレストランに来たの？{n}せっかく来たのに、こんな空模様だなんて‥‥。{n}お互い残念ねぇ。",
-   "en": "",
+   "en": "Did you come to the restaurant too? We came all this{n}way, and the sky turns like this... What a shame for{n}both of us.",
    "term": "end"
   },
   {
@@ -1606,7 +1606,7 @@
   {
    "id": "scen067.0226",
    "jp": "空が暗いせいで、{n}湖に映っていた景色も見えなくなっちゃった。",
-   "en": "",
+   "en": "The sky's so dark, you can't even see the scenery{n}reflected in the lake anymore.",
    "term": "end"
   },
   {

@@ -22,25 +22,25 @@
   {
    "id": "scen077.0002",
    "jp": "{FFF3}‥‥{FFF2}{v:006F}あっ。",
-   "en": "",
+   "en": "{FFF3}...{FFF2}{v:006F}Oh.",
    "term": "end"
   },
   {
    "id": "scen077.0003",
    "jp": "{v:0070}どうした、ルイセ？",
-   "en": "",
+   "en": "{v:0070}What's wrong, Luise?",
    "term": "end"
   },
   {
    "id": "scen077.0004",
    "jp": "{v:0071}さっきの指輪の光、何だったのかな？{n}気になるよ‥‥。",
-   "en": "",
+   "en": "{v:0071}What was that light from the ring earlier? I can't{n}stop wondering...",
    "term": "end"
   },
   {
    "id": "scen077.0005",
    "jp": "{v:0072}そうよねぇ‥‥。{n}この洞窟に入ったとたんに光るなんて。{n}奥に何があったのかしら？",
-   "en": "",
+   "en": "{v:0072}I know... It lit up the moment we entered this cave. I{n}wonder what was farther inside?",
    "term": "end"
   },
   {
@@ -818,7 +818,7 @@
   {
    "id": "scen077.0115",
    "jp": "{v:0096}手紙を渡すのよ！{n}　　　て・が・み！",
-   "en": "",
+   "en": "{v:0096}Hand over the letter! 　　　The let-ter!",
    "term": "end"
   },
   {
@@ -1261,7 +1261,7 @@
   {
    "id": "scen077.0178",
    "jp": "　{n}　　　　不思議な力でかきけされた‥‥。",
-   "en": "",
+   "en": "　{n}　　　　It was dispelled by a mysterious force...",
    "term": "end"
   }
  ]

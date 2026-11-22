@@ -256,7 +256,7 @@ alternatives); an Avoid spelling fails.
 | マジックタイム停止装置 | Magic Time Stopper | | | |
 | 魔導技師 | Magitech Engineer | | names and units tables | Magic Engineer |
 | モンスター使い | Monster Tamer | | | monster handler |
-- 目 as `{s:0127}` (names-table kanji, renders "Eye"): English drops the code and writes the word (`batches.GLYPH_VARS`).
+- 目 as `{s:012A}` on PSP (`{s:0127}` on PS1; names-table kanji, renders "Eye"): English drops the code and writes the word (`batches.GLYPH_VARS`).
 
 ## PSP-only terms (terms pass 2026-11-22, tools/termscan.py; agent picks under D9, romanisation rule above)
 | JP | EN | max | notes | Avoid |
@@ -269,6 +269,20 @@ alternatives); an Avoid spelling fails.
 | ユリィ | Yurie | | PSP bonus fairy chat partner | Yuri / Yuly |
 | コリン | Colin | | PSP bonus fairy chat partner | Corin |
 | るいせちゃんのお部屋 | Luise-chan's Room | | door plate in child's hiragana: keep the childish feel | |
+| ピティ | Piti | | PSP human-sized homunculus (s330/s331) | |
+| ユニ | Yuni | | PSP human-sized homunculus (s330/s331) | |
+| 携帯集魔柱 | Portable Mana Pillar / Portable Pillar / portable mana collection pillar | | "Portable Pillar" only in the 96 px item list | |
+| 集魔柱 | mana collection pillar / Mana Pillar | | | |
+| 時空干渉能力 | space-time interference | | | |
+| 時空融合 | space-time fusion | | PS1 "Space-Time Fusion Theory" | |
+| 旧世界 | Old World | | | |
+| ゲヴェル細胞 | Gevel cell | | | |
+| 闇の凝集体 | Dark Mass | | | |
+| 闇の分身 | Dark Double | | | |
+| 源流洞窟 | Headwater Cave | | | |
+| 御師様 | my teacher | | PS1 s016/s019 | |
+- Not lint rows (wording varies with the sentence): 闇落とし "the Darkfall" (the event; debug labels "fall to
+  darkness"), 時空分離 space-time separation, 時空の歪み space-time distortion.
 
 ## Decisions from earlier batches
 - 秘石 (in dialogue) = Power Stone, like パワーストーン; the item 秘石制御装置 stays "Gem Control Unit" (96 px item cap).

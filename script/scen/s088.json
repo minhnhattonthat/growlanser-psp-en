@@ -171,7 +171,7 @@
   {
    "id": "scen088.0023",
    "jp": "　{FFF0}東　　：ローランディア王都ローザリア{FFF1}　{n}　{FFEE}西　　：岬{FFF1}",
-   "en": "",
+   "en": "　{FFF0}East: Rosaria, Royal Capital of Rolandia{FFF1}{n}　{FFEE}West: Cape{FFF1}",
    "term": "end"
   },
   {
@@ -383,13 +383,13 @@
   {
    "id": "scen088.0053",
    "jp": "　{FFF0}西　　：{s:0000}様御領地{n}　{FFF1}東　　：王都ローザリア{FFF1}",
-   "en": "",
+   "en": "　{FFF0}West: Lord {s:0000}'s Estate{n}　{FFF1}East: Royal Capital Rosaria{FFF1}",
    "term": "end"
   },
   {
    "id": "scen088.0054",
    "jp": "　{FFF0}西　　：空き地{n}　{FFF1}東　　：王都ローザリア{FFF1}",
-   "en": "",
+   "en": "　{FFF0}West: Vacant Land{n}　{FFF1}East: Royal Capital Rosaria{FFF1}",
    "term": "end"
   },
   {
@@ -899,7 +899,7 @@
   {
    "id": "scen088.0127",
    "jp": "　{FFF0}西　　：空き地{n}　{FFF1}東：　　王都ローザリア{FFF1}",
-   "en": "",
+   "en": "　{FFF0}West: Vacant Land{n}　{FFF1}East: Royal Capital Rosaria{FFF1}",
    "term": "end"
   },
   {
@@ -919,7 +919,7 @@
   {
    "id": "scen088.0130",
    "jp": "　　　　　　{FFF0}安全第一！　整理整頓！{FFF1}{n}　　{FFEF}～ローランディア・ランバージャック組合～{FFF1}",
-   "en": "",
+   "en": "　　　　　　{FFF0}Safety First! Keep Things Tidy!{FFF1}{n}　　{FFEF}Rolandia Lumberjacks' Union{FFF1}",
    "term": "end"
   },
   {

@@ -592,13 +592,13 @@
   {
    "id": "scen061.0085",
    "jp": "{v:0003}すまんな、{s:0152}。{p}{v:0004}だが、こうなってしまった以上、{n}俺は{s:000A}様と共に生きたいのだ。{n}わかってくれ！",
-   "en": "",
+   "en": "{v:0003}Forgive me, {s:0152}.{p}{v:0004}But now that things have come to this, I wish to live{n}out my life at Lord {s:000A}'s side. Please{n}understand!",
    "term": "end"
   },
   {
    "id": "scen061.0086",
    "jp": "{v:0005}いいや、わからないね！{n}この際だから言わせてもらうよ！{p}{v:0006}あの時は{s:000A}様が{s:0119}の手下だと{n}知らなかった。{n}だが、今回は違う！{p}{v:0007}この世を支配しようとする{s:0025}の{n}手先だと知って、それを止めるどころか、{n}荷担するなんて、絶対に間違ってる！",
-   "en": "",
+   "en": "{v:0005}No, I do not understand! Since we are here, let me{n}speak my mind!{p}{v:0006}Back then, I did not know Lord {s:000A}{n}served {s:0119}. But this time is different!{p}{v:0007}You know he serves {s:0025}, who seeks to{n}rule this world. Yet instead of stopping him, you help{n}him! That is utterly wrong!",
    "term": "end"
   },
   {
@@ -611,7 +611,7 @@
   {
    "id": "scen061.0088",
    "jp": "{v:000A}{s:0154}？",
-   "en": "",
+   "en": "{v:000A}{s:0154}?",
    "term": "end"
   },
   {
@@ -624,7 +624,7 @@
   {
    "id": "scen061.0090",
    "jp": "{v:000C}{s:0154}‥‥。",
-   "en": "",
+   "en": "{v:000C}{s:0154}...",
    "term": "end"
   },
   {
@@ -738,7 +738,7 @@
   {
    "id": "scen061.0106",
    "jp": "{v:0018}この世界は放っておいたら崩壊してしまう。{p}{v:0019}それを止められるのは{s:0025}だけだけど、{n}{s:000A}さんが協力してくれれば、{n}{s:0025}がいなくても世界は助かるの！",
-   "en": "",
+   "en": "{v:0018}If we do nothing, this world will collapse.{p}{v:0019}Only {s:0025} can stop it, but if {s:000A}{n}helps us, we can save the world without{n}{s:0025}!",
    "term": "end"
   },
   {
@@ -751,19 +751,19 @@
   {
    "id": "scen061.0108",
    "jp": "{v:001B}コイツと、{s:000A}、{n}両方とも{s:0119}って奴に作られた存在でしょ？{p}{v:001C}この２人の能力で、みんなをグローシアンにすれば、{n}もう一度パワーストーンが作れるの。",
-   "en": "",
+   "en": "{v:001B}This guy and {s:000A} were both created by{n}that {s:0119}, right?{p}{v:001C}If those two use their powers to turn everyone into{n}Growsians, we can make another Power Stone.",
    "term": "end"
   },
   {
    "id": "scen061.0109",
    "jp": "{v:001D}パワーストーンがあれば、時空制御装置を動かして、{n}この世界の崩壊を止められる。{n}{s:0025}の言いなりにならなくても済むの！",
-   "en": "",
+   "en": "{v:001D}With a Power Stone, we can activate the space-time{n}control device and stop this world from collapsing. We{n}won't have to do whatever {s:0025} says!",
    "term": "end"
   },
   {
    "id": "scen061.0110",
    "jp": "{FFF3}‥‥{FFF4}{v:001E}それで、{s:0025}を倒した後、{n}{s:000A}様は助かるのか？",
-   "en": "",
+   "en": "{FFF3}...{FFF4}{v:001E}And once {s:0025} is defeated, will Lord {s:000A}{n}survive?",
    "term": "end"
   },
   {
@@ -783,7 +783,7 @@
   {
    "id": "scen061.0113",
    "jp": "{v:0021}{s:0154}！{p}‥‥{v:0022}どうして‥‥。",
-   "en": "",
+   "en": "{v:0021}{s:0154}!{p}...{v:0022}Why...?",
    "term": "end"
   },
   {
@@ -803,13 +803,13 @@
   {
    "id": "scen061.0116",
    "jp": "{v:0024}ほら、{s:000A}に付いてっちゃった{n}インペリアル・ナイトが来てたのよ！",
-   "en": "",
+   "en": "{v:0024}You know that Imperial Knight who went off with{n}{s:000A}? He was here!",
    "term": "end"
   },
   {
    "id": "scen061.0117",
    "jp": "{v:0025}{s:0153}の事ですか？",
-   "en": "",
+   "en": "{v:0025}You mean {s:0153}?",
    "term": "end"
   },
   {
@@ -822,13 +822,13 @@
   {
    "id": "scen061.0119",
    "jp": "{v:0027}どうやら彼は、今でも{s:000A}を{n}第一に考えているみたいですね。",
-   "en": "",
+   "en": "{v:0027}It seems he still puts {s:000A} before{n}all else.",
    "term": "end"
   },
   {
    "id": "scen061.0120",
    "jp": "{v:0028}申し訳ありません、{s:0004}陛下。{n}私は{s:0154}を‥‥。",
-   "en": "",
+   "en": "{v:0028}Forgive me, King {s:0004}. I could not...{n}{s:0154}...",
    "term": "end"
   },
   {
@@ -855,7 +855,7 @@
   {
    "id": "scen061.0124",
    "jp": "{v:002C}そうですね。{p}{v:002D}ところで、{s:0151}。{n}街の様子はどうですか？",
-   "en": "",
+   "en": "{v:002C}Indeed.{p}{v:002D}By the way, {s:0151}, how are things in{n}the city?",
    "term": "end"
   },
   {
@@ -952,7 +952,7 @@
   {
    "id": "scen061.0138",
    "jp": "{v:001C}{s:0154}‥‥。",
-   "en": "",
+   "en": "{v:001C}{s:0154}...",
    "term": "end"
   },
   {
@@ -1007,19 +1007,19 @@
   {
    "id": "scen061.0146",
    "jp": "{v:000D}{s:0025}の奴は、あの{s:0119}との融合体だ。{p}{v:000E}元々がグローシアンだったから、魔法も強力。{n}おまけに時空まで操れるときている。",
-   "en": "",
+   "en": "{v:000D}That bastard {s:0025} is fused with{n}{s:0119}.{p}{v:000E}He was a Growsian to start with, so his magic's{n}powerful. And on top of that, he can{n}control space-time.",
    "term": "end"
   },
   {
    "id": "scen061.0147",
    "jp": "{v:000F}グローシアンであり、{s:0119}でもあり、{n}時空も操る？{n}考えたくない強さだな‥‥。",
-   "en": "",
+   "en": "{v:000F}A Growsian, part {s:0119}, and able to{n}control space-time? I would rather not imagine how{n}powerful he is...",
    "term": "end"
   },
   {
    "id": "scen061.0148",
    "jp": "{v:0010}このままだと勝ち{s:012A}はないとわかったので、{n}わたし達、パワーストーンを使ったんです。",
-   "en": "",
+   "en": "{v:0010}We realized we had no chance of winning as things{n}stood, so we used the Power Stone.",
    "term": "end"
   },
   {
@@ -1105,7 +1105,7 @@
   {
    "id": "scen061.0160",
    "jp": "{v:001A}それを使って、{n}{s:0025}を倒せるはずだったんだが、{n}そこまでには至らなかった。",
-   "en": "",
+   "en": "{v:001A}We were supposed to be able to defeat {s:0025}{n}with it, but it didn't go that far.",
    "term": "end"
   },
   {
@@ -1174,13 +1174,13 @@
   {
    "id": "scen061.0170",
    "jp": "{v:0027}あいつったら、ちっちゃい{s:0119}を兵隊に{n}使ってるけど、それは自分自身が{n}無敵じゃなくなっちゃったからだよね。",
-   "en": "",
+   "en": "{v:0027}He's using little creatures like {s:0119} as{n}soldiers, but that's because he's not invincible himself{n}anymore, right?",
    "term": "end"
   },
   {
    "id": "scen061.0171",
    "jp": "{v:0028}小さな{s:0119}？{n}あの化け物か‥‥。",
-   "en": "",
+   "en": "{v:0028}Little creatures like {s:0119}? Those{n}monsters...",
    "term": "end"
   },
   {
@@ -1235,7 +1235,7 @@
   {
    "id": "scen061.0179",
    "jp": "{v:0006}ええと、まず私たちがパワーストーンで、{n}{s:0025}の超回復能力を防ぎました。",
-   "en": "",
+   "en": "{v:0006}Um, first, we used the Power Stone to stop{n}{s:0025}'s extraordinary regeneration.",
    "term": "end"
   },
   {
@@ -1262,7 +1262,7 @@
   {
    "id": "scen061.0183",
    "jp": "{FFEE}{v:000A}　　　愚かな人間どもよ！{n}　　　よく聞くがいい！{p}{v:000B}　　　私は今まで{s:005C}や魔法使い以外には{n}　　　攻撃を仕掛けなかった。{n}　　　それは来たるべき我が支配のためだ。{n}　　　だが一部の愚か者のために、{n}　　　私の気が変わりかけている。{p}{v:000C}　　　そうだ。{n}　　　これからは無差別に人間を殺す。{FFF1}",
-   "en": "",
+   "en": "{FFEE}{v:000A}　　　Foolish humans! Listen well!{p}{v:000B}Until now, I have attacked only those in the {s:005C}{n}ranks and those who practice magic. This was for the{n}sake of my coming reign.{p}But certain fools are beginning to change my mind.{p}{v:000C}Yes. From now on, I shall kill humans indiscriminately.{FFF1}",
    "term": "end"
   },
   {
@@ -1289,7 +1289,7 @@
   {
    "id": "scen061.0187",
    "jp": "{FFEE}{v:0012}　　　さあ、パワーストーンを持って、{n}　　　{s:015A}村まで来い。{n}　急いでこなければ、私の気が変わるかも知れんぞ？{p}　　　‥‥{v:0013}わっはっはっはっはっ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}{v:0012}　　　Now, bring the Power Stone to {s:015A}{n}Village. Hurry, or I may change my mind.{p}...{v:0013}Wahahahaha!{FFF1}",
    "term": "end"
   },
   {
@@ -1396,13 +1396,13 @@
   {
    "id": "scen061.0202",
    "jp": "{v:001E}確かに村の人々のことは心配です。{n}でも、そのために{s:0025}を倒す決定的手段を{n}手放してしまうというのは‥‥。{p}{v:001F}こんな時、フェザリアンなら、{n}確実に『渡さない』と言い張るでしょうね。",
-   "en": "",
+   "en": "{v:001E}Of course I am worried about the villagers. But to give{n}up our surest means of defeating {s:0025}{n}for their sake...{p}{v:001F}In a situation like this, the Featherians would certainly{n}insist on refusing.",
    "term": "end"
   },
   {
    "id": "scen061.0203",
    "jp": "{v:0020}{s:015A}のみんなが、どうなってもいいの？",
-   "en": "",
+   "en": "{v:0020}You don't care what happens to everyone in{n}{s:015A}?",
    "term": "end"
   },
   {
@@ -1429,7 +1429,7 @@
   {
    "id": "scen061.0207",
    "jp": "{v:0027}要は{s:0025}の野郎を{n}信じられるかどうかって事だな。",
-   "en": "",
+   "en": "{v:0027}It all comes down to whether we can trust that{n}bastard {s:0025}.",
    "term": "end"
   },
   {
@@ -1477,7 +1477,7 @@
   {
    "id": "scen061.0214",
    "jp": "{v:0030}私も{s:0025}を信用できません。",
-   "en": "",
+   "en": "{v:0030}I cannot trust {s:0025} either.",
    "term": "end"
   },
   {
@@ -1511,13 +1511,13 @@
   {
    "id": "scen061.0219",
    "jp": "{v:0036}{s:00AE}が‥{s:00AE}が、{s:0025}に従えと、{n}城に詰め寄っております！",
-   "en": "",
+   "en": "{v:0036}The {s:00AE} crowds... The {s:00AE}{n}crowds are storming the castle, demanding that we{n}obey {s:0025}!",
    "term": "end"
   },
   {
    "id": "scen061.0220",
    "jp": "{v:0037}何だと！？{n}{s:0151}！？",
-   "en": "",
+   "en": "{v:0037}What?! {s:0151}?!",
    "term": "end"
   },
   {
@@ -1530,13 +1530,13 @@
   {
    "id": "scen061.0222",
    "jp": "‥‥{s:0025}め‥‥。",
-   "en": "",
+   "en": "...Curse you, {s:0025}...",
    "term": "end"
   },
   {
    "id": "scen061.0223",
    "jp": "{s:0154}は‥‥、{n}{s:0154}は無事なのか！？{p}この距離をすぐにでも越えて行けたら‥‥。",
-   "en": "",
+   "en": "{s:0154}... Is {s:0154} safe?!{p}If only I could cross this distance in an instant...",
    "term": "end"
   },
   {
@@ -1556,13 +1556,13 @@
   {
    "id": "scen061.0226",
    "jp": "{s:0025}は、この国の民を、{n}そして我が友を‥‥。{p}奴だけは許しておけない。{n}‥‥絶対に！",
-   "en": "",
+   "en": "{s:0025} has done this to our people, and to{n}my friend...{p}I cannot forgive him. ...Never!",
    "term": "end"
   },
   {
    "id": "scen061.0227",
    "jp": "‥‥{s:0025}め！{n}よくもやってくれたな‥‥。{p}それより、お前たちならすぐに{n}{s:015A}村へ向かえるだろう？{n}村の様子を見に行ってくれないか？",
-   "en": "",
+   "en": "...Damn you, {s:0025}! How dare you...{p}But you can reach {s:015A} Village at once,{n}can you not? Would you go and see how the villagers{n}are faring?",
    "term": "end"
   },
   {
@@ -1624,7 +1624,7 @@
   {
    "id": "scen061.0236",
    "jp": "ねぇ、{s:0004}！{n}地下牢に{s:000A}がいないんだけど、{n}どうしちゃったの？",
-   "en": "",
+   "en": "Hey, {s:0004}! {s:000A} isn't in the{n}dungeon. What happened?",
    "term": "end"
   },
   {
@@ -1658,13 +1658,13 @@
   {
    "id": "scen061.0241",
    "jp": "実は、{s:0153}がどこにも見あたらないのです。",
-   "en": "",
+   "en": "We cannot find {s:0153} anywhere.",
    "term": "end"
   },
   {
    "id": "scen061.0242",
    "jp": "えっ！？{n}{s:0153}まで？",
-   "en": "",
+   "en": "What?! {s:0153} too?",
    "term": "end"
   },
   {
@@ -1677,7 +1677,7 @@
   {
    "id": "scen061.0244",
    "jp": "地下牢にいた、{s:000A}もいないんです。",
-   "en": "",
+   "en": "{s:000A} is missing from the dungeon{n}as well.",
    "term": "end"
   },
   {
@@ -1690,7 +1690,7 @@
   {
    "id": "scen061.0246",
    "jp": "{s:0025}を倒すのに{n}{s:000A}が必要だっていうのに！",
-   "en": "",
+   "en": "But we need {s:000A} to defeat{n}{s:0025}!",
    "term": "end"
   },
   {
@@ -1738,7 +1738,7 @@
   {
    "id": "scen061.0253",
    "jp": "{s:000A}と{s:0153}がいないそうですね。{n}先ほど{s:0151}から報告を受けました‥‥。{n}何事もなければ良いのですが‥‥。",
-   "en": "",
+   "en": "I hear that {s:000A} and {s:0153}{n}are missing. {s:0151} reported it to me a{n}little while ago... I hope nothing is wrong...",
    "term": "end"
   },
   {
@@ -1765,7 +1765,7 @@
   {
    "id": "scen061.0257",
    "jp": "どうすれば{s:0025}を{n}追いつめられるのでしょう？",
-   "en": "",
+   "en": "How can we corner {s:0025}?",
    "term": "end"
   },
   {
@@ -1778,7 +1778,7 @@
   {
    "id": "scen061.0259",
    "jp": "私は持ち場を離れるわけにはいきませんので、{n}よろしくお願いします。",
-   "en": "",
+   "en": "I cannot leave my post, so I must leave this to you.",
    "term": "end"
   },
   {
@@ -1847,7 +1847,7 @@
   {
    "id": "scen061.0269",
    "jp": "ここは{s:005C}の待機室ですよ。",
-   "en": "",
+   "en": "This is the {s:005C} standby room.",
    "term": "end"
   },
   {
@@ -1867,7 +1867,7 @@
   {
    "id": "scen061.0272",
    "jp": "ここは普通の図書室です。{n}{s:005C}やこの国の学者が利用したりします。{p}今はがらがらですけどね。",
-   "en": "",
+   "en": "This is an ordinary library. Those in the {s:005C}{n}ranks and this country's scholars use it.{p}It's quite empty at the moment, though.",
    "term": "end"
   },
   {
@@ -1887,7 +1887,7 @@
   {
    "id": "scen061.0275",
    "jp": "{v:0040}{s:0119}が死んじまったせいだろうな。",
-   "en": "",
+   "en": "{v:0040}Probably because {s:0119} died.",
    "term": "end"
   },
   {
@@ -1900,7 +1900,7 @@
   {
    "id": "scen061.0277",
    "jp": "{s:000A}がいない！？",
-   "en": "",
+   "en": "{s:000A} is gone?!",
    "term": "end"
   },
   {
@@ -1962,7 +1962,7 @@
   {
    "id": "scen061.0286",
    "jp": "　{n}　　　　『{FFEF}{s:000E}の可能性７{FFF1}』を手に入れた！",
-   "en": "",
+   "en": "　{n}　　　　Obtained '{FFEF}{s:000E}'s Potential 7{FFF1}'!",
    "term": "end"
   },
   {
@@ -2003,7 +2003,7 @@
   {
    "id": "scen061.0292",
    "jp": "　{n}　　　　不思議な力でかき消された‥‥。",
-   "en": "",
+   "en": "　{n}　　　　A mysterious force dispelled it...",
    "term": "end"
   }
  ]

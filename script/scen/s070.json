@@ -309,7 +309,7 @@
   {
    "id": "scen070.0043",
    "jp": "{v:0046}そなたたちは‥‥。{p}{v:0047}そうか、やはりそなたらも仲間だったのだな。",
-   "en": "",
+   "en": "{v:0046}You are...{p}{v:0047}I see. So you were their accomplices after all.",
    "term": "end"
   },
   {
@@ -364,7 +364,7 @@
   {
    "id": "scen070.0051",
    "jp": "・諦めているだけ",
-   "en": "",
+   "en": "・You're simply giving up",
    "term": "end",
    "unref": true
   },
@@ -395,13 +395,13 @@
   {
    "id": "scen070.0055",
    "jp": "{v:004E}諦めだと？",
-   "en": "",
+   "en": "{v:004E}Giving up, you say?",
    "term": "end"
   },
   {
    "id": "scen070.0056",
    "jp": "{v:004F}そうだね。{n}あなた達の生き方は諦めそのものだ。{n}僕たち人間は最後まで諦めない。",
-   "en": "",
+   "en": "{v:004F}That's right. Your whole way of life amounts to giving{n}up. We humans refuse to give up until the very end.",
    "term": "end"
   },
   {
@@ -449,7 +449,7 @@
   {
    "id": "scen070.0063",
    "jp": "‥‥{v:0057}やっぱり間違えてる。{n}僕の父さんは最後まで望みを捨てるなと教えてくれた。{n}諦めたら、それまでだって。{p}{v:0058}母さんだってそんな父さんを理解したから‥‥。",
-   "en": "",
+   "en": "...{v:0057}No, you're wrong after all. My father taught me{n}never to lose hope, right to the very end. Once you give{n}up, it's over.{p}{v:0058}And my mother understood that about him. That's{n}why...",
    "term": "end"
   },
   {
@@ -476,7 +476,7 @@
   {
    "id": "scen070.0067",
    "jp": "{v:005D}歩き出す前から諦めるのは、愚か者のする事だ。{n}この世界に生まれた以上、向かい風でもくじけず歩け。{p}{v:005E}父の言葉です。",
-   "en": "",
+   "en": "{v:005D}'Only a fool gives up before taking the first step. You{n}were born into this world, so keep walking, undaunted,{n}even against the wind.'{p}{v:005E}Those were my father's words.",
    "term": "end"
   },
   {
@@ -1396,7 +1396,7 @@
   {
    "id": "scen070.0196",
    "jp": "　{n}　　不思議な力によって、かき消された‥‥。",
-   "en": "",
+   "en": "　{n}　　It was dispelled by a mysterious power...",
    "term": "end"
   }
  ]

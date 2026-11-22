@@ -1198,7 +1198,7 @@
 04BF=聡
 04C0=絹
 04C1=凌
-04C2=哮
+04C2=噂
 04C3=舞
 04C4=禍
 04C5=災
@@ -1975,8 +1975,8 @@
 07C9=剥
 07CA=胆
 # PSP-only glyphs 0x7CB-0x835 (BOOT.BIN font 0x1230D8): tools/fontmatch.py exact matches, plus 07D2 錆, 07D8 蝕,
-# 07DB 溢, 07DE 餅, 07F4 揃 read by eye (fontmatch: 鎮 飩 溢 餠 犧). 07ED is the true 哮 glyph; the PS1 04C2 "哮" draws
-# 啍 but is kept as 哮 (PS1 text uses it), so 07ED decodes as [07ED].
+# 07DB 溢, 07DE 餅, 07F4 揃 read by eye (fontmatch: 鎮 飩 溢 餠 犧). 07ED is the true 哮 glyph (咆哮); 04C2 (PS1 "哮")
+# is 噂: every use reads 噂の/噂は/噂によると (phase 6 translators, 2026-11-22).
 07CB=乾
 07CC=坤
 07CD=猟

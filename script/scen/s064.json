@@ -1054,7 +1054,7 @@
   {
    "id": "scen064.0149",
    "jp": "テレポートですか‥‥。{n}確かにやっかいな能力ですね。{p}ですが諦めてはいけません。{n}私も対抗策を考えてみます。",
-   "en": "",
+   "en": "Teleport... That is certainly a troublesome ability.{p}But you must not give up. I will try to think of a way{n}to counter it as well.",
    "term": "end"
   },
   {
@@ -1172,13 +1172,13 @@
   {
    "id": "scen064.0166",
    "jp": "{v:0015}そうですね。{p}{v:0016}私の仕事は様々な記録を調べ、{n}まとめ、また更新することでした。{p}{v:0017}地上に何度も足を運んだのもそのためだったのですが、{n}ある時、とある物の存在を知ったのです。{p}{v:0018}それは、この世界を構成する因果律を歪めることで、{n}様々な奇跡を起こす秘石『{FFEF}パワーストーン{FFF1}』です。",
-   "en": "",
+   "en": "{v:0015}Of course.{p}{v:0016}My work was to examine, compile, and update all manner{n}of records.{p}{v:0017}That was why I made so many journeys to the{n}surface. On one such occasion, I learned of a certain{n}object's existence.{p}{v:0018}It is a mystical stone that works all manner of miracles{n}by warping the laws of cause and effect that govern{n}this world: the '{FFEF}Power Stone{FFF1}'.",
    "term": "end"
   },
   {
    "id": "scen064.0167",
    "jp": "{v:0019}パワーストーンって‥‥。",
-   "en": "",
+   "en": "{v:0019}A Power Stone...?",
    "term": "end"
   },
   {
@@ -1277,7 +1277,7 @@
   {
    "id": "scen064.0181",
    "jp": "{v:0027}フェザリアンは時空制御装置を造りましたが、{n}どうしても時空の歪みが引き起こす強力な反動を{n}吸収することが出来ませんでした。{p}{v:0028}そこで人間たちは、特殊な力を用いて、{n}反動を吸収させようとしました。{n}その特殊な力こそ、人の意志の力なのです。{p}{v:0029}人の内には決して諦めない心と、{n}時には奇跡さえ引き起こす意志の力があります。{n}その意志を結晶化し、パワーストーンはできました。{p}{v:002A}パワーストーンは不可能を可能にする、{n}人の神秘そのものなのです。",
-   "en": "",
+   "en": "{v:0027}The Featherians built the space-time control device, but{n}they could find no way to absorb the tremendous{n}backlash caused by distortions in space-time.{p}{v:0028}So humans tried to absorb that backlash using a{n}special power. That power was the strength of the{n}human will.{p}{v:0029}Within humans lies a spirit that never gives up, and a{n}strength of will that can sometimes work miracles. The{n}Power Stone was formed by crystallizing that will.{p}{v:002A}The Power Stone embodies the very mystery of{n}humanity: the ability to make the impossible possible.",
    "term": "end"
   },
   {
@@ -1451,7 +1451,7 @@
   {
    "id": "scen064.0206",
    "jp": "{v:0051}でも、ジーナさん。{n}そんな重要な物を持ち出しちゃって{n}構わないんですか？",
-   "en": "",
+   "en": "{v:0051}But, Gina-san, is it really all right for us to take{n}something so important?",
    "term": "end"
   },
   {
@@ -1604,7 +1604,7 @@
   {
    "id": "scen064.0228",
    "jp": "{v:0016}歩き出す前から諦めるのは愚か者のする事だ。{n}この世界に生まれた以上、向かい風でもくじけず歩け。",
-   "en": "",
+   "en": "{v:0016}Only a fool gives up before taking the first step. Since{n}you were born into this world, keep walking, even{n}against the wind.",
    "term": "end"
   },
   {
@@ -1631,7 +1631,7 @@
   {
    "id": "scen064.0232",
    "jp": "{v:001C}それから私は彼のしていること、{n}そしてその結果を見守りました。{p}{v:001D}そして分かったのです。{n}人間には、フェザリアンにない物がある。{p}{v:001E}それは、諦めない心。{p}{v:001F}私たちはいつしか愛し合い、そこでアリオスト。{n}お前が生まれたのです。",
-   "en": "",
+   "en": "{v:001C}After that, I watched what he did and the results{n}it brought.{p}{v:001D}And then I understood. Humans possess something that{n}we Featherians lack.{p}{v:001E}A heart that will not give up.{p}{v:001F}In time, we fell in love, and then, Ariost... you{n}were born.",
    "term": "end"
   },
   {

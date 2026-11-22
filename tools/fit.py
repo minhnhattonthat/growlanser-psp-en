@@ -124,7 +124,8 @@ def lint(text, b, font=None, codec=None):
 def entries(prefixes):
     for f in sorted((ROOT / "script").glob("*/*.json")):
         for e in json.loads(f.read_text(encoding="utf-8"))["entries"]:
-            if e.get("en") and (not prefixes or any(e["id"].startswith(p) for p in prefixes)):
+            if e.get("en") and not e["id"].startswith("boot.save") and (  # boot.save: system font, not the VWF
+                    not prefixes or any(e["id"].startswith(p) for p in prefixes)):
                 yield e
 
 

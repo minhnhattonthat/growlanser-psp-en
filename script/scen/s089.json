@@ -113,7 +113,7 @@
   {
    "id": "scen089.0015",
    "jp": "　{n}　　　　　　　　{FFF0}この先、デリス村{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　　　{FFF0}Delis Village Ahead{FFF1}",
    "term": "end"
   },
   {
@@ -140,7 +140,7 @@
   {
    "id": "scen089.0019",
    "jp": "　{n}　　　　　　　拾った剣を見せた！",
-   "en": "",
+   "en": "　{n}　　　　　　　Showed the sword you found!",
    "term": "end"
   },
   {
@@ -195,7 +195,7 @@
   {
    "id": "scen089.0027",
    "jp": "　{n}　　　　　　　拾った剣を手渡した！",
-   "en": "",
+   "en": "　{n}　　　　　　　Handed over the sword you found!",
    "term": "end"
   },
   {

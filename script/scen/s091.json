@@ -57,13 +57,13 @@
   {
    "id": "scen091.0007",
    "jp": "　{n}　　　　　　　{FFF0}この先、メディス村{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　　{FFF0}Medis Village Ahead{FFF1}",
    "term": "end"
   },
   {
    "id": "scen091.0008",
    "jp": "　{n}　　　　　　{FFF0}この先、ラシェル保養地{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　{FFF0}Rachelle Health Resort Ahead{FFF1}",
    "term": "end"
   },
   {
@@ -97,25 +97,25 @@
   {
    "id": "scen091.0013",
    "jp": "　{n}　　　　　　　　{FFF0}この先、遺跡{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　　　{FFF0}Ruins Ahead{FFF1}",
    "term": "end"
   },
   {
    "id": "scen091.0014",
    "jp": "　{n}　　　　　　　{FFF0}ブローニュ村入り口{FFF1}",
-   "en": "",
+   "en": "　{n}　　　　　　　{FFF0}Boulogne Village Entrance{FFF1}",
    "term": "end"
   },
   {
    "id": "scen091.0015",
    "jp": "　{FFEF}北　　：ラシェル、メディス村方面{n}　{FFF0}西　　：ブローニュ村{n}　{FFEE}東　　：魔法学院方面{FFF1}",
-   "en": "",
+   "en": "　{FFEF}North: Toward Rachelle and Medis Village{n}　{FFF0}West: Boulogne Village{n}　{FFEE}East: Toward the Magic Academy{FFF1}",
    "term": "end"
   },
   {
    "id": "scen091.0016",
    "jp": "　　　　　　{FFF0}この先、グランシル{FFF1}{n}　　　　　　　　　熱烈歓迎{n}　　　　　グランシル市　　観光協会",
-   "en": "",
+   "en": "　　　　　　{FFF0}Grancil Ahead{FFF1}{n}A Warm Welcome Awaits!{n}Grancil City Tourism Association",
    "term": "end"
   },
   {

@@ -63,7 +63,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
   synopsis.md (PS1 scene ids). `insert.needs_english`. Batches: work/tl/b001.. (`batches.py split --size 3500`).
   work/tl/termscan.tsv: new PSP names to rule (メルフィ 178, アメリア 145, ジャスティン 113, デュンケルス 88, ラミィ 46,
   ユリィ 21, コリン 14, 『るいせちゃんのお部屋』).
-  codex exec hit its usage limit (until 2026-11-26): tl_run.py can't run before then.
+  codex exec hit its usage limit (until 2026-11-26): D13 = translator/reviewer subagents instead. On PSP 目 is
+  `{s:012A}` (GLYPH_VARS). TODO: tbl 04C2 is 噂 not 哮 (every use reads 噂の/噂は): fix tbl + jp fields after wave 1.
 - **Next (phase 6, translate):** (1) terms pass: rule the new PSP names (termscan.tsv) into glossary.md. (2) Synopsis
   section 6 for the 43 PSP-only scenes in work/psp_scenes.txt (`tl_run.py psp-scenes` once codex works, or by hand).
   (3) Translate work/tl/bNNN.tsv -> bNNN.out.tsv per docs/translator-brief.md, `batches.py check bNNN`, review

@@ -16,7 +16,8 @@ an ancient threat. Tone: earnest fantasy drama with comic banter (mostly Tippi).
    approved English (a reworded line): reuse its wording wherever the Japanese is unchanged and change only what
    differs. `ctx <id>` lines are the already-translated neighbours of a run of batch lines: continue them in voice
    and wording.
-5. For a PSP-only scene with little context, read its `script/scen/sNNN.json` (the id's `scenNNN` part): every line
+5. `build/svars.txt`: what each `{s:XXXX}` draws (`{s:XXXX}<TAB>JP<TAB>English`); grep it for the codes in a line.
+6. For a PSP-only scene with little context, read its `script/scen/sNNN.json` (the id's `scenNNN` part): every line
    in order, with `en` where it is already translated.
 
 Read every file in parts (offset/limit, ~150 lines a call): whole-file reads above ~4 KB come back as a stub.
@@ -36,7 +37,7 @@ outside ASCII, and none of `# @ \ ^ \` | ~` or braces outside control codes.
 ## Control codes `{...}`
 Copy every code except `{n}` exactly, the same number of times: `{v:XXXX}` voice clip, `{s:XXXX}` a drawn name,
 `{FCxx}` portrait change, `{FBxx}`, `{FExx}` timing pauses, `{FFxx}` colour/effects (`{FFEF}`..`{FFF1}` wraps a
-highlighted term: keep the highlight on the English term). Exception: `{s:0127}` is the kanji 目 (eye), not a
+highlighted term: keep the highlight on the English term). Exception: `{s:012A}` 目 (eye), `{s:012E}` 爪 (nail) and `{s:0047}` 教授 (学院{s:0047}会 = faculty council) are kanji, not a
 name: drop it and write the English word. Keep each code at the same point of the utterance:
 voice clips and portrait codes at the start of the beat they voice. `{p}` = new page: keep the JP's page breaks
 (the wrapper adds more if a page runs long). `{n}` = forced line break: drop the JP ones; add one only for a
@@ -57,8 +58,12 @@ Run `python -X utf8 tools/batches.py check <batch>` from the repo root and fix e
   meaning, keep the meaning and report it as `LONG: id`.
 - Honorifics kept after names (Tippi-chan, Luise-san); お兄ちゃん "Big Brother", お母さん "Mother", マスター "Master".
 - Punctuation: 「」 -> "...", 『』 -> '...', ‥‥ -> ..., ！？ -> ?!, ★ -> drop, ～ -> drop or stretch the word.
-- No suffix glued to a name variable except a possessive 's; no a/an right before `{s:XXXX}`.
-- Notes from earlier batches: (none yet)
+- No suffix glued to a name variable except a possessive 's; no a/an right before `{s:XXXX}`. Honorifics after a
+  name variable are dropped (`{s:0001}ちゃん` -> `{s:0001}`; the PS1 lines do the same).
+- Some `{s:XXXX}` draw common nouns from the names table ({s:005C} Soldier, {s:00AE} Citizen, {s:003C} Patient): they
+  render capitalised and can't take a plural "s" - build the sentence around the word as it is.
+- Notes from earlier batches: boot.save strings show a raw line break as `{lf}`: keep one per JP `{lf}`. In names
+  tables, use the item/skill names already in build/terms_<batch>.txt; terms the glossary lacks: report them.
 
 ## Consistency
 Never edit `glossary.md`. For a recurring name or term not in it, pick a form, use it consistently, and report it.

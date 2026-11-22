@@ -57,237 +57,237 @@
   {
    "id": "scen092.0007",
    "jp": "　　　　　　　　　{FFF0}熱烈歓迎{FFF1}{n}　　　　　　グランシル市　　観光協会",
-   "en": "",
+   "en": "　　　　　　　　　{FFF0}A Warm Welcome!{FFF1}{n}Grancil City Tourism Association",
    "term": "end"
   },
   {
    "id": "scen092.0008",
    "jp": "あ、戻ってきた！{n}お帰りなさーい！",
-   "en": "",
+   "en": "Oh, they're back! Welcome baaack!",
    "term": "end"
   },
   {
    "id": "scen092.0009",
    "jp": "ただいま戻りました。{n}レティシア姫、ご無事でしたか？",
-   "en": "",
+   "en": "We have returned. Princess Leticia, are you unharmed?",
    "term": "end"
   },
   {
    "id": "scen092.0010",
    "jp": "ええ、こちらは何もありませんでしたよ。{n}そちらはどうでしたか？",
-   "en": "",
+   "en": "Yes, nothing happened here. How did things go for you?",
    "term": "end"
   },
   {
    "id": "scen092.0011",
    "jp": "奥には、さっきの盗賊たちと、{n}１人のフェザリアンの女の子がいました。",
-   "en": "",
+   "en": "Farther in, there were those bandits from before, and{n}a Featherian girl.",
    "term": "end"
   },
   {
    "id": "scen092.0012",
    "jp": "まぁ、フェザリアンがこんな所に‥‥？{n}それは珍しいですね。",
-   "en": "",
+   "en": "My, a Featherian, in a place like this...? How unusual.",
    "term": "end"
   },
   {
    "id": "scen092.0013",
    "jp": "けど、あいつらってば、そのフェザリアンを捕まえて{n}売り飛ばそうとしてたのよ！",
-   "en": "",
+   "en": "But those creeps had captured that Featherian and{n}were trying to sell her off!",
    "term": "end"
   },
   {
    "id": "scen092.0014",
    "jp": "アタシたちがとっちめてやったけどね！",
-   "en": "",
+   "en": "We sure taught them a lesson, though!",
    "term": "end"
   },
   {
    "id": "scen092.0015",
    "jp": "フェザリアンを売るなんて、なんて酷いことを‥‥。{p}{FC00}しかしあなた達のおかげで、{n}そのフェザリアンの方は救われたのですね。",
-   "en": "",
+   "en": "Selling a Featherian... What a cruel thing to do...{p}{FC00}But thanks to all of you, she was saved, then.",
    "term": "end"
   },
   {
    "id": "scen092.0016",
    "jp": "はい。{n}でも、そのフェザリアンさんは{n}ひどく人間のことを嫌ってる様子でした‥‥。",
-   "en": "",
+   "en": "Yes. But that Featherian-san seemed to really{n}hate humans...",
    "term": "end"
   },
   {
    "id": "scen092.0017",
    "jp": "人間のせいであんな目に遭っては、{n}仕方ないでしょうがね‥‥。",
-   "en": "",
+   "en": "After what humans put her through, I suppose that{n}can't be helped...",
    "term": "end"
   },
   {
    "id": "scen092.0018",
    "jp": "人間とフェザリアンって、{n}仲良く出来ないのかな‥‥？",
-   "en": "",
+   "en": "Can't humans and Featherians get along...?",
    "term": "end"
   },
   {
    "id": "scen092.0019",
    "jp": "そんなことないよ。{n}きっと、仲良くなれる日が来ると思うよ。",
-   "en": "",
+   "en": "Sure they can. I bet the day will come when they{n}become friends.",
    "term": "end"
   },
   {
    "id": "scen092.0020",
    "jp": "{FFF6}そうですね。{n}私も、人間とフェザリアンが{n}手を取り合える日がくることを願ってますわ。",
-   "en": "",
+   "en": "{FFF6}Indeed. I, too, hope the day will come when humans and{n}Featherians can join hands.",
    "term": "end"
   },
   {
    "id": "scen092.0021",
    "jp": "うん！{FFFB}{n}‥‥じゃなかった、はい！",
-   "en": "",
+   "en": "Yeah!{FFFB} ...I mean, yes!",
    "term": "end"
   },
   {
    "id": "scen092.0022",
    "jp": "では、そろそろ参りましょうか。",
-   "en": "",
+   "en": "Well then, shall we be on our way?",
    "term": "end"
   },
   {
    "id": "scen092.0023",
    "jp": "{v:0000}おお、来たか！",
-   "en": "",
+   "en": "{v:0000}Oh, you're here!",
    "term": "end"
   },
   {
    "id": "scen092.0024",
    "jp": "{v:0001}お前に言われたとおり、{n}腕に覚えのある連中を集めてきたが‥、{n}本当なんだろうな‥？{p}{v:0002}本当にフェザリアンがいたんだろうな？",
-   "en": "",
+   "en": "{v:0001}I rounded up some tough guys like you said, but... it's{n}true, right...?{p}{v:0002}There really was a Featherian, right?",
    "term": "end"
   },
   {
    "id": "scen092.0025",
    "jp": "{v:0003}ああ、本当だ。{n}今もこの奥にいる。",
-   "en": "",
+   "en": "{v:0003}Yeah, it's true. She's still in there.",
    "term": "end"
   },
   {
    "id": "scen092.0026",
    "jp": "{v:0004}それじゃ、行こうぜ！",
-   "en": "",
+   "en": "{v:0004}Then let's go!",
    "term": "end"
   },
   {
    "id": "scen092.0027",
    "jp": "{v:0005}何、アレ？{n}フェザリアンとか言ってたし、気になるわね‥‥。",
-   "en": "",
+   "en": "{v:0005}What's with them? They said something about a{n}Featherian. That's got me curious...",
    "term": "end"
   },
   {
    "id": "scen092.0028",
    "jp": "・別に気にならない",
-   "en": "",
+   "en": "・I'm not curious",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0029",
    "jp": "・気になる",
-   "en": "",
+   "en": "・I'm curious too",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0030",
    "jp": "{v:0006}お兄ちゃん、わたしも何か気になるよ‥‥。",
-   "en": "",
+   "en": "{v:0006}Big Brother, I'm worried about it too...",
    "term": "end"
   },
   {
    "id": "scen092.0031",
    "jp": "{v:0007}気になるなら、見ておいた方がいいだろう。{n}後悔するよりマシだ。",
-   "en": "",
+   "en": "{v:0007}If it's bugging you, best go take a look. Better than{n}regretting it.",
    "term": "end"
   },
   {
    "id": "scen092.0032",
    "jp": "あいつら、こっちに行ったよね？{n}早く追いかけようよ！",
-   "en": "",
+   "en": "They went this way, right? Let's hurry after them!",
    "term": "end"
   },
   {
    "id": "scen092.0033",
    "jp": "おい、ちょっと待て。{n}このままレティシア姫を一緒に連れてくのは、{n}さすがに危険だろう。{p}万が一、あいつらがレティシア姫に{n}危害を加えたら大変だぞ。",
-   "en": "",
+   "en": "Hey, hold on. Taking Princess Leticia along with us like{n}this would be too dangerous.{p}If those guys harmed Princess Leticia, we'd be in{n}big trouble.",
    "term": "end"
   },
   {
    "id": "scen092.0034",
    "jp": "あ、そっか。{n}護衛の任務中なのに、{n}お姫様を危険な場所になんて連れて行けないよね。",
-   "en": "",
+   "en": "Oh, right. We're on an escort mission, so we can't drag{n}the princess somewhere dangerous.",
    "term": "end"
   },
   {
    "id": "scen092.0035",
    "jp": "でしたら、私はここで待っていますわ。",
-   "en": "",
+   "en": "In that case, I shall wait here.",
    "term": "end"
   },
   {
    "id": "scen092.0036",
    "jp": "ダメです！{n}レティシア姫をお１人にはできません！",
-   "en": "",
+   "en": "Absolutely not! We cannot leave Princess Leticia alone!",
    "term": "end"
   },
   {
    "id": "scen092.0037",
    "jp": "じゃあ、私が残ってレティシア姫様を{n}護衛するよ。",
-   "en": "",
+   "en": "Then I'll stay behind and guard Princess Leticia!",
    "term": "end"
   },
   {
    "id": "scen092.0038",
    "jp": "えええ、ミーシャがぁ！？",
-   "en": "",
+   "en": "Whaaat, YOU, Misha?!",
    "term": "end"
   },
   {
    "id": "scen092.0039",
    "jp": "ひどーい、ティピちゃん。{n}アタシだって、ちゃんと護衛くらい出来るよ！",
-   "en": "",
+   "en": "So meeean, Tippi-chan. I can do guard duty just fine!",
    "term": "end"
   },
   {
    "id": "scen092.0040",
    "jp": "だが、さすがにそれは‥‥。",
-   "en": "",
+   "en": "But that's really...",
    "term": "end"
   },
   {
    "id": "scen092.0041",
    "jp": "私なら大丈夫です。{n}ミーシャさんがいてくださるなら、安心ですわ。",
-   "en": "",
+   "en": "I will be fine. If Misha-san is with me, I feel safe.",
    "term": "end"
   },
   {
    "id": "scen092.0042",
    "jp": "えへへ～★",
-   "en": "",
+   "en": "Ehehe~",
    "term": "end"
   },
   {
    "id": "scen092.0043",
    "jp": "‥‥{FE14}分かりました。{n}では目立たないように、{n}木の陰に隠れていてください。{p}ミーシャ、よろしく頼んだぞ。",
-   "en": "",
+   "en": "...{FE14}Understood. Then please hide behind the trees so you{n}won't be noticed.{p}Misha, I'm counting on you.",
    "term": "end"
   },
   {
    "id": "scen092.0044",
    "jp": "うん、任せて！",
-   "en": "",
+   "en": "Okay, leave it to me!",
    "term": "end"
   },
   {
    "id": "scen092.0045",
    "jp": "それじゃ、ちょっと行ってくるね！",
-   "en": "",
+   "en": "Well, we'll be right back!",
    "term": "end"
   },
   {
@@ -454,31 +454,31 @@
   {
    "id": "scen092.0069",
    "jp": "古い墓が並んでいる。{n}どうやら、同時期に建てられたものらしい。",
-   "en": "",
+   "en": "Old graves stand in a row. They seem to have been{n}built around the same time.",
    "term": "end"
   },
   {
    "id": "scen092.0070",
    "jp": "{v:0000}こんにちは。",
-   "en": "",
+   "en": "{v:0000}Hello.",
    "term": "end"
   },
   {
    "id": "scen092.0071",
    "jp": "{v:0001}最近よく会うわね。",
-   "en": "",
+   "en": "{v:0001}We sure run into you a lot lately.",
    "term": "end"
   },
   {
    "id": "scen092.0072",
    "jp": "{FFF6}{v:0002}そうね。{n}この世に運命というものがあるなら、私たちは{n}出会うべくして出会ったのかもしれない。",
-   "en": "",
+   "en": "{FFF6}{v:0002}Yes. If there is such a thing as fate in this world,{n}perhaps we were meant to meet.",
    "term": "end"
   },
   {
    "id": "scen092.0073",
    "jp": "・そうだな",
-   "en": "",
+   "en": "・I suppose so",
    "term": "end",
    "unref": true
   },
@@ -493,398 +493,398 @@
   {
    "id": "scen092.0075",
    "jp": "{v:0003}ふふ‥‥。",
-   "en": "",
+   "en": "{v:0003}Heh heh...",
    "term": "end"
   },
   {
    "id": "scen092.0076",
    "jp": "{v:0004}そういえばここで何してたの？",
-   "en": "",
+   "en": "{v:0004}So, what were you doing here?",
    "term": "end"
   },
   {
    "id": "scen092.0077",
    "jp": "‥‥{v:0005}そうか、ただの偶然か‥‥。",
-   "en": "",
+   "en": "...{v:0005}I see. Just a coincidence, then...",
    "term": "end"
   },
   {
    "id": "scen092.0078",
    "jp": "{v:0006}もう、このおバカはぁ！{n}嘘でもあわせなさいよね！",
-   "en": "",
+   "en": "{v:0006}Ugh, you big dummy! Just play along, even if it's a lie!",
    "term": "end"
   },
   {
    "id": "scen092.0079",
    "jp": "‥‥{v:0007}でも嘘か‥‥。",
-   "en": "",
+   "en": "...{v:0007}But it would be a lie...",
    "term": "end"
   },
   {
    "id": "scen092.0080",
    "jp": "{FB00}‥‥{v:0008}あ、あはははは‥‥。{p}{v:0009}そういえばここで何してたの？",
-   "en": "",
+   "en": "{FB00}...{v:0008}Ah, ahahaha...{p}{v:0009}So, what were you doing here?",
    "term": "end"
   },
   {
    "id": "scen092.0081",
    "jp": "{v:000A}別に、何というほどのことではないわ。{n}ただの暇つぶしよ。{p}{v:000B}人間たちは私を見ると好奇な目をするから。",
-   "en": "",
+   "en": "{v:000A}Nothing worth mentioning. Just passing the time.{p}{v:000B}Humans stare at me with curious eyes whenever they{n}see me.",
    "term": "end"
   },
   {
    "id": "scen092.0082",
    "jp": "{v:000C}フェザリアンは滅多に見かけないもんね。{n}珍しいって騒ぐよね～。",
-   "en": "",
+   "en": "{v:000C}You hardly ever see Featherians, after all. People make{n}a big fuss about how rare you are, huh?",
    "term": "end"
   },
   {
    "id": "scen092.0083",
    "jp": "{FFF6}{v:000D}その点、{n}お前たちは騒がないから楽でいいわ。",
-   "en": "",
+   "en": "{FFF6}{v:000D}In that respect, you lot don't make a fuss, which{n}makes things easy.",
    "term": "end"
   },
   {
    "id": "scen092.0084",
    "jp": "{v:000E}あはは‥‥そりゃどーも‥‥。",
-   "en": "",
+   "en": "{v:000E}Ahaha... Gee, thanks...",
    "term": "end"
   },
   {
    "id": "scen092.0085",
    "jp": "{v:000F}ところで、お前の持ってるその指輪だけど‥‥。",
-   "en": "",
+   "en": "{v:000F}By the way, that ring you have...",
    "term": "end"
   },
   {
    "id": "scen092.0086",
    "jp": "{v:0010}こいつの指輪がどうかしたの？",
-   "en": "",
+   "en": "{v:0010}What about this guy's ring?",
    "term": "end"
   },
   {
    "id": "scen092.0087",
    "jp": "{v:0011}とても、きれい。{n}不思議な光り方をしてる‥‥。{n}ちょっと見せてくれない？",
-   "en": "",
+   "en": "{v:0011}It's very beautiful. It shines so strangely... Will you let{n}me see it?",
    "term": "end"
   },
   {
    "id": "scen092.0088",
    "jp": "・見せない",
-   "en": "",
+   "en": "・No",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0089",
    "jp": "・見せてあげる",
-   "en": "",
+   "en": "・Sure, take a look",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0090",
    "jp": "{v:0012}そう‥‥ケチ‥‥。",
-   "en": "",
+   "en": "{v:0012}I see... Stingy...",
    "term": "end"
   },
   {
    "id": "scen092.0091",
    "jp": "{v:0013}あ～あ、行っちゃった‥‥。{p}{v:0014}でもパワーストーンだもんね、{n}仕方ないかぁ‥‥。",
-   "en": "",
+   "en": "{v:0013}Aww, she left...{p}{v:0014}But it's the Power Stone, so I guess it can't{n}be helped...",
    "term": "end"
   },
   {
    "id": "scen092.0092",
    "jp": "{v:0015}わぁ‥‥きれい‥‥。",
-   "en": "",
+   "en": "{v:0015}Wow... It's beautiful...",
    "term": "end"
   },
   {
    "id": "scen092.0093",
    "jp": "‥‥{v:0016}えっ、これはパワーストーン‥‥？",
-   "en": "",
+   "en": "...{v:0016}Wait, is this the Power Stone...?",
    "term": "end"
   },
   {
    "id": "scen092.0094",
    "jp": "{v:0017}えっ？{n}知ってるの？",
-   "en": "",
+   "en": "{v:0017}Huh? You know about it?",
    "term": "end"
   },
   {
    "id": "scen092.0095",
    "jp": "‥‥{v:0018}これはとても危険な物よ‥‥。",
-   "en": "",
+   "en": "...{v:0018}This is a very dangerous thing...",
    "term": "end"
   },
   {
    "id": "scen092.0096",
    "jp": "{v:0019}もし、これを持ったまま、欲望のままに{n}願ってしまえば、奇跡を与えつつ、その代償として、{n}人々に大きな不幸を与えてしまう‥‥。",
-   "en": "",
+   "en": "{v:0019}If someone holding it makes a wish driven by desire, it{n}grants a miracle, but in return, it brings great{n}misfortune upon people...",
    "term": "end"
   },
   {
    "id": "scen092.0097",
    "jp": "・それは知っている",
-   "en": "",
+   "en": "・I know that",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0098",
    "jp": "・そんなことない",
-   "en": "",
+   "en": "・That's not true",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0099",
    "jp": "{v:001A}だったら、{n}パワーストーンを持ち歩くのはやめなさい。",
-   "en": "",
+   "en": "{v:001A}Then stop carrying the Power Stone around.",
    "term": "end"
   },
   {
    "id": "scen092.0100",
    "jp": "{v:001B}人間の願望は強いのよ。{n}間違えて使わないと言い切れる？{p}{FC00}{v:001C}そんな危険を冒さないためにも{n}パワーストーンを持ち歩くのはやめなさい。",
-   "en": "",
+   "en": "{v:001B}Human desires are strong. Can you say for certain you{n}will never misuse it?{p}{FC00}{v:001C}So that you never take that risk, stop carrying the{n}Power Stone around.",
    "term": "end"
   },
   {
    "id": "scen092.0101",
    "jp": "{v:001D}た、たしかに危険だけど、{n}でも持ち歩かないって‥‥。",
-   "en": "",
+   "en": "{v:001D}S-sure, it's dangerous, but not carrying it around...?",
    "term": "end"
   },
   {
    "id": "scen092.0102",
    "jp": "{v:001E}これは元々フェザリアンが時空融合計画のために{n}作り上げたもの。{n}それが遙か昔に持ち去られた。",
-   "en": "",
+   "en": "{v:001E}This was originally made by the Featherians for the{n}space-time fusion project. It was taken away long,{n}long ago.",
    "term": "end"
   },
   {
    "id": "scen092.0103",
    "jp": "{v:001F}だから私が元の場所に戻します。{n}これを預からせて下さい。",
-   "en": "",
+   "en": "{v:001F}So I will return it to where it belongs. Please, let me{n}keep it.",
    "term": "end"
   },
   {
    "id": "scen092.0104",
    "jp": "・少し考えさせて",
-   "en": "",
+   "en": "・Let me think about it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0105",
    "jp": "・出来ない",
-   "en": "",
+   "en": "・I can't do that",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0106",
    "jp": "・頼む",
-   "en": "",
+   "en": "・Please take it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0107",
    "jp": "{v:0031}わかった。{n}今すぐとは言わないわ。{n}でも、問題が起きる前に決断して。",
-   "en": "",
+   "en": "{v:0031}Very well. I won't ask you to decide right now. But make{n}up your mind before something goes wrong.",
    "term": "end"
   },
   {
    "id": "scen092.0108",
    "jp": "{v:0020}きっと、パワーストーンを持っていることが、{n}あなたやこの世界に不幸を呼ぶわ。{p}{FFF6}{v:0021}そうなったら私はもう手助けできない。{n}自分たちで責任を取ることね‥‥。",
-   "en": "",
+   "en": "{v:0020}Carrying the Power Stone will surely bring misfortune{n}upon you and this world.{p}{FFF6}{v:0021}If that happens, I won't be able to help you anymore.{n}You will have to take responsibility yourselves...",
    "term": "end"
   },
   {
    "id": "scen092.0109",
    "jp": "　{n}　　　　　　シエラの指輪を渡した！",
-   "en": "",
+   "en": "　{n}　　　　　　Handed over Sierra's Ring!",
    "term": "end"
   },
   {
    "id": "scen092.0110",
    "jp": "{v:0022}ありがとう。",
-   "en": "",
+   "en": "{v:0022}Thank you.",
    "term": "end"
   },
   {
    "id": "scen092.0111",
    "jp": "‥‥{v:0023}フェザリアンなら変なことに{n}使わないと思うけど‥‥、{n}本当によかったのかなぁ‥‥。",
-   "en": "",
+   "en": "...{v:0023}I don't think a Featherian would use it for anything{n}weird, but... was that really okay...?",
    "term": "end"
   },
   {
    "id": "scen092.0112",
    "jp": "{v:0032}パワーストーンを私に預からせてくれるのかしら？",
-   "en": "",
+   "en": "{v:0032}Will you let me keep the Power Stone?",
    "term": "end"
   },
   {
    "id": "scen092.0113",
    "jp": "・少し考えさせて",
-   "en": "",
+   "en": "・Let me think about it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0114",
    "jp": "・出来ない",
-   "en": "",
+   "en": "・I can't do that",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0115",
    "jp": "・頼む",
-   "en": "",
+   "en": "・Please take it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0116",
    "jp": "{v:000D}あ、アレってメルフィさんじゃない。{p}{v:000E}メルフィさん！",
-   "en": "",
+   "en": "{v:000D}Oh, isn't that Melfie-san?{p}{v:000E}Melfie-san!",
    "term": "end"
   },
   {
    "id": "scen092.0117",
    "jp": "‥‥{v:000F}あ‥‥あなたは‥‥。",
-   "en": "",
+   "en": "...{v:000F}Oh... It's you...",
    "term": "end"
   },
   {
    "id": "scen092.0118",
    "jp": "{v:0038}身体の具合はどうですか？",
-   "en": "",
+   "en": "{v:0038}How are you feeling?",
    "term": "end"
   },
   {
    "id": "scen092.0119",
    "jp": "{v:0039}あなたには関係ないことよ。",
-   "en": "",
+   "en": "{v:0039}That's none of your business.",
    "term": "end"
   },
   {
    "id": "scen092.0120",
    "jp": "{FB00}‥‥{v:003A}ま、まぁ、一応元気みたいね‥‥。",
-   "en": "",
+   "en": "{FB00}...{v:003A}W-well, she seems fine, at least...",
    "term": "end"
   },
   {
    "id": "scen092.0121",
    "jp": "{v:0010}あの‥‥実はメルフィさんに用があって‥‥。",
-   "en": "",
+   "en": "{v:0010}Um... Actually, I came because I need something from{n}you, Melfie-san...",
    "term": "end"
   },
   {
    "id": "scen092.0122",
    "jp": "{v:0011}私にはないわ。",
-   "en": "",
+   "en": "{v:0011}I don't need anything from you.",
    "term": "end"
   },
   {
    "id": "scen092.0123",
    "jp": "{FFF6}‥‥{v:0012}うう‥‥。",
-   "en": "",
+   "en": "{FFF6}...{v:0012}Uuu...",
    "term": "end"
   },
   {
    "id": "scen092.0124",
    "jp": "{v:0013}ちょっと、メルフィさん！",
-   "en": "",
+   "en": "{v:0013}Hey, Melfie-san!",
    "term": "end"
   },
   {
    "id": "scen092.0125",
    "jp": "・ルイセの話を聞いてくれ",
-   "en": "",
+   "en": "・Please hear Luise out",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0126",
    "jp": "・悪いことにはならないはずだ",
-   "en": "",
+   "en": "・It won't be anything bad",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0127",
    "jp": "・ルイセをたしなめる",
-   "en": "",
+   "en": "・Scold Luise",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen092.0128",
    "jp": "‥‥{v:0014}あなたがそう言うなら‥‥。",
-   "en": "",
+   "en": "...{v:0014}If you say so...",
    "term": "end"
   },
   {
    "id": "scen092.0129",
    "jp": "‥‥{v:0015}あなたがそう言うなら‥‥。",
-   "en": "",
+   "en": "...{v:0015}If you say so...",
    "term": "end"
   },
   {
    "id": "scen092.0130",
    "jp": "{v:0016}あう‥‥わたしが悪いの‥‥？",
-   "en": "",
+   "en": "{v:0016}Aww... Is it my fault...?",
    "term": "end"
   },
   {
    "id": "scen092.0131",
    "jp": "{v:0017}そうよ、{n}ルイセちゃんは悪いことしてないじゃない！",
-   "en": "",
+   "en": "{v:0017}Exactly! Luise-chan didn't do anything wrong!",
    "term": "end"
   },
   {
    "id": "scen092.0132",
    "jp": "‥‥{v:0018}わかったわよ‥‥。",
-   "en": "",
+   "en": "...{v:0018}Fine...",
    "term": "end"
   },
   {
    "id": "scen092.0133",
    "jp": "{v:0019}それで何の用なの？",
-   "en": "",
+   "en": "{v:0019}So, what is it?",
    "term": "end"
   },
   {
    "id": "scen092.0134",
    "jp": "{v:001A}うん、あのね、あなたのブレスレット、{n}留め金が壊れかけてるみたいだから、{n}修理しようと思って部品を持ってきたの。",
-   "en": "",
+   "en": "{v:001A}Um, well, the clasp on your bracelet looks like it's about{n}to break, so I brought some parts to fix it.",
    "term": "end"
   },
   {
    "id": "scen092.0135",
    "jp": "{v:001B}直せるの！？",
-   "en": "",
+   "en": "{v:001B}You can fix it?!",
    "term": "end"
   },
   {
    "id": "scen092.0136",
    "jp": "{v:001C}うん！{n}だから、ちょっと貸してくれるかな？",
-   "en": "",
+   "en": "{v:001C}Yes! So, could you lend it to me for a bit?",
    "term": "end"
   },
   {
    "id": "scen092.0137",
    "jp": "‥‥{v:001D}う‥‥これは‥大切な物だから‥‥。",
-   "en": "",
+   "en": "...{v:001D}Uh... This is... very important to me...",
    "term": "end"
   },
   {
    "id": "scen092.0138",
    "jp": "{v:001E}でも、貸してくれないと、直せないよ‥‥。",
-   "en": "",
+   "en": "{v:001E}But if you don't lend it to me, I can't fix it...",
    "term": "end"
   },
   {
