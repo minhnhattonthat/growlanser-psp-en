@@ -14,8 +14,9 @@ Updated at the end of every session. Keep it to what the next session needs; his
   at RAM 0x08876534-0x08876B50 mapped. Tools: datadat.py, elfrefs.py, getters.py, pspdbg.py (RAM dump over the
   WebSocket), dat/scen/gltext/rawgfx/gfxsweep from the PS1 repo.
   Graphics survey (docs/re/graphics.md): DATA.DAT BMPs and MSYS.DAT swept; P1-P10 listed.
-- **Next (finish phase 1):** sweep MAP.DAT (gfxsweep, 4bpp/8bpp at 128 and 256 px), GLB.DAT, MAGD/NEFF/UPD, ISO PNGs,
-  logo.bmp, op1/op2.pmf frames (ffmpeg); find the title-screen source (P8); check the 30 kana-like runs in MAP.DAT
+  ISO PNGs, logo.bmp and both movies swept (P9, P10).
+- **Next (finish phase 1):** sweep MAP.DAT (gfxsweep, 4bpp/8bpp at 128 and 256 px), GLB.DAT, MAGD/NEFF/UPD,
+  DATA.DAT bind.dat/.ani; find the title-screen source (P8); check the 30 kana-like runs in MAP.DAT
   for font text. Then phase 2 (debug tool: PPSSPP has no Lua, poke RAM over the WebSocket with tools/pspdbg.py; port
   the PS1 scene ids: PSP scene N = SCEN entry N+380, PS1 warp notes ../growlanser-en/docs/re/debug.md).
 - **Open bugs:** none.

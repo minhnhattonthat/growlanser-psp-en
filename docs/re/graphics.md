@@ -16,8 +16,8 @@ by offset), `tools/gfxsweep.py` (sector archive -> deduped sheets; from the PS1 
 | P6 | Card binder margin label "のりしろ" (x2) | DATA.DAT `chips/chips01.bmp` (zoomed) | 8bpp BMP | - |
 | P7 | Face-plate names: art is English but spelled PLAYER, ELIOTTE, RUISE, RICHART...; one "ダミー 3" plate and ダミー NN dummy cells (unused, guess) | DATA.DAT `chr_face.bmp`, `chr_face_frd.bmp` | 8bpp BMP | - |
 | P8 | Title logo subtitle グローランサー under "GROWLANSER" | title screen (smoke shot work/qa/smoke1); source file not found yet | ? | G1 |
-| P9 | Movies: logo with the katakana subtitle (guess, as PS1 G8) | `op1.pmf`, `op2.pmf` (not yet inspected) | PSMF H.264 | G8 |
-| P10 | XMB: PARAM.SFO title グローランサー (text); ICON0/PIC0/PIC1 and save icon/PIC1 PNGs not yet viewed | ISO root | PNG | - |
+| P9 | Movies: "GROWLANSER" logo with the katakana subtitle グローランサー, twice per movie (~51 s over clouds, ~105 s at the end) | `USRDIR/op1.pmf`, `op2.pmf` (ffmpeg 1 frame / 3 s, work/pmf/op{1,2}_all.png); two cuts of the opening | PSMF H.264 | G8 |
+| P10 | XMB and save icons: logo with the subtitle グローランサー (+ tiny English blurb) | `PSP_GAME/ICON0.PNG`, `PIC0.PNG`, `USRDIR/GR_SAVE_ICON0.PNG`, `GR_SAVE_PIC1.PNG` (+ the GR_SAVE_* copies in DATA.DAT and DATA_BOOT.DAT); PARAM.SFO title グローランサー (text, `sfo.py`) | PNG | - |
 
 P7 spellings conflict with the glossary (Elliot, Luise, Richard: PS1 D9); redrawing them to glossary spellings is the
 default (non-blocking question in status.md).
@@ -32,5 +32,7 @@ default (non-blocking question in status.md).
 ## Still to sweep (phase 1 not done until these are rows above or listed here as clean)
 - MAP.DAT (1408 entries; PS1 kept the title, credits atlas and the tutorial picture here), GLB.DAT (14-byte name
   records `T01_01_A`..., 155 MB), MAGD.BIN, NEFF.BIN, UPD.UPD, DATA.DAT `bind.dat`, `.ani` files.
-- ISO PNGs (ICON0, PIC0, PIC1, GR_SAVE_ICON0, GR_SAVE_PIC1), `logo.bmp`, op1/op2.pmf frames (ffmpeg sample).
-- Find the title-screen source (P8).
+- Find the title-screen source (P8; not in DATA.DAT/MSYS: try MAP.DAT or GLB.DAT, or match the title texture
+  from a RAM dump at the title, `tools/pspdbg.py dump`).
+
+Also clean: `PIC1.PNG` (marble background), `USRDIR/logo.bmp` (ATLUS logo).
