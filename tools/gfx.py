@@ -68,6 +68,157 @@ def title(entry):
     return glb.encode(pix, pal)
 
 
+def lum(pal):
+    p = pal.astype(int)
+    return (p & 31) * 3 + (p >> 5 & 31) * 6 + (p >> 10 & 31)
+
+
+TUT_ITEMS = ["boot.items.0022", "boot.items.0108", "boot.items.0160"]  # ウィザードロッド 厚手の服 ミラーピアス
+# Grid cells, row-major as in the picture: 急所 半減 急所 / 弱点 普通 弱点 / 普通 吸収 無効 -> statusgfx.LABELS index
+TUT_LABELS = [0, 1, 0, 2, 4, 2, 4, 5, 3]
+
+
+def item_names():
+    import json
+    d = json.loads((ROOT / "script/boot/items.json").read_text(encoding="utf-8"))
+    es = {e["id"]: e for e in (d["entries"] if isinstance(d, dict) else d)}
+    return [es[i]["en"] for i in TUT_ITEMS]
+
+
+def tutorial(entry):
+    """P11: GLB B08_01B, the front layer of the magic-class tutorial's status-screen picture (index 0 = colour key,
+    B08_01A shows through). Equipment names -> English in the VWF font (ink 242, opaque black shadow 5 right/below,
+    as the JP); the resistance grid -> the statusgfx words and pictograms (D15), in each cell's own colours."""
+    import enfont
+    import statusgfx as sg
+    pix, pal, _ = glb.decode(entry)
+    pix = pix.copy()
+    L = lum(pal)
+    font = enfont.load()
+    for k, name in enumerate(item_names()):
+        top = 193 + 16 * k
+        assert (pix[top:top + 13, 128:239] != 0).sum() and not (pix[top:top + 13, 239] == 242).any()
+        pix[top:top + 13, 128:239] = 0
+        x = 129
+        for ch in name:
+            t, rows, adv = font[ch]
+            for i, row in enumerate(rows):
+                for j, v in enumerate(row):
+                    if v == "#":
+                        y = top + t + i
+                        pix[y, x + j] = 242
+                        for dy, dx in ((0, 1), (1, 0), (1, 1)):
+                            if pix[y + dy, x + j + dx] != 242:
+                                pix[y + dy, x + j + dx] = 5
+            x += adv
+        assert x < 238, name
+    # icon plates: rows Y+2..Y+12, cols X+3..X+13; bg per row = the commonest index of that row over the 9 plates,
+    # stroke = the darkest index in them (the engraved kanji)
+    plates = np.stack([pix[196 + 16 * r + 2:196 + 16 * r + 13, 263 + 56 * c:274 + 56 * c]
+                       for r in range(3) for c in range(3)])
+    plate_bg = [np.bincount(plates[:, i].ravel(), minlength=256).argmax() for i in range(11)]
+    stroke = min(np.unique(plates), key=lambda v: L[v])
+    for r in range(3):
+        for c in range(3):
+            X, Y = 260 + 56 * c, 196 + 16 * r
+            # label: dark text box rows Y+2..Y+12, cols X+26..X+45
+            a = pix[Y + 2:Y + 13, X + 26:X + 46]
+            vals, n = np.unique(a, return_counts=True)
+            order = vals[np.argsort(-n)]
+            bg, ink = order[0], order[1]  # the box, then the label's main stroke colour
+            a[:] = bg
+            art = sg.word(sg.LABELS[TUT_LABELS[3 * r + c]])
+            h, w = len(art), len(art[0])
+            top, left = (a.shape[0] - h) // 2, (a.shape[1] - w) // 2
+            for i in range(h):
+                for j in range(w):
+                    if art[i][j] == "#":
+                        a[top + i, left + j] = ink
+            art = sg.ICONS[3 * r + c]
+            for i in range(11):
+                pix[Y + 2 + i, X + 3:X + 14] = plate_bg[i]
+                for j in range(11):
+                    if art[i][j] == "#":
+                        pix[Y + 2 + i, X + 3 + j] = stroke
+    return glb.encode(pix, pal)
+
+
+def bmp_edit(data, fn):
+    """Run fn(indices) on an 8bpp BMP's pixels (top-down H x W array, edited in place) and return the BMP bytes with
+    only the pixel bytes changed (header, palette and row order kept)."""
+    import struct
+    b = bytearray(data)
+    off, = struct.unpack_from("<I", b, 10)
+    w, h, _, bpp = struct.unpack_from("<iiHH", b, 18)
+    assert bpp == 8 and w % 4 == 0, (w, bpp)
+    a = np.frombuffer(data, np.uint8, abs(h) * w, off).reshape(abs(h), w).copy()
+    a = a[::-1].copy() if h > 0 else a
+    fn(a)
+    b[off:off + a.size] = (a[::-1] if h > 0 else a).tobytes()
+    return bytes(b)
+
+
+def outline_word(a, text, ink, edge):
+    """Draw a statusgfx 7-row word centred in a, ink with an 8-neighbour edge outline."""
+    import statusgfx as sg
+    art = sg.word(text)
+    h, w = len(art), len(art[0])
+    top, left = (a.shape[0] - h) // 2, (a.shape[1] - w) // 2
+    assert top >= 1 and left >= 1, text
+    on = np.zeros(a.shape, bool)
+    for i in range(h):
+        for j in range(w):
+            on[top + i, left + j] = art[i][j] == "#"
+    a[ndimage.binary_dilation(on, np.ones((3, 3), bool)) & ~on] = edge
+    a[on] = ink
+
+
+def labels_bmp(data):
+    """P3: DATA.DAT MESWDA3E.bmp, the status screen's affinity label plates (40x16 each from (0,120): 急所 半減 弱点
+    無効 普通 吸収). The text area (rows 122-131, cols 9-31 of each plate) -> the plate's own background, then the D15
+    word in the plate's main stroke index with the dark outline index 8, as the JP."""
+    import statusgfx as sg
+
+    def fn(a):
+        for k, text in enumerate(sg.LABELS):
+            t = a[122:132, 40 * k + 9:40 * k + 32]
+            vals, n = np.unique(t, return_counts=True)
+            ink = next(v for v in vals[np.argsort(-n)] if v not in (2, 8))
+            t[:] = 2
+            a[132, 40 * k + 9:40 * k + 32] = 4  # the JP glyphs' outline ran into the plate's lower bevel row
+            outline_word(t, text, ink, 8)
+    return bmp_edit(data, fn)
+
+
+GLUE = {  # 3x5 letters for the card binder's tiny label
+    "G": [".##", "#..", "#.#", "#.#", ".##"], "L": ["#..", "#..", "#..", "#..", "###"],
+    "U": ["#.#", "#.#", "#.#", "#.#", "###"], "E": ["###", "#..", "##.", "#..", "###"],
+}
+
+
+def binder(data):
+    """P6: DATA.DAT chips/chips01.bmp, the card binder page: the two tiny "のりしろ" (glue margin) labels (4 kana, 5 rows
+    high, ~11 px pitch) -> "GLUE" one letter per kana slot, in the labels' own ink, over binder texture from 10 rows
+    below."""
+    pal = np.array(Image.open(io.BytesIO(data)).getpalette()).reshape(-1, 3).sum(1)
+
+    def fn(a):
+        dark = pal[a] < 330
+        for x0, x1 in ((70, 140), (168, 238)):
+            ys, xs = np.nonzero(dark[84:95, x0:x1])
+            assert len(xs) and ys.min() + 84 == 87 and ys.max() + 84 == 91, (x0, len(xs))
+            vals, n = np.unique(a[84:95, x0:x1][dark[84:95, x0:x1]], return_counts=True)
+            ink = vals[n.argmax()]
+            left = x0 + xs.min()
+            a[85:94, left - 2:left + 42] = a[95:104, left - 2:left + 42]
+            for k, ch in enumerate("GLUE"):
+                for i, row in enumerate(GLUE[ch]):
+                    for j, v in enumerate(row):
+                        if v == "#":
+                            a[87 + i, left + 1 + 11 * k + j] = ink
+    return bmp_edit(data, fn)
+
+
 def png_bytes(im):
     f = io.BytesIO()
     im.save(f, "PNG", optimize=True)
@@ -103,18 +254,31 @@ def sfo_title(data):
 
 def apply(flat, edits):
     """Add the graphics edits to build.py's {path: bytes} / {archive path: {entry: bytes}}."""
+    if G + "MSYS.DAT" in flat:  # P1/P2 status grid: same texture as the PS1 G2/G3, same offset (D15)
+        import appendixgfx
+        import statusgfx
+        m = bytearray(flat[G + "MSYS.DAT"])
+        statusgfx.patch(m)
+        appendixgfx.patch(m)  # P4: appendix room labels, the PS1 G4 sheet 0x1000 later (D16)
+        flat[G + "MSYS.DAT"] = bytes(m)
     g = orig(G + "GLB.DAT")
     ge = {n: g[o:o + s] for n, o, s in glb.entries(g)}
     edits.setdefault(G + "GLB.DAT", {}).update({
         "B99_02_A": title(ge["B99_02_A"]),
         "V49": ge["V41"],  # P12: the 仮 (placeholder) stamp copy of V41
+        "B08_01B": tutorial(ge["B08_01B"]),
     })
     for arc in (G + "DATA.DAT", U + "DATA_BOOT.DAT"):
         d = orig(arc)
         edits.setdefault(arc, {}).update({
             "GR_SAVE_ICON0.PNG": icon0(datadat.get(d, "GR_SAVE_ICON0.PNG")),
             "GR_SAVE_PIC1.PNG": pic1(datadat.get(d, "GR_SAVE_PIC1.PNG")),
+            "MESWDA3E.bmp": labels_bmp(datadat.get(d, "MESWDA3E.bmp")),
         })
+    import credits  # P5: the staff roll
+    d = orig(G + "DATA.DAT")
+    edits[G + "DATA.DAT"].update(credits.patch(lambda n: datadat.get(d, n)))
+    edits[G + "DATA.DAT"]["chips/chips01.bmp"] = binder(datadat.get(d, "chips/chips01.bmp"))
     flat.update({
         "/PSP_GAME/ICON0.PNG": icon0(orig("/PSP_GAME/ICON0.PNG")),
         "/PSP_GAME/PIC0.PNG": pic0(orig("/PSP_GAME/PIC0.PNG")),
@@ -135,6 +299,10 @@ def preview(out):
     pairs = {}
     for n, b in edits[G + "GLB.DAT"].items():
         pairs["glb_" + n] = [Image.fromarray(glb.rgb(*glb.decode(x)[:2])) for x in (ge[n], b)]
+    dd = orig(G + "DATA.DAT")
+    for n, b in edits[G + "DATA.DAT"].items():
+        if n.lower().endswith(".bmp"):
+            pairs[Path(n).stem] = [Image.open(io.BytesIO(x)).convert("RGBA") for x in (datadat.get(dd, n), b)]
     for p, b in flat.items():
         if p.endswith(".PNG"):
             pairs[Path(p).stem] = [Image.open(io.BytesIO(x)).convert("RGBA") for x in (orig(p), b)]
