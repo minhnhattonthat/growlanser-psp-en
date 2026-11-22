@@ -26,8 +26,11 @@ P7 spellings conflict with the glossary (Elliot, Luise, Richard: PS1 D9); redraw
 default (non-blocking question in status.md). Done in `gfx.face_plates` (session 15): plates are 72x12 (top row
 5/4, text rows 1-8 on a 4/3 gradient, ink 1, antialias 2/3), found by their top row; chr_face.bmp col 0 at (0, 80+12k),
 col 1 at x 80 (AMELIA/RICHART/N.P.C. at y 186/196/208), chr_face_frd.bmp at x 72.
-P9: `tools/pmflogo.py` re-encodes the logo GOPs (op1 1468-1639 + 2995-3131, op2 1478-1666 + 3011-3188); clean in
-ffmpeg, broken in PPSSPP playback, so not in the build yet (status.md).
+P9: `tools/pmflogo.py` re-encodes the logo GOPs (op1 1468-1639 + 2995-3131, op2 1478-1666 + 3011-3188; one QP per
+GOP, 28-34) and shipped from session 16 (`gfx.apply`). Every AU must keep its original offset and size: pooling
+bytes across a GOP (PTS-packet starts kept) decoded clean in ffmpeg but PPSSPP smeared from the first edited GOP and
+cut the movie short. Near-static ~40-byte AUs where x264's all-skip slice is a byte longer keep the original AU.
+Verified in PPSSPP: work/qa/pmf_full (idle attract: op1 at f3300-9750, op2 at f13000-19350, both logos clean).
 
 ## Swept, no Japanese (all static sources covered)
 - DATA.DAT BMPs: MESWDA0a, STICN02a, autoall, spot, test_gr256, visual1-5 (gallery thumbnails), yuko00-02,

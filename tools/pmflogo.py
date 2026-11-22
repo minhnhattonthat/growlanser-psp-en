@@ -339,11 +339,11 @@ def decode(path, a, b):
     return f
 
 
-def encode(frames, qps):
-    """x264 Annex B for the frames at the given per-frame QPs: one IDR then P, 1 ref, CABAC, Main 2.1, full range."""
-    (OUT / "qp.txt").write_text("".join(f"{k} {'I' if k == 0 else 'P'} {q}\n" for k, q in enumerate(qps)))
+def encode(frames, qp):
+    """x264 Annex B for the frames at a constant QP: one IDR then P, 1 ref, CABAC, Main 2.1, full range."""
+    # one QP: libx264 ignores qpfile (CLI only) and its q= zones gave odd sizes
     p = ("psy=0:chroma-qp-offset=0:weightp=0:aud=1:keyint=9999:min-keyint=9999:scenecut=0:bframes=0:ref=1:"
-         f"8x8dct=0:slices=1:deblock=0,0:qp={qps[0]}:qpfile=qp.txt")
+         f"8x8dct=0:slices=1:deblock=0,0:qp={qp}")
     r = subprocess.run(["ffmpeg", "-v", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r",
                         "30000/1001", "-i", "-", "-c:v", "libx264", "-profile:v", "main", "-level", "2.1",
                         "-pix_fmt", "yuvj420p", "-x264-params", p, "-f", "h264", "-"], cwd=OUT,
@@ -351,27 +351,21 @@ def encode(frames, qps):
     return r.stdout
 
 
-def fit_gop(es, au, runs, g, end, frames):
-    """The lowest even QP (one for the whole GOP) whose AUs fit build_gop's layout; (GOP bytes, QP)."""
-    cons = pts_starts(runs, au, g, end)
-    for q in range(20, 52, 2):
-        new = build_gop(es, au, g, end, encode(frames, [q] * (end - g)), cons)
-        if new:
+def fit_gop(es, au, g, end, frames):
+    """The lowest even QP at which every AU fits its original size. A tiny P AU that overflows (a near-static frame:
+    x264's all-skip slice can be a byte longer than the original's) keeps its original AU, and x264 gets the frame
+    before it again so its references match what the player shows. (GOP bytes, QP)."""
+    q, keep = 20, set()
+    while q <= 50:
+        for k in sorted(keep):
+            frames[k] = frames[k - 1]
+        new, over = build_gop(es, au, g, end, encode(frames, q), keep)
+        if not over:
             return new, q
+        tiny = {k for k in over if k and au[g + k + 1] - au[g + k] <= 80}
+        keep |= tiny
+        q += 0 if tiny else 2
     raise SystemExit(f"GOP {g}-{end} does not fit at QP 50")
-
-
-def pts_starts(runs, au, g, end):
-    """{k: (a, b)}: AU g+k is the first AU starting in a PES packet with a PTS (ES bytes a..b-1), so it must still
-    start there; every other AU boundary is free (the decoder finds AUs by their AUD)."""
-    cons = {}
-    for e, f, n, pts in runs:
-        if pts and au[g] <= e + n and e < au[end]:
-            k = next(i for i in range(len(au)) if au[i] >= e)
-            assert au[k] < e + n, "a PTS packet with no AU start"
-            if g < k < end:
-                cons[k - g] = (e, e + n)
-    return cons
 
 
 def patch_movie(name, log):
@@ -395,7 +389,7 @@ def patch_movie(name, log):
                     rects[g + k] = rect
         if not rects:
             continue
-        new, qp = fit_gop(es, au, runs, g, end, frames)
+        new, qp = fit_gop(es, au, g, end, frames)
         put_es(data, runs, au[g], new)
         edited[g] = {"end": end, "rects": len(rects), "qp": qp}
         before = decode(SRC / name, g, end)
@@ -406,9 +400,10 @@ def patch_movie(name, log):
     return bytes(data)
 
 
-def build_gop(es, au, g, end, h264, cons):
-    """Original AUs g..end-1 with x264's slices (AUD / SPS / PPS / SEI kept), laid out in the original GOP's bytes
-    with each pts_starts AU still in its packet; padding = filler NAL / zero bytes. None if it does not fit."""
+def build_gop(es, au, g, end, h264, keep):
+    """Original AUs g..end-1 with x264's slices (AUD / SPS / PPS / SEI kept), each padded to its original size
+    (filler NAL / zero bytes) so every AU keeps its offset: PPSSPP's playback broke when AUs moved, even with every
+    PTS-packet start kept. (GOP bytes, [k of AUs that overflow])."""
     xn = nals(h264)
     sps = next(h264[h:e] for s, h, e in xn if h264[h] & 0x1F == 7)
     pps = next(h264[h:e] for s, h, e in xn if h264[h] & 0x1F == 8)
@@ -420,7 +415,7 @@ def build_gop(es, au, g, end, h264, cons):
     op = x264_params(*(next(o[h:e] for s, h, e in nals(o) if o[h] & 0x1F == t) for t in (7, 8)))
     slices = [h264[h:e] for s, h, e in xn if h264[h] & 0x1F in (1, 5)]
     assert len(slices) == end - g, (len(slices), g, end)
-    out = bytearray()
+    out, over = bytearray(), []
     for k, sl in enumerate(slices):
         orig = es[au[g + k]:au[g + k + 1]]
         on = nals(orig)
@@ -436,21 +431,17 @@ def build_gop(es, au, g, end, h264, cons):
             assert not any(orig[h] & 0x1F in (7, 8) for s, h, e in on), "parameter sets only in the IDR AU"
         assert (sl[0] & 0x1F == 5) == (k == 0)
         assert not orig[e0:].strip(b"\0"), "the slice ends the AU"
-        pos = au[g] + len(out)
-        nxt = min((c for c in cons if c >= k), default=None)
-        if nxt == k:
-            a, b = cons[k]
-            if pos >= b:
-                return None
-            out += filler(max(0, a - pos))  # pads the previous AU up to the packet
-        elif nxt is not None and pos >= cons[nxt][0]:
-            return None  # would become the first AU of a later PTS packet
-        out += orig[:s0] + b"\0\0\1" + rewrite_slice(sl, xp, op, k, idr_pic_id)
-    pad = au[end] - au[g] - len(out)
-    if pad < 0:
-        return None
-    out += filler(pad)
-    return bytes(out)
+        if k in keep:
+            r = Bits(unescape(orig[h0 + 1:e0]))
+            r.ue(), r.ue(), r.ue()
+            assert r.u(op[0]) == k % (1 << op[0]), "kept AU's frame_num"
+            out += orig
+            continue
+        new = orig[:s0] + b"\0\0\1" + rewrite_slice(sl, xp, op, k, idr_pic_id)
+        if len(new) > len(orig):
+            over.append(k)
+        out += new + filler(len(orig) - len(new))
+    return bytes(out), over
 
 
 def src_hash():

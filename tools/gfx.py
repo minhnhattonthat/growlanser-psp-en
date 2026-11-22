@@ -18,6 +18,7 @@ sys.path.insert(0, str(ROOT / "tools"))
 sys.path.insert(0, str(ROOT))
 import datadat  # noqa: E402
 import glb  # noqa: E402
+import pmflogo  # noqa: E402
 from skill import SKILL  # noqa: E402
 
 sys.path.insert(0, str(Path(SKILL) / "scripts"))
@@ -374,8 +375,7 @@ def apply(flat, edits):
         U + "GR_SAVE_PIC1.PNG": pic1(orig(U + "GR_SAVE_PIC1.PNG")),
         "/PSP_GAME/PARAM.SFO": sfo_title(orig("/PSP_GAME/PARAM.SFO")),
     })
-    # P9 (tools/pmflogo.py) stays out: its movies decode clean in ffmpeg but PPSSPP's attract movie corrupts from
-    # the first edited GOP and aborts (work/qa/pmf_idle vs pmf_idle_jp, f6300-f6600); see docs/status.md
+    flat.update(pmflogo.patched())  # P9 (cached in work/pmf/en; first build re-encodes, ~2 min)
     return flat, edits
 
 
