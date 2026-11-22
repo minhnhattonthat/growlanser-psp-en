@@ -64,6 +64,7 @@ def main():
         run.shot("final.png")
         json.dump(modules(run), open(os.path.join(a.out, "modules.json"), "w"), indent=1)
         dump_ram(run, os.path.join(a.out, "ram.bin"))
+        dump_ram(run, os.path.join(a.out, "vram.bin"), 0x04000000, 0x200000)  # 2 MB eDRAM: GE textures, frame buffers
         if a.state_out:
             run.save_state(a.state_out)
         print("frame", run.frame(), "->", a.out)

@@ -2,7 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 1. Research and recon in progress (session 1, 2026-11-22). No build yet.
+- **Phase:** 1. Research and recon in progress (session 2, 2026-11-22; graphics sheets left to review). No build yet.
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -15,9 +15,12 @@ Updated at the end of every session. Keep it to what the next session needs; his
   WebSocket), dat/scen/gltext/rawgfx/gfxsweep from the PS1 repo.
   Graphics survey (docs/re/graphics.md): DATA.DAT BMPs and MSYS.DAT swept; P1-P10 listed.
   ISO PNGs, logo.bmp and both movies swept (P9, P10).
-- **Next (finish phase 1):** sweep MAP.DAT (gfxsweep, 4bpp/8bpp at 128 and 256 px), GLB.DAT, MAGD/NEFF/UPD,
-  DATA.DAT bind.dat/.ani; find the title-screen source (P8); check the 30 kana-like runs in MAP.DAT
-  for font text. Then phase 2 (debug tool: PPSSPP has no Lua, poke RAM over the WebSocket with tools/pspdbg.py; port
+  Session 2: GLB.DAT decoded (`tools/glb.py`, RLE + palette + swizzled tiles, verified vs RAM); title source found
+  (P8 = GLB B99_02_A, via `tools/gedump.py` GE frame capture); new P11 (tutorial status picture, GLB B08_01B), P12
+  (仮 stamp, V49); GLB B/O/V, bind.dat, name_*.bmp clean. `pspdbg.py dump` also writes vram.bin.
+- **Next (finish phase 1):** review the generated sheets (docs/re/graphics.md "Still to sweep": work/gfx/glbsheets,
+  map128, map256, map4; codex is out of quota until 2026-11-26, so by hand, few sheets at a time); MAGD/NEFF/UPD,
+  .ani; check the 30 kana-like runs in MAP.DAT for font text. Then phase 2 (debug tool: PPSSPP has no Lua, poke RAM over the WebSocket with tools/pspdbg.py; port
   the PS1 scene ids: PSP scene N = SCEN entry N+380, PS1 warp notes ../growlanser-en/docs/re/debug.md).
 - **Open bugs:** none.
 - **Waiting on the user:** (non-blocking) face-plate art spells ELIOTTE/RUISE/RICHART (DATA.DAT chr_face*.bmp);
