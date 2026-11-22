@@ -3,6 +3,7 @@
     python -X utf8 tools/mips.py func RAM ADDR..          start of the function holding ADDR (addiu sp, sp, -N)
     python -X utf8 tools/mips.py calls RAM ADDR..         every jal to ADDR, with the caller's function start
     python -X utf8 tools/mips.py gp RAM OFF..             loads/stores at gp+OFF (gp = 0x08C8EA44)
+    python -X utf8 tools/mips.py dis RAM ADDR [N]         disassemble N instructions (capstone)
 """
 import struct
 import sys
@@ -45,6 +46,14 @@ def main():
             hits = [a for a, x in w.items() if (x >> 21) & 31 == 28 and x >> 26 in (0x20, 0x21, 0x23, 0x24, 0x25,
                     0x28, 0x29, 0x2B, 0x09) and (x & 0xFFFF) == (v & 0xFFFF)]
             print(f"gp+{v:X} (= {GP + v:08X}): {len(hits)} refs: " + " ".join(f"{a:08X}" for a in hits))
+        elif cmd == "dis":  # dis RAM ADDR [N]: N instructions (default 64); a trailing short arg is the count
+            if v < 0x10000:
+                continue
+            import capstone
+            n = int(sys.argv[4]) if len(sys.argv) > 4 else 64
+            md = capstone.Cs(capstone.CS_ARCH_MIPS, capstone.CS_MODE_MIPS32 + capstone.CS_MODE_LITTLE_ENDIAN)
+            for i in md.disasm(ram[v - BASE:v - BASE + 4 * n], v):
+                print(f"{i.address:08X} {i.mnemonic} {i.op_str}")
 
 
 if __name__ == "__main__":

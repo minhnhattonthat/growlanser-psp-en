@@ -52,3 +52,11 @@ def test_warp_scene_list_parses():
                                                    (6, {"circle"}), (10, set()), (6, {"circle"}), (10, set())]
     patch = dict(warp.new_game_patch(81, 0))
     assert patch[0x08806300] == 0x24020000 + 81 and patch[0x08806320] == 0
+
+
+def test_text_coverage_keys():
+    sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "tools" / "debug"))
+    import cover
+    import strings
+    assert strings.key([1, 2, 0xFFFE, 9]) == 33 and strings.key([0xFFFF]) == 0
+    assert cover.unvoiced([0xF800, 0x14, 5, 0xF800, 0x15, 6]) == [5, 6]

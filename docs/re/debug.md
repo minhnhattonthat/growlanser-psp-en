@@ -56,6 +56,18 @@ BOOT.BIN), its lookup's callers, and RAM dumps (`tools/pspdbg.py dump`) at the t
   clear-data save prompt. Cast pages (f21000-f23400, shot every 300) draw Japanese character names with romaji under
   them; the staff pages after them are already English. Settle P5 vs P13 there in phase 8.
 
+## Text coverage (phase 8 session 13: tools/strings.py, tools/debug/textlog.py, tools/debug/cover.py)
+- Printer entry 0x088748A0: **t3 points at the code pointer** (the printer keeps it in s4: `lw a1,(s4); lhu s0,(a1)`,
+  writes it back as it goes), so *t3 = the next code; a call resuming after a wait/page code starts mid-string.
+- `build/strings.tsv` (`tools/strings.py`): id -> hash of the build's words (PS1 key: h*31+w up to FFFE/FFFF); no
+  cstr pools, no unref. `warp.py --textlog` logs `TEXT <hash>` per distinct string printed (breakpoint, no Lua).
+- `cover.py` (host mode, like PS1): warp `newgame`, stage strings in free RAM 0x09A00000, at each printer call that
+  is not a staged continuation point *t3 at the next staged string; the VM dispatcher breakpoint sends every op back
+  to the message op (LOOP), so mashing Circle walks the whole list (~20 frames a string, a 2000-string chunk ~10 min).
+  Voice codes `{v:}` stall (no voice bank in the host): left out of the staged copy. `{FB00}...{FFFA}` (animated
+  face, dev-menu strings) and a few others stall: the run ends after STALL frames and the next run starts after it
+  (`tools/debug/cover_ids.py` lists them). Proves the printer read every string, not how it looks in its own scene.
+
 ## Developers' check menu (scene 18, verified on screen)
 Same as PS1 (`ダンジョンマン`, `チェック項目を選んで下さい`), 15 items (the list wraps): 0-11 as PS1 (Luise magic + M2
 gear, encounters off, misc, full check = story points, FC check, dungeons, event battles, event quick check, face

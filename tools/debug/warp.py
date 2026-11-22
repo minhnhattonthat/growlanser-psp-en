@@ -160,11 +160,15 @@ def play(run, steps):
     run.press(set())
 
 
-def warp(spec, out, iso=ISO, frames=None, shot_every=300, state_out=None, log=print, after=None):
+def warp(spec, out, iso=ISO, frames=None, shot_every=300, state_out=None, log=print, after=None, text=False):
     """Run one warp; returns the landing frame (None if it never landed). Shots f<frame>.png in OUT.
-    AFTER(run, warp) runs at the end of a landed run, before the emulator closes (tools/debug/save.py)."""
+    AFTER(run, warp) runs at the end of a landed run, before the emulator closes (tools/debug/save.py).
+    TEXT: log every printed string's hash to OUT/log.txt (tools/debug/textlog.py)."""
     frames = frames or spec["frames"] or 4500
     run = psp.Run(psp.find_emu(None), str(iso), str(out))
+    if text:
+        import textlog
+        textlog.attach(run, out)
     w = Warp(run)
     landed, f = None, 0
     queue = []
@@ -253,6 +257,7 @@ def main():
     ap.add_argument("--shot-every", type=int, default=300)
     ap.add_argument("--state-out")
     ap.add_argument("--no-sheet", action="store_true")
+    ap.add_argument("--textlog", action="store_true", help="log printed strings to OUT/<name>/log.txt (textcover)")
     a = ap.parse_args()
     scenes = load_scenes()
     if a.all:
@@ -264,7 +269,8 @@ def main():
             # work/states holds original-ISO states only; a run on another image keeps its states in its out dir
             st = ROOT / "work" / "states" / f"{name}.ppst" if Path(a.iso).resolve() == Path(ISO).resolve() else out / "state.ppst"
             try:
-                got = warp(scenes[name], out, a.iso, a.frames, a.shot_every, st, log=lambda s: print(name, s, flush=True))
+                got = warp(scenes[name], out, a.iso, a.frames, a.shot_every, st, log=lambda s: print(name, s, flush=True),
+                           text=a.textlog)
             except (RuntimeError, OSError, EOFError) as e:   # one emulator failure must not stop the batch
                 print(name, "error", e, flush=True)
                 got = None
@@ -285,7 +291,7 @@ def main():
     spec = scenes[a.scene] if a.scene in scenes else parse_spec(a.scene)
     if a.then:
         spec["route"] = a.then
-    got = warp(spec, a.out, a.iso, a.frames, a.shot_every, a.state_out)
+    got = warp(spec, a.out, a.iso, a.frames, a.shot_every, a.state_out, text=a.textlog)
     if not a.no_sheet:
         sheet(a.out)
     sys.exit(0 if got is not None else 1)
