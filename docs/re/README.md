@@ -1,15 +1,10 @@
 # Reverse-engineering notes
 
-One file per subsystem (text engine, pointers, compression, font, graphics). Mark every finding with how far it is
-proven, so a later session doesn't build on a guess:
-
-- **verified** - and how: a decoded known string, a corrupt-and-boot test, a breakpoint hit on the drawing path, a
-  passing roundtrip test. Name the test or savestate.
-- **guess** - and why it seems likely (byte pattern, another game, an earlier patch's notes). Promote it to verified
-  before code depends on it.
-
-Addresses are for the dump in `rom.sha1` unless a note says otherwise.
+One file per subsystem. Mark every finding with how far it is proven: **verified** (and how) or **guess** (and why).
+Addresses are for the dump in `rom.sha1` (BOOT.BIN file offsets unless a note says RAM or vaddr).
+The PS1 version's notes (`../growlanser-en/docs/re/`) describe the same engine and are a good first guess.
 
 | File | Covers | State |
 |---|---|---|
-| <text.md> | <encoding, control codes, pointer tables> | <verified / partly guessed> |
+| text.md | disc layout, module layout/relocation, encoding, font, SCEN/MSYS sections, module string tables and getters, SJIS/UTF-8 system strings | verified except MSYS loader and MAP.DAT text (guess) |
+| graphics.md | graphics-text survey (Japanese drawn as images) | static sweep in progress: DATA.DAT and MSYS.DAT done; MAP.DAT, GLB.DAT, PNGs, movies to do |

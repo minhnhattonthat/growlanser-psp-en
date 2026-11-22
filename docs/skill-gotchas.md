@@ -1,0 +1,4 @@
+references/platform-psp.md: some UMDs ship the decrypted module as PSP_GAME/SYSDIR/BOOT.BIN (plain ELF); here it is byte-identical to PPSSPP's DumpFileTypes dump, so check BOOT.BIN before dumping the EBOOT.
+references/platform-psp.md: PPSSPPHeadless ignores memstick/PSP/SYSTEM/ppsspp.ini (no DumpFileTypes); the EBOOT dump needs the windowed app, whose first run in a fresh portable memstick failed on Vulkan until `[Graphics] GraphicsBackend = 3 (DIRECT3D11)` and `[General] FirstRun = False` were set.
+references/platform-psp.md: in a relocatable PRX the HI16/LO16 immediates are relative to the segment they address (here data vaddr 0x11D3C0), not to 0: a lui/addiu scan must add the target segment's vaddr (growlanser-psp-en tools/elfrefs.py).
+references/emulator-qa.md: emu.py has no --memstick passthrough; call psp.py directly for a kept memstick.
