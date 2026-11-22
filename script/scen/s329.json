@@ -15,26 +15,26 @@
   {
    "id": "scen329.0001",
    "jp": "こんにちは～。{n}私、ラミィっていいます～。{p}今日は、私のことについてお話しますね～。{n}え～と、何から話しましょ～‥‥。",
-   "en": "",
+   "en": "Hellooo. My name's Lamieee.{p}Today I'll tell you all about meee. Ummm, where should{n}I start...",
    "term": "end"
   },
   {
    "id": "scen329.0002",
    "jp": "何を聞いてみますか？",
-   "en": "",
+   "en": "What will you ask?",
    "term": "end"
   },
   {
    "id": "scen329.0003",
    "jp": "・好きな言葉は？",
-   "en": "",
+   "en": "・What's your favorite word?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0004",
    "jp": "・興味があることは？",
-   "en": "",
+   "en": "・What are you interested in?",
    "term": "end",
    "unref": true
   },
@@ -49,248 +49,248 @@
   {
    "id": "scen329.0006",
    "jp": "好きな言葉ですか～？{n}{FFFB}え～と、そうですねぇ～‥‥。{n}『平和』っていう言葉が好きです～。{p}{FC05}だって、世界が平和だと{n}みんなニコニコしてるし、{n}たのし～じゃないですか～。",
-   "en": "",
+   "en": "My favorite wooord? {FFFB}Ummm, let me seeee... I like the{n}word \"peace.\"{p}{FC05}Because when the world is peaceful, everyone's all{n}smiles, and it's so much fuuun, isn't it?",
    "term": "end"
   },
   {
    "id": "scen329.0007",
    "jp": "だから、早くこの世界も平和になると{n}い～ですよね～。",
-   "en": "",
+   "en": "So I hope this world becomes peaceful sooooon.",
    "term": "end"
   },
   {
    "id": "scen329.0008",
    "jp": "・自分もそう思う",
-   "en": "",
+   "en": "・I think so too",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0009",
    "jp": "・きっと無理だ",
-   "en": "",
+   "en": "・That'll never happen",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0010",
    "jp": "エヘヘ、ラミィと一緒ですね～。{n}うれし～です～。",
-   "en": "",
+   "en": "Ehehe, same as Lamie, theeen. That makes me happyyy.",
    "term": "end"
   },
   {
    "id": "scen329.0011",
    "jp": "あう～、無理なんですかぁ～？{n}ちょっとかなし～です‥‥。",
-   "en": "",
+   "en": "Awww, it'll never happennn? That's a little saaad...",
    "term": "end"
   },
   {
    "id": "scen329.0012",
    "jp": "興味があること、ですか～？{n}{FFFB}え～と、そうですねぇ～‥‥。{p}実は今、あることを極めるために、{n}秘密の特訓をしてるんですよ～。",
-   "en": "",
+   "en": "What I'm interested in, you meeean? {FFFB}Ummm, let{n}me seeee...{p}Actually, right now I'm doing some secret training to{n}master a certain something.",
    "term": "end"
   },
   {
    "id": "scen329.0013",
    "jp": "内容はまだ内緒ですけど、{n}マスターできたらお披露目します～。",
-   "en": "",
+   "en": "What it is is still a secret, but once I've mastered it,{n}I'll show youuu.",
    "term": "end"
   },
   {
    "id": "scen329.0014",
    "jp": "・楽しみにしてる",
-   "en": "",
+   "en": "・I'll look forward to it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0015",
    "jp": "・どうでもいいよ",
-   "en": "",
+   "en": "・I couldn't care less",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0016",
    "jp": "エヘヘ、楽しみにしててくださいね～。",
-   "en": "",
+   "en": "Ehehe, please look forward to it, okaaay?",
    "term": "end"
   },
   {
    "id": "scen329.0017",
    "jp": "あう～、ちょっと悲しいです～。",
-   "en": "",
+   "en": "Awww, that's a little saaad.",
    "term": "end"
   },
   {
    "id": "scen329.0018",
    "jp": "あう～、{n}お話が終わっちゃいましたぁ～‥‥。",
-   "en": "",
+   "en": "Awww, our talk is overrr...",
    "term": "end"
   },
   {
    "id": "scen329.0019",
    "jp": "エヘヘ、２度目ましてですね～。{n}また会えてうれし～です～。{p}そ～いえばラミィ、人間の世界のことは{n}まだよく分からないんで、{n}色々とキョーミシンシンなんですけど‥‥。",
-   "en": "",
+   "en": "Ehehe, nice to meet you for the second tiiime. I'm sooo{n}happy to see you agaaain.{p}Oh, that reminds me. Lamie still doesn't really{n}understand the human world, so I'm super-duper{n}curious about all kinds of stuff...",
    "term": "end"
   },
   {
    "id": "scen329.0020",
    "jp": "今、{s:0000}さんが{n}興味あることってなんですか～？",
-   "en": "",
+   "en": "What are you interested in right now,{n}{s:0000}?",
    "term": "end"
   },
   {
    "id": "scen329.0021",
    "jp": "・ラミィのこと",
-   "en": "",
+   "en": "・You, Lamie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0022",
    "jp": "・世界の情勢",
-   "en": "",
+   "en": "・The state of the world",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0023",
    "jp": "・全てにおいて無関心",
-   "en": "",
+   "en": "・Nothing interests me at all",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0024",
    "jp": "ええ～、ラミィのことですか～？{n}{FFFB}なんだか照れちゃいますね～。{p}{FC00}じゃあラミィのこと知ってもらうためにも、{n}これからもいっぱいおしゃべりしましょうね～。",
-   "en": "",
+   "en": "Whaaat, in meee? {FFFB}That's kinda embarrassiiing.{p}{FC00}Then so you can get to know Lamie, let's chat lots and{n}lots from now on, okaaay?",
    "term": "end"
   },
   {
    "id": "scen329.0025",
    "jp": "わぁ～、かっこいいですね～。{n}さすがは戦う騎士ってかんじです～。",
-   "en": "",
+   "en": "Wowww, that's so cooool. Just what you'd expect from{n}a fighting knight.",
    "term": "end"
   },
   {
    "id": "scen329.0026",
    "jp": "う～‥‥、何にも興味がないんですかぁ～？{p}ごめんなさい、{n}ラミィの質問がよくなかったんですね～。",
-   "en": "",
+   "en": "Uuu... You're not interested in anything at alll?{p}I'm sorry, Lamie must have asked a bad questiooon.",
    "term": "end"
   },
   {
    "id": "scen329.0027",
    "jp": "実はラミィ、{n}今、お笑いの勉強をしてるんですよ～。{p}最近知ったんですけど、{n}世の中には言葉だけじゃなくて、{n}道具を使ったツッコミもあるんですね～。",
-   "en": "",
+   "en": "Actually, Lamie's been studying comedy lately.{p}I only just found out, but in this world, the straight{n}man doesn't just use words to smack down a joke. He{n}uses props too, riiight?",
    "term": "end"
   },
   {
    "id": "scen329.0028",
    "jp": "道具を使ったツッコミ方法って、{n}どんなのが面白いんですか～？",
-   "en": "",
+   "en": "When the straight man uses a prop, what kind is{n}the funniest?",
    "term": "end"
   },
   {
    "id": "scen329.0029",
    "jp": "・金たらいを落とす",
-   "en": "",
+   "en": "・Drop a metal washtub on them",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0030",
    "jp": "・ハリセンで頭を叩く",
-   "en": "",
+   "en": "・Whack them with a paper fan",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0031",
    "jp": "・パイを投げつける",
-   "en": "",
+   "en": "・Throw a pie in their face",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0032",
    "jp": "あぅ～、金たらいですか～‥‥。{n}{FFFB}あれが上から落ちてきたら、{n}ものすごく痛いんでしょうね‥‥。{p}ラミィだったら、きっと潰れちゃいますね。{n}はわわ、恐ろしいです～！",
-   "en": "",
+   "en": "Awww, a metal washtub, huh... {FFFB}If that fell on you from{n}above, it'd hurt sooo much...{p}If it were Lamie, I'd get squashed flat for sure. Eek,{n}how scaaary!",
    "term": "end"
   },
   {
    "id": "scen329.0033",
    "jp": "ハリセンって、王道の道具なんですよね！{n}ラミィも、１度でいいから持ってみたいです～。{p}{FC00}でも、ラミィには重くて持てないから、{n}ラミィ専用サイズのハリセンじゃないと{n}無理ですよね～‥‥。",
-   "en": "",
+   "en": "The paper fan is the classic prop, isn't it! Lamie wants{n}to hold one too, just once.{p}{FC00}But a normal one would be too heavy for Lamie, so it'd{n}have to be a special Lamie-sized paper fan...",
    "term": "end"
   },
   {
    "id": "scen329.0034",
    "jp": "小道具でも、パイを投げつけるなんて{n}勿体ない気分になりそうです～。{p}それに、もしラミィがパイを投げられたら、{n}きっとクリームに埋まっちゃいますね。{n}はわわ、恐ろしいです～！",
-   "en": "",
+   "en": "Even if it's just a prop, throwing a pie seems like such{n}a waaaste.{p}Besides, if somebody threw a pie at Lamie, I'd be buried{n}in cream for sure. Eek, how scaaary!",
    "term": "end"
   },
   {
    "id": "scen329.0035",
    "jp": "ラミィ、ご主人様に{n}聞いてみたいことがあるんですよ～。",
-   "en": "",
+   "en": "Master, there's something Lamie wants to ask youuu.",
    "term": "end"
   },
   {
    "id": "scen329.0036",
    "jp": "女の子のファッションは、{n}どんなのが可愛いと思いますか～？",
-   "en": "",
+   "en": "What kind of fashion do you think looks cute on a girl?",
    "term": "end"
   },
   {
    "id": "scen329.0037",
    "jp": "・スーツ姿",
-   "en": "",
+   "en": "・A suit",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0038",
    "jp": "・魔女っ子姿",
-   "en": "",
+   "en": "・A little witch outfit",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0039",
    "jp": "・水着姿",
-   "en": "",
+   "en": "・A swimsuit",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0040",
    "jp": "あ～、ラミィもスーツ姿は憧れです～。{p}白いスーツに、真っ赤な大きな{n}蝶ネクタイして、『なんでやね～ん！』って{n}ツッコんでみたいです～。",
-   "en": "",
+   "en": "Ahh, Lamie dreams of wearing a suit tooo.{p}A white suit with a big bright red bow tie, and then I'd{n}smack down a joke with an \"Oh, come ooon!\"",
    "term": "end"
   },
   {
    "id": "scen329.0041",
    "jp": "わ～、本当ですか～！？{n}{FFFB}実はラミィ、普段着は『魔女っ子』って{n}よく言われるんですよ～。{p}{FC05}それって、ラミィが普段着を着てれば{n}ご主人様がラミィを可愛いって{n}思ってくれるってことでしょうか～？{p}えへへ、うれし～です～。",
-   "en": "",
+   "en": "Whoa, really?! {FFFB}Actually, people often say Lamie's{n}everyday clothes look like a \"little witch\" outfit.{p}{FC05}So does that mean when Lamie wears her everyday{n}clothes, you think Lamie's cute, Master?{p}Ehehe, that makes me happyyy.",
    "term": "end"
   },
   {
    "id": "scen329.0042",
    "jp": "あう～‥‥水着ですか～‥‥。{n}{FFFB}ラミィ、水着姿は自信がありません～‥‥。{p}{FC03}だって、ラミィは『ぼんっ・きゅっ・ぼん！』{n}じゃないですし～‥‥。はうぅ～‥‥。",
-   "en": "",
+   "en": "Awww... A swimsuit, huh... {FFFB}Lamie's not confident in{n}a swimsuit...{p}{FC03}After all, Lamie's figure isn't all \"bam! slim! bam!\"...{n}Hauuu...",
    "term": "end"
   },
   {
    "id": "scen329.0043",
    "jp": "こんにちは～。{n}今日もぽかぽか陽気で、{n}気持ちい～ですね～。{p}なんだかラミィ、{FE0A}まぶたが重くなって‥‥{n}{FE0A}きちゃいます～‥‥。{n}{FFFB}{FFF6}‥‥{FE0A}‥‥{FE0A}‥‥{FE0A}すぅ～‥‥。",
-   "en": "",
+   "en": "Hellooo. It's nice and warm and sunny again today. It{n}feels sooo good.{p}Somehow, Lamie's {FE0A}eyelids are getting heavy... {FE0A}sooo{n}heavyyy... {FFFB}{FFF6}...{FE0A}...{FE0A}...{FE0A}Zzz...",
    "term": "end"
   },
   {
    "id": "scen329.0044",
    "jp": "ラミィを起こしますか？",
-   "en": "",
+   "en": "Will you wake Lamie up?",
    "term": "end"
   },
   {
@@ -312,353 +312,353 @@
   {
    "id": "scen329.0047",
    "jp": "{FFF6}‥‥‥‥。{p}{FFF7}‥‥はわわっ！？{n}ごめんなさい、つい寝ちゃいました～。",
-   "en": "",
+   "en": "{FFF6}......{p}{FFF7}...Eek?! I'm sorry, I dozed off...",
    "term": "end"
   },
   {
    "id": "scen329.0048",
    "jp": "{FFF6}う～ん、むにゃむにゃ‥‥。",
-   "en": "",
+   "en": "{FFF6}Mmm... mumble mumble...",
    "term": "end"
   },
   {
    "id": "scen329.0049",
    "jp": "あう～。{n}せっかくお話しに来てくれたのに、{n}ラミィってば失礼でしたね～‥‥。",
-   "en": "",
+   "en": "Awww. You came all this way to talk with me, and Lamie{n}was so rude...",
    "term": "end"
   },
   {
    "id": "scen329.0050",
    "jp": "・本当に失礼だ",
-   "en": "",
+   "en": "・That really was rude",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0051",
    "jp": "・ラミィらしい",
-   "en": "",
+   "en": "・That's so like you, Lamie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0052",
    "jp": "・気にしてない",
-   "en": "",
+   "en": "・I don't mind",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0053",
    "jp": "はわわ、本当にごめんなさい～。{p}次からは気をつけますから、{n}ラミィのこと嫌いにならないでください～！",
-   "en": "",
+   "en": "Eek, I'm really sorryyy.{p}I'll be careful from now on, so please don't{n}hate Lamieee!",
    "term": "end"
   },
   {
    "id": "scen329.0054",
    "jp": "あう～、それってラミィがいつも{n}ぼけーっとしてるみたいですね～‥‥。",
-   "en": "",
+   "en": "Awww, you make it sound like Lamie's always{n}spacing out...",
    "term": "end"
   },
   {
    "id": "scen329.0055",
    "jp": "本当ですか～？{n}{FFFB}よかった、ご主人様とお話したいから、{n}寝ちゃわないように頑張ります～。",
-   "en": "",
+   "en": "Really? {FFFB}Phew. I want to talk with you, Master, so I'll do{n}my best not to fall asleeeep.",
    "term": "end"
   },
   {
    "id": "scen329.0056",
    "jp": "人間界って、おいし～食べ物が{n}いっぱいあるんですねぇ～。{p}ラミィ、この前はじめて{n}『おせんべい』っていう食べ物を{n}食べたんですけど、美味しかったですぅ。",
-   "en": "",
+   "en": "The human world has sooo much yummy food.{p}The other day, Lamie ate something called \"rice{n}crackers\" for the first time, and they were delicious.",
    "term": "end"
   },
   {
    "id": "scen329.0057",
    "jp": "あったか～い緑茶に、{n}おせんべいの組み合わせって{n}さいこーですよね～。",
-   "en": "",
+   "en": "Nice warm green tea with rice crackers is the best{n}combination, isn't it?",
    "term": "end"
   },
   {
    "id": "scen329.0058",
    "jp": "・確かにそうだ",
-   "en": "",
+   "en": "・You're right",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0059",
    "jp": "・渋い趣味だ",
-   "en": "",
+   "en": "・That's a grown-up taste",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0060",
    "jp": "・そうは思わない",
-   "en": "",
+   "en": "・I don't think so",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0061",
    "jp": "ご主人様も、{n}やっぱりそう思いますか～。{p}{FC00}はわ～、話してたらなんだか{n}お腹がすいてきちゃいました～。",
-   "en": "",
+   "en": "So you think so too, Master!{p}{FC00}Ohh, all this talking is making me hungryyy.",
    "term": "end"
   },
   {
    "id": "scen329.0062",
    "jp": "そうですか～？{p}渋いといえば、緑茶はあの渋みが{n}いいらしいですね～。{p}ラミィは、あんまり渋すぎるのは{n}飲めないですけど‥‥。",
-   "en": "",
+   "en": "Is it?{p}Speaking of grown-up tastes, they say the bitterness{n}is what's good about green tea.{p}Lamie can't drink it when it's too bitter, though...",
    "term": "end"
   },
   {
    "id": "scen329.0063",
    "jp": "あうぅ～、{n}ご主人様の趣味とは違うんですね～。{n}ちょっと残念です～‥‥。",
-   "en": "",
+   "en": "Awww, so it's not to your taste, Master... That's a{n}little disappointiiing...",
    "term": "end"
   },
   {
    "id": "scen329.0064",
    "jp": "妖精界には、いちばんの妖精を決める{n}コンテストがあるんですよ～。{p}{FC01}でも、優勝するためには{n}いっぱい勉強しなくちゃダメなんですよ～。{n}{FFFB}はうぅ～、きびしーですよねぇ～。{p}{FC03}ラミィ、むずかしーお勉強してると、{n}いつの間にか寝ちゃってるんですよ～‥‥。",
-   "en": "",
+   "en": "In the fairy world, there's a contest to decide who's{n}the number-one fairy.{p}{FC01}But to win, you have to study lots and lots. {FFFB}Hauuu, it's{n}so tough.{p}{FC03}Whenever Lamie studies hard stuff, I fall asleep{n}before I know it...",
    "term": "end"
   },
   {
    "id": "scen329.0065",
    "jp": "ラミィに何か問題を出してみますか？",
-   "en": "",
+   "en": "Will you give Lamie a quiz?",
    "term": "end"
   },
   {
    "id": "scen329.0066",
    "jp": "・１＋１は？",
-   "en": "",
+   "en": "・What's 1+1?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0067",
    "jp": "・８×９－１５は？",
-   "en": "",
+   "en": "・What's 8x9-15?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0068",
    "jp": "えーと、２です～。{p}出てくる記号が１つだけなら、{n}ラミィにだって分かりますよ～。{n}{FFFB}{FFF6}えへへ、すごいですか～？",
-   "en": "",
+   "en": "Ummm, it's 2!{p}As long as there's only one symbol, even Lamie can{n}figure it out. {FFFB}{FFF6}Ehehe, aren't I amazing?",
    "term": "end"
   },
   {
    "id": "scen329.0069",
    "jp": "う～ん、わかりません‥‥。{n}もっと簡単にしてください～！",
-   "en": "",
+   "en": "Hmmm, I don't know... Please make it easier!",
    "term": "end"
   },
   {
    "id": "scen329.0070",
    "jp": "・１＋１は？",
-   "en": "",
+   "en": "・What's 1+1?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0071",
    "jp": "・３×２－１は？",
-   "en": "",
+   "en": "・What's 3x2-1?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0072",
    "jp": "あうぅ～。{n}記号が２つ出てくると、ちょっと‥‥。{n}記号を１個にしてもらえませんか～？",
-   "en": "",
+   "en": "Awww. When there are two symbols, it's a little... Could{n}you make it just one symbol?",
    "term": "end"
   },
   {
    "id": "scen329.0073",
    "jp": "・１２３４５６７９×８は？",
-   "en": "",
+   "en": "・What's 12345679x8?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0074",
    "jp": "・１×２×１は？",
-   "en": "",
+   "en": "・What's 1x2x1?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0075",
    "jp": "あっ、それなら簡単です～！{n}答えは、９８７６５４３２ですね～。{p}{FC00}エヘへ、記号が１つだけなら{n}だいじょーぶなんですよ～。{n}ど～んと任せてください～♪",
-   "en": "",
+   "en": "Oh, that one's easy! The answer is 98765432!{p}{FC00}Ehehe, as long as there's only one symbol, I'm fiiine.{n}Leave it all to meee♪",
    "term": "end"
   },
   {
    "id": "scen329.0076",
    "jp": "今日はご主人様に、{n}ラミィからお願いがあるんです～。{p}ラミィ、今までずっとお笑いについて{n}勉強してきたんですけど、今日はご主人様と{n}笑いを共有したいなぁ～って‥‥。{p}{FC05}ですから、今から即席のコントを{n}ラミィとしてくれませんか～？",
-   "en": "",
+   "en": "Today, Lamie has a favor to ask you, Master.{p}Lamie's been studying comedy this whole time, and{n}today I'd like to share some laughs with you, Master...{p}{FC05}So, would you do an improv comedy skit with Lamie{n}right now?",
    "term": "end"
   },
   {
    "id": "scen329.0077",
    "jp": "ラミィがツッコミを入れるんで、{n}ご主人様は話に合わせてボケてくださいね～。",
-   "en": "",
+   "en": "Lamie will be the straight man, so you be the funny{n}man and play along, Master.",
    "term": "end"
   },
   {
    "id": "scen329.0078",
    "jp": "・わかった",
-   "en": "",
+   "en": "・Got it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0079",
    "jp": "・なんでやねん！",
-   "en": "",
+   "en": "・Oh, come on!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0080",
    "jp": "・‥‥‥。",
-   "en": "",
+   "en": "・......",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0081",
    "jp": "それじゃ、はじめますよ～。",
-   "en": "",
+   "en": "Okay then, here we gooo.",
    "term": "end"
   },
   {
    "id": "scen329.0082",
    "jp": "はう～、ツッコミ役はラミィですよぅ～。{p}{FC00}でも、ご主人様ノリノリですね～★{n}本編も、そんなノリでお願いします～。{n}{FFFB}{FC05}それじゃ、はじめましょー。",
-   "en": "",
+   "en": "Hauuu, Lamie's the straight man, remember?{p}{FC00}But you're really getting into it, Master! Please keep{n}that energy for the real show. {FFFB}{FC05}Okay, let's begin.",
    "term": "end"
   },
   {
    "id": "scen329.0083",
    "jp": "なんで黙ってんね～ん！{p}{FC05}‥‥エヘへ、{n}さっそくツッコんじゃいました～。{n}{FFFB}{FC00}それじゃ、はじめますよ～。",
-   "en": "",
+   "en": "Oh, come on, why so quiet?!{p}{FC05}...Ehehe, I already smacked down a joke. {FFFB}{FC00}Okay then,{n}here we gooo.",
    "term": "end"
   },
   {
    "id": "scen329.0084",
    "jp": "はい、どうも～こんにちは～！{n}妖精のラミィで～す。",
-   "en": "",
+   "en": "Hi there, hellooo! I'm Lamie the fairyyy!",
    "term": "end"
   },
   {
    "id": "scen329.0085",
    "jp": "・妖精の{s:0000}で～す",
-   "en": "",
+   "en": "・And I'm {s:0000} the fairyyy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0086",
    "jp": "・人間の{s:0000}で～す",
-   "en": "",
+   "en": "・And I'm {s:0000} the humaaan",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0087",
    "jp": "・‥‥‥。",
-   "en": "",
+   "en": "・......",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0088",
    "jp": "そうそう、ちょ～っと大きいけど{n}ご主人様は可愛い妖精さんなんですよ～。{p}{FC02}‥‥って、ご主人様、{n}どう見ても妖精ちゃうや～ん！{p}{FC00}‥‥え～と、それはさておいて～。",
-   "en": "",
+   "en": "That's right, he's a liiittle big, but Master's a cute{n}little fairy.{p}{FC02}...Hey, Master, you look NOTHING like a fairy!{p}{FC00}...Ummm, anyway, moving on.",
    "term": "end"
   },
   {
    "id": "scen329.0089",
    "jp": "あう～、最初のツカミは大切なんですよ～。{n}黙ってちゃダメです～。",
-   "en": "",
+   "en": "Awww, the opening hook is important! You can't just{n}stay quiet.",
    "term": "end"
   },
   {
    "id": "scen329.0090",
    "jp": "２人合わせて、{n}『グロー＆グロー』で～す。{n}よろしくお願いしま～す。{p}いや～、最近は世界中のあちこちで、{n}某生物が話題になってますよね～。{p}相手がどんな人でも絶叫してしまうほどの、{n}恐ろしい破壊力を持った生き物‥‥。",
-   "en": "",
+   "en": "Together, we're \"Grow & Grow\"! Nice to meet youuu.{p}Sooo, lately a certain creature's been the talk of the{n}whole world, hasn't it?{p}A creature with such terrifying destructive power that{n}anyone who meets it screams...",
    "term": "end"
   },
   {
    "id": "scen329.0091",
    "jp": "背が少し丸くて、少し目つきが鋭くて～、{n}きっと、ご主人様ですら敵わないアレですよ～！",
-   "en": "",
+   "en": "Its back is a little rounded, its eyes are a little sharp,{n}and... It's that thing even you couldn't beat, Master!",
    "term": "end"
   },
   {
    "id": "scen329.0092",
    "jp": "・俺の母親のことだな",
-   "en": "",
+   "en": "・You mean my mother",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0093",
    "jp": "・ゲヴェルのことだな",
-   "en": "",
+   "en": "・You mean Gevel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0094",
    "jp": "・ラミィのことだな",
-   "en": "",
+   "en": "・You mean Lamie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0095",
    "jp": "そうそう、ご主人様の母親は、{n}実は裏で世界を牛耳ってると{n}噂されるほどの恐ろしい人で～‥‥。{p}{FC02}‥‥って、なんでやね～ん！",
-   "en": "",
+   "en": "That's right, Master's mother is such a terrifying{n}person, there are rumors she secretly controls the{n}whole world...{p}{FC02}...Oh, come on!",
    "term": "end"
   },
   {
    "id": "scen329.0096",
    "jp": "はわわ、それはシャレになってないですよ～。{n}そのボケはＮＧです、ご主人様～。",
-   "en": "",
+   "en": "Eek, that's no laughing matter! That gag is a{n}no-go, Master.",
    "term": "end"
   },
   {
    "id": "scen329.0097",
    "jp": "も～、なんでラミィなんですか～！{p}{FC02}違いますよ～、{n}ラミィが言ってるのは別のものです～！",
-   "en": "",
+   "en": "Geez, why Lamie?!{p}{FC02}Nooo, Lamie's talking about something else!",
    "term": "end"
   },
   {
    "id": "scen329.0098",
    "jp": "ラミィが言ってるのは、猫のことです～！{p}今、世間では空前の『ペットブーム』ですよ～。{n}あの可愛らしさに、みんなメロメロですね～。{p}{FC03}でも、ラミィからすると、{n}猫は大きすぎて飼えないんですよね～。",
-   "en": "",
+   "en": "Lamie's talking about cats!{p}Right now the world's in the middle of an{n}unprecedented \"pet boom.\" Everyone's head over heels{n}for how cute they are.{p}{FC03}But for Lamie, cats are too big to keep.",
    "term": "end"
   },
   {
    "id": "scen329.0099",
    "jp": "ラミィも何かペット飼いたいんですけどぉ、{n}何なら飼えますかね～？",
-   "en": "",
+   "en": "Lamie wants a pet too, but what kind could I keep?",
    "term": "end"
   },
   {
    "id": "scen329.0100",
    "jp": "・犬",
-   "en": "",
+   "en": "・A dog",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0101",
    "jp": "・貝類",
-   "en": "",
+   "en": "・Shellfish",
    "term": "end",
    "unref": true
   },
@@ -673,13 +673,13 @@
   {
    "id": "scen329.0103",
    "jp": "犬も大きすぎるわ～！{n}{FE1E}ありがと～ございました～！",
-   "en": "",
+   "en": "Dogs are way too big too! {FE1E}Thank you, thank youuu!",
    "term": "end"
   },
   {
    "id": "scen329.0104",
    "jp": "うんうん。{n}貝くらいの大きさならラミィでも飼えるし、{n}世話も楽だし、スープの具にもなりますし～‥‥。{p}{FC02}‥‥って、貝か～い！{n}{FE1E}{FC05}なんちゃって～。",
-   "en": "",
+   "en": "Uh-huh, uh-huh. Lamie could keep something{n}shell-sized, it'd be easy to look after, and it'd even{n}make a nice soup...{p}{FC02}...Oh, come on, SHELLFISH?! {FE1E}{FC05}Just kiddiiing.",
    "term": "end"
   },
   {
@@ -692,81 +692,81 @@
   {
    "id": "scen329.0106",
    "jp": "・突っ込む",
-   "en": "",
+   "en": "・Call her out",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0107",
    "jp": "・スルーする",
-   "en": "",
+   "en": "・Let it slide",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0108",
    "jp": "ナイスツッコミです～！{n}さすがご主人様、空気を読んでますね～！{p}‥‥というワケで、{n}ありがと～ございました～！",
-   "en": "",
+   "en": "Nice comeback! Just what I'd expect from you, Master.{n}You really read the room!{p}...And with that, thank you very muuuch!",
    "term": "end"
   },
   {
    "id": "scen329.0109",
    "jp": "はうぅ～、それはスルーという名の{n}ツッコミですか～？{n}さすがご主人様、高レベルです～‥‥！{p}‥‥というワケで、{n}ありがと～ございました～！",
-   "en": "",
+   "en": "Hauuu, is that a comeback called \"ignoring me\"? Just{n}what I'd expect from you, Master. That's{n}high-level stuff...!{p}...And with that, thank you very muuuch!",
    "term": "end"
   },
   {
    "id": "scen329.0110",
    "jp": "はうう～、{n}そのボケはツッコミづらいですよ～。{n}ＮＧです～、ＮＧ～！{p}‥‥とにかく、{n}ありがと～ございました～！",
-   "en": "",
+   "en": "Hauuu, that gag is really hard to play off. It's a no-go!{n}A no-gooo!{p}...Anyway, thank you very muuuch!",
    "term": "end"
   },
   {
    "id": "scen329.0111",
    "jp": "以上で、即席コントはお終いです～。{n}付き合ってくれて、本当に感謝ですぅ～。",
-   "en": "",
+   "en": "And that's the end of our improv skit. Thank you sooo{n}much for playing alooong.",
    "term": "end"
   },
   {
    "id": "scen329.0112",
    "jp": "コント、上手く出来ましたね～。{n}すごいです、大成功ですよ～！{p}ラミィ、ご主人様のおかけで{n}笑いの素晴らしさを再認識できました～。{p}{FC00}ラミィ、ご主人様への感謝の気持ちを{n}少しでも形にしてお渡ししたいです～。{p}ささやかですけど、{n}これ受け取ってください、ご主人様～！",
-   "en": "",
+   "en": "We pulled the skit off really well. That was amazing, a{n}huuuge success!{p}Thanks to you, Master, Lamie has rediscovered how{n}wonderful laughter is.{p}{FC00}Lamie wants to give you something to show even a{n}little of Lamie's gratitude, Masterrr.{p}It's not much, but please take this, Masterrr!",
    "term": "end"
   },
   {
    "id": "scen329.0113",
    "jp": "　{n}　生命のリンゴはいっぱいで、受け取れなかった。",
-   "en": "",
+   "en": "　{n}　You couldn't carry any more Life Apples, so you{n}couldn't accept it.",
    "term": "end"
   },
   {
    "id": "scen329.0114",
    "jp": "はうぅ～、生命のリンゴは{n}いっぱい持ってたんですね～。{n}ご主人様にお礼をしたかったですけど、残念です～。",
-   "en": "",
+   "en": "Hauuu, you already have lots of Life Apples. Lamie{n}wanted to thank you, Master, but that's too baaad.",
    "term": "end"
   },
   {
    "id": "scen329.0115",
    "jp": "　{n}　　　{FFEF}生命のリンゴ{FFF1}をプレゼントされた！",
-   "en": "",
+   "en": "　{n}　　　You were given a {FFEF}Life Apple{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen329.0116",
    "jp": "コントはあまり上手くいきませんでしたけど、{n}それでもラミィ、笑いの素晴らしさを{n}再認識しました～。",
-   "en": "",
+   "en": "The skit didn't go very well, but even so, Lamie has{n}rediscovered how wonderful laughter iiis.",
    "term": "end"
   },
   {
    "id": "scen329.0117",
    "jp": "{FFF6}‥‥これで、やっと決心がつきました。",
-   "en": "",
+   "en": "{FFF6}...Now Lamie has finally decided.",
    "term": "end"
   },
   {
    "id": "scen329.0118",
    "jp": "ラミィ、世界の人々が幸せに笑えるように、{n}自分の出来ることを探そーと思うんです～。{p}‥‥だから、ラミィはそれが実現できる所を{n}求めて旅立ちますね‥‥！{p}{FC03}大好きなご主人様と離ればなれになるのは、{n}すごーくさみしーですけど‥‥。{p}{FC00}でも、この世界の人々を笑顔にするのは{n}ご主人様なんだって思いますから‥‥。{p}ラミィはラミィで、{n}別の世界に笑いを振りまいてきますね～！{n}{FFFB}{FFF6}だから‥‥行ってきます、ご主人様‥‥。",
-   "en": "",
+   "en": "Lamie wants to find something Lamie can do so that{n}people all over the world can laugh and be happyyy.{p}...So Lamie is going to set out in search of a place{n}where Lamie can make that come true...!{p}{FC03}Being apart from Master, who Lamie loves so much,{n}will be sooo looonely, but...{p}{FC00}Lamie thinks you're the one who'll make the people of{n}this world smile, Master...{p}So Lamie will do Lamie's part and go spread laughter in{n}another wooorld! {FFFB}{FFF6}And so... I'm off, Master...",
    "term": "end"
   },
   {
@@ -779,33 +779,33 @@
   {
    "id": "scen329.0120",
    "jp": "・気をつけて行ってこい",
-   "en": "",
+   "en": "・Take care out there",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0121",
    "jp": "・行かないでくれ！",
-   "en": "",
+   "en": "・Please don't go!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen329.0122",
    "jp": "はい‥‥！{n}ありがとうございます、ご主人様！",
-   "en": "",
+   "en": "Okay...! Thank you so much, Master!",
    "term": "end"
   },
   {
    "id": "scen329.0123",
    "jp": "はうぅ～、ご主人様‥‥。{n}{FFFB}{FFF6}でも、ごめんなさい‥‥。{n}もう決心したんです～‥‥。",
-   "en": "",
+   "en": "Hauuu, Master... {FFFB}{FFF6}But Lamie's sorry... Lamie's already{n}decided for suuure...",
    "term": "end"
   },
   {
    "id": "scen329.0124",
    "jp": "ラミィ、ご主人様と出会えて{n}ほんと～に良かったです～！{p}{FC00}例え遠く離れても、ラミィは絶対に{n}ご主人様のこと忘れません～！{p}‥‥だから、ご主人様もラミィのこと{n}絶対に忘れないでくださいね‥‥？{p}また、どこかで絶対に会いましょ～ね～！{n}{FFFB}{FC05}ご主人様、大好きです～{FFF0}♥{FFF1}",
-   "en": "",
+   "en": "Lamie is sooo glad to have met you, Masterrr!{p}{FC00}Even if we're far apart, Lamie will never, ever forget{n}you, Masterrr!{p}...So you'll never forget Lamie either, will you, Master...?{p}Let's meet again somewhere, for suuure! {FFFB}{FC05}Master,{n}Lamie loves youuu{FFF0}♥{FFF1}",
    "term": "end"
   }
  ]

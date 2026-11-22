@@ -942,13 +942,13 @@
   {
    "id": "scen310.0130",
    "jp": "{v:00E2}いえ、構いません。母は死ぬときまでウォレスさんに{n}感謝していました。",
-   "en": "",
+   "en": "{v:00E2}No, it's all right. Mother was grateful to you until the{n}day she died, Wallace-san.",
    "term": "end"
   },
   {
    "id": "scen310.0131",
    "jp": "{v:00E3}私もウォレスさんに感謝しています。{n}裕福では無かったけど、母とずっと幸せに{n}暮らせましたから。",
-   "en": "",
+   "en": "{v:00E3}I'm grateful to you too, Wallace-san. We weren't{n}wealthy, but Mother and I had a happy life together.",
    "term": "end"
   },
   {
@@ -1040,13 +1040,13 @@
   {
    "id": "scen310.0144",
    "jp": "そいつは野心に燃えた男でな、{n}いつも手柄を求めていたよ。{p}初仕事を終えたそいつは、浮かれ気分で休暇に入った。{n}手に入れた報奨金で団の連中に振舞酒をやったんだが、{n}当の本人は飲み過ぎで酔いつぶれちまった。{p}翌日そいつが目を覚ますと、{n}そこは路地裏だったらしい。{n}しかも財布の中はきれいさっぱりなくなっていた。{p}どうやら路地裏で寝ている間に抜き取られたらしい。{n}それ以来その男は、酒を飲む量を自重したのさ。",
-   "en": "",
+   "en": "He was an ambitious fellow. Always looking for a chance{n}to distinguish himself.{p}After his first job, he went on leave in high spirits.{n}Spent his reward buying drinks for the company, then{n}drank himself under the table.{p}When he woke the next day, he was in a back alley. His{n}purse had been cleaned out, too.{p}Seems someone took his money while he was sleeping{n}there. After that, he kept his drinking in check.",
    "term": "end"
   },
   {
    "id": "scen310.0145",
    "jp": "こいつの教訓は、{n}休暇中でも浮かれ過ぎるなってことだ。{p}常に適度な緊張を保っておけ。{n}それが戦士の務めだ。{p}ま、硬くなる必要はない。{n}要は自分自身を把握できるようにしろってことだ。{n}がんばれよ。",
-   "en": "",
+   "en": "The lesson is, don't get too carried away, even{n}on leave.{p}Always keep your guard up a little. That's a{n}warrior's duty.{p}Well, no need to be so stiff. Just learn to keep{n}yourself in check. You'll get there.",
    "term": "end"
   },
   {

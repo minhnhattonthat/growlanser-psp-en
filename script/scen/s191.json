@@ -64,7 +64,7 @@
   {
    "id": "scen191.0008",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
@@ -294,13 +294,13 @@
   {
    "id": "scen191.0041",
    "jp": "あれ‥‥？{n}メルフィさん、どこに行っちゃったんだろう？{n}せっかく部品を買ってきたのに‥‥。{p}{FC00}もしかしたら、もう退院したのかな？{n}{FFFB}メルフィさんがいそうな場所があったら、{n}改めて立ち寄ってみましょ。",
-   "en": "",
+   "en": "Huh...? Where did Melfie-san go? And after we went to{n}the trouble of buying the parts...{p}{FC00}Maybe she's already been discharged?{FFFB} If we think of{n}anywhere Melfie-san might be, let's stop by and check.",
    "term": "end"
   },
   {
    "id": "scen191.0042",
    "jp": "ごめんなさい、今、ちょっと手が放せないの。",
-   "en": "",
+   "en": "I'm sorry, dear. I'm a little busy right now.",
    "term": "end"
   },
   {

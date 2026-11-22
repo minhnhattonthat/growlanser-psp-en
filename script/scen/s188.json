@@ -141,7 +141,7 @@
   {
    "id": "scen188.0019",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set up.",
    "term": "end"
   },
   {
@@ -203,7 +203,7 @@
   {
    "id": "scen188.0028",
    "jp": "いつでも、お声をかけて下さい。",
-   "en": "",
+   "en": "Call on me anytime.",
    "term": "end"
   },
   {
@@ -412,13 +412,13 @@
   {
    "id": "scen188.0058",
    "jp": "うっとりするわ‥‥。{n}{s:FFED}波が刺激されて、いい気分ね。",
-   "en": "",
+   "en": "How enchanting... It's stimulating my {s:FFED}{n}waves. What a lovely feeling.",
    "term": "end"
   },
   {
    "id": "scen188.0059",
    "jp": "すばらしい演奏だ。",
-   "en": "",
+   "en": "A splendid performance.",
    "term": "end"
   },
   {
@@ -487,13 +487,13 @@
   {
    "id": "scen188.0069",
    "jp": "あんな素敵な声、{n}どうやって出してるのかしら‥‥？",
-   "en": "",
+   "en": "That lovely voice... How does she produce it, I wonder...?",
    "term": "end"
   },
   {
    "id": "scen188.0070",
    "jp": "心が洗われるようだな‥‥。",
-   "en": "",
+   "en": "It's as if my heart has been cleansed...",
    "term": "end"
   },
   {
@@ -562,13 +562,13 @@
   {
    "id": "scen188.0080",
    "jp": "{FFF6}ふふっ、面白いわね。",
-   "en": "",
+   "en": "{FFF6}Hehe, how amusing.",
    "term": "end"
   },
   {
    "id": "scen188.0081",
    "jp": "このような劇を見るのは初めてだが‥‥、{n}とても愉快で楽しいものだな。",
-   "en": "",
+   "en": "I've never seen a play like this before... but it's quite{n}delightful and fun.",
    "term": "end"
   },
   {
@@ -707,13 +707,13 @@
   {
    "id": "scen188.0101",
    "jp": "ふーむ‥‥。{n}この独特のフォルム、興味深いわね‥‥。",
-   "en": "",
+   "en": "Hmm... What a distinctive form. How intriguing...",
    "term": "end"
   },
   {
    "id": "scen188.0102",
    "jp": "まさに芸術だな。",
-   "en": "",
+   "en": "Truly a work of art.",
    "term": "end"
   },
   {
@@ -782,13 +782,13 @@
   {
    "id": "scen188.0112",
    "jp": "絵を見ると、視覚中枢が刺激されるのよ。{n}{FFFB}つまり、視覚から脳を刺激すると‥‥だから、{n}‥‥ってなって、そして‥‥‥‥。",
-   "en": "",
+   "en": "Looking at paintings stimulates the visual cortex. {FFFB}In{n}other words, when the brain is stimulated through{n}sight... so... it goes like... and then......",
    "term": "end"
   },
   {
    "id": "scen188.0113",
    "jp": "本当に、素晴らしい絵ばかりだな。",
-   "en": "",
+   "en": "Truly, every painting here is magnificent.",
    "term": "end"
   },
   {
@@ -920,13 +920,13 @@
   {
    "id": "scen188.0132",
    "jp": "２人きりでボートって、{n}その‥‥ちょっと照れるわね‥‥。",
-   "en": "",
+   "en": "Being on a boat, just the two of us... Um... it's a{n}little embarrassing...",
    "term": "end"
   },
   {
    "id": "scen188.0133",
    "jp": "とてもよい景色だな‥‥。",
-   "en": "",
+   "en": "What a lovely view...",
    "term": "end"
   },
   {
@@ -1086,13 +1086,13 @@
   {
    "id": "scen188.0156",
    "jp": "{FFF6}ケーキなんて久しぶりね。{n}う～ん、至福の時だわ‥‥。",
-   "en": "",
+   "en": "{FFF6}It's been a while since I've had cake. Mmm, this is{n}pure bliss...",
    "term": "end"
   },
   {
    "id": "scen188.0157",
    "jp": "{FFF6}うむ‥‥こうした時間も悪くないな。",
-   "en": "",
+   "en": "{FFF6}Mm... A moment like this isn't bad at all.",
    "term": "end"
   },
   {
@@ -1168,13 +1168,13 @@
   {
    "id": "scen188.0168",
    "jp": "食べたことない味だけど、美味しいわね。{n}何が入ってるのかしら？",
-   "en": "",
+   "en": "I've never tasted anything like it, but it's delicious. I{n}wonder what's in it?",
    "term": "end"
   },
   {
    "id": "scen188.0169",
    "jp": "食べ慣れぬ味だな‥‥。",
-   "en": "",
+   "en": "An unfamiliar flavor...",
    "term": "end"
   },
   {
@@ -1250,13 +1250,13 @@
   {
    "id": "scen188.0180",
    "jp": "{FFF6}すっごく美味しい！{n}これなら、いくらでも入りそうよ。",
-   "en": "",
+   "en": "{FFF6}It's sooo good! I could keep eating this forever.",
    "term": "end"
   },
   {
    "id": "scen188.0181",
    "jp": "これは美味だな、気に入った。",
-   "en": "",
+   "en": "This is exquisite. I like it.",
    "term": "end"
   },
   {
@@ -1528,37 +1528,37 @@
   {
    "id": "scen188.0220",
    "jp": "あら、どうしたの？",
-   "en": "",
+   "en": "Oh, what is it?",
    "term": "end"
   },
   {
    "id": "scen188.0221",
    "jp": "アメリアを誘いますか？",
-   "en": "",
+   "en": "Invite Amelia?",
    "term": "end"
   },
   {
    "id": "scen188.0222",
    "jp": "えっ、私を誘ってくれるの？{n}それじゃ、一緒に行きましょ。",
-   "en": "",
+   "en": "Huh, you're inviting me? Then let's go together.",
    "term": "end"
   },
   {
    "id": "scen188.0223",
    "jp": "それじゃ、また後でね。",
-   "en": "",
+   "en": "See you later, then.",
    "term": "end"
   },
   {
    "id": "scen188.0224",
    "jp": "リシャールを誘いますか？",
-   "en": "",
+   "en": "Invite Richard?",
    "term": "end"
   },
   {
    "id": "scen188.0225",
    "jp": "ならば、共に行くとしよう。",
-   "en": "",
+   "en": "Then let us go together.",
    "term": "end"
   },
   {
@@ -1718,7 +1718,7 @@
   {
    "id": "scen188.0248",
    "jp": "ここって、劇場があるんですよね？{n}僕、一度大きな劇場でヴァイオリンを{n}弾いてみたいんです。",
-   "en": "",
+   "en": "There's a theater here, isn't there? I'd love to play{n}the violin in a large theater someday.",
    "term": "end"
   },
   {
@@ -1780,49 +1780,49 @@
   {
    "id": "scen188.0257",
    "jp": "よかったら、一緒に歩かない？",
-   "en": "",
+   "en": "If you'd like, why don't we take a walk together?",
    "term": "end"
   },
   {
    "id": "scen188.0258",
    "jp": "アメリアと行動しますか？",
-   "en": "",
+   "en": "Spend time with Amelia?",
    "term": "end"
   },
   {
    "id": "scen188.0259",
    "jp": "{FFF6}ホント？{n}じゃあ、行きましょ！",
-   "en": "",
+   "en": "{FFF6}Really? Then let's go!",
    "term": "end"
   },
   {
    "id": "scen188.0260",
    "jp": "そっか、じゃあまた後でね。",
-   "en": "",
+   "en": "Okay. See you later, then.",
    "term": "end"
   },
   {
    "id": "scen188.0261",
    "jp": "{s:0000}さえよければだが‥‥、{n}一緒に散歩でもどうだ？",
-   "en": "",
+   "en": "If you are willing, {s:0000}... how about a{n}walk together?",
    "term": "end"
   },
   {
    "id": "scen188.0262",
    "jp": "リシャールと行動しますか？",
-   "en": "",
+   "en": "Spend time with Richard?",
    "term": "end"
   },
   {
    "id": "scen188.0263",
    "jp": "では行くとするか。",
-   "en": "",
+   "en": "Then let us be off.",
    "term": "end"
   },
   {
    "id": "scen188.0264",
    "jp": "そうか、すまなかったな。",
-   "en": "",
+   "en": "I see. Forgive me for asking.",
    "term": "end"
   }
  ]

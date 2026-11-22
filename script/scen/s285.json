@@ -15,213 +15,213 @@
   {
    "id": "scen285.0001",
    "jp": "{FFEE}メルフィを救い、ジャスティンを倒せ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Save Melfie and defeat Justin!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen285.0002",
    "jp": "{v:007D}ガーディアンよ、メルフィの座標に対しＳ攻撃だ！",
-   "en": "",
+   "en": "{v:007D}Guardians, launch an S-attack on Melfie's coordinates!",
    "term": "end"
   },
   {
    "id": "scen285.0003",
    "jp": "{v:007E}Ｓ攻撃‥何それ‥‥？",
-   "en": "",
+   "en": "{v:007E}S-attack... What's that...?",
    "term": "end"
   },
   {
    "id": "scen285.0004",
    "jp": "ここまでよ！覚悟しなさい！",
-   "en": "",
+   "en": "This is the end! Prepare yourself!",
    "term": "end"
   },
   {
    "id": "scen285.0005",
    "jp": "‥‥あなただけは、{n}絶対に許さないんだから！",
-   "en": "",
+   "en": "...You're the one I'll never forgive!",
    "term": "end"
   },
   {
    "id": "scen285.0006",
    "jp": "お前みたいな外道だけは、絶対に許さねぇ！{n}くたばりやがれ！",
-   "en": "",
+   "en": "Scum like you, I'll never forgive! Drop dead!",
    "term": "end"
   },
   {
    "id": "scen285.0007",
    "jp": "‥‥メルフィの代わりに、{n}私が博士たちの仇をとる！",
-   "en": "",
+   "en": "...In Melfie's place, I'll avenge the doctors!",
    "term": "end"
   },
   {
    "id": "scen285.0008",
    "jp": "この世界を滅ぼそうとした罪、{n}死んで償うがいい！",
-   "en": "",
+   "en": "For the crime of trying to destroy this world, atone{n}with your life!",
    "term": "end"
   },
   {
    "id": "scen285.0009",
    "jp": "{v:0080}くっくっくっ！{n}ガーディアンは、まだまだいるぞ？",
-   "en": "",
+   "en": "{v:0080}Heh heh heh! There are plenty more Guardians where{n}those came from!",
    "term": "end"
   },
   {
    "id": "scen285.0010",
    "jp": "{FFF6}{v:0058}う‥‥うぅぅ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0058}Ngh... uuugh...",
    "term": "end"
   },
   {
    "id": "scen285.0011",
    "jp": "{v:007F}なっ、自爆させた！？{n}なんて、ヒドイことを！",
-   "en": "",
+   "en": "{v:007F}Wha-- he made it self-destruct?! How horrible!",
    "term": "end"
   },
   {
    "id": "scen285.0012",
    "jp": "{FFF6}‥‥{v:004C}う‥‥うぅぅ‥‥。",
-   "en": "",
+   "en": "{FFF6}...{v:004C}Ngh... uuugh...",
    "term": "end"
   },
   {
    "id": "scen285.0013",
    "jp": "{v:004D}メルフィさん、いま助けてあげる！",
-   "en": "",
+   "en": "{v:004D}Melfie-san, I'll save you right now!",
    "term": "end"
   },
   {
    "id": "scen285.0014",
    "jp": "{v:004E}お兄ちゃん、みんな！{n}これから私はメルフィさんを助ける事に集中するよ？",
-   "en": "",
+   "en": "{v:004E}Big Brother, everyone! I'm going to focus on saving{n}Melfie-san from now on, okay?",
    "term": "end"
   },
   {
    "id": "scen285.0015",
    "jp": "・もう少しだけ待て",
-   "en": "",
+   "en": "・Wait a little longer",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen285.0016",
    "jp": "・頑張れ！",
-   "en": "",
+   "en": "・Hang in there!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen285.0017",
    "jp": "{v:004F}う、うん‥‥。{n}でも時間がないから、ちゃんと状況を見てね！",
-   "en": "",
+   "en": "{v:004F}O-okay... But we're running out of time, so keep an eye{n}on the situation!",
    "term": "end"
   },
   {
    "id": "scen285.0018",
    "jp": "{v:0051}うん！",
-   "en": "",
+   "en": "{v:0051}Okay!",
    "term": "end"
   },
   {
    "id": "scen285.0019",
    "jp": "{v:0052}くそっ！{n}ここまで来て、失敗などさせるか！{n}この世界の連中は全部殺してやるのだ！",
-   "en": "",
+   "en": "{v:0052}Damn it! I won't fail after coming this far! I'll kill every{n}last person in this world!",
    "term": "end"
   },
   {
    "id": "scen285.0020",
    "jp": "‥‥{v:0060}ぅ‥‥身体の中が光で満たされていく‥‥。{n}これは‥‥。",
-   "en": "",
+   "en": "...{v:0060}Ngh... My body is filling with light... This is...",
    "term": "end"
   },
   {
    "id": "scen285.0021",
    "jp": "{v:0061}メルフィさん‥‥助かったのね‥‥。",
-   "en": "",
+   "en": "{v:0061}Melfie-san... She's saved...",
    "term": "end"
   },
   {
    "id": "scen285.0022",
    "jp": "{v:0062}よかったぁ～！",
-   "en": "",
+   "en": "{v:0062}Thank goodneeess!",
    "term": "end"
   },
   {
    "id": "scen285.0023",
    "jp": "{v:0030}ジャスティン‥‥許さない！{n}‥‥よくも‥‥！",
-   "en": "",
+   "en": "{v:0030}Justin... I won't forgive you! ...How dare you...!",
    "term": "end"
   },
   {
    "id": "scen285.0024",
    "jp": "{FFF6}‥‥{v:0056}う‥‥うぁ‥‥あ‥‥。",
-   "en": "",
+   "en": "{FFF6}...{v:0056}Ngh... uah... ah...",
    "term": "end"
   },
   {
    "id": "scen285.0025",
    "jp": "{v:0057}もう少しだから、頑張って！",
-   "en": "",
+   "en": "{v:0057}Just a little more, hang in there!",
    "term": "end"
   },
   {
    "id": "scen285.0026",
    "jp": "{v:0059}メルフィさん、がんばって‥‥。",
-   "en": "",
+   "en": "{v:0059}Melfie-san, hang in there...",
    "term": "end"
   },
   {
    "id": "scen285.0027",
    "jp": "{FFF6}{v:005A}う‥‥‥‥、うあああああああっ！",
-   "en": "",
+   "en": "{FFF6}{v:005A}Ngh... uaaaaaaaagh!",
    "term": "end"
   },
   {
    "id": "scen285.0028",
    "jp": "{v:005B}これって時空の歪みが‥‥大きく‥‥！？",
-   "en": "",
+   "en": "{v:005B}This is... the space-time distortion is... growing...?!",
    "term": "end"
   },
   {
    "id": "scen285.0029",
    "jp": "{v:005C}もうだめ！{n}抑えきれない！{p}{v:005D}きゃああああああっ！",
-   "en": "",
+   "en": "{v:005C}I can't! I can't hold it back!{p}{v:005D}Kyaaaaaah!",
    "term": "end"
   },
   {
    "id": "scen285.0030",
    "jp": "‥‥{v:0055}ご‥‥ごめんね、メルフィさん‥‥。{n}助けて‥‥あげられなかった‥‥。",
-   "en": "",
+   "en": "...{v:0055}I'm... I'm sorry, Melfie-san... I couldn't... save you...",
    "term": "end"
   },
   {
    "id": "scen285.0031",
    "jp": "{v:0053}きゃああっ！",
-   "en": "",
+   "en": "{v:0053}Kyaaah!",
    "term": "end"
   },
   {
    "id": "scen285.0032",
    "jp": "{v:0054}ルイセちゃん！？",
-   "en": "",
+   "en": "{v:0054}Luise-chan?!",
    "term": "end"
   },
   {
    "id": "scen285.0033",
    "jp": "はっはっは！{n}効かない！効かないな！",
-   "en": "",
+   "en": "Hahaha! It doesn't work! Doesn't work at all!",
    "term": "end"
   },
   {
    "id": "scen285.0034",
    "jp": "‥‥{v:005E}ぐ‥‥ぐぅ‥‥。{n}‥‥俺は‥‥故郷を‥‥救うんだ‥‥。{n}故郷をそのままに‥‥幸せの中に‥‥。",
-   "en": "",
+   "en": "...{v:005E}Ngh... gnh... ...I'm going to... save my homeland... Keep my{n}homeland as it is... in happiness...",
    "term": "end"
   },
   {
    "id": "scen285.0035",
    "jp": "{FFF6}{v:005F}ジャスティン‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:005F}Justin...",
    "term": "end"
   }
  ]

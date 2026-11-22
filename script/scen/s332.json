@@ -15,26 +15,26 @@
   {
    "id": "scen332.0001",
    "jp": "アンタ‥‥{FE14}じゃなかった。{n}ご主人様と喋るのは今回が初めてだよね？{p}なら、今日はアタシのこと話しちゃおっかな。{n}{FFFB}{FC03}‥‥って言っても、こういう時って{n}何から話せばいいのか悩んじゃうね～。",
-   "en": "",
+   "en": "Hey, you... {FE14}I mean, Master. This is the first time we've{n}talked, right?{p}Then maybe today I'll tell you all about me. {FFFB}{FC03}...Though at{n}times like this, it's hard to decide where to staaart.",
    "term": "end"
   },
   {
    "id": "scen332.0002",
    "jp": "何を聞いてみますか？",
-   "en": "",
+   "en": "What will you ask her?",
    "term": "end"
   },
   {
    "id": "scen332.0003",
    "jp": "・好きなことは？",
-   "en": "",
+   "en": "・What do you like?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0004",
    "jp": "・興味があることは？",
-   "en": "",
+   "en": "・What are you interested in?",
    "term": "end",
    "unref": true
   },
@@ -49,57 +49,57 @@
   {
    "id": "scen332.0006",
    "jp": "えっ、アタシの好きなこと？{p}{FC00}う～ん、そうだなぁ‥‥。{n}{FFFB}{FC05}あっ、食べることとか好きかも！",
-   "en": "",
+   "en": "Huh, what do I like?{p}{FC00}Hmmm, let's see... {FFFB}{FC05}Oh, I guess I like eating!",
    "term": "end"
   },
   {
    "id": "scen332.0007",
    "jp": "それに加えてアタシ、大食いにも自信あるんだ！",
-   "en": "",
+   "en": "And on top of that, I'm a champion big eater!",
    "term": "end"
   },
   {
    "id": "scen332.0008",
    "jp": "・がっついてる妖精だな",
-   "en": "",
+   "en": "・What a greedy little fairy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0009",
    "jp": "・元気があっていいな",
-   "en": "",
+   "en": "・It's good to have so much energy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0010",
    "jp": "むっ！{n}なんかその言い方、ひど～い！{p}{FC03}でも、大食いっていうとやっぱり{n}がっついてるって思われちゃうのかなぁ‥‥？",
-   "en": "",
+   "en": "Hey! The way you said that is so meeean!{p}{FC03}But I guess when you say \"big eater,\" people really do{n}think you're a greedy pig...?",
    "term": "end"
   },
   {
    "id": "scen332.0011",
    "jp": "そうでしょ、そうでしょ？{p}{FC00}もちろん、ただ大食いしてるだけじゃないよ。{n}アタシは、ちゃんと全ての料理を{n}味わいながら食べてるんだ。",
-   "en": "",
+   "en": "Right? Right?{p}{FC00}And of course, I don't just stuff my face. I make sure{n}to savor every single dish while I eat.",
    "term": "end"
   },
   {
    "id": "scen332.0012",
    "jp": "とりあえず、今アタシが興味があることは{n}人間界のすべてかな。{p}{FC05}妖精と人間の世界は違うから、{n}新しい世界に興味津々なんだ～！",
-   "en": "",
+   "en": "For now, what I'm interested in is... everything about{n}the human world, I guess.{p}{FC05}The fairy world and the human world are different, so{n}I'm super curious about this new wooorld!",
    "term": "end"
   },
   {
    "id": "scen332.0013",
    "jp": "あっ、そうだ！{n}今度、人間界の話を色々と聞かせてくれない？",
-   "en": "",
+   "en": "Oh, I know! Next time, will you tell me all sorts of stuff{n}about the human world?",
    "term": "end"
   },
   {
    "id": "scen332.0014",
    "jp": "・もちろん",
-   "en": "",
+   "en": "・Of course",
    "term": "end",
    "unref": true
   },
@@ -114,337 +114,337 @@
   {
    "id": "scen332.0016",
    "jp": "やった～、ありがとう！{n}それじゃ早速、色々と聞いちゃお～っと♪",
-   "en": "",
+   "en": "Yaaay, thanks! Then I'm gonna start asking you about{n}all sorts of stuff right away♪",
    "term": "end"
   },
   {
    "id": "scen332.0017",
    "jp": "ええ～！？{n}なによ、ケチんぼ～！{p}{FC00}いいもん、いつか絶対に聞き出してみせるから{n}見てなさいよね！",
-   "en": "",
+   "en": "Whaaat?! What's that about, you stingy meanie!{p}{FC00}Fine! Someday I'll get it out of you for sure, just{n}you watch!",
    "term": "end"
   },
   {
    "id": "scen332.0018",
    "jp": "ええっ、何もないの！？{p}{FC03}なんか、それってアタシに{n}興味ゼロってカンジで寂しいなぁ‥‥。",
-   "en": "",
+   "en": "Huh, nothing at all?!{p}{FC03}That kinda feels like you've got zero interest in me.{n}That's lonely...",
    "term": "end"
   },
   {
    "id": "scen332.0019",
    "jp": "今回でアタシと会うのは２回目だよね？{n}{FFFB}{FC05}また会えて嬉しいな。{p}{FC03}そういえばさ、この世界にはいろんな{n}事件や問題があるみたいだけど‥‥。{p}{FC00}でも、辛いことがあっても{n}みんなそれぞれ幸せを見つけて、{n}頑張って生きてるよね。",
-   "en": "",
+   "en": "This is the second time we've met, right? {FFFB}{FC05}I'm glad to{n}see you again.{p}{FC03}Y'know, it seems like this world has all kinds of{n}incidents and troubles, but...{p}{FC00}Even when things are hard, everyone finds their own{n}happiness and does their best to live, right?",
    "term": "end"
   },
   {
    "id": "scen332.0020",
    "jp": "そこで質問！{n}ご主人様が１番幸せだな～って{n}感じるときって、いつ？",
-   "en": "",
+   "en": "So here's my question! When do you feel{n}happiest, Master?",
    "term": "end"
   },
   {
    "id": "scen332.0021",
    "jp": "・敵と戦ってる時",
-   "en": "",
+   "en": "・When I'm fighting enemies",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0022",
    "jp": "・ご飯を食べてる時",
-   "en": "",
+   "en": "・When I'm eating",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0023",
    "jp": "・寝てる時",
-   "en": "",
+   "en": "・When I'm sleeping",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0024",
    "jp": "えええっ！？{n}敵と戦う時が幸せなの？{p}{FC00}でも、それって騎士のお仕事に{n}やりがいを感じてるってことになるのかな。{n}{FFFB}そう考えると、仕事熱心ってこと‥‥？",
-   "en": "",
+   "en": "Whaaat?! You're happiest when you're fighting enemies?{p}{FC00}But maybe that means you find your work as a knight{n}rewarding. {FFFB}So when you think about it, that makes you{n}dedicated to your job...?",
    "term": "end"
   },
   {
    "id": "scen332.0025",
    "jp": "あっ、アタシと同じだよ！{p}{FC00}妖精も人間も、やっぱおいしいご飯で{n}お腹が満たされると幸せになるのは一緒だね～！",
-   "en": "",
+   "en": "Oh, same as me!{p}{FC00}Fairies and humans are the same after all. A belly full of{n}yummy food makes everyone happyyy!",
    "term": "end"
   },
   {
    "id": "scen332.0026",
    "jp": "確かに、ふかふかの布団にくるまってるときって{n}至福の時間だよね！{p}たまーに寝すぎちゃって、{n}頭が痛くなることもあるけど‥‥。",
-   "en": "",
+   "en": "Yeah, being wrapped up in a fluffy futon is pure bliss!{p}Though every once in a while I sleep too much and get{n}a headache...",
    "term": "end"
   },
   {
    "id": "scen332.0027",
    "jp": "アタシ、人間の世界には『伝説の勇者』がいるって{n}話を聞いたことあるんだ。{p}なんでも、世界を救っちゃうくらい{n}凄い存在なんだって！",
-   "en": "",
+   "en": "I've heard there's a 'Legendary Hero' in the{n}human world.{p}They say he's so amazing, he could save the{n}whole world!",
    "term": "end"
   },
   {
    "id": "scen332.0028",
    "jp": "『伝説の勇者』って、{n}本当に世界のどこかにいると思う？",
-   "en": "",
+   "en": "Do you think the 'Legendary Hero' is really out there{n}somewhere in the world?",
    "term": "end"
   },
   {
    "id": "scen332.0029",
    "jp": "・いると思うよ",
-   "en": "",
+   "en": "・I think he is",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0030",
    "jp": "・俺がそうだ",
-   "en": "",
+   "en": "・That's me",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0031",
    "jp": "・いないと思う",
-   "en": "",
+   "en": "・I don't think he is",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0032",
    "jp": "ご主人様がそう言うなら、{n}本当にいるような気がするよ。{p}{FC00}アタシも、いつか会えるといいな。",
-   "en": "",
+   "en": "If you say so, Master, I feel like he really is out there.{p}{FC00}I hope I get to meet him someday too.",
    "term": "end"
   },
   {
    "id": "scen332.0033",
    "jp": "ええっ、ホントにぃ！？{n}だとしたら、アタシってラッキーじゃん！{p}{FC00}ならさ、その証拠に{n}ご主人様がこの世界を救ってみせてよ！{n}{FFFB}約束だからね！",
-   "en": "",
+   "en": "Whaaat, seriously?! Then I'm super lucky!{p}{FC00}Okay then, to prove it, go save this world, Master! {FFFB}It's{n}a promise, okay?!",
    "term": "end"
   },
   {
    "id": "scen332.0034",
    "jp": "えー、やっぱ言い伝えなのかなー？{n}{FC00}でもアタシ、それでも諦めないで{n}探し続けてみようと思うんだ。{n}{FFFB}だって、そうすれば‥‥{FE14}{FC05}くふふっ♪",
-   "en": "",
+   "en": "Aww, so it's just a legend after all? {FC00}But I'm not giving{n}up. I'm gonna keep on looking. {FFFB}'Cause if I do... {FE14}{FC05}Kufufu♪",
    "term": "end"
   },
   {
    "id": "scen332.0035",
    "jp": "ねぇねぇ、アタシのこの髪型って{n}ご主人様はどう思う？",
-   "en": "",
+   "en": "Hey, hey, what do you think of my hairstyle, Master?",
    "term": "end"
   },
   {
    "id": "scen332.0036",
    "jp": "自分では結構、気に入ってるんだ～★",
-   "en": "",
+   "en": "I kinda like it a lot myselfff",
    "term": "end"
   },
   {
    "id": "scen332.0037",
    "jp": "・似合ってて可愛いよ",
-   "en": "",
+   "en": "・It suits you, it's cute",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0038",
    "jp": "・いまいちかな",
-   "en": "",
+   "en": "・It's not great",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0039",
    "jp": "・当たったら痛そう",
-   "en": "",
+   "en": "・Looks like it'd hurt if it hit me",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0040",
    "jp": "でしょでしょ？{n}エヘへ、もっと誉めてくれていーよ。{p}{FC05}でも、やっぱり人から似合ってるって{n}言われると嬉しいね～。ありがと！",
-   "en": "",
+   "en": "Right? Right? Ehehe, you can praise me some more if{n}you want.{p}{FC05}But it really makes me happy when someone says it{n}suits meee. Thanks!",
    "term": "end"
   },
   {
    "id": "scen332.0041",
    "jp": "むか～、ちょっと酷くない？{n}{FFFB}こういう時は、{n}例えお世辞でも誉めなさいよね！",
-   "en": "",
+   "en": "Grrr, isn't that kinda harsh? {FFFB}At times like this, you're{n}supposed to compliment me, even if you're just{n}being nice!",
    "term": "end"
   },
   {
    "id": "scen332.0042",
    "jp": "ええーっ、何よソレ～！？{n}{FFFB}{FC02}つまり、アタシの髪が{n}ムチみたいだって言うこと？{p}そんなこと言うなら、{n}アタシの必殺技にしてやる～！{p}くらえっ！{n}コリン・ツインテール・アタック！{n}とりゃあ～！！",
-   "en": "",
+   "en": "Whaaat, what's THAT supposed to mean?! {FFFB}{FC02}So you're{n}saying my hair is like a whip?{p}If you're gonna say that, I'll make it my special move!{p}Take this! Colin Twin-Tail Attack! Hiyaaah!!",
    "term": "end"
   },
   {
    "id": "scen332.0043",
    "jp": "ねぇ、ちょっと聞いてよー！{p}前にアタシが気持ちよくご飯食べてたら、{n}ユリィが『食べ方が汚いですわよ』とか{n}言ってきたんだよー！{p}{FFF6}お腹空いてたから、ちょーっとだけ{n}がっついてただけじゃん！",
-   "en": "",
+   "en": "Hey, just listen to this!{p}The other day, I was happily eating my food, and Yurie{n}goes, 'You eat like a slob, you know'!{p}{FFF6}I was hungry, so I was just wolfing it down a{n}teeny bit!",
    "term": "end"
   },
   {
    "id": "scen332.0044",
    "jp": "ご飯くらい、好きずきに食べれば{n}いいと思わない？",
-   "en": "",
+   "en": "Don't you think people should be able to eat however{n}they like?",
    "term": "end"
   },
   {
    "id": "scen332.0045",
    "jp": "・コリンに賛成する",
-   "en": "",
+   "en": "・Side with Colin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0046",
    "jp": "・ユリィが正しい",
-   "en": "",
+   "en": "・Yurie is right",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0047",
    "jp": "・どっちの言い分も一理ある",
-   "en": "",
+   "en": "・They both have a point",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0048",
    "jp": "だよね、ご主人様もそう思うよね！{n}{FFFB}{FC00}やっぱ、アタシはアタシらしく{n}好きにいこーっと♪",
-   "en": "",
+   "en": "Right? You think so too, Master! {FFFB}{FC00}I'm gonna keep being{n}me and do what I like♪",
    "term": "end"
   },
   {
    "id": "scen332.0049",
    "jp": "えー、なんでよー！？{n}{FFFB}ご飯はさ、美味しく食べるのが{n}１番大事だと思うんだけどなぁ～。",
-   "en": "",
+   "en": "Huh, but whyyy?! {FFFB}I think the most important thing about{n}food is enjoying how yummy it iiis.",
    "term": "end"
   },
   {
    "id": "scen332.0050",
    "jp": "むぅー‥‥。{n}{FFFB}{FC03}{FFF6}まぁ、確かにアタシも女の子として{n}ちょっとはしたなかったかもね。{p}ユリィの言ってることも、{n}確かに間違いじゃないっかぁ～。{p}{FC05}それでも、やっぱご飯は美味しく食べるのが{n}１番だとは思うけどね～♪",
-   "en": "",
+   "en": "Mmmph... {FFFB}{FC03}{FFF6}Well, I guess I was a little unladylike for{n}a girl.{p}I suppose what Yurie said wasn't wrong eitherrr.{p}{FC05}But I still think enjoying your food is the most{n}important thiiing♪",
    "term": "end"
   },
   {
    "id": "scen332.0051",
    "jp": "そういえば最近、{n}ユリィが難しい料理作りに挑戦してる{n}みたいなんだよねー。{p}うかうかしてるとユリィに置いてかれちゃうから、{n}アタシも料理の勉強しよっかなーって{n}思ったんだけど‥‥。{p}{FC03}料理の本を開いたら、眠くなっちゃって‥‥。{n}やっぱアタシ、食べるほうが好きかも～。",
-   "en": "",
+   "en": "Y'know, lately Yurie seems to be trying her hand at{n}some difficult cooking.{p}If I don't watch out, Yurie'll leave me in the dust, so I{n}thought maybe I'd study cooking too, but...{p}{FC03}When I opened a cookbook, I got all sleepy... I guess I{n}like eating better after alll.",
    "term": "end"
   },
   {
    "id": "scen332.0052",
    "jp": "そういえば、ご主人様って{n}どんな食べ物が好きなんですか？",
-   "en": "",
+   "en": "By the way, Master, what kind of food do you like?",
    "term": "end"
   },
   {
    "id": "scen332.0053",
    "jp": "・洋食が好き",
-   "en": "",
+   "en": "・Western-style food",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0054",
    "jp": "・和食が好き",
-   "en": "",
+   "en": "・Eastern-style food",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0055",
    "jp": "・ジャンクフード",
-   "en": "",
+   "en": "・Junk food",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0056",
    "jp": "あっ！{n}アタシ、ハンバーグ作ったことあるよ！{p}{FC03}でも、アタシが作ったハンバーグを{n}食べた子の意識が遠のいちゃって‥‥。{n}自信作だったのに、あれはショックだったな～。",
-   "en": "",
+   "en": "Oh! I've made hamburger steak before!{p}{FC03}But the girl who ate the hamburger steak I made sort{n}of passed out... I was really proud of it, too, so that{n}was a shooock.",
    "term": "end"
   },
   {
    "id": "scen332.0057",
    "jp": "あ、それってユリィが挑戦してる料理だ！{p}{FC02}このままじゃ、ユリィに負けちゃうよ！{n}{FFFB}こうなったら、アタシも和食の勉強を{n}はじめよっかな‥‥。{p}{FC00}えーっと、和食って何を使うのかな？{n}チョコとか生クリームだっけ‥‥？",
-   "en": "",
+   "en": "Oh, that's the cooking Yurie's been trying!{p}{FC02}At this rate, I'm gonna lose to Yurie! {FFFB}Guess I'd better{n}start studying Eastern cooking too...{p}{FC00}Ummm, what do you use in Eastern cooking? Chocolate{n}and whipped cream, was it...?",
    "term": "end"
   },
   {
    "id": "scen332.0058",
    "jp": "あ、アタシもジャンクフード好きだよ！{n}手軽だし、おいしーよね！{p}{FC00}ユリィは栄養バランスがどーのとかって{n}うるさいけどさ、好きなものは好きなんだから{n}仕方ないじゃんって思うんだよねー。",
-   "en": "",
+   "en": "Oh, I like junk food too! It's easy, and it's soooo yummy!{p}{FC00}Yurie nags about nutritional balance and stuff, but if{n}you like something, you like it. Can't be helped, right?",
    "term": "end"
   },
   {
    "id": "scen332.0059",
    "jp": "アタシ、いつか妖精コンテストで{n}優勝することが目標なんだ～。{p}それで優勝してね、{n}みんなをアッと言わせてやるの！{p}{FC03}でも、妖精コンテストって{n}チェック項目がたくさんあって、{n}色々と難しいんだよね～‥‥。{p}中でも特に、学力テストが超難関でさー！{n}アタシの１番苦手な分野なんだよね～。",
-   "en": "",
+   "en": "My goal is to win the Fairy Contest somedaaay.{p}I'm gonna win it and knock everyone's socks off!{p}{FC03}But the Fairy Contest has tons of categories you get{n}judged on, so it's reeeally hard...{p}And the academic test is super tough! It's my{n}worst subjeeect.",
    "term": "end"
   },
   {
    "id": "scen332.0060",
    "jp": "あっ、ねぇねぇ！{n}今度、アタシに勉強を教えてよ！",
-   "en": "",
+   "en": "Oh, hey, hey! Next time, help me study!",
    "term": "end"
   },
   {
    "id": "scen332.0061",
    "jp": "・１時間１０００エルムで",
-   "en": "",
+   "en": "・1,000 Elm an hour",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0062",
    "jp": "・別に構わない",
-   "en": "",
+   "en": "・I don't mind",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0063",
    "jp": "・スパルタ授業でいくぞ",
-   "en": "",
+   "en": "・It'll be a strict lesson",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0064",
    "jp": "えええっ、お金とるのー！？{n}けちけち、ご主人様のけちー！{p}{FC00}いーもん、こうなったら{n}自力でなんとか頑張ってみるから！{n}{FFFB}{FFF6}‥‥自信ないけどさ‥‥。",
-   "en": "",
+   "en": "Whaaat, you're gonna charge me?! Stingy, stingy,{n}Master's a stingy meanie!{p}{FC00}Fine, then I'll just try and manage on my own! {FFFB}{FFF6}...Not{n}that I'm confident or anything...",
    "term": "end"
   },
   {
    "id": "scen332.0065",
    "jp": "やったぁ、ありがとう！{n}ご主人様、だーい好き{FFF0}♥{FFF1}{p}{FC00}アタシの苦手なところを{n}重点的に教えてもらおーっと♪{n}{FFFB}‥‥まぁ、ほぼ全部なんだけどね。",
-   "en": "",
+   "en": "Yaaay, thank you! Master, I looove you{FFF0}♥{FFF1}{p}{FC00}I'll have you focus on the stuff I'm bad at♪ {FFFB}...Well,{n}that's pretty much everything.",
    "term": "end"
   },
   {
    "id": "scen332.0066",
    "jp": "ひえー、スパルタなのぉ！？{p}{FC03}あうう‥‥。{n}アタシ、頼む人を間違えちゃったかも‥‥。",
-   "en": "",
+   "en": "Eeek, a strict lesson?!{p}{FC03}Awww... Maybe I asked the wrong person...",
    "term": "end"
   },
   {
    "id": "scen332.0067",
    "jp": "ねぇねぇ、{n}今日はご主人様にお願いがあるの！{p}アタシ、ど～～～しても{n}妖精コンテストで優勝したいんだ！{p}そのためにはどうすればいいのか、{n}ご主人様にアドバイスしてもらいたいんだ。{n}{FFFB}ねっ、いいでしょ！？",
-   "en": "",
+   "en": "Hey, hey, I've got a favor to ask you today, Master!{p}I reeeeally, really want to win the Fairy Contest!{p}So I want you to give me some advice on what I should{n}do, Master. {FFFB}Pleeease, okay?!",
    "term": "end"
   },
   {
    "id": "scen332.0068",
    "jp": "コリンにアドバイスをしますか？",
-   "en": "",
+   "en": "Will you give Colin advice?",
    "term": "end"
   },
   {
@@ -466,253 +466,253 @@
   {
    "id": "scen332.0071",
    "jp": "やった～、ありがとー♪{n}さっすがご主人様だね、太っ腹～！",
-   "en": "",
+   "en": "Yaaay, thanks♪ That's my Master, so generouuus!",
    "term": "end"
   },
   {
    "id": "scen332.0072",
    "jp": "えええ、なんでなんでー！？{n}いいじゃん、減るもんじゃないし～！{n}ちょっとでいいから、お願い～！",
-   "en": "",
+   "en": "Whaaat, why, why?! C'mon, it's not like it'll cost you{n}anythiiing! Just a little bit, pleeease!",
    "term": "end"
   },
   {
    "id": "scen332.0073",
    "jp": "妖精コンテストはね、{n}全部で４つの部門があるんだ。{p}『淑女コンテスト』に『芸術』でしょ、{n}あとはアタシの苦手な『学術』と、{n}『運動』だよ。{p}{FC05}それじゃよろしくね、ご主人様！",
-   "en": "",
+   "en": "The Fairy Contest has four categories in all.{p}There's the 'Lady Contest,' 'Art,' and then my worst{n}one, 'Academics,' plus 'Athletics.'{p}{FC05}Okay, I'm counting on you, Master!",
    "term": "end"
   },
   {
    "id": "scen332.0074",
    "jp": "{FC00}えっと、まずは『淑女コンテスト』{n}について質問させて！{p}{FC03}これは歌、ダンス、礼儀作法を競うんだけど、{n}中でも問題なのが礼儀作法なんだよね～。",
-   "en": "",
+   "en": "{FC00}Okay, first let me ask you about the 'Lady Contest'!{p}{FC03}It's a competition in singing, dancing and etiquette, and{n}the problem is the etiquette paaart.",
    "term": "end"
   },
   {
    "id": "scen332.0075",
    "jp": "礼儀作法って、{n}どんなことを心がければいいのかな？{n}アタシにも分かるように教えて！",
-   "en": "",
+   "en": "What should I keep in mind for etiquette? Explain it so{n}even I can understand!",
    "term": "end"
   },
   {
    "id": "scen332.0076",
    "jp": "・相手をもてなそうとすること",
-   "en": "",
+   "en": "・Try to make others feel welcome",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0077",
    "jp": "・自分の失態を見せないこと",
-   "en": "",
+   "en": "・Never let your blunders show",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0078",
    "jp": "・そんなもの適当で大丈夫だ",
-   "en": "",
+   "en": "・Just wing it, you'll be fine",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0079",
    "jp": "相手をもてなすこと‥‥！？{p}{FC00}そっかぁ、自分のことよりも、{n}相手のことを考えるが大事なんだね～。",
-   "en": "",
+   "en": "Making others feel welcome...?!{p}{FC00}I seee, so the important thing is to think about the{n}other person more than yourself.",
    "term": "end"
   },
   {
    "id": "scen332.0080",
    "jp": "うっ‥‥。{n}{FFFB}それって、ボロ見せないように{n}ずっと緊張してなきゃダメってこと！？{p}{FFF6}どーしよー、なんだかかえって{n}ボロ連発しちゃいそうで怖いよ～‥‥。",
-   "en": "",
+   "en": "Ugh... {FFFB}So you mean I've gotta stay tense the whole time{n}so I don't slip up?!{p}{FFF6}What do I dooo? I'm scared I'll just end up slipping up{n}over and over insteaaad...",
    "term": "end"
   },
   {
    "id": "scen332.0081",
    "jp": "えっ、適当でいいの！？{p}{FC05}なーんだ、礼儀作法ってラクチンなんだね～♪{n}もっと難しいのかなって思ってたけど、{n}これならアタシでも大丈夫だね。にひひっ。",
-   "en": "",
+   "en": "Huh, I can just wing it?!{p}{FC05}Pfft, so etiquette's a piece of cake after all♪ I{n}thought it'd be way harder, but if that's all, even I can{n}manage. Nihihi.",
    "term": "end"
   },
   {
    "id": "scen332.0082",
    "jp": "それじゃ、次は芸術について質問ね！{n}良い絵って、どうすれば描けるのかな？",
-   "en": "",
+   "en": "Okay, next is my question about Art! How do you draw a{n}good picture?",
    "term": "end"
   },
   {
    "id": "scen332.0083",
    "jp": "・ひたすら丁寧に描く",
-   "en": "",
+   "en": "・Draw with painstaking care",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0084",
    "jp": "・芸術を爆発させろ！",
-   "en": "",
+   "en": "・Let your art explode!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0085",
    "jp": "・感じたままに描けばいい",
-   "en": "",
+   "en": "・Just draw what you feel",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0086",
    "jp": "ふ～ん、なるほど～。{n}丁寧に描いてれば、見れる絵にはなるかな？{p}{FC03}でもアタシ、細かい作業とか苦手なんだよね。{n}う～、なんだかイライラしてきちゃいそう‥‥！",
-   "en": "",
+   "en": "Hmmm, I see. If I draw carefully, I guess it'll at least{n}be worth looking at?{p}{FC03}But I'm awful at fiddly work. Ugh, I can feel myself{n}getting all irritated already...!",
    "term": "end"
   },
   {
    "id": "scen332.0087",
    "jp": "芸術を、爆発させる‥‥！？{p}{FC00}よく分からないけど、{n}思うがままに爆発させればいいのね？{n}{FFFB}{FC05}うん、それならアタシでも出来そうだよ～♪",
-   "en": "",
+   "en": "Let my art... explode...?!{p}{FC00}I don't really get it, but I just blow it up however I{n}want, right? {FFFB}{FC05}Yeah, even I can do thaaat♪",
    "term": "end"
   },
   {
    "id": "scen332.0088",
    "jp": "感じたままに描く‥‥？{p}{FC00}そっか‥‥。{n}１番大切なのは、絵に込めたアタシの気持ちが{n}見る人に伝わるかどうかだよね‥‥。{p}{FC05}ご主人様が言ってくれなかったら、{n}大事なこと忘れるとこだったよ！{n}ありがとうね！",
-   "en": "",
+   "en": "Draw what I feel...?{p}{FC00}I see... The most important thing is whether the{n}feelings I put into a picture reach the people who look{n}at it...{p}{FC05}If you hadn't said that, Master, I'd have forgotten{n}something really important! Thanks a bunch!",
    "term": "end"
   },
   {
    "id": "scen332.0089",
    "jp": "次は、アタシの大っ嫌いな{n}学術についてだけど‥‥。{n}これって、どうすれば好きになれるの？",
-   "en": "",
+   "en": "Next up is Academics, which I absolutely hate... How do{n}I make myself like it?",
    "term": "end"
   },
   {
    "id": "scen332.0090",
    "jp": "・我慢するしかない",
-   "en": "",
+   "en": "・You just have to grit your teeth",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0091",
    "jp": "・勉強を楽しめ",
-   "en": "",
+   "en": "・Learn to enjoy studying",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0092",
    "jp": "・やってれば自然と慣れる",
-   "en": "",
+   "en": "・You'll get used to it naturally",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0093",
    "jp": "うう～、そんな～‥‥。{n}{FFFB}{FFF6}我慢して勉強しなきゃダメだなんて、{n}ますます嫌いになっちゃうよ～。",
-   "en": "",
+   "en": "Ugh, no waaay... {FFFB}{FFF6}If I have to force myself to study, I'll{n}just hate it even mooore.",
    "term": "end"
   },
   {
    "id": "scen332.0094",
    "jp": "えっ、勉強を楽しむの！？{n}そんなの、今まで考えたこともなかったよ。{p}{FC00}でも、勉強も楽しいものだって思えたら{n}苦手意識もきっとなくなるよね‥‥？{p}{FC05}これからは、もっと気楽に勉強に{n}取り組んでみることにするね！",
-   "en": "",
+   "en": "Huh, enjoy studying?! I never even thought of{n}that before.{p}{FC00}But if I could think of studying as something fun, I bet{n}I wouldn't feel so bad at it anymore...?{p}{FC05}From now on, I'll try to take it easier when I study!",
    "term": "end"
   },
   {
    "id": "scen332.0095",
    "jp": "え～、そうなのかな～？{p}{FFF6}でも慣れる前に、勉強が嫌で{n}放棄しちゃうと思うんだよね‥‥ううう。",
-   "en": "",
+   "en": "Eh, is that really how it works?{p}{FFF6}I think I'd get sick of studying and give up before I{n}ever got used to it... Ugh.",
    "term": "end"
   },
   {
    "id": "scen332.0096",
    "jp": "最後は、運動についての質問ね！{p}運動部門では『アクロバティック飛行』の{n}得点を競うんだけど、どーしても{n}良い点が取れないんだよね～‥‥。{p}{FC03}スピードや瞬発力、持久力なんかは{n}他の妖精にも負けない自信があるのにさ‥‥。{n}{FFFB}{FFF6}はあ～、何がいけないんだろ？",
-   "en": "",
+   "en": "Last up is my question about Athletics!{p}In Athletics we compete for points in 'Acrobatic Flight',{n}but no matter what I do, I just can't get a{n}good score...{p}{FC03}I'm sure I can beat any other fairy at speed, quick{n}reflexes, or stamina... {FFFB}{FFF6}Haaah, what am I doing wrong?",
    "term": "end"
   },
   {
    "id": "scen332.0097",
    "jp": "アクロバティック飛行を{n}上手くこなすコツって、何かあるのかな？",
-   "en": "",
+   "en": "Is there some trick to pulling off acrobatic flight well?",
    "term": "end"
   },
   {
    "id": "scen332.0098",
    "jp": "・軌道をよく見ること",
-   "en": "",
+   "en": "・Look closely at your flight path",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0099",
    "jp": "・客観的な視点が必要",
-   "en": "",
+   "en": "・You need an outside perspective",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0100",
    "jp": "・特訓あるのみ",
-   "en": "",
+   "en": "・Nothing but hard training",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0101",
    "jp": "心でイメージするの？{n}アタシが飛んでる姿を‥‥？{p}{FC00}{FFF6}‥‥{FE0A}‥‥{FE0A}‥‥{FE0A}‥‥。{p}{FC03}{FFF7}う～ん‥‥。{n}やってみたけど、いまいちイメージが{n}つかみづらいかも～‥‥。",
-   "en": "",
+   "en": "Picture it in my mind? Me, flying around...?{p}{FC00}{FFF6}...{FE0A}...{FE0A}...{FE0A}...{p}{FC03}{FFF7}Hmmm... I tried, but it's kinda hard to picture...",
    "term": "end"
   },
   {
    "id": "scen332.0102",
    "jp": "えっ、客観的な視点‥‥？{p}{FC03}{FFF6}そう言われてみれば、{n}アタシって今まで飛ぶことに夢中で{n}自分がどう飛んでるか考えてなかったかも‥‥。{p}{FC05}でも次からは、周りから見たアタシの姿を{n}考えて飛んでみるね！",
-   "en": "",
+   "en": "Huh, an outside perspective...?{p}{FC03}{FFF6}Now that you mention it, I've always been so wrapped{n}up in flying that I never thought about how I actually{n}look when I fly...{p}{FC05}But next time, I'll fly while thinking about how I look to{n}everyone watching!",
    "term": "end"
   },
   {
    "id": "scen332.0103",
    "jp": "やっぱ、特訓するしかないかな～。{n}{FFFB}{FFF6}でもアタシ、何回やってもダメなんだよね。{n}あ～、何がいけないんだろ‥‥？",
-   "en": "",
+   "en": "Yeah, I guess hard training's the only way. {FFFB}{FFF6}But no{n}matter how many times I try, I just can't do it. Ugh,{n}what am I doing wrong...?",
    "term": "end"
   },
   {
    "id": "scen332.0104",
    "jp": "これで、アタシからの質問は終わりだよ！{n}答えてくれて、どうもありがとうね。",
-   "en": "",
+   "en": "And that's the end of my questions! Thanks a lot for{n}answering them.",
    "term": "end"
   },
   {
    "id": "scen332.0105",
    "jp": "ご主人様のアドバイス、{n}すっごく参考になったよ～！{p}{FC05}なんか、頑張ればアタシでも{n}妖精コンテストで優勝できるような{n}気がしてきた♪{p}これも、ご主人様のおかげだね！{n}これはアタシからのお礼だよ、受け取って！",
-   "en": "",
+   "en": "Your advice was suuuper helpful, Master!{p}{FC05}Somehow I'm starting to feel like, if I try hard, even I{n}could win the Fairy Contest♪{p}And it's all thanks to you, Master! This is my thank-you{n}present, so take it!",
    "term": "end"
   },
   {
    "id": "scen332.0106",
    "jp": "　{n}　力のリンゴはいっぱいで、受け取れなかった。",
-   "en": "",
+   "en": "　{n}　You couldn't carry any more Power Apples, so you{n}couldn't accept it.",
    "term": "end"
   },
   {
    "id": "scen332.0107",
    "jp": "‥‥あれ！？{n}{FFFB}力のリンゴ、いっぱい持ってたんだね。{n}ご主人様にお礼をしたかったのに、残念だな‥‥。",
-   "en": "",
+   "en": "...Huh?! {FFFB}You already have a ton of Power Apples. I{n}wanted to thank you, Master... What a shame...",
    "term": "end"
   },
   {
    "id": "scen332.0108",
    "jp": "　{n}　　　　{FFEF}力のリンゴ{FFF1}をプレゼントされた！",
-   "en": "",
+   "en": "　{n}　　　　You were given a {FFEF}Power Apple{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen332.0109",
    "jp": "正直、まだ妖精コンテストで{n}優勝出来る自信はないけど‥‥。{p}{FC05}でも、ご主人様がアタシのために{n}わざわざアドバイスくれたんだもん！{n}アタシ、頑張ってみるね！",
-   "en": "",
+   "en": "Honestly, I'm still not confident I can win the{n}Fairy Contest...{p}{FC05}But you went out of your way to give me advice,{n}Master! So I'm gonna give it my all!",
    "term": "end"
   },
   {
    "id": "scen332.0110",
    "jp": "アタシが妖精コンテストで優勝したい{n}理由はね、周りのみんなをアッと言わせて{n}やりたいっていう理由からだったんだ。{p}{FFF6}‥‥でも、今はそれだけじゃないよ。{n}{FFFB}{FFF7}こんなアタシでもさ、頑張ればきっと{n}誰かの役に立てるようになるよね？{p}{FC05}だからね、アタシもっと修行を積んで、{n}パワーアップしてくるって決めたんだ！{p}{FC00}だから、しばらくお別れだね‥‥ご主人様。",
-   "en": "",
+   "en": "The reason I wanted to win the Fairy Contest was so{n}I could make everyone's jaws drop.{p}{FFF6}...But that's not the only reason anymore. {FFFB}{FFF7}Even someone{n}like me can become useful to somebody if I try{n}hard, right?{p}{FC05}So, I've decided to train a whole lot more and come back{n}powered up!{p}{FC00}So I guess this is goodbye for a while... Master.",
    "term": "end"
   },
   {
@@ -725,33 +725,33 @@
   {
    "id": "scen332.0112",
    "jp": "・コリンなら出来ると信じてる",
-   "en": "",
+   "en": "・I believe you can do it, Colin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0113",
    "jp": "・行かないでくれ",
-   "en": "",
+   "en": "・Please don't go",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen332.0114",
    "jp": "うん‥‥。{n}ありがと、ご主人様。{n}{FFFB}そう言ってくれて、すごく嬉しいよ。",
-   "en": "",
+   "en": "Yeah... Thanks, Master. {FFFB}I'm really happy you said that.",
    "term": "end"
   },
   {
    "id": "scen332.0115",
    "jp": "も～、そんなこと言うなんて{n}ご主人様らしくないなぁ！{n}ここは、笑顔で送り出してよね！{p}{FC03}そうしてくれないと、{n}アタシまで寂しくなっちゃうじゃん‥‥。",
-   "en": "",
+   "en": "Geez, saying something like that isn't like you, Master!{n}You're supposed to send me off with a smile!{p}{FC03}If you don't, I'm gonna get lonely too...",
    "term": "end"
   },
   {
    "id": "scen332.0116",
    "jp": "ご主人様と過ごした時間、{n}本当の本当に楽しかったよ！{n}アタシ、絶対に忘れないからね！{p}だからご主人様も、{n}アタシのこと忘れちゃダメだよ？{p}もし忘れそーになっちゃってたら、{n}アタシがご主人様の夢の中に出て{n}怒りまくるからね！{p}{FC00}それじゃあ、いつかまたどこかで{n}絶対に会おうね。{n}{FFFB}{FC05}ご主人様、バイバイ‥‥！",
-   "en": "",
+   "en": "The time I spent with you was really, truly fun, Master!{n}I'll never forget it!{p}So don't you forget me either, Master, okay?{p}If it ever looks like you're forgetting, I'll show up in{n}your dreams and yell at you like crazy!{p}{FC00}Well then, we'll definitely meet again someday,{n}somewhere. {FFFB}{FC05}Bye-bye, Master...!",
    "term": "end"
   }
  ]

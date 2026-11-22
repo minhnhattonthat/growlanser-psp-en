@@ -15,87 +15,87 @@
   {
    "id": "scen325.0001",
    "jp": "{v:006E}あ、やぁ‥‥！{n}待っていたよ！",
-   "en": "",
+   "en": "{v:006E}Ah, hey...! I've been waiting for you!",
    "term": "end"
   },
   {
    "id": "scen325.0002",
    "jp": "{v:006F}どうしたの、アメリアさん？{n}待っていたって‥‥ナニ‥‥？",
-   "en": "",
+   "en": "{v:006F}What's up, Amelia-san? Waiting for us... for what...?",
    "term": "end"
   },
   {
    "id": "scen325.0003",
    "jp": "{v:0070}あ、いや、その‥‥オホン‥‥。{p}{v:0071}実はちょっと困ったことがあってさ‥‥。{n}キミに相談したいと思っていたんだ。",
-   "en": "",
+   "en": "{v:0070}Ah, no, well... ahem...{p}{v:0071}Truth is, I've got a bit of a problem... I wanted to talk{n}it over with you.",
    "term": "end"
   },
   {
    "id": "scen325.0004",
    "jp": "{v:0072}困ったことぉ？{n}それって、コイツで解決できることなの？",
-   "en": "",
+   "en": "{v:0072}A problemmm? Something this guy can solve?",
    "term": "end"
   },
   {
    "id": "scen325.0005",
    "jp": "{v:0073}大丈夫、バッチリ！{n}{FC06}‥‥というか、キミじゃなきゃ、ダメ！",
-   "en": "",
+   "en": "{v:0073}Don't worry, he's perfect!{FC06} ...Actually, it HAS to be you!",
    "term": "end"
   },
   {
    "id": "scen325.0006",
    "jp": "{v:0074}なんか怪しいなぁ‥‥。",
-   "en": "",
+   "en": "{v:0074}Something smells fishy...",
    "term": "end"
   },
   {
    "id": "scen325.0007",
    "jp": "{v:0075}そ、そんなことないって！{n}絶対おかしくないから！",
-   "en": "",
+   "en": "{v:0075}N-no, not at all! There's absolutely nothing weird{n}about it!",
    "term": "end"
   },
   {
    "id": "scen325.0008",
    "jp": "{v:0076}ふぅ～ん‥‥。{n}それじゃ、何なの？",
-   "en": "",
+   "en": "{v:0076}Hmmm... So what is it, then?",
    "term": "end"
   },
   {
    "id": "scen325.0009",
    "jp": "{v:0077}あのね、子猫を拾ったんだけど‥‥、{n}どうも元気がないの。{p}{v:0078}子猫を元気にしてあげるのに、{n}何をしてみたらいいと思う？",
-   "en": "",
+   "en": "{v:0077}Well, I found a kitten, but... it seems so listless.{p}{v:0078}What do you think I should try to cheer the kitten up?",
    "term": "end"
   },
   {
    "id": "scen325.0010",
    "jp": "{v:0079}そんなのコイツに聞くより、{n}調べた方がはやいんじゃないの？",
-   "en": "",
+   "en": "{v:0079}Wouldn't it be faster to look it up than to ask{n}this guy?",
    "term": "end"
   },
   {
    "id": "scen325.0011",
    "jp": "{v:007A}いいの！{n}とにかく答えて！",
-   "en": "",
+   "en": "{v:007A}Never mind that! Just answer!",
    "term": "end"
   },
   {
    "id": "scen325.0012",
    "jp": "・食べ物をあげてみる",
-   "en": "",
+   "en": "・Try giving it food",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0013",
    "jp": "・外で一緒に遊ぶ",
-   "en": "",
+   "en": "・Play with it outside",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0014",
    "jp": "・励まし続ける",
-   "en": "",
+   "en": "・Keep encouraging it",
    "term": "end",
    "unref": true
   },
@@ -110,148 +110,148 @@
   {
    "id": "scen325.0016",
    "jp": "{v:007B}ふむふむ‥‥、食べ物をあげる、と‥‥。",
-   "en": "",
+   "en": "{v:007B}I see, I see... Give it food, hm...",
    "term": "end"
   },
   {
    "id": "scen325.0017",
    "jp": "{v:007C}ちゃっかり者な君の好みのタイプは、ズバリ！{n}気前のいい子だね！？",
-   "en": "",
+   "en": "{v:007C}You're the shrewd type, so your type of girl is... bingo!{n}A generous girl, right?!",
    "term": "end"
   },
   {
    "id": "scen325.0018",
    "jp": "{v:007D}ふむふむ‥‥、外で一緒に遊ぶ、と‥‥。",
-   "en": "",
+   "en": "{v:007D}I see, I see... Play with it outside, hm...",
    "term": "end"
   },
   {
    "id": "scen325.0019",
    "jp": "{v:007E}さわやかな君の好みのタイプは、ズバリ！{n}行動的で元気な子だね！？",
-   "en": "",
+   "en": "{v:007E}You're the refreshing type, so your type of girl is...{n}bingo! An active, energetic girl, right?!",
    "term": "end"
   },
   {
    "id": "scen325.0020",
    "jp": "{v:007F}ふむふむ‥‥、励まし続ける、と‥‥。",
-   "en": "",
+   "en": "{v:007F}I see, I see... Keep encouraging it, hm...",
    "term": "end"
   },
   {
    "id": "scen325.0021",
    "jp": "{v:0080}元気のいい君の好みのタイプは、ズバリ！{n}内気で優しい子だね！？",
-   "en": "",
+   "en": "{v:0080}You're the lively type, so your type of girl is... bingo! A{n}shy, gentle girl, right?!",
    "term": "end"
   },
   {
    "id": "scen325.0022",
    "jp": "{v:0081}えぇー、そういわれると判断できないじゃない。{n}もう一度、ちゃんと考えて！",
-   "en": "",
+   "en": "{v:0081}Aww, if you say that, I can't judge anything. Think it{n}over properly one more time!",
    "term": "end"
   },
   {
    "id": "scen325.0023",
    "jp": "{v:0082}ちょちょ、ちょっと！{n}それナニよ、好みのタイプぅ！？{n}子猫はどうなったのよ？",
-   "en": "",
+   "en": "{v:0082}Wh-wh-wait a sec! What's this about his \"type\"?! What{n}happened to the kitten?",
    "term": "end"
   },
   {
    "id": "scen325.0024",
    "jp": "{FB00}{v:0083}あー、あはははは‥‥。{n}ごめんね、ウソついて。{FFFA}{p}{v:0084}実は心理学の本をちょっと読んだときに、{n}面白そうな心理テストが載ってたんで、つい、ね。",
-   "en": "",
+   "en": "{FB00}{v:0083}Ah, ahahaha... Sorry for fibbing.{FFFA}{p}{v:0084}Actually, I was reading a psychology book and there{n}was this fun-looking personality test in it, so I{n}couldn't resist.",
    "term": "end"
   },
   {
    "id": "scen325.0025",
    "jp": "{v:0085}へ～、心理テスト‥‥。{n}あんなので好みがわかるなんて、面白いね！",
-   "en": "",
+   "en": "{v:0085}Huh, a personality test... Funny that a thing like that{n}can tell you someone's type!",
    "term": "end"
   },
   {
    "id": "scen325.0026",
    "jp": "・時間のムダだ",
-   "en": "",
+   "en": "・What a waste of time",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0027",
    "jp": "・楽しかったよ",
-   "en": "",
+   "en": "・That was fun",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0028",
    "jp": "・元気のない子猫がウソでよかった",
-   "en": "",
+   "en": "・Glad the sick kitten was a lie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0029",
    "jp": "{v:0086}あ、ごめんなさい‥‥。{n}もう、やめるね。",
-   "en": "",
+   "en": "{v:0086}Oh, I'm sorry... I'll stop now.",
    "term": "end"
   },
   {
    "id": "scen325.0030",
    "jp": "{v:0087}どういたしまして。{n}私も楽しかったよ。",
-   "en": "",
+   "en": "{v:0087}You're welcome. I had fun too.",
    "term": "end"
   },
   {
    "id": "scen325.0031",
    "jp": "{v:0088}今度はアタシもやらせてね！",
-   "en": "",
+   "en": "{v:0088}Next time, let me have a go too!",
    "term": "end"
   },
   {
    "id": "scen325.0032",
    "jp": "‥‥{v:0089}え‥‥、その‥‥。{n}キミって優しいんだね‥‥。{p}{FC05}{v:008A}ごめんね、時間取らせて。",
-   "en": "",
+   "en": "...{v:0089}Oh... um... You're really kind, aren't you...{p}{FC05}{v:008A}Sorry for taking up your time.",
    "term": "end"
   },
   {
    "id": "scen325.0033",
    "jp": "あ、アメリアさんだ。{n}なにか熱心に読みふけってるけど‥‥研究書かな？",
-   "en": "",
+   "en": "Oh, it's Amelia-san. She's totally absorbed in reading{n}something... A research book?",
    "term": "end"
   },
   {
    "id": "scen325.0034",
    "jp": "傾向は分かったけど、{n}その後の対策はどうすればいいのかしら‥‥。{n}{FFFB}{FFF6}はぁ～‥‥、こういうのって苦手なのよね。",
-   "en": "",
+   "en": "I know the tendency now, but what should I do about{n}it next...?{FFFB}{FFF6} Haaah... I'm no good at this kind of thing.",
    "term": "end"
   },
   {
    "id": "scen325.0035",
    "jp": "何のこと言ってるんだろ？",
-   "en": "",
+   "en": "What's she talking about?",
    "term": "end"
   },
   {
    "id": "scen325.0036",
    "jp": "{FFF6}好きなタイプは【気前のいい子】かぁ。{n}{FFFB}‥‥うーん、プレゼントとか用意してみようかしら？{p}{FFF7}{FC03}でもプレゼントっていっても、{n}何がいいか悩むわね‥‥。{p}{FC02}直接、欲しいものを聞いちゃえば確実だけど‥‥。{n}そんなことしたら、この計画がバレちゃうよね。{n}{FFFB}やっぱり、いきなり渡して驚かせたいし！{p}{FC00}‥‥そうだ！{n}{FFFB}ゲヴェル波動の指輪を、彼専用にデザインし直して、{n}プレゼントするのはどうかしら？{p}{FFF6}{FC02}いくら生命維持のための指輪と言っても、{n}自分に合ったデザインの方がうれしいはずだし！{p}{FFF7}彼のトレードマークといえば、{n}着くずした赤いジャケットよね。{n}それに似合うモチーフを考えなくちゃ‥‥。{p}{FFF6}{FC00}えーと、赤といえばトマトにリンゴ‥‥？{n}{FFFB}ダメダメ、ちょっと子供っぽすぎるわね。{n}あとは‥‥‥‥。{p}{FFF7}{FC02}あっ、バラとか素敵かも！{n}うん、これしかないわ！{p}{FC04}ついでに、お揃いでバラのネックレスも作って{n}プレゼントしちゃおうかな？{n}{FFFB}{FFF6}{FC04}ふふっ、我ながらナイスアイデアよね。{p}{FC02}そうと決まったら、さっそく準備開始よ！！",
-   "en": "",
+   "en": "{FFF6}So his type is 'a generous girl'...{FFFB} Hmm, maybe I should{n}try preparing a present?{p}{FFF7}{FC03}But even if it's a present, it's hard to decide what{n}to give...{p}{FC02}If I just asked him what he wants, I'd know for sure...{n}but that would give the plan away.{FFFB} Besides, I want to{n}surprise him by handing it over out of the blue!{p}{FC00}...I know!{FFFB} What if I redesign the Gevel-wave ring{n}especially for him and give him that?{p}{FFF6}{FC02}It may be a ring to keep him alive, but he'd surely be{n}happier with a design that suits him!{p}{FFF7}His trademark is that loosely worn red jacket. I have to{n}come up with a motif that goes with it...{p}{FFF6}{FC00}Let's see, red... tomatoes, apples...?{FFFB} No, no, that's way{n}too childish. What else...{p}{FFF7}{FC02}Oh, roses might be lovely! Yes, that's the one!{p}{FC04}And while I'm at it, maybe I'll make a matching rose{n}necklace and give him that too?{FFFB}{FFF6}{FC04} Heehee, what a nice{n}idea, if I do say so myself.{p}{FC02}Now that it's decided, time to start getting ready!!",
    "term": "end"
   },
   {
    "id": "scen325.0037",
    "jp": "{FFF6}好きなタイプは【行動的で元気な子】かぁ。{n}{FFFB}{FFF6}{FC05}よかった‥‥これを選んでくれて‥‥。{p}{FFF6}{FC03}もし内気な子がタイプだったりしたら、{n}ちょっと落ち込んじゃってたかも‥‥。{p}{FC01}自分で言うのもなんだけど、{n}私って結構、元気なタイプだと思うのよね。{p}{FC02}ずーっと水晶の中にいたけど、{n}今だってピンピンしてるし！{p}{FC01}‥‥これはちょっと違うか‥はは‥‥。{p}{FFF6}{FC02}でも、これで安心してられないわよね。{n}もっと努力して、元気さをアピールしなきゃ！{n}例えば‥‥えーと‥‥。{p}{FFFB}{FFF7}あっ、そうだ！{n}強烈な栄養剤を作って、毎日飲み続けるとか？{n}そうすれば、元気ハツラツよね！{p}{FC03}けどそれじゃ、私の体がムキムキに{n}なっちゃうじゃない！{n}{FFFB}うう、それはさすがにイヤだし‥‥。{p}{FFF6}‥‥って、あれ？？？{n}なんか、根本が間違ってるような気が‥‥。",
-   "en": "",
+   "en": "{FFF6}So his type is 'an active, energetic girl'...{FFFB}{FFF6}{FC05} Thank{n}goodness... he picked that one...{p}{FFF6}{FC03}If his type had been a shy girl, I might have been a{n}little crushed...{p}{FC01}It's a bit odd to say it myself, but I think I'm a pretty{n}energetic type.{p}{FC02}I was inside a crystal for ages, and I'm still fit as{n}a fiddle!{p}{FC01}...That's not quite the same thing, is it... haha...{p}{FFF6}{FC02}But I can't rest easy just yet. I have to work harder{n}and show off how energetic I am! For example... um...{p}{FFFB}{FFF7}Oh, I know! I could make a super-strong tonic and drink{n}it every day! Then I'd be bursting with energy!{p}{FC03}But then I'd end up all buff and muscly!{FFFB} Ugh, I really{n}don't want that...{p}{FFF6}...Wait, huh??? I feel like I've got the whole thing{n}wrong somehow...",
    "term": "end"
   },
   {
    "id": "scen325.0038",
    "jp": "{FFF6}好きなタイプは【内気で優しい子】かぁ。{n}{FFFB}控えめで、思わず守ってあげたくなる感じかしら？{p}{FFF6}{FC03}うう、私とは違うタイプね。{n}なんだかちょっと、落ち込むなぁ‥‥。{p}{FFF7}{FC02}で、でも、タイプから離れてるなら、{n}近づけばいいだけの話よ！{p}{FFF7}とりあえず口数を少なくしてみるとか、{n}か弱そうにしてみるとか、{n}{FFFB}あとは、えーと‥‥えーと‥‥‥‥。{p}{FFF6}‥‥‥はぁ。{n}{FFFB}やっぱり、そんなの私じゃないわね。{n}それに、無理して作ったキャラなんて意味ないし。{p}{FFF7}{FC02}よーし、ありのままの私で勝負していくわ！",
-   "en": "",
+   "en": "{FFF6}So his type is 'a shy, gentle girl'...{FFFB} Someone modest, the{n}kind you can't help wanting to protect?{p}{FFF6}{FC03}Ugh, that's not my type at all. That's a{n}little depressing...{p}{FFF7}{FC02}B-but if I'm far from his type, I just have to get{n}closer to it!{p}{FFF7}For starters, I could try talking less, or acting{n}delicate,{FFFB} and, um... um...{p}{FFF6}...Haah.{FFFB} That's just not me, is it? Besides, there's no{n}point in a forced, made-up character.{p}{FFF7}{FC02}All right, I'll win him over just as I am!",
    "term": "end"
   },
   {
    "id": "scen325.0039",
    "jp": "ねぇ、アメリアさんってさ‥‥。{n}{FFFB}もしかしなくても、アンタに気があるんじゃない？",
-   "en": "",
+   "en": "Hey, about Amelia-san...{FFFB} There's no \"maybe\" about it,{n}she's got a thing for you, right?",
    "term": "end"
   },
   {
@@ -264,58 +264,58 @@
   {
    "id": "scen325.0041",
    "jp": "・気のせいだ",
-   "en": "",
+   "en": "・You're imagining it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0042",
    "jp": "・そうだと嬉しい",
-   "en": "",
+   "en": "・I'd be glad if she did",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0043",
    "jp": "・どうでもいい",
-   "en": "",
+   "en": "・Who cares",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0044",
    "jp": "ええーっ？{n}私には、アメリアさんがアンタのために{n}悩んでるようにしか見えないけどなぁ～。",
-   "en": "",
+   "en": "Whaaat? To me, it looks like Amelia-san's agonizing over{n}you, plain as day!",
    "term": "end"
   },
   {
    "id": "scen325.0045",
    "jp": "それなら、アメリアさんがアンタのために{n}努力してるってこと、気に留めておきなさいよね？",
-   "en": "",
+   "en": "Then you'd better keep in mind that Amelia-san's{n}working hard for your sake, got it?",
    "term": "end"
   },
   {
    "id": "scen325.0046",
    "jp": "はー、アンタって冷たい男ね。{n}乙女心ってやつが分からないのかしら？",
-   "en": "",
+   "en": "Sheesh, you're a cold one. Don't you understand a{n}maiden's heart at all?",
    "term": "end"
   },
   {
    "id": "scen325.0047",
    "jp": "‥‥アメリアさん、本に熱中してるみたいだし、{n}そっとしておきましょ。",
-   "en": "",
+   "en": "...Amelia-san seems absorbed in her book. Let's leave{n}her be.",
    "term": "end"
   },
   {
    "id": "scen325.0048",
    "jp": "私、こう見えても料理とか得意なのよ？",
-   "en": "",
+   "en": "I may not look it, but I'm actually good at cooking,{n}you know?",
    "term": "end"
   },
   {
    "id": "scen325.0049",
    "jp": "{FFF6}だけど、フラスコとか試験管を使って{n}調理してたら、メルフィに嫌がられたのよね。{n}{FFFB}なんでかしら‥‥？",
-   "en": "",
+   "en": "{FFF6}But when I cooked with flasks and test tubes, Melfie{n}didn't like it one bit.{FFFB} I wonder why...?",
    "term": "end"
   },
   {
@@ -328,106 +328,106 @@
   {
    "id": "scen325.0051",
    "jp": "どうしたのアメリアさん？{n}そんな悲しそうな顔して？",
-   "en": "",
+   "en": "What's wrong, Amelia-san? Why the sad face?",
    "term": "end"
   },
   {
    "id": "scen325.0052",
    "jp": "べ、別に悲しくなんてないわよ！{p}今から学院長室に行こうと思ってただけで、{n}何も悲しいことなんてないわ！",
-   "en": "",
+   "en": "I-I'm not sad or anything!{p}I was just about to head to the Headmaster's Office,{n}that's all. Nothing sad about it!",
    "term": "end"
   },
   {
    "id": "scen325.0053",
    "jp": "あ、分かった！{n}どうしても、そこにたどり着けないんでしょ！？",
-   "en": "",
+   "en": "Oh, I get it! You just can't find your way there,{n}can you?!",
    "term": "end"
   },
   {
    "id": "scen325.0054",
    "jp": "‥‥うっ‥‥。{n}{FFFB}そ、そんなハズないわよ！{p}{FFF6}そ、そりゃあ、{n}ちょーっっっと遠回りしてるみたいだけど‥‥{n}{FFFB}{FFF7}学院長室が７Ｆにあることは確認済みなのよ！",
-   "en": "",
+   "en": "...Ugh...{FFFB} Th-that's not it at all!{p}{FFF6}W-well, maybe I've been taking a teeeensy bit of a{n}detour...{FFFB}{FFF7} but I've confirmed the Headmaster's Office is{n}on 7F!",
    "term": "end"
   },
   {
    "id": "scen325.0055",
    "jp": "それとも、私の情報に間違いでもあると思うの！？",
-   "en": "",
+   "en": "Or do you think my information is wrong?!",
    "term": "end"
   },
   {
    "id": "scen325.0056",
    "jp": "・間違ってない",
-   "en": "",
+   "en": "・It's not wrong",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0057",
    "jp": "・違う、学院長室は６Ｆだ",
-   "en": "",
+   "en": "・No, the office is on 6F",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0058",
    "jp": "・違う、学院長室はＢ１００Ｆだ",
-   "en": "",
+   "en": "・No, the office is on B100F",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0059",
    "jp": "やっぱりそうよね！{n}ほら、私の記憶は正しいのよ！{p}というわけで、私は学院長室に用事があるから{n}これで失礼するわね！",
-   "en": "",
+   "en": "I knew it! See, my memory is correct!{p}And so, I have business at the Headmaster's Office, so{n}if you'll excuse me!",
    "term": "end"
   },
   {
    "id": "scen325.0060",
    "jp": "たどり着ける気がしないのは、{n}アタシの気のせいじゃないよね‥‥。",
-   "en": "",
+   "en": "It's not just me who thinks she'll never get{n}there, right...?",
    "term": "end"
   },
   {
    "id": "scen325.0061",
    "jp": "‥‥アンタ‥‥。",
-   "en": "",
+   "en": "...You...",
    "term": "end"
   },
   {
    "id": "scen325.0062",
    "jp": "えっ‥‥６Ｆ！？{n}{FFFB}そんな、私の情報に間違いがあるわけが‥‥。{p}でも、１時間前から目指してるのに{n}たどり着けないってことは、もしかしたら‥‥。{p}{FC02}‥‥分かったわ、６Ｆね。{n}あなたを信じて、今から６Ｆを目指すことにするわ！",
-   "en": "",
+   "en": "Huh... 6F?!{FFFB} No way, my information can't be wrong...{p}But I've been trying to get there for an hour and still{n}haven't, so maybe...{p}{FC02}...All right, 6F. I'll trust you and head for 6F now!",
    "term": "end"
   },
   {
    "id": "scen325.0063",
    "jp": "あーあ、アタシ知らないっと。{n}アンタ、ちゃんと責任取りなさいよね‥‥。",
-   "en": "",
+   "en": "Oh well, not my problem. You'd better take{n}responsibility for this...",
    "term": "end"
   },
   {
    "id": "scen325.0064",
    "jp": "アンタ、それはいくらなんでも‥‥。",
-   "en": "",
+   "en": "Come on, that's going too far, even for you...",
    "term": "end"
   },
   {
    "id": "scen325.0065",
    "jp": "えっ‥‥Ｂ１００Ｆ！？{n}{FFFB}‥‥Ｂ１００Ｆなんてあったかしら‥‥？{p}{FFF6}でも、１時間前から目指してるのに{n}たどり着けないってことは、もしかしたら‥‥。{p}{FC02}ま、まあいいわ。{n}あなたを信じて、今からＢ１００Ｆを{n}目指すことにするわね！",
-   "en": "",
+   "en": "Huh... B100F?!{FFFB} ...Was there even a B100F...?{p}{FFF6}But I've been trying to get there for an hour and still{n}haven't, so maybe...{p}{FC02}W-well, fine. I'll trust you and head for B100F now!",
    "term": "end"
   },
   {
    "id": "scen325.0066",
    "jp": "{FB00}まさか、あれを信じるなんて‥‥。{n}ある意味、すごいわね。{FFFA}",
-   "en": "",
+   "en": "{FB00}I can't believe she actually bought that... In a way,{n}that's impressive.{FFFA}",
    "term": "end"
   },
   {
    "id": "scen325.0067",
    "jp": "あなたたち、私のこと方向音痴だと思ってるでしょ！",
-   "en": "",
+   "en": "You two think I have no sense of direction, don't you!",
    "term": "end"
   },
   {
@@ -440,7 +440,7 @@
   {
    "id": "scen325.0069",
    "jp": "そ、即答したわね‥‥。{p}{FC02}この際だからハッキリ言っておくけれど、{n}私は方向音痴じゃないわ！{n}道が全て同じに見えて、覚えられないだけなのよ！",
-   "en": "",
+   "en": "Y-you didn't even hesitate...{p}{FC02}Since we're on the subject, let me make this clear: I do{n}NOT have a bad sense of direction! All the paths just{n}look the same, so I can't memorize them!",
    "term": "end"
   },
   {
@@ -453,100 +453,100 @@
   {
    "id": "scen325.0071",
    "jp": "・人はそれを方向音痴と呼ぶ",
-   "en": "",
+   "en": "・That's called no sense of direction",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0072",
    "jp": "・それなら仕方ないな",
-   "en": "",
+   "en": "・Then it can't be helped",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0073",
    "jp": "・ということは、つまり‥‥",
-   "en": "",
+   "en": "・Which means, in other words...",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0074",
    "jp": "そ‥‥そんなことないわよ！{p}そこまで言うなら見てなさいよ、{n}今から１人で図書室へ行ってみせるから！{n}ちゃんとたどり着いてみせるわよ！",
-   "en": "",
+   "en": "Th-that's not true!{p}If you're going to go that far, just watch! I'll go to the{n}library by myself right now! I'll get there, you'll see!",
    "term": "end"
   },
   {
    "id": "scen325.0075",
    "jp": "やっぱり、ミーシャと{n}同格扱いにしようかしら‥‥。",
-   "en": "",
+   "en": "Maybe I should put her in the same league as Misha{n}after all...",
    "term": "end"
   },
   {
    "id": "scen325.0076",
    "jp": "そ、そうよね！？{n}これは仕方ないことであって、{n}決して方向音痴とかそういう問題ではないのよ！{p}でも、学院内はもう大丈夫！{n}{FFFB}‥‥のはずよ！{n}証拠に、今から１人で図書室へ行ってみせるわ！",
-   "en": "",
+   "en": "R-right?! It can't be helped, and it's definitely not a{n}question of having no sense of direction or anything!{p}But I'm fine inside the Academy now!{FFFB} ...I should be! To{n}prove it, I'll go to the library by myself right now!",
    "term": "end"
   },
   {
    "id": "scen325.0077",
    "jp": "{FFF6}つ、つまり‥‥{FFFB}えーと‥‥！{p}{FFF7}そうよ、人よりもちょっっとだけ{n}道に迷いやすいってことよ！",
-   "en": "",
+   "en": "{FFF6}I-in other words...{FFFB} um...!{p}{FFF7}Yes, it means I get lost just a teeeeny bit more easily{n}than other people!",
    "term": "end"
   },
   {
    "id": "scen325.0078",
    "jp": "{FB00}人はそれを方向音痴と言う。{FFFA}",
-   "en": "",
+   "en": "{FB00}People call that no sense of direction.{FFFA}",
    "term": "end"
   },
   {
    "id": "scen325.0079",
    "jp": "ふふふ、今日は重大ニュースがあるのよ。",
-   "en": "",
+   "en": "Heehee, I've got big news today.",
    "term": "end"
   },
   {
    "id": "scen325.0080",
    "jp": "え、重大ニュースって？？",
-   "en": "",
+   "en": "Huh, big news??",
    "term": "end"
   },
   {
    "id": "scen325.0081",
    "jp": "魔法学院内は、ほとんど把握したわよ！{n}これで私に怖いものは何もないわ！",
-   "en": "",
+   "en": "I've figured out almost the whole Magic Academy! Now{n}I'm not afraid of anything!",
    "term": "end"
   },
   {
    "id": "scen325.0082",
    "jp": "{FB00}それの、どこが重大ニュース‥‥！？{FFFA}",
-   "en": "",
+   "en": "{FB00}How is THAT big news...?!{FFFA}",
    "term": "end"
   },
   {
    "id": "scen325.0083",
    "jp": "‥‥い、いいでしょ！？{n}{FFFB}私にとっては、重大ニュースなのよ！！",
-   "en": "",
+   "en": "...F-fine, okay?!{FFFB} To me, it's big news!!",
    "term": "end"
   },
   {
    "id": "scen325.0084",
    "jp": "つまり、方向音痴の自覚はしてるんだね。",
-   "en": "",
+   "en": "So you do know you have no sense of direction.",
    "term": "end"
   },
   {
    "id": "scen325.0085",
    "jp": "{FFF6}うぐぐぐぐっ‥‥。",
-   "en": "",
+   "en": "{FFF6}Nnngh...",
    "term": "end"
   },
   {
    "id": "scen325.0086",
    "jp": "はあ‥‥。{n}{FFFB}学院内を把握だなんて、{n}これほど信じられない言葉も、そうそうないわね‥‥。",
-   "en": "",
+   "en": "Haah...{FFFB} \"Figured out the Academy\"... You don't hear words{n}that hard to believe very often...",
    "term": "end"
   },
   {
@@ -559,51 +559,51 @@
   {
    "id": "scen325.0088",
    "jp": "・ティピに同意だ",
-   "en": "",
+   "en": "・I agree with Tippi",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0089",
    "jp": "・自分は信じる",
-   "en": "",
+   "en": "・I believe her",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0090",
    "jp": "‥‥今に見てなさいよ。{n}{FC07}いつか私が、キミたち連れて、{n}この世界をナビゲートしてあげるんだから！",
-   "en": "",
+   "en": "...Just you wait.{FC07} Someday, I'll take you all along and{n}navigate you around this whole world!",
    "term": "end"
   },
   {
    "id": "scen325.0091",
    "jp": "ひぇ～！{n}それだけは、カンベンして～！",
-   "en": "",
+   "en": "Eeek! Anything but thaaat!",
    "term": "end"
   },
   {
    "id": "scen325.0092",
    "jp": "{FFF6}‥‥ぐっ‥‥。{n}そこまで嫌がらなくてもいいじゃない‥‥。",
-   "en": "",
+   "en": "{FFF6}...Ugh... You don't have to hate the idea THAT much...",
    "term": "end"
   },
   {
    "id": "scen325.0093",
    "jp": "あ、ありがとう‥‥。{p}{FC01}自分で言っておいてなんだけど、{n}肯定されるとは思わなかったわ‥‥。",
-   "en": "",
+   "en": "Th-thank you...{p}{FC01}I'm the one who said it, but I never expected anyone{n}to agree...",
    "term": "end"
   },
   {
    "id": "scen325.0094",
    "jp": "アメリアさんのことを思うなら、{n}本当のことを言った方が親切だと思うけどね。{n}アタシは‥‥。",
-   "en": "",
+   "en": "If you really care about Amelia-san, it'd be kinder to{n}tell her the truth. That's what I think, anyway...",
    "term": "end"
   },
   {
    "id": "scen325.0095",
    "jp": "マホガク定食って、栄養満点、{n}滋養強壮や疲労回復、味も最高‥‥と、{n}良いこと尽くめなのよね。{p}{FC07}いつか材料を突き止めて、{n}私のこの手で再現してみようと思うの！{p}その時は、あなたたちにもご馳走するから、{n}楽しみにしててね。",
-   "en": "",
+   "en": "The Academy Special is packed with nutrition, builds{n}stamina, cures fatigue, and tastes amazing... It's got{n}everything going for it.{p}{FC07}Someday I'm going to pin down the ingredients and try{n}recreating it with my own two hands!{p}When I do, I'll treat you all too, so look forward to it.",
    "term": "end"
   },
   {
@@ -616,359 +616,359 @@
   {
    "id": "scen325.0097",
    "jp": "・楽しみにしてる",
-   "en": "",
+   "en": "・I'll look forward to it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0098",
    "jp": "・怖いことを言うな",
-   "en": "",
+   "en": "・Don't say scary things",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0099",
    "jp": "・‥‥‥‥。",
-   "en": "",
+   "en": "・......",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0100",
    "jp": "ふふふ、任せておいて！{p}私が作るからには、１週間くらい寝なくても{n}元気でいられるものを作るから！",
-   "en": "",
+   "en": "Hehehe, leave it to me!{p}If I'm the one making it, it'll keep you going strong for{n}a week without sleep!",
    "term": "end"
   },
   {
    "id": "scen325.0101",
    "jp": "{FB00}アンタ、{n}責任持って１人で食べなさいよね‥‥。{FFFA}",
-   "en": "",
+   "en": "{FB00}Then YOU can take responsibility and eat it all by{n}yourself...{FFFA}",
    "term": "end"
   },
   {
    "id": "scen325.0102",
    "jp": "‥‥怖いですって！？{p}{FC07}ふふふっ、大丈夫よ。{n}{FFFB}１度食べたら、そんな感情なんか{n}一瞬で吹き飛ぶわ！{p}{FC07}それどころか、１週間くらい寝なくても{n}元気でいられるものになる予定よ！{n}{FFFB}どう？　至れり尽くせりだと思わない？！",
-   "en": "",
+   "en": "...Scary, you say?!{p}{FC07}Hehe, don't worry. {FFFB}One bite and that feeling will be{n}blown away in an instant!{p}{FC07}What's more, it's going to keep you going strong for a{n}week without sleep! {FFFB}Well? Doesn't that sound like{n}everything you could ask for?!",
    "term": "end"
   },
   {
    "id": "scen325.0103",
    "jp": "{FB00}うん。{n}やっぱり怖いわ、ソレ‥‥。{FFFA}",
-   "en": "",
+   "en": "{FB00}Yep. That IS scary...{FFFA}",
    "term": "end"
   },
   {
    "id": "scen325.0104",
    "jp": "ちょ、ちょっと何よ、その反応は！{p}‥‥さては、私の腕を信じてないわね！？",
-   "en": "",
+   "en": "H-hey, what's with that reaction?!{p}...Why, you don't trust my skills, do you?!",
    "term": "end"
   },
   {
    "id": "scen325.0105",
    "jp": "だって‥‥{n}{FFFB}‥‥ねぇ‥‥？",
-   "en": "",
+   "en": "Well... {FFFB}...you know...?",
    "term": "end"
   },
   {
    "id": "scen325.0106",
    "jp": "大丈夫、任せておいて！{p}私が作るからには、１週間くらい寝なくても{n}元気でいられるものを作るから！",
-   "en": "",
+   "en": "Don't worry, leave it to me!{p}If I'm the one making it, it'll keep you going strong for{n}a week without sleep!",
    "term": "end"
   },
   {
    "id": "scen325.0107",
    "jp": "ねぇねぇ。{n}アメリアさんって、この学院で研究させてもらえる程{n}頭が良いんだよね？",
-   "en": "",
+   "en": "Hey, hey. Amelia-san, you're smart enough that they{n}let you do research at this academy, right?",
    "term": "end"
   },
   {
    "id": "scen325.0108",
    "jp": "まぁ、たしかに研究はさせてもらっているけど‥‥。{n}それがどうかしたの？",
-   "en": "",
+   "en": "Well, it's true they let me do research here... Why do{n}you ask?",
    "term": "end"
   },
   {
    "id": "scen325.0109",
    "jp": "いや～。{n}人間、１つは取り柄があるんだな～って。",
-   "en": "",
+   "en": "Ehehe. Just goes to show everybody's good{n}at SOMETHING!",
    "term": "end"
   },
   {
    "id": "scen325.0110",
    "jp": "あら、言うわねおチビちゃん‥‥。{p}{FFF6}前々から小さなホムンクルスについて、{n}興味があったのよね。{n}{FFFB}{FFF7}{FC07}いい機会だし、調べてみようかしら‥‥？",
-   "en": "",
+   "en": "My, you've got a mouth on you, shorty...{p}{FFF6}You know, I've been curious about tiny homunculus{n}specimens for quite a while. {FFFB}{FFF7}{FC07}This might be a good{n}chance to examine one...?",
    "term": "end"
   },
   {
    "id": "scen325.0111",
    "jp": "く、口がすぎました！{n}ゴメンなさい！",
-   "en": "",
+   "en": "I-I spoke out of turn! I'm sorryyy!",
    "term": "end"
   },
   {
    "id": "scen325.0112",
    "jp": "分かれば、よろしい！{p}{FFF6}まったく、失礼しちゃうわ。{n}そりゃあ私だって、取り柄ぐらいあるわよ。",
-   "en": "",
+   "en": "As long as you understand!{p}{FFF6}Honestly, how rude. Of course I have strong{n}points too.",
    "term": "end"
   },
   {
    "id": "scen325.0113",
    "jp": "そういえば‥‥。{n}あなたの取り柄って言うと、何かしら？",
-   "en": "",
+   "en": "Come to think of it... What would your strong point be?",
    "term": "end"
   },
   {
    "id": "scen325.0114",
    "jp": "・戦うこと",
-   "en": "",
+   "en": "・Fighting",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0115",
    "jp": "・料理",
-   "en": "",
+   "en": "・Cooking",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0116",
    "jp": "・ファッションセンス",
-   "en": "",
+   "en": "・Fashion sense",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0117",
    "jp": "‥‥戦うこと、か。{n}あなたって、ローランディアの騎士だものね。",
-   "en": "",
+   "en": "...Fighting, huh. Well, you are a knight of Rolandia,{n}after all.",
    "term": "end"
   },
   {
    "id": "scen325.0118",
    "jp": "まー、コイツの取り柄って{n}ソレ位しかないんだけどね～。",
-   "en": "",
+   "en": "Well, that's about the ONLY thing this guy's good for.",
    "term": "end"
   },
   {
    "id": "scen325.0119",
    "jp": "{FFF6}あら、とても素敵な取り柄だと思うわよ？{p}人々を守るために戦うなんて、{n}とっても素敵じゃない。",
-   "en": "",
+   "en": "{FFF6}Oh, I think that's a wonderful strong point.{p}Fighting to protect people... Isn't that just wonderful?",
    "term": "end"
   },
   {
    "id": "scen325.0120",
    "jp": "あら、それは少し意外ね。{p}{FC05}‥‥実は、私も料理は得意なんだ。{n}私たち趣味が合うのかもね。",
-   "en": "",
+   "en": "My, that's a little unexpected.{p}{FC05}...Actually, I'm good at cooking too. Maybe we have the{n}same tastes.",
    "term": "end"
   },
   {
    "id": "scen325.0121",
    "jp": "‥‥アメリアさんって、{n}すっごい料理作りそうだよね‥‥。",
-   "en": "",
+   "en": "...I bet Amelia-san cooks up some pretty scary stuff...",
    "term": "end"
   },
   {
    "id": "scen325.0122",
    "jp": "‥‥失礼ね、私だってちゃんとした{n}料理くらい作れるわよ！{p}{FFF6}‥‥まぁ、たまーに塩と間違って{n}別の化学薬品を使っちゃったりするけど‥‥。",
-   "en": "",
+   "en": "...How rude! I can make proper food just fine!{p}{FFF6}...Well, every once in a while I mix up the salt with some{n}other chemical, but...",
    "term": "end"
   },
   {
    "id": "scen325.0123",
    "jp": "{FB00}‥‥‥‥‥‥。{FFFA}",
-   "en": "",
+   "en": "{FB00}......{FFFA}",
    "term": "end"
   },
   {
    "id": "scen325.0124",
    "jp": "{FB00}アンタ‥‥{n}自分でよく言えるわね、ソレ‥‥。{FFFA}",
-   "en": "",
+   "en": "{FB00}Wow... How can you even say that about yourself...{FFFA}",
    "term": "end"
   },
   {
    "id": "scen325.0125",
    "jp": "でも確かに、あなたって赤いジャケットを{n}見事に着崩しているわよね‥‥。{p}それが似合うなんて、かなりの上級者だわ。",
-   "en": "",
+   "en": "But it's true, you wear that red jacket loose with{n}real flair...{p}Pulling that look off takes a true expert.",
    "term": "end"
   },
   {
    "id": "scen325.0126",
    "jp": "まぁ、自分で取り柄って言っても{n}周りが認めてくれないと、{n}あんまり意味がないと思うの。{p}そのためにも、{n}日々の努力を怠らないことが大切ね。",
-   "en": "",
+   "en": "Well, even if you call something your strong point, I{n}don't think it means much unless the people around you{n}recognize it.{p}That's why it's important never to slack off on your{n}daily efforts.",
    "term": "end"
   },
   {
    "id": "scen325.0127",
    "jp": "‥‥方向音痴の努力だけはしないでね。",
-   "en": "",
+   "en": "...Just don't put any effort into getting lost.",
    "term": "end"
   },
   {
    "id": "scen325.0128",
    "jp": "{FFF6}‥‥え、なぁに？{p}私のホムンクルス研究の実験体に、{n}是非ともなりたいって‥‥？",
-   "en": "",
+   "en": "{FFF6}...Hm? What was that?{p}You're DYING to be a test subject for my{n}homunculus research...?",
    "term": "end"
   },
   {
    "id": "scen325.0129",
    "jp": "な、なんでもありません～！",
-   "en": "",
+   "en": "N-nothing at alllll!",
    "term": "end"
   },
   {
    "id": "scen325.0130",
    "jp": "最近、グローシアンを狙った事件が{n}起こっているみたいね‥‥。{p}お兄さんなんだから、{n}あなたもルイセちゃんに気を配ってあげてね。",
-   "en": "",
+   "en": "It seems there have been incidents targeting{n}Growsians lately...{p}You're her big brother, so keep a good eye on{n}Luise-chan for me.",
    "term": "end"
   },
   {
    "id": "scen325.0131",
    "jp": "{FFF6}ふぅ～‥‥。",
-   "en": "",
+   "en": "{FFF6}Haaah...",
    "term": "end"
   },
   {
    "id": "scen325.0132",
    "jp": "アメリアさん、何か疲れてそうだね。{n}研究が忙しいの？",
-   "en": "",
+   "en": "Amelia-san, you look kinda tired. Is your research{n}keeping you busy?",
    "term": "end"
   },
   {
    "id": "scen325.0133",
    "jp": "‥‥ああ、違うのよ。{n}{FFFB}実は最近、試験が迫ってる学生たちから{n}質問攻めにあうようになってね‥‥。{p}私で答えられることならと思って対応してたけど、{n}さすがに連日だと忙しいわ‥‥。",
-   "en": "",
+   "en": "...Oh, it's not that. {FFFB}Lately, students with exams coming{n}up have been bombarding me with questions...{p}I've been helping whenever I can answer, but doing it{n}every single day is a lot of work...",
    "term": "end"
   },
   {
    "id": "scen325.0134",
    "jp": "そういうことだったんだ！{n}アメリアさん、先生じゃないのに大変だね。",
-   "en": "",
+   "en": "So that's what it was! That's rough, Amelia-san, and{n}you're not even a teacher.",
    "term": "end"
   },
   {
    "id": "scen325.0135",
    "jp": "まぁ、たまには先生気取りも悪くないけどね。{p}{FC07}それじゃ、突然だけど問題！",
-   "en": "",
+   "en": "Well, playing teacher once in a while isn't so bad.{p}{FC07}All right, pop quiz!",
    "term": "end"
   },
   {
    "id": "scen325.0136",
    "jp": "攻撃補助魔法の『ルスト』は、対象からの{n}武器ダメージを何％減少させるでしょう？",
-   "en": "",
+   "en": "By what percentage does the attack support spell{n}'Rust' reduce weapon damage from its target?",
    "term": "end"
   },
   {
    "id": "scen325.0137",
    "jp": "・４０％だ！",
-   "en": "",
+   "en": "・It's 40%!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0138",
    "jp": "・３０％だ！",
-   "en": "",
+   "en": "・It's 30%!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0139",
    "jp": "・２０％だ！",
-   "en": "",
+   "en": "・It's 20%!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0140",
    "jp": "・先生、わかりません！",
-   "en": "",
+   "en": "・Teacher, I don't know!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0141",
    "jp": "残念、間違いよ。{n}正解は３０％でした！{p}もっと頑張りましょう‥‥、ってとこかな？",
-   "en": "",
+   "en": "Too bad, that's wrong. The correct answer is 30%!{p}\"Needs more effort\"... I suppose?",
    "term": "end"
   },
   {
    "id": "scen325.0142",
    "jp": "{FFF6}正解、よく出来ました！{p}魔法学院の生徒じゃないのに、すごいじゃない！{n}よく勉強してるのね、見直しちゃったわ。",
-   "en": "",
+   "en": "{FFF6}Correct, well done!{p}That's impressive for someone who isn't even a Magic{n}Academy student! You've really been studying. I'm{n}impressed.",
    "term": "end"
   },
   {
    "id": "scen325.0143",
    "jp": "そ、そこまで堂々と言えるのもすごいわね‥‥。{p}{FC05}正解は３０％よ。{n}これを機に覚えておいてね？",
-   "en": "",
+   "en": "Y-you've got some nerve, saying that so proudly...{p}{FC05}The answer is 30%. Make sure you remember it from{n}now on, okay?",
    "term": "end"
   },
   {
    "id": "scen325.0144",
    "jp": "へぇー、こうしてると本当に先生みたい。",
-   "en": "",
+   "en": "Wow, like this you really seem like a teacher.",
    "term": "end"
   },
   {
    "id": "scen325.0145",
    "jp": "アメリア先生、か‥‥。{n}{FFFB}{FFF6}うふふ、それも悪くない響きかもね。{p}{FFF7}分からないことがあったら、{n}いつでも先生のところに質問に来なさいね。{n}{s:0000}くん。",
-   "en": "",
+   "en": "Teacher Amelia, huh... {FFFB}{FFF6}Hehe, that has a nice ring to it.{p}{FFF7}If there's ever anything you don't understand, come{n}ask your teacher anytime, {s:0000}.",
    "term": "end"
   },
   {
    "id": "scen325.0146",
    "jp": "{FB00}あーあ、調子に乗っちゃった‥‥。{FFFA}",
-   "en": "",
+   "en": "{FB00}Oh dear, I got carried away...{FFFA}",
    "term": "end"
   },
   {
    "id": "scen325.0147",
    "jp": "例のグローシアン失踪事件、{n}犯人は学院長だったのね‥‥。{p}{FFF6}他人のグローシュを抜き取って、{n}グローシアンに戻る実験なんて‥‥。{n}{FFFB}‥‥まさか、アイツが関わって‥‥。",
-   "en": "",
+   "en": "So the culprit behind those Growsian disappearances{n}was the Headmaster...{p}{FFF6}Extracting other people's Grosh in an experiment to{n}become a Growsian again... {FFFB}...Don't tell me HE{n}was involved...",
    "term": "end"
   },
   {
    "id": "scen325.0148",
    "jp": "アメリアさん、どうかしたの？",
-   "en": "",
+   "en": "Amelia-san, is something wrong?",
    "term": "end"
   },
   {
    "id": "scen325.0149",
    "jp": "‥‥えっ！？{n}{FFFB}{FB00}あ‥‥な、なんでもないの！{n}ただの独り言！{FFFA}{p}{FC01}とにかく、犯人が捕まって良かったわね。{n}あはははは‥‥。",
-   "en": "",
+   "en": "...Huh?! {FFFB}{FB00}Oh... N-nothing! I was just talking to myself!{FFFA}{p}{FC01}Anyway, it's good they caught the culprit. Ahahaha...",
    "term": "end"
   },
   {
    "id": "scen325.0150",
    "jp": "この戦争、いつまで続くのかしら‥‥。",
-   "en": "",
+   "en": "I wonder how long this war will go on...",
    "term": "end"
   },
   {
    "id": "scen325.0151",
    "jp": "そうだね。{n}戦争なんて、早く終わらせないとね‥‥。",
-   "en": "",
+   "en": "Yeah. We've gotta end this war, and fast...",
    "term": "end"
   },
   {
    "id": "scen325.0152",
    "jp": "この学院には、多くの魔法技術が集約しているわ。{n}けど、使い方によっては{n}戦争の道具にされてしまう‥‥。{p}魔法って、人を助ける力になるけど、{n}人を殺す力にもなるでしょう？{n}{FFFB}{FFF6}‥‥そう考えると、魔法ってとても怖いわよね。{p}そうと分かりながらも、人は魔法を武器にして{n}いつの時代も戦い続けるのね‥‥。",
-   "en": "",
+   "en": "This academy brings together a great deal of magical{n}technology. But depending on how it's used, it could{n}become a tool of war...{p}Magic can be a power that saves people, but it can{n}also be a power that kills them, can't it? {FFFB}{FFF6}...When you{n}think about it that way, magic is truly frightening.{p}And even knowing that, people turn magic into a weapon{n}and keep on fighting, in every age...",
    "term": "end"
   },
   {
    "id": "scen325.0153",
    "jp": "アメリアさん‥‥。",
-   "en": "",
+   "en": "Amelia-san...",
    "term": "end"
   },
   {
    "id": "scen325.0154",
    "jp": "{FFF6}あ‥‥、ごめんね。{n}こんなこと言っちゃって。{p}{FFF7}早く戦争が終わって、{n}また元の活気あふれる世界に戻るといいわね。",
-   "en": "",
+   "en": "{FFF6}Oh... Sorry. I shouldn't have said all that.{p}{FFF7}I hope the war ends soon, and the world goes back to{n}being as lively as it used to be.",
    "term": "end"
   },
   {
@@ -981,45 +981,45 @@
   {
    "id": "scen325.0156",
    "jp": "・俺たちがしてみせる",
-   "en": "",
+   "en": "・We'll make it happen",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0157",
    "jp": "・無理だと思う",
-   "en": "",
+   "en": "・I don't think that's possible",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0158",
    "jp": "おお、言うわね！{p}それじゃあ、あなた達に期待しちゃおうかな。{n}{FFF6}がんばってね！",
-   "en": "",
+   "en": "Ooh, bold words!{p}Then I'll be counting on you all. {FFF6}Good luck!",
    "term": "end"
   },
   {
    "id": "scen325.0159",
    "jp": "‥‥そっか‥‥。{n}{FFFB}残念なことだけど、{n}戦争って、そう簡単には収まらないものね‥‥。",
-   "en": "",
+   "en": "...I see... {FFFB}It's sad, but wars don't end that easily,{n}do they...",
    "term": "end"
   },
   {
    "id": "scen325.0160",
    "jp": "アメリアさん、研究はどんな感じ？",
-   "en": "",
+   "en": "Amelia-san, how's your research going?",
    "term": "end"
   },
   {
    "id": "scen325.0161",
    "jp": "{FFF6}うーん‥‥。{n}{FFFB}今は、戦争で研究どころじゃないって{n}いうのが実情かしらね‥‥。{p}{FFF7}戦争なんて、憎しみしか生み出さない{n}悲しいものなのに‥‥。{p}どうして人は、何度も同じことを{n}繰り返してしまうのかしら？",
-   "en": "",
+   "en": "{FFF6}Hmm... {FFFB}Honestly, with this war on, research is the last{n}thing on anyone's mind...{p}{FFF7}War is such a sad thing. It breeds nothing but hatred...{p}Why do people keep repeating the same mistakes, over{n}and over?",
    "term": "end"
   },
   {
    "id": "scen325.0162",
    "jp": "‥‥あ、ゴメンね。{n}戦争のただ中にいるあなた達が１番辛いのに、{n}こんなことを言っちゃって‥‥。",
-   "en": "",
+   "en": "...Oh, I'm sorry. You're the ones caught in the middle of{n}the war, it's hardest on you, and here I am saying{n}things like this...",
    "term": "end"
   },
   {
@@ -1032,14 +1032,14 @@
   {
    "id": "scen325.0164",
    "jp": "・気にしなくていい",
-   "en": "",
+   "en": "・Don't worry about it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen325.0165",
    "jp": "・次からは気をつけろ",
-   "en": "",
+   "en": "・Be more careful next time",
    "term": "end",
    "unref": true
   },
@@ -1054,175 +1054,175 @@
   {
    "id": "scen325.0167",
    "jp": "ありがとう‥‥。{n}{FFFB}{FFF6}あなたって、優しいのね。",
-   "en": "",
+   "en": "Thank you... {FFFB}{FFF6}You're kind, aren't you?",
    "term": "end"
   },
   {
    "id": "scen325.0168",
    "jp": "{FFF6}本当に軽率な発言だったわ。{n}‥‥ゴメンなさいね。",
-   "en": "",
+   "en": "{FFF6}That really was thoughtless of me. ...I'm sorry.",
    "term": "end"
   },
   {
    "id": "scen325.0169",
    "jp": "聞いたわよ。{p}あなた達、バーンシュタインとの戦争を{n}回避したんだって？{n}{FFF6}スゴイじゃない！",
-   "en": "",
+   "en": "I heard all about it.{p}You all averted the war with Burnstein? {FFF6}That's{n}amazing!",
    "term": "end"
   },
   {
    "id": "scen325.0170",
    "jp": "へぇ～、情報が早いのね。{n}一体、どこから仕入れてくるの？",
-   "en": "",
+   "en": "Wow, you sure hear about things fast. Where do you{n}get your info, anyway?",
    "term": "end"
   },
   {
    "id": "scen325.0171",
    "jp": "えっ‥‥？{p}{FC01}あっ、そうそう！{n}情報通の知り合いがいて、それでね！",
-   "en": "",
+   "en": "Huh...?{p}{FC01}Oh, right, right! I have an acquaintance who's very{n}well-informed, that's all!",
    "term": "end"
   },
   {
    "id": "scen325.0172",
    "jp": "ふーん、アメリアさんって顔が広いんだね。{n}そんな情報通の知り合いがいるなんて。",
-   "en": "",
+   "en": "Hmm, you sure know a lot of people, Amelia-san. Fancy{n}having a friend that well-informed.",
    "term": "end"
   },
   {
    "id": "scen325.0173",
    "jp": "ま、まぁね！{n}あははははは‥‥。",
-   "en": "",
+   "en": "W-well, yes! Ahahahaha...",
    "term": "end"
   },
   {
    "id": "scen325.0174",
    "jp": "他の人たちは、何やってるのかしら？",
-   "en": "",
+   "en": "I wonder what everyone else is up to?",
    "term": "end"
   },
   {
    "id": "scen325.0175",
    "jp": "ど、どうして私、{n}屋上に居るのかしら‥‥。",
-   "en": "",
+   "en": "H-how did I end up on the roof...",
    "term": "end"
   },
   {
    "id": "scen325.0176",
    "jp": "{FB00}あはは‥‥。{n}やっぱり迷ってたわね‥‥。{FFFA}",
-   "en": "",
+   "en": "{FB00}Ahaha... She was lost after all...{FFFA}",
    "term": "end"
   },
   {
    "id": "scen325.0177",
    "jp": "だ、だましたわね！{n}{FFFB}６Ｆに行ってみたら、学食だったわよ！",
-   "en": "",
+   "en": "Y-you tricked me! {FFFB}I went to the 6th floor and found{n}the cafeteria!",
    "term": "end"
   },
   {
    "id": "scen325.0178",
    "jp": "でも、間違いに気づいた後に{n}急いで学院長室を目指したはずなのに、{n}どうして私、屋上に居るのかしら‥‥？",
-   "en": "",
+   "en": "But after I realized the mistake, I hurried straight for{n}the Headmaster's office... So how did I end up on{n}the roof...?",
    "term": "end"
   },
   {
    "id": "scen325.0179",
    "jp": "{FB00}６Ｆって、確か薬剤研究フロアよね‥‥。{n}{FFFB}なのに学食に行っちゃって、{n}その後は屋上に出るって‥‥。{FFFA}{p}もう、どこから突っ込めばいいのかしら[01BE]",
-   "en": "",
+   "en": "{FB00}The 6th floor is Pharmaceutical Research, isn't it... {FFFB}But{n}she ended up at the cafeteria, and then came out on{n}the roof...{FFFA}{p}Where do I even begin with that[01BE]",
    "term": "end"
   },
   {
    "id": "scen325.0180",
    "jp": "あなた、ウソをついたのね！{n}言われた通りに来たら、屋上に出たわよ！？",
-   "en": "",
+   "en": "You lied to me! I went exactly where you told me, and{n}I came out on the roof?!",
    "term": "end"
   },
   {
    "id": "scen325.0181",
    "jp": "それ以前に、地下へ向かった人間が{n}どうして屋上にいるのかしら‥‥？{p}筋がね入りの方向音痴ね、アメリアさんって。",
-   "en": "",
+   "en": "Before that, how does somebody heading underground{n}end up on the ROOF...?{p}You've got a hopeless sense of direction, Amelia-san.",
    "term": "end"
   },
   {
    "id": "scen325.0182",
    "jp": "ち、違うの！{n}新鮮な空気を吸おうと思って、屋上に来ただけよ！{p}決して迷ってるわけじゃ‥‥。",
-   "en": "",
+   "en": "Th-that's not it! I just came up to the roof for some{n}fresh air!{p}I'm not lost or anything...",
    "term": "end"
   },
   {
    "id": "scen325.0183",
    "jp": "うん、うん、そうだね。",
-   "en": "",
+   "en": "Uh-huh, uh-huh. Sure.",
    "term": "end"
   },
   {
    "id": "scen325.0184",
    "jp": "{FFF6}‥‥‥。",
-   "en": "",
+   "en": "{FFF6}...",
    "term": "end"
   },
   {
    "id": "scen325.0185",
    "jp": "今に見てなさいよ！{n}そのうち、あっと言わせてみせるんだから！",
-   "en": "",
+   "en": "Just you wait! One of these days I'll knock your{n}socks off!",
    "term": "end"
   },
   {
    "id": "scen325.0186",
    "jp": "マホガク定食の材料は、えーと‥‥。{n}栄養剤に増強剤に‥‥{FFFB}マンドラゴラ‥‥？",
-   "en": "",
+   "en": "The ingredients of the Academy Special are, um...{n}Nutrient tonic, a booster... {FFFB}mandragora...?",
    "term": "end"
   },
   {
    "id": "scen325.0187",
    "jp": "あら、実験体になりに来たの？{p}{FC05}なーんて、冗談よ冗談。",
-   "en": "",
+   "en": "Oh, did you come to be my test subject?{p}{FC05}Just kidding, just kidding.",
    "term": "end"
   },
   {
    "id": "scen325.0188",
    "jp": "ルイセちゃんのこと、{n}しっかり守ってあげないとダメよ。",
-   "en": "",
+   "en": "You'd better protect Luise-chan properly, okay?",
    "term": "end"
   },
   {
    "id": "scen325.0189",
    "jp": "あら、早速なにか質問？{n}{FE1E}{FFF6}‥‥なんちゃって。",
-   "en": "",
+   "en": "Oh, a question already? {FE1E}{FFF6}...Just kidding.",
    "term": "end"
   },
   {
    "id": "scen325.0190",
    "jp": "さっきのことは気にしないで？{n}とにかく、犯人が捕まって良かったわね！",
-   "en": "",
+   "en": "Don't worry about what happened earlier, okay?{n}Anyway, it's good they caught the culprit!",
    "term": "end"
   },
   {
    "id": "scen325.0191",
    "jp": "{FFF6}あなたには、期待してるからね。",
-   "en": "",
+   "en": "{FFF6}I'm counting on you, you know.",
    "term": "end"
   },
   {
    "id": "scen325.0192",
    "jp": "戦争、か‥‥。{n}いつの時代も、争いは絶えないものね‥‥。",
-   "en": "",
+   "en": "War, huh... No matter the age, the fighting{n}never ends...",
    "term": "end"
   },
   {
    "id": "scen325.0193",
    "jp": "さっきはありがとう。{n}あなたって、とっても優しいのね。",
-   "en": "",
+   "en": "Thanks for earlier. You're really kind, aren't you?",
    "term": "end"
   },
   {
    "id": "scen325.0194",
    "jp": "さっきは軽率だったわ。{n}‥‥本当にゴメンね。",
-   "en": "",
+   "en": "That was thoughtless of me earlier. ...I'm really sorry.",
    "term": "end"
   },
   {
    "id": "scen325.0195",
    "jp": "戦争が終って、本当に良かったわね。{n}これも、あなた達の活躍の成果ね。",
-   "en": "",
+   "en": "I'm so glad the war is over. It's all thanks to everything{n}you did.",
    "term": "end"
   },
   {

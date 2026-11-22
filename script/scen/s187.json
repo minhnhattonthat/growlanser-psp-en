@@ -36,7 +36,7 @@
   {
    "id": "scen187.0004",
    "jp": "妖精喫茶",
-   "en": "",
+   "en": "Fairy Café",
    "term": "end"
   },
   {
@@ -218,7 +218,7 @@
   {
    "id": "scen187.0029",
    "jp": "申し訳ありません、お客様。{n}妖精が当店を卒業してしまったため、{n}『妖精喫茶』のサービスは終了しました。{p}今までご利用いただき、{n}どうもありがとうございました。",
-   "en": "",
+   "en": "We're very sorry, dear customer. Our fairies have{n}graduated from the shop, so the 'Fairy Café' service{n}has come to an end.{p}Thank you very much for your patronage all this time.",
    "term": "end"
   },
   {
@@ -259,13 +259,13 @@
   {
    "id": "scen187.0035",
    "jp": "妖精喫茶へようこそ！{n}初めてのお客様ですね？",
-   "en": "",
+   "en": "Welcome to the Fairy Café! Is this your first visit?",
    "term": "end"
   },
   {
    "id": "scen187.0036",
    "jp": "利用代金は１回５００エルムですが、{n}初回はキャンペーンで３００エルムです。{n}妖精喫茶をご利用なさいますか？",
-   "en": "",
+   "en": "It's normally 500 Elm per visit, but as a special offer,{n}your first visit is 300 Elm. Would you like to use the{n}Fairy Café?",
    "term": "end"
   },
   {
@@ -287,160 +287,160 @@
   {
    "id": "scen187.0039",
    "jp": "・暖炉に火をつける",
-   "en": "",
+   "en": "・Light the fireplace",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0040",
    "jp": "お客さん、お金が足りていないようですね。{n}またのお越しをお待ちしております。",
-   "en": "",
+   "en": "It seems you don't have enough money, sir. We look{n}forward to your next visit.",
    "term": "end"
   },
   {
    "id": "scen187.0041",
    "jp": "ありがとうございます！{n}では、当店の妖精たちを紹介しますね。",
-   "en": "",
+   "en": "Thank you very much! Now, let me introduce{n}our fairies.",
    "term": "end"
   },
   {
    "id": "scen187.0042",
    "jp": "またのご利用をお待ちしていますね。",
-   "en": "",
+   "en": "We look forward to serving you again.",
    "term": "end"
   },
   {
    "id": "scen187.0043",
    "jp": "{FB00}うわ、なんかいっぱい出てきた‥‥。{FFFA}",
-   "en": "",
+   "en": "{FB00}Whoa, a whole bunch of them came out...{FFFA}",
    "term": "end"
   },
   {
    "id": "scen187.0044",
    "jp": "{FB00}なんだか凄いね、お兄ちゃん‥‥。{FFFA}{n}{s:000E}がいっぱいいるみたい。",
-   "en": "",
+   "en": "{FB00}This is kind of amazing, Big Brother...{FFFA} It's like a whole{n}crowd of {s:000E} look-alikes.",
    "term": "end"
   },
   {
    "id": "scen187.0045",
    "jp": "まずは、のんびり屋の{s:0143}ちゃんです。{p}戦いに疲れて、{n}ほっと癒されたい時にオススメの子ですよ。",
-   "en": "",
+   "en": "First up is our easygoing {s:0143}.{p}She's the one I recommend for when you're tired of{n}fighting and want a little soothing.",
    "term": "end"
   },
   {
    "id": "scen187.0046",
    "jp": "はじめまして、{s:0143}と申します～。{n}お喋りすることが好きなので、{n}いっぱいお話しましょうねぇ～。",
-   "en": "",
+   "en": "Nice to meet youuu, I'm {s:0143}. I really{n}love to chat, so let's talk lots and lots, okaaay?",
    "term": "end"
   },
   {
    "id": "scen187.0047",
    "jp": "お次は、しっかり者の{s:0147}ちゃんです。{p}とても思慮深く、知性的な子なので、{n}落ちついた雰囲気の会話を楽しみたい時に{n}オススメの子です。",
-   "en": "",
+   "en": "Next is our dependable {s:0147}.{p}She's a very thoughtful, intelligent girl, so I recommend{n}her for when you'd like to enjoy a calm conversation.",
    "term": "end"
   },
   {
    "id": "scen187.0048",
    "jp": "はじめまして、{s:0147}と申します。{p}‥‥ええと、こういう場はまだ慣れてないので、{n}何とご挨拶すればいいのか分からないのですが‥‥。{n}{FFFB}以後、どうぞお見知りおきください。",
-   "en": "",
+   "en": "How do you do? My name is {s:0147}.{p}...Um, I'm not used to this sort of setting yet, so I'm{n}not quite sure how to greet you, but... {FFFB}I look forward{n}to your acquaintance.",
    "term": "end"
   },
   {
    "id": "scen187.0049",
    "jp": "で、こっちが{s:0146}ちゃんです。{p}とっても積極的で明るい子なので、{n}気分が落ち込んでる時なんかに{n}話すと元気になれると思いますよ。",
-   "en": "",
+   "en": "And this one here is {s:0146}.{p}She's a really outgoing, cheerful girl, so I think talking{n}with her will perk you up when you're feeling down.",
    "term": "end"
   },
   {
    "id": "scen187.0050",
    "jp": "はじめまして、{s:0146}っていいます！{p}楽しくお話できるといいな、えへへ‥‥。",
-   "en": "",
+   "en": "Nice to meet you, I'm {s:0146}!{p}I hope we can have fun talking, ehehe...",
    "term": "end"
   },
   {
    "id": "scen187.0051",
    "jp": "そして、お次が‥‥‥",
-   "en": "",
+   "en": "And next up is...",
    "term": "end"
   },
   {
    "id": "scen187.0052",
    "jp": "はじめまして、{s:0145}と申します。",
-   "en": "",
+   "en": "How do you do? My name is {s:0145}.",
    "term": "end"
   },
   {
    "id": "scen187.0053",
    "jp": "ちょ、ちょっと{s:0145}！{n}なんでアンタが先に自己紹介してるのよ！？{n}次はアタシの番でしょーが！",
-   "en": "",
+   "en": "H-hey, {s:0145}! Why are YOU introducing{n}yourself first?! It's MY turn next, duh!",
    "term": "end"
   },
   {
    "id": "scen187.0054",
    "jp": "あら、そうでしたか？{n}それは失礼しました。{p}{FC05}ですけど、そんな些細なことで{n}お客様の前で{s:012A}くじらを立てていては{n}失礼だと思いますわよ。",
-   "en": "",
+   "en": "Oh my, was it? Do forgive me.{p}{FC05}However, I do think it's rather rude to make such a{n}fuss over so trivial a matter in front of a customer.",
    "term": "end"
   },
   {
    "id": "scen187.0055",
    "jp": "むっか～！{p}なーによ、その偉そうな言い方は！{n}だいたい、アンタが横から{n}しゃしゃり出てきたのが原因じゃない！{p}こうなったら勝負よ、勝負。{n}{FFFB}アンタとアタシ、{n}どっちがこのお客様の心を掴むか！",
-   "en": "",
+   "en": "Grrr!{p}What's with that snooty tone?! You're the one who{n}barged in out of nowhere in the first place!{p}Fine, then it's a contest! A contest! {FFFB}You versus me, to{n}see who wins this customer's heart!",
    "term": "end"
   },
   {
    "id": "scen187.0056",
    "jp": "２年連続で妖精コンテストに優勝している{n}私に勝負を挑むなんて、大した度胸ですわね。{n}{FFFB}受けて立ちますわ。",
-   "en": "",
+   "en": "Challenging me, the two-time consecutive Fairy Contest{n}champion? My, what nerve you have. {FFFB}I accept.",
    "term": "end"
   },
   {
    "id": "scen187.0057",
    "jp": "ちょ、ちょっと、{n}２人ともやめてください！{n}お客様が絶句してるじゃないですか！",
-   "en": "",
+   "en": "H-hey, wait, both of you, please stop! You've left our{n}customer speechless!",
    "term": "end"
   },
   {
    "id": "scen187.0058",
    "jp": "あっ、やだ‥‥。{n}{FFFB}アタシったらつい興奮しちゃって、ごめんなさい！{p}{FC00}えっと、{s:0144}って言います。{n}仲良くしてくださいね！",
-   "en": "",
+   "en": "Oh, no... {FFFB}I got all worked up, I'm sorry!{p}{FC00}Um, my name's {s:0144}. Let's be{n}friends, okay?",
    "term": "end"
   },
   {
    "id": "scen187.0059",
    "jp": "改めまして、{s:0145}です。{p}先ほどはお見苦しいところを、失礼いたしました。{n}{FFFB}{FC05}誠心誠意尽くさせていただきますので、{n}どうぞよろしくお願いいたしますね。",
-   "en": "",
+   "en": "Allow me to introduce myself properly. I am{n}{s:0145}.{p}Please forgive that unsightly display a moment ago. {FFFB}{FC05}I{n}shall serve you with all my heart, so I do hope we{n}get along.",
    "term": "end"
   },
   {
    "id": "scen187.0060",
    "jp": "‥‥あはは‥‥。",
-   "en": "",
+   "en": "...Ahaha...",
    "term": "end"
   },
   {
    "id": "scen187.0061",
    "jp": "でも、みんな可愛い妖精さんたちでしょう？",
-   "en": "",
+   "en": "But they're all cute little fairies, aren't they?",
    "term": "end"
   },
   {
    "id": "scen187.0062",
    "jp": "・そうだな",
-   "en": "",
+   "en": "・They sure are",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0063",
    "jp": "・‥‥‥。",
-   "en": "",
+   "en": "・......",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0064",
    "jp": "ちょっとアンタ、{n}な～に鼻の下を伸ばしてんのよ！{n}みっともないわね、もう！",
-   "en": "",
+   "en": "Hey, you! What are you getting all googly-eyed for?!{n}It's embarrassing, honestly!",
    "term": "end"
   },
   {
@@ -453,147 +453,147 @@
   {
    "id": "scen187.0066",
    "jp": "・やきもちを焼くな",
-   "en": "",
+   "en": "・Don't be jealous",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0067",
    "jp": "・ご、誤解だ！",
-   "en": "",
+   "en": "・Y-you've got it wrong!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0068",
    "jp": "・{s:000E}が１番可愛い",
-   "en": "",
+   "en": "・{s:000E} is the cutest",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0069",
    "jp": "そ‥‥そんなんじゃないわよ！{n}{FFFB}アタシはただ‥‥{FE0A}その‥‥。",
-   "en": "",
+   "en": "I-it's nothing like that! {FFFB}I just... {FE0A}um...",
    "term": "end"
   },
   {
    "id": "scen187.0070",
    "jp": "アンタ、自分の顔を鏡を見てみたら？{n}情けないくらいに{n}顔がニヤけてるわよ‥‥。",
-   "en": "",
+   "en": "Why don't you take a look at your face in a mirror?{n}You're grinning like a total sap...",
    "term": "end"
   },
   {
    "id": "scen187.0071",
    "jp": "ふ～んだ、今さらおだてても遅いわよ。{n}{FFFB}アンタのニヤけた顔は、{n}バッチリと見させてもらったんだからね！",
-   "en": "",
+   "en": "Hmph, flattering me now is too little, too late! {FFFB}I got a{n}real good look at that goofy grin of yours!",
    "term": "end"
   },
   {
    "id": "scen187.0072",
    "jp": "へぇ～。{n}アンタ、他の妖精にはあんま興味ないんだ？{n}{FFFB}ま、アンタにはアタシがいるもんね。",
-   "en": "",
+   "en": "Ohhh? So you're not that into the other fairies, huh?{n}{FFFB}Well, you've got me, after all.",
    "term": "end"
   },
   {
    "id": "scen187.0073",
    "jp": "‥‥まぁ、こんな感じで{n}個性豊かな妖精たちがお相手しますので、{n}楽しみにしててくださいね。{p}今日はどの子と話してみますか？",
-   "en": "",
+   "en": "...Well, that's the kind of colorful fairies who'll be keeping{n}you company, so look forward to it.{p}Which girl would you like to talk to today?",
    "term": "end"
   },
   {
    "id": "scen187.0074",
    "jp": "どの妖精にしますか？",
-   "en": "",
+   "en": "Which fairy will you choose?",
    "term": "end"
   },
   {
    "id": "scen187.0075",
    "jp": "・おっとりしている{s:0143}",
-   "en": "",
+   "en": "・Laid-back {s:0143}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0076",
    "jp": "・しっかり者の{s:0147}",
-   "en": "",
+   "en": "・Dependable {s:0147}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0077",
    "jp": "・元気な{s:0146}",
-   "en": "",
+   "en": "・Energetic {s:0146}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0078",
    "jp": "・感情豊かな{s:0144}",
-   "en": "",
+   "en": "・Emotional {s:0144}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0079",
    "jp": "・優雅な{s:0145}",
-   "en": "",
+   "en": "・Elegant {s:0145}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0080",
    "jp": "うわ～い、{s:0143}を選んでくれるんですねぇ！{n}すっごくうれし～ですぅ。{p}それじゃあ、色んなお話しましょうねぇ～。",
-   "en": "",
+   "en": "Yaaay, you're choosing {s:0143}! I'm{n}sooo happyyy.{p}Well then, let's talk about all sorts of thiiings.",
    "term": "end"
   },
   {
    "id": "scen187.0081",
    "jp": "わ、私ですか‥‥？{p}{FC05}ありがとうございます。{n}それでは、あちらに行きましょう。",
-   "en": "",
+   "en": "M-me...?{p}{FC05}Thank you very much. Then, let's go over there.",
    "term": "end"
   },
   {
    "id": "scen187.0082",
    "jp": "私を選んでくれるんですね、ありがとうございます！{n}楽しくお話しましょうね！",
-   "en": "",
+   "en": "You're choosing me? Thank you! Let's have a fun talk!",
    "term": "end"
   },
   {
    "id": "scen187.0083",
    "jp": "やったぁ、アタシなんだね！{n}それじゃ、さっさとあっち行こーよ。",
-   "en": "",
+   "en": "Yay, it's me! Come on, let's hurry over there.",
    "term": "end"
   },
   {
    "id": "scen187.0084",
    "jp": "よろしくお願いいたします。{n}{FFFB}満足していただけるよう、{n}誠心誠意努めさせていただきますわ。",
-   "en": "",
+   "en": "It is a pleasure. {FFFB}I shall devote myself wholeheartedly{n}to your satisfaction.",
    "term": "end"
   },
   {
    "id": "scen187.0085",
    "jp": "申し訳ありません、お客様。{n}妖精が当店を卒業してしまったため、{n}『妖精喫茶』のサービスは終了です。{p}そういえば、妖精たちからお客様へ{n}手紙とプレゼントを授かっております。{n}どうぞお受け取りください。",
-   "en": "",
+   "en": "We're very sorry, dear customer. Our fairies have{n}graduated from the shop, so the 'Fairy Café' service{n}has ended.{p}By the way, the fairies left a letter and a present for{n}you. Please accept them.",
    "term": "end"
   },
   {
    "id": "scen187.0086",
    "jp": "　　　『{FFEF}妖精からの手紙{FFF1}』と『{FFEF}祝福の鐘{FFF1}』{n}　　　を受け取った！",
-   "en": "",
+   "en": "　　　Received '{FFEF}Letter from the Fairies{FFF1}' and '{FFEF}Bell of{n}Blessing{FFF1}'!",
    "term": "end"
   },
   {
    "id": "scen187.0087",
    "jp": "今までご利用いただき、{n}どうもありがとうございました。",
-   "en": "",
+   "en": "Thank you very much for your patronage all this time.",
    "term": "end"
   },
   {
    "id": "scen187.0088",
    "jp": "妖精喫茶へようこそ！{n}利用代金は１回５００エルムですが、{n}妖精喫茶をご利用なさいますか？",
-   "en": "",
+   "en": "Welcome to the Fairy Café! It's 500 Elm per visit. Would{n}you like to use the Fairy Café?",
    "term": "end"
   },
   {
@@ -615,236 +615,236 @@
   {
    "id": "scen187.0091",
    "jp": "・暖炉に火をつける",
-   "en": "",
+   "en": "・Light the fireplace",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0092",
    "jp": "ありがとうございます！{n}今日はどの子と話してみますか？",
-   "en": "",
+   "en": "Thank you very much! Which girl would you like to talk{n}to today?",
    "term": "end"
   },
   {
    "id": "scen187.0093",
    "jp": "どの妖精と話してみますか？",
-   "en": "",
+   "en": "Which fairy would you like to talk to?",
    "term": "end"
   },
   {
    "id": "scen187.0094",
    "jp": "・おっとりしている{s:0143}",
-   "en": "",
+   "en": "・Laid-back {s:0143}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0095",
    "jp": "・しっかり者の{s:0147}",
-   "en": "",
+   "en": "・Dependable {s:0147}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0096",
    "jp": "・元気な{s:0146}",
-   "en": "",
+   "en": "・Energetic {s:0146}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0097",
    "jp": "・感情豊かな{s:0144}",
-   "en": "",
+   "en": "・Emotional {s:0144}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0098",
    "jp": "・優雅な{s:0145}",
-   "en": "",
+   "en": "・Elegant {s:0145}",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0099",
    "jp": "・やっぱやめる",
-   "en": "",
+   "en": "・Never mind",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen187.0100",
    "jp": "{s:0143}ちゃんは、{n}妖精喫茶を卒業してしまいました。{n}申し訳ありませんが、他の子でお願いします。",
-   "en": "",
+   "en": "I'm afraid {s:0143} has graduated from the{n}Fairy Café. We're sorry, but please choose{n}another girl.",
    "term": "end"
   },
   {
    "id": "scen187.0101",
    "jp": "{s:0147}ちゃんは、{n}妖精喫茶を卒業してしまいました。{n}申し訳ありませんが、他の子でお願いします。",
-   "en": "",
+   "en": "I'm afraid {s:0147} has graduated from the{n}Fairy Café. We're sorry, but please choose{n}another girl.",
    "term": "end"
   },
   {
    "id": "scen187.0102",
    "jp": "{s:0146}ちゃんは、{n}妖精喫茶を卒業してしまいました。{n}申し訳ありませんが、他の子でお願いします。",
-   "en": "",
+   "en": "I'm afraid {s:0146} has graduated from the{n}Fairy Café. We're sorry, but please choose{n}another girl.",
    "term": "end"
   },
   {
    "id": "scen187.0103",
    "jp": "{s:0144}ちゃんは、{n}妖精喫茶を卒業してしまいました。{n}申し訳ありませんが、他の子でお願いします。",
-   "en": "",
+   "en": "I'm afraid {s:0144} has graduated from the{n}Fairy Café. We're sorry, but please choose{n}another girl.",
    "term": "end"
   },
   {
    "id": "scen187.0104",
    "jp": "{s:0145}ちゃんは、{n}妖精喫茶を卒業してしまいました。{n}申し訳ありませんが、他の子でお願いします。",
-   "en": "",
+   "en": "I'm afraid {s:0145} has graduated from the{n}Fairy Café. We're sorry, but please choose{n}another girl.",
    "term": "end"
   },
   {
    "id": "scen187.0105",
    "jp": "今回はやめるのですね。{n}料金の方はお返しします。{n}またのご利用をお待ちしていますね。",
-   "en": "",
+   "en": "You've decided not to this time? We'll refund your fee.{n}We look forward to serving you again.",
    "term": "end"
   },
   {
    "id": "scen187.0106",
    "jp": "では、妖精さんとの会話を{n}お楽しみください。",
-   "en": "",
+   "en": "Then please enjoy your conversation with the fairy.",
    "term": "end"
   },
   {
    "id": "scen187.0107",
    "jp": "　{n}　{s:0143}は、新たな世界へと旅立っていった‥‥。",
-   "en": "",
+   "en": "　{n}　{s:0143} has set off for a new world...",
    "term": "end"
   },
   {
    "id": "scen187.0108",
    "jp": "　{n}　{s:0147}は、新たな世界へと旅立っていった‥‥。",
-   "en": "",
+   "en": "　{n}　{s:0147} has set off for a new world...",
    "term": "end"
   },
   {
    "id": "scen187.0109",
    "jp": "　{n}　{s:0146}は、遠い世界へと旅立っていった‥‥。",
-   "en": "",
+   "en": "　{n}　{s:0146} has set off for a{n}faraway world...",
    "term": "end"
   },
   {
    "id": "scen187.0110",
    "jp": "　{n}　{s:0144}は、新たな世界へと旅立っていった‥‥。",
-   "en": "",
+   "en": "　{n}　{s:0144} has set off for a new world...",
    "term": "end"
   },
   {
    "id": "scen187.0111",
    "jp": "　{n}　{s:0145}は、新たな世界へと旅立っていった‥‥。",
-   "en": "",
+   "en": "　{n}　{s:0145} has set off for a new world...",
    "term": "end"
   },
   {
    "id": "scen187.0112",
    "jp": "失礼します、お客様。{n}そろそろお時間となります。",
-   "en": "",
+   "en": "Excuse me, sir. Your time is nearly up.",
    "term": "end"
   },
   {
    "id": "scen187.0113",
    "jp": "もう、お出かけのお時間みたいですね～。{n}気をつけて行ってきてくださいね、ご主人様～。",
-   "en": "",
+   "en": "Looks like it's tiiime for you to head out. Please be{n}careful out there, Masterrr.",
    "term": "end"
   },
   {
    "id": "scen187.0114",
    "jp": "あう～、もうお出かけのお時間ですね～。{p}{FC05}それでは、いってらっしゃいませです。{n}ご主人様～。",
-   "en": "",
+   "en": "Awww, it's already tiiime for you to go out.{p}{FC05}Well then, have a safe trip, Masterrr.",
    "term": "end"
   },
   {
    "id": "scen187.0115",
    "jp": "あう～、もうお出かけのお時間なんですね～。{n}寂しいですけど、ご主人様のお見送りを{n}しなくちゃです～。{p}{FC01}でも、すぐに帰って来てくださいね！{n}{s:0143}、ずっとご主人様のご帰宅を待ってます～。",
-   "en": "",
+   "en": "Awww, it's already tiiime for you to go out. It's lonely,{n}but I have to see you off, Masterrr.{p}{FC01}But please come back soon! {s:0143} will be{n}waiting for you to come home the whole tiiime.",
    "term": "end"
   },
   {
    "id": "scen187.0116",
    "jp": "あ、もうそんな時間なんですね‥‥。{n}ご主人様をお見送りしなければなりません。{p}それでは行ってらっしゃいませ、ご主人様。",
-   "en": "",
+   "en": "Oh, is it that time already...? I must see you{n}off, Master.{p}Well then, have a safe trip, Master.",
    "term": "end"
   },
   {
    "id": "scen187.0117",
    "jp": "では、行ってらっしゃいませ、ご主人様。{n}道中、どうぞお気をつけて‥‥。",
-   "en": "",
+   "en": "Well then, have a safe trip, Master. Please take care on{n}your journey...",
    "term": "end"
   },
   {
    "id": "scen187.0118",
    "jp": "あっ、もうお見送りしなければいけないのですね‥‥。{n}{FFFB}{FFF6}楽しい時は、どうしてこんなに{n}早く過ぎてしまうのでしょう？{p}{FC00}‥‥でも、すぐに帰宅されますよね？{n}{FFFB}私、ご主人様のご帰宅を楽しみに{n}待っていますから‥‥。",
-   "en": "",
+   "en": "Oh, I must see you off already... {FFFB}{FFF6}Why is it that happy{n}times pass by so quickly?{p}{FC00}...But you'll be home soon, won't you? {FFFB}I'll be looking{n}forward to your return, Master...",
    "term": "end"
   },
   {
    "id": "scen187.0119",
    "jp": "もうお出かけのお時間なんですね‥‥。{n}おケガがないよう、{n}お気をつけてお出かけくださいませ！",
-   "en": "",
+   "en": "It's already time for you to head out... Please be{n}careful out there so you don't get hurt!",
    "term": "end"
   },
   {
    "id": "scen187.0120",
    "jp": "時間が経つのは早いですね‥‥。{p}それじゃ、あ、あの‥‥{n}{FFFB}{FC05}行ってらっしゃいませ、ご主人様！",
-   "en": "",
+   "en": "Time sure flies, doesn't it...{p}Well then, um, uh... {FFFB}{FC05}have a safe trip, Master!",
    "term": "end"
   },
   {
    "id": "scen187.0121",
    "jp": "あっ、もうそんな時間なんですか！？{n}私、楽しくてつい時間を忘れちゃってました‥‥。{p}‥‥あの、今日もお話できて嬉しかったです。{n}{FFFB}離れるのは寂しいですけど、{n}笑顔でお見送りしなきゃですよね。",
-   "en": "",
+   "en": "Oh, is it that time already?! I was having so much fun,{n}I lost track of time...{p}...Um, I was really happy we got to talk today too. {FFFB}I'm{n}sad to see you go, but I should see you off with a{n}smile, right?",
    "term": "end"
   },
   {
    "id": "scen187.0122",
    "jp": "うわっ、もうお出かけの時間なの！？{n}アタシ、お見送りしなきゃ！{p}{FC00}ケガしないように、気をつけてね。{n}それじゃ、行ってらっしゃいませ！",
-   "en": "",
+   "en": "Whoa, it's already time for you to go?! I've gotta see{n}you off!{p}{FC00}Be careful not to get hurt, okay? Well then, have a{n}safe trip!",
    "term": "end"
   },
   {
    "id": "scen187.0123",
    "jp": "うわっ、もうお出かけの時間なの！？{n}アタシ、お見送りしなきゃ！{p}{FC05}それじゃ、{n}行ってらっしゃいませ、ご主人様！",
-   "en": "",
+   "en": "Whoa, it's already time for you to go?! I've gotta see{n}you off!{p}{FC05}Well then, have a safe trip, Master!",
    "term": "end"
   },
   {
    "id": "scen187.0124",
    "jp": "え～、もうお出かけの時間なの～！？{n}もっとお話してたかったのに～。{p}‥‥でも、そんなワガママも言ってられないか。{n}{FFFB}{FC05}またすぐに帰ってきてよね！{n}アタシ、ずっと待ってるから‥‥約束ね？",
-   "en": "",
+   "en": "Whaaat, it's already time for you to go?! I wanted to{n}talk some mooore.{p}...But I guess I can't be selfish like that. {FFFB}{FC05}Come back{n}again soon, okay?! I'll be waiting the whole time... It's a{n}promise, okay?",
    "term": "end"
   },
   {
    "id": "scen187.0125",
    "jp": "もう、お出かけのお時間のようですね‥‥。{p}長い旅路になるかもしれませんが、{n}どうかおケガのないよう、お気をつけくださいませ。",
-   "en": "",
+   "en": "It seems it is already time for you to depart...{p}It may be a long journey, but please do take care not{n}to be hurt.",
    "term": "end"
   },
   {
    "id": "scen187.0126",
    "jp": "もう、お出かけのお時間のようですね‥‥。{p}{FC05}それでは、{n}行ってらっしゃいませ、ご主人様。",
-   "en": "",
+   "en": "It seems it is already time for you to depart...{p}{FC05}Well then, have a safe trip, Master.",
    "term": "end"
   },
   {
    "id": "scen187.0127",
    "jp": "もう、ご出発のお時間なのですね‥‥。{n}名残惜しいですが、お見送りせねばなりません。{p}{FC00}{FFF6}離れていても、ご主人様のご無事を{n}ずっとお祈りしておりますわ‥‥。",
-   "en": "",
+   "en": "So it is already time for your departure... I am loath to{n}part, but I must see you off.{p}{FC00}{FFF6}Even when we are apart, I shall pray for your safety{n}always, Master...",
    "term": "end"
   },
   {
    "id": "scen187.0128",
    "jp": "ご利用、ありがとうございました！{n}またいらしてくださいね、お待ちしております。",
-   "en": "",
+   "en": "Thank you for visiting! Please come again, we'll be{n}waiting for you.",
    "term": "end"
   },
   {
@@ -857,7 +857,7 @@
   {
    "id": "scen187.0130",
    "jp": "{s:014F}様に誘われているのに、{n}無視したら失礼だよ。",
-   "en": "",
+   "en": "Lady {s:014F} invited us. It'd be rude to{n}ignore her.",
    "term": "end"
   }
  ]

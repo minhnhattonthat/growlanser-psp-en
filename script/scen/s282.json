@@ -15,13 +15,13 @@
   {
    "id": "scen282.0001",
    "jp": "{FFEE}アメリアを守りつつモンスターを倒せ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Defeat the monsters while protecting Amelia!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen282.0002",
    "jp": "アメリアにどう指示しますか？",
-   "en": "",
+   "en": "What orders will you give Amelia?",
    "term": "end"
   },
   {
@@ -51,32 +51,32 @@
   {
    "id": "scen282.0006",
    "jp": "・付いて来い",
-   "en": "",
+   "en": "・Follow me",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen282.0007",
    "jp": "こいつね？",
-   "en": "",
+   "en": "This one?",
    "term": "end"
   },
   {
    "id": "scen282.0008",
    "jp": "{FFF6}わかったわ！",
-   "en": "",
+   "en": "{FFF6}Got it!",
    "term": "end"
   },
   {
    "id": "scen282.0009",
    "jp": "わかったわ！",
-   "en": "",
+   "en": "Got it!",
    "term": "end"
   },
   {
    "id": "scen282.0010",
    "jp": "ご‥ごめんなさい‥‥。",
-   "en": "",
+   "en": "I... I'm sorry...",
    "term": "end"
   }
  ]

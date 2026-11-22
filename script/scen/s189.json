@@ -134,7 +134,7 @@
   {
    "id": "scen189.0018",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "",
+   "en": "　{n}　　　　　A Portable Mana Pillar has been set{n}up here.",
    "term": "end"
   },
   {
@@ -427,7 +427,7 @@
   {
    "id": "scen189.0060",
    "jp": "留守のようだ。",
-   "en": "",
+   "en": "Nobody seems to be home.",
    "term": "end"
   },
   {
@@ -636,7 +636,7 @@
   {
    "id": "scen189.0090",
    "jp": "　{n}プレートに『{FFEE}るいせちゃんのお部屋{FFF1}』と書いてある。",
-   "en": "",
+   "en": "　{n}The plate reads '{FFEE}Luise-chan's Room{FFF1}.'",
    "term": "end"
   },
   {

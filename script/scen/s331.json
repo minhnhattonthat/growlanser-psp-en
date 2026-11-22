@@ -15,26 +15,26 @@
   {
    "id": "scen331.0001",
    "jp": "こんにちは、ご主人様。{n}{FFFB}{FC05}私、ピティって言います！{p}{FC00}今日は初めてですし、私自身のことを{n}お話しようかなって思うんですけど、{n}なにから話せばいいのか悩んじゃいますね‥‥。",
-   "en": "",
+   "en": "Hello, Master. {FFFB}{FC05}My name's Piti!{p}{FC00}Since this is our first time, I thought I'd tell you about{n}myself, but I can't decide where to start...",
    "term": "end"
   },
   {
    "id": "scen331.0002",
    "jp": "何を聞いてみますか？",
-   "en": "",
+   "en": "What will you ask her?",
    "term": "end"
   },
   {
    "id": "scen331.0003",
    "jp": "・好きなことは？",
-   "en": "",
+   "en": "・What do you like?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0004",
    "jp": "・興味があることは？",
-   "en": "",
+   "en": "・What are you interested in?",
    "term": "end",
    "unref": true
   },
@@ -49,629 +49,629 @@
   {
    "id": "scen331.0006",
    "jp": "私の好きなことですか？{p}{FC03}呆れられちゃうかもですけど、{n}私は何でも好きなんで、{n}１番って決められないんです。{p}{FC00}あっ、でも、ご主人様が一番好きなことなら、{n}それは私にとっても一番好きなことになります！{p}{FC05}‥‥あの、ご主人様。{n}あなたの１番好きなことを、私に教えてくれませんか？",
-   "en": "",
+   "en": "What do I like?{p}{FC03}You might think I'm silly, but I like everything, so I can't{n}pick a number one.{p}{FC00}Oh, but whatever you like best, Master, would be what{n}I like best too!{p}{FC05}...Um, Master. Will you tell me what you like best?",
    "term": "end"
   },
   {
    "id": "scen331.0007",
    "jp": "ここでは、あなたが私のご主人様ですから、{n}あなたが好きなことが私の好きなことです。{n}ご主人様が好きなもの、ことは何ですか？",
-   "en": "",
+   "en": "Here, you're my master, so whatever you like is what I{n}like. What things do you like, Master?",
    "term": "end"
   },
   {
    "id": "scen331.0008",
    "jp": "・世界平和",
-   "en": "",
+   "en": "・World peace",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0009",
    "jp": "・世界征服",
-   "en": "",
+   "en": "・World domination",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0010",
    "jp": "・世界遺産",
-   "en": "",
+   "en": "・World heritage sites",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0011",
    "jp": "世界平和ですか。{n}とっても素敵ですね！{p}{FC05}エヘへ‥‥、{n}あなたが私のご主人様で良かったです。",
-   "en": "",
+   "en": "World peace? That's really wonderful!{p}{FC05}Ehehe... I'm glad you're my master.",
    "term": "end"
   },
   {
    "id": "scen331.0012",
    "jp": "せ、世界征服ですか‥‥？{n}{FFFB}ご主人様は、{n}すごい野望を秘めてるんですね‥‥！",
-   "en": "",
+   "en": "W-World domination...? {FFFB}You're hiding some huge{n}ambitions, Master...!",
    "term": "end"
   },
   {
    "id": "scen331.0013",
    "jp": "世界遺産ですか。{n}とっても神秘的ですね！{p}人間界には知らないことが{n}まだたくさんあるので、{n}これから色々な所を見てみたいです！",
-   "en": "",
+   "en": "World heritage sites? They're so mysterious!{p}There's still lots I don't know about the human world,{n}so I want to go see all kinds of places from now on!",
    "term": "end"
   },
   {
    "id": "scen331.0014",
    "jp": "私が興味があることですか？{p}‥‥実は私、演劇を見るのがすきなんです。{n}{FFFB}以前に見た演劇のヒロインが、{n}とても綺麗で忘れられなくて‥‥。",
-   "en": "",
+   "en": "What am I interested in?{p}...Actually, I love watching plays. {FFFB}The heroine of a play I{n}saw before was so beautiful, I can't forget her...",
    "term": "end"
   },
   {
    "id": "scen331.0015",
    "jp": "私もいつか舞台に立つのが夢なんです。",
-   "en": "",
+   "en": "It's my dream to stand on a stage someday too.",
    "term": "end"
   },
   {
    "id": "scen331.0016",
    "jp": "・きっと叶うよ",
-   "en": "",
+   "en": "・I'm sure it'll come true",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0017",
    "jp": "・難しいんじゃない？",
-   "en": "",
+   "en": "・Isn't that a long shot?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0018",
    "jp": "エヘへ、ありがとうございます。{n}私、絶対に夢を叶えられるよう頑張りますね！",
-   "en": "",
+   "en": "Ehehe, thank you! I'll do my very best to make my{n}dream come true!",
    "term": "end"
   },
   {
    "id": "scen331.0019",
    "jp": "やっぱり、ただの妖精には難しいですよね‥‥。{n}{FFFB}{FC00}でも、簡単に夢を諦めたくはないから、{n}出来る限り頑張ってみようと思います！",
-   "en": "",
+   "en": "I guess it really is hard for a mere fairy, isn't it... {FFFB}{FC00}But I{n}don't want to give up on my dream so easily, so I'll try{n}as hard as I can!",
    "term": "end"
   },
   {
    "id": "scen331.0020",
    "jp": "‥‥あの、えっと‥‥。{n}{FE14}ごめんなさい、お話が続きませんでしたね‥‥。",
-   "en": "",
+   "en": "...Um, well... {FE14}Sorry, I couldn't keep the{n}conversation going...",
    "term": "end"
   },
   {
    "id": "scen331.0021",
    "jp": "ご主人様と会うのは、２回目ですよね。{n}{FFFB}ご主人様のこと、色々と知りたいので{n}今日は私からご主人様に質問させて下さい！{p}‥‥そういえば、ご主人様って騎士なんですよね。{n}騎士といえば、国王に仕え、{n}戦うのが務めですけど‥‥。",
-   "en": "",
+   "en": "This is the second time we've met, right, Master? {FFFB}I{n}want to learn all kinds of things about you, so today{n}let me ask you the questions!{p}...Come to think of it, you're a knight, aren't you,{n}Master? A knight's duty is to serve the King and{n}fight, but...",
    "term": "end"
   },
   {
    "id": "scen331.0022",
    "jp": "ご主人様にとって、{n}心から守りたいものって何ですか？",
-   "en": "",
+   "en": "What is it that you truly want to protect, Master?",
    "term": "end"
   },
   {
    "id": "scen331.0023",
    "jp": "・家族や仲間",
-   "en": "",
+   "en": "・My family and friends",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0024",
    "jp": "・名誉や金",
-   "en": "",
+   "en": "・Honor and money",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0025",
    "jp": "・自分自身",
-   "en": "",
+   "en": "・Myself",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0026",
    "jp": "確かに、自分の家族や仲間は{n}決してお金では買うことの出来ない{n}かけがえのない存在ですよね。{p}{FC05}私もご主人様と同じように、{n}自分にとってかけがえのない人を{n}守っていきたいなって思います！",
-   "en": "",
+   "en": "That's true, your family and friends are irreplaceable.{n}Money could never buy them.{p}{FC05}Just like you, Master, I want to protect the people{n}who are irreplaceable to me!",
    "term": "end"
   },
   {
    "id": "scen331.0027",
    "jp": "名誉やお金‥‥、ですか？{n}{FFFB}確かに、時には生きていくために{n}必要になるのかもしれないですね。{p}その辺りの価値は、{n}私にはよく分からないんですけど‥‥。{n}{FFFB}‥‥ごめんなさい‥‥。",
-   "en": "",
+   "en": "Honor and money...? {FFFB}I guess sometimes you might need{n}them to get by.{p}I don't really understand what they're worth, though...{n}{FFFB}...Sorry...",
    "term": "end"
   },
   {
    "id": "scen331.0028",
    "jp": "確かに、自分の身が守れなければ{n}元も子もないですもんね。{p}{FC03}けど、私だったらきっと‥‥、{n}大切な人のためなら自分の身を{n}投げ出してしまうかもしれません‥‥。",
-   "en": "",
+   "en": "That's true, if you can't protect yourself, it's all{n}for nothing.{p}{FC03}But if it were me... I might just throw myself away for{n}someone dear to me...",
    "term": "end"
   },
   {
    "id": "scen331.0029",
    "jp": "聞いてください！{n}私、この前、劇場で演劇を見てきたんですよ！{p}{FC04}それが、もう凄く良くって‥‥。{n}思い出すだけでウットリしちゃいます‥‥。",
-   "en": "",
+   "en": "Listen to this! The other day, I went to see a play at{n}the theater!{p}{FC04}And it was sooo good... Just thinking about it makes{n}me swoon...",
    "term": "end"
   },
   {
    "id": "scen331.0030",
    "jp": "あっ、ご主人様は{n}どんな演劇が好きなんですか？",
-   "en": "",
+   "en": "Oh, Master, what kind of plays do you like?",
    "term": "end"
   },
   {
    "id": "scen331.0031",
    "jp": "・コメディもの",
-   "en": "",
+   "en": "・Comedies",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0032",
    "jp": "・恋愛もの",
-   "en": "",
+   "en": "・Romances",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0033",
    "jp": "・演劇に興味ない",
-   "en": "",
+   "en": "・I'm not into plays",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0034",
    "jp": "コメディは、見てる人たちを{n}楽しい気持ちにさせてくれるんでしょうね！{p}{FC00}私はまだコメディの演劇を見たことがないので、{n}いつか見てみたいです！",
-   "en": "",
+   "en": "Comedies must put everyone watching in a happy mood!{p}{FC00}I've never seen a comedy play yet, so I'd like to see{n}one someday!",
    "term": "end"
   },
   {
    "id": "scen331.0035",
    "jp": "あっ、私と同じですね！{n}私も、恋愛ものを見るのが好きなんです。{p}{FC00}舞台上で繰り広げられる恋物語に、{n}いつも心が奪われてしまって‥‥。{p}{FC04}私も、１度でいいから素敵な恋がしてみたいな、{n}なんて憧れちゃうんです。{n}{FE14}‥‥エヘへ。",
-   "en": "",
+   "en": "Oh, same as me! I love watching romances too.{p}{FC00}The love stories that unfold on stage always steal{n}my heart...{p}{FC04}I dream that just once, I'd like to fall into a wonderful{n}romance too. {FE14}...Ehehe.",
    "term": "end"
   },
   {
    "id": "scen331.0036",
    "jp": "そうなんですか、それは残念です‥‥。{p}{FC00}でも、もし興味が出た時は教えて下さいね。{n}私がおススメの演劇を紹介しますから！",
-   "en": "",
+   "en": "Is that so? That's too bad...{p}{FC00}But if you ever get interested, please tell me. I'll{n}recommend some plays I love!",
    "term": "end"
   },
   {
    "id": "scen331.0037",
    "jp": "そういえば妖精界のファッションって、{n}人間界とあまり大差ないんですよ！{n}知ってました、ご主人様？",
-   "en": "",
+   "en": "By the way, fashion in the fairy world isn't all that{n}different from the human world! Did you know{n}that, Master?",
    "term": "end"
   },
   {
    "id": "scen331.0038",
    "jp": "ご主人様は、女の子の服は{n}どんな系統のものが好きなんですか？",
-   "en": "",
+   "en": "Master, what style of clothes do you like on girls?",
    "term": "end"
   },
   {
    "id": "scen331.0039",
    "jp": "・スポーティーなの",
-   "en": "",
+   "en": "・Sporty",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0040",
    "jp": "・セクシーなの",
-   "en": "",
+   "en": "・Sexy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0041",
    "jp": "・キュートなの",
-   "en": "",
+   "en": "・Cute",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0042",
    "jp": "あっ、私もそういう服装が好きなんです！{p}スカートも可愛くて好きなんですけど、{n}動きづらいから普段はあまり着ないんですよ。",
-   "en": "",
+   "en": "Oh, I like clothes like that too!{p}Skirts are cute and I like them, but they're hard to{n}move in, so I don't wear them much normally.",
    "term": "end"
   },
   {
    "id": "scen331.0043",
    "jp": "セ、セクシーなのですかぁ！？{p}{FC05}そういう服が似合う方って、{n}大人っぽくて素敵ですよね。{n}私には着こなせないから、憧れです。",
-   "en": "",
+   "en": "S-Sexy ones?!{p}{FC05}People who look good in clothes like that seem so{n}grown-up and wonderful. I could never pull them off,{n}so I really admire them.",
    "term": "end"
   },
   {
    "id": "scen331.0044",
    "jp": "キュートな服が似合う女の子って、{n}見てるだけで可愛いですよね。{p}でも、服についてるレースとかリボンって、{n}どこかに引っ掛けちゃいそうで‥‥。{n}普段の私には着れないかもです。",
-   "en": "",
+   "en": "Girls who look good in cute clothes are adorable just to{n}look at.{p}But the lace and ribbons on those clothes seem like{n}they'd catch on things... I might not be able to wear{n}them in my everyday life.",
    "term": "end"
   },
   {
    "id": "scen331.0045",
    "jp": "ユリィちゃんって、{n}礼儀作法がバッチリなんですよ！{p}食事の時もすごくキレイに食べるし、{n}言葉遣いも丁寧だし‥‥。{n}{FFFB}同じ妖精として、憧れちゃいます。{p}私も見習わなきゃって思ってるんですけど、{n}今日もほっぺにご飯粒が付いているって{n}ユニちゃんに言われちゃって‥‥。",
-   "en": "",
+   "en": "Yurie-chan has perfect manners!{p}She eats so neatly at meals, and she speaks so{n}politely... {FFFB}As a fellow fairy, I really look up to her.{p}I keep telling myself I should follow her example, but{n}today Yuni-chan told me I had a grain of rice stuck on{n}my cheek again...",
    "term": "end"
   },
   {
    "id": "scen331.0046",
    "jp": "‥‥私、こんなんじゃ全然ダメですよね。",
-   "en": "",
+   "en": "...I'm just hopeless like this, aren't I?",
    "term": "end"
   },
   {
    "id": "scen331.0047",
    "jp": "・そのままでいい",
-   "en": "",
+   "en": "・You're fine the way you are",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0048",
    "jp": "・無理しすぎるな",
-   "en": "",
+   "en": "・Don't push yourself too hard",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0049",
    "jp": "・ダメダメだな",
-   "en": "",
+   "en": "・Yeah, totally hopeless",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0050",
    "jp": "えっ‥‥？{n}{FFFB}あ、ありがとうございます、ご主人様。{p}{FC05}ご主人様がそう言ってくれると、{n}すっごく嬉しいです。えへへ‥‥。",
-   "en": "",
+   "en": "Huh...? {FFFB}Th-Thank you, Master.{p}{FC05}It makes me sooo happy when you say that,{n}Master. Ehehe...",
    "term": "end"
   },
   {
    "id": "scen331.0051",
    "jp": "ありがとうございます、{n}ご主人様って優しいんですね。{p}{FC00}ご主人様の言う通り、{n}無理しすぎないで頑張りますね！",
-   "en": "",
+   "en": "Thank you. You're so kind, Master.{p}{FC00}Just like you said, Master, I'll do my best without{n}pushing myself too hard!",
    "term": "end"
   },
   {
    "id": "scen331.0052",
    "jp": "そ、そうですよね‥‥。{n}もっと頑張らなきゃですよね‥‥。",
-   "en": "",
+   "en": "R-Right... I need to try harder, don't I...",
    "term": "end"
   },
   {
    "id": "scen331.0053",
    "jp": "人間の世界には、『暴君』と異名をとるほどの{n}辛い唐辛子があるって聞いたことがあります。{p}{FC05}実は私、すっごく興味津々なんです！{n}いったい、どれだけ辛いんでしょうかね？",
-   "en": "",
+   "en": "I've heard there's a chili pepper in the human world so{n}hot it's nicknamed 'the Tyrant.'{p}{FC05}Actually, I'm super curious about it! Just how hot do{n}you think it is?",
    "term": "end"
   },
   {
    "id": "scen331.0054",
    "jp": "そうだ、ご主人様！　よろしければ今度、{n}ご一緒に激辛料理を食べに行きませんか？",
-   "en": "",
+   "en": "Oh, I know, Master! If you'd like, would you go eat some{n}super-spicy food with me sometime?",
    "term": "end"
   },
   {
    "id": "scen331.0055",
    "jp": "・激辛なら任せろ",
-   "en": "",
+   "en": "・Leave the spicy stuff to me",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0056",
    "jp": "・我慢すればいける",
-   "en": "",
+   "en": "・I can handle it if I tough it out",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0057",
    "jp": "・無理、死ぬ",
-   "en": "",
+   "en": "・No way, it'd kill me",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0058",
    "jp": "よかった、ご主人様も激辛党だったんですね！{p}{FC00}コリンちゃんから、今話題のお店の情報を{n}教えてもらったんですよ。{p}今、話題の激辛カレーがあるらしくって。{n}『超・アースクエイク級★激辛メテオカレー』{n}って言うらしいんですけど‥‥。{p}{FFF6}なんでも、辛すぎて全身の毛穴から{n}１リットル以上の汗が吹き出ちゃうそうですよ！",
-   "en": "",
+   "en": "Great, so you're a spicy-food lover too, Master!{p}{FC00}Colin-chan told me about a shop everyone's{n}talking about.{p}Apparently they have a super-spicy curry that's all the{n}rage right now. I hear it's called the 'Super{n}Earthquake-Class Fiery Meteor Curry'...{p}{FFF6}They say it's so hot that over a liter of sweat comes{n}pouring out of every pore in your body!",
    "term": "end"
   },
   {
    "id": "scen331.0059",
    "jp": "ガ、ガマンは体によくないです！{n}無理して刺激物を摂取しても、{n}かえって体に毒ですから‥‥。{p}{FC00}そうだ！{n}今度、私がご主人様のお口に合う{n}ピリ辛の料理を作ってきますね。",
-   "en": "",
+   "en": "T-Toughing it out isn't good for you! Forcing yourself{n}to eat spicy things will only harm your body...{p}{FC00}Oh, I know! Next time, I'll make you something just a{n}little spicy that suits your taste, Master.",
    "term": "end"
   },
   {
    "id": "scen331.0060",
    "jp": "し、死んじゃイヤです、ご主人様！{p}ご主人様が死んじゃうなら、{n}私、もう激辛料理は食べません！",
-   "en": "",
+   "en": "P-Please don't die, Master!{p}If it would kill you, Master, I'll never eat super-spicy{n}food again!",
    "term": "end"
   },
   {
    "id": "scen331.0061",
    "jp": "ご主人様は、{n}『クイーン・オブ・ピクシー』ってご存知ですか？{p}妖精界のトップに輝いた者に授けられる{n}称号なんですけど、相当の難関なんですよ。",
-   "en": "",
+   "en": "Master, have you heard of the 'Queen of Pixies'?{p}It's a title awarded to whoever shines at the very top{n}of the fairy world, but it's incredibly hard to earn.",
    "term": "end"
   },
   {
    "id": "scen331.0062",
    "jp": "難しい計算式とか苦手な私には、{n}きっと無理でしょうね‥‥。",
-   "en": "",
+   "en": "I'm bad at hard math formulas, so it would probably be{n}impossible for me...",
    "term": "end"
   },
   {
    "id": "scen331.0063",
    "jp": "・頑張ればできる",
-   "en": "",
+   "en": "・You can do it if you try",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0064",
    "jp": "・難しいだろうな",
-   "en": "",
+   "en": "・That'll be tough",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0065",
    "jp": "・カンペ作れば大丈夫",
-   "en": "",
+   "en": "・Just use a cheat sheet",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0066",
    "jp": "‥‥そ、そうでしょうか？{p}{FFF6}‥‥いや、最初から諦めちゃダメですよね。{n}{FFFB}{FC00}私、苦手な勉強も頑張ってやります！{n}何事もチャレンジですよね。{p}{FC05}ご主人様の言葉から勇気をもらえました、{n}有難うございます！",
-   "en": "",
+   "en": "...Y-You think so?{p}{FFF6}...No, I shouldn't give up before I even start. {FFFB}{FC00}I'll work{n}hard, even at the studying I'm bad at! You've got to try{n}everything, right?{p}{FC05}Your words gave me courage, Master. Thank you!",
    "term": "end"
   },
   {
    "id": "scen331.0067",
    "jp": "やっぱり、私には難しいですよね‥‥。{p}‥‥でも、簡単な計算式から勉強すれば、{n}いつかは解けるようになるでしょうか？",
-   "en": "",
+   "en": "I guess it really is too hard for me...{p}...But if I study, starting with simple formulas, do you{n}think I'll be able to solve them someday?",
    "term": "end"
   },
   {
    "id": "scen331.0068",
    "jp": "カンペって何ですか、ご主人様？{p}{FC03}‥‥えっ？{n}{FE14}‥‥カンニング・ペーパー！？{n}{FFFB}そんな‥‥ダメですよ、ご主人様！{p}反則で勝っても、{n}私、嬉しくありません‥‥。{p}{FC05}やっぱり、カンペに頼らなくても{n}解けるように、コツコツと勉強しなくちゃ{n}ダメなんですよね。",
-   "en": "",
+   "en": "What's a cheat sheet, Master?{p}{FC03}...Huh? {FE14}...Notes for cheating?! {FFFB}No... That's not{n}allowed, Master!{p}Even if I won by cheating, I wouldn't be happy...{p}{FC05}I really do have to study bit by bit, so I can solve them{n}without relying on a cheat sheet.",
    "term": "end"
   },
   {
    "id": "scen331.0069",
    "jp": "あの‥‥ご主人様。{n}{FFFB}今日は、私のお願いを１つだけ{n}聞いてもらえないでしょうか？{p}実は先日、公演が終了した演劇の台本を{n}入手することが出来たんです！{p}{FFF6}私、すっごく嬉しくって‥‥、{n}台詞を暗記してしまうくらい、{n}何度も読み返しました。{p}そうしているうちに、１度でいいから{n}ご主人様と一緒にこのお話の台詞を{n}合わせてみたいと思ってしまって‥‥。",
-   "en": "",
+   "en": "Um... Master. {FFFB}Would you grant me just one wish today?{p}Actually, the other day I managed to get the script of{n}a play that just finished its run!{p}{FFF6}I was sooo happy... I read it over and over, until I had{n}the lines memorized.{p}And while I was doing that, I started wishing that just{n}once, I could run through the lines of this story with{n}you, Master...",
    "term": "end"
   },
   {
    "id": "scen331.0070",
    "jp": "私の相手役を引き受けてくださいませんか、{n}ご主人様‥‥？",
-   "en": "",
+   "en": "Will you play the part opposite me, Master...?",
    "term": "end"
   },
   {
    "id": "scen331.0071",
    "jp": "・喜んで引き受ける",
-   "en": "",
+   "en": "・Gladly accept",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0072",
    "jp": "・嫌々引き受ける",
-   "en": "",
+   "en": "・Reluctantly accept",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0073",
    "jp": "ありがとうございます！{n}{FFFB}{FC00}‥‥よかった、引き受けてもらえて‥‥。",
-   "en": "",
+   "en": "Thank you! {FFFB}{FC00}...I'm so glad you said yes...",
    "term": "end"
   },
   {
    "id": "scen331.0074",
    "jp": "ご、ごめんなさい‥‥。{p}{FFF6}でも、この役はどうしてもご主人様に{n}演じてもらいたくて‥‥。{n}すぐに終りますから、お願いします。",
-   "en": "",
+   "en": "I-I'm sorry...{p}{FFF6}But I really wanted you to play this part, Master... It'll{n}be over soon, so please.",
    "term": "end"
   },
   {
    "id": "scen331.0075",
    "jp": "‥‥えっと、こちらが台本です。{p}私はもう台詞を暗記してるので、{n}ご主人様は私の台詞に合わせて{n}台本を読んでいただけますか‥‥？{p}短いワンシーンなので、すぐに終ります。{n}それじゃ、始めますね！",
-   "en": "",
+   "en": "...Um, here's the script.{p}I've already memorized my lines, so could you read{n}from the script along with my lines, Master...?{p}It's just one short scene, so it'll be over soon. Okay,{n}let's begin!",
    "term": "end"
   },
   {
    "id": "scen331.0076",
    "jp": "{FFEF}ああ、私のご主人様‥‥！{p}{FFF6}血に染まる土地へと向かう貴方の後ろ姿を、{n}私はこうやって見送ることしか{n}出来ないのでしょうか！？{p}{FFF7}昼夜問わず、私の身を焦がし続けている{n}溢れ出る貴方へのこの想いを鎖に変えて、{n}貴方の足に繋ぐことが出来たら‥‥！{FFF1}",
-   "en": "",
+   "en": "{FFEF}Ah, my lord...!{p}{FFF6}Can I do nothing but watch you go, your back turned{n}toward the blood-soaked land?!{p}{FFF7}If only I could turn these overflowing feelings for you,{n}which burn me day and night, into a chain and bind it to{n}your feet...!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen331.0077",
    "jp": "{FFEE}『それ以上、言ってはいけない。{n}　お前を置いて、旅立てなくなってしまう。』{FFF1}",
-   "en": "",
+   "en": "{FFEE}'Say no more. Or I shall not be able to leave you behind{n}and depart.'{FFF1}",
    "term": "end"
   },
   {
    "id": "scen331.0078",
    "jp": "・憂いを込めて言う",
-   "en": "",
+   "en": "・Say it with sorrow",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0079",
    "jp": "・喜びを込めて言う",
-   "en": "",
+   "en": "・Say it with joy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0080",
    "jp": "・怒りを込めて言う",
-   "en": "",
+   "en": "・Say it with anger",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0081",
    "jp": "‥‥えっ？{n}{FE14}‥‥じゃなかった、ええっと‥‥。",
-   "en": "",
+   "en": "...Huh? {FE14}...I mean, um...",
    "term": "end"
   },
   {
    "id": "scen331.0082",
    "jp": "‥‥え、えっと‥‥。",
-   "en": "",
+   "en": "...U-Um...",
    "term": "end"
   },
   {
    "id": "scen331.0083",
    "jp": "{FFEF}身をわきまえぬ私の我がままを、{n}どうかお許しください。{p}{FC02}{FFF6}ですが、私はこの思いを{n}もう抑えることなど出来ません！{p}{FFF7}例え、それが神の教えに背くことに{n}なったとしても‥‥！{p}{FC03}お願いです、ご主人様。{n}‥‥私に、せめて少しの勇気を下さい。{n}{FFFB}{FFF6}貴方の手を離す、勇気を‥‥！{FFF1}",
-   "en": "",
+   "en": "{FFEF}Please forgive the selfishness of one who forgets{n}her place.{p}{FC02}{FFF6}But I can no longer hold back these feelings!{p}{FFF7}Even if it means defying the teachings of the gods...!{p}{FC03}I beg you, my lord. ...Grant me at least a little courage.{n}{FFFB}{FFF6}The courage to let go of your hand...!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen331.0084",
    "jp": "{FFEE}『‥‥嗚呼、私の可愛い人よ。{n}　私は悪を討ち、必ずやお前の元へ{n}　戻ってくると約束しよう。』{FFF1}",
-   "en": "",
+   "en": "{FFEE}'...Alas, my beloved. I swear I shall strike down evil and{n}return to you without fail.'{FFF1}",
    "term": "end"
   },
   {
    "id": "scen331.0085",
    "jp": "・無感情に言う",
-   "en": "",
+   "en": "・Say it without emotion",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0086",
    "jp": "・面白おかしく言う",
-   "en": "",
+   "en": "・Say it comically",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0087",
    "jp": "・力強く言う",
-   "en": "",
+   "en": "・Say it forcefully",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0088",
    "jp": "あっ‥‥、その‥‥。",
-   "en": "",
+   "en": "Oh... um...",
    "term": "end"
   },
   {
    "id": "scen331.0089",
    "jp": "‥‥えっ！？{n}{FE14}‥‥あっ、すみません。{n}ええっと‥‥。",
-   "en": "",
+   "en": "...Huh?! {FE14}...Oh, sorry. Um...",
    "term": "end"
   },
   {
    "id": "scen331.0090",
    "jp": "{FFEF}‥‥どうか忘れないでください、ご主人様。{n}{FFFB}例えどんなに離れていても、{n}貴方様の手は、私へと繋がれていることを‥‥。{FFF1}",
-   "en": "",
+   "en": "{FFEF}...Please do not forget, my lord. {FFFB}No matter how far{n}apart we may be, your hand is still joined to mine...{FFF1}",
    "term": "end"
   },
   {
    "id": "scen331.0091",
    "jp": "アドリブで何かしますか？",
-   "en": "",
+   "en": "Will you ad-lib something?",
    "term": "end"
   },
   {
    "id": "scen331.0092",
    "jp": "・ピティをそっと抱き寄せる",
-   "en": "",
+   "en": "・Gently pull Piti close",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0093",
    "jp": "・ピティの手を握る",
-   "en": "",
+   "en": "・Hold Piti's hand",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0094",
    "jp": "・何もしない",
-   "en": "",
+   "en": "・Do nothing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0095",
    "jp": "あっ、ご主人様‥‥。{n}{FFFB}{FFF6}‥{FE14}‥{FE14}‥{FE14}‥。",
-   "en": "",
+   "en": "Ah, Master... {FFFB}{FFF6}.{FE14}.{FE14}.{FE14}.",
    "term": "end"
   },
   {
    "id": "scen331.0096",
    "jp": "‥‥ご、ご主人様‥‥。",
-   "en": "",
+   "en": "...M-Master...",
    "term": "end"
   },
   {
    "id": "scen331.0097",
    "jp": "{FFEF}心からお慕い申し上げております、{n}ご主人様‥‥。{FFF1}",
-   "en": "",
+   "en": "{FFEF}I love you with all my heart, my lord...{FFF1}",
    "term": "end"
   },
   {
    "id": "scen331.0098",
    "jp": "これでお終いです、ご主人様。{n}{FFFB}付き合ってくださって、{n}本当にありがとうございました。",
-   "en": "",
+   "en": "That's the end, Master. {FFFB}Thank you so much for playing{n}along with me.",
    "term": "end"
   },
   {
    "id": "scen331.0099",
    "jp": "すみません、所々でつっかえちゃって{n}あまりスムーズに行きませんでしたね‥‥。{p}{FC00}でも、このシーンをご主人様と{n}演じることが出来て、私すごく幸せです！",
-   "en": "",
+   "en": "Sorry, I stumbled here and there, so it didn't go{n}very smoothly...{p}{FC00}But I got to act out this scene with you, Master, and{n}I'm so happy!",
    "term": "end"
   },
   {
    "id": "scen331.0100",
    "jp": "ご主人様のおかげで、{n}とっても素敵な台詞合わせが出来ました。{p}途中から私、役の人に感情移入してしまって‥‥。{n}心臓がドキドキしちゃって‥‥。エヘへ‥‥。{p}{FC04}このシーンをご主人様と演じることが出来て、{n}私‥‥すっごく幸せです。{p}あの、これ‥‥、{n}私からご主人様に感謝の気持ちです！{n}受け取ってもらえますか、ご主人様‥‥？",
-   "en": "",
+   "en": "Thanks to you, Master, our line reading was wonderful.{p}Partway through, I got so caught up in my character's{n}feelings... My heart was pounding... Ehehe...{p}{FC04}I got to act out this scene with you, Master, and I'm...{n}sooo happy.{p}Um, this is... to show you my gratitude, Master! Will you{n}accept it, Master...?",
    "term": "end"
   },
   {
    "id": "scen331.0101",
    "jp": "　{n}　忍耐のリンゴはいっぱいで、受け取れなかった。",
-   "en": "",
+   "en": "　{n}　You couldn't carry any more Endurance Apples, so you{n}couldn't accept it.",
    "term": "end"
   },
   {
    "id": "scen331.0102",
    "jp": "あっ、ごめんなさい。{n}忍耐のリンゴ、いっぱい持っていたんですね‥‥。{n}{FFFB}ご主人様にお礼をしたかったのに、残念です。",
-   "en": "",
+   "en": "Oh, I'm sorry. You already had lots of Endurance{n}Apples... {FFFB}I wanted to thank you, Master, but that's{n}too bad.",
    "term": "end"
   },
   {
    "id": "scen331.0103",
    "jp": "　{n}　　　{FFEF}忍耐のリンゴ{FFF1}をお礼にもらった！",
-   "en": "",
+   "en": "　{n}　　　You received an {FFEF}Endurance Apple{FFF1} as thanks!",
    "term": "end"
   },
   {
    "id": "scen331.0104",
    "jp": "この劇は、身分違いの恋を描いているんですよ。{n}{FFFB}戦地へ赴く騎士と、それに仕えるメイドの{n}許されぬ恋物語‥‥。{p}このメイドは、自分の身を犠牲にしてでも、{n}騎士の為に生きることを誓うんですよ。{p}{FFF6}‥‥この演劇の台本を読んで、{n}私もこのメイドのように、大切な人に尽くす{n}生き方をしたいと、心から思ったんです。{p}{FFF7}だから私は‥‥それを叶えられる場所を{n}探しに行ってこようと思います。",
-   "en": "",
+   "en": "This play is about a love between people of different{n}stations. {FFFB}The forbidden love story of a knight heading{n}off to war and the maid who serves him...{p}The maid vows to live for the knight's sake, even if it{n}means sacrificing herself.{p}{FFF6}...Reading the script of this play, I truly felt from the{n}bottom of my heart that I want to live like this maid,{n}devoted to someone dear to me.{p}{FFF7}So I... I'm going to go look for a place where I can make{n}that come true.",
    "term": "end"
   },
   {
@@ -684,33 +684,33 @@
   {
    "id": "scen331.0106",
    "jp": "・きっと見つかるはずだ",
-   "en": "",
+   "en": "・I'm sure you'll find it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0107",
    "jp": "・行かないで",
-   "en": "",
+   "en": "・Don't go",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen331.0108",
    "jp": "ありがとうございます。{p}{FFF6}ご主人様の言葉って、魔法みたい‥‥。{n}ご主人様にそう言ってもらえると、{n}絶対に叶う気がするんです‥‥。",
-   "en": "",
+   "en": "Thank you.{p}{FFF6}Your words are like magic, Master... When you say that{n}to me, I feel like it'll come true for sure...",
    "term": "end"
   },
   {
    "id": "scen331.0109",
    "jp": "ご主人様、ごめんなさい‥‥。{n}{FFFB}{FFF6}でも、もう決めたことなんです。{n}どうか許してください‥‥。",
-   "en": "",
+   "en": "I'm sorry, Master... {FFFB}{FFF6}But I've already made up my mind.{n}Please forgive me...",
    "term": "end"
   },
   {
    "id": "scen331.0110",
    "jp": "この演劇のメイドも、騎士様と別れる時は{n}きっとこんな気持ちだったのでしょうね‥‥。{p}{FC00}私、さよならは言いません。{n}{FFFB}だって、例え遠く離れても、{n}私たちは心の中で繋がってますから‥‥。{p}{FC04}私、絶対に忘れません。{n}{FE14}大好きなご主人様のこと、忘れません！{p}{FFF6}だからご主人様も、{n}私のこと忘れないでくださいね。約束ですよ？",
-   "en": "",
+   "en": "I'm sure the maid in this play felt just like this when{n}she parted from her knight...{p}{FC00}I won't say goodbye. {FFFB}Because even if we're far apart,{n}we're connected in our hearts...{p}{FC04}I'll never forget. {FE14}I'll never forget the Master I love{n}so much!{p}{FFF6}So please don't forget me either, Master. It's a{n}promise, okay?",
    "term": "end"
   }
  ]

@@ -2,8 +2,7 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 6. Translate in progress: PS1 prefill done (28,326 strings), 7,321 PSP-only strings batched, not yet
-  translated.
+- **Phase:** 7. Insert, fit, check: not started (phase 6 done in session 9: every string has English).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -68,13 +67,15 @@ Updated at the end of every session. Keep it to what the next session needs; his
   Check rules added: no honorific after a {s:} variable (PS1 dropped 90/90); boot.save raw newline = `{lf}` in
   batches, no VWF lint for boot.save. `tools/svars.py > build/svars.txt` (what each {s:XXXX} draws: regenerate
   after names merge). Review = reviewer subagents on `tl_run.py pairs bNNN` files; Minors -> docs/polish.md;
-  merged batches get work/tl/bNNN.done. Progress: b013-b016 merged; b001-b012 checked OK, in review; b017-b036
-  translating; b037-b067 not started (batches re-split after the tbl fix).
-- **Next (phase 6, translate):** (1) terms pass: rule the new PSP names (termscan.tsv) into glossary.md. (2) Synopsis
-  section 6 for the 43 PSP-only scenes in work/psp_scenes.txt (`tl_run.py psp-scenes` once codex works, or by hand).
-  (3) Translate work/tl/bNNN.tsv -> bNNN.out.tsv per docs/translator-brief.md, `batches.py check bNNN`, review
-  (reviewer-brief.md), `batches.py merge bNNN`; or `tl_run.py pipeline --all` with codex. Then fit.py 0 errors.
-  Pools: boot.sys 192-195 new, sys.0032 / 0146 changed.
+  merged batches get work/tl/bNNN.done. All 67 batches (7,321 strings) translated by 17 translator subagents,
+  reviewed by 13 reviewer subagents (every Critical/Important fixed), merged: 0 strings need English, fit.py 0
+  errors, `batches.py check` (all shipped English) 0 problems. ~170 Minors in docs/polish.md (polish pass before
+  release, incl. sweeps: American spelling, 様 -> Lord/Lady before {s:} names, Portable Mana Pillar case).
+  Not done: synopsis section 6 (PSP-only scenes, work/psp_scenes.txt; needed for the phase 9 story pass:
+  `tl_run.py psp-scenes` once codex works, or a reviewer/translator subagent). Glossary has the PSP-only terms.
+- **Next (phase 7, insert/fit/check):** in-place insert fails on grown pools: relocation needed (see "Phase 7
+  later" below). Pools: boot.sys 192-195 new, sys.0032 / 0146 changed. boot.save English contains real "\n"
+  (system dialog; check cstr sizes). {s:FFED} in scen188.0058 (alpha waves?) to check in game.
   Phase 7 (fitting ports from PS1 insert.py): name-tag pad (frame = code count), popup width hook (find the PSP twin
   of PS1 0x8006BA48), caption centring, name-entry SLOTS (sys.0069). Measure in phase 8: battle UI (unit / class
   names, battle messages: bt_tutorial lands before the battle starts), captions (scen010.0114, scen014.0003), spell

@@ -29,55 +29,55 @@
   {
    "id": "scen291.0003",
    "jp": "集魔柱を立てに行くために、{n}お前さんたちで道を切り開いてくれ！{p}ワシが設置地点に突っ込む！{n}{FFFB}いやー、胸が躍るわい！",
-   "en": "",
+   "en": "You youngsters cut a path so we can go put up the{n}mana collection pillar!{p}I'll charge in to the site!{FFFB} Ho ho, this gets my old{n}heart racing!",
    "term": "end"
   },
   {
    "id": "scen291.0004",
    "jp": "そろそろ突入しても大丈夫か！？",
-   "en": "",
+   "en": "Is it safe to charge in yet?!",
    "term": "end"
   },
   {
    "id": "scen291.0005",
    "jp": "送魔線技師を広場へ突入させますか？",
-   "en": "",
+   "en": "Send the Mana Line Engineer into the plaza?",
    "term": "end"
   },
   {
    "id": "scen291.0006",
    "jp": "よし、ゆくぞ！",
-   "en": "",
+   "en": "Right, here I go!",
    "term": "end"
   },
   {
    "id": "scen291.0007",
    "jp": "わかった、まだ待機じゃな！",
-   "en": "",
+   "en": "Right, I'll keep standing by, eh!",
    "term": "end"
   },
   {
    "id": "scen291.0008",
    "jp": "ここまでか‥‥。{p}今さら、どう足掻いても無駄なだけだ。{n}こういう定めだったのだと、受け入れよう。",
-   "en": "",
+   "en": "So this is the end...{p}Struggling now is pointless. This was our fate. Let us{n}accept it.",
    "term": "end"
   },
   {
    "id": "scen291.0009",
    "jp": "ちょ、ちょっと、何を言ってんのよ！",
-   "en": "",
+   "en": "H-hey, what are you saying?!",
    "term": "end"
   },
   {
    "id": "scen291.0010",
    "jp": "易々と死を受け入れて、後悔しないのか？{n}まだ戦いは終わっていないんだぞ！？",
-   "en": "",
+   "en": "You'd accept death so easily? You won't regret it? The{n}battle isn't over yet!",
    "term": "end"
   },
   {
    "id": "scen291.0011",
    "jp": "だが、この状況ではどうにもならんだろう？{p}飛んで逃げても、今からでは{n}すぐに闇が落ちてきてお終いだ！",
-   "en": "",
+   "en": "But there's nothing to be done in this situation,{n}is there?{p}Even if we fly away now, the darkness will fall on us{n}soon and that will be the end!",
    "term": "end"
   },
   {
@@ -90,220 +90,220 @@
   {
    "id": "scen291.0013",
    "jp": "・希望を捨てるな！",
-   "en": "",
+   "en": "・Don't give up hope!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen291.0014",
    "jp": "・確かにお終いかもな",
-   "en": "",
+   "en": "・Maybe it is the end",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen291.0015",
    "jp": "・‥‥‥‥。",
-   "en": "",
+   "en": "・...",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen291.0016",
    "jp": "‥‥希望‥‥？",
-   "en": "",
+   "en": "...Hope...?",
    "term": "end"
   },
   {
    "id": "scen291.0017",
    "jp": "お前だって、やっぱりそう思うだろう！",
-   "en": "",
+   "en": "You see? You think so too!",
    "term": "end"
   },
   {
    "id": "scen291.0018",
    "jp": "そんなことないよ！{n}最後まであきらめないで！",
-   "en": "",
+   "en": "That's not true! Don't give up till the very end!",
    "term": "end"
   },
   {
    "id": "scen291.0019",
    "jp": "お願い、最後まであきらめないで！",
-   "en": "",
+   "en": "Please, don't give up till the very end!",
    "term": "end"
   },
   {
    "id": "scen291.0020",
    "jp": "そうだよ！{n}{FFFB}ここで投げちゃったら、{n}あとは死ぬしかないじゃない！",
-   "en": "",
+   "en": "That's right!{FFFB} If you throw in the towel now, all that's{n}left is to die!",
    "term": "end"
   },
   {
    "id": "scen291.0021",
    "jp": "抵抗っていうのは、{n}最後の最後までするもんだぜ！",
-   "en": "",
+   "en": "You keep resisting right up to the very end!",
    "term": "end"
   },
   {
    "id": "scen291.0022",
    "jp": "‥‥‥‥‥‥。{p}‥‥わかった。{n}俺たちも、最後まで頑張ってみよう。",
-   "en": "",
+   "en": "...{p}...Very well. We will hold out to the end too.",
    "term": "end"
   },
   {
    "id": "scen291.0023",
    "jp": "ちょっと待って！{p}あそこにいるのって、確か‥‥{n}{FFFB}ゲーヴだわ！",
-   "en": "",
+   "en": "Wait!{p}That thing over there is...{FFFB} a Gev!",
    "term": "end"
   },
   {
    "id": "scen291.0024",
    "jp": "ちょっと、みんな！{n}{FFFB}あそこに何かいるよ！{p}でっかいユングみたいに見えるけど‥‥、{n}なんだろアレ！？",
-   "en": "",
+   "en": "Hey, everyone!{FFFB} There's something over there!{p}It looks like a giant Jung... What IS that thing?!",
    "term": "end"
   },
   {
    "id": "scen291.0025",
    "jp": "‥‥あれは、ゲーヴだわ！",
-   "en": "",
+   "en": "...That's a Gev!",
    "term": "end"
   },
   {
    "id": "scen291.0026",
    "jp": "ゲーヴ‥‥？",
-   "en": "",
+   "en": "A Gev...?",
    "term": "end"
   },
   {
    "id": "scen291.0027",
    "jp": "ゲーヴは、この世界の原住生物よ。{p}これを改造して人為的に作られたのが、{n}あなた達もよく知ってる『ゲヴェル』なの。",
-   "en": "",
+   "en": "Gev are creatures native to this world.{p}The 'Gevel' you all know so well were made artificially by{n}modifying them.",
    "term": "end"
   },
   {
    "id": "scen291.0028",
    "jp": "えええっ？{n}{FFFB}ゲヴェルの元になったのって、{n}こいつらなの？",
-   "en": "",
+   "en": "Whaaat?!{FFFB} These things are what Gevel came from?",
    "term": "end"
   },
   {
    "id": "scen291.0029",
    "jp": "こいつらに直接攻撃はほとんど効かないわ、{n}みんな気をつけて！",
-   "en": "",
+   "en": "Direct attacks barely work on these things. Be{n}careful, everyone!",
    "term": "end"
   },
   {
    "id": "scen291.0030",
    "jp": "ＧＲＲＲ‥‥",
-   "en": "",
+   "en": "GRRR...",
    "term": "end"
   },
   {
    "id": "scen291.0031",
    "jp": "ＧＹＡＡＡＡ‥‥！！",
-   "en": "",
+   "en": "GYAAAA...!!",
    "term": "end"
   },
   {
    "id": "scen291.0032",
    "jp": "ＧＵＯＯ‥‥！",
-   "en": "",
+   "en": "GUOOO...!",
    "term": "end"
   },
   {
    "id": "scen291.0033",
    "jp": "ＧＷＯＯＯ‥‥！",
-   "en": "",
+   "en": "GWOOO...!",
    "term": "end"
   },
   {
    "id": "scen291.0034",
    "jp": "ＧＹＡＡＡＡ！！",
-   "en": "",
+   "en": "GYAAAA!!",
    "term": "end"
   },
   {
    "id": "scen291.0035",
    "jp": "ＧＷＡＡＡ！",
-   "en": "",
+   "en": "GWAAA!",
    "term": "end"
   },
   {
    "id": "scen291.0036",
    "jp": "ＧＲＲＲＲ！",
-   "en": "",
+   "en": "GRRRR!",
    "term": "end"
   },
   {
    "id": "scen291.0037",
    "jp": "ＮＧＯＯＯ！！！",
-   "en": "",
+   "en": "NGOOO!!!",
    "term": "end"
   },
   {
    "id": "scen291.0038",
    "jp": "ＧＲＲＲＲ！！",
-   "en": "",
+   "en": "GRRRR!!",
    "term": "end"
   },
   {
    "id": "scen291.0039",
    "jp": "ハッハッハッ、セット完了じゃ！{p}デュンケルスの吸引アンド送魔、開始！{n}{FFFB}ほれ、ポチっとな！",
-   "en": "",
+   "en": "Hahaha, setup complete!{p}Dunkels suction and mana transmission, commence!{FFFB}{n}There, click!",
    "term": "end"
   },
   {
    "id": "scen291.0040",
    "jp": "やったあ～！",
-   "en": "",
+   "en": "Yaaay!",
    "term": "end"
   },
   {
    "id": "scen291.0041",
    "jp": "よし、あとは残りの敵を倒すだけだな。",
-   "en": "",
+   "en": "All right, now we just need to defeat the{n}remaining enemies.",
    "term": "end"
   },
   {
    "id": "scen291.0042",
    "jp": "モクヒョウ‥ヘンコウ‥",
-   "en": "",
+   "en": "TARGET... CHANGED...",
    "term": "end"
   },
   {
    "id": "scen291.0043",
    "jp": "うむ、立てるポイントは{n}だいたいこの位置がよいな！{p}ここに携帯集魔柱を立てれば、{n}フェザーランド全体をカバーできるぞい！",
-   "en": "",
+   "en": "Hmm, this spot here should do nicely for the pillar!{p}Put the Portable Mana Pillar here, and it'll cover all{n}of Featherland!",
    "term": "end"
   },
   {
    "id": "scen291.0044",
    "jp": "おじちゃん、早く立てちゃって！",
-   "en": "",
+   "en": "Hurry up and set it up, mister!",
    "term": "end"
   },
   {
    "id": "scen291.0045",
    "jp": "ちょっと待つんじゃ！{p}学院でも説明したとおり、{n}携帯集魔柱のチャンネルをいじらないと、{n}デュンケルスが集魔柱から溢れてしまうぞ！{p}なあに、わしにかかればあっという間の作業じゃ。{n}それまで護衛を頼む！",
-   "en": "",
+   "en": "Hold your horses!{p}Like I explained at the Academy, if I don't adjust the{n}Portable Mana Pillar's channel, Dunkels will overflow from{n}the mana collection pillar!{p}Bah, for me it's the work of a moment. Guard me{n}till then!",
    "term": "end"
   },
   {
    "id": "scen291.0046",
    "jp": "分かりました、お願いします！",
-   "en": "",
+   "en": "Understood. Please go ahead!",
    "term": "end"
   },
   {
    "id": "scen291.0047",
    "jp": "あああっ！{n}ダメだ、もう間に合わないよぉ！",
-   "en": "",
+   "en": "Aaah! It's no good, we won't make it in tiiime!",
    "term": "end"
   },
   {
    "id": "scen291.0048",
    "jp": "あああ、バカぁっ！{n}携帯集魔柱が壊されちゃったじゃないのよ！",
-   "en": "",
+   "en": "Aaah, you dummy! Now the Portable Mana Pillar's{n}been wrecked!",
    "term": "end"
   },
   {
@@ -316,25 +316,25 @@
   {
    "id": "scen291.0050",
    "jp": "う‥ぐっ‥‥。",
-   "en": "",
+   "en": "Ngh... gah...",
    "term": "end"
   },
   {
    "id": "scen291.0051",
    "jp": "ぐ、ぐはっ‥‥！",
-   "en": "",
+   "en": "Gh, gahh...!",
    "term": "end"
   },
   {
    "id": "scen291.0052",
    "jp": "こうなる運命だったのか‥‥。",
-   "en": "",
+   "en": "Was this our fate all along...?",
    "term": "end"
   },
   {
    "id": "scen291.0053",
    "jp": "ああっ‥‥！",
-   "en": "",
+   "en": "Aah...!",
    "term": "end"
   }
  ]

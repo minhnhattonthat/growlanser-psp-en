@@ -29,69 +29,69 @@
   {
    "id": "scen281.0003",
    "jp": "{FFEE}アメリアたちを守れ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Protect Amelia and the others!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen281.0004",
    "jp": "よしっ、まず１匹！",
-   "en": "",
+   "en": "All right, that's one!",
    "term": "end"
   },
   {
    "id": "scen281.0005",
    "jp": "今のうちに、早く逃げて！",
-   "en": "",
+   "en": "Hurry and run while you can!",
    "term": "end"
   },
   {
    "id": "scen281.0006",
    "jp": "ど、どっちへ逃げればいい？",
-   "en": "",
+   "en": "Wh-which way should I run?",
    "term": "end"
   },
   {
    "id": "scen281.0007",
    "jp": "どちらへ向かわせますか？",
-   "en": "",
+   "en": "Which way will you send them?",
    "term": "end"
   },
   {
    "id": "scen281.0008",
    "jp": "・東へ",
-   "en": "",
+   "en": "・East",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen281.0009",
    "jp": "・西へ",
-   "en": "",
+   "en": "・West",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen281.0010",
    "jp": "わかった！",
-   "en": "",
+   "en": "Got it!",
    "term": "end"
   },
   {
    "id": "scen281.0011",
    "jp": "ど、どっちへ逃げればいいの？",
-   "en": "",
+   "en": "Wh-which way do I run?",
    "term": "end"
   },
   {
    "id": "scen281.0012",
    "jp": "私はどうすればいい？{n}指示を出してちょうだい！",
-   "en": "",
+   "en": "What should I do? Give me orders!",
    "term": "end"
   },
   {
    "id": "scen281.0013",
    "jp": "どう指示を出しますか？",
-   "en": "",
+   "en": "What orders will you give?",
    "term": "end"
   },
   {
@@ -105,7 +105,7 @@
   {
    "id": "scen281.0015",
    "jp": "・攻撃のサポートを頼む",
-   "en": "",
+   "en": "・Back me up on the attack",
    "term": "end",
    "unref": true
   },
@@ -120,19 +120,19 @@
   {
    "id": "scen281.0017",
    "jp": "了解！",
-   "en": "",
+   "en": "Roger!",
    "term": "end"
   },
   {
    "id": "scen281.0018",
    "jp": "任せて！",
-   "en": "",
+   "en": "Leave it to me!",
    "term": "end"
   },
   {
    "id": "scen281.0019",
    "jp": "うん、わかった。",
-   "en": "",
+   "en": "Okay, got it.",
    "term": "end"
   },
   {
@@ -145,25 +145,25 @@
   {
    "id": "scen281.0021",
    "jp": "やったあ！{n}勝利、勝利★",
-   "en": "",
+   "en": "Yaaay! Victory, victory!",
    "term": "end"
   },
   {
    "id": "scen281.0022",
    "jp": "{FFF6}ふぅ‥‥なんとかなった‥‥。",
-   "en": "",
+   "en": "{FFF6}Whew... We made it somehow...",
    "term": "end"
   },
   {
    "id": "scen281.0023",
    "jp": "わあぁっ！",
-   "en": "",
+   "en": "Waaah!",
    "term": "end"
   },
   {
    "id": "scen281.0024",
    "jp": "わあぁぁぁん！",
-   "en": "",
+   "en": "Waaaaaah!",
    "term": "end"
   }
  ]

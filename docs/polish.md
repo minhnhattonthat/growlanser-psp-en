@@ -121,3 +121,43 @@ Minor reviewer findings, deferred to one polish pass (translation.md §Review). 
 - [ ] b041 scen179.0116 - cut off: "What... are you doing...?"
 - [ ] b050? scen188.0058 - "{s:FFED}波" (alpha waves?): check the drawn word in game (phase 8)
 - [ ] b055/b056 scen290.0010-0021 - Justin's telepathic lines lose the JP per-line indent after re-wrap: check in visual QA
+- [ ] b064 scen332.0010 - "greedy pig" adds the pig (optional)
+- [ ] b064 scen332.0063/0066 - スパルタ: "Spartan" (check fit)
+- [ ] b064 scen332.0080 - repeated "slip up": "...I'm scared I'll just keep messing up instead~..."
+- [ ] b065 scen333.0024 - 他山の石: "polish one's jade" (optional)
+- [ ] b066 scen333.0091 - flustered stammer: "T-True..."
+- [ ] b067 scen333.0118 - "a wonderful person of more than ample ability."
+- [ ] b048 scen186.0034 - Wallace gruff: "So you're saying we just gather the falling darkness into the mana collection pillars, like a lightning rod."
+- [ ] b048 scen186.0066 - "Go and get the Professor's explanation right away."
+- [ ] b048 scen186.0072 - garbled: "There's no telling how a large-scale spell like Teleport might disrupt..."
+- [ ] b049 scen186.0145 - Ariost: "I'm leaving the setup of the mana collection pillars to you."
+- [ ] b049 scen186.0173 - "flying apparatus" (PS1 term)
+- [ ] b049 scen186.0120 - Tippi: "The mana line engineer mister says..."
+- [ ] ALL 携帯集魔柱 - capitalised in running text vs lowercase: lowercase in running text, capitalised as item name
+- [ ] b050 scen186.0257 - Tippi flat
+- [ ] b051 scen186.0307 - "Huh? What's strange?"
+- [ ] b051 scen186.0302 - old man: "Good work, all of you, eh?"
+- [ ] b052 scen187.0056 - "two-time reigning Fairy Contest champion"
+- [ ] b052 scen187.0048 - "I hope we can get to know each other."
+- [ ] b052 scen187.0073 - "our fairies are a colorful bunch"
+- [ ] b052 scen187.0063 - six dots: "・..."
+- [ ] b053 scen273.0004 - item name capitalised: 'Healing Potion'
+- [ ] b053 scen248.0005 - tag question: "You didn't do anything wrong, did you?"
+- [ ] b053 scen195.0109 - old man: "Could you give me two days or so, eh?"
+- [ ] b054 scen284.0003 - "Keep Gevel away from the citizens!"
+- [ ] b060 scen329.0104 - "it could even go in soup..."
+- [ ] b062 scen330.0093 - "It's odd to say so myself, but..."
+- [ ] b055 scen290.0025 - "This time, we'll keep it from getting destroyed!"
+- [ ] b055 scen291.0003 - "I'll charge into the site!"
+- [ ] b055 scen291.0021 - swagger ぜ: "...right to the very last second, you know!"
+- [ ] b055 scen291.0023 - 確か dropped: "...I think it's... a Gev!"
+- [ ] b056 scen325.0028 - 元気のない = listless, not sick
+- [ ] b056 scen325.0022 - "if that's your answer, I can't judge anything."
+- [ ] b057 scen325.0162 - comma splice
+- [ ] b058 scen327.0021 - "Ugh" reads as disgust: "Oh, he's the best!..."
+- [ ] b058 scen327.0056 - archaic "I know not": "Though I don't know what he thinks of me..."
+- [ ] b058 scen326.0021 - "...So much has happened, truly."
+- [ ] b059 scen329.0010 - garbled: "Ehehe, same as Lamie! That makes me happyyy."
+- [ ] b059 scen329.0006 - 『』 -> single quotes: 'peace.'
+- [ ] b059 scen328.0056 - "close father and son" clumsy
+- [ ] b059 scen328.0081 - まで lost: "if you get hurt too..."

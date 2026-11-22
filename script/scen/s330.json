@@ -15,26 +15,26 @@
   {
    "id": "scen330.0001",
    "jp": "こんにちは、ユニです。{n}改めて、よろしくお願いしますね。{p}今日は初めてですし、私自身のことについて{n}お話しさせていただこうと思うのですが、{n}ええと、なにから話しましょうか‥‥。",
-   "en": "",
+   "en": "Hello, I'm Yuni. It's a pleasure to meet you properly.{p}Since this is our first time, I thought I would tell you a{n}little about myself, but... um, where should I begin...?",
    "term": "end"
   },
   {
    "id": "scen330.0002",
    "jp": "何を聞いてみますか？",
-   "en": "",
+   "en": "What will you ask her?",
    "term": "end"
   },
   {
    "id": "scen330.0003",
    "jp": "・好きなことは？",
-   "en": "",
+   "en": "・What do you like?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0004",
    "jp": "・興味があることは？",
-   "en": "",
+   "en": "・What are you interested in?",
    "term": "end",
    "unref": true
   },
@@ -49,13 +49,13 @@
   {
    "id": "scen330.0006",
    "jp": "好きなこと‥‥、ですか？{p}そう聞かれますと悩んでしまうんですが、{n}やはり、ご主人様が好きなことは興味があるし、{n}私も好きでありたいと思うんです。{p}この場では、あなた様が私のご主人様という{n}ことになりますよね。",
-   "en": "",
+   "en": "What I like...?{p}When you ask me that, I'm not sure what to say, but I{n}do take an interest in whatever my master likes, and I{n}want to like it too.{p}Here, you would be my master, wouldn't you?",
    "term": "end"
   },
   {
    "id": "scen330.0007",
    "jp": "‥‥ですから、私の好きなことは{n}あなた様の好きなことです。",
-   "en": "",
+   "en": "...So what I like is whatever you like.",
    "term": "end"
   },
   {
@@ -69,298 +69,298 @@
   {
    "id": "scen330.0009",
    "jp": "・主体性がないな",
-   "en": "",
+   "en": "・You've got no mind of your own",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0010",
    "jp": "そう言っていただけて、良かったです。{n}{FFFB}{FC03}もしご迷惑だったら、どうしようかと‥‥。{p}{FC05}それでは、ご主人様の好きなことを{n}今度、私に教えてくださいね。",
-   "en": "",
+   "en": "I'm glad to hear you say that. {FFFB}{FC03}I was worried about{n}what to do if it bothered you...{p}{FC05}Then please teach me about the things you like{n}sometime, Master.",
    "term": "end"
   },
   {
    "id": "scen330.0011",
    "jp": "確かに、ご指摘の通りかもしれません。{n}{FFFB}{FFF6}‥‥ですが、私はご主人様に仕える身なので{n}どうしてもこのような答えになってしまうのです。{p}{FFF7}不快にさせてしまっていたら、申し訳ありません。",
-   "en": "",
+   "en": "You may well be right about that. {FFFB}{FFF6}...But since I am here{n}to serve my master, I can't help answering that way.{p}{FFF7}I'm sorry if I made you uncomfortable.",
    "term": "end"
   },
   {
    "id": "scen330.0012",
    "jp": "興味があること‥‥、ですか？{p}興味と言いますか、{n}個人的に勉強していることは医療ですね。",
-   "en": "",
+   "en": "What I'm interested in...?{p}I'm not sure I'd call it an interest, but I have been{n}studying medicine on my own.",
    "term": "end"
   },
   {
    "id": "scen330.0013",
    "jp": "もし、私の大切な人が命の危機にさらされた時、{n}すぐに助けてあげられるように‥‥。",
-   "en": "",
+   "en": "So that if someone dear to me were ever in mortal{n}danger, I could help them right away...",
    "term": "end"
   },
   {
    "id": "scen330.0014",
    "jp": "・ご苦労なことだな",
-   "en": "",
+   "en": "・That sounds like a lot of work",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0015",
    "jp": "・それはいい心意気だ",
-   "en": "",
+   "en": "・That's an admirable attitude",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0016",
    "jp": "他人からすれば理解できないこと{n}かもしれませんが、それでも私は{n}習得できるように頑張ろうと思います。",
-   "en": "",
+   "en": "Others may not understand it, but even so, I intend to{n}work hard until I master it.",
    "term": "end"
   },
   {
    "id": "scen330.0017",
    "jp": "ありがとうございます。{n}ちゃんと習得できる日まで、{n}頑張ろうと思います。",
-   "en": "",
+   "en": "Thank you very much. I'll keep working hard until the{n}day I truly master it.",
    "term": "end"
   },
   {
    "id": "scen330.0018",
    "jp": "そうですか‥‥。{n}{FFFB}{FFF6}話すことがないと、{n}少し困ってしまいますね‥‥。",
-   "en": "",
+   "en": "I see... {FFFB}{FFF6}If there's nothing to talk about, I'm a little at{n}a loss...",
    "term": "end"
   },
   {
    "id": "scen330.0019",
    "jp": "ご主人様とお話するのは、２回目ですね。{n}またお会い出来て、とても嬉しいです。{p}そういえば、いつもご主人様は{n}各地を駆け回ってお忙しそうですが‥‥。",
-   "en": "",
+   "en": "This is our second talk, isn't it, Master? I'm very happy{n}to see you again.{p}Now that I think of it, you always seem so busy,{n}rushing around all over the land, Master...",
    "term": "end"
   },
   {
    "id": "scen330.0020",
    "jp": "たまのお休みの日とかは、{n}ご主人様は何をして過ごしたいですか？",
-   "en": "",
+   "en": "On your occasional days off, how would you like to{n}spend your time, Master?",
    "term": "end"
   },
   {
    "id": "scen330.0021",
    "jp": "・家でゆっくりしたい",
-   "en": "",
+   "en": "・Relaxing at home",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0022",
    "jp": "・外に出かけたい",
-   "en": "",
+   "en": "・Going out",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0023",
    "jp": "・１日中寝てたい",
-   "en": "",
+   "en": "・Sleeping all day",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0024",
    "jp": "なるほど、そうなのですね。{p}家の中でゆったりと落ち着いた休日を{n}過ごすのもいいですよね。{n}心身ともにリラックスできますから。",
-   "en": "",
+   "en": "I see, so that's how it is.{p}A calm, quiet day off at home is nice too, isn't it? It lets{n}you relax in body and mind.",
    "term": "end"
   },
   {
    "id": "scen330.0025",
    "jp": "私も、外に出かけるのが好きです。{p}外に出れば色んな人に出会えますし、{n}町中で新たな発見とかもあって‥‥。{n}{FFFB}そういう小さなことが、とても楽しいです。",
-   "en": "",
+   "en": "I like going out too.{p}When you go out, you meet all sorts of people, and you{n}make new discoveries around town... {FFFB}Little things like{n}that are a lot of fun.",
    "term": "end"
   },
   {
    "id": "scen330.0026",
    "jp": "ご主人様、{n}もしかしてお疲れでしょうか‥‥？{p}もう少し私に医療の知識があれば、{n}ご主人様の疲れをとることが出来たかも{n}しれません‥‥。",
-   "en": "",
+   "en": "Master, could it be that you're tired...?{p}If only I knew a little more about medicine, I might{n}have been able to take your fatigue away...",
    "term": "end"
   },
   {
    "id": "scen330.0027",
    "jp": "そういえば、ご主人様は{n}古代の医療技術に針治療が存在することを{n}ご存知ですか？",
-   "en": "",
+   "en": "By the way, Master, did you know that acupuncture{n}existed among the ancient medical arts?",
    "term": "end"
   },
   {
    "id": "scen330.0028",
    "jp": "ツボに針を打つことで、{n}あらゆる効能をもたらすそうなのですが‥‥。",
-   "en": "",
+   "en": "They say that placing needles in the pressure points{n}brings about all kinds of benefits...",
    "term": "end"
   },
   {
    "id": "scen330.0029",
    "jp": "・古代の医療技術も侮れないな",
-   "en": "",
+   "en": "・Ancient medicine is nothing to sneeze at",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0030",
    "jp": "・最新の医療技術が１番だ",
-   "en": "",
+   "en": "・Modern medicine is the best",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0031",
    "jp": "・どうでもいい",
-   "en": "",
+   "en": "・Who cares?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0032",
    "jp": "ええ、先人たちの技術から{n}学ぶことは本当に多いです。{p}医療技術は私にはまだ難しいですが、{n}これからたくさん勉強をして、大事な人の{n}お役に立てるようになりたいのです。",
-   "en": "",
+   "en": "Yes, there is truly so much to learn from the arts of{n}those who came before us.{p}Medicine is still difficult for me, but I want to study{n}hard from now on so I can be of help to the people{n}dear to me.",
    "term": "end"
   },
   {
    "id": "scen330.0033",
    "jp": "確かに、現代の発達した医療技術は{n}素晴らしいかもしれません。{p}{FC00}ですが、先代の人々から学ぶべきことは{n}今でも本当に多いのではないかと思います。",
-   "en": "",
+   "en": "It's true that today's advanced medicine may{n}be wonderful.{p}{FC00}But I think there is still a great deal we ought to learn{n}from the people of earlier ages.",
    "term": "end"
   },
   {
    "id": "scen330.0034",
    "jp": "申し訳ありません、退屈な話題でしたね。{n}このお話は、もうやめますので‥‥。",
-   "en": "",
+   "en": "I'm sorry, that was a boring topic, wasn't it? I'll stop{n}talking about it...",
    "term": "end"
   },
   {
    "id": "scen330.0035",
    "jp": "そういえば、最近は妖精の中でも様々な{n}ヘアースタイルが流行してるようなのですが‥‥。",
-   "en": "",
+   "en": "By the way, it seems all sorts of hairstyles have been{n}in fashion among fairies lately...",
    "term": "end"
   },
   {
    "id": "scen330.0036",
    "jp": "時にご主人様は、どんなヘアースタイルの{n}女性がお好みなのでしょうか？",
-   "en": "",
+   "en": "Tell me, Master, what kind of hairstyle do you like on{n}a woman?",
    "term": "end"
   },
   {
    "id": "scen330.0037",
    "jp": "・ショートヘアー",
-   "en": "",
+   "en": "・Short hair",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0038",
    "jp": "・ロングのストレート",
-   "en": "",
+   "en": "・Long and straight",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0039",
    "jp": "・ポニーテール",
-   "en": "",
+   "en": "・A ponytail",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0040",
    "jp": "・ツインテール",
-   "en": "",
+   "en": "・Twin tails",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0041",
    "jp": "なるほど‥‥。{n}ピティさんのような感じでしょうか。{p}ショートヘアーの女性は、{n}明るく活発なイメージがありますよね。",
-   "en": "",
+   "en": "I see... Something like Piti-san, perhaps?{p}Women with short hair give off a bright, lively{n}impression, don't they?",
    "term": "end"
   },
   {
    "id": "scen330.0042",
    "jp": "なるほど‥‥。{n}ラミィさんや、ユリィさんのような{n}感じでしょうか。{p}ロングのストレートヘアーの女性は、{n}女性らしい魅力がありますよね。",
-   "en": "",
+   "en": "I see... Something like Lamie-san or Yurie-san, perhaps?{p}Women with long, straight hair have a very feminine{n}charm, don't they?",
    "term": "end"
   },
   {
    "id": "scen330.0043",
    "jp": "あっ、ポニーテールがお好きなのですね！{p}{FC04}あの‥‥、私も髪を後ろで１つに{n}くくっているんですよ、ご主人様。{p}これって、ポニーテール‥‥ですよね？{n}{FFFB}ご主人様がポニーテールが好きだと聞いて、{n}私、ちょっと嬉しいです‥‥。",
-   "en": "",
+   "en": "Oh, so you like ponytails!{p}{FC04}Um... I tie my hair back in one bunch too, Master.{p}This is a ponytail... isn't it? {FFFB}Hearing that you like{n}ponytails makes me a little happy, Master...",
    "term": "end"
   },
   {
    "id": "scen330.0044",
    "jp": "なるほど‥‥。{n}コリンさんのような感じでしょうか。{p}ツインテールの女性は、{n}とても可愛らしいイメージがありますよね。",
-   "en": "",
+   "en": "I see... Something like Colin-san, perhaps?{p}Women with twin tails give off a very cute impression,{n}don't they?",
    "term": "end"
   },
   {
    "id": "scen330.0045",
    "jp": "ご主人様、日々の戦いで疲れていませんか？{n}もしよろしければ、私が肩を揉ませて{n}いただきますが‥‥。",
-   "en": "",
+   "en": "Master, aren't you worn out from fighting day after{n}day? If you'd like, I could give you a{n}shoulder massage...",
    "term": "end"
   },
   {
    "id": "scen330.0046",
    "jp": "‥‥あ、もし余計なお世話でしたら{n}申し訳ありません。",
-   "en": "",
+   "en": "...Ah, I'm sorry if that's none of my business.",
    "term": "end"
   },
   {
    "id": "scen330.0047",
    "jp": "・そんなことない",
-   "en": "",
+   "en": "・Not at all",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0048",
    "jp": "・余計なお世話だ",
-   "en": "",
+   "en": "・Mind your own business",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0049",
    "jp": "‥‥そういって頂けて、良かったです。{p}{FC00}それでは、失礼しますね。{n}痛かったら、すぐに仰って下さい。",
-   "en": "",
+   "en": "...I'm glad to hear you say so.{p}{FC00}Well then, excuse me. If it hurts, please tell me{n}right away.",
    "term": "end"
   },
   {
    "id": "scen330.0050",
    "jp": "‥‥ご主人様って細身に見えますが、{n}意外と筋肉質なんですね。{p}{FFF6}‥‥これが、国を守る騎士の背中。{n}とてもたくましいですね‥‥。{p}{FC03}{FFF7}‥‥ですが、だいぶお疲れのせいか{n}ご主人様の肩がとても硬いです。{p}{FC05}でも、私に任せてください。{n}私がしっかりとコリをほぐしますから、{n}ご主人様はリラックスしててくださいね。",
-   "en": "",
+   "en": "...You look slender, Master, but you're{n}surprisingly muscular.{p}{FFF6}...So this is the back of a knight who protects the{n}kingdom. It's so strong...{p}{FC03}{FFF7}...But your shoulders are very stiff, Master. You must{n}be exhausted.{p}{FC05}But leave it to me. I'll work all the knots out properly, so{n}just relax, Master.",
    "term": "end"
   },
   {
    "id": "scen330.0051",
    "jp": "あの、どうだったでしょうか‥‥？{p}{FC05}少しでも、ご主人様のお役に立てたなら{n}嬉しいです。",
-   "en": "",
+   "en": "Um, how was that...?{p}{FC05}If I was of even a little help to you, Master,{n}I'm happy.",
    "term": "end"
   },
   {
    "id": "scen330.0052",
    "jp": "本当に、出過ぎたことを言ってしまって{n}申し訳ありませんでした。",
-   "en": "",
+   "en": "I'm truly sorry for overstepping like that.",
    "term": "end"
   },
   {
    "id": "scen330.0053",
    "jp": "そういえば、先日読んだ本に{n}『糖分は体の疲労を回復する』と{n}書いてあったのですが‥‥。",
-   "en": "",
+   "en": "By the way, a book I read the other day said that{n}'sugar helps the body recover from fatigue'...",
    "term": "end"
   },
   {
    "id": "scen330.0054",
    "jp": "ご主人様は、甘いものはお好きですか？",
-   "en": "",
+   "en": "Do you like sweets, Master?",
    "term": "end"
   },
   {
    "id": "scen330.0055",
    "jp": "・好き",
-   "en": "",
+   "en": "・I do",
    "term": "end",
    "unref": true
   },
@@ -375,260 +375,260 @@
   {
    "id": "scen330.0057",
    "jp": "・嫌い",
-   "en": "",
+   "en": "・I don't",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0058",
    "jp": "実は、私も甘いものが好きなんです。{n}{FFFB}ですので、このことを知った時は{n}少し嬉しかったです。{p}{FC00}好きな甘いものを食べて、{n}さらに疲労も回復できるなら、幸せですよね。{p}{FC05}もし迷惑じゃなければ、{n}ぜひ今度、ご主人様のために甘いお菓子を{n}作らせてください。",
-   "en": "",
+   "en": "Actually, I like sweets too. {FFFB}So I was a little happy when{n}I learned that.{p}{FC00}If you can eat the sweets you love and recover from{n}fatigue too, that's pure happiness, isn't it?{p}{FC05}If it's no trouble, please let me make some sweets for{n}you sometime, Master.",
    "term": "end"
   },
   {
    "id": "scen330.0059",
    "jp": "少しの摂取量でも、{n}効果は充分にあるようです。{p}ですので、疲労を感じた時には{n}ぜひ試してみてください。",
-   "en": "",
+   "en": "It seems even a small amount is quite effective.{p}So please do try it when you're feeling tired.",
    "term": "end"
   },
   {
    "id": "scen330.0060",
    "jp": "そうだったのですか‥‥、{n}知らずに申し訳ありません。{p}少しの摂取量でも効果は充分に{n}あるようですが、甘いものが苦手な方には{n}他の方法がいいのかもしれませんね‥‥。",
-   "en": "",
+   "en": "Is that so...? I'm sorry, I didn't know.{p}Even a small amount seems to be quite effective, but{n}for people who don't care for sweets, perhaps{n}another method would be better...",
    "term": "end"
   },
   {
    "id": "scen330.0061",
    "jp": "魔法学院という場所には、数多くの{n}学術資料が保管されていると聞きました。{p}もし機会があれば、ぜひ私も{n}多くの学術書を読んで勉強をしたいです。",
-   "en": "",
+   "en": "I've heard that a place called the Magic Academy keeps{n}a great many scholarly records.{p}If I ever have the chance, I'd love to read lots of{n}academic books and study there too.",
    "term": "end"
   },
   {
    "id": "scen330.0062",
    "jp": "人間界は学問が発達していますから、{n}まだまだ私の知らない知識が多くて‥‥。",
-   "en": "",
+   "en": "Scholarship is so advanced in the human world, there's{n}still so much knowledge I don't know...",
    "term": "end"
   },
   {
    "id": "scen330.0063",
    "jp": "・たまには遊べ",
-   "en": "",
+   "en": "・Have some fun once in a while",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0064",
    "jp": "・勉強熱心だな",
-   "en": "",
+   "en": "・You're a hard worker",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0065",
    "jp": "・どうでもいい",
-   "en": "",
+   "en": "・Who cares?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0066",
    "jp": "は、はい‥‥。{n}ご主人様がそう言うのでしたら‥‥。{p}{FC03}‥‥ですが、遊ぶといっても{n}具体的にどのようなことをすれば{n}宜しいのでしょうか？{p}私にはよく分からないので、{n}ご主人様が教えてくださると嬉しいです。",
-   "en": "",
+   "en": "Y-Yes... If you say so, Master...{p}{FC03}...But when you say \"have fun,\" what exactly should{n}I do?{p}I don't really understand, so I'd be happy if you would{n}teach me, Master.",
    "term": "end"
   },
   {
    "id": "scen330.0067",
    "jp": "そんな、恐縮です‥‥。{n}勿体ないお言葉を有難うございます、{n}ご主人様。{p}{FC00}私、大切な人を守るためなら{n}どんなことでも頑張れると‥‥、{n}苦しみも喜びに変わると思うんです。{p}{FC05}私が得た知識が、いつかご主人様の{n}お役に立てると嬉しいです。",
-   "en": "",
+   "en": "Oh, you flatter me... Thank you for such kind{n}words, Master.{p}{FC00}I believe that to protect someone dear to me, I could{n}work hard at anything... that even suffering would turn{n}into joy.{p}{FC05}I'd be happy if the knowledge I've gained could be of{n}use to you someday, Master.",
    "term": "end"
   },
   {
    "id": "scen330.0068",
    "jp": "申し訳ございません、{n}こんな話などつまらなかったですよね‥‥。",
-   "en": "",
+   "en": "I'm very sorry, a talk like this must have been dull{n}for you...",
    "term": "end"
   },
   {
    "id": "scen330.0069",
    "jp": "あの、ご主人様‥‥。{n}{FFFB}不躾なお願いなのですが、今日は私に{n}ご主人様の身を委ねて下さいませんか？{p}‥‥と申しますのも、{n}私が今まで独学で学んだ医療知識を、{n}ご主人様のお役に立てたいと思いまして‥‥。{p}{FC03}けど、私はきちんとした医師から{n}針治療の指導を受けてませんので、{n}ご主人様に針を打つことは出来ません。{p}{FC00}ですので、代わりに体の疲れをほぐすツボを{n}押させて頂こうと思います。",
-   "en": "",
+   "en": "Um, Master... {FFFB}This is a forward request, but would you{n}leave yourself in my hands today?{p}...You see, I'd like to put the medical knowledge I've{n}taught myself to use for you, Master...{p}{FC03}But I haven't been trained in acupuncture by a proper{n}doctor, so I can't use needles on you, Master.{p}{FC00}So instead, I'd like to press the pressure points that{n}ease the body's fatigue.",
    "term": "end"
   },
   {
    "id": "scen330.0070",
    "jp": "ご主人様は最近、何か体の調子で{n}気になることはございますか？",
-   "en": "",
+   "en": "Master, has anything about your health been{n}bothering you lately?",
    "term": "end"
   },
   {
    "id": "scen330.0071",
    "jp": "・肩こりがひどい",
-   "en": "",
+   "en": "・My shoulders are really stiff",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0072",
    "jp": "・腰痛がひどい",
-   "en": "",
+   "en": "・My lower back really hurts",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0073",
    "jp": "・頭の中身がひどい",
-   "en": "",
+   "en": "・My brain is in terrible shape",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0074",
    "jp": "なるほど、肩こりですね‥‥。{n}{FFFB}でしたら、首裏と背中に効果的な{n}ツボがあります。",
-   "en": "",
+   "en": "I see, stiff shoulders... {FFFB}In that case, there are{n}effective pressure points on the back of the neck and{n}on the back.",
    "term": "end"
   },
   {
    "id": "scen330.0075",
    "jp": "なるほど、腰痛ですね‥‥。{n}{FFFB}でしたら、腰裏と膝裏に効果的な{n}ツボがあります。",
-   "en": "",
+   "en": "I see, lower back pain... {FFFB}In that case, there are{n}effective pressure points on the lower back and behind{n}the knees.",
    "term": "end"
   },
   {
    "id": "scen330.0076",
    "jp": "申し訳ございません、ご主人様‥‥。{n}{FFFB}頭の中身については、どう対処すれば良いのか{n}私にはちょっと分かりません‥‥。{p}{FC00}代わりと言っては何ですが、足裏にある{n}疲労回復のツボを押させて頂きますね。",
-   "en": "",
+   "en": "I'm very sorry, Master... {FFFB}I'm afraid I don't quite know{n}how to treat the inside of your head...{p}{FC00}It's not much of a substitute, but I'll press the points{n}on the soles of your feet that relieve fatigue.",
    "term": "end"
   },
   {
    "id": "scen330.0077",
    "jp": "それではご主人様、{n}こちらへ寝て頂けますか？",
-   "en": "",
+   "en": "Now then, Master, would you lie down here?",
    "term": "end"
   },
   {
    "id": "scen330.0078",
    "jp": "・仰向けに寝る",
-   "en": "",
+   "en": "・Lie face up",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0079",
    "jp": "・うつ伏せに寝る",
-   "en": "",
+   "en": "・Lie face down",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0080",
    "jp": "・横向きに寝る",
-   "en": "",
+   "en": "・Lie on your side",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0081",
    "jp": "ご主人様、申し訳ありません。{n}押すツボは体の裏側にありますから、{n}うつ伏せでお願いします。",
-   "en": "",
+   "en": "I'm sorry, Master. The points I'll be pressing are on{n}the back of the body, so please lie face down.",
    "term": "end"
   },
   {
    "id": "scen330.0082",
    "jp": "はい、それで大丈夫です。{n}息苦しくはないですか？{n}{FFFB}‥{FE0A}‥{FE0A}‥{FE0A}‥大丈夫そうですね。",
-   "en": "",
+   "en": "Yes, that's fine. You're not having trouble breathing?{n}{FFFB}.{FE0A}.{FE0A}.{FE0A}.It seems you're all right.",
    "term": "end"
   },
   {
    "id": "scen330.0083",
    "jp": "もし痛かったら、すぐに仰ってください。{n}{FFFB}それでは、失礼します‥‥。{p}{FFF6}‥‥{FE14}‥‥{FE14}‥‥{FE14}‥‥{FE14}。{p}{FFF7}{FC03}やはり、日々の戦いで身体に疲労が{n}溜まっているようですね。{p}今、私が押してるツボが効いてくれれば{n}良いのですけど‥‥。{p}{FC00}‥‥{FE0A}‥‥{FE0A}‥‥{FE0A}‥‥。",
-   "en": "",
+   "en": "If it hurts, please tell me right away. {FFFB}Well then,{n}excuse me...{p}{FFF6}...{FE14}...{FE14}...{FE14}...{FE14}.{p}{FFF7}{FC03}Just as I thought, fatigue has built up in your body{n}from fighting day after day.{p}I hope the points I'm pressing now will help...{p}{FC00}...{FE0A}...{FE0A}...{FE0A}...",
    "term": "end"
   },
   {
    "id": "scen330.0084",
    "jp": "ご主人様、もし同じ体勢が辛くなってきましたら、{n}我慢せず体を動かして大丈夫ですよ。",
-   "en": "",
+   "en": "Master, if staying in the same position gets{n}uncomfortable, don't force yourself. It's all right{n}to move.",
    "term": "end"
   },
   {
    "id": "scen330.0085",
    "jp": "・少し身じろぎしてリラックスする",
-   "en": "",
+   "en": "・Shift a little and relax",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0086",
    "jp": "・断固として同じ体勢を保つ",
-   "en": "",
+   "en": "・Firmly hold the same position",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0087",
    "jp": "・思うがままに暴れる",
-   "en": "",
+   "en": "・Thrash around to your heart's content",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0088",
    "jp": "良かった‥‥、{n}身体から少し力が抜けたようです。{p}{FC05}おかげで、私もツボが押しやすくなりました。{n}それでは、続きに専念しますね。",
-   "en": "",
+   "en": "Good... It seems your body has loosened up a little.{p}{FC05}Thanks to that, the points are easier for me to press{n}now. Well then, I'll focus on continuing.",
    "term": "end"
   },
   {
    "id": "scen330.0089",
    "jp": "あの‥‥、ご主人様。{n}{FFFB}更に全身が強ばった様なのですが、{n}もしかして、ご無理をなさってませんか？{p}{FC00}こちらのことは気にせず、{n}力を抜いてリラックスしてください。{n}{FFFB}{FFF6}その方が、きっとツボもよく効くはずです。",
-   "en": "",
+   "en": "Um... Master. {FFFB}Your whole body seems to have tensed{n}up even more. Could you be pushing yourself?{p}{FC00}Please don't worry about me. Just let go and relax. {FFFB}{FFF6}The{n}points should work much better that way.",
    "term": "end"
   },
   {
    "id": "scen330.0090",
    "jp": "ご、ご主人様！？{p}急に暴れられると、大変危険です。{n}{FFFB}もし今の体勢が相当辛いのであれば、{n}これ以上、ご主人様にご無理させられません。{p}‥‥残念ですが、ツボ押しの治療は{n}ここで切り上げた方がよいかもしれませんね。",
-   "en": "",
+   "en": "M-Master?!{p}Thrashing about suddenly is very dangerous. {FFFB}If your{n}current position is that uncomfortable, I can't make you{n}endure it any longer, Master.{p}...It's a shame, but perhaps we had better end the{n}pressure point treatment here.",
    "term": "end"
   },
   {
    "id": "scen330.0091",
    "jp": "お疲れさまでした、ご主人様。{n}これでツボ押しは終了です。",
-   "en": "",
+   "en": "Thank you for your patience, Master. That's the end of{n}the pressure point treatment.",
    "term": "end"
   },
   {
    "id": "scen330.0092",
    "jp": "正直、今回のツボ押しは{n}あまり上手くいった自信がありません‥‥。{p}ですが、大切な人のお役に立ちたい気持ちと、{n}尽くす喜びを、私は改めて認識することが{n}出来たと思います。",
-   "en": "",
+   "en": "To be honest, I'm not confident the treatment went{n}very well this time...{p}But I think I've come to understand anew my wish to be{n}of help to the people dear to me, and the joy of{n}devoting myself to them.",
    "term": "end"
   },
   {
    "id": "scen330.0093",
    "jp": "自分で言うのも何ですが、{n}ツボ押しも上手くできたと思います。{n}{FFFB}{FC04}これも、すべてご主人様のおかけですね。{p}今回、私は大切な人のお役に立ちたい気持ちと、{n}尽くす喜びを、改めて認識することが出来ました。{p}‥‥これも、全てご主人様のおかげです。{n}感謝の気持ちに、これを受け取って頂けませんか？",
-   "en": "",
+   "en": "It's not my place to say so, but I think the pressure{n}point treatment went well. {FFFB}{FC04}That's all thanks to{n}you, Master.{p}This time, I came to understand anew my wish to be{n}of help to the people dear to me, and the joy of{n}devoting myself to them.{p}...That, too, is all thanks to you, Master. Would you{n}accept this as a token of my gratitude?",
    "term": "end"
   },
   {
    "id": "scen330.0094",
    "jp": "　{n}　知恵のリンゴはいっぱいで、受け取れなかった。",
-   "en": "",
+   "en": "　{n}　You couldn't carry any more Wisdom Apples, so you{n}couldn't accept it.",
    "term": "end"
   },
   {
    "id": "scen330.0095",
    "jp": "どうやら、知恵のリンゴは既に{n}沢山の数をお持ちのようですね‥‥。{n}{FFFB}ご主人様にお礼をしたかったのですが、残念です。",
-   "en": "",
+   "en": "It seems you already have a great many Wisdom{n}Apples... {FFFB}I wanted to thank you, Master, but that's{n}a shame.",
    "term": "end"
   },
   {
    "id": "scen330.0096",
    "jp": "　{n}　　　{FFEF}知恵のリンゴ{FFF1}をプレゼントされた！",
-   "en": "",
+   "en": "　{n}　　　You were given a {FFEF}Wisdom Apple{FFF1}!",
    "term": "end"
   },
   {
    "id": "scen330.0097",
    "jp": "ご主人様に、お礼を言わせてください。{n}{FFFB}{FFF6}‥‥ずっと迷ってた私の心に、{n}決断する勇気を与えてくれたお礼を‥‥。{p}{FFF7}私が持っている力はちっぽけなものですが、{n}こんな小さな力でも、頑張って努力すれば{n}大きな力に変わるのだと気づけました。{p}そして、そのためには{n}もっともっと腕を磨く必要があることも‥‥。{p}だから私は、大切な人のかけがえのない存在に{n}なれるように、更なる修行を積んで参ります。",
-   "en": "",
+   "en": "Master, please let me thank you. {FFFB}{FFF6}...Thank you for giving{n}my long-wavering heart the courage to decide...{p}{FFF7}The power I have is a tiny thing, but I've realized that{n}even a small power like mine can grow into a great one{n}if I work hard and strive.{p}And I've realized that to do that, I need to hone my{n}skills much, much more...{p}So I will go and train even further, so that I can{n}become irreplaceable to the people dear to me.",
    "term": "end"
   },
   {
@@ -641,33 +641,33 @@
   {
    "id": "scen330.0099",
    "jp": "・応援している",
-   "en": "",
+   "en": "・I'm rooting for you",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0100",
    "jp": "・行かないでくれ！",
-   "en": "",
+   "en": "・Please don't go!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen330.0101",
    "jp": "ありがとうございます、ご主人様。{n}{FFFB}その一言が、何よりも大きな{n}私の勇気になります‥‥。",
-   "en": "",
+   "en": "Thank you, Master. {FFFB}Those words give me more courage{n}than anything...",
    "term": "end"
   },
   {
    "id": "scen330.0102",
    "jp": "‥‥ご主人様‥‥。{n}{FFFB}{FFF6}いけません、そのようなお言葉‥‥{n}{FE14}私には勿体なさすぎます。{p}{FFF6}本当に申し訳ありません。{n}もう決めたことなのです、お許しください。",
-   "en": "",
+   "en": "...Master... {FFFB}{FFF6}You mustn't say such things... {FE14}I'm far too{n}unworthy of them.{p}{FFF6}I'm truly sorry. I've already made up my mind. Please{n}forgive me.",
    "term": "end"
   },
   {
    "id": "scen330.0103",
    "jp": "ご主人様と出会えてなければ、{n}旅立つ決意など出来なかったと思います。{n}{FFFB}ご主人様には、心から感謝しております。{p}{FFF6}この先、私がどこに行こうとも‥‥{n}ご主人様のことだけは絶対に忘れません。{p}{FC03}もし許されるのでしたら、{n}ご主人様の記憶の片隅にでも、私という存在を{n}置いておいてもらえませんか‥‥？{p}{FFF7}{FC04}大好きなご主人様への、{n}私の最後の我がままです‥‥。{n}お願いしますね。",
-   "en": "",
+   "en": "If I hadn't met you, Master, I don't think I could ever{n}have resolved to set out. {FFFB}I'm grateful to you from the{n}bottom of my heart.{p}{FFF6}Wherever I may go from here... I will never forget{n}you, Master.{p}{FC03}If I may, would you keep me somewhere in a corner of{n}your memory, Master...?{p}{FFF7}{FC04}It's my last selfish wish to the Master I love so{n}dearly... Please.",
    "term": "end"
   }
  ]

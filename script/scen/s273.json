@@ -36,7 +36,7 @@
   {
    "id": "scen273.0004",
    "jp": "敵が目前に迫ってきたよ！{p}{FC00}いよいよ攻撃が始まるけど、{n}気を付けておきたいのはＨＰかな？{p}ふだん、画面下に数字とメーターが出てると思うけど{n}ふたつの数字のうち、上がＨＰ、下がＭＰ。{n}んで下のメーターは‥‥、後で説明するわ。{p}{FC02}ＨＰが０になると、そいつの負け。{n}今はアンタしかいないから、{n}アンタのＨＰが０になったら、ゲームオーバーだよ。{p}{FC00}危なくなったら、アイテムの『{FFEF}回復薬{FFF1}』なんかを{n}使うといいわよ。",
-   "en": "",
+   "en": "The enemy's right on top of you!{p}{FC00}The fighting's about to start, so you'd better keep an{n}eye on your HP!{p}You usually see some numbers and a gauge at the{n}bottom of the screen, right? Of the two numbers, the{n}top one is HP and the bottom one is MP.{p}As for the gauge underneath... I'll explain that later.{p}{FC02}When someone's HP hits 0, they're out. You're the only{n}one fighting right now, so if YOUR HP hits 0, it's{n}game over!{p}{FC00}If things get dangerous, try using an item like a{n}'{FFEF}healing potion{FFF1}'.",
    "term": "end"
   },
   {
@@ -86,25 +86,25 @@
   {
    "id": "scen273.0011",
    "jp": "そう言えば、攻撃直後には硬直時間があるから{n}気を付けてね。{p}だから攻撃したすぐ後に命令を変更しても、{n}すぐには新しい命令を実行できないよ。",
-   "en": "",
+   "en": "Oh, and watch out! There's a recovery time right after{n}you attack.{p}So even if you change orders right after an attack,{n}you can't carry out the new order right away.",
    "term": "end"
   },
   {
    "id": "scen273.0012",
    "jp": "硬直時間の表示について説明する？",
-   "en": "",
+   "en": "Want me to explain how recovery time is shown?",
    "term": "end"
   },
   {
    "id": "scen273.0013",
    "jp": "画面下にあるＨＰやＭＰの数字の下に、{n}メーターがあるでしょ？{n}あれは{FFEE}ＷＡＩＴゲージ{FFF1}っていうの。{p}ちなみに『{FFEE}ＳＴＡＴＵＳ{FFF1}』の中に{n}『{FFEE}ＡＴＴＡＣＫ　ＳＰＥＥＤ{FFF1}』ってのがあるでしょ？{n}あの数値が硬直している時間だよ。{p}お店で武器を選ぶときには、{n}その数値にも気を使うのが熟練剣士の証ね。",
-   "en": "",
+   "en": "See the gauge below the HP and MP numbers at the{n}bottom of the screen? That's the {FFEE}WAIT gauge{FFF1}.{p}You know how there's an '{FFEE}ATTACK SPEED{FFF1}' number under{n}'{FFEE}STATUS{FFF1}'? That number tells you how long the recovery{n}time is.{p}Keeping an eye on that number when you buy weapons{n}is the mark of an experienced swordsman!",
    "term": "end"
   },
   {
    "id": "scen273.0014",
    "jp": "魔法の詠唱時間やアイテムの硬直時間も、{n}攻撃での硬直と時間の単位は同じよ！{n}『{FFEE}ＣＴ{FFF1}（カウント）』って数字を確認してね。{p}もう１つ、{FFF0}Ｔ{FFF1}（ターン）って単位があるの。{n}それは魔法の効果時間を説明する時に使うんだけど、{n}『{FFEE}１Ｔ＝５０ＣＴ{FFF1}』って覚えておけばＯＫよ。",
-   "en": "",
+   "en": "Spell casting times and item recovery times use the{n}same unit as attack recovery! Check the number{n}marked '{FFEE}CT{FFF1}' (Count).{p}There's one more unit, {FFF0}T{FFF1} (Turn). It's used to describe{n}how long magic effects last, but just remember '{FFEE}1T ={n}50CT{FFF1}' and you're all set!",
    "term": "end"
   },
   {

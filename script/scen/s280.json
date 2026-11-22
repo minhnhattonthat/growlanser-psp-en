@@ -15,37 +15,37 @@
   {
    "id": "scen280.0001",
    "jp": "{FFEE}村人を救え！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Save the villagers!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen280.0002",
    "jp": "{v:0028}どうしてこんなヒドイ事をするのよ！",
-   "en": "",
+   "en": "{v:0028}Why would you do something so horrible?!",
    "term": "end"
   },
   {
    "id": "scen280.0003",
    "jp": "{v:0029}自分の利益のために、簡単に人を殺すし、{n}簡単に戦争を起こす。{n}この世界の連中に生きる価値はない。",
-   "en": "",
+   "en": "{v:0029}They kill people without a second thought for their own{n}gain, and start wars just as easily. The people of this{n}world don't deserve to live.",
    "term": "end"
   },
   {
    "id": "scen280.0004",
    "jp": "{v:002A}えぇっ！？{n}何を言ってンの？",
-   "en": "",
+   "en": "{v:002A}Whaaat?! What are you talking about?",
    "term": "end"
   },
   {
    "id": "scen280.0005",
    "jp": "{v:002B}だからこの手で滅ぼしてやる‥‥。",
-   "en": "",
+   "en": "{v:002B}So I'll destroy them with my own hands...",
    "term": "end"
   },
   {
    "id": "scen280.0006",
    "jp": "{v:0129}滅びるがいい！",
-   "en": "",
+   "en": "{v:0129}Perish!",
    "term": "end"
   },
   {
@@ -65,115 +65,115 @@
   {
    "id": "scen280.0009",
    "jp": "{v:000B}よし、まずは１人‥‥。{n}あとは貴様だけだぞ？",
-   "en": "",
+   "en": "{v:000B}Good, that's one... Now only you are left, hm?",
    "term": "end"
   },
   {
    "id": "scen280.0010",
    "jp": "{v:000C}少し減ったようだな。ならば追加だ。",
-   "en": "",
+   "en": "{v:000C}Looks like their numbers have thinned. Then I'll{n}add more.",
    "term": "end"
   },
   {
    "id": "scen280.0011",
    "jp": "{v:002D}追加だ。",
-   "en": "",
+   "en": "{v:002D}Here's more.",
    "term": "end"
   },
   {
    "id": "scen280.0012",
    "jp": "な、何、ナニ、なんなのよ！",
-   "en": "",
+   "en": "Wh-what, what, WHAT is going on?!",
    "term": "end"
   },
   {
    "id": "scen280.0013",
    "jp": "嘘‥‥人が‥ユングに‥‥。{n}それじゃ、ここのユングって‥‥。",
-   "en": "",
+   "en": "No way... People... turned into Jung... Then, the Jung{n}here are...",
    "term": "end"
   },
   {
    "id": "scen280.0014",
    "jp": "くそ！{n}一人も救えなかったか‥！",
-   "en": "",
+   "en": "Damn! We couldn't save a single one...!",
    "term": "end"
   },
   {
    "id": "scen280.0015",
    "jp": "{v:000F}な、何、ナニ、なんなのよ！",
-   "en": "",
+   "en": "{v:000F}Wh-what, what, WHAT is going on?!",
    "term": "end"
   },
   {
    "id": "scen280.0016",
    "jp": "{v:0010}嘘‥‥人が‥ユングに‥‥。{n}それじゃ、ここのユングって‥‥。{p}{v:0011}そんな‥‥戦っても‥いいの‥‥？",
-   "en": "",
+   "en": "{v:0010}No way... People... turned into Jung... Then, the Jung{n}here are...{p}{v:0011}Then... is it really... okay to fight them...?",
    "term": "end"
   },
   {
    "id": "scen280.0017",
    "jp": "{v:0012}どう見ても、もう人間じゃない！{n}こいつらを逃がしたら、他の人たちに被害が出る！",
-   "en": "",
+   "en": "{v:0012}Look at them, they're not human anymore! If we let{n}them go, other people will get hurt!",
    "term": "end"
   },
   {
    "id": "scen280.0018",
    "jp": "{v:0013}う‥‥うん‥‥。",
-   "en": "",
+   "en": "{v:0013}O-okay...",
    "term": "end"
   },
   {
    "id": "scen280.0019",
    "jp": "まだ邪魔をするつもりか！？{n}{FE14}ならば、次はお前たちが{n}闇落としの餌食になるがいい！",
-   "en": "",
+   "en": "Still getting in my way?!{FE14} Then you'll be the next to fall{n}prey to the Darkfall!",
    "term": "end"
   },
   {
    "id": "scen280.0020",
    "jp": "くそっ、このままじゃ俺たちも危ないぞ！{n}何としてでも、あいつを止めるんだ！",
-   "en": "",
+   "en": "Damn, at this rate we're in danger too! We have to{n}stop him no matter what!",
    "term": "end"
   },
   {
    "id": "scen280.0021",
    "jp": "{FFEE}ジャスティンを攻撃して闇落としを妨害しろ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Attack Justin to disrupt the Darkfall!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen280.0022",
    "jp": "た、たすかったぁ‥‥！",
-   "en": "",
+   "en": "Ph-phew, we're saved...!",
    "term": "end"
   },
   {
    "id": "scen280.0023",
    "jp": "うぅ、死ぬかと思った‥‥。",
-   "en": "",
+   "en": "Ugh, I thought I was gonna die...",
    "term": "end"
   },
   {
    "id": "scen280.0024",
    "jp": "やった、これで助かる‥‥！",
-   "en": "",
+   "en": "Yes, we're saved...!",
    "term": "end"
   },
   {
    "id": "scen280.0025",
    "jp": "{v:0014}さすがゲヴェルを倒した連中。{n}簡単にはいかないか‥‥。",
-   "en": "",
+   "en": "{v:0014}As expected of the ones who defeated Gevel. This{n}won't be easy...",
    "term": "end"
   },
   {
    "id": "scen280.0026",
    "jp": "{v:0015}だがベルガーを始末できたし、闇落としの実験は{n}成功した。今回はこれで良しとしよう。",
-   "en": "",
+   "en": "{v:0015}But I've disposed of Berger, and the Darkfall experiment{n}was a success. I'll call that good enough for now.",
    "term": "end"
   },
   {
    "id": "scen280.0027",
    "jp": "・お前の目的は何だ？",
-   "en": "",
+   "en": "・What is your goal?",
    "term": "end",
    "unref": true
   },
@@ -188,121 +188,121 @@
   {
    "id": "scen280.0029",
    "jp": "{v:0016}そうだ、闇落としとは何だ？",
-   "en": "",
+   "en": "{v:0016}That's right, what is the Darkfall?",
    "term": "end"
   },
   {
    "id": "scen280.0030",
    "jp": "{v:0017}待て！{n}お前の目的は何だ？闇落としとは何だ？",
-   "en": "",
+   "en": "{v:0017}Wait! What is your goal? What is the Darkfall?",
    "term": "end"
   },
   {
    "id": "scen280.0031",
    "jp": "{v:0018}今見ただろう？{n}時空の歪みから闇の物質デュンケルスを呼びだす。{p}{v:002C}デュンケルスに触れた者は闇に侵食され、{n}身も心も化け物になる。{p}{v:0019}いずれこの世界は化け物だらけになるぞ‥‥？{n}くっくっくっ！",
-   "en": "",
+   "en": "{v:0018}You just saw it, didn't you? I summon Dunkels, the{n}substance of darkness, from distortions in space-time.{p}{v:002C}Anyone who touches Dunkels is eaten away by the{n}darkness and becomes a monster, body and soul.{p}{v:0019}Before long, this world will be overrun with monsters...!{n}Heh heh heh!",
    "term": "end"
   },
   {
    "id": "scen280.0032",
    "jp": "{v:001A}そんなの許さないよ！{n}アタシたちがやっつけちゃうんだから！",
-   "en": "",
+   "en": "{v:001A}We won't let you! We're gonna beat you, just watch!",
    "term": "end"
   },
   {
    "id": "scen280.0033",
    "jp": "{v:001B}はっはっはっはっは、楽しみにしてるよ。{p}{v:001C}メルフィ！",
-   "en": "",
+   "en": "{v:001B}Hahahahaha! I look forward to it.{p}{v:001C}Melfie!",
    "term": "end"
   },
   {
    "id": "scen280.0034",
    "jp": "{v:001D}ああ‥‥逃げられちゃった‥‥。",
-   "en": "",
+   "en": "{v:001D}Oh... they got away...",
    "term": "end"
   },
   {
    "id": "scen280.0035",
    "jp": "{v:001E}チッ！{n}とにかく今はこの化け物を何とかする方が先だ！",
-   "en": "",
+   "en": "{v:001E}Tch! Anyway, dealing with these monsters comes first!",
    "term": "end"
   },
   {
    "id": "scen280.0036",
    "jp": "{v:001F}もう、いないね‥‥怪物‥‥。",
-   "en": "",
+   "en": "{v:001F}They're gone now... the monsters...",
    "term": "end"
   },
   {
    "id": "scen280.0037",
    "jp": "‥‥時空が充分に歪んだようだな‥‥。{n}{FFFB}あとは、裂け目から大量のデュンケルスを{n}引き出すだけだ！",
-   "en": "",
+   "en": "...Space-time seems sufficiently distorted...{FFFB} Now all{n}that's left is to draw a mass of Dunkels out through{n}the rift!",
    "term": "end"
   },
   {
    "id": "scen280.0038",
    "jp": "ちょ、ちょっとヤバいよ！{n}あいつ、ここにデュンケルスを落とすつもりみたい！{n}早く妨害しないと！",
-   "en": "",
+   "en": "H-hey, this is bad! Looks like he's gonna drop Dunkels{n}right here! We have to stop him, fast!",
    "term": "end"
   },
   {
    "id": "scen280.0039",
    "jp": "‥‥時間だ。{n}闇に蝕まれ苦しみながら、果てるがいい！",
-   "en": "",
+   "en": "...Time's up. Writhe as the darkness eats you away,{n}and perish!",
    "term": "end"
   },
   {
    "id": "scen280.0040",
    "jp": "ＧＹＡＡＡ‥‥！",
-   "en": "",
+   "en": "GYAAA...!",
    "term": "end"
   },
   {
    "id": "scen280.0041",
    "jp": "ＧＹＵＵ‥‥",
-   "en": "",
+   "en": "GYUUU...",
    "term": "end"
   },
   {
    "id": "scen280.0042",
    "jp": "ＧＧＧ‥‥",
-   "en": "",
+   "en": "GGG...",
    "term": "end"
   },
   {
    "id": "scen280.0043",
    "jp": "ＧＹＡＡ‥‥！",
-   "en": "",
+   "en": "GYAAA...!",
    "term": "end"
   },
   {
    "id": "scen280.0044",
    "jp": "ＧＵＵ‥‥",
-   "en": "",
+   "en": "GUUU...",
    "term": "end"
   },
   {
    "id": "scen280.0045",
    "jp": "バカバカ！{n}みんな死んじゃったじゃない！",
-   "en": "",
+   "en": "Stupid, stupid! Now everyone's dead!",
    "term": "end"
   },
   {
    "id": "scen280.0046",
    "jp": "うあぁあ！{n}いや‥だ、助けて‥‥！",
-   "en": "",
+   "en": "Uwaaah! N-no... help me...!",
    "term": "end"
   },
   {
    "id": "scen280.0047",
    "jp": "こ、こんなとこで‥‥{n}死にたく‥な‥‥。",
-   "en": "",
+   "en": "N-not in a place like this... I don't... wanna di...",
    "term": "end"
   },
   {
    "id": "scen280.0048",
    "jp": "うああああっ‥‥！",
-   "en": "",
+   "en": "Aaaaagh...!",
    "term": "end"
   }
  ]

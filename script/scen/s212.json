@@ -71,7 +71,7 @@
   {
    "id": "scen212.0009",
    "jp": "{v:002F}いつガスが噴き出すかわからんぞ。{n}無駄な戦いは避けて、出口へ急ごう！",
-   "en": "",
+   "en": "{v:002F}That gas could erupt at any moment. Avoid{n}unnecessary fights and hurry to the exit!",
    "term": "end"
   },
   {
@@ -175,7 +175,7 @@
   {
    "id": "scen212.0024",
    "jp": "{FFF6}{v:0024}あまり時間をかけるな。{n}ガスが噴き出してくるまで時間がないぞ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0024}Do not linger. There is little time before the{n}gas erupts...",
    "term": "end"
   },
   {
@@ -202,7 +202,7 @@
   {
    "id": "scen212.0028",
    "jp": "{FFF6}{v:0028}急ぐのだ。{n}間もなくガスが噴き出すぞ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:0028}Make haste. The gas will erupt shortly...",
    "term": "end"
   },
   {
@@ -222,7 +222,7 @@
   {
    "id": "scen212.0031",
    "jp": "{FFF6}{v:001A}気をつけろ‥‥そろそろガスが噴き出すぞ‥‥。",
-   "en": "",
+   "en": "{FFF6}{v:001A}Take care... The gas will erupt soon...",
    "term": "end"
   },
   {

@@ -811,251 +811,251 @@
   {
    "id": "scen185.0117",
    "jp": "・次へ",
-   "en": "",
+   "en": "・Next",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0118",
    "jp": "ブローニュ村でアメリアを助けた事が{n}あるようにしますか？",
-   "en": "",
+   "en": "Set it so you helped Amelia in Boulogne Village?",
    "term": "end"
   },
   {
    "id": "scen185.0119",
    "jp": "・助けた",
-   "en": "",
+   "en": "・Helped her",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0120",
    "jp": "・助けてない",
-   "en": "",
+   "en": "・Didn't help her",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0121",
    "jp": "アメリアかリシャールの好感度を{n}上げますか？",
-   "en": "",
+   "en": "Raise Amelia's or Richard's affection?",
    "term": "end"
   },
   {
    "id": "scen185.0122",
    "jp": "・誰もあげない",
-   "en": "",
+   "en": "・Raise no one's",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0123",
    "jp": "・アメリア",
-   "en": "",
+   "en": "・Amelia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0124",
    "jp": "・リシャール",
-   "en": "",
+   "en": "・Richard",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0125",
    "jp": "俺町での劇場は何を見ますか？",
-   "en": "",
+   "en": "Which show do you see at the My Town theater?",
    "term": "end"
   },
   {
    "id": "scen185.0126",
    "jp": "・ジョニー・カルテット",
-   "en": "",
+   "en": "・Johnny Quartet",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0127",
    "jp": "・バーバラ",
-   "en": "",
+   "en": "・Barbara",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0128",
    "jp": "・三国大陸",
-   "en": "",
+   "en": "・Three Kingdoms Continent",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0129",
    "jp": "俺町での絵は何を見ますか？",
-   "en": "",
+   "en": "Which art do you see in My Town?",
    "term": "end"
   },
   {
    "id": "scen185.0130",
    "jp": "・造形家",
-   "en": "",
+   "en": "・Sculptor",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0131",
    "jp": "・画家",
-   "en": "",
+   "en": "・Painter",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0132",
    "jp": "アメリアの休暇イベントを{n}出来るようにしますか？",
-   "en": "",
+   "en": "Make Amelia's vacation event available?",
    "term": "end"
   },
   {
    "id": "scen185.0133",
    "jp": "・する",
-   "en": "",
+   "en": "・Yes",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0134",
    "jp": "・しない",
-   "en": "",
+   "en": "・No",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0135",
    "jp": "誰から告白を受けますか？",
-   "en": "",
+   "en": "Who confesses to you?",
    "term": "end"
   },
   {
    "id": "scen185.0136",
    "jp": "・アメリア",
-   "en": "",
+   "en": "・Amelia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0137",
    "jp": "・リシャール",
-   "en": "",
+   "en": "・Richard",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0138",
    "jp": "メインイベントのどれを見ますか？",
-   "en": "",
+   "en": "Which main event do you want to see?",
    "term": "end"
   },
   {
    "id": "scen185.0139",
    "jp": "・ジャスティン戦",
-   "en": "",
+   "en": "・Battle with Justin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0140",
    "jp": "・光と闇の最終戦",
-   "en": "",
+   "en": "・Final battle of light and darkness",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0141",
    "jp": "・パワーストーンセット",
-   "en": "",
+   "en": "・Power Stone set",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0142",
    "jp": "・勇者に未来を",
-   "en": "",
+   "en": "・A future for the heroes",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0143",
    "jp": "・新規エンディング",
-   "en": "",
+   "en": "・New ending",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0144",
    "jp": "・これからの方針",
-   "en": "",
+   "en": "・The plan from here on",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0145",
    "jp": "・時空観測計へ",
-   "en": "",
+   "en": "・To the space-time meter",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0146",
    "jp": "・送魔線技師に相談",
-   "en": "",
+   "en": "・Consult the mana line engineer",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0147",
    "jp": "・再度屋上へ行く",
-   "en": "",
+   "en": "・Go to the roof again",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0148",
    "jp": "・バーンシュタイン防衛へ",
-   "en": "",
+   "en": "・To the defense of Burnstein",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0149",
    "jp": "・次へ",
-   "en": "",
+   "en": "・Next",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0150",
    "jp": "誰に告白出来るようにしますか？",
-   "en": "",
+   "en": "Who can you confess to?",
    "term": "end"
   },
   {
    "id": "scen185.0151",
    "jp": "孤独が好き",
-   "en": "",
+   "en": "I like being alone",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0152",
    "jp": "メルフィ",
-   "en": "",
+   "en": "Melfie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0153",
    "jp": "アメリア",
-   "en": "",
+   "en": "Amelia",
    "term": "end",
    "unref": true
   },
@@ -1070,807 +1070,807 @@
   {
    "id": "scen185.0155",
    "jp": "メインイベントのどれを見ますか？",
-   "en": "",
+   "en": "Which main event do you want to see?",
    "term": "end"
   },
   {
    "id": "scen185.0156",
    "jp": "・バーンシュタイン防衛報告",
-   "en": "",
+   "en": "・Burnstein defense report",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0157",
    "jp": "・ナイツ派遣",
-   "en": "",
+   "en": "・Dispatch of the Knights",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0158",
    "jp": "・各地防衛１",
-   "en": "",
+   "en": "・Regional defense 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0159",
    "jp": "・各地防衛報告１",
-   "en": "",
+   "en": "・Regional defense report 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0160",
    "jp": "・各地防衛２",
-   "en": "",
+   "en": "・Regional defense 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0161",
    "jp": "・各地防衛報告２",
-   "en": "",
+   "en": "・Regional defense report 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0162",
    "jp": "・各地防衛３",
-   "en": "",
+   "en": "・Regional defense 3",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0163",
    "jp": "・各地防衛報告３",
-   "en": "",
+   "en": "・Regional defense report 3",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0164",
    "jp": "・フェザーランド防衛",
-   "en": "",
+   "en": "・Defense of Featherland",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0165",
    "jp": "・ツインゲヴェル出現",
-   "en": "",
+   "en": "・Twin Gevel appears",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0166",
    "jp": "・次へ",
-   "en": "",
+   "en": "・Next",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0167",
    "jp": "どの状態で確認しますか？",
-   "en": "",
+   "en": "Which state do you want to check?",
    "term": "end"
   },
   {
    "id": "scen185.0168",
    "jp": "・まだどこにも行っていない状態",
-   "en": "",
+   "en": "・Haven't gone anywhere yet",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0169",
    "jp": "・クレイン村を防衛した",
-   "en": "",
+   "en": "・Defended Crane Village",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0170",
    "jp": "・ヴァルミエを防衛した",
-   "en": "",
+   "en": "・Defended Valmier",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0171",
    "jp": "・コムスプリングスを防衛した",
-   "en": "",
+   "en": "・Defended Comsprings",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0172",
    "jp": "・シュッツベルグを防衛した",
-   "en": "",
+   "en": "・Defended Schutzberg",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0173",
    "jp": "クレイン村、ヴァルミエ、{n}コムスプリングス、シュッツベルグの{n}いずれかにテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Crane Village, Valmier, Comsprings{n}or Schutzberg.",
    "term": "end"
   },
   {
    "id": "scen185.0174",
    "jp": "ヴァルミエ、{n}コムスプリングス、シュッツベルグの{n}いずれかにテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Valmier, Comsprings or Schutzberg.",
    "term": "end"
   },
   {
    "id": "scen185.0175",
    "jp": "クレイン村、{n}コムスプリングス、シュッツベルグの{n}いずれかにテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Crane Village, Comsprings or Schutzberg.",
    "term": "end"
   },
   {
    "id": "scen185.0176",
    "jp": "クレイン村、ヴァルミエ、{n}シュッツベルグの{n}いずれかにテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Crane Village, Valmier or Schutzberg.",
    "term": "end"
   },
   {
    "id": "scen185.0177",
    "jp": "クレイン村、ヴァルミエ、{n}コムスプリングスの{n}いずれかにテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Crane Village, Valmier or Comsprings.",
    "term": "end"
   },
   {
    "id": "scen185.0178",
    "jp": "どの状態で確認しますか？",
-   "en": "",
+   "en": "Which state do you want to check?",
    "term": "end"
   },
   {
    "id": "scen185.0179",
    "jp": "・防衛成功",
-   "en": "",
+   "en": "・Defense succeeded",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0180",
    "jp": "・クレイン村失敗",
-   "en": "",
+   "en": "・Crane Village failed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0181",
    "jp": "・ヴァルミエ失敗",
-   "en": "",
+   "en": "・Valmier failed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0182",
    "jp": "・両方失敗",
-   "en": "",
+   "en": "・Both failed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0183",
    "jp": "どの状態で確認しますか？",
-   "en": "",
+   "en": "Which state do you want to check?",
    "term": "end"
   },
   {
    "id": "scen185.0184",
    "jp": "・まだどこにも行っていない状態",
-   "en": "",
+   "en": "・Haven't gone anywhere yet",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0185",
    "jp": "・ランザックを防衛した",
-   "en": "",
+   "en": "・Defended Ranzak",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0186",
    "jp": "・ガラシールズを防衛した",
-   "en": "",
+   "en": "・Defended Galashiels",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0187",
    "jp": "・ラージン砦を防衛した",
-   "en": "",
+   "en": "・Defended Fort Rajin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0188",
    "jp": "・ランザックとガラシールズ防衛した",
-   "en": "",
+   "en": "・Defended Ranzak and Galashiels",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0189",
    "jp": "・ランザックとラージン砦防衛した",
-   "en": "",
+   "en": "・Defended Ranzak and Fort Rajin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0190",
    "jp": "・ガラシールズとラージン砦防衛した",
-   "en": "",
+   "en": "・Defended Galashiels and Fort Rajin",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0191",
    "jp": "ランザック、ガラシールズ、ラージン砦の{n}いずれかにテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Ranzak, Galashiels or Fort Rajin.",
    "term": "end"
   },
   {
    "id": "scen185.0192",
    "jp": "ガラシールズ、ラージン砦の{n}いずれかにテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Galashiels or Fort Rajin.",
    "term": "end"
   },
   {
    "id": "scen185.0193",
    "jp": "ランザック、ラージン砦の{n}いずれかにテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Ranzak or Fort Rajin.",
    "term": "end"
   },
   {
    "id": "scen185.0194",
    "jp": "ランザック、ガラシールズの{n}いずれかにテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Ranzak or Galashiels.",
    "term": "end"
   },
   {
    "id": "scen185.0195",
    "jp": "ラージン砦にテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Fort Rajin.",
    "term": "end"
   },
   {
    "id": "scen185.0196",
    "jp": "ガラシールズにテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Galashiels.",
    "term": "end"
   },
   {
    "id": "scen185.0197",
    "jp": "ランザックにテレポートしてください。",
-   "en": "",
+   "en": "Teleport to Ranzak.",
    "term": "end"
   },
   {
    "id": "scen185.0198",
    "jp": "ジャスティンの脳内放送１回目を{n}見たことにしますか？",
-   "en": "",
+   "en": "Set it so you saw Justin's first broadcast into{n}your head?",
    "term": "end"
   },
   {
    "id": "scen185.0199",
    "jp": "どの状態で確認しますか？",
-   "en": "",
+   "en": "Which state do you want to check?",
    "term": "end"
   },
   {
    "id": "scen185.0200",
    "jp": "・防衛成功",
-   "en": "",
+   "en": "・Defense succeeded",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0201",
    "jp": "・ランザック失敗",
-   "en": "",
+   "en": "・Ranzak failed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0202",
    "jp": "・ガラシールズ失敗",
-   "en": "",
+   "en": "・Galashiels failed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0203",
    "jp": "・ラージン砦失敗",
-   "en": "",
+   "en": "・Fort Rajin failed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0204",
    "jp": "・ランザックとガラシールズ失敗",
-   "en": "",
+   "en": "・Ranzak and Galashiels failed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0205",
    "jp": "・ランザックとラージン砦失敗",
-   "en": "",
+   "en": "・Ranzak and Fort Rajin failed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0206",
    "jp": "・ガラシールズとラージン砦失敗",
-   "en": "",
+   "en": "・Galashiels and Fort Rajin failed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0207",
    "jp": "・全て防衛失敗",
-   "en": "",
+   "en": "・All defenses failed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0208",
    "jp": "各防衛地点の成否も自分で決めますか？{n}決めない場合は全て成功したことにします。",
-   "en": "",
+   "en": "Decide the outcome of each defense point yourself? If{n}not, all of them count as successes.",
    "term": "end"
   },
   {
    "id": "scen185.0209",
    "jp": "・決める",
-   "en": "",
+   "en": "・Decide",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0210",
    "jp": "・決めない",
-   "en": "",
+   "en": "・Don't decide",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0211",
    "jp": "クレイン村の防衛は{n}成功したことにする？",
-   "en": "",
+   "en": "Set the defense of Crane Village as a success?",
    "term": "end"
   },
   {
    "id": "scen185.0212",
    "jp": "ヴァルミエの防衛は{n}成功したことにする？",
-   "en": "",
+   "en": "Set the defense of Valmier as a success?",
    "term": "end"
   },
   {
    "id": "scen185.0213",
    "jp": "ランザックの防衛は{n}成功したことにする？",
-   "en": "",
+   "en": "Set the defense of Ranzak as a success?",
    "term": "end"
   },
   {
    "id": "scen185.0214",
    "jp": "ガラシールズの防衛は{n}成功したことにする？",
-   "en": "",
+   "en": "Set the defense of Galashiels as a success?",
    "term": "end"
   },
   {
    "id": "scen185.0215",
    "jp": "ラージン砦の防衛は{n}成功したことにする？",
-   "en": "",
+   "en": "Set the defense of Fort Rajin as a success?",
    "term": "end"
   },
   {
    "id": "scen185.0216",
    "jp": "どの状態で確認しますか？",
-   "en": "",
+   "en": "Which state do you want to check?",
    "term": "end"
   },
   {
    "id": "scen185.0217",
    "jp": "・まだどこにも行ってない",
-   "en": "",
+   "en": "・Haven't gone anywhere yet",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0218",
    "jp": "・デリス村の防衛ＯＫ",
-   "en": "",
+   "en": "・Delis Village defended",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0219",
    "jp": "・俺街の防衛ＯＫ",
-   "en": "",
+   "en": "・My Town defended",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0220",
    "jp": "・デリス村と俺街の防衛ＯＫ",
-   "en": "",
+   "en": "・Delis Village and My Town defended",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0221",
    "jp": "俺街は開発開始していることにしますか？",
-   "en": "",
+   "en": "Set My Town development as already started?",
    "term": "end"
   },
   {
    "id": "scen185.0222",
    "jp": "魔法学院へテレポートしてください。",
-   "en": "",
+   "en": "Teleport to the Magic Academy.",
    "term": "end"
   },
   {
    "id": "scen185.0223",
    "jp": "どのビジュアルシーンを見ますか？",
-   "en": "",
+   "en": "Which visual scene do you want to see?",
    "term": "end"
   },
   {
    "id": "scen185.0224",
    "jp": "・２人の天使",
-   "en": "",
+   "en": "・Two Angels",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0225",
    "jp": "・兄弟",
-   "en": "",
+   "en": "・Brothers",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0226",
    "jp": "・魔法学院について",
-   "en": "",
+   "en": "・About the Magic Academy",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0227",
    "jp": "・尻もちミーシャ",
-   "en": "",
+   "en": "・Misha Falls on Her Bottom",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0228",
    "jp": "・水晶に刻まれた傷跡",
-   "en": "",
+   "en": "・Scars Carved in Crystal",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0229",
    "jp": "・悲しき再会",
-   "en": "",
+   "en": "・A Sad Reunion",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0230",
    "jp": "・ミーシャとルイセ",
-   "en": "",
+   "en": "・Misha and Luise",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0231",
    "jp": "・牢獄のカレン",
-   "en": "",
+   "en": "・Karen in Prison",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0232",
    "jp": "・神秘の涙",
-   "en": "",
+   "en": "・Mysterious Tears",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0233",
    "jp": "・ルイセ復活",
-   "en": "",
+   "en": "・Luise Revived",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0234",
    "jp": "・たそがれのルイセ",
-   "en": "",
+   "en": "・Luise at Twilight",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0235",
    "jp": "・ルイセの告白",
-   "en": "",
+   "en": "・Luise's Confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0236",
    "jp": "・も～そ～少女ミーシャ",
-   "en": "",
+   "en": "・Daydreaming Girl Misha",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0237",
    "jp": "・悲しき魔導生命体",
-   "en": "",
+   "en": "・Sorrowful Magical Life Form",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0238",
    "jp": "・次へ",
-   "en": "",
+   "en": "・Next",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0239",
    "jp": "どのビジュアルシーンを見ますか？",
-   "en": "",
+   "en": "Which visual scene do you want to see?",
    "term": "end"
   },
   {
    "id": "scen185.0240",
    "jp": "・ミーシャの愛情",
-   "en": "",
+   "en": "・Misha's Love",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0241",
    "jp": "・カレンの動揺",
-   "en": "",
+   "en": "・Karen Shaken",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0242",
    "jp": "・彼とカレン",
-   "en": "",
+   "en": "・Him and Karen",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0243",
    "jp": "・ジュリアと街で",
-   "en": "",
+   "en": "・In Town with Julia",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0244",
    "jp": "・ティピの想い",
-   "en": "",
+   "en": "・Tippi's Feelings",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0245",
    "jp": "・ティピちゃん日記",
-   "en": "",
+   "en": "・Tippi-chan's Diary",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0246",
    "jp": "・フェザーランド崩壊",
-   "en": "",
+   "en": "・The Fall of Featherland",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0247",
    "jp": "・時空制御塔墜落",
-   "en": "",
+   "en": "・The Space-Time Control Tower Crashes",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0248",
    "jp": "・メルフィとの出会い",
-   "en": "",
+   "en": "・Meeting Melfie",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0249",
    "jp": "・方・向・音・痴！",
-   "en": "",
+   "en": "・No! Sense! Of! Direction!",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0250",
    "jp": "・癒しの膝枕",
-   "en": "",
+   "en": "・A Healing Lap Pillow",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0251",
    "jp": "・アメリアの告白",
-   "en": "",
+   "en": "・Amelia's Confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0252",
    "jp": "・ルイセとメルフィ、二人の力で",
-   "en": "",
+   "en": "・Luise and Melfie, with Their Combined Power",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0253",
    "jp": "・メルフィの心",
-   "en": "",
+   "en": "・Melfie's Heart",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0254",
    "jp": "・次へ",
-   "en": "",
+   "en": "・Next",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0255",
    "jp": "どのビジュアルシーンを見ますか？",
-   "en": "",
+   "en": "Which visual scene do you want to see?",
    "term": "end"
   },
   {
    "id": "scen185.0256",
    "jp": "・おまけ１",
-   "en": "",
+   "en": "・Bonus 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0257",
    "jp": "・おまけ２",
-   "en": "",
+   "en": "・Bonus 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0258",
    "jp": "・おまけ３",
-   "en": "",
+   "en": "・Bonus 3",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0259",
    "jp": "・おまけ４",
-   "en": "",
+   "en": "・Bonus 4",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0260",
    "jp": "・おまけ５",
-   "en": "",
+   "en": "・Bonus 5",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0261",
    "jp": "・おまけ６",
-   "en": "",
+   "en": "・Bonus 6",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0262",
    "jp": "・おまけ７",
-   "en": "",
+   "en": "・Bonus 7",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0263",
    "jp": "・おまけ８",
-   "en": "",
+   "en": "・Bonus 8",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0264",
    "jp": "・最初に戻る",
-   "en": "",
+   "en": "・Back to the start",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0265",
    "jp": "どのタイプのＳＥにしますか？",
-   "en": "",
+   "en": "Which type of sound effect?",
    "term": "end"
   },
   {
    "id": "scen185.0266",
    "jp": "どのＳＥを聞きますか？",
-   "en": "",
+   "en": "Which sound effect do you want to hear?",
    "term": "end"
   },
   {
    "id": "scen185.0267",
    "jp": "・システムメニュー関連ＳＥ",
-   "en": "",
+   "en": "・System menu sound effects",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0268",
    "jp": "・魔法使用時のＳＥ",
-   "en": "",
+   "en": "・Sound effects for magic",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0269",
    "jp": "・戦闘時のＳＥ",
-   "en": "",
+   "en": "・Sound effects for battle",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0270",
    "jp": "・マップで主に使用するＳＥ",
-   "en": "",
+   "en": "・Sound effects used mainly on maps",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0271",
    "jp": "・イベント的に使用するＳＥ",
-   "en": "",
+   "en": "・Sound effects used for events",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0272",
    "jp": "どの常駐ＳＥにしますか？",
-   "en": "",
+   "en": "Which resident sound effect?",
    "term": "end"
   },
   {
    "id": "scen185.0273",
    "jp": "・常駐０～５",
-   "en": "",
+   "en": "・Resident 0-5",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0274",
    "jp": "・常駐６～７",
-   "en": "",
+   "en": "・Resident 6-7",
    "term": "end",
    "unref": true
   },
@@ -1884,42 +1884,42 @@
   {
    "id": "scen185.0276",
    "jp": "・常駐００　コマンドメニュー起動時音",
-   "en": "",
+   "en": "・Resident 00 Command menu open",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0277",
    "jp": "・常駐０１　コマンド等決定音",
-   "en": "",
+   "en": "・Resident 01 Command confirm",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0278",
    "jp": "・常駐０２　キャンセル音１",
-   "en": "",
+   "en": "・Resident 02 Cancel 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0279",
    "jp": "・常駐０３　キャンセル音２",
-   "en": "",
+   "en": "・Resident 03 Cancel 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0280",
    "jp": "・常駐０４　カーソル移動音",
-   "en": "",
+   "en": "・Resident 04 Cursor move",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0281",
    "jp": "・常駐０５　インフォメーション音",
-   "en": "",
+   "en": "・Resident 05 Information",
    "term": "end",
    "unref": true
   },
@@ -1933,69 +1933,69 @@
   {
    "id": "scen185.0283",
    "jp": "・常駐０６　足音（大地）",
-   "en": "",
+   "en": "・Resident 06 Footsteps (ground)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0284",
    "jp": "・常駐０７　足音（みずしぶき）",
-   "en": "",
+   "en": "・Resident 07 Footsteps (splashing)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0285",
    "jp": "どの魔法ＳＥにしますか？",
-   "en": "",
+   "en": "Which magic sound effect?",
    "term": "end"
   },
   {
    "id": "scen185.0286",
    "jp": "・魔法０００～００５",
-   "en": "",
+   "en": "・Magic 000-005",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0287",
    "jp": "・魔法００６～０１１",
-   "en": "",
+   "en": "・Magic 006-011",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0288",
    "jp": "・魔法０１２～０１７",
-   "en": "",
+   "en": "・Magic 012-017",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0289",
    "jp": "・魔法０１８～０２３",
-   "en": "",
+   "en": "・Magic 018-023",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0290",
    "jp": "・魔法０２４～０２９",
-   "en": "",
+   "en": "・Magic 024-029",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0291",
    "jp": "・魔法０３０～０３２",
-   "en": "",
+   "en": "・Magic 030-032",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0292",
    "jp": "・戻る",
-   "en": "",
+   "en": "・Back",
    "term": "end",
    "unref": true
   },
@@ -2009,133 +2009,133 @@
   {
    "id": "scen185.0294",
    "jp": "・ファイアーボール",
-   "en": "",
+   "en": "・Fireball",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0295",
    "jp": "・ブリザード",
-   "en": "",
+   "en": "・Blizzard",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0296",
    "jp": "・トルネード",
-   "en": "",
+   "en": "・Tornado",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0297",
    "jp": "・サンダー",
-   "en": "",
+   "en": "・Thunder",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0298",
    "jp": "・アースクエイク",
-   "en": "",
+   "en": "・Earthquake",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0299",
    "jp": "・ホーリーライト",
-   "en": "",
+   "en": "・Holy Light",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0300",
    "jp": "０‥出火音",
-   "en": "",
+   "en": "0: Ignition",
    "term": "end"
   },
   {
    "id": "scen185.0301",
    "jp": "１‥炎の燃える音",
-   "en": "",
+   "en": "1: Flames burning",
    "term": "end"
   },
   {
    "id": "scen185.0302",
    "jp": "２‥爆発音",
-   "en": "",
+   "en": "2: Explosion",
    "term": "end"
   },
   {
    "id": "scen185.0303",
    "jp": "０‥風なりの音",
-   "en": "",
+   "en": "0: Howling wind",
    "term": "end"
   },
   {
    "id": "scen185.0304",
    "jp": "１‥氷の形成される音",
-   "en": "",
+   "en": "1: Ice forming",
    "term": "end"
   },
   {
    "id": "scen185.0305",
    "jp": "２‥氷の砕ける音",
-   "en": "",
+   "en": "2: Ice shattering",
    "term": "end"
   },
   {
    "id": "scen185.0306",
    "jp": "０‥竜巻の風の音",
-   "en": "",
+   "en": "0: Tornado wind",
    "term": "end"
   },
   {
    "id": "scen185.0307",
    "jp": "１‥ユニットが地面に叩きつけられる",
-   "en": "",
+   "en": "1: Unit slammed into the ground",
    "term": "end"
   },
   {
    "id": "scen185.0308",
    "jp": "０‥放電音",
-   "en": "",
+   "en": "0: Electric discharge",
    "term": "end"
   },
   {
    "id": "scen185.0309",
    "jp": "１‥落雷の音",
-   "en": "",
+   "en": "1: Lightning strike",
    "term": "end"
   },
   {
    "id": "scen185.0310",
    "jp": "０‥魔法が集まる時の音",
-   "en": "",
+   "en": "0: Magic gathering",
    "term": "end"
   },
   {
    "id": "scen185.0311",
    "jp": "１‥隕石の落下音",
-   "en": "",
+   "en": "1: Meteorite falling",
    "term": "end"
   },
   {
    "id": "scen185.0312",
    "jp": "２‥地面にひびの入る音",
-   "en": "",
+   "en": "2: Ground cracking",
    "term": "end"
   },
   {
    "id": "scen185.0313",
    "jp": "０‥キラキラ",
-   "en": "",
+   "en": "0: Sparkle",
    "term": "end"
   },
   {
    "id": "scen185.0314",
    "jp": "１‥せんこう音",
-   "en": "",
+   "en": "1: Flash",
    "term": "end"
   },
   {
@@ -2148,139 +2148,139 @@
   {
    "id": "scen185.0316",
    "jp": "・ＭＰドレイン",
-   "en": "",
+   "en": "・MP Drain",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0317",
    "jp": "・デス",
-   "en": "",
+   "en": "・Death",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0318",
    "jp": "・マジックアロー",
-   "en": "",
+   "en": "・Magic Arrow",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0319",
    "jp": "・ソウルフォース",
-   "en": "",
+   "en": "・Soul Force",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0320",
    "jp": "・メテオ",
-   "en": "",
+   "en": "・Meteor",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0321",
    "jp": "・スリープ",
-   "en": "",
+   "en": "・Sleep",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0322",
    "jp": "０‥魔力が集まるときの音",
-   "en": "",
+   "en": "0: Magic power gathering",
    "term": "end"
   },
   {
    "id": "scen185.0323",
    "jp": "１‥魔方陣、展開音",
-   "en": "",
+   "en": "1: Magic circle unfolding",
    "term": "end"
   },
   {
    "id": "scen185.0324",
    "jp": "２‥魔力吸収音",
-   "en": "",
+   "en": "2: Magic absorption",
    "term": "end"
   },
   {
    "id": "scen185.0325",
    "jp": "０‥激しい切り裂き音",
-   "en": "",
+   "en": "0: Violent slashing",
    "term": "end"
   },
   {
    "id": "scen185.0326",
    "jp": "１‥おどろおどろしい低い唸り声",
-   "en": "",
+   "en": "1: Eerie low groan",
    "term": "end"
   },
   {
    "id": "scen185.0327",
    "jp": "０‥魔法発動音",
-   "en": "",
+   "en": "0: Spell activation",
    "term": "end"
   },
   {
    "id": "scen185.0328",
    "jp": "１‥魔法攻撃音",
-   "en": "",
+   "en": "1: Magic attack",
    "term": "end"
   },
   {
    "id": "scen185.0329",
    "jp": "２‥魔力が集まる時の音",
-   "en": "",
+   "en": "2: Magic power gathering",
    "term": "end"
   },
   {
    "id": "scen185.0330",
    "jp": "３‥マジックアロー発射音",
-   "en": "",
+   "en": "3: Magic Arrow firing",
    "term": "end"
   },
   {
    "id": "scen185.0331",
    "jp": "０‥槍の飛来音",
-   "en": "",
+   "en": "0: Spear flying in",
    "term": "end"
   },
   {
    "id": "scen185.0332",
    "jp": "１‥爆発音",
-   "en": "",
+   "en": "1: Explosion",
    "term": "end"
   },
   {
    "id": "scen185.0333",
    "jp": "２‥爆発音（大）",
-   "en": "",
+   "en": "2: Explosion (large)",
    "term": "end"
   },
   {
    "id": "scen185.0334",
    "jp": "０‥隕石の落下音",
-   "en": "",
+   "en": "0: Meteorite falling",
    "term": "end"
   },
   {
    "id": "scen185.0335",
    "jp": "１‥隕石、接地音",
-   "en": "",
+   "en": "1: Meteorite impact",
    "term": "end"
   },
   {
    "id": "scen185.0336",
    "jp": "１‥子守唄のようなコーラス音",
-   "en": "",
+   "en": "1: Lullaby-like chorus",
    "term": "end"
   },
   {
    "id": "scen185.0337",
    "jp": "２‥モヤの発生音",
-   "en": "",
+   "en": "2: Mist forming",
    "term": "end"
   },
   {
@@ -2293,109 +2293,109 @@
   {
    "id": "scen185.0339",
    "jp": "・サイレンス",
-   "en": "",
+   "en": "・Silence",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0340",
    "jp": "・スロー",
-   "en": "",
+   "en": "・Slow",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0341",
    "jp": "・バインド",
-   "en": "",
+   "en": "・Bind",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0342",
    "jp": "・ルスト",
-   "en": "",
+   "en": "・Rust",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0343",
    "jp": "・ウィークネス",
-   "en": "",
+   "en": "・Weakness",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0344",
    "jp": "・フィア",
-   "en": "",
+   "en": "・Fear",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0345",
    "jp": "１‥ユニットを取り巻く嵐",
-   "en": "",
+   "en": "1: Storm surrounding a unit",
    "term": "end"
   },
   {
    "id": "scen185.0346",
    "jp": "２‥魔法文字、出現",
-   "en": "",
+   "en": "2: Magic letters appearing",
    "term": "end"
   },
   {
    "id": "scen185.0347",
    "jp": "０‥魔方陣、展開音",
-   "en": "",
+   "en": "0: Magic circle unfolding",
    "term": "end"
   },
   {
    "id": "scen185.0348",
    "jp": "１‥魔方陣の回転音",
-   "en": "",
+   "en": "1: Magic circle spinning",
    "term": "end"
   },
   {
    "id": "scen185.0349",
    "jp": "２‥光の粒が飛び散る音",
-   "en": "",
+   "en": "2: Particles of light scattering",
    "term": "end"
   },
   {
    "id": "scen185.0350",
    "jp": "０‥地面に突き刺さる音",
-   "en": "",
+   "en": "0: Piercing the ground",
    "term": "end"
   },
   {
    "id": "scen185.0351",
    "jp": "１‥槍の飛来音",
-   "en": "",
+   "en": "1: Spear flying in",
    "term": "end"
   },
   {
    "id": "scen185.0352",
    "jp": "０‥魔力が集まる時の音",
-   "en": "",
+   "en": "0: Magic power gathering",
    "term": "end"
   },
   {
    "id": "scen185.0353",
    "jp": "１‥放電音",
-   "en": "",
+   "en": "1: Electric discharge",
    "term": "end"
   },
   {
    "id": "scen185.0354",
    "jp": "２‥落雷の音",
-   "en": "",
+   "en": "2: Lightning strike",
    "term": "end"
   },
   {
    "id": "scen185.0355",
    "jp": "１‥魔力吸収の音",
-   "en": "",
+   "en": "1: Magic absorption",
    "term": "end"
   },
   {
@@ -2408,109 +2408,109 @@
   {
    "id": "scen185.0357",
    "jp": "・アタック",
-   "en": "",
+   "en": "・Attack",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0358",
    "jp": "・グローアタック",
-   "en": "",
+   "en": "・Grow Attack",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0359",
    "jp": "・プロテクト",
-   "en": "",
+   "en": "・Protect",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0360",
    "jp": "・グロープロテクト",
-   "en": "",
+   "en": "・Grow Protect",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0361",
    "jp": "・レジスト",
-   "en": "",
+   "en": "・Resist",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0362",
    "jp": "・グローレジスト",
-   "en": "",
+   "en": "・Grow Resist",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0363",
    "jp": "１‥光の粒が飛び散る音",
-   "en": "",
+   "en": "1: Particles of light scattering",
    "term": "end"
   },
   {
    "id": "scen185.0364",
    "jp": "２‥キラキラ",
-   "en": "",
+   "en": "2: Sparkle",
    "term": "end"
   },
   {
    "id": "scen185.0365",
    "jp": "０‥魔方陣の回転音",
-   "en": "",
+   "en": "0: Magic circle spinning",
    "term": "end"
   },
   {
    "id": "scen185.0366",
    "jp": "１‥キラキラ",
-   "en": "",
+   "en": "1: Sparkle",
    "term": "end"
   },
   {
    "id": "scen185.0367",
    "jp": "０‥キラキラの収束版",
-   "en": "",
+   "en": "0: Sparkle (converging)",
    "term": "end"
   },
   {
    "id": "scen185.0368",
    "jp": "１‥魔法文字、出現",
-   "en": "",
+   "en": "1: Magic letters appearing",
    "term": "end"
   },
   {
    "id": "scen185.0369",
    "jp": "１‥閃光音",
-   "en": "",
+   "en": "1: Flash",
    "term": "end"
   },
   {
    "id": "scen185.0370",
    "jp": "１‥立ち上る光",
-   "en": "",
+   "en": "1: Rising light",
    "term": "end"
   },
   {
    "id": "scen185.0371",
    "jp": "０‥魔法文字、出現",
-   "en": "",
+   "en": "0: Magic letters appearing",
    "term": "end"
   },
   {
    "id": "scen185.0372",
    "jp": "１‥広がる光輪",
-   "en": "",
+   "en": "1: Spreading ring of light",
    "term": "end"
   },
   {
    "id": "scen185.0373",
    "jp": "２‥立ち上る光",
-   "en": "",
+   "en": "2: Rising light",
    "term": "end"
   },
   {
@@ -2523,103 +2523,103 @@
   {
    "id": "scen185.0375",
    "jp": "・インビジリティ",
-   "en": "",
+   "en": "・Invisibility",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0376",
    "jp": "・マジックシェル",
-   "en": "",
+   "en": "・Magic Shell",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0377",
    "jp": "・クイック",
-   "en": "",
+   "en": "・Quick",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0378",
    "jp": "・キュア",
-   "en": "",
+   "en": "・Cure",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0379",
    "jp": "・ヒーリング",
-   "en": "",
+   "en": "・Healing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0380",
    "jp": "・グローキュア",
-   "en": "",
+   "en": "・Grow Cure",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0381",
    "jp": "１‥降り積もる光の砂",
-   "en": "",
+   "en": "1: Falling sand of light",
    "term": "end"
   },
   {
    "id": "scen185.0382",
    "jp": "１‥ユニットを取り巻く風",
-   "en": "",
+   "en": "1: Wind surrounding a unit",
    "term": "end"
   },
   {
    "id": "scen185.0383",
    "jp": "２‥閃光音",
-   "en": "",
+   "en": "2: Flash",
    "term": "end"
   },
   {
    "id": "scen185.0384",
    "jp": "３‥魔法文字、出現",
-   "en": "",
+   "en": "3: Magic letters appearing",
    "term": "end"
   },
   {
    "id": "scen185.0385",
    "jp": "０‥広がる光輪",
-   "en": "",
+   "en": "0: Spreading ring of light",
    "term": "end"
   },
   {
    "id": "scen185.0386",
    "jp": "１‥魔方陣の回転音の収束版",
-   "en": "",
+   "en": "1: Magic circle spinning (converging)",
    "term": "end"
   },
   {
    "id": "scen185.0387",
    "jp": "２‥広がる波紋",
-   "en": "",
+   "en": "2: Spreading ripples",
    "term": "end"
   },
   {
    "id": "scen185.0388",
    "jp": "３‥立ち上る光、柔らかい感じ",
-   "en": "",
+   "en": "3: Rising light, soft",
    "term": "end"
   },
   {
    "id": "scen185.0389",
    "jp": "０‥水の落ちる音",
-   "en": "",
+   "en": "0: Water dripping",
    "term": "end"
   },
   {
    "id": "scen185.0390",
    "jp": "１‥広がる波紋",
-   "en": "",
+   "en": "1: Spreading ripples",
    "term": "end"
   },
   {
@@ -2632,94 +2632,94 @@
   {
    "id": "scen185.0392",
    "jp": "・グローヒーリング",
-   "en": "",
+   "en": "・Grow Healing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0393",
    "jp": "・ファイン",
-   "en": "",
+   "en": "・Fine",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0394",
    "jp": "・レイズ",
-   "en": "",
+   "en": "・Raise",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0395",
    "jp": "２‥立ち上る光、柔らかい感じ",
-   "en": "",
+   "en": "2: Rising light, soft",
    "term": "end"
   },
   {
    "id": "scen185.0396",
    "jp": "１‥モヤの発生、柔らかい感じ",
-   "en": "",
+   "en": "1: Mist forming, soft",
    "term": "end"
   },
   {
    "id": "scen185.0397",
    "jp": "０‥聖歌のようなコーラス音",
-   "en": "",
+   "en": "0: Hymn-like chorus",
    "term": "end"
   },
   {
    "id": "scen185.0398",
    "jp": "どの戦闘ＳＥにしますか？",
-   "en": "",
+   "en": "Which battle sound effect?",
    "term": "end"
   },
   {
    "id": "scen185.0399",
    "jp": "・戦闘０～５",
-   "en": "",
+   "en": "・Battle 0-5",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0400",
    "jp": "・戦闘６～１１",
-   "en": "",
+   "en": "・Battle 6-11",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0401",
    "jp": "・戦闘１２～１７",
-   "en": "",
+   "en": "・Battle 12-17",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0402",
    "jp": "・戦闘１８～２３",
-   "en": "",
+   "en": "・Battle 18-23",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0403",
    "jp": "・戦闘２４～２９",
-   "en": "",
+   "en": "・Battle 24-29",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0404",
    "jp": "・戦闘３０～３４",
-   "en": "",
+   "en": "・Battle 30-34",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0405",
    "jp": "・戦闘３５～３６",
-   "en": "",
+   "en": "・Battle 35-36",
    "term": "end",
    "unref": true
   },
@@ -2733,42 +2733,42 @@
   {
    "id": "scen185.0407",
    "jp": "・戦闘００　攻撃音（風切り音）",
-   "en": "",
+   "en": "・Battle 00 Attack (whoosh)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0408",
    "jp": "・戦闘０１　攻撃音（斧、鉾など用風切り音）",
-   "en": "",
+   "en": "・Battle 01 Attack (whoosh for axes, halberds)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0409",
    "jp": "・戦闘０２　切り裂きダメージ音（通常）",
-   "en": "",
+   "en": "・Battle 02 Slash damage (normal)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0410",
    "jp": "・戦闘０３　金属打撃ダメージ音（通常）",
-   "en": "",
+   "en": "・Battle 03 Metal blow damage (normal)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0411",
    "jp": "・戦闘０４　金属打撃ダメージ音（クリティカル）",
-   "en": "",
+   "en": "・Battle 04 Metal blow damage (critical)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0412",
    "jp": "・戦闘０５　非金属打撃ダメージ音",
-   "en": "",
+   "en": "・Battle 05 Non-metal blow damage",
    "term": "end",
    "unref": true
   },
@@ -2782,42 +2782,42 @@
   {
    "id": "scen185.0414",
    "jp": "・戦闘０６　刺突ダメージ音（クリティカル）",
-   "en": "",
+   "en": "・Battle 06 Stab damage (critical)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0415",
    "jp": "・戦闘０７　金属ガード音",
-   "en": "",
+   "en": "・Battle 07 Metal guard",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0416",
    "jp": "・戦闘０８　非金属ガード音",
-   "en": "",
+   "en": "・Battle 08 Non-metal guard",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0417",
    "jp": "・戦闘０９　死亡音（血飛沫が上がる音）",
-   "en": "",
+   "en": "・Battle 09 Death (spray of blood)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0418",
    "jp": "・戦闘１０　非生物破壊音",
-   "en": "",
+   "en": "・Battle 10 Non-living thing destroyed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0419",
    "jp": "・戦闘１１　魔法発動音１",
-   "en": "",
+   "en": "・Battle 11 Spell activation 1",
    "term": "end",
    "unref": true
   },
@@ -2831,42 +2831,42 @@
   {
    "id": "scen185.0421",
    "jp": "・戦闘１２　火炎放射音",
-   "en": "",
+   "en": "・Battle 12 Flamethrower",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0422",
    "jp": "・戦闘１３　ゲル体当たり音",
-   "en": "",
+   "en": "・Battle 13 Gel body slam",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0423",
    "jp": "・戦闘１４　羽ばたき音",
-   "en": "",
+   "en": "・Battle 14 Flapping wings",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0424",
    "jp": "・戦闘１５　連続した風切り音",
-   "en": "",
+   "en": "・Battle 15 Repeated whooshing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0425",
    "jp": "・戦闘１６　毒霧吹き音",
-   "en": "",
+   "en": "・Battle 16 Poison mist spray",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0426",
    "jp": "・戦闘１７　毒針発射音",
-   "en": "",
+   "en": "・Battle 17 Poison needle fire",
    "term": "end",
    "unref": true
   },
@@ -2880,42 +2880,42 @@
   {
    "id": "scen185.0428",
    "jp": "・戦闘１８　魔法収束音",
-   "en": "",
+   "en": "・Battle 18 Magic converging",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0429",
    "jp": "・戦闘１９　魔法攻撃音",
-   "en": "",
+   "en": "・Battle 19 Magic attack",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0430",
    "jp": "・戦闘２０　地面をたたきつける音",
-   "en": "",
+   "en": "・Battle 20 Slamming the ground",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0431",
    "jp": "・戦闘２１　女の子用打撃音",
-   "en": "",
+   "en": "・Battle 21 Blow (for girls)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0432",
    "jp": "・戦闘２２　非金属打撃音（スラップ音）",
-   "en": "",
+   "en": "・Battle 22 Non-metal blow (slap)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0433",
    "jp": "・戦闘２３　溶解音１",
-   "en": "",
+   "en": "・Battle 23 Melting 1",
    "term": "end",
    "unref": true
   },
@@ -2929,42 +2929,42 @@
   {
    "id": "scen185.0435",
    "jp": "・戦闘２４　溶解音２",
-   "en": "",
+   "en": "・Battle 24 Melting 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0436",
    "jp": "・戦闘２５　濁った液体射出音",
-   "en": "",
+   "en": "・Battle 25 Murky liquid spray",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0437",
    "jp": "・戦闘２６　連続した風切り音",
-   "en": "",
+   "en": "・Battle 26 Repeated whooshing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0438",
    "jp": "・戦闘２７　指を鳴らす音",
-   "en": "",
+   "en": "・Battle 27 Finger snap",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0439",
    "jp": "・戦闘２８　ワープ（テレポート）の音",
-   "en": "",
+   "en": "・Battle 28 Warp (teleport)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0440",
    "jp": "・戦闘２９　毒、猛毒攻撃発動音",
-   "en": "",
+   "en": "・Battle 29 Poison/deadly poison attack activation",
    "term": "end",
    "unref": true
   },
@@ -2978,35 +2978,35 @@
   {
    "id": "scen185.0442",
    "jp": "・戦闘３０　まひ攻撃発動音",
-   "en": "",
+   "en": "・Battle 30 Paralysis attack activation",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0443",
    "jp": "・戦闘３１　石化攻撃発動音",
-   "en": "",
+   "en": "・Battle 31 Petrification attack activation",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0444",
    "jp": "・戦闘３２　腕つぶし攻撃発動音",
-   "en": "",
+   "en": "・Battle 32 Arm-crush attack activation",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0445",
    "jp": "・戦闘３３　ピコピコハンマー打撃音",
-   "en": "",
+   "en": "・Battle 33 Squeaky toy hammer hit",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0446",
    "jp": "・戦闘３４　鞭のヒット音",
-   "en": "",
+   "en": "・Battle 34 Whip hit",
    "term": "end",
    "unref": true
   },
@@ -3020,103 +3020,103 @@
   {
    "id": "scen185.0448",
    "jp": "・戦闘３５　ガラスの割れるような音",
-   "en": "",
+   "en": "・Battle 35 Glass-shattering sound",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0449",
    "jp": "・戦闘３６　はばたき２",
-   "en": "",
+   "en": "・Battle 36 Flapping wings 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0450",
    "jp": "どっちを見ますか？",
-   "en": "",
+   "en": "Which one do you want to hear?",
    "term": "end"
   },
   {
    "id": "scen185.0451",
    "jp": "・０００～０１８までを聞く",
-   "en": "",
+   "en": "・Listen to 000-018",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0452",
    "jp": "・０１９～０３３までを聞く",
-   "en": "",
+   "en": "・Listen to 019-033",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0453",
    "jp": "どのマップＳＥにしますか？",
-   "en": "",
+   "en": "Which map sound effect?",
    "term": "end"
   },
   {
    "id": "scen185.0454",
    "jp": "・マップ０００～００１",
-   "en": "",
+   "en": "・Map 000-001",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0455",
    "jp": "・マップ００２～００３",
-   "en": "",
+   "en": "・Map 002-003",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0456",
    "jp": "・マップ００４～００５",
-   "en": "",
+   "en": "・Map 004-005",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0457",
    "jp": "・マップ００６～００７",
-   "en": "",
+   "en": "・Map 006-007",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0458",
    "jp": "・マップ００８～００９",
-   "en": "",
+   "en": "・Map 008-009",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0459",
    "jp": "・マップ０１０～０１１",
-   "en": "",
+   "en": "・Map 010-011",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0460",
    "jp": "・マップ０１３～０１４",
-   "en": "",
+   "en": "・Map 013-014",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0461",
    "jp": "・マップ０１５～０１６",
-   "en": "",
+   "en": "・Map 015-016",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0462",
    "jp": "・マップ０１７～０１８",
-   "en": "",
+   "en": "・Map 017-018",
    "term": "end",
    "unref": true
   },
@@ -3130,14 +3130,14 @@
   {
    "id": "scen185.0464",
    "jp": "・マップ００　草原でのさわやかな雰囲気での風の音",
-   "en": "",
+   "en": "・Map 00 Refreshing breeze on a grassy plain",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0465",
    "jp": "・マップ０１　樹々をすりぬける風の音",
-   "en": "",
+   "en": "・Map 01 Wind slipping through trees",
    "term": "end",
    "unref": true
   },
@@ -3151,14 +3151,14 @@
   {
    "id": "scen185.0467",
    "jp": "・マップ０２　風鳴りの音",
-   "en": "",
+   "en": "・Map 02 Howling wind",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0468",
    "jp": "・マップ０３　規模の大きな滝の音",
-   "en": "",
+   "en": "・Map 03 Large waterfall",
    "term": "end",
    "unref": true
   },
@@ -3172,14 +3172,14 @@
   {
    "id": "scen185.0470",
    "jp": "・マップ０４　規模の小さな滝の音",
-   "en": "",
+   "en": "・Map 04 Small waterfall",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0471",
    "jp": "・マップ０５　洞窟内に流れる滝の音",
-   "en": "",
+   "en": "・Map 05 Waterfall inside a cave",
    "term": "end",
    "unref": true
   },
@@ -3193,14 +3193,14 @@
   {
    "id": "scen185.0473",
    "jp": "・マップ０６　緩やかに流れる川の音",
-   "en": "",
+   "en": "・Map 06 Gently flowing river",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0474",
    "jp": "・マップ０７　激しく流れる川の音",
-   "en": "",
+   "en": "・Map 07 Rushing river",
    "term": "end",
    "unref": true
   },
@@ -3214,14 +3214,14 @@
   {
    "id": "scen185.0476",
    "jp": "・マップ０８　洞窟内で水が滴る音",
-   "en": "",
+   "en": "・Map 08 Water dripping in a cave",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0477",
    "jp": "・マップ０９　溶岩の流れる音",
-   "en": "",
+   "en": "・Map 09 Flowing lava",
    "term": "end",
    "unref": true
   },
@@ -3235,14 +3235,14 @@
   {
    "id": "scen185.0479",
    "jp": "・マップ１０　観衆のざわめき",
-   "en": "",
+   "en": "・Map 10 Murmuring audience",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0480",
    "jp": "・マップ１１　ガヤガヤした人々のざわめき",
-   "en": "",
+   "en": "・Map 11 Noisy crowd chatter",
    "term": "end",
    "unref": true
   },
@@ -3256,14 +3256,14 @@
   {
    "id": "scen185.0482",
    "jp": "・マップ１３　ワー、パチパチって歓声",
-   "en": "",
+   "en": "・Map 13 Cheering and clapping",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0483",
    "jp": "・マップ１４　鶏の鳴き声",
-   "en": "",
+   "en": "・Map 14 Rooster crowing",
    "term": "end",
    "unref": true
   },
@@ -3277,14 +3277,14 @@
   {
    "id": "scen185.0485",
    "jp": "・マップ１５　ひよこの鳴き声",
-   "en": "",
+   "en": "・Map 15 Chicks cheeping",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0486",
    "jp": "・マップ１６　子犬が吠える声",
-   "en": "",
+   "en": "・Map 16 Puppy barking",
    "term": "end",
    "unref": true
   },
@@ -3298,76 +3298,76 @@
   {
    "id": "scen185.0488",
    "jp": "・マップ１７　不気味な鼓動",
-   "en": "",
+   "en": "・Map 17 Eerie heartbeat",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0489",
    "jp": "・マップ１８　夜の音",
-   "en": "",
+   "en": "・Map 18 Night sounds",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0490",
    "jp": "どのマップＳＥにしますか？",
-   "en": "",
+   "en": "Which map sound effect?",
    "term": "end"
   },
   {
    "id": "scen185.0491",
    "jp": "・０１９～０２０",
-   "en": "",
+   "en": "・019-020",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0492",
    "jp": "・０２１～０２２",
-   "en": "",
+   "en": "・021-022",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0493",
    "jp": "・０２３～０２４",
-   "en": "",
+   "en": "・023-024",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0494",
    "jp": "・０２５～０２６",
-   "en": "",
+   "en": "・025-026",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0495",
    "jp": "・０２７～０２８",
-   "en": "",
+   "en": "・027-028",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0496",
    "jp": "・０２９～０３０",
-   "en": "",
+   "en": "・029-030",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0497",
    "jp": "・０３１～０３２",
-   "en": "",
+   "en": "・031-032",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0498",
    "jp": "・３３",
-   "en": "",
+   "en": "・33",
    "term": "end",
    "unref": true
   },
@@ -3381,14 +3381,14 @@
   {
    "id": "scen185.0500",
    "jp": "・マップ１９　学院長隠し研究室、魔方陣動作音",
-   "en": "",
+   "en": "・Map 19 Headmaster's hidden lab, magic circle running",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0501",
    "jp": "・マップ２０　機械が起動したときのヴーンって音",
-   "en": "",
+   "en": "・Map 20 Machine starting up with a hum",
    "term": "end",
    "unref": true
   },
@@ -3402,14 +3402,14 @@
   {
    "id": "scen185.0503",
    "jp": "・マップ２１　学院長隠し研究室、魔方陣動作音",
-   "en": "",
+   "en": "・Map 21 Headmaster's hidden lab, magic circle running",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0504",
    "jp": "・マップ２２　機械が起動したときのヴーンって音",
-   "en": "",
+   "en": "・Map 22 Machine starting up with a hum",
    "term": "end",
    "unref": true
   },
@@ -3423,14 +3423,14 @@
   {
    "id": "scen185.0506",
    "jp": "・マップ２３　けたたましい警報音",
-   "en": "",
+   "en": "・Map 23 Blaring alarm",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0507",
    "jp": "・マップ２４　ＰＳ精製完了を告げるＳＥ",
-   "en": "",
+   "en": "・Map 24 Power Stone refining complete",
    "term": "end",
    "unref": true
   },
@@ -3444,14 +3444,14 @@
   {
    "id": "scen185.0509",
    "jp": "・マップ２５　ガムランによって火が放たれた音",
-   "en": "",
+   "en": "・Map 25 Fire set by Gamlan",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0510",
    "jp": "・マップ２６　ホログラム発生音",
-   "en": "",
+   "en": "・Map 26 Hologram appearing",
    "term": "end",
    "unref": true
   },
@@ -3465,14 +3465,14 @@
   {
    "id": "scen185.0512",
    "jp": "・マップ２７　上の飛行機械が異常動作を始めた音",
-   "en": "",
+   "en": "・Map 27 Flying machine above starts malfunctioning",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0513",
    "jp": "・マップ２８　遺跡の装置の起動音１",
-   "en": "",
+   "en": "・Map 28 Ruins device starting up 1",
    "term": "end",
    "unref": true
   },
@@ -3486,14 +3486,14 @@
   {
    "id": "scen185.0515",
    "jp": "・マップ２９　遺跡の装置の起動音２",
-   "en": "",
+   "en": "・Map 29 Ruins device starting up 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0516",
    "jp": "・マップ３０　軍隊の行進音",
-   "en": "",
+   "en": "・Map 30 Army marching",
    "term": "end",
    "unref": true
   },
@@ -3507,14 +3507,14 @@
   {
    "id": "scen185.0518",
    "jp": "・マップ３１　魔力吸収の音",
-   "en": "",
+   "en": "・Map 31 Magic absorption",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0519",
    "jp": "・マップ３２　ユニットを取り巻く風",
-   "en": "",
+   "en": "・Map 32 Wind surrounding a unit",
    "term": "end",
    "unref": true
   },
@@ -3528,103 +3528,103 @@
   {
    "id": "scen185.0521",
    "jp": "・マップ３３　マシンの音",
-   "en": "",
+   "en": "・Map 33 Machine noise",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0522",
    "jp": "・マップＳＥトップにもどる",
-   "en": "",
+   "en": "・Back to map sound effects top",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0523",
    "jp": "どっちを見ますか？",
-   "en": "",
+   "en": "Which one do you want to hear?",
    "term": "end"
   },
   {
    "id": "scen185.0524",
    "jp": "・０～４７までを聞く",
-   "en": "",
+   "en": "・Listen to 0-47",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0525",
    "jp": "・４８～８７までを聞く",
-   "en": "",
+   "en": "・Listen to 48-87",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0526",
    "jp": "・８８～１０３までを聞く",
-   "en": "",
+   "en": "・Listen to 88-103",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0527",
    "jp": "どの通常ＳＥにしますか？",
-   "en": "",
+   "en": "Which standard sound effect?",
    "term": "end"
   },
   {
    "id": "scen185.0528",
    "jp": "・０～５",
-   "en": "",
+   "en": "・0-5",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0529",
    "jp": "・６～１１",
-   "en": "",
+   "en": "・6-11",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0530",
    "jp": "・１２～１７",
-   "en": "",
+   "en": "・12-17",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0531",
    "jp": "・１８～２３",
-   "en": "",
+   "en": "・18-23",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0532",
    "jp": "・２４～２９",
-   "en": "",
+   "en": "・24-29",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0533",
    "jp": "・３０～３５",
-   "en": "",
+   "en": "・30-35",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0534",
    "jp": "・３６～４１",
-   "en": "",
+   "en": "・36-41",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0535",
    "jp": "・４２～４７",
-   "en": "",
+   "en": "・42-47",
    "term": "end",
    "unref": true
   },
@@ -3638,42 +3638,42 @@
   {
    "id": "scen185.0537",
    "jp": "・通常００　宝箱開く音",
-   "en": "",
+   "en": "・Standard 00 Treasure chest opening",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0538",
    "jp": "・通常０１　宝箱閉じる音",
-   "en": "",
+   "en": "・Standard 01 Treasure chest closing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0539",
    "jp": "・通常０２　木製のドア１開く音",
-   "en": "",
+   "en": "・Standard 02 Wooden door 1 opening",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0540",
    "jp": "・通常０３　木製のドア１閉じる音",
-   "en": "",
+   "en": "・Standard 03 Wooden door 1 closing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0541",
    "jp": "・通常０４　木製のドア２開く音",
-   "en": "",
+   "en": "・Standard 04 Wooden door 2 opening",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0542",
    "jp": "・通常０５　木製のドア２閉じる音",
-   "en": "",
+   "en": "・Standard 05 Wooden door 2 closing",
    "term": "end",
    "unref": true
   },
@@ -3687,42 +3687,42 @@
   {
    "id": "scen185.0544",
    "jp": "・通常０６　金属製のドア開く音",
-   "en": "",
+   "en": "・Standard 06 Metal door opening",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0545",
    "jp": "・通常０７　金属製のドア閉じる音",
-   "en": "",
+   "en": "・Standard 07 Metal door closing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0546",
    "jp": "・通常０８　石製横スライド型扉開く音",
-   "en": "",
+   "en": "・Standard 08 Stone sliding door opening",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0547",
    "jp": "・通常０９　石製横スライド型扉閉じる音",
-   "en": "",
+   "en": "・Standard 09 Stone sliding door closing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0548",
    "jp": "・通常１０　魔法学院のエレベータ開く音",
-   "en": "",
+   "en": "・Standard 10 Magic Academy elevator opening",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0549",
    "jp": "・通常１１　魔法学院のエレベータ閉じる音",
-   "en": "",
+   "en": "・Standard 11 Magic Academy elevator closing",
    "term": "end",
    "unref": true
   },
@@ -3736,42 +3736,42 @@
   {
    "id": "scen185.0551",
    "jp": "・通常１２　木製横スライド型扉開く音",
-   "en": "",
+   "en": "・Standard 12 Wooden sliding door opening",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0552",
    "jp": "・通常１３　木製横スライド型扉閉じる音",
-   "en": "",
+   "en": "・Standard 13 Wooden sliding door closing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0553",
    "jp": "・通常１４　鉄格子開く音",
-   "en": "",
+   "en": "・Standard 14 Iron bars opening",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0554",
    "jp": "・通常１５　鉄格子閉じる音",
-   "en": "",
+   "en": "・Standard 15 Iron bars closing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0555",
    "jp": "・通常１６　城門の開く音",
-   "en": "",
+   "en": "・Standard 16 Castle gate opening",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0556",
    "jp": "・通常１７　城門の閉じる音",
-   "en": "",
+   "en": "・Standard 17 Castle gate closing",
    "term": "end",
    "unref": true
   },
@@ -3785,42 +3785,42 @@
   {
    "id": "scen185.0558",
    "jp": "・通常１８　金属の串が突き刺さる音",
-   "en": "",
+   "en": "・Standard 18 Metal spikes stabbing out",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0559",
    "jp": "・通常１９　金属の串が元に戻る音",
-   "en": "",
+   "en": "・Standard 19 Metal spikes retracting",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0560",
    "jp": "・通常２０　木製のドアをノックする音",
-   "en": "",
+   "en": "・Standard 20 Knocking on a wooden door",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0561",
    "jp": "・通常２１　鍵を開ける音",
-   "en": "",
+   "en": "・Standard 21 Unlocking",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0562",
    "jp": "・通常２２　肉でできた団子状の物体が開閉する音",
-   "en": "",
+   "en": "・Standard 22 Ball-shaped lump of flesh opening/closing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0563",
    "jp": "・通常２３　コンソールパネルが展開する音",
-   "en": "",
+   "en": "・Standard 23 Console panel unfolding",
    "term": "end",
    "unref": true
   },
@@ -3834,42 +3834,42 @@
   {
    "id": "scen185.0565",
    "jp": "・通常２４　水晶発光音",
-   "en": "",
+   "en": "・Standard 24 Crystal glowing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0566",
    "jp": "・通常２５　ダイヤル音",
-   "en": "",
+   "en": "・Standard 25 Dial",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0567",
    "jp": "・通常２６　ホログラム発生音",
-   "en": "",
+   "en": "・Standard 26 Hologram appearing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0568",
    "jp": "・通常２７　スイッチ、ボタン系の音",
-   "en": "",
+   "en": "・Standard 27 Switches and buttons",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0569",
    "jp": "・通常２８　レバー系の音",
-   "en": "",
+   "en": "・Standard 28 Levers",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0570",
    "jp": "・通常２９　上の飛行機械が異常動作を始めた音",
-   "en": "",
+   "en": "・Standard 29 Flying machine above starts malfunctioning",
    "term": "end",
    "unref": true
   },
@@ -3883,42 +3883,42 @@
   {
    "id": "scen185.0572",
    "jp": "・通常３０　アリオストの飛行装置の作動音３",
-   "en": "",
+   "en": "・Standard 30 Ariost's flying apparatus running 3",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0573",
    "jp": "・通常３１　遺跡の装置の起動音１",
-   "en": "",
+   "en": "・Standard 31 Ruins device starting up 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0574",
    "jp": "・通常３２　遺跡の装置の起動音２",
-   "en": "",
+   "en": "・Standard 32 Ruins device starting up 2",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0575",
    "jp": "・通常３３　エレベーターが上下するときの音",
-   "en": "",
+   "en": "・Standard 33 Elevator going up and down",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0576",
    "jp": "・通常３４　水の中から何かが出てくる時の水の音",
-   "en": "",
+   "en": "・Standard 34 Water as something emerges from it",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0577",
    "jp": "・通常３５　どぽーんって感じの音",
-   "en": "",
+   "en": "・Standard 35 A \"ker-plunk\" sound",
    "term": "end",
    "unref": true
   },
@@ -3932,42 +3932,42 @@
   {
    "id": "scen185.0579",
    "jp": "・通常３６　かぽーんって感じの音",
-   "en": "",
+   "en": "・Standard 36 A \"ka-ponk\" sound",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0580",
    "jp": "・通常３７　水しぶきのＳＥ",
-   "en": "",
+   "en": "・Standard 37 Water splash",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0581",
    "jp": "・通常３８　ロープ切断",
-   "en": "",
+   "en": "・Standard 38 Rope cut",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0582",
    "jp": "・通常３９　ウォレスが水晶の壁を壊したときのＳＥ",
-   "en": "",
+   "en": "・Standard 39 Wallace breaking the crystal wall",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0583",
    "jp": "・通常４０　橋が落ちる音",
-   "en": "",
+   "en": "・Standard 40 Bridge falling",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0584",
    "jp": "・通常４１　ガスが噴き出す音",
-   "en": "",
+   "en": "・Standard 41 Gas spurting out",
    "term": "end",
    "unref": true
   },
@@ -3981,97 +3981,97 @@
   {
    "id": "scen185.0586",
    "jp": "・通常４２　どーんという火山の爆発音",
-   "en": "",
+   "en": "・Standard 42 Volcano erupting with a boom",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0587",
    "jp": "・通常４３　ごん！という、何かにぶつかった音",
-   "en": "",
+   "en": "・Standard 43 A \"bonk!\" from hitting something",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0588",
    "jp": "・通常４４　インクつぼの倒れる音",
-   "en": "",
+   "en": "・Standard 44 Inkpot tipping over",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0589",
    "jp": "・通常４５　本が崩れる音",
-   "en": "",
+   "en": "・Standard 45 Books toppling",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0590",
    "jp": "・通常４６　キャラが倒れたとき",
-   "en": "",
+   "en": "・Standard 46 Character collapsing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0591",
    "jp": "・通常４７　目玉モンスターのやられたときの咆哮",
-   "en": "",
+   "en": "・Standard 47 Eyeball monster's death roar",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0592",
    "jp": "どの通常ＳＥにしますか？",
-   "en": "",
+   "en": "Which standard sound effect?",
    "term": "end"
   },
   {
    "id": "scen185.0593",
    "jp": "・４８～５３",
-   "en": "",
+   "en": "・48-53",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0594",
    "jp": "・５４～５９",
-   "en": "",
+   "en": "・54-59",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0595",
    "jp": "・６０～６５",
-   "en": "",
+   "en": "・60-65",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0596",
    "jp": "・６６～７１",
-   "en": "",
+   "en": "・66-71",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0597",
    "jp": "・７２～７７",
-   "en": "",
+   "en": "・72-77",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0598",
    "jp": "・７８～８３",
-   "en": "",
+   "en": "・78-83",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0599",
    "jp": "・８４～８７",
-   "en": "",
+   "en": "・84-87",
    "term": "end",
    "unref": true
   },
@@ -4085,42 +4085,42 @@
   {
    "id": "scen185.0601",
    "jp": "・通常４８　ワーっていう歓声",
-   "en": "",
+   "en": "・Standard 48 Crowd cheering",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0602",
    "jp": "・通常４９　拍手＆歓声",
-   "en": "",
+   "en": "・Standard 49 Applause and cheers",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0603",
    "jp": "・通常５０　ＦＣ／ＰＣが仲間になったときの音",
-   "en": "",
+   "en": "・Standard 50 FC/PC joins the party",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0604",
    "jp": "・通常５１　地鳴りのＳＥ",
-   "en": "",
+   "en": "・Standard 51 Rumbling earth",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0605",
    "jp": "・通常５２　岩の天井が壊れて落下。ガラガラという音",
-   "en": "",
+   "en": "・Standard 52 Rock ceiling breaking and crashing down",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0606",
    "jp": "・通常５３　地響き",
-   "en": "",
+   "en": "・Standard 53 Ground tremor",
    "term": "end",
    "unref": true
   },
@@ -4134,42 +4134,42 @@
   {
    "id": "scen185.0608",
    "jp": "・通常５４　クレバス（岩）が崩れる音",
-   "en": "",
+   "en": "・Standard 54 Crevasse (rock) collapsing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0609",
    "jp": "・通常５５　鉄砲水の音",
-   "en": "",
+   "en": "・Standard 55 Flash flood",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0610",
    "jp": "・通常５６　山道に大きな岩が転落してくる",
-   "en": "",
+   "en": "・Standard 56 Big boulder rolling down a mountain path",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0611",
    "jp": "・通常５７　勝利目標の変更",
-   "en": "",
+   "en": "・Standard 57 Victory condition changed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0612",
    "jp": "・通常５８　宿でＨＰ／ＭＰ回復したときの音",
-   "en": "",
+   "en": "・Standard 58 HP/MP restored at an inn",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0613",
    "jp": "・通常５９　イベントアイテム入手の時のＳＥ",
-   "en": "",
+   "en": "・Standard 59 Event item obtained",
    "term": "end",
    "unref": true
   },
@@ -4183,42 +4183,42 @@
   {
    "id": "scen185.0615",
    "jp": "・通常６０　ＰＳ発動音",
-   "en": "",
+   "en": "・Standard 60 Power Stone activation",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0616",
    "jp": "・通常６１　爆音",
-   "en": "",
+   "en": "・Standard 61 Loud blast",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0617",
    "jp": "・通常６２　大会開始の合図",
-   "en": "",
+   "en": "・Standard 62 Tournament start signal",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0618",
    "jp": "・通常６３　試合開始の合図",
-   "en": "",
+   "en": "・Standard 63 Match start signal",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0619",
    "jp": "・通常６４　軍隊の行進音",
-   "en": "",
+   "en": "・Standard 64 Army marching",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0620",
    "jp": "・通常６５　卵の割れる音",
-   "en": "",
+   "en": "・Standard 65 Egg cracking",
    "term": "end",
    "unref": true
   },
@@ -4232,42 +4232,42 @@
   {
    "id": "scen185.0622",
    "jp": "・通常６６　扉のノブを回した音",
-   "en": "",
+   "en": "・Standard 66 Doorknob turning",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0623",
    "jp": "・通常６７　ひとがこけた音",
-   "en": "",
+   "en": "・Standard 67 Someone tripping over",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0624",
    "jp": "・通常６８　窓が割れる音",
-   "en": "",
+   "en": "・Standard 68 Window breaking",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0625",
    "jp": "・通常６９　轟音",
-   "en": "",
+   "en": "・Standard 69 Thunderous rumble",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0626",
    "jp": "・通常７０　集魔柱の起動音",
-   "en": "",
+   "en": "・Standard 70 Mana collection pillar starting up",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0627",
    "jp": "・通常７１　花火の打ち上げ音",
-   "en": "",
+   "en": "・Standard 71 Fireworks launching",
    "term": "end",
    "unref": true
   },
@@ -4281,42 +4281,42 @@
   {
    "id": "scen185.0629",
    "jp": "・通常７２　ゴゴゴゴ‥‥という地鳴り",
-   "en": "",
+   "en": "・Standard 72 Rumbling earth (rrrumble...)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0630",
    "jp": "・通常７３　攻撃音（風切り）",
-   "en": "",
+   "en": "・Standard 73 Attack (whoosh)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0631",
    "jp": "・通常７４　攻撃音（斧、鉾用）",
-   "en": "",
+   "en": "・Standard 74 Attack (for axes, halberds)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0632",
    "jp": "・通常７５　切り裂きダメージ",
-   "en": "",
+   "en": "・Standard 75 Slash damage",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0633",
    "jp": "・通常７６　金属打撃ダメージ",
-   "en": "",
+   "en": "・Standard 76 Metal blow damage",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0634",
    "jp": "・通常７７　金属ガード音",
-   "en": "",
+   "en": "・Standard 77 Metal guard",
    "term": "end",
    "unref": true
   },
@@ -4330,42 +4330,42 @@
   {
    "id": "scen185.0636",
    "jp": "・通常７８　死亡音",
-   "en": "",
+   "en": "・Standard 78 Death",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0637",
    "jp": "・通常７９　溶解音１",
-   "en": "",
+   "en": "・Standard 79 Melting 1",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0638",
    "jp": "・通常８０　魔力集中音",
-   "en": "",
+   "en": "・Standard 80 Magic power focusing",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0639",
    "jp": "・通常８１　魔力吸収の音",
-   "en": "",
+   "en": "・Standard 81 Magic absorption",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0640",
    "jp": "・通常８２　氷の砕ける音",
-   "en": "",
+   "en": "・Standard 82 Ice shattering",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0641",
    "jp": "・通常８３　ユニットを取り巻く風",
-   "en": "",
+   "en": "・Standard 83 Wind surrounding a unit",
    "term": "end",
    "unref": true
   },
@@ -4379,55 +4379,55 @@
   {
    "id": "scen185.0643",
    "jp": "・通常８４　口笛",
-   "en": "",
+   "en": "・Standard 84 Whistle",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0644",
    "jp": "・通常８５　？？？（無音）",
-   "en": "",
+   "en": "・Standard 85 ??? (silent)",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0645",
    "jp": "・通常８６　マシンの音",
-   "en": "",
+   "en": "・Standard 86 Machine noise",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0646",
    "jp": "・通常８７　観客の歓声",
-   "en": "",
+   "en": "・Standard 87 Audience cheering",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0647",
    "jp": "どの通常ＳＥにしますか？",
-   "en": "",
+   "en": "Which standard sound effect?",
    "term": "end"
   },
   {
    "id": "scen185.0648",
    "jp": "・８８～９３",
-   "en": "",
+   "en": "・88-93",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0649",
    "jp": "・９４～９６",
-   "en": "",
+   "en": "・94-96",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0650",
    "jp": "・９７～１０２",
-   "en": "",
+   "en": "・97-102",
    "term": "end",
    "unref": true
   },
@@ -4449,42 +4449,42 @@
   {
    "id": "scen185.0653",
    "jp": "・通常８８　神秘的な音？",
-   "en": "",
+   "en": "・Standard 88 Mysterious sound?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0654",
    "jp": "・通常８９　魔法を発動する音？",
-   "en": "",
+   "en": "・Standard 89 Spell activating?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0655",
    "jp": "・通常９０　霊的現象が起こった音？",
-   "en": "",
+   "en": "・Standard 90 Spiritual phenomenon?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0656",
    "jp": "・通常９１　魔力が集まる音？",
-   "en": "",
+   "en": "・Standard 91 Magic power gathering?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0657",
    "jp": "・通常９２　ガラスの割れる音",
-   "en": "",
+   "en": "・Standard 92 Glass breaking",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0658",
    "jp": "・通常９３　回復する時に流れる音？",
-   "en": "",
+   "en": "・Standard 93 Plays during healing?",
    "term": "end",
    "unref": true
   },
@@ -4498,21 +4498,21 @@
   {
    "id": "scen185.0660",
    "jp": "・通常９４　霊的現象が起こった音？",
-   "en": "",
+   "en": "・Standard 94 Spiritual phenomenon?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0661",
    "jp": "・通常９５　魔力が集まる音？",
-   "en": "",
+   "en": "・Standard 95 Magic power gathering?",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0662",
    "jp": "・通常９６　霊的現象が起こった音？",
-   "en": "",
+   "en": "・Standard 96 Spiritual phenomenon?",
    "term": "end",
    "unref": true
   },
@@ -4526,42 +4526,42 @@
   {
    "id": "scen185.0664",
    "jp": "・通常０９７　闇の吸収音",
-   "en": "",
+   "en": "・Standard 097 Darkness being absorbed",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0665",
    "jp": "・通常０９８　ブレスレットの金属音",
-   "en": "",
+   "en": "・Standard 098 Bracelet clinking",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0666",
    "jp": "・通常０９９　闇落としの落下音",
-   "en": "",
+   "en": "・Standard 099 Darkfall descending",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0667",
    "jp": "・通常１００　遺跡の罠の発動音",
-   "en": "",
+   "en": "・Standard 100 Ruins trap triggering",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0668",
    "jp": "・通常１０１　ビンタの音",
-   "en": "",
+   "en": "・Standard 101 Slap",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0669",
    "jp": "・通常１０２　ブレスレットの金属音２",
-   "en": "",
+   "en": "・Standard 102 Bracelet clinking 2",
    "term": "end",
    "unref": true
   },
@@ -4575,14 +4575,14 @@
   {
    "id": "scen185.0671",
    "jp": "・通常１０３　",
-   "en": "",
+   "en": "・Standard 103　",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0672",
    "jp": "・中止",
-   "en": "",
+   "en": "・Cancel",
    "term": "end",
    "unref": true
   },
@@ -4603,54 +4603,54 @@
   {
    "id": "scen185.0675",
    "jp": "最強装備をセットしますか？",
-   "en": "",
+   "en": "Equip the strongest gear?",
    "term": "end"
   },
   {
    "id": "scen185.0676",
    "jp": "どのビジュアル？（戻れません）",
-   "en": "",
+   "en": "Which visual? (You can't go back)",
    "term": "end"
   },
   {
    "id": "scen185.0677",
    "jp": "・１２／告白ルイセ",
-   "en": "",
+   "en": "・12/Luise's confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0678",
    "jp": "・１５／告白ミーシャ",
-   "en": "",
+   "en": "・15/Misha's confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0679",
    "jp": "・１７／告白カレン",
-   "en": "",
+   "en": "・17/Karen's confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0680",
    "jp": "・１９／告白ジュリアン",
-   "en": "",
+   "en": "・19/Julian's confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0681",
    "jp": "・２０／告白ティピ",
-   "en": "",
+   "en": "・20/Tippi's confession",
    "term": "end",
    "unref": true
   },
   {
    "id": "scen185.0682",
    "jp": "・やめ",
-   "en": "",
+   "en": "・Quit",
    "term": "end",
    "unref": true
   }

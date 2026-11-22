@@ -29,109 +29,109 @@
   {
    "id": "scen278.0003",
    "jp": "{FFEE}盗賊からブレスレットを取り戻せ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Get the bracelet back from the bandit!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen278.0004",
    "jp": "ホラ、{n}お前の大事なブレスレットはこっちだぞ！",
-   "en": "",
+   "en": "Hey, look! Your precious bracelet's right over here!",
    "term": "end"
   },
   {
    "id": "scen278.0005",
    "jp": "{v:001E}ブレスレットを返して！",
-   "en": "",
+   "en": "{v:001E}Give me back my bracelet!",
    "term": "end"
   },
   {
    "id": "scen278.0006",
    "jp": "う、うわっ！",
-   "en": "",
+   "en": "Wh-whoa!",
    "term": "end"
   },
   {
    "id": "scen278.0007",
    "jp": "{FFEE}盗賊からブレスレットを取り返した！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Got the bracelet back from the bandit!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen278.0008",
    "jp": "‥‥！！",
-   "en": "",
+   "en": "...!!",
    "term": "end"
   },
   {
    "id": "scen278.0009",
    "jp": "ぐはぁぁぁっ！",
-   "en": "",
+   "en": "Gwaaargh!",
    "term": "end"
   },
   {
    "id": "scen278.0010",
    "jp": "くそう‥‥{n}しくじっちまった‥‥。",
-   "en": "",
+   "en": "Damn... I screwed up...",
    "term": "end"
   },
   {
    "id": "scen278.0011",
    "jp": "こんなことになるなら、{n}やめときゃよかった‥‥。",
-   "en": "",
+   "en": "If I'd known it'd come to this, I'd never have done it...",
    "term": "end"
   },
   {
    "id": "scen278.0012",
    "jp": "こ、こんな話に{n}乗るんじゃなかった‥‥！",
-   "en": "",
+   "en": "Sh-shoulda never gone along with this job...!",
    "term": "end"
   },
   {
    "id": "scen278.0013",
    "jp": "つ、強すぎる‥‥。",
-   "en": "",
+   "en": "Th-they're too strong...",
    "term": "end"
   },
   {
    "id": "scen278.0014",
    "jp": "{v:0021}やったわね！",
-   "en": "",
+   "en": "{v:0021}Nice work!",
    "term": "end"
   },
   {
    "id": "scen278.0015",
    "jp": "返せ！{n}汚い手で、そのブレスレットに触るな！",
-   "en": "",
+   "en": "Give it back! Don't touch that bracelet with your{n}filthy hands!",
    "term": "end"
   },
   {
    "id": "scen278.0016",
    "jp": "うぅっ‥‥！",
-   "en": "",
+   "en": "Ugh...!",
    "term": "end"
   },
   {
    "id": "scen278.0017",
    "jp": "ヤバイよ！{n}あのフェザリアンの子も、守ってあげないと！",
-   "en": "",
+   "en": "This is bad! We have to protect that Featherian kid too!",
    "term": "end"
   },
   {
    "id": "scen278.0018",
    "jp": "私の‥ブレスレット‥‥。",
-   "en": "",
+   "en": "My... bracelet...",
    "term": "end"
   },
   {
    "id": "scen278.0019",
    "jp": "に、人間たちなんかに‥‥！",
-   "en": "",
+   "en": "B-beaten by mere humans...!",
    "term": "end"
   },
   {
    "id": "scen278.0020",
    "jp": "バカっ！{n}あの子が死んじゃったじゃないの！",
-   "en": "",
+   "en": "You dummy! Now that kid's dead!",
    "term": "end"
   }
  ]

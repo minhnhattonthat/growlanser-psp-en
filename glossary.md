@@ -273,7 +273,7 @@ alternatives); an Avoid spelling fails.
 | ユニ | Yuni | | PSP human-sized homunculus (s330/s331) | |
 | 携帯集魔柱 | Portable Mana Pillar / Portable Pillar / portable mana collection pillar | | "Portable Pillar" only in the 96 px item list | |
 | 集魔柱 | mana collection pillar / Mana Pillar | | | |
-| 時空干渉能力 | space-time interference | | | |
+| 時空干渉能力 | space-time interference / influence space-time | | PS1 scen120.0020 "ability to influence space-time" | |
 | 時空融合 | space-time fusion | | PS1 "Space-Time Fusion Theory" | |
 | 旧世界 | Old World | | | |
 | ゲヴェル細胞 | Gevel cell | | | |

@@ -22,7 +22,7 @@
   {
    "id": "scen290.0002",
    "jp": "ジャスティン",
-   "en": "",
+   "en": "Justin",
    "term": "null"
   },
   {
@@ -35,181 +35,181 @@
   {
    "id": "scen290.0004",
    "jp": "まさか、空から敵が降ってくるとは‥‥！{n}こいつらは一体、何者なんだ！？",
-   "en": "",
+   "en": "Enemies falling from the sky...! What on earth are{n}these things?!",
    "term": "end"
   },
   {
    "id": "scen290.0005",
    "jp": "大変だよ！{p}ここにもジャスティンの落とした{n}ガーディアンたちがいる！",
-   "en": "",
+   "en": "This is bad!{p}The Guardians Justin dropped are here too!",
    "term": "end"
   },
   {
    "id": "scen290.0006",
    "jp": "君たち！{n}この事態について、何か知ってるのかね！？",
-   "en": "",
+   "en": "You there! Do you know something about{n}what's happening?!",
    "term": "end"
   },
   {
    "id": "scen290.0007",
    "jp": "詳しくはあとで説明するから、{n}ここはアタシ達に任せて！",
-   "en": "",
+   "en": "We'll explain everything later, so leave this to us!",
    "term": "end"
   },
   {
    "id": "scen290.0008",
    "jp": "えーと‥‥。{n}{FFFB}みんな、集魔柱はこの辺でいい？",
-   "en": "",
+   "en": "Um...{FFFB} Everyone, is this a good spot for the mana{n}collection pillar?",
    "term": "end"
   },
   {
    "id": "scen290.0009",
    "jp": "ええ、そこで大丈夫よ！",
-   "en": "",
+   "en": "Yes, that's fine!",
    "term": "end"
   },
   {
    "id": "scen290.0010",
    "jp": "　　　　{FFF0}中々しぶとい連中だな‥‥。{p}　　　　だが、その方が{n}　　　　こちらも潰しがいがあって楽しいよ。{FFF1}",
-   "en": "",
+   "en": "　　　　{FFF0}What a stubborn bunch...{p}But that just makes crushing you all the more fun.{FFF1}",
    "term": "end"
   },
   {
    "id": "scen290.0011",
    "jp": "ああっ、またこの声！{n}{FE14}‥‥ジャスティンだよ！",
-   "en": "",
+   "en": "Ah, that voice again!{FE14} ...It's Justin!",
    "term": "end"
   },
   {
    "id": "scen290.0012",
    "jp": "ふざけるな！{n}人の命を何だと思ってやがる！",
-   "en": "",
+   "en": "Quit screwing around! What the hell do you think{n}people's lives are?!",
    "term": "end"
   },
   {
    "id": "scen290.0013",
    "jp": "　　　　{FFF0}はっ、貴様らがそんなことを言える立場か？{p}　　　　グローシアン支配時代、{n}　　　　思い上がったグローシアン共は{n}　　　　人間を奴隷として支配し、{n}　　　　フェザリアンを追撃して科学技術を奪った！{p}　　　　時が経った今も、{n}　　　　愚かなお前たちは戦争を繰り返し、{n}　　　　命の奪い合いをしているだろう！？{FFF1}",
-   "en": "",
+   "en": "　　　　{FFF0}Hah, are you in any position to say that?{p}In the age of Growsian rule, the arrogant Growsians{n}ruled humans as slaves, and hunted down the{n}Featherians to steal their science and technology!{p}Even now, after all this time, you fools keep waging war{n}and taking each other's lives, don't you?!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen290.0014",
    "jp": "{FFF6}‥‥わかったわ、ジャスティン。{p}{FC02}{FFF7}残念だけど、あなたには{n}もう何を言っても無駄なのね‥‥。",
-   "en": "",
+   "en": "{FFF6}...I understand, Justin.{p}{FC02}{FFF7}It's a shame, but nothing I say will reach you{n}anymore, will it...?",
    "term": "end"
   },
   {
    "id": "scen290.0015",
    "jp": "　　　　{FFF0}‥‥わかってくれて嬉しいよ。{n}　　　　{FFFB}これで貴様らも、{n}　　　　納得して死ねるだろうからな！{FFF1}",
-   "en": "",
+   "en": "　　　　{FFF0}...I'm glad you understand.{FFFB} Now you can all die{n}satisfied!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen290.0016",
    "jp": "　　　　{FFF0}なるほど‥‥。{n}　　　　バーンシュタイン王都が滅ばなかったのは、{n}　　　　お前たちのせいだったのか‥‥。{FFF1}",
-   "en": "",
+   "en": "　　　　{FFF0}I see... So you're the reason the Burnstein{n}Royal Capital wasn't destroyed...{FFF1}",
    "term": "end"
   },
   {
    "id": "scen290.0017",
    "jp": "‥‥あっ、この声は！",
-   "en": "",
+   "en": "...Ah, that voice!",
    "term": "end"
   },
   {
    "id": "scen290.0018",
    "jp": "ジャスティン‥‥。{n}{FFFB}時空制御塔の機能を使って、{n}私たちの脳内にメッセージを送ってるんだわ。",
-   "en": "",
+   "en": "Justin...{FFFB} He's using the Space-Time Control Tower to{n}send messages straight into our minds.",
    "term": "end"
   },
   {
    "id": "scen290.0019",
    "jp": "　　　　{FFF0}携帯集魔柱を使うとは、{n}　　　　よく思いついたものだな。{n}　　　　{FFFB}‥‥さすがはアメリアだ。{p}　　　　だが、優秀なキミが我々を裏切って、{n}　　　　そちらの味方についてしまうとはね‥‥。{n}　　　　{FFFB}とても残念でならないよ。{p}　　　　‥‥だが、今なら許してやろう。{n}　　　　我々の故郷を救う為に、こちらへ戻ってこい。{FFF1}",
-   "en": "",
+   "en": "　　　　{FFF0}Using Portable Mana Pillars... A clever idea.{FFFB} ...As{n}expected of Amelia.{p}But to think someone as talented as you would betray{n}us and take their side...{FFFB} It's a terrible shame.{p}...Still, I'll forgive you if you come now. Come back to us,{n}and help save our homeland.{FFF1}",
    "term": "end"
   },
   {
    "id": "scen290.0020",
    "jp": "絶対にイヤよ！{p}ジャスティンこそ、{n}この世界を滅ぼすだなんて馬鹿げた考えは{n}もうやめてちょうだい！",
-   "en": "",
+   "en": "Absolutely not!{p}You're the one who should give up this ridiculous idea{n}of destroying the world, Justin!",
    "term": "end"
   },
   {
    "id": "scen290.0021",
    "jp": "　　　　{FFF0}‥‥くくくっ‥‥。{n}　　　　{FE14}そうか‥‥残念だよ‥‥。{p}　　　　ならば、この世界の人間どもと{n}　　　　仲良く死んでもらうしかない！{FFF1}",
-   "en": "",
+   "en": "　　　　{FFF0}...Heh heh heh...{FE14} I see... What a shame...{p}Then you'll just have to die alongside the humans of{n}this world!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen290.0022",
    "jp": "おい！{n}{FFFB}ガーディアンのやつら、{n}ブロンソン将軍までも標的にしてるぞ！{p}将軍を死なせるわけにはいかん、気をつけろ！",
-   "en": "",
+   "en": "Hey!{FFFB} Those Guardians are going after General{n}Bronson too!{p}We can't let the General die. Be careful!",
    "term": "end"
   },
   {
    "id": "scen290.0023",
    "jp": "{FFEE}時間切れまでに、携帯集魔柱を設置せよ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Set up the Portable Mana Pillar before time runs out!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen290.0024",
    "jp": "　{n}　　　　　　携帯集魔柱を設置した！",
-   "en": "",
+   "en": "　{n}　　　　　　The Portable Mana Pillar has been{n}set up!",
    "term": "end"
   },
   {
    "id": "scen290.0025",
    "jp": "今度こそ、壊れないように守るわよ！",
-   "en": "",
+   "en": "This time, we protect it so it doesn't get broken!",
    "term": "end"
   },
   {
    "id": "scen290.0026",
    "jp": "これで、闇落としが来ても平気だね！",
-   "en": "",
+   "en": "Now we'll be fine even if the Darkfall comes!",
    "term": "end"
   },
   {
    "id": "scen290.0027",
    "jp": "モクヒョウ‥ヘンコウ‥‥{p}デバイスノ‥ハカイ‥‥",
-   "en": "",
+   "en": "TARGET... CHANGED...{p}DESTROY... DEVICE...",
    "term": "end"
   },
   {
    "id": "scen290.0028",
    "jp": "{FFEE}携帯集魔柱を守れ！{FFF1}",
-   "en": "",
+   "en": "{FFEE}Protect the Portable Mana Pillar!{FFF1}",
    "term": "end"
   },
   {
    "id": "scen290.0029",
    "jp": "この辺に立てればいいのね？",
-   "en": "",
+   "en": "Should I set it up around here?",
    "term": "end"
   },
   {
    "id": "scen290.0030",
    "jp": "お兄ちゃん、{n}この辺に立てればいいかな？",
-   "en": "",
+   "en": "Big Brother, should I set it up around here?",
    "term": "end"
   },
   {
    "id": "scen290.0031",
    "jp": "この辺りに立てていいんだな？",
-   "en": "",
+   "en": "I'm to set it up around here, correct?",
    "term": "end"
   },
   {
    "id": "scen290.0032",
    "jp": "この辺に設置するわよ！？",
-   "en": "",
+   "en": "I'm setting it up right here, okay?!",
    "term": "end"
   },
   {
    "id": "scen290.0033",
    "jp": "おい、この辺りに立てるぞ！",
-   "en": "",
+   "en": "Hey, I'm puttin' it up here!",
    "term": "end"
   },
   {
@@ -222,37 +222,37 @@
   {
    "id": "scen290.0035",
    "jp": "あああっ、携帯集魔柱が壊されちゃった！",
-   "en": "",
+   "en": "Aaah, the Portable Mana Pillar got wrecked!",
    "term": "end"
   },
   {
    "id": "scen290.0036",
    "jp": "まだチャンスはあるわ！{n}もう１度、急いで手持ちの集魔柱を立てて！",
-   "en": "",
+   "en": "There's still a chance! Hurry and set up another of the{n}mana collection pillars you're carrying!",
    "term": "end"
   },
   {
    "id": "scen290.0037",
    "jp": "ぐ、ぐおぉっ‥‥！",
-   "en": "",
+   "en": "Gah, gwaaagh...!",
    "term": "end"
   },
   {
    "id": "scen290.0038",
    "jp": "うわああっ！",
-   "en": "",
+   "en": "Waaagh!",
    "term": "end"
   },
   {
    "id": "scen290.0039",
    "jp": "ぐっ‥‥、無念‥‥。",
-   "en": "",
+   "en": "Ngh... Curses...",
    "term": "end"
   },
   {
    "id": "scen290.0040",
    "jp": "こんな奴らにやられるなんて‥‥！",
-   "en": "",
+   "en": "Beaten by the likes of these...!",
    "term": "end"
   }
  ]
