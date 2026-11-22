@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator in progress (session 12: phase 7 review fixes, English tour + qa_gate manifest
-  started; see "Phase 8 progress" below).
+- **Phase:** 8. QA in the emulator in progress (session 13: tour gate + text coverage done; graphics, inkbox,
+  stress saves left; see "Phase 8 progress" below).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -100,38 +100,35 @@ Updated at the end of every session. Keep it to what the next session needs; his
   edits only 380-759 (+ test: non-text entries identical after repack); `build.check_leaves` (disc: other files
   identical, only patched files move, no extent overlap). Review Minors 3-8 open (listed in the review file; 7 and 8
   are phase 8 checks: JP save on the EN build, longest name/item/place in battle messages, shops, place popup).
-- **Phase 8 progress (session 12):** build e1c9255757b8ac0decb97d6512e3638b33bf050a (= the review's), copied to
-  work/qa/tourbuild.iso (tour from the copy: build.py can't overwrite an ISO an emulator holds). Tour =
-  `warp.py --all --iso work/qa/tourbuild.iso --out work/qa/tour` (81 entries, ~2 h, log work/qa/tour.log); JP
-  baseline sheets = work/qa/warp (session 4). The tour was still running when session 12 handed back (21/81 done):
-  if work/qa/tour/summary.tsv lacks rows, re-run the missing ones with `--all --only a,b,..` into the same --out.
-  Then the manifest: `qa_gate.py init work/qa/manifest.tsv work/qa/tour --build
-  work/qa/tourbuild.iso` (sheets are paged: sheet.png, sheet_2.png...). Brief: docs/visual-qa-brief.md (PSP
-  non-bugs). Verdicts so far: work/qa/verdicts/s12_main.tsv (12 sheets: title*, newgame, dbgmenu, dbg_*; all ok;
-  one polish note: dev menu row "Portrait test mode" vs its title "Portrait Check Mode"). Remaining sheets: `qa_gate.py todo
-  work/qa/manifest.tsv work/qa/verdicts --size 30 --out-dir work/qa/chunks`; no subagents for this run (Orca
-  worker): read each chunk in a fresh pass, at full size (`final.png` + the fNNNNNN.png frames with text; sheet tiles
-  are half size, ~200 tokens per 480x272 frame), and write verdicts/<chunk>.tsv.
-  Text coverage (gate item, not started): PPSSPP has no Lua, so a text log needs a breakpoint over the WebSocket
-  (`tools/debug/trace.py` style, read the string and log `TEXT <hash>` like ../growlanser-en/tools/debug/textlog.lua
-  + tools/strings.py). Printer 0x088748A0 entry (JP, first_dialogue state): a0 = 0x08CCD628 (a window struct: +0x48
-  flag, +0x2C), a1 = code index in typewriter mode, s0 = [entry sp + 0x18] passed to 3 calls; the string pointer is
-  NOT yet found (PS1 had it at u32(u32(sp+0x1C))). The wrapper 0x08868480 shifts its args (printer a1..t3 = wrapper
-  a0..t2, printer [sp+0x18] = the wrapper caller's stack arg +8: 0x00BE00C1 in the trace, not a pointer); try the
-  message display 0x08868788's args or the window struct next (scratch disassembler: capstone on BOOT.BIN via
-  insert.ram_to_file; promote it to tools/ if used again). Then port
-  the PS1 msgforce/cover.py idea (force every message of scene N through a host scene) to WebSocket pokes.
-- **Next (phase 8, QA in the emulator):** finish the tour verdicts; text coverage (above); tour every changed scene with the debug tool, contact sheets, visual-QA
-  verdicts (`qa_gate.py`), graphics text (P1-P13 in docs/re/graphics.md), inkbox on choice/centred boxes, stress
-  saves, `textcover.py`. Measure on screen: battle UI (unit / class names, battle messages: bt_tutorial lands before
-  the battle starts), captions (scen010.0114, scen014.0003: Encoder.centre bias is PS1's), spell list with Luise in
-  the party, place popup (popup_width), shops, save screen. boot.save English has real "\n" (system dialog).
-  {s:FFED} in scen188.0058 (alpha waves?) to check in game. Raw `warp.py --scene "scene 186"` lands on a black
-  map (original too): give story scenes their area/sub in scenes.txt when touring them. Saves made with the JP game
-  may hold scene-buffer pointers (copy at 0x08808004 from 0x08B7EF38): test loading a JP save on the English build.
-  Phase 8 warp additions still open: game over (docs/re/debug.md "Game over"), clear-save fixture for APPENDIX,
-  shops, stress saves (inventory lists, other unit records). Credits: cast pages with Japanese names at f21000-23400
-  of the `credits` warp (settle P5 vs P13 there).
+- **Phase 8 progress (sessions 12-13):** build e1c9255757b8ac0decb97d6512e3638b33bf050a (= build/growlanser_en.iso),
+  copied to work/qa/tourbuild.iso (tours run on the copy: build.py can't overwrite an ISO an emulator holds).
+  - **Tour gate: done.** `warp.py --all --iso work/qa/tourbuild.iso --out work/qa/tour` (81/81 landed; summary.tsv
+    only has the 59 rows of the session-13 rerun, the first 22 landed in session 12's tour.log). `qa_gate.py init
+    work/qa/manifest.tsv work/qa/tour --build work/qa/tourbuild.iso`; verdicts work/qa/verdicts/s12_main + s13_a..d
+    (read by the controller, no subagents: crop sheets `sheet.py "DIR/f*.png" --from 1500 --crop 0,150,480,122
+    --changed 0.06` in work/qa/crops, zoom on tags/boxes). `qa_gate.py check work/qa/manifest.tsv work/qa/verdicts`:
+    111 sheets, 0 without verdict, 0 not ok. Notes: credits cast pages + 'リンクシンク' = P5/P13; affinity grid
+    (equip/status) = P1/P2; tut_status picture = P11; face plates RUISE/ARIOST = P7; battle unit box ok (bt_bernard).
+    The clear-save SAVE screen is reached at the end of the `credits` warp (fixture for APPENDIX: save there).
+  - **Text coverage: done.** `tools/strings.py` -> build/strings.tsv; `tools/debug/cover.py --iso
+    work/qa/tourbuild.iso --out work/qa/cov --jobs 4` (24 min; docs/re/debug.md "Text coverage": host mode on the
+    newgame warp, printer + VM breakpoints); `textcover.py work/qa/cov build/strings.tsv`: 31404/31404 shown, exit 0
+    (strings.tsv copy in work/qa/cov). Rerun after every build that changes text. 40 strings stalled in the host
+    (drawn, never closed; work/qa/cov/stalls.tsv, `tools/debug/cover_ids.py`): mostly {FB00}..{FFFA} animated-face
+    lines (dev menu scen018/379, scen325 x8); check a few in their own scene (scen112.0096, scen328.0044,
+    scen071.0013, scen210.0017 have no FB00). `warp.py --textlog` logs strings per warp too.
+- **Next (phase 8, QA in the emulator):**
+  1. Graphics text (docs/re/graphics.md P1-P13, groups G1-G8): redraw in English, one pilot group then the rest;
+     every row English in a zoomed cold-boot shot (title P8, credits P5/P13: check with gedump which the PSP draws,
+     face plates P7, affinity P1/P2/P3, tutorial P11, appendix P4, card binder P6, movies P9, icons/SFO P10).
+  2. inkbox on centred boxes: port ../growlanser-en/tools/inkqa.py + inkcheck.py (colours/positions for PSP: field
+     bubbles, place popup, captions; choice boxes are left-aligned like the JP: not targets).
+  3. Stress saves (references/emulator-qa.md §Stress saves) with `tools/debug/save.py`: longest item names, full
+     lists, max numbers, Luise in the party (spell list), shops, save/load screen.
+  4. Measure: captions (scen010.0114, scen014.0003), place popup, shops, battle messages, {s:FFED} in scen188.0058,
+     a JP save loaded on the English build (scene-buffer pointer copy at 0x08808004). Game over warp, APPENDIX
+     clear-save fixture. Raw `warp.py --scene "scene 186"` lands on a black map (original too).
+  5. After any text/code change: rebuild, re-tour changed screens, `qa_gate init` + verdicts, cover.py rerun.
 - **Open bugs:** Signed EBOOT untested on real hardware (tag 0 instead of the original key).
 - **Waiting on the user:** (non-blocking) face-plate art spells ELIOTTE/RUISE/RICHART (DATA.DAT chr_face*.bmp);
   default = redraw to the glossary spellings (Elliot, Luise, Richard) per D9.
