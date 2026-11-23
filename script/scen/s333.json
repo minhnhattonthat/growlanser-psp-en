@@ -649,7 +649,7 @@
   {
    "id": "scen333.0100",
    "jp": "力を入れていない割には、{n}結構な測定値を出してますわ。{p}{FC05}もっと、自信を持って下さっても{n}宜しいですのに。",
-   "en": "For someone who did not put any force into it, you{n}scored quite well.{p}{FC05}You may have more confidence in yourself, you know.",
+   "en": "For someone who did not put any force into it, you{n}scored quite well.{p}{FC05}You could stand to have a little more confidence in{n}yourself, you know.",
    "term": "end"
   },
   {
@@ -760,7 +760,7 @@
   {
    "id": "scen333.0118",
    "jp": "パーフェクトとまでは行きませんけれど、{n}充分に高い能力をお持ちの、{n}素晴らしい方だと判断しましたわ。",
-   "en": "Though not quite perfect, I have judged you to be a{n}wonderful person with ample, high abilities.",
+   "en": "Though not quite perfect, I have judged you to be a{n}wonderful person with more than sufficiently{n}high ability.",
    "term": "end"
   },
   {

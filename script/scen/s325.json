@@ -39,7 +39,7 @@
   {
    "id": "scen325.0005",
    "jp": "{v:0073}大丈夫、バッチリ！{n}{FC06}‥‥というか、キミじゃなきゃ、ダメ！",
-   "en": "{v:0073}Don't worry, he's perfect!{FC06} ...Actually, it HAS to be you!",
+   "en": "{v:0073}Don't worry, it's totally fine!{FC06} ...Actually, it HAS to{n}be you!",
    "term": "end"
   },
   {
@@ -146,7 +146,7 @@
   {
    "id": "scen325.0022",
    "jp": "{v:0081}えぇー、そういわれると判断できないじゃない。{n}もう一度、ちゃんと考えて！",
-   "en": "{v:0081}Aww, if you say that, I can't judge anything. Think it{n}over properly one more time!",
+   "en": "{v:0081}Aww, if that's your answer, I can't judge anything.{n}Think it over properly one more time!",
    "term": "end"
   },
   {
@@ -184,7 +184,7 @@
   {
    "id": "scen325.0028",
    "jp": "・元気のない子猫がウソでよかった",
-   "en": "・Glad the sick kitten was a lie",
+   "en": "・Glad the listless kitten was a lie",
    "term": "end",
    "unref": true
   },
@@ -433,7 +433,7 @@
   {
    "id": "scen325.0068",
    "jp": "うん！",
-   "en": "Okay!",
+   "en": "Yep!",
    "term": "end",
    "src": "ps1"
   },
@@ -691,7 +691,7 @@
   {
    "id": "scen325.0109",
    "jp": "いや～。{n}人間、１つは取り柄があるんだな～って。",
-   "en": "Ehehe. Just goes to show everybody's good{n}at SOMETHING!",
+   "en": "Ehehe. Just goes to show every human's got at least{n}one thing going for 'em!",
    "term": "end"
   },
   {
@@ -1019,7 +1019,7 @@
   {
    "id": "scen325.0162",
    "jp": "‥‥あ、ゴメンね。{n}戦争のただ中にいるあなた達が１番辛いのに、{n}こんなことを言っちゃって‥‥。",
-   "en": "...Oh, I'm sorry. You're the ones caught in the middle of{n}the war, it's hardest on you, and here I am saying{n}things like this...",
+   "en": "...Oh, I'm sorry. You're the ones caught in the middle of{n}the war, so it's hardest on you, and here I am saying{n}things like this...",
    "term": "end"
   },
   {
@@ -1120,7 +1120,7 @@
   {
    "id": "scen325.0178",
    "jp": "でも、間違いに気づいた後に{n}急いで学院長室を目指したはずなのに、{n}どうして私、屋上に居るのかしら‥‥？",
-   "en": "But after I realized the mistake, I hurried straight for{n}the Headmaster's office... So how did I end up on{n}the roof...?",
+   "en": "But after I realized the mistake, I hurried straight for{n}the Headmaster's Office... So how did I end up on{n}the roof...?",
    "term": "end"
   },
   {

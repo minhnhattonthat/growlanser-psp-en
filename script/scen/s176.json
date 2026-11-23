@@ -210,7 +210,7 @@
   {
    "id": "scen176.0031",
    "jp": "返事は早いうちにしよう。{n}それまで待っているがよい。",
-   "en": "We shall reply soon. Until then, wait.",
+   "en": "We shall reply soon. Until then, you may wait.",
    "term": "end"
   },
   {
@@ -318,7 +318,7 @@
   {
    "id": "scen176.0049",
    "jp": "なんと‥‥。{p}フェザリアンでありながら、{n}そのような凶行に手を貸している者が{n}いるというのか‥‥。",
-   "en": "Good heavens...{p}You mean to say that a Featherian, of all beings, is{n}lending a hand to such atrocities...?",
+   "en": "Unthinkable...{p}You mean to say that a Featherian, of all beings, is{n}lending a hand to such atrocities...?",
    "term": "end"
   },
   {
@@ -601,7 +601,7 @@
   {
    "id": "scen176.0094",
    "jp": "大きな闇が、また大陸に落ち始めたようだな。",
-   "en": "It seems great darkness has begun to fall on the{n}continent again.",
+   "en": "It seems a great darkness has begun to fall on the{n}continent again.",
    "term": "end"
   },
   {
@@ -1155,7 +1155,7 @@
   {
    "id": "scen176.0184",
    "jp": "・‥‥‥‥。",
-   "en": "・......",
+   "en": "・...",
    "term": "end",
    "unref": true
   },
@@ -1433,7 +1433,7 @@
   {
    "id": "scen176.0230",
    "jp": "　　{FFF0}なるほど‥‥。{n}　　バーンシュタインや{n}　　ローザリアが無事だったのは、{n}　　お前たちのせいだったのか‥‥。{FFF1}",
-   "en": "　　{FFF0}I see... So you lot are the reason Burnstein and{n}Rosaria came through unharmed...{FFF1}",
+   "en": "　　{FFF0}I see... So you are the reason Burnstein and{n}Rosaria came through unharmed...{FFF1}",
    "term": "end"
   },
   {
@@ -1539,7 +1539,7 @@
   {
    "id": "scen176.0247",
    "jp": "コイツの言うとおりだよ！{p}最初から諦めちゃったら、{n}何も出来ないものね！",
-   "en": "He's right!{p}If you give up from the start, you can't do anything!",
+   "en": "This guy's right!{p}If you give up from the start, you can't do anything!",
    "term": "end"
   },
   {
@@ -1575,7 +1575,7 @@
   {
    "id": "scen176.0253",
    "jp": "‥‥‥‥‥‥。{p}これが人間の諦めの悪さというものか‥‥。",
-   "en": "..................{p}So this is the stubbornness of humans...",
+   "en": "...{p}So this is the stubbornness of humans...",
    "term": "end"
   },
   {

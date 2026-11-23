@@ -956,7 +956,7 @@
   {
    "id": "scen156.0146",
    "jp": "よく来てくれたね。こういう時こそ、{n}危険に備えてお店で休んでいって頂戴。{p}この扉の奥よ！",
-   "en": "How nice of you to come. At times like these, do rest at{n}the shop and be ready for danger.{p}It's through this door!",
+   "en": "How nice of you to come. At times like these, do rest at{n}the shop to prepare for danger.{p}It's through this door!",
    "term": "end"
   },
   {
@@ -1239,7 +1239,7 @@
   {
    "id": "scen156.0189",
    "jp": "闇落とし事件により、ただいま特別警戒中です。{n}いつ、なにが起こるか分かりませんので。",
-   "en": "Due to the Darkfall incidents, we are currently on{n}special alert. There's no telling when or what{n}might happen.",
+   "en": "Due to the Darkfall incident, we are currently on{n}special alert. There's no telling when or what{n}might happen.",
    "term": "end"
   },
   {

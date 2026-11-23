@@ -501,7 +501,7 @@
   {
    "id": "scen062.0071",
    "jp": "{FFF6}{v:00AA}そうか‥‥。{n}覚悟は出来ているか‥‥。",
-   "en": "{FFF6}{v:00AA}I see... So you are prepared...",
+   "en": "{FFF6}{v:00AA}I see... Are you prepared...?",
    "term": "end"
   },
   {
@@ -565,7 +565,7 @@
   {
    "id": "scen062.0081",
    "jp": "・そうではない",
-   "en": "・No, I haven't",
+   "en": "・No, that's not it",
    "term": "end",
    "unref": true
   },
@@ -578,7 +578,7 @@
   {
    "id": "scen062.0083",
    "jp": "{v:008D}あう‥‥。",
-   "en": "{v:008D}Uh...",
+   "en": "{v:008D}Eep...",
    "term": "end"
   },
   {

@@ -40,7 +40,7 @@
   {
    "id": "scen326.0005",
    "jp": "‥‥そうだったのか。{n}{FFFB}お前の言うとおり、ここはアーネストの別荘だ。",
-   "en": "...Is that so. {FFFB}You're right. This is Ernest's villa.",
+   "en": "...Is that so. {FFFB}You're right. This is the villa of{n}Ernest Lyell.",
    "term": "end"
   },
   {
@@ -136,7 +136,7 @@
   {
    "id": "scen326.0021",
    "jp": "ここへ来ると、{n}３人で訪れた時のことを思い出すな。{n}{FFFB}{FFF6}‥‥本当に、色々なことがあった。",
-   "en": "Coming here reminds me of the times the three of us{n}visited. {FFFB}{FFF6}...So much really happened.",
+   "en": "Coming here reminds me of the times the three of us{n}visited. {FFFB}{FFF6}...So much has happened, truly.",
    "term": "end"
   },
   {

@@ -1288,7 +1288,7 @@
   {
    "id": "scen060.0185",
    "jp": "{v:00A8}ああ、君たちは{s:0002}の‥‥。{p}{FC04}{v:00A9}まだ{s:00BD}なのに、{n}あの{s:0119}を倒すとは恐れ入ったぞ。{p}{FC04}{v:00AB}何にしても、君たちに救われた。{n}ありがとう。",
-   "en": "{v:00A8}Ah, you are {s:0002}'s...{p}{FC04}{v:00A9}You are still such a young {s:00BD}, yet you{n}defeated {s:0119}. I am impressed.{p}{FC04}{v:00AB}In any case, you saved us. Thank you.",
+   "en": "{v:00A8}Ah, you are {s:0002}'s...{p}{FC04}{v:00A9}You are still only a {s:00BD}, yet you{n}defeated {s:0119}. I am impressed.{p}{FC04}{v:00AB}In any case, you saved us. Thank you.",
    "term": "end"
   },
   {
@@ -1577,7 +1577,7 @@
   {
    "id": "scen060.0229",
    "jp": "{v:000B}{FFEE}　　　　　　我が名は{s:0025}。{n}　　　　　キング・オブ・グローシアン。{n}　　　　　お前たちの支配者たる存在だ。{FFF1}",
-   "en": "{v:000B}{FFEE}　　　　　　My name is {s:0025}. King of{n}the Growsians. Your rightful ruler.{FFF1}",
+   "en": "{v:000B}{FFEE}　　　　　　My name is {s:0025}. King of{n}the Growsians. The one who rules over you.{FFF1}",
    "term": "end"
   },
   {

@@ -371,7 +371,7 @@
   {
    "id": "scen183.0056",
    "jp": "{FFF6}‥‥{v:0013}さい‥‥るさい‥‥うるさい！{p}{v:0014}私のことは、私が決める！{n}指図するな、指図するなぁ！",
-   "en": "{FFF6}...{v:0013}...et... quiet... Be quiet!{p}{v:0014}I decide for myself! Stop ordering me around! Stop{n}ordering me arouuund!",
+   "en": "{FFF6}...{v:0013}...ut... shut... Shut up!{p}{v:0014}I decide for myself! Stop ordering me around! Stop{n}ordering me arouuund!",
    "term": "end"
   },
   {
@@ -521,7 +521,7 @@
   {
    "id": "scen183.0081",
    "jp": "{v:0042}政治だよ。{n}この計画を立案し支持を得た大統領の失脚を願う{n}政敵に雇われたのさ。{p}{v:0085}莫大な費用と２０人からのメンバーの人生を{n}無駄にしたとなれば、失脚間違いなしだろう。{p}{v:0043}だから、チームリーダーである、{n}メルフィの両親をグローシアンのせいにして殺した。",
-   "en": "{v:0042}Politics. I was hired by the political enemies of the{n}president who drew up this plan and won support for{n}it, men who wanted to see him fall.{p}{v:0085}Squander a vast fortune and the lives of twenty-odd{n}team members, and his downfall would be guaranteed.{p}{v:0043}So I killed the team leaders, Melfie's parents, and pinned{n}it on the Growsians.",
+   "en": "{v:0042}Politics. I was hired by the political enemies of the{n}president who drew up this plan and won support for{n}it, men who wanted to see him fall.{p}{v:0085}Squander a vast fortune and the lives of twenty-odd{n}team members, and his downfall would be guaranteed.{p}{v:0043}So I killed Melfie's parents, the team's leaders, and{n}pinned it on the Growsians.",
    "term": "end"
   },
   {
@@ -563,7 +563,7 @@
   {
    "id": "scen183.0088",
    "jp": "{v:0049}それは‥‥俺が故郷を守りたいという{n}気持ちだけは本物だからだ！{p}{v:004A}別の道を歩み始めて、千年。{n}今更一緒にやっていけるわけがないだろう！{p}{v:0086}やっと故郷では戦争がなくなり、{n}人もフェザリアンも幸せに暮らせる世界になった！{p}{v:004B}そこに今更問題の種を持ちかえる必要はない！{n}だからこの計画は絶対に潰す。{n}こちらの世界の連中など、いなくなればいいのだ！",
-   "en": "{v:0049}Because... my wish to protect my homeland, at least,{n}is genuine!{p}{v:004A}A thousand years since we took separate paths.{n}There's no way we could live together now!{p}{v:0086}At long last, war has vanished from our homeland, and{n}it's become a world where humans and Featherians can{n}live in happiness!{p}{v:004B}There's no need to bring the seeds of trouble back{n}there now! That's why I'll crush this plan no matter{n}what. The people of this world can just disappear!",
+   "en": "{v:0049}Because... my wish to protect my homeland, at least,{n}is genuine!{p}{v:004A}A thousand years since our two worlds began walking{n}separate paths. There's no way we could live{n}together now!{p}{v:0086}At long last, war has vanished from our homeland, and{n}it's become a world where humans and Featherians can{n}live in happiness!{p}{v:004B}There's no need to bring the seeds of trouble back{n}there now! That's why I'll crush this plan no matter{n}what. The people of this world can just disappear!",
    "term": "end"
   },
   {
@@ -929,7 +929,7 @@
   {
    "id": "scen183.0148",
    "jp": "携帯用集魔柱は持っているわね？{n}{FFFB}この塔の上階に、外が見える場所があるわ。{n}そこからデュンケルスを呼び込みましょう。",
-   "en": "You have the portable mana collection pillar, don't you?{n}{FFFB}There's a place on the upper floors of this tower{n}where you can see outside.{p}Let's draw the Dunkels in from there.",
+   "en": "You have the Portable Mana Pillar, don't you? {FFFB}There's a{n}place on the upper floors of this tower where you can{n}see outside.{p}Let's draw the Dunkels in from there.",
    "term": "end"
   },
   {
@@ -1471,7 +1471,7 @@
   {
    "id": "scen183.0235",
    "jp": "{v:0000}携帯用集魔柱を使うのね？",
-   "en": "{v:0000}You're going to use the portable mana collection pillar?",
+   "en": "{v:0000}You're going to use the Portable Mana Pillar?",
    "term": "end"
   },
   {
@@ -1577,7 +1577,7 @@
   {
    "id": "scen183.0252",
    "jp": "{v:0010}お兄ちゃん達の身体から‥‥。",
-   "en": "{v:0010}From your bodies, Big Brother...",
+   "en": "{v:0010}From Big Brother's body... and everyone else's...",
    "term": "end"
   },
   {

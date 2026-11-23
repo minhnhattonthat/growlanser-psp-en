@@ -359,7 +359,7 @@
   {
    "id": "scen175.0056",
    "jp": "{s:0153}のあんな嬉しそうな顔は、{n}久しぶりに見た気がするな。{n}お前たちのおかげだ、礼を言うよ。",
-   "en": "It feels like ages since I last saw {s:0153}{n}look so happy. It's thanks to you. You have my thanks.",
+   "en": "It feels like ages since I last saw {s:0153}{n}look so happy. It's thanks to you. I'm grateful.",
    "term": "end"
   },
   {
@@ -572,7 +572,7 @@
   {
    "id": "scen175.0089",
    "jp": "彼の思惑通りにさせる訳にはいきませんね。{n}これ以上の犠牲者は、絶対に出させません！",
-   "en": "We can't let him have his way. I won't allow a single{n}victim more!",
+   "en": "We can't let him have his way. I won't allow even one{n}more victim!",
    "term": "end"
   },
   {
@@ -1006,19 +1006,19 @@
   {
    "id": "scen175.0159",
    "jp": "グローシュと相対する闇の存在デュンケルス‥‥。{n}{FFFB}これについて、今は分かってないことが多すぎる。{p}だから、僕はデュンケルスについて詳しく{n}調べてみようと思うんだ。",
-   "en": "Dunkels, the being of darkness that stands opposed to{n}Grosh... {FFFB}There's too much we don't know about it{n}right now.{p}So I'm thinking of researching the Dunkels in detail.",
+   "en": "Dunkels, the being of darkness that stands opposed to{n}Grosh... {FFFB}There's too much we don't know about them{n}right now.{p}So I'm thinking of researching Dunkels in detail.",
    "term": "end"
   },
   {
    "id": "scen175.0160",
    "jp": "デュンケルスについて調べる？",
-   "en": "Research the Dunkels?",
+   "en": "Research Dunkels?",
    "term": "end"
   },
   {
    "id": "scen175.0161",
    "jp": "ああ。{n}{FFFB}デュンケルスの特性など詳しいことが分かれば、{n}今後、君たちの行動の役に立つだろう？{p}例えば、{n}デュンケルスを引き寄せるような機械があれば、{n}人々が触れる前に除去できる‥‥、とかね。",
-   "en": "Right. {FFFB}If we can learn more about the Dunkels, like its{n}properties, that should help you in whatever you do{n}next, right?{p}For example, if we had a machine that could draw in{n}the Dunkels, we could remove it before anyone touches{n}it... that sort of thing.",
+   "en": "Right. {FFFB}If we can learn more about Dunkels, like their{n}properties, that should help you in whatever you do{n}next, right?{p}For example, if we had a machine that could draw in{n}Dunkels, we could remove them before anyone touches{n}them... that sort of thing.",
    "term": "end"
   },
   {
@@ -1090,19 +1090,19 @@
   {
    "id": "scen175.0173",
    "jp": "実は{s:0003}先輩が、デュンケルスの特性について{n}もっと詳しいことを調べてみるって言ってて。{n}私は、それのお手伝いをしようと思うんです。",
-   "en": "Well, {s:0003} said he's going to research the{n}properties of the Dunkels in more detail. I'm going to{n}help him with it.",
+   "en": "Well, {s:0003} said he's going to research the{n}properties of Dunkels in more detail. I'm going to help{n}him with it.",
    "term": "end"
   },
   {
    "id": "scen175.0174",
    "jp": "デュンケルスの特性？",
-   "en": "The properties of the Dunkels?",
+   "en": "The properties of Dunkels?",
    "term": "end"
   },
   {
    "id": "scen175.0175",
    "jp": "デュンケルスの特性が分かれば、{n}お兄さまたちの行動のお役に立てるかなって★{p}{FC00}例えば、デュンケルスを引き寄せるような{n}機械があれば、人々が触れる前に{n}除去できるかもですし。",
-   "en": "I thought if we figured out the Dunkels' properties, it{n}might help you and the others, Big Brother!{p}{FC00}Like, if there was a machine that could draw in the{n}Dunkels, maybe we could remove it before anyone{n}touches it.",
+   "en": "I thought if we figured out the properties of Dunkels,{n}it might help you and the others, Big Brother!{p}{FC00}Like, if there was a machine that could draw in Dunkels,{n}maybe we could remove them before anyone{n}touches them.",
    "term": "end"
   },
   {
@@ -1379,7 +1379,7 @@
   {
    "id": "scen175.0220",
    "jp": "{v:0011}はっ。{n}{s:0004}王のご命令のままに。",
-   "en": "{v:0011}Yes, sir. As King {s:0004} commands.",
+   "en": "{v:0011}Yes. As King {s:0004} commands.",
    "term": "end"
   },
   {

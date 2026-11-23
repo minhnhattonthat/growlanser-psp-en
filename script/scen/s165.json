@@ -158,7 +158,7 @@
   {
    "id": "scen165.0023",
    "jp": "それが、こいつが勝手に{n}ココに来て立てちゃったのよ！",
-   "en": "Well, this guy just went and came here on his own and{n}set it up!",
+   "en": "Well, this guy just came charging in here on his own and{n}set it up!",
    "term": "end"
   },
   {
@@ -194,7 +194,7 @@
   {
    "id": "scen165.0029",
    "jp": "１度、魔法学院に戻って{n}状況を確認した方がよさそうだな。",
-   "en": "Looks like we'd better head back to the Magic Academy{n}once and check on the situation.",
+   "en": "Looks like we'd better head back to the Magic Academy{n}for now and check on the situation.",
    "term": "end"
   },
   {
@@ -556,7 +556,7 @@
   {
    "id": "scen165.0084",
    "jp": "治療中の女の子が飼っている犬でね、{n}飼い主の帰りをずっと待っているようだ。{p}その子の容態は決して良くはないが‥‥。{n}ひょっとすると、また元のように{n}元気に戻れるかもしれん。",
-   "en": "It belongs to a girl receiving treatment here. It seems{n}to be waiting for its owner to return.{p}The girl's condition is far from good... But perhaps she{n}might regain her health and be her old self again.",
+   "en": "He belongs to a girl receiving treatment here, you see.{n}He seems to be waiting for his owner to return.{p}The girl's condition is far from good... But perhaps she{n}might regain her health and be her old self again.",
    "term": "end",
    "src": "ps1"
   },
@@ -815,7 +815,7 @@
   {
    "id": "scen165.0122",
    "jp": "‥‥{v:0069}シエラ‥‥来てくれたのか‥‥‥。",
-   "en": "...{v:0069}Sierra... You've come for me...",
+   "en": "...{v:0069}Sierra... You came...?",
    "term": "end",
    "src": "ps1"
   },
@@ -836,7 +836,7 @@
   {
    "id": "scen165.0125",
    "jp": "{v:0020}闇落としか‥‥。{n}とんでもない事をしやがる‥‥。{p}{v:0021}それにしても、ヴェンツェルの言っていた{n}アレは本当だったのか‥‥。",
-   "en": "{v:0020}The Darkfall, huh... That's one hell of a thing to do...{p}{v:0021}Still, so that thing Wenzel told us about was true{n}after all...",
+   "en": "{v:0020}The Darkfall, huh... That's one hell of a thing to do...{p}{v:0021}Still, what Wenzel told us about... it was true after all...",
    "term": "end"
   },
   {
@@ -917,7 +917,7 @@
   {
    "id": "scen165.0138",
    "jp": "{v:0002}弱った‥波動‥‥？",
-   "en": "{v:0002}A weakened... aura...?",
+   "en": "{v:0002}A weakened... wave...?",
    "term": "end",
    "src": "ps1"
   },

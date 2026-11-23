@@ -4,163 +4,183 @@ Minor reviewer findings, deferred to one polish pass (translation.md §Review). 
 A flattened voice (quirk, register, emotional beat) is Important, never filed here: fix it in the batch (session 10
 moved the voice items filed here to polish batch work/tl/p001 and fixed them; re-class any reviewer Minor of that kind).
 
-- [ ] b013 scen061.0219 - "The {s:00AE} crowds" clunky, invents "crowds": "{s:00AE}s are storming the castle..."
-- [ ] b013 scen062.0081 - choice: "No, that's not it" answers "come to laugh at me?" better
+- [x] b013 scen061.0219 - "The {s:00AE} crowds" clunky, invents "crowds": "{s:00AE}s are storming the castle..." (waived: noun drawn from the names table, rendered capitalised by the game (translator-brief: build the sentence around it, no plural s))
+- [x] b013 scen062.0081 - choice: "No, that's not it" answers "come to laugh at me?" better (fixed session 20, batch s20fix)
 - [x] b013 scen061.0236 - Tippi flat: "Hey, {s:0004}! {s:000A} isn't in the dungeon! What's going on?" (fixed session 10, p001)
 - [x] b014 scen067.0214 - "toooo!" filler: "And I was in such a good mood, enjoying my meal... and now this!" (fixed session 10, p001)
 - [x] b014 scen073.0099 - stiff "Thank you for your hard work": "Good work out there." (fixed session 10, p001)
 - [x] b014 scen073.0222 - Tippi おバカ！ weak: "Dummy! How can you not get them away from the mana collection pillar?!" (fixed session 10, p001)
 - [x] b014 scen073.0090/0202 - re-read once tbl 04C2 = 噂 (rumour) is fixed: "the Darkfall rumour", "soldiers are talking" (fixed session 10, p001)
-- [ ] b015 scen084.0073 - clumsy: "Because we know it can't be avoided, we struggle to do something about it!"
+- [x] b015 scen084.0073 - clumsy: "Because we know it can't be avoided, we struggle to do something about it!" (fixed session 20, batch s20fix)
 - [x] b015 scen084.0115 - "Lend it or not" stiff: "Don't even ask. We have to stop him too, or we're the ones in danger." (fixed session 10, p001)
 - [x] b015 scen084.0087 - "his lot" off for hero: "And Wenzel and his men stole that from you?" (fixed session 10, p001)
-- [ ] b015 scen082.0029 - "Did someone dig it out?"
+- [x] b015 scen082.0029 - "Did someone dig it out?" (fixed session 20, batch s20fix)
 - [x] b015 scen073.0242 - Tippi stretched ぁ lost: "What's this, more junkkk?" (fixed session 10, p001)
-- [ ] b015 scen073.0248 - "How do we get rid of this eerie darkness?"
-- [ ] b015 scen084.0067 - "What do you think of the wars people wage?"
-- [ ] b016 scen092.0030 - 気になる = curious: "Big Brother, I'm curious about it too..."
+- [x] b015 scen073.0248 - "How do we get rid of this eerie darkness?" (fixed session 20, batch s20fix)
+- [x] b015 scen084.0067 - "What do you think of the wars people wage?" (fixed session 20, batch s20fix)
+- [x] b016 scen092.0030 - 気になる = curious: "Big Brother, I'm curious about it too..." (fixed session 20, batch s20fix)
 - [x] b016 scen092.0083 - "you lot" off for Featherian: "In that respect, you don't make a fuss, which makes things easy." (fixed session 10, p001)
-- [ ] b016 scen092.0016 - "Featherian-san" reads oddly (optional)
-- [ ] b009 scen040.0190 - "Wouldn't you?" misreads だってそうだろう ("Right?"); 一発 (one good punch) lost
-- [ ] b009 scen039.0240 - "Why, this is Melfie's" stagey: "What? ...Isn't this Melfie's...?"
+- [x] b016 scen092.0016 - "Featherian-san" reads oddly (optional) (waived: optional, current line reads fine)
+- [x] b009 scen040.0190 - "Wouldn't you?" misreads だってそうだろう ("Right?"); 一発 (one good punch) lost (fixed session 20, batch s20fix)
+- [x] b009 scen039.0240 - "Why, this is Melfie's" stagey: "What? ...Isn't this Melfie's...?" (fixed session 20, batch s20fix)
 - [x] b009 scen040.0194 - Karen "strongly opposed" stiff: "I fought him on it with everything I had" (fixed session 10, p001)
-- [ ] b010 scen041.0073 - "Isn't denying them that racial discrimination?"
+- [x] b010 scen041.0073 - "Isn't denying them that racial discrimination?" (fixed session 20, batch s20fix)
 - [x] b010 scen041.0076 - Tippi "Yeah, totally!" too modern: "Yeah, you said it!" (fixed session 10, p001)
-- [ ] b010 scen041.0019 - 子供会 sign: "--Grancil {s:00BD} Club--"
-- [ ] b011 scen041.0153 - "how many {s:00F5}" (singular Monster): "how many {s:00F5} fights I win"
-- [ ] b011 scen053.0078 - "foster parents" plural added: check scene, maybe singular
-- [ ] b011 scen049.0058 - JP ends doubtful "?": "...we haven't searched the mansion yet, have we?"
-- [ ] b012 scen060.0185 - "such a young Child" redundant: "still only a {s:00BD}, yet you defeated..."
-- [ ] b012 scen060.0229 - "rightful" added: "The one who rules you."
+- [x] b010 scen041.0019 - 子供会 sign: "--Grancil {s:00BD} Club--" (fixed session 20, batch s20fix)
+- [x] b011 scen041.0153 - "how many {s:00F5}" (singular Monster): "how many {s:00F5} fights I win" (fixed session 20, batch s20fix)
+- [x] b011 scen053.0078 - "foster parents" plural added: check scene, maybe singular (fixed session 20, batch s20fix)
+- [x] b011 scen049.0058 - JP ends doubtful "?": "...we haven't searched the mansion yet, have we?" (waived: the line matches its own JP (note pointed at another line))
+- [x] b012 scen060.0185 - "such a young Child" redundant: "still only a {s:00BD}, yet you defeated..." (fixed session 20, batch s20fix)
+- [x] b012 scen060.0229 - "rightful" added: "The one who rules you." (fixed session 20, batch s20fix)
 - [x] b012 scen061.0059 - 私め humble lost: "Please, leave this humble servant to it." (fixed session 10, p001)
-- [ ] b012 scen060.0273 - {s:00EA} "my Subordinate" singular: check the drawn word
-- [ ] b001 boot.skills.0097/0098 - "Hit Stun" vs PS1 skill text "stagger": align
-- [ ] b002 scen001.0075 - "Ber......" = Berger half-said (correct); trim the six-dot run
+- [x] b012 scen060.0273 - {s:00EA} "my Subordinate" singular: check the drawn word (waived: noun drawn from the names table, rendered capitalised by the game (translator-brief: build the sentence around it, no plural s))
+- [x] b001 boot.skills.0097/0098 - "Hit Stun" vs PS1 skill text "stagger": align (fixed session 20, batch s20fix)
+- [x] b002 scen001.0075 - "Ber......" = Berger half-said (correct); trim the six-dot run (fixed session 20, batch s20fix)
 - [x] b002 scen001.0100 - flustered denial weak: "I do NOT have no sense of direction." (fixed session 10, p001)
 - [x] b002 scen001.0091 - Tippi bland: "Hey! No lying to her, you dummy!" (fixed session 10, p001)
-- [ ] b002 msys.items.0279 - JP says 指輪 (ring) for 腕輪 item; EN follows the item name (bracelet): confirm
-- [ ] b002 msys.items.0108 - 重槍 "heavy spear" vs 0107 "heavy lance": align
-- [ ] b003 scen002.0040 - "Welcome!" added: "Lady {s:014B}!"
-- [ ] b003 scen002.0158 - "I hear" shifts meaning: "Looks like you came to visit {s:0007}. Thanks for that."
-- [ ] b003 scen003.0227 - "gratefully" lost
+- [x] b002 msys.items.0279 - JP says 指輪 (ring) for 腕輪 item; EN follows the item name (bracelet): confirm (waived: English follows the item name 腕輪 (bracelet); 指輪 in the JP description is an original slip)
+- [x] b002 msys.items.0108 - 重槍 "heavy spear" vs 0107 "heavy lance": align (fixed session 20, batch s20fix)
+- [x] b003 scen002.0040 - "Welcome!" added: "Lady {s:014B}!" (fixed session 20, batch s20fix)
+- [x] b003 scen002.0158 - "I hear" shifts meaning: "Looks like you came to visit {s:0007}. Thanks for that." (fixed session 20, batch s20fix)
+- [x] b003 scen003.0227 - "gratefully" lost (fixed session 20, batch s20fix)
 - [x] b003 scen003.0232 - Tippi plain: "Well then, guess we should get going too, huh?" (fixed session 10, p001)
-- [ ] b003 scen006.0113 - muddled clause: "The very Gevel said to have wiped out humanity...?"
-- [ ] b004 scen010.0093 - "Once I obtain Grosh, my former power will return."
-- [ ] b004 scen011.0061 - 時空分離計画: "space-time separation plan"
+- [x] b003 scen006.0113 - muddled clause: "The very Gevel said to have wiped out humanity...?" (fixed session 20, batch s20fix)
+- [x] b004 scen010.0093 - "Once I obtain Grosh, my former power will return." (fixed session 20, batch s20fix)
+- [x] b004 scen011.0061 - 時空分離計画: "space-time separation plan" (fixed session 20, batch s20fix)
 - [x] b004 scen011.0227 - stretched whine lost: "...end up all the way outsiiide?!" (fixed session 10, p001)
 - [x] b004 scen011.0226 - "Yeah, riiight...! *twitch, twitch, twitch*" (fixed session 10, p001)
-- [ ] b005 scen011.0260 - 8 dots: "...{v:0036}Heh. Same as ever."
+- [x] b005 scen011.0260 - 8 dots: "...{v:0036}Heh. Same as ever." (fixed session 20, batch s20fix)
 - [x] b005 scen011.0271 - Richard fluster lost: "I-idiot, stop with the stiff formalities..." (fixed session 10, p001)
-- [ ] b005 scen011.0285 - choice そうだね = agree: "・You're right"
-- [ ] b005 scen018.0142 - 新肉城 debug label: "New Flesh Castle"
-- [ ] b006 scen018.0450 - V04 鬼の抜け跡 "shed skin" guess: "The demon's traces"
-- [ ] b007 scen028.0002/0003 - name tags: "Directionless Woman" / "Faceblind Woman" (144 px)
+- [x] b005 scen011.0285 - choice そうだね = agree: "・You're right" (fixed session 20, batch s20fix)
+- [x] b005 scen018.0142 - 新肉城 debug label: "New Flesh Castle" (waived: debug menu label)
+- [x] b006 scen018.0450 - V04 鬼の抜け跡 "shed skin" guess: "The demon's traces" (waived: debug menu label)
+- [x] b007 scen028.0002/0003 - name tags: "Directionless Woman" / "Faceblind Woman" (144 px) (waived: current tags (Lost Woman / Face-Forgetting Woman) fit and read fine)
 - [x] b007 scen028.0217 - Misha ガーン weak: "Gaaah..." (fixed session 10, p001)
-- [ ] b007 scen025.0043 - Wallace unclear subject: "It may be sad, but right now I'm worried about Luise."
-- [ ] b008 scen032.0206 - jammer pun: "That thing's a real jammer on my research!"
-- [ ] b008 scen039.0153 - "next" added: "Then I'll write that in a letter..."
-- [ ] b021 scen157.0128 - "Ah, We" capital mid-sentence: "Ah. We are counting on you."
-- [ ] b021 scen157.0165 - "of course" added: "Wenzel, then..."
+- [x] b007 scen025.0043 - Wallace unclear subject: "It may be sad, but right now I'm worried about Luise." (fixed session 20, batch s20fix)
+- [x] b008 scen032.0206 - jammer pun: "That thing's a real jammer on my research!" (waived: pun kept as 'jamming up my research')
+- [x] b008 scen039.0153 - "next" added: "Then I'll write that in a letter..." (fixed session 20, batch s20fix)
+- [x] b021 scen157.0128 - "Ah, We" capital mid-sentence: "Ah. We are counting on you." (fixed session 20, batch s20fix)
+- [x] b021 scen157.0165 - "of course" added: "Wenzel, then..." (fixed session 20, batch s20fix)
 - [x] b021 scen157.0183 - curt: "Well, hello there. You always seem so busy." (fixed session 10, p001)
-- [ ] b022 scen158.0053 - "If you can manage it, would you go and check on Boulogne Village too?"
-- [ ] b023 scen161.0053 - "Nothing but bad things happening lately, eh..."
-- [ ] b023 scen161.0109/0111 - そうよね = agreement: "I suppose you're right... It's too much to ask..."
-- [ ] b025 scen162.0232 - お兄さまたち plural: "...fall behind you and the others, Big Brother!"
-- [ ] b025 scen162.0173 - "Mister Mana Line Engineer" clunky
-- [ ] b026 scen163.0141/0147 - "it's you all" awkward: "it's you folks"
-- [ ] b026 scen163.0142 - "I'll leave your end to you!"
+- [x] b022 scen158.0053 - "If you can manage it, would you go and check on Boulogne Village too?" (fixed session 20, batch s20fix)
+- [x] b023 scen161.0053 - "Nothing but bad things happening lately, eh..." (fixed session 20, batch s20fix)
+- [x] b023 scen161.0109/0111 - そうよね = agreement: "I suppose you're right... It's too much to ask..." (fixed session 20, batch s20fix)
+- [x] b025 scen162.0232 - お兄さまたち plural: "...fall behind you and the others, Big Brother!" (fixed session 20, batch s20fix)
+- [x] b025 scen162.0173 - "Mister Mana Line Engineer" clunky (fixed session 20, batch s20fix)
+- [x] b026 scen163.0141/0147 - "it's you all" awkward: "it's you folks" (fixed session 20, batch s20fix)
+- [x] b026 scen163.0142 - "I'll leave your end to you!" (fixed session 20, batch s20fix)
 - [x] b027 scen163.0297 - Richard casual: "Ah, got it." (fixed session 10, p001)
-- [ ] b027 scen163.0298 - "This is life-or-death important. Make sure she checks it properly."
+- [x] b027 scen163.0298 - "This is life-or-death important. Make sure she checks it properly." (fixed session 20, batch s20fix)
 - [x] b027 scen163.0241 - Tippi: "We got the Antimagic Ore!" (fixed session 10, p001)
-- [ ] b028 scen164.0041 - "Big Brother, everyone, hurry on to the other places!"
-- [ ] b029 scen166.0010 - "Captain" -> lowercase "the captain" as PS1 (Berger)
-- [ ] b029 scen166.0016 - "So that my old man's death won't be for nothing, I'll protect everyone my own way!"
-- [ ] b029 scen167.0017 - "Xenos-san?!"
-- [ ] b030 scen168.0012 - scold aimed at hero: "Hey, what are you doing in Comsprings?!..."
-- [ ] b030 scen168.0023 - "There's an unpleasant feeling in the air..."
-- [ ] b030 scen168.0013 - "Awful weather today..."
-- [ ] b031/b032 scen169.0099, scen170.0022, scen171.0022, scen172.0008 - 一度 "once" -> "for now"
-- [ ] b031 scen169.0093 - "Location-wise" calque: "Going by location..."
+- [x] b028 scen164.0041 - "Big Brother, everyone, hurry on to the other places!" (fixed session 20, batch s20fix)
+- [x] b029 scen166.0010 - "Captain" -> lowercase "the captain" as PS1 (Berger) (fixed session 20, batch s20fix)
+- [x] b029 scen166.0016 - "So that my old man's death won't be for nothing, I'll protect everyone my own way!" (fixed session 20, batch s20fix)
+- [x] b029 scen167.0017 - "Xenos-san?!" (fixed session 20, batch s20fix)
+- [x] b030 scen168.0012 - scold aimed at hero: "Hey, what are you doing in Comsprings?!..." (fixed session 20, batch s20fix)
+- [x] b030 scen168.0023 - "There's an unpleasant feeling in the air..." (fixed session 20, batch s20fix)
+- [x] b030 scen168.0013 - "Awful weather today..." (fixed session 20, batch s20fix)
+- [x] b031/b032 scen169.0099, scen170.0022, scen171.0022, scen172.0008 - 一度 "once" -> "for now" (fixed session 20, batch s20fix)
+- [x] b031 scen169.0093 - "Location-wise" calque: "Going by location..." (fixed session 20, batch s20fix)
 - [x] b031 scen169.0104 - Justin's blame (せい) flat: "So it was you who kept... from being destroyed..." (fixed session 10, p001)
-- [ ] b032 scen171.0051 - "Are there going to be even more disasters?!"
-- [ ] b017/b018 {s:014F}様 (Angela) / {s:0151}様 (Reeves) - 様 dropped: "Lady {s:014F}" / "Lord {s:0151}" (scen100.0053/0072/0073/0076/0080/0081/0093/0126/0137/0140/0141/0215/0220/0221/0231/0232/0233/0238/0272)
+- [x] b032 scen171.0051 - "Are there going to be even more disasters?!" (fixed session 20, batch s20fix)
+- [x] b017/b018 {s:014F}様 (Angela) / {s:0151}様 (Reeves) - 様 dropped: "Lady {s:014F}" / "Lord {s:0151}" (scen100.0053/0072/0073/0076/0080/0081/0093/0126/0137/0140/0141/0215/0220/0221/0231/0232/0233/0238/0272) (waived: D17 (様 after a name variable dropped, as the PS1 translation does))
 - [x] b017 scen092.0143 - Luise shy: "...Uuu... ...Okay, I understand..." (fixed session 10, p001)
-- [ ] b017 scen092.0222 - pushback question: "But these people are humans too, just like those men, aren't they?"
-- [ ] b018 scen100.0183/0185 - "I have seen {s:0020} there several times."
-- [ ] b018 scen100.0089 - "I'd never forget that voice. So it's you, {s:0020}..."
-- [ ] b018 scen100.0195 - "my {s:00EA}" -> "the {s:00EA}"
-- [ ] b019 scen155.0201 - 俺街 = MY CITY mode: "...the theater in MY CITY."
+- [x] b017 scen092.0222 - pushback question: "But these people are humans too, just like those men, aren't they?" (fixed session 20, batch s20fix)
+- [x] b018 scen100.0183/0185 - "I have seen {s:0020} there several times." (waived: a name variable the JP lacks fails the control-code lint; 'him' is clear in context)
+- [x] b018 scen100.0089 - "I'd never forget that voice. So it's you, {s:0020}..." (fixed session 20, batch s20fix)
+- [x] b018 scen100.0195 - "my {s:00EA}" -> "the {s:00EA}" (waived: noun drawn from the names table, rendered capitalised by the game (translator-brief: build the sentence around it, no plural s))
+- [x] b019 scen155.0201 - 俺街 = MY CITY mode: "...the theater in MY CITY." (waived: hint line; 'your town' reads fine (no glossary term for 俺街))
 - [x] b019 scen156.0166 - child's お兄ちゃん: "Hey, Big Brother, come play with me!..." (fixed session 10, p001)
-- [ ] b019 scen156.0146 - "do rest at the shop to prepare for danger"
+- [x] b019 scen156.0146 - "do rest at the shop to prepare for danger" (fixed session 20, batch s20fix)
 - [x] b019 scen156.0035 - Tippi tame: "Honestly, you're sooo slow! Fine, I'll find a spot for you." (fixed session 10, p001)
-- [ ] b020 scen157.0070 - added vulgarity: "That's not the question. How would anyone even confirm...?"
-- [ ] b020 scen156.0189 - singular: "Due to the Darkfall incident..."
-- [ ] b020 scen157.0031 - "Then let's get started. Show us the way."
+- [x] b020 scen157.0070 - added vulgarity: "That's not the question. How would anyone even confirm...?" (fixed session 20, batch s20fix)
+- [x] b020 scen156.0189 - singular: "Due to the Darkfall incident..." (fixed session 20, batch s20fix)
+- [x] b020 scen157.0031 - "Then let's get started. Show us the way." (fixed session 20, batch s20fix)
 - [x] b020 scen157.0047 - Wenzel old-man cadence: "...Weren't you going to take me out of here, eh?" (fixed session 10, p001)
 - [x] b033 scen172.0019 - Tippi-ish: "We did it! Crisis averted!..." (fixed session 10, p001)
-- [ ] b033 scen172.0029 - "toe-tal" not in JP: "Is this a 'total eclipse'?" (optional)
-- [ ] b033 scen174.0040 - 気を遣わせてしまった: "It seems I've made you go out of your way for me."
-- [ ] b033 scen174.0045 - "Good luck out there. I'm counting on you."
+- [x] b033 scen172.0029 - "toe-tal" not in JP: "Is this a 'total eclipse'?" (optional) (waived: optional, current line reads fine)
+- [x] b033 scen174.0040 - 気を遣わせてしまった: "It seems I've made you go out of your way for me." (fixed session 20, batch s20fix)
+- [x] b033 scen174.0045 - "Good luck out there. I'm counting on you." (fixed session 20, batch s20fix)
 - [x] ALL - spelling: American throughout (rumors, favored, traveling): sweep British forms (b034 scen174.0080, scen175.0017, scen175.0141) (fixed session 10, p001)
-- [ ] b034 scen175.0012/0018/0026/0028/0031 - Ernest's {s:000A}様: "Lord {s:000A}"
-- [ ] b035 scen175.0089 - "I won't allow even one more victim!"
-- [ ] b035 scen175.0056 - repeated thanks: "It's thanks to you. I'm grateful."
-- [ ] b035 scen175.0118 - "the standby room for {s:005C}s"? ({s:} + s not allowed; reword)
-- [ ] b036 scen175.0173/0177 - {s:0003}先輩: "Senior {s:0003}" (optional)
-- [ ] b036 scen175.0194 - ゲヴェル様: "Lord {s:0119}"
-- [ ] b036 scen175.0159/0161 - Dunkels singular/plural mixed: plural
-- [ ] b036 scen176.0031 - "We shall reply soon. Until then, you may wait."
+- [x] b034 scen175.0012/0018/0026/0028/0031 - Ernest's {s:000A}様: "Lord {s:000A}" (waived: D17 (様 after a name variable dropped, as the PS1 translation does))
+- [x] b035 scen175.0089 - "I won't allow even one more victim!" (fixed session 20, batch s20fix)
+- [x] b035 scen175.0056 - repeated thanks: "It's thanks to you. I'm grateful." (fixed session 20, batch s20fix)
+- [x] b035 scen175.0118 - "the standby room for {s:005C}s"? ({s:} + s not allowed; reword) (waived: noun drawn from the names table, rendered capitalised by the game (translator-brief: build the sentence around it, no plural s))
+- [x] b036 scen175.0173/0177 - {s:0003}先輩: "Senior {s:0003}" (optional) (waived: optional, current line reads fine)
+- [x] b036 scen175.0194 - ゲヴェル様: "Lord {s:0119}" (waived: D17 (様 after a name variable dropped, as the PS1 translation does))
+- [x] b036 scen175.0159/0161 - Dunkels singular/plural mixed: plural (fixed session 20, batch s20fix)
+- [x] b036 scen176.0031 - "We shall reply soon. Until then, you may wait." (fixed session 20, batch s20fix)
 - [x] b037 scen176.0140 - Tippi clumsy: "No way! We're the ones who owe him way more..." (fixed session 10, p001)
-- [ ] b037 scen176.0094 - "It seems a great darkness has begun to fall on the continent again."
-- [ ] b038 scen176.0184/0253 - dot runs: "..." per PS1
+- [x] b037 scen176.0094 - "It seems a great darkness has begun to fall on the continent again." (fixed session 20, batch s20fix)
+- [x] b038 scen176.0184/0253 - dot runs: "..." per PS1 (fixed session 20, batch s20fix)
 - [x] b038 scen176.0221 - Justin stilted: "Quite beautiful, really." (fixed session 10, p001)
 - [x] b038 scen176.0235 - villain tone: "Then you'll just have to die side by side with the humans of this world!" (fixed session 10, p001)
 - [x] b038 scen176.0240 - old man garbled: "Right?! Right?! A mana collection pillar to amaze even the Featherians, eh?!" (fixed session 10, p001)
 - [x] b039 scen177.0012 - Wallace sly ほほぅ: "...Oh ho. Then now that we're here, the truce is over, right?" (fixed session 10, p001)
-- [ ] b039 scen177.0018 - ついでだから: "While I'm at it, I'll tell you a little."
-- [ ] b039 scen177.0042 - choice: "・I feel awful"
+- [x] b039 scen177.0018 - ついでだから: "While I'm at it, I'll tell you a little." (fixed session 20, batch s20fix)
+- [x] b039 scen177.0042 - choice: "・I feel awful" (fixed session 20, batch s20fix)
 - [x] b040 scen178.0007 - Wenzel swagger: "Well? Glad you brought me along, eh?" (fixed session 10, p001)
-- [ ] b041 scen179.0116 - cut off: "What... are you doing...?"
-- [ ] b050? scen188.0058 - "{s:FFED}波" (alpha waves?): check the drawn word in game (phase 8)
-- [ ] b055/b056 scen290.0010-0021 - Justin's telepathic lines lose the JP per-line indent after re-wrap: check in visual QA
-- [ ] b064 scen332.0010 - "greedy pig" adds the pig (optional)
-- [ ] b064 scen332.0063/0066 - スパルタ: "Spartan" (check fit)
+- [x] b041 scen179.0116 - cut off: "What... are you doing...?" (fixed session 20, batch s20fix)
+- [x] b050? scen188.0058 - "{s:FFED}波" (alpha waves?): check the drawn word in game (phase 8) (waived: {s:FFED} is a runtime party-member name variable, as in the JP)
+- [x] b055/b056 scen290.0010-0021 - Justin's telepathic lines lose the JP per-line indent after re-wrap: check in visual QA (waived: the indents are layout; the tour sheets passed visual QA on a38240ae)
+- [x] b064 scen332.0010 - "greedy pig" adds the pig (optional) (waived: optional, current line reads fine)
+- [x] b064 scen332.0063/0066 - スパルタ: "Spartan" (check fit) (waived: 'strict lesson' carries スパルタ)
 - [x] b064 scen332.0080 - repeated "slip up": "...I'm scared I'll just keep messing up instead~..." (fixed session 10, p001)
-- [ ] b065 scen333.0024 - 他山の石: "polish one's jade" (optional)
+- [x] b065 scen333.0024 - 他山の石: "polish one's jade" (optional) (waived: optional, current line reads fine)
 - [x] b066 scen333.0091 - flustered stammer: "T-True..." (fixed session 10, p001)
-- [ ] b067 scen333.0118 - "a wonderful person of more than ample ability."
+- [x] b067 scen333.0118 - "a wonderful person of more than ample ability." (fixed session 20, batch s20fix)
 - [x] b048 scen186.0034 - Wallace gruff: "So you're saying we just gather the falling darkness into the mana collection pillars, like a lightning rod." (fixed session 10, p001)
-- [ ] b048 scen186.0066 - "Go and get the Professor's explanation right away."
-- [ ] b048 scen186.0072 - garbled: "There's no telling how a large-scale spell like Teleport might disrupt..."
-- [ ] b049 scen186.0145 - Ariost: "I'm leaving the setup of the mana collection pillars to you."
-- [ ] b049 scen186.0173 - "flying apparatus" (PS1 term)
+- [x] b048 scen186.0066 - "Go and get the Professor's explanation right away." (fixed session 20, batch s20fix)
+- [x] b048 scen186.0072 - garbled: "There's no telling how a large-scale spell like Teleport might disrupt..." (fixed session 20, batch s20fix)
+- [x] b049 scen186.0145 - Ariost: "I'm leaving the setup of the mana collection pillars to you." (waived: the JP has 集魔柱 (not 携帯), so the glossary wants 'mana collection pillar')
+- [x] b049 scen186.0173 - "flying apparatus" (PS1 term) (fixed session 20, batch s20fix)
 - [x] b049 scen186.0120 - Tippi: "The mana line engineer mister says..." (fixed session 10, p001)
-- [ ] ALL 携帯集魔柱 - capitalised in running text vs lowercase: lowercase in running text, capitalised as item name
+- [x] ALL 携帯集魔柱 - capitalised in running text vs lowercase: lowercase in running text, capitalised as item name (fixed session 20 (s20fix): the long lowercase form of 携帯集魔柱 is now 'Portable Mana Pillar'; 携帯型の集魔柱 keeps 'portable mana collection pillar' (glossary))
 - [x] b050 scen186.0257 - Tippi flat (fixed session 10, p001)
-- [ ] b051 scen186.0307 - "Huh? What's strange?"
+- [x] b051 scen186.0307 - "Huh? What's strange?" (fixed session 20, batch s20fix)
 - [x] b051 scen186.0302 - old man: "Good work, all of you, eh?" (fixed session 10, p001)
-- [ ] b052 scen187.0056 - "two-time reigning Fairy Contest champion"
-- [ ] b052 scen187.0048 - "I hope we can get to know each other."
-- [ ] b052 scen187.0073 - "our fairies are a colorful bunch"
-- [ ] b052 scen187.0063 - six dots: "・..."
-- [ ] b053 scen273.0004 - item name capitalised: 'Healing Potion'
-- [ ] b053 scen248.0005 - tag question: "You didn't do anything wrong, did you?"
+- [x] b052 scen187.0056 - "two-time reigning Fairy Contest champion" (fixed session 20, batch s20fix)
+- [x] b052 scen187.0048 - "I hope we can get to know each other." (fixed session 20, batch s20fix)
+- [x] b052 scen187.0073 - "our fairies are a colorful bunch" (fixed session 20, batch s20fix)
+- [x] b052 scen187.0063 - six dots: "・..." (fixed session 20, batch s20fix)
+- [x] b053 scen273.0004 - item name capitalised: 'Healing Potion' (waived: the glossary term is lowercase 'healing potion')
+- [x] b053 scen248.0005 - tag question: "You didn't do anything wrong, did you?" (fixed session 20, batch s20fix)
 - [x] b053 scen195.0109 - old man: "Could you give me two days or so, eh?" (fixed session 10, p001)
-- [ ] b054 scen284.0003 - "Keep Gevel away from the citizens!"
-- [ ] b060 scen329.0104 - "it could even go in soup..."
-- [ ] b062 scen330.0093 - "It's odd to say so myself, but..."
-- [ ] b055 scen290.0025 - "This time, we'll keep it from getting destroyed!"
-- [ ] b055 scen291.0003 - "I'll charge into the site!"
+- [x] b054 scen284.0003 - "Keep Gevel away from the citizens!" (fixed session 20, batch s20fix)
+- [x] b060 scen329.0104 - "it could even go in soup..." (fixed session 20, batch s20fix)
+- [x] b062 scen330.0093 - "It's odd to say so myself, but..." (fixed session 20, batch s20fix)
+- [x] b055 scen290.0025 - "This time, we'll keep it from getting destroyed!" (fixed session 20, batch s20fix)
+- [x] b055 scen291.0003 - "I'll charge into the site!" (fixed session 20, batch s20fix)
 - [x] b055 scen291.0021 - swagger ぜ: "...right to the very last second, you know!" (fixed session 10, p001)
-- [ ] b055 scen291.0023 - 確か dropped: "...I think it's... a Gev!"
-- [ ] b056 scen325.0028 - 元気のない = listless, not sick
-- [ ] b056 scen325.0022 - "if that's your answer, I can't judge anything."
-- [ ] b057 scen325.0162 - comma splice
+- [x] b055 scen291.0023 - 確か dropped: "...I think it's... a Gev!" (fixed session 20, batch s20fix)
+- [x] b056 scen325.0028 - 元気のない = listless, not sick (fixed session 20, batch s20fix)
+- [x] b056 scen325.0022 - "if that's your answer, I can't judge anything." (fixed session 20, batch s20fix)
+- [x] b057 scen325.0162 - comma splice (fixed session 20, batch s20fix)
 - [x] b058 scen327.0021 - "Ugh" reads as disgust: "Oh, he's the best!..." (fixed session 10, p001)
 - [x] b058 scen327.0056 - archaic "I know not": "Though I don't know what he thinks of me..." (fixed session 10, p001)
-- [ ] b058 scen326.0021 - "...So much has happened, truly."
+- [x] b058 scen326.0021 - "...So much has happened, truly." (fixed session 20, batch s20fix)
 - [x] b059 scen329.0010 - garbled: "Ehehe, same as Lamie! That makes me happyyy." (fixed session 10, p001)
-- [ ] b059 scen329.0006 - 『』 -> single quotes: 'peace.'
-- [ ] b059 scen328.0056 - "close father and son" clumsy
-- [ ] b059 scen328.0081 - まで lost: "if you get hurt too..."
-- [ ] ALL item-list header art reads ACCESORIES (original Atlus art, same in JP): optional redraw as ACCESSORIES (header width permitting)
+- [x] b059 scen329.0006 - 『』 -> single quotes: 'peace.' (fixed session 20, batch s20fix)
+- [x] b059 scen328.0056 - "close father and son" clumsy (fixed session 20, batch s20fix)
+- [x] b059 scen328.0081 - まで lost: "if you get hurt too..." (fixed session 20, batch s20fix)
+- [x] ALL item-list header art reads ACCESORIES (original Atlus art, same in JP): optional redraw as ACCESSORIES (header width permitting) (waived: original Atlus art, the same in the JP)
+
+## Session 20 story pass (work/qa/story/reports, notes.md)
+- [x] ALL noun variables mid-sentence ({s:00C3} Bandit, {s:00BD} Child, {s:00F5} Monster, {s:003C} Patient...) render capitalised - waived: translator-brief rule (the game draws the word; no plural s); worst lines reworded (041.0019, 041.0153, 060.0185)
+- [x] scen001.0075 ellipsis spacing "Ber... ...No" (fixed, s20fix)
+- [x] scen088.0023 sign "Rosaria, Royal Capital of Rolandia" vs "Royal Capital Rosaria" - waived: the glossary wants Rolandia on this sign
+- [x] scen028.0217 / scen029.0195 same JP, two Englishes: both "Gaaah... you're so mean" (fixed, s20fix)
+- [x] scen008.0213 / scen019.0245 same JP, two Englishes: both the 008 line (fixed, s20fix)
+- [x] scen110.0048 剛剣の噂: "Word of Nick's mighty blade..." (fixed, s20fix)
+- [x] scen033.0100 expedition list: "Nicola C., Maxwell J., Prokins A...." (fixed, s20fix)
+- [x] scen010.0259 / scen041.0026 auto-pagination orphaned a word on its own page: shortened (fixed, s20fix)
+- [x] scen160.0060 "boat landing" vs scen021.0171 "boat dock": the 021 line (fixed, s20fix)
+- [x] scen001.0263 dev macro line - waived: debug menu only
+- [x] c17_1: Lamie's third person (329.0019/0049/0064/0099), 329.0108 retort, 187.0073/0056/0048 (fixed, s20fix)
+- [x] c16_2: 161.0109/0111, Dunkels number 162.0025/0032/0034, 162.0150, 162.0092, 163.0346 (fixed, s20fix); 163.0149/0150/0163 pillar forms - waived: 携帯型の集魔柱 / 集魔柱 in the JP, glossary forms kept
+- [x] c16_3: 165.0023/0122/0125/0138/0084, stray "once" 165.0029/169.0099/170.0022/171.0022/172.0008, 166.0016, 167.0015 (fixed, s20fix)
+- [x] c16_4: 186.0165/0167/0228/0235 "in order from the south", Dunkels 186.0036/0337/0340, 186.0145 (fixed, s20fix; 0145 waived above)
+- [x] c16_5: 177.0018, 176.0247, 177.0025, 177.0071, 176.0049, 175.0089, 175.0220, Dunkels 175.0159-0175 (fixed, s20fix)
+- [x] c16_6: 179.0039, 183.0056/0081/0088/0252, 184.0043, 290.0025 (fixed, s20fix)
+- [x] c17_2: 325.0005/0068/0109/0178, 326.0005, 328.0056/0083, 333.0100/0118 (fixed, s20fix); 327.0019/0020 お兄さま - waived: this speaker's お兄さま is "Big Brother" throughout (162.0232, 175.0175)
+- [x] c11: 084.0094/0115/0067/0073/0111, 256.0018, 062.0083/0071 (fixed, s20fix); 084.0092 - waived: the id is a choice line, the Tippi line it meant reads acceptably

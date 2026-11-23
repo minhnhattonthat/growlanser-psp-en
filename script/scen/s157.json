@@ -203,7 +203,7 @@
   {
    "id": "scen157.0031",
    "jp": "{v:0008}それじゃ、早速案内してもらおうか。",
-   "en": "{v:0008}Then let's have you lead the way, right now.",
+   "en": "{v:0008}Then let's get started. Show us the way.",
    "term": "end"
   },
   {
@@ -388,7 +388,7 @@
   {
    "id": "scen157.0061",
    "jp": "{FFF6}{v:0007}さて、どこから話すか‥‥。{p}{FFF7}{v:0008}我々の暮らすこの世界は、本来の世界と、{n}旧世界を重ね合わせることで成り立っているのは{n}知っているな？",
-   "en": "{FFF6}{v:0007}Now, where to begin...{p}{FFF7}{v:0008}You know that this world we live in exists by{n}overlapping the original world with the Old World, do{n}you not?",
+   "en": "{FFF6}{v:0007}Now, where to begin...{p}{FFF7}{v:0008}You know that this world we live in exists by{n}overlapping the world native to this place with the Old{n}World, do you not?",
    "term": "end"
   },
   {
@@ -442,7 +442,7 @@
   {
    "id": "scen157.0070",
    "jp": "{v:0011}どうするじゃねぇだろうが。{n}そもそも、滅びているかいないかなんて、{n}どうやって確認する？",
-   "en": "{v:0011}\"What if,\" my ass. How would anyone even confirm{n}whether it was destroyed or not?",
+   "en": "{v:0011}That's not the question. How would anyone even confirm{n}whether it was destroyed or not?",
    "term": "end"
   },
   {
@@ -800,7 +800,7 @@
   {
    "id": "scen157.0128",
    "jp": "ああ、よろしく頼んだぞ。",
-   "en": "Ah, We are counting on you.",
+   "en": "Ah. We are counting on you.",
    "term": "end"
   },
   {
@@ -1029,7 +1029,7 @@
   {
    "id": "scen157.0165",
    "jp": "{v:001B}ヴェンツェルですね‥‥。",
-   "en": "{v:001B}Wenzel, of course...",
+   "en": "{v:001B}Wenzel, then...",
    "term": "end"
   },
   {

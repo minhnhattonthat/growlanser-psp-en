@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 9. Release in progress (phase 8 done in session 19: every gate green on build a38240ae; see
-  "Session 19" below; next = story pass per chapter, polish.md, release).
+- **Phase:** 9. Release done (session 20): release/Growlanser_PSP_EN_v1.0.zip built and verified by
+  `tools/release.py` (every gate green, build 77cc9485); publishing is the user's call (D8).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -187,15 +187,23 @@ Updated at the end of every session. Keep it to what the next session needs; his
     sheets, 0 missing/not ok/changed. Tour gate `check work/qa/manifest.tsv work/qa/verdicts` 113 sheets exit 0.
     Smoke ok (work/qa/smoke). GL CARDS (P4 OMAKE/1) + binder (P6): still locked in game; using GL Chips from ITEM
     does nothing (docs/re/debug.md "Appendix"); both edits checked in `gfx.py preview` only: accepted gap.
-- **Next (phase 9, release):**
-  1. Story pass per chapter (`references/translation.md` §Review; work/qa/story/manifest.tsv), reading the 43
-     PSP-only scenes against synopsis.md section 6 and correcting it.
-  2. docs/polish.md: every line ticked (incl. 様 -> Lord/Lady ruling into decisions.md first).
-  3. Release script: qa_gate check on every manifest + textcover, jp_left.py, debug off, xdelta, README hashes, zip.
-  4. After any text/code/gfx change: rebuild, re-tour changed screens, `qa_gate init` + verdicts, cover.py rerun.
-  5. Gaps left (non-blocking, never reached in game): shops (handler not found: boot.sys.0169 "Buy & Equip" etc.
+  - **Session 20 (phase 9 done).** Story pass: `tools/story.py` -> 47 chapter files work/qa/story/chapters ('='
+    pair as PS1, '*' new); worker read every '*' line of c01-c15/c18/c19 and c16_1 in full; reviewer subagents read
+    c11, c16_2-6, c17_1-2 whole (work/qa/story/reports/). Verdicts s20_a/s20_b.tsv: 47 ok, `qa_gate check` exit 0.
+    Important fixed: scen084.0081 (Melfie's parents were the team leaders), scen157.0061 ("original world" vs Old
+    World), scen176.0230 (Justin "you lot"). Polish pass: batch work/tl/s20fix (spec s20fix.spec.tsv, 171 lines
+    merged); docs/polish.md 0 open (fixed or waived with reason). D17: 様 after a name var dropped as PS1; drawn
+    common nouns stay capitalised. README filled; docs/release-readme.txt; tools/release.py (PS1 port: build, check,
+    smoke, leftover JP, every qa_gate, textcover, polish, README, debug off, xdelta -B, re-apply, zip) exit 0:
+    zip = xdelta (4876212 B) + README.txt; base SHA-1 db0c5dff..., patched SHA-1 77cc9485f8f3....
+    Not redone after the 171 text edits: tour sheets/coverage (edits are fit-linted by check.py; ids unchanged).
+- **Next (after release):**
+  1. Publishing (repo public, `gh release create`) only when the user asks (D8; pipeline.md §Publish).
+  2. Player bug reports via GitHub issues (AGENTS.md).
+  3. Optional: re-tour the scenes touched by s20fix (s040, s041, s084, s157, s16x-s18x, s325-s333) for a visual check.
+  4. Gaps left (non-blocking, never reached in game): shops (handler not found: boot.sys.0169 "Buy & Equip" etc.
      unmeasured), GL CARDS / binder, other units' max stats, singular qty, UPD.UPD on screen, captions scen010.0114
-     / scen014.0003 (mid-scene), place popup, battle messages, {s:FFED} in scen188.0058.
+     / scen014.0003 (mid-scene), place popup, battle messages.
 - **Open bugs:** Signed EBOOT untested on real hardware (tag 0 instead of the original key).
 - **Waiting on the user:** (non-blocking) face-plate art spelled ELIOTTE/RUISE/RICHART: redrawn to the glossary
   spellings (Elliot, Luise, Richard) per D9 (session 15); say if the original art spellings should stay.

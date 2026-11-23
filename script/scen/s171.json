@@ -154,7 +154,7 @@
   {
    "id": "scen171.0022",
    "jp": "くそっ、判断を誤ったか！{p}情報が足りない。{n}一度、魔法学院に戻って状況を確認しようぜ！",
-   "en": "Damn, did I misjudge it?!{p}We don't have enough information. Let's head back to{n}the Magic Academy once and check on the situation!",
+   "en": "Damn, did I misjudge it?!{p}We don't have enough information. Let's head back to{n}the Magic Academy for now and check on{n}the situation!",
    "term": "end"
   },
   {
@@ -364,7 +364,7 @@
   {
    "id": "scen171.0051",
    "jp": "これ以上、まだ何か災害が起こるの！？",
-   "en": "There's going to be even more disasters?!",
+   "en": "Are there going to be even more disasters?!",
    "term": "end"
   },
   {

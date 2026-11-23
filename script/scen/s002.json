@@ -273,7 +273,7 @@
   {
    "id": "scen002.0040",
    "jp": "これは{s:014B}様！",
-   "en": "Lady {s:014B}! Welcome!",
+   "en": "Why, Lady {s:014B}!",
    "term": "end"
   },
   {
@@ -1092,7 +1092,7 @@
   {
    "id": "scen002.0158",
    "jp": "{v:0054}{s:0007}の見舞いに来てくれたみたいだな。{n}礼を言うよ。",
-   "en": "{v:0054}I hear you came to visit {s:0007}. Thanks{n}for that.",
+   "en": "{v:0054}Looks like you came to visit {s:0007}. Thanks{n}for that.",
    "term": "end"
   },
   {

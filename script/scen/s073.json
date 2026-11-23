@@ -606,7 +606,7 @@
   {
    "id": "scen073.0086",
    "jp": "　{n}　　　　　　携帯集魔柱を設置した！",
-   "en": "　{n}　　　　　　Set up the portable mana{n}collection pillar!",
+   "en": "　{n}　　　　　　Set up the Portable Mana Pillar!",
    "term": "end"
   },
   {
@@ -618,7 +618,7 @@
   {
    "id": "scen073.0088",
    "jp": "　{n}　　　　　携帯集魔柱が設置してある。",
-   "en": "　{n}　　　　　A portable mana collection pillar{n}stands here.",
+   "en": "　{n}　　　　　A Portable Mana Pillar{n}stands here.",
    "term": "end"
   },
   {
@@ -1478,7 +1478,7 @@
   {
    "id": "scen073.0212",
    "jp": "携帯集魔柱も立てられたし、{n}なんとか無事に終わったみたいね。",
-   "en": "The portable mana collection pillar is up, and it looks like{n}it all ended safely somehow.",
+   "en": "The Portable Mana Pillar is up, and it looks like it all{n}ended safely somehow.",
    "term": "end"
   },
   {
@@ -1700,7 +1700,7 @@
   {
    "id": "scen073.0248",
    "jp": "この不気味な闇は、{n}どうすれば晴れるのでしょうか？",
-   "en": "How can we make this eerie darkness clear?",
+   "en": "How do we get rid of this eerie darkness?",
    "term": "end"
   },
   {
@@ -1718,13 +1718,13 @@
   {
    "id": "scen073.0251",
    "jp": "テレポートを唱えてる間に、{n}闇が落ちてきちゃうよ。{n}今は、早く携帯集魔柱から離れよう？",
-   "en": "The darkness will fall while we're still casting Teleport.{n}For now, let's hurry and get away from the portable{n}mana collection pillar, okay?",
+   "en": "The darkness will fall while we're still casting Teleport.{n}For now, let's hurry and get away from the Portable{n}Mana Pillar, okay?",
    "term": "end"
   },
   {
    "id": "scen073.0252",
    "jp": "ダメだよ、お兄ちゃん。{n}急いで携帯集魔柱を立てないと、{n}みんなが危険なんだよ？",
-   "en": "We can't, Big Brother. If we don't hurry and put up the{n}portable mana collection pillar, everyone will be in{n}danger, remember?",
+   "en": "We can't, Big Brother. If we don't hurry and put up the{n}Portable Mana Pillar, everyone will be in{n}danger, remember?",
    "term": "end"
   },
   {

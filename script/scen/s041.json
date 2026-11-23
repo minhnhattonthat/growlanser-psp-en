@@ -139,7 +139,7 @@
   {
    "id": "scen041.0019",
    "jp": "　　{FFEE}{FFEC}街をきれいに！{FFED}{FFF1}{n}　　　　　　　　　　　～グランシル{s:00BD}会～",
-   "en": "　　{FFEE}{FFEC}Keep our town clean!{FFED}{FFF1}{n}--Grancil {s:00BD} Association--",
+   "en": "　　{FFEE}{FFEC}Keep our town clean!{FFED}{FFF1}{n}--Grancil {s:00BD} Club--",
    "term": "end"
   },
   {
@@ -187,7 +187,7 @@
   {
    "id": "scen041.0026",
    "jp": "{v:0018}エキスパートの部は覚えてないが、{n}フレッシュマンの部は確か{s:0160}王国に{n}ある温泉街、{s:015C}への旅行券だったな。{p}{v:0019}ま、それよりも俺は仕官{s:012A}当てだから関係ないけどな。",
-   "en": "{v:0018}I don't remember the Expert division prize, but I think{n}the Freshman prize is a Travel Voucher to{n}{s:015C}, a hot spring town in the Kingdom{p}of {s:0160}.{p}{v:0019}Well, I've got my eye on a military post, so the prize{n}doesn't matter to me.",
+   "en": "{v:0018}I forget the Expert division prize, but the Freshman{n}prize is a Travel Voucher to {s:015C}, a hot{n}spring town in {s:0160}.{p}{v:0019}Well, I've got my eye on a military post, so the prize{n}doesn't matter to me.",
    "term": "end"
   },
   {
@@ -492,7 +492,7 @@
   {
    "id": "scen041.0073",
    "jp": "‥‥{v:000B}ちょっと待ってください。{p}{v:000C}フェザリアンにも、{n}地上に降り立つ権利はあるはずです。{p}{v:0042}それを否定するということは、{n}種族の差別じゃありませんか？",
-   "en": "...{v:000B}Please wait a moment.{p}{v:000C}Featherians should have the right to set foot on the{n}ground, too.{p}{v:0042}Isn't denying them that discrimination against a race?",
+   "en": "...{v:000B}Please wait a moment.{p}{v:000C}Featherians should have the right to set foot on the{n}ground, too.{p}{v:0042}Isn't denying them that racial discrimination?",
    "term": "end"
   },
   {
@@ -1013,7 +1013,7 @@
   {
    "id": "scen041.0153",
    "jp": "ここで売っている武器は、間接攻撃武器が多い。{n}これさえあれば、相手の間合いに入ることなく{n}攻撃することができるのだが‥‥。{p}‥‥‥かなり高価なのが問題だ‥‥。{n}街のそばにいる{s:00F5}じゃ、いくら倒しても{n}ここまで貯まりそうにない‥‥。",
-   "en": "Many of the weapons sold here are ranged weapons.{n}With one of those, I could attack without stepping{n}within my opponent's reach...{p}...The trouble is, they're quite expensive. No matter how{n}many {s:00F5} I defeat near town, I doubt I{n}could save up that much...",
+   "en": "Many of the weapons sold here are ranged weapons.{n}With one of those, I could attack without stepping{n}within my opponent's reach...{p}...The trouble is, they're quite expensive. No matter how{n}many {s:00F5} fights I win near town, I{n}doubt I could save up that much...",
    "term": "end"
   },
   {

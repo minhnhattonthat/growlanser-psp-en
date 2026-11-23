@@ -216,7 +216,7 @@
   {
    "id": "scen186.0033",
    "jp": "集魔柱を利用するのよ。{p}集魔柱は大気中のグローシュを集めてるけど、{n}この波動をデュンケルスにあわせれば、{n}闇を集められるようになるわ。{p}携帯型の集魔柱を作成してもらって、{n}闇落としの危険が迫ってる場所から順に、{n}私たちが立てに行くのよ。{p}闇落としのターゲットになってるポイントは{n}こまめに教授に確認しに来る必要があるけど、{n}それ以外に方法はないわ。",
-   "en": "We use mana collection pillars.{p}A mana collection pillar gathers Grosh from the{n}atmosphere, but if we tune its wave to the Dunkels,{n}it'll be able to gather darkness instead.{p}We'll have portable mana collection pillars made, then go{n}set them up ourselves, starting with the places{n}closest to a Darkfall.{p}We'll have to keep coming back to check with the{n}Professor on which points the Darkfall is targeting, but{n}there's no other way.",
+   "en": "We use mana collection pillars.{p}A mana collection pillar gathers Grosh from the{n}atmosphere, but if we tune its wave to the Dunkels,{n}it'll be able to gather darkness instead.{p}We'll have Portable Mana Pillars made, then go set them{n}up ourselves, starting with the places closest to{n}a Darkfall.{p}We'll have to keep coming back to check with the{n}Professor on which points the Darkfall is targeting, but{n}there's no other way.",
    "term": "end"
   },
   {
@@ -234,7 +234,7 @@
   {
    "id": "scen186.0036",
    "jp": "闇であるデュンケルスは、{n}光であるグローシュと相殺して消えるわ。{p}{FC07}つまり、落ちてきた闇は、{n}周囲に立っている送魔線に集まっているグローシュで{n}ひとまず対処できるはずよ。",
-   "en": "The Dunkels, which is darkness, cancels out against the{n}Grosh, which is light, and vanishes.{p}{FC07}In other words, the falling darkness should be{n}manageable, at least for now, with the Grosh gathered{n}in the mana lines standing all around.",
+   "en": "Dunkels, which are darkness, cancel out against Grosh,{n}which is light, and vanish.{p}{FC07}In other words, the falling darkness should be{n}manageable, at least for now, with the Grosh gathered{n}in the mana lines standing all around.",
    "term": "end"
   },
   {
@@ -252,7 +252,7 @@
   {
    "id": "scen186.0039",
    "jp": "闇落としされる前に携帯集魔柱を立てれば、{n}みんなをデュンケルスから守れるんだね！？",
-   "en": "So if we set up portable mana collection pillars before{n}the Darkfall hits, we can protect everyone from{n}the Dunkels?!",
+   "en": "So if we set up Portable Mana Pillars before the{n}Darkfall hits, we can protect everyone from{n}the Dunkels?!",
    "term": "end"
   },
   {
@@ -432,13 +432,13 @@
   {
    "id": "scen186.0065",
    "jp": "恐らく、この魔法学院も襲撃対象だろう。{n}学生たちを守るためにも、{n}ここにも携帯集魔柱を立てておかんとな‥‥。",
-   "en": "This Magic Academy is probably a target too. To{n}protect the students, we'll have to set up a portable{n}mana collection pillar here as well...",
+   "en": "This Magic Academy is probably a target too. To{n}protect the students, we'll have to set up a Portable{n}Mana Pillar here as well...",
    "term": "end"
   },
   {
    "id": "scen186.0066",
    "jp": "応援に駆けつけてくれた皆のおかげで、{n}各地に携帯集魔柱が設置できるな。{p}次に闇が落とされるポイントは、{n}既に割り出してあるそうだ。{n}すぐに教授から説明を聞いてくれ。",
-   "en": "Thanks to everyone who rushed here to help, we can{n}set up portable mana collection pillars all over the land.{p}I hear they've already worked out where the darkness{n}will fall next. Go hear the Professor's explanation{n}right away.",
+   "en": "Thanks to everyone who rushed here to help, we can{n}set up Portable Mana Pillars all over the land.{p}I hear they've already worked out where the darkness{n}will fall next. Go and get the Professor's explanation{n}right away.",
    "term": "end"
   },
   {
@@ -474,7 +474,7 @@
   {
    "id": "scen186.0072",
    "jp": "それと、今回の非常事態は抜けたようだから、{n}学院内でのテレポートの使用は{n}従来通り禁止とさせてもらうよ。{p}テレポートのような大きな魔法は、{n}魔法学院の研究にどのような支障をきたすか{n}分からないからね。",
-   "en": "Also, since it seems we're through the current{n}emergency, I'm afraid the use of Teleport inside the{n}Academy will be forbidden once more, as before.{p}There's no telling how powerful magic like Teleport{n}might interfere with the Magic Academy's research.",
+   "en": "Also, since it seems we're through the current{n}emergency, I'm afraid the use of Teleport inside the{n}Academy will be forbidden once more, as before.{p}There's no telling how a large-scale spell like Teleport{n}might disrupt the Magic Academy's research.",
    "term": "end"
   },
   {
@@ -762,7 +762,7 @@
   {
    "id": "scen186.0120",
    "jp": "送魔線技師のおじちゃん、{n}携帯型の集魔柱を作ってくれるって！{p}アリオストさんも製作に取りかかってくれたから、{n}あとはアタシ達で場所を特定するだけだよ！",
-   "en": "The mana line engineer mister says he'll make portable{n}mana collection pillars for us!{p}And Ariost-san's started building them too, so all we{n}have to do is pin down the locations!",
+   "en": "The old mana line engineer says he'll make portable mana{n}collection pillars for us!{p}And Ariost-san's started building them too, so all we{n}have to do is pin down the locations!",
    "term": "end"
   },
   {
@@ -1035,7 +1035,7 @@
   {
    "id": "scen186.0165",
    "jp": "南から順に、{FE14}クレイン村、{FE14}コムスプリングス、{n}{FE14}ヴァルミエ、{FE14}シュッツベルグだね。",
-   "en": "From south to north, it's {FE14}Crane Village, {FE14}Comsprings,{n}{FE14}Valmier, {FE14}and Schutzberg.",
+   "en": "In order from the south, it's {FE14}Crane Village,{n}{FE14}Comsprings, {FE14}Valmier, {FE14}and Schutzberg.",
    "term": "end"
   },
   {
@@ -1047,7 +1047,7 @@
   {
    "id": "scen186.0167",
    "jp": "南から順に、クレイン村、コムスプリングス、{n}ヴァルミエ、シュッツベルグだね。",
-   "en": "From south to north, it's Crane Village, Comsprings,{n}Valmier, and Schutzberg.",
+   "en": "In order from the south, it's Crane Village, Comsprings,{n}Valmier, and Schutzberg.",
    "term": "end"
   },
   {
@@ -1083,7 +1083,7 @@
   {
    "id": "scen186.0173",
    "jp": "・アリオストの飛行装置を使う",
-   "en": "・Use Ariost's flying device",
+   "en": "・Use Ariost's flying apparatus",
    "term": "end",
    "unref": true
   },
@@ -1419,7 +1419,7 @@
   {
    "id": "scen186.0228",
    "jp": "ええと、南から順に‥‥{n}{FFFB}ランザック王都、{FE14}ガラシールズ、{FE14}ラージン砦だね。",
-   "en": "Um, from south to north... {FFFB}it's the Ranzak Royal Capital,{n}{FE14}Galashiels, {FE14}and Fort Rajin.",
+   "en": "Um, in order from the south... {FFFB}it's the Ranzak Royal{n}Capital, {FE14}Galashiels, {FE14}and Fort Rajin.",
    "term": "end"
   },
   {
@@ -1461,7 +1461,7 @@
   {
    "id": "scen186.0235",
    "jp": "南から順に、{n}{FE14}ランザック王都、{FE14}ガラシールズ、{FE14}ラージン砦だね。",
-   "en": "From south to north, {FE14}it's the Ranzak Royal Capital,{n}{FE14}Galashiels, {FE14}and Fort Rajin.",
+   "en": "In order from the south, {FE14}it's the Ranzak Royal Capital,{n}{FE14}Galashiels, {FE14}and Fort Rajin.",
    "term": "end"
   },
   {
@@ -1897,7 +1897,7 @@
   {
    "id": "scen186.0307",
    "jp": "えっ、何が？",
-   "en": "Huh? What is?",
+   "en": "Huh? What's strange?",
    "term": "end"
   },
   {
@@ -2081,7 +2081,7 @@
   {
    "id": "scen186.0337",
    "jp": "そうじゃな‥‥。{p}デュンケルスを携帯集魔柱に落としても、{n}相殺するためのグローシュがなければ話にならん。",
-   "en": "Aye, that's so...{p}Even if the Dunkels falls onto a Portable Mana Pillar,{n}it's no good without Grosh to cancel it out.",
+   "en": "Aye, that's so...{p}Even if the Dunkels fall onto a Portable Mana Pillar, it's{n}no good without Grosh to cancel them out.",
    "term": "end"
   },
   {
@@ -2099,7 +2099,7 @@
   {
    "id": "scen186.0340",
    "jp": "ワシが携帯集魔柱のチャンネルをいじって、{n}地上に設置されているグローシュ用の集魔柱に{n}つながるようにしよう！{p}そうすれば、携帯集魔柱に落ちてきた{n}デュンケルスはそのまま地上へ転送され、{n}グローシュによって相殺されるのじゃ！",
-   "en": "I'll tinker with the Portable Mana Pillars' channel so{n}they connect to the Grosh mana collection pillars set up{n}on the ground!{p}That way, any Dunkels that falls onto a Portable Mana{n}Pillar gets sent straight down to the ground and{n}cancelled out by the Grosh!",
+   "en": "I'll tinker with the Portable Mana Pillars' channel so{n}they connect to the Grosh mana collection pillars set up{n}on the ground!{p}That way, any Dunkels that fall onto a Portable Mana{n}Pillar get sent straight down to the ground and{n}cancelled out by the Grosh!",
    "term": "end"
   },
   {

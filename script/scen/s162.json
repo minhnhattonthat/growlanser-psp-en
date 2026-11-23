@@ -167,7 +167,7 @@
   {
    "id": "scen162.0025",
    "jp": "{FFF6}闇であるデュンケルスは、{n}光であるグローシュと相殺して消えるけど、{n}それ以外にも別の消し方があります。{p}{FFF7}それは、ゲヴェル細胞を使うこと。{n}ゲヴェル細胞はデュンケルスを吸収して、{n}エネルギーに変換する働きがあるの。",
-   "en": "{FFF6}Dunkels, being darkness, vanishes when it cancels out{n}against Grosh, which is light. But there's another way{n}to get rid of it.{p}{FFF7}That is, using Gevel cells. Gevel cells absorb Dunkels and{n}convert it into energy.",
+   "en": "{FFF6}Dunkels, being darkness, vanish when they cancel out{n}against Grosh, which is light. But there's another way{n}to get rid of them.{p}{FFF7}That is, using Gevel cells. Gevel cells absorb Dunkels and{n}convert them into energy.",
    "term": "end"
   },
   {
@@ -212,7 +212,7 @@
   {
    "id": "scen162.0032",
    "jp": "正解！{p}つまり、集めたデュンケルスは{n}ゲヴェル細胞が存在する私たち３人の{n}体の中に取り込んで、浄化すればいいのよ。",
-   "en": "Correct!{p}In other words, we take the gathered Dunkels into the{n}bodies of the three of us, who carry Gevel cells, and{n}purify it.",
+   "en": "Correct!{p}In other words, we take the gathered Dunkels into the{n}bodies of the three of us, who carry Gevel cells, and{n}purify them.",
    "term": "end"
   },
   {
@@ -224,7 +224,7 @@
   {
    "id": "scen162.0034",
    "jp": "つまり、集めたデュンケルスは{n}ゲヴェル細胞が存在する私たち３人の{n}体の中に取り込んで、浄化すればいいのよ。",
-   "en": "In other words, we take the gathered Dunkels into the{n}bodies of the three of us, who carry Gevel cells, and{n}purify it.",
+   "en": "In other words, we take the gathered Dunkels into the{n}bodies of the three of us, who carry Gevel cells, and{n}purify them.",
    "term": "end"
   },
   {
@@ -581,7 +581,7 @@
   {
    "id": "scen162.0092",
    "jp": "今の私たちが出来ることは、{n}ジャスティン達を止めることだけよ。{p}{FC03}もし全てが終わってメルフィを助けられたら‥‥、{n}その時は、彼女を受け入れてあげて。お願いよ。",
-   "en": "All we can do now is stop Justin and the others.{p}{FC03}If this all ends and we're able to save Melfie... please,{n}accept her when that time comes. I'm begging you.",
+   "en": "All we can do now is stop Justin and the others.{p}{FC03}If this all ends and we're able to save Melfie... please,{n}accept her when that time comes. Please.",
    "term": "end"
   },
   {
@@ -953,7 +953,7 @@
   {
    "id": "scen162.0150",
    "jp": "{v:0022}あ、フェザリアンの女王様‥‥。",
-   "en": "{v:0022}Oh, the Featherian queen...",
+   "en": "{v:0022}Oh, the Featherian Queen...",
    "term": "end",
    "src": "ps1"
   },
@@ -1110,7 +1110,7 @@
   {
    "id": "scen162.0173",
    "jp": "あれ？{n}送魔線技師のおじちゃん？",
-   "en": "Huh? Mister Mana Line Engineer?",
+   "en": "Huh? The old mana line engineer?",
    "term": "end"
   },
   {
@@ -1491,7 +1491,7 @@
   {
    "id": "scen162.0232",
    "jp": "お兄さまたちに負けないように、{n}アタシも頑張りますね★",
-   "en": "I'll do my best too, so I don't fall behind you,{n}Big Brother!",
+   "en": "I'll do my best too, so I don't fall behind you and the{n}others, Big Brother!",
    "term": "end"
   },
   {

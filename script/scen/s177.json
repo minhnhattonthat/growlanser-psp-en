@@ -119,7 +119,7 @@
   {
    "id": "scen177.0018",
    "jp": "‥‥{v:0047}ついでだから少しだけ話してあげる。{n}闇落としのことをね。{p}‥‥{FC02}{v:0048}闇落としは時空の歪みを大きくし、{n}その隙間を広げることで、グローシュよりも{n}粒子の大きなデュンケルスを呼びいれることよ。{p}{v:0049}デュンケルスの大きさはグローシュの{n}数十倍はあるから、かなり大きく歪ませないと{n}入ってこないけどね。",
-   "en": "...{v:0047}Since we're at it, I'll tell you a little. About{n}the Darkfall.{p}...{FC02}{v:0048}The Darkfall enlarges the distortion in space-time and{n}widens the gaps in it, to draw in Dunkels, whose{n}particles are larger than Grosh.{p}{v:0049}Dunkels are dozens of times larger than Grosh, though,{n}so space-time has to be distorted a great deal for{n}them to get in.",
+   "en": "...{v:0047}While I'm at it, I'll tell you a little. About the Darkfall.{p}...{FC02}{v:0048}The Darkfall enlarges the distortion in space-time and{n}widens the gaps in it, to draw in Dunkels, whose{n}particles are larger than Grosh.{p}{v:0049}Dunkels are dozens of times larger than Grosh, though,{n}so space-time has to be distorted a great deal for{n}them to get in.",
    "term": "end"
   },
   {
@@ -161,7 +161,7 @@
   {
    "id": "scen177.0025",
    "jp": "{v:0050}こいつを助けてくれたお礼を{n}まだ言ってなかった‥‥。",
-   "en": "{v:0050}We never even thanked her for saving him...",
+   "en": "{v:0050}We never even thanked her for saving this guy...",
    "term": "end"
   },
   {
@@ -269,7 +269,7 @@
   {
    "id": "scen177.0042",
    "jp": "・つらい",
-   "en": "・It's hard",
+   "en": "・I feel awful",
    "term": "end",
    "unref": true
   },
@@ -448,7 +448,7 @@
   {
    "id": "scen177.0071",
    "jp": "{v:0035}そんな！{n}ローランディアの騎士は、{n}助けてもらった恩をアダで返すの？",
-   "en": "{v:0035}What?! So a knight of Rolandia repays the person who{n}saved him with betrayal?",
+   "en": "{v:0035}What?! So a knight of Rolandia repays the person who{n}saved him with ingratitude?",
    "term": "end"
   },
   {

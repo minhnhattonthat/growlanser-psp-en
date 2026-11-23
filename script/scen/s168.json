@@ -92,13 +92,13 @@
   {
    "id": "scen168.0012",
    "jp": "おい、コムスプリングスに来てどうする！{n}ここは、リーヴスに任せた場所だろう。{p}それとも、ここに何か用でもあるのか？{n}今はそんな余裕などないはずだぞ！？",
-   "en": "Hey, what are we doing in Comsprings?! This place was{n}left to Reeves.{p}Or do you have some business here? We don't have{n}time for that right now!",
+   "en": "Hey, what are you doing in Comsprings?! This place was{n}left to Reeves.{p}Or do you have some business here? We don't have{n}time for that right now!",
    "term": "end"
   },
   {
    "id": "scen168.0013",
    "jp": "今日は、あいにくの天気ですね。{n}さっきまでは晴れてたんですが‥‥。",
-   "en": "The weather's turned out rather unfortunate today.{n}It was sunny until just a little while ago...",
+   "en": "Awful weather today. It was sunny until just a little{n}while ago...",
    "term": "end"
   },
   {
@@ -163,7 +163,7 @@
   {
    "id": "scen168.0023",
    "jp": "嫌な空気が流れているね‥‥。{n}さっきから、妙な胸騒ぎがするんだ。",
-   "en": "There's an unpleasant air about... I've had a strange{n}sense of foreboding for a while now.",
+   "en": "There's an unpleasant feeling in the air... I've had a{n}strange sense of foreboding for a while now.",
    "term": "end"
   },
   {

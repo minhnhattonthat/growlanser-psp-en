@@ -255,7 +255,7 @@
   {
    "id": "scen179.0039",
    "jp": "{FFF6}{v:0015}言葉の通りだよ‥、心がモンスターになるのだ。{n}ワシはその時に自分の部下を{n}この手で殺してしまった。{p}{v:0016}幸いにもワシと敵対する者に殺されかけ、{n}そのショックで人間の心に戻ることが出来たがな。{n}他の誰もがこううまくいくとは思えん。",
-   "en": "{FFF6}{v:0015}Exactly what I said... The heart becomes a monster's. At{n}the time, I killed my own subordinates with these{n}very hands.{p}{v:0016}Fortunately, one who opposed me nearly killed me, and{n}the shock let me return to a human heart. I doubt it{n}would go so well for anyone else.",
+   "en": "{FFF6}{v:0015}It means just what I said... The heart turns into a{n}monster's. At the time, I killed my own subordinates{n}with these very hands.{p}{v:0016}Fortunately, one who opposed me nearly killed me, and{n}the shock let me return to a human heart. I doubt it{n}would go so well for anyone else.",
    "term": "end"
   },
   {
@@ -742,7 +742,7 @@
   {
    "id": "scen179.0116",
    "jp": "{v:001A}いったい‥‥何を‥‥？",
-   "en": "{v:001A}What... are you...?",
+   "en": "{v:001A}What... are you doing...?",
    "term": "end"
   },
   {

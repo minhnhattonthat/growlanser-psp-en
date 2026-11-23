@@ -49,7 +49,7 @@
   {
    "id": "scen329.0006",
    "jp": "好きな言葉ですか～？{n}{FFFB}え～と、そうですねぇ～‥‥。{n}『平和』っていう言葉が好きです～。{p}{FC05}だって、世界が平和だと{n}みんなニコニコしてるし、{n}たのし～じゃないですか～。",
-   "en": "My favorite wooord? {FFFB}Ummm, let me seeee... I like the{n}word \"peace.\"{p}{FC05}Because when the world is peaceful, everyone's all{n}smiles, and it's so much fuuun, isn't it?",
+   "en": "My favorite wooord? {FFFB}Ummm, let me seeee... I like the{n}word 'peace.'{p}{FC05}Because when the world is peaceful, everyone's all{n}smiles, and it's so much fuuun, isn't it?",
    "term": "end"
   },
   {
@@ -131,7 +131,7 @@
   {
    "id": "scen329.0019",
    "jp": "エヘヘ、２度目ましてですね～。{n}また会えてうれし～です～。{p}そ～いえばラミィ、人間の世界のことは{n}まだよく分からないんで、{n}色々とキョーミシンシンなんですけど‥‥。",
-   "en": "Ehehe, nice to meet you for the second tiiime. I'm sooo{n}happy to see you agaaain.{p}Oh, that reminds me. Lamie still doesn't really{n}understand the human world, so I'm super-duper{n}curious about all kinds of stuff...",
+   "en": "Ehehe, nice to meet you for the second tiiime. Lamie's{n}sooo happy to see you agaaain.{p}Oh, that reminds me. Lamie still doesn't really{n}understand the human world, so Lamie's super-duper{n}curious about all kinds of stuff...",
    "term": "end"
   },
   {
@@ -324,7 +324,7 @@
   {
    "id": "scen329.0049",
    "jp": "あう～。{n}せっかくお話しに来てくれたのに、{n}ラミィってば失礼でしたね～‥‥。",
-   "en": "Awww. You came all this way to talk with me, and Lamie{n}was so rude...",
+   "en": "Awww. You came all this way to talk with Lamie, and{n}Lamie was so rude...",
    "term": "end"
   },
   {
@@ -420,7 +420,7 @@
   {
    "id": "scen329.0064",
    "jp": "妖精界には、いちばんの妖精を決める{n}コンテストがあるんですよ～。{p}{FC01}でも、優勝するためには{n}いっぱい勉強しなくちゃダメなんですよ～。{n}{FFFB}はうぅ～、きびしーですよねぇ～。{p}{FC03}ラミィ、むずかしーお勉強してると、{n}いつの間にか寝ちゃってるんですよ～‥‥。",
-   "en": "In the fairy world, there's a contest to decide who's{n}the number-one fairy.{p}{FC01}But to win, you have to study lots and lots. {FFFB}Hauuu, it's{n}so tough.{p}{FC03}Whenever Lamie studies hard stuff, I fall asleep{n}before I know it...",
+   "en": "In the fairy world, there's a contest to decide who's{n}the number-one fairy.{p}{FC01}But to win, you have to study lots and lots. {FFFB}Hauuu, it's{n}so tough.{p}{FC03}Whenever Lamie studies hard stuff, she falls asleep{n}before she knows it...",
    "term": "end"
   },
   {
@@ -645,7 +645,7 @@
   {
    "id": "scen329.0099",
    "jp": "ラミィも何かペット飼いたいんですけどぉ、{n}何なら飼えますかね～？",
-   "en": "Lamie wants a pet too, but what kind could I keep?",
+   "en": "Lamie wants a pet too, but what kind could Lamie keep?",
    "term": "end"
   },
   {
@@ -679,7 +679,7 @@
   {
    "id": "scen329.0104",
    "jp": "うんうん。{n}貝くらいの大きさならラミィでも飼えるし、{n}世話も楽だし、スープの具にもなりますし～‥‥。{p}{FC02}‥‥って、貝か～い！{n}{FE1E}{FC05}なんちゃって～。",
-   "en": "Uh-huh, uh-huh. Lamie could keep something{n}shell-sized, it'd be easy to look after, and it'd even{n}make a nice soup...{p}{FC02}...Oh, come on, SHELLFISH?! {FE1E}{FC05}Just kiddiiing.",
+   "en": "Uh-huh, uh-huh. Lamie could keep something{n}shell-sized, it'd be easy to look after, and it could even{n}go in soup...{p}{FC02}...Oh, come on, SHELLFISH?! {FE1E}{FC05}Just kiddiiing.",
    "term": "end"
   },
   {
@@ -706,7 +706,7 @@
   {
    "id": "scen329.0108",
    "jp": "ナイスツッコミです～！{n}さすがご主人様、空気を読んでますね～！{p}‥‥というワケで、{n}ありがと～ございました～！",
-   "en": "Nice comeback! Just what I'd expect from you, Master.{n}You really read the room!{p}...And with that, thank you very muuuch!",
+   "en": "Nice retort! Just what I'd expect from you, Master.{n}You really read the room!{p}...And with that, thank you very muuuch!",
    "term": "end"
   },
   {

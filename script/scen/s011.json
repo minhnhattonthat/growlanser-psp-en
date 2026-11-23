@@ -430,7 +430,7 @@
   {
    "id": "scen011.0061",
    "jp": "{v:0000}ただいま戻りました。{n}ジャスティンの企む時空分離計画は完全に失敗し、{n}現在は時空の歪みも消失しました。",
-   "en": "{v:0000}We have returned. Justin's scheme to separate{n}space-time has failed completely, and the distortion in{n}space-time has now vanished.",
+   "en": "{v:0000}We have returned. Justin's space-time separation plan{n}has failed completely, and the distortion in space-time{n}has now vanished.",
    "term": "end"
   },
   {
@@ -1784,7 +1784,7 @@
   {
    "id": "scen011.0260",
    "jp": "‥‥‥‥{v:0036}くすっ。{n}相変わらずだ。",
-   "en": "........{v:0036}Heh. Same as ever.",
+   "en": "...{v:0036}Heh. Same as ever.",
    "term": "end"
   },
   {
@@ -1943,7 +1943,7 @@
   {
    "id": "scen011.0285",
    "jp": "・そうだね",
-   "en": "・I see",
+   "en": "・You're right",
    "term": "end",
    "unref": true
   },
