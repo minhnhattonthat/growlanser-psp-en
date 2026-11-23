@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator in progress (session 17: stress + ink gates pass, tour verdicts written; tour4 on
-  the final build to swap in and re-check; see "Session 17" below).
+- **Phase:** 8. QA in the emulator in progress (session 18: tour gate green on a38240ae; coverage + stress re-run
+  on it; see "Session 18" below).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -169,17 +169,29 @@ Updated at the end of every session. Keep it to what the next session needs; his
     - Tour gate: tour3 (b273cde9) in work/qa/tour, manifest inited on it, all 63 changed sheets got verdicts
       (work/qa/verdicts/s17_tour.tsv; changes were the title tile + plates). **tour4 on 6769d381 running** at
       hand-back (`warp.py --all --iso work/qa/tourbuild.iso --out work/qa/tour4`, log work/qa/tour4.log).
+  - **Session 18** (build **a38240ae** = build/ = work/qa/tourbuild.iso = stressbuild.iso = vrbuild.iso; commits
+    6a47f36, 1da87b0). Clear-save fixture (`save.py make work/saves/clear --clear work/states/credits.ppst`;
+    `warp.py --scene title_appendix --sav work/saves/clear`): APPENDIX room reached. **Bug fixed:** VISUAL ROOM list
+    titles (msys.skills.0057-0094, PS1-style "Title -- line") wrapped mid-word in a 16-cell box: now "Title{n}~line~"
+    as the JP (polish batch work/tl/p002), fit.py budget 16 x 2 (measured), all 38 seen in game (work/qa/apx_vis3).
+    P4 OMAKE/2 VISUAL ROOM label English in game; OMAKE/1 GL CARDS + P6 binder locked (cards not collected, flags not
+    found: docs/re/debug.md "Appendix"). New warp `gameover` (kill now lowers HP once; GAMEOVER English original).
+    P10 save icon English in a save written by the EN build (work/saves/en_vac07, work/qa/save_icon_en.png). JP save
+    (work/saves/stress_full) loads on the EN build (save.py check --iso; money read back). WSL could not start
+    (HCS no resources): tools/sign.py caches the signed EBOOT by ELF sha1 (text-only builds skip WSL).
+    - Tour gate: tour5 on a38240ae (82/82 landed, incl. gameover) copied into work/qa/tour, manifest re-inited,
+      26 changed sheets reviewed (work/qa/verdicts/s18_tour.tsv): `qa_gate.py check` 113 sheets, 0 missing, 0 not ok.
 - **Next (phase 8, QA in the emulator):**
-  1. When tour4.log ends (81 rows in work/qa/tour4/summary.tsv): `cp -r work/qa/tour4/* work/qa/tour/`, then
-     `qa_gate.py init work/qa/manifest.tsv work/qa/tour --build work/qa/tourbuild.iso`, `todo` (expect only sheets
-     holding the pillar or the caption: credits/ending), verdicts in work/qa/verdicts/s18_*.tsv, `check` exit 0.
-  2. Stress gate: done on 6769d381 (re-run, 0 sheets changed, `check` exit 0).
-  3. Still missing stress cases: other units' max stats (unit stride unmapped), shops, 1-of qty (singular),
-     UPD.UPD on screen, appendix room/binder cold-boot shots (warp title_appendix). Long hero name: keyboard stays
-     JP (D10), save list draws the name like the original.
-  4. Measure: captions (scen010.0114, scen014.0003), place popup, shops, battle messages, {s:FFED} in scen188.0058,
-     a JP save loaded on the English build (scene-buffer pointer copy at 0x08808004). Game over warp, APPENDIX
-     clear-save fixture. Raw `warp.py --scene "scene 186"` lands on a black map (original too).
+  1. Text coverage on a38240ae: work/qa/cov (old run kept in work/qa/cov_6769). Chunk 2 (dev-menu face lines) hit
+     the default rerun cap at 775/2000; rerun `cover.py --only 2 --reruns 25` (log work/qa/cov_c02.log), then
+     `cp build/strings.tsv work/qa/cov/` and `textcover.py work/qa/cov build/strings.tsv` must exit 0.
+  2. Stress gate on a38240ae: `stressrun.py --sav work/saves/stress_full --out work/qa/stress --iso
+     work/qa/stressbuild.iso` (log work/qa/stress/run.log), `qa_gate.py init work/qa/stress/manifest.tsv
+     work/qa/stress ... --build work/qa/stressbuild.iso`, `todo` (expect 0: no stress screen changed), `check`.
+  3. Gaps left (non-blocking): shops (handler not found: boot.sys.0169 "Buy & Equip" etc. unmeasured), GL CARDS /
+     binder in game, other units' max stats, singular qty, UPD.UPD on screen, captions scen010.0114 / scen014.0003
+     (shown mid-scene, not at the scene start), place popup, battle messages, {s:FFED} in scen188.0058.
+  4. Then phase 9 (story pass per chapter, polish.md, release).
   5. After any text/code/gfx change: rebuild, re-tour changed screens, `qa_gate init` + verdicts, cover.py rerun.
 - **Open bugs:** Signed EBOOT untested on real hardware (tag 0 instead of the original key).
 - **Waiting on the user:** (non-blocking) face-plate art spelled ELIOTTE/RUISE/RICHART: redrawn to the glossary
