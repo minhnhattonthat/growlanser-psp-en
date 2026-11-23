@@ -160,12 +160,20 @@ def play(run, steps):
     run.press(set())
 
 
-def warp(spec, out, iso=ISO, frames=None, shot_every=300, state_out=None, log=print, after=None, text=False):
+def warp(spec, out, iso=ISO, frames=None, shot_every=300, state_out=None, log=print, after=None, text=False,
+         sav=None):
     """Run one warp; returns the landing frame (None if it never landed). Shots f<frame>.png in OUT.
     AFTER(run, warp) runs at the end of a landed run, before the emulator closes (tools/debug/save.py).
-    TEXT: log every printed string's hash to OUT/log.txt (tools/debug/textlog.py)."""
+    TEXT: log every printed string's hash to OUT/log.txt (tools/debug/textlog.py).
+    SAV: save folder(s) seeded into a fresh OUT/memstick (e.g. the clear save for title_appendix)."""
     frames = frames or spec["frames"] or 4500
-    run = psp.Run(psp.find_emu(None), str(iso), str(out))
+    ms = None
+    if sav:
+        import shutil
+        ms = str(Path(out) / "memstick")
+        shutil.rmtree(ms, ignore_errors=True)
+        psp.seed_saves(ms, str(sav))
+    run = psp.Run(psp.find_emu(None), str(iso), str(out), memstick=ms)
     if text:
         import textlog
         textlog.attach(run, out)
@@ -204,7 +212,8 @@ def warp(spec, out, iso=ISO, frames=None, shot_every=300, state_out=None, log=pr
                 kill = spec.get("kill")
                 if kill is not None and landed is not None:
                     if f >= kill:
-                        w.w16(HERO_HP, 1)   # the next hit loses the battle
+                        if w.u16(HERO_HP) > 1:   # the next hit loses the battle (a 0 is left alone)
+                            w.w16(HERO_HP, 1)
                         w.w16(HERO_AT, 0)   # and the hero can't kill the enemy first
                         nf = min(nf, f + KILL_STEP)
                     else:
@@ -258,6 +267,7 @@ def main():
     ap.add_argument("--state-out")
     ap.add_argument("--no-sheet", action="store_true")
     ap.add_argument("--textlog", action="store_true", help="log printed strings to OUT/<name>/log.txt (textcover)")
+    ap.add_argument("--sav", help="save folder to seed the memory stick with (one --scene run)")
     a = ap.parse_args()
     scenes = load_scenes()
     if a.all:
@@ -291,7 +301,7 @@ def main():
     spec = scenes[a.scene] if a.scene in scenes else parse_spec(a.scene)
     if a.then:
         spec["route"] = a.then
-    got = warp(spec, a.out, a.iso, a.frames, a.shot_every, a.state_out, text=a.textlog)
+    got = warp(spec, a.out, a.iso, a.frames, a.shot_every, a.state_out, text=a.textlog, sav=a.sav)
     if not a.no_sheet:
         sheet(a.out)
     sys.exit(0 if got is not None else 1)

@@ -7,7 +7,7 @@ run through WSL. Build it once:  wsl -e sh -c "cd tools/sign_np/src && gcc -O2 -
 The original EBOOT's tag (0xC0CB167C, ~PSP +0xD0) is an old key sign_np cannot make; tag 0 = 0xD91609F0 is the
 lowest-firmware tag it has (docs/re/build.md "EBOOT").
 """
-import os, struct, subprocess, sys
+import hashlib, os, struct, subprocess, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BIN = "tools/sign_np/sign_np"
@@ -17,7 +17,11 @@ TAG, TAG_WORD = 0, 0xD91609F0
 def sign(elf):
     assert elf[:4] == b"\x7fELF", "not an ELF"
     tmp = os.path.join(ROOT, "work", "sign")
-    os.makedirs(tmp, exist_ok=True)
+    # a text-only build leaves the ELF as it was: reuse its signed EBOOT (and build without WSL)
+    cached = os.path.join(tmp, "cache", hashlib.sha1(elf).hexdigest() + ".bin")
+    if os.path.exists(cached):
+        return check(open(cached, "rb").read(), elf)
+    os.makedirs(os.path.dirname(cached), exist_ok=True)
     with open(os.path.join(tmp, "in.elf"), "wb") as f:
         f.write(elf)
     out = os.path.join(tmp, "out.bin")
@@ -27,7 +31,13 @@ def sign(elf):
     r = subprocess.run(["wsl", "-e", BIN, "-elf", "work/sign/in.elf", "work/sign/out.bin", str(TAG)],
                        cwd=ROOT, capture_output=True)
     assert r.returncode == 0 and os.path.exists(out), r.stdout.decode(errors="replace")[-500:]
-    d = open(out, "rb").read()
+    d = check(open(out, "rb").read(), elf)
+    with open(cached, "wb") as f:
+        f.write(d)
+    return d
+
+
+def check(d, elf):
     assert d[:4] == b"~PSP" and struct.unpack_from("<I", d, 0xD0)[0] == TAG_WORD, "sign_np output not ~PSP"
     assert struct.unpack_from("<I", d, 0x28)[0] == len(elf), "~PSP elf_size differs from the input"
     return d

@@ -97,8 +97,9 @@ dn_waterfall     scene 18 area 2 sub 1 frames 5000 then 300 -;pick 5;pick 4;6 ci
 # an NPC's, without walking there). Rosaria's magic class (scene 1, op 76 -> area 85 sub 6): the tutorial status
 # picture (P11) and the lesson text.
 tut_status       scene 1 jump 0x20BA frames 4000 then 6 circle*80
-# Game over: not reached yet. "kill F" holds hero HP 1 and AT 0 from frame F (warp.py, verified on the battle HUD),
-# but the tutorial battle (dbg 6 -> 0) still ended in a win or stalled on Tippi's dialogue; try a later battle (phase 8).
+# Game over: "kill F" lowers the hero's HP to 1 (a 0 is left alone) and holds AT 0 from frame F; the tutorial battle
+# needs the walk left to meet the Gel (PS1 route). GAMEOVER screen from ~f8400 (work/qa/go_tutd).
+gameover         scene 18 area 2 sub 1 frames 9000 kill 4200 then 300 -;pick 6;pick 0;6 circle*60;240 left;120 -;900 left;300 -;6 circle*250/60
 
 # field menu (from the end of character creation, ev_charamake_end), each top-level item
 menu             scene 18 area 2 sub 1 frames 5200 then 300 -;pick 7;pick 1;6 circle*60;6 triangle;150 -

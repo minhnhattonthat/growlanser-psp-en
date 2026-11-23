@@ -4,6 +4,8 @@ edits go into RAM and the game writes the save itself (its own checksum): no fil
     python -X utf8 tools/debug/save.py make OUT (--warp NAME | --sav DIR) [--set FIELD=VALUE ..]
         warp to a scenes.txt entry (ending in the field, menu closed) or load slot 1 of save folder DIR, apply the
         edits, save to slot 1 through the field menu; OUT/ULJM05423GR_DATA is the save (pass OUT to --sav)
+    python -X utf8 tools/debug/save.py make work/saves/clear --clear work/qa/tour/credits/state.ppst
+        clear-data save from the end of the `credits` warp (APPENDIX fixture: warp.py --scene title_appendix --sav)
     python -X utf8 tools/debug/save.py check DIR [--expect FIELD=VALUE ..]
         cold boot with DIR, LOAD slot 1, assert it reached the field (a scene loaded, no error screen) and every
         expected field reads back; exit 1 otherwise
@@ -30,6 +32,8 @@ SAVE_ROUTE = "6 triangle;150 -;pick 5;6 circle;300 -;6 circle;200 -;6 up;60 -;6 
 # title (cursor on LOAD when a save exists) -> slot 1 -> OK (up)
 LOAD_ROUTE = "650 -;6 circle;300 -;6 circle;200 -;6 up;60 -;6 circle;60 -"
 LOAD_FRAMES = 2400
+# post-credits SAVE list (cursor on slot 1) -> "New save data will be created. Proceed?" -> OK (up)
+CLEAR_ROUTE = "6 circle;200 -;6 up;60 -;6 circle;600 -"
 
 
 # --stress (phase 8 stress saves, docs/re/debug.md "Inventory"): u16 id lists (-1 = empty) per field-menu category,
@@ -98,6 +102,27 @@ def save_and_copy(run, w, sets, out):
     print("save ->", dst)
 
 
+def clear_save(state, out, qa):
+    """From the post-credits SAVE screen: slot 1 -> "New save data will be created" -> OK; copy SAVEDATA to OUT."""
+    ms = Path(qa) / "memstick"
+    shutil.rmtree(ms, ignore_errors=True)
+    run = psp.Run(psp.find_emu(None), str(W.ISO), str(qa), state=state, memstick=str(ms))
+    try:
+        run.run_to(30)
+        W.play(run, W.expand(CLEAR_ROUTE))
+        run.shot("saved.png")
+    finally:
+        run.close()
+    src = ms / "PSP" / "SAVEDATA"
+    dirs = [d for d in src.iterdir() if (d / "PARAM.SFO").exists()] if src.exists() else []
+    if not dirs:
+        return f"no save written; see {qa}/saved.png"
+    shutil.rmtree(out, ignore_errors=True)
+    shutil.copytree(src, out)
+    print("clear save ->", out, [d.name for d in dirs])
+    return 0
+
+
 def load(sav, out):
     """Boot with save folder SAV, load slot 1; returns (run, warp) in the field, or raises."""
     ms = Path(out) / "memstick"
@@ -124,6 +149,8 @@ def main():
     ap.add_argument("--sav", help="make: save folder to start from")
     ap.add_argument("--set", action="append", help="FIELD=VALUE")
     ap.add_argument("--stress", action="store_true", help="make: fill every item list, max money and quantities")
+    ap.add_argument("--clear", metavar="STATE", help="make: clear-data save from a state on the post-credits SAVE "
+                    "screen (the `credits` warp's state.ppst)")
     ap.add_argument("--expect", action="append", help="check: FIELD=VALUE")
     ap.add_argument("--qa", default="work/qa/save", help="emulator output folder")
     a = ap.parse_args()
@@ -134,8 +161,10 @@ def main():
             spec = W.load_scenes()[a.warp]
             got = W.warp(spec, qa, after=lambda run, w: save_and_copy(run, w, sets, a.dir))
             sys.exit(0 if got is not None else 1)
+        if a.clear:
+            sys.exit(clear_save(a.clear, a.dir, qa))
         if not a.sav:
-            ap.error("make needs --warp or --sav")
+            ap.error("make needs --warp, --sav or --clear")
         run, w = load(a.sav, qa)
         try:
             if w.where()[0] == 0xFFFF:

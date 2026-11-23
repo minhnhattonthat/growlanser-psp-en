@@ -54,6 +54,8 @@ BUDGETS = [
     ("boot.kbd", "clip", 999, 9, False),     # name-entry key grids: stay Japanese (D10)
     ("msys", "wrap", 24, 3, True),           # item / spell / skill descriptions (help box)
 ]
+# APPENDIX > VISUAL ROOM list titles: 16 cells (auto-wrap measured, work/qa/apx_vis), 2 lines under the number
+BUDGETS = [(f"msys.skills.{i:04d}", "wrap", 16, 2, True) for i in range(57, 95)] + BUDGETS
 
 
 def budget(eid, entry=None):
