@@ -173,8 +173,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   1. When tour4.log ends (81 rows in work/qa/tour4/summary.tsv): `cp -r work/qa/tour4/* work/qa/tour/`, then
      `qa_gate.py init work/qa/manifest.tsv work/qa/tour --build work/qa/tourbuild.iso`, `todo` (expect only sheets
      holding the pillar or the caption: credits/ending), verdicts in work/qa/verdicts/s18_*.tsv, `check` exit 0.
-  2. Stress: when work/qa/stress/run.log shows all 5 cases, `qa_gate.py init work/qa/stress/manifest.tsv
-     work/qa/stress --build work/qa/stressbuild.iso` must report 0 changed (deterministic), then `check` exit 0.
+  2. Stress gate: done on 6769d381 (re-run, 0 sheets changed, `check` exit 0).
   3. Still missing stress cases: other units' max stats (unit stride unmapped), shops, 1-of qty (singular),
      UPD.UPD on screen, appendix room/binder cold-boot shots (warp title_appendix). Long hero name: keyboard stays
      JP (D10), save list draws the name like the original.
