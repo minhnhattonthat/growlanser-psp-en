@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator in progress (session 15: P7 face plates done; P9 movie tool built but off
-  (PPSSPP playback breaks); inkbox, stress saves, cold-boot P-row shots left; see "Phase 8 progress" below).
+- **Phase:** 8. QA in the emulator in progress (session 16: P9 movies shipped, status plates fixed, inkqa + stress
+  tooling built; tour gate re-run, ink verdicts, stress verdicts left; see "Session 16" below).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -142,19 +142,33 @@ Updated at the end of every session. Keep it to what the next session needs; his
     pmf_idle_jp, --shots 6150..6650). So `gfx.apply` does not ship it. Suspects: PPSSPP/sceMpeg wants each AU at its
     original size/position (try: per-AU sizes kept, only GOPs where x264 fits every AU, or freeze frames), or the
     filler NAL / zero padding, or x264 SPS-independent features (check with a GOP re-encoded from unedited frames).
+  - **Session 16** (build **b273cde9**, commits 3f916e2, 8a4b916). P9 shipped: pmflogo keeps every AU at its
+    original offset+size (one QP per GOP; tiny all-skip AUs kept as is); PPSSPP plays op1 (attract) and op2 clean,
+    subtitle gone (work/qa/pmf_full, docs/re/graphics.md). P7: the status/field-menu plates are drawn from
+    DATA.DAT **MESWDA0a.bmp** (x 72, y 12k), not chr_face: now edited too; LUISE plate seen in game
+    (work/qa/stress/stress_full_status). `tools/inkqa.py` + `inkcheck.py` ported (PSP colours +-3, one-line popups
+    only, SKIP tut_status): old tour 0 off-centre (bubbles 7/5, 5/5; popups ev_battle003 14/14, ev_delis 23/24).
+    Inventory mapped (docs/re/debug.md "Inventory"); `save.py make --stress` -> work/saves/stress_full (st_vac07,
+    every list full, ELM 999999, qty 99, hero 99/999); `tools/debug/stressrun.py` cases items/status/spell/equip/save
+    -> work/qa/stress/stress_full_*/sheet*.png (on b273cde9). Seen ok by eye: items (names fit, qty draws 1 digit
+    "x9" as PS1), status + Luise spell list (3-line descriptions fit). Not yet viewed: equip, spell, save sheets.
+    **Left running at hand-back:** `warp.py --all --iso work/qa/tourbuild.iso --out work/qa/tour` (log
+    work/qa/tour3.log, b273cde9) and `warp.py --all --iso work/qa/inkbuild.iso --out work/qa/ink20 --shot-every 20
+    --no-sheet` (log work/qa/ink20.log, d414384e: centring is unchanged by the plate edit). Check for stray
+    warp.py / PPSSPPHeadless before starting new tours; rerun if a log ends early.
 - **Next (phase 8, QA in the emulator):**
-  1. Graphics left: P9 (above: debug in PPSSPP, or put "keep the movie subtitle" under Waiting on the user if it
-     can't be made safe); UPD.UPD re-check on screen; then a zoomed cold-boot shot of every P row (appendix room
-     warp title_appendix, binder, save screen, status plates) and a fresh `qa_gate init` + verdicts for the
-     changed screens.
-  2. inkbox on centred boxes: port ../growlanser-en/tools/inkqa.py + inkcheck.py (colours/positions for PSP: field
-     bubbles, place popup, captions; choice boxes are left-aligned like the JP: not targets).
-  3. Stress saves (references/emulator-qa.md §Stress saves) with `tools/debug/save.py`: longest item names, full
-     lists, max numbers, Luise in the party (spell list), shops, save/load screen.
+  1. When tour3 ends: `qa_gate.py init work/qa/manifest.tsv work/qa/tour --build work/qa/tourbuild.iso`, `todo`,
+     verdicts for changed sheets only (menu/gear/status plates, title, credits, tut_status...) in
+     work/qa/verdicts/s16_*.tsv; `check` exit 0. tourbuild.iso must still equal build/ (b273cde9).
+  2. `python -X utf8 tools/inkqa.py work/qa/ink20/*` -> exit 0 (fix or SKIP false positives with a reason).
+  3. Stress gate: `qa_gate.py init work/qa/stress/manifest.tsv work/qa/stress --build work/qa/tourbuild.iso`,
+     verdicts for items/status/spell/equip/save sheets. Still missing cases: long hero name (name_entry warp,
+     8 cells), other units' max stats (unit stride unmapped), shops, 1-of qty (singular), UPD.UPD on screen,
+     appendix room/binder cold-boot shots (warp title_appendix).
   4. Measure: captions (scen010.0114, scen014.0003), place popup, shops, battle messages, {s:FFED} in scen188.0058,
      a JP save loaded on the English build (scene-buffer pointer copy at 0x08808004). Game over warp, APPENDIX
      clear-save fixture. Raw `warp.py --scene "scene 186"` lands on a black map (original too).
-  5. After any text/code change: rebuild, re-tour changed screens, `qa_gate init` + verdicts, cover.py rerun.
+  5. After any text/code/gfx change: rebuild, re-tour changed screens, `qa_gate init` + verdicts, cover.py rerun.
 - **Open bugs:** Signed EBOOT untested on real hardware (tag 0 instead of the original key).
 - **Waiting on the user:** (non-blocking) face-plate art spelled ELIOTTE/RUISE/RICHART: redrawn to the glossary
   spellings (Elliot, Luise, Richard) per D9 (session 15); say if the original art spellings should stay.
