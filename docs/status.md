@@ -183,7 +183,8 @@ Updated at the end of every session. Keep it to what the next session needs; his
       26 changed sheets reviewed (work/qa/verdicts/s18_tour.tsv): `qa_gate.py check` 113 sheets, 0 missing, 0 not ok.
 - **Next (phase 8, QA in the emulator):**
   1. Text coverage on a38240ae: work/qa/cov (old run kept in work/qa/cov_6769). Chunk 2 (dev-menu face lines) hit
-     the default rerun cap at 775/2000; rerun `cover.py --only 2 --reruns 25` (log work/qa/cov_c02.log), then
+     the default rerun cap at 775/2000; rerun `cover.py --only 2 --reruns 25` (log work/qa/cov_c02.log; the session-18
+     try was killed by the host for low memory at run 8, ~745: run it alone, nothing else emulating), then
      `cp build/strings.tsv work/qa/cov/` and `textcover.py work/qa/cov build/strings.tsv` must exit 0.
   2. Stress gate on a38240ae: `stressrun.py --sav work/saves/stress_full --out work/qa/stress --iso
      work/qa/stressbuild.iso` (log work/qa/stress/run.log), `qa_gate.py init work/qa/stress/manifest.tsv
