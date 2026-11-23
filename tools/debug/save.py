@@ -32,6 +32,32 @@ LOAD_ROUTE = "650 -;6 circle;300 -;6 circle;200 -;6 up;60 -;6 circle;60 -"
 LOAD_FRAMES = 2400
 
 
+# --stress (phase 8 stress saves, docs/re/debug.md "Inventory"): u16 id lists (-1 = empty) per field-menu category,
+# list pointers u32 at 0x08958BF8; quantity byte at 0x08CE9ED0 + 2 * id (ids < 325, high byte 0x80 = owned flag);
+# counts u16 x5 at 0x08CEA6EA. Category id ranges are read off the item names (script/boot/items.json), not game data.
+LISTS = [(0x08CEA15A, 112, [range(0, 110)]), (0x08CEA23A, 52, [range(110, 153)]),
+         (0x08CEA2A2, 48, [range(153, 179), range(277, 289)]), (0x08CEA302, 144, [range(179, 246)]),
+         (0x08CEA422, 356, [range(246, 277)])]
+QTY, COUNTS = 0x08CE9ED0, 0x08CEA6EA
+
+
+def stress_sets(qty=99, money=999999):
+    """(name, addr, size, value) writes: every list filled with its category's ids in order, max money, quantities."""
+    out, counts, qb = [("money", *FIELDS["money"], money)], [], bytearray(650)
+    for addr, cap, ranges in LISTS:
+        ids = [i for r in ranges for i in r][:cap]
+        blob = b"".join(i.to_bytes(2, "little") for i in ids) + b"\xff\xff" * (cap - len(ids))
+        out.append((f"list {addr:08X}", addr, len(blob), int.from_bytes(blob, "little")))
+        counts.append(len(ids))
+        for i in ids:
+            if i < 325:
+                qb[2 * i:2 * i + 2] = bytes([qty, 0x80])
+    blob = b"".join(c.to_bytes(2, "little") for c in counts)
+    out.append(("counts", COUNTS, len(blob), int.from_bytes(blob, "little")))
+    out.append(("qty", QTY, len(qb), int.from_bytes(qb, "little")))
+    return out
+
+
 def field(name):
     if name in FIELDS:
         return FIELDS[name]
@@ -59,7 +85,8 @@ def write(w, addr, size, v):
 def save_and_copy(run, w, sets, out):
     for k, a, n, v in sets:
         write(w, a, n, v)
-        print(f"set {k} {a:08X} = {v} (was read back {read(w, a, n)})")
+        ok = read(w, a, n) == v
+        print(f"set {k} {a:08X}" + (f" = {v}" if n <= 4 else f" ({n} bytes)"), "read back ok" if ok else "READ BACK DIFFERS")
     W.play(run, W.expand(SAVE_ROUTE))
     run.shot("saved.png")
     src = Path(run.ms) / "PSP" / "SAVEDATA" / SAVE_DIR
@@ -96,12 +123,13 @@ def main():
     ap.add_argument("--warp", help="make: scenes.txt entry to start from")
     ap.add_argument("--sav", help="make: save folder to start from")
     ap.add_argument("--set", action="append", help="FIELD=VALUE")
+    ap.add_argument("--stress", action="store_true", help="make: fill every item list, max money and quantities")
     ap.add_argument("--expect", action="append", help="check: FIELD=VALUE")
     ap.add_argument("--qa", default="work/qa/save", help="emulator output folder")
     a = ap.parse_args()
     qa = Path(a.qa) / Path(a.dir).name
     if a.cmd == "make":
-        sets = parse_sets(a.set)
+        sets = (stress_sets() if a.stress else []) + parse_sets(a.set)
         if a.warp:
             spec = W.load_scenes()[a.warp]
             got = W.warp(spec, qa, after=lambda run, w: save_and_copy(run, w, sets, a.dir))

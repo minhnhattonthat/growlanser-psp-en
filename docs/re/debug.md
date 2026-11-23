@@ -39,6 +39,15 @@ BOOT.BIN), its lookup's callers, and RAM dumps (`tools/pspdbg.py dump`) at the t
 - Hero unit record 0x08C5888C: +0x19 LV, +0x1A AT, +0x1C DF, +0x38 HP u16, +0x3A max HP, +0x3C MP, +0x3E max MP
   (PS1 has HP at +0x30). Record stride and the other units: not mapped yet (phase 8 stress saves).
 
+## Inventory (session 16, from a RAM dump of the gear_items screen: work/qa/ram_items; save.py --stress)
+- u16 item-id lists (-1 = empty), u32 pointers at 0x08958BF8: weapon 0x08CEA15A (112 slots), armor 0x08CEA23A (52),
+  accessory 0x08CEA2A2 (48), goods 0x08CEA302 (144), key 0x08CEA422 (356). Counts u16 x5 at 0x08CEA6EA.
+- Quantity: byte at 0x08CE9ED0 + 2 * id, ids 0-324 (high byte 0x80 = owned, 0x81 seen on an equipped M2 "E1x7").
+- Game id = items.json entry for entries <= 93, else entry + 3 (as PS1). Name-read ranges: weapons 0-109, armor
+  110-152, accessories 153-178 + 277-288 (M2 sits in the accessory list), goods 179-245, key 246-276; 289+ = dummies.
+- Stress saves: `save.py make work/saves/stress_full --warp st_vac07 --stress --set hero_lv=99 ...` then
+  `tools/debug/stressrun.py --sav work/saves/stress_full --out work/qa/stress` (cases items/status/spell/equip/save).
+
 ## Money (verified: write breakpoint on the menu's copy, save -> load round trip)
 - ELM **u32 0x08C5AD94** (block 0x08C5AD90; New Game zeroes its first 4 bytes at 0x0880632C). The field menu copies it to
   0x08CDF410 for display (0x08879470 -> 0x08865620); poking the copy is lost.

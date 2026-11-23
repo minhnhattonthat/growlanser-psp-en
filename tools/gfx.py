@@ -232,7 +232,10 @@ PLATES = {  # file: [(plate x, plate y, new name)] (plates found by their top ro
                      (0, 176, "JULIAN"), (80, 176, "JULIAN"), (0, 200, "RICHARD"), (80, 196, "RICHARD"),
                      (0, 212, "DUMMY")],
     "chr_face_frd.bmp": [(72, 92, "ELLIOT"), (72, 104, "LUISE"), (72, 176, "JULIAN"), (72, 196, "RICHARD")],
+    # the status screen's plates come from this sprite sheet (session 16, RAM dump work/qa/ram_status), not chr_face
+    "MESWDA0a.bmp": [(72, 12, "ELLIOT"), (72, 24, "LUISE"), (72, 96, "JULIAN"), (72, 120, "RICHARD")],
 }
+DUMMY_CELLS = {"chr_face.bmp": 8, "chr_face_frd.bmp": 16, "MESWDA0a.bmp": 0}
 
 
 def plate_glyphs(face):
@@ -261,7 +264,7 @@ def face_plates(name, data, face):
 
     def fn(a):
         cells = 0
-        for i in range(4):
+        for i in range(4 if DUMMY_CELLS[name] else 0):
             for j in range(6):
                 y0, x0 = 82 + 40 * i, 2 + 40 * j
                 box = a[y0 + 6:y0 + 17, x0 + 5:x0 + 33]
@@ -275,7 +278,7 @@ def face_plates(name, data, face):
                             if v == "#" and a[y0 + 8 + r, x0 + 3 + 6 * k + c] == vals[0]:  # not over a plate
                                 a[y0 + 8 + r, x0 + 3 + 6 * k + c] = 253
                 cells += 1
-        assert cells == {"chr_face.bmp": 8, "chr_face_frd.bmp": 16}[name], (name, cells)
+        assert cells == DUMMY_CELLS[name], (name, cells)
         for x, y, text in PLATES[name]:
             assert (a[y, x:x + 10] == [5] * 6 + [4] * 4).all() and a[y + 9, x] == 2, (name, x, y)
             t = a[y + 1:y + 9, x + 12:x + 72]
