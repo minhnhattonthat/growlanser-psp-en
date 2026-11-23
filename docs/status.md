@@ -209,6 +209,6 @@ Updated at the end of every session. Keep it to what the next session needs; his
   `insert.move_buffers`): the 156 KB BSS growth pushed the fixed 16000 KB newlib heap 156 KB higher into the user
   RAM real hardware needs (PPSSPP HLEs codecs); heap now 15844 KB, ends at 0x09D4B000 as the original (RAM dump
   work/qa/ram_heap; 4.3 MB of heap still free at the first dialogue). Not hardware-verified; second suspect: the
-  sign_np tag-0 EBOOT. Needs a v1.0.1 release + reporter test.
+  sign_np tag-0 EBOOT. v1.0.1 published (D19); waiting on the reporter's Vita test.
 - **Waiting on the user:** (non-blocking) face-plate art spelled ELIOTTE/RUISE/RICHART: redrawn to the glossary
   spellings (Elliot, Luise, Richard) per D9 (session 15); say if the original art spellings should stay.

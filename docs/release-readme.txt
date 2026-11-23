@@ -25,7 +25,8 @@ Notes
 -----
 - Tested in PPSSPP. Start from a cold boot: a savestate made on the Japanese game keeps the old code and font.
   Saves carry over.
-- Known issue: the re-signed EBOOT is untested on real PSP hardware.
+- v1.0.1: v1.0 left real hardware less free memory than the original game (black screen on a PS Vita, issue #1);
+  the memory layout now matches the original. Still unconfirmed on real PSP / Vita hardware: reports welcome.
 - Bugs: https://github.com/minhnhattonthat/growlanser-psp-en/issues (a save or savestate helps).
 
 Credits
