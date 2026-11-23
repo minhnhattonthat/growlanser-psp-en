@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator in progress (session 18: tour gate green on a38240ae; coverage + stress re-run
-  on it; see "Session 18" below).
+- **Phase:** 9. Release in progress (phase 8 done in session 19: every gate green on build a38240ae; see
+  "Session 19" below; next = story pass per chapter, polish.md, release).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -181,19 +181,21 @@ Updated at the end of every session. Keep it to what the next session needs; his
     (HCS no resources): tools/sign.py caches the signed EBOOT by ELF sha1 (text-only builds skip WSL).
     - Tour gate: tour5 on a38240ae (82/82 landed, incl. gameover) copied into work/qa/tour, manifest re-inited,
       26 changed sheets reviewed (work/qa/verdicts/s18_tour.tsv): `qa_gate.py check` 113 sheets, 0 missing, 0 not ok.
-- **Next (phase 8, QA in the emulator):**
-  1. Text coverage on a38240ae: work/qa/cov (old run kept in work/qa/cov_6769). Chunk 2 (dev-menu face lines) hit
-     the default rerun cap at 775/2000; rerun `cover.py --only 2 --reruns 25` (log work/qa/cov_c02.log; the session-18
-     try was killed by the host for low memory at run 8, ~745: run it alone, nothing else emulating), then
-     `cp build/strings.tsv work/qa/cov/` and `textcover.py work/qa/cov build/strings.tsv` must exit 0.
-  2. Stress gate on a38240ae: `stressrun.py --sav work/saves/stress_full --out work/qa/stress --iso
-     work/qa/stressbuild.iso` (log work/qa/stress/run.log), `qa_gate.py init work/qa/stress/manifest.tsv
-     work/qa/stress ... --build work/qa/stressbuild.iso`, `todo` (expect 0: no stress screen changed), `check`.
-  3. Gaps left (non-blocking): shops (handler not found: boot.sys.0169 "Buy & Equip" etc. unmeasured), GL CARDS /
-     binder in game, other units' max stats, singular qty, UPD.UPD on screen, captions scen010.0114 / scen014.0003
-     (shown mid-scene, not at the scene start), place popup, battle messages, {s:FFED} in scen188.0058.
-  4. Then phase 9 (story pass per chapter, polish.md, release).
-  5. After any text/code/gfx change: rebuild, re-tour changed screens, `qa_gate init` + verdicts, cover.py rerun.
+  - **Session 19 (phase 8 done, build a38240ae).** Coverage: chunk 2 rerun (`cover.py --only 2 --reruns 25`, 12
+    runs, log work/qa/cov_c02.log) done; `textcover.py work/qa/cov build/strings.tsv`: 31404/31404, exit 0. Stress
+    gate: run + manifest on a38240ae, `qa_gate.py check work/qa/stress/manifest.tsv work/qa/stress/verdicts` 27
+    sheets, 0 missing/not ok/changed. Tour gate `check work/qa/manifest.tsv work/qa/verdicts` 113 sheets exit 0.
+    Smoke ok (work/qa/smoke). GL CARDS (P4 OMAKE/1) + binder (P6): still locked in game; using GL Chips from ITEM
+    does nothing (docs/re/debug.md "Appendix"); both edits checked in `gfx.py preview` only: accepted gap.
+- **Next (phase 9, release):**
+  1. Story pass per chapter (`references/translation.md` §Review; work/qa/story/manifest.tsv), reading the 43
+     PSP-only scenes against synopsis.md section 6 and correcting it.
+  2. docs/polish.md: every line ticked (incl. 様 -> Lord/Lady ruling into decisions.md first).
+  3. Release script: qa_gate check on every manifest + textcover, jp_left.py, debug off, xdelta, README hashes, zip.
+  4. After any text/code/gfx change: rebuild, re-tour changed screens, `qa_gate init` + verdicts, cover.py rerun.
+  5. Gaps left (non-blocking, never reached in game): shops (handler not found: boot.sys.0169 "Buy & Equip" etc.
+     unmeasured), GL CARDS / binder, other units' max stats, singular qty, UPD.UPD on screen, captions scen010.0114
+     / scen014.0003 (mid-scene), place popup, battle messages, {s:FFED} in scen188.0058.
 - **Open bugs:** Signed EBOOT untested on real hardware (tag 0 instead of the original key).
 - **Waiting on the user:** (non-blocking) face-plate art spelled ELIOTTE/RUISE/RICHART: redrawn to the glossary
   spellings (Elliot, Luise, Richard) per D9 (session 15); say if the original art spellings should stay.

@@ -34,6 +34,10 @@ BOOT.BIN), its lookup's callers, and RAM dumps (`tools/pspdbg.py dump`) at the t
   CV MESSAGE; the top two stay closed ("Now Closing") with a clear save alone: GL CARDS (OMAKE/1, P4) and the card
   binder (P6) need the GL chip cards collected. The unlock flags were not found (a RAM search for the Visual Room's
   unlocked-entry pattern 1, 22, 23, 31-38 as bits or bytes found nothing; work/qa/apx_ram).
+- Session 19: GL Chips (goods id 198, cards come from it: boot.sys.0186 "Got GL Card {FFEB}!") put alone in the goods
+  list of the stress save (RAM poke after LOAD) shows in ITEM with USE/EQUIP/MOVE/USERS, but Circle on USE does
+  nothing (qty stays 5, no message; work/qa/glchips, glchips2). Unlock route still unknown; sys 0xBA-0xBC are used
+  by the list function at 0x088B7A28 (not the card-get code).
 - Event VM: in scene 0 the message op looks like `20 ff 00 00 <u16 string>` (0x2356 prints string 39); a scan of
   scene 1 for that form with the shop greeting (string 45) found nothing, so the shop handler is still unlocated.
 
