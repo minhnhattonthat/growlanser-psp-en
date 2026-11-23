@@ -83,6 +83,8 @@ def test_move_buffers():
         assert {insert._pair_ram(boot, *p) & ~0x1F for p in pairs} == {new}
     assert insert._pair_ram(boot, 0x088080E8, 0x088080F0) == insert.SCEN_BUF
     assert struct.unpack_from("<I", boot, 0x34 + 32 + 20)[0] == insert.BSS_END - insert.DATA_SEG
+    # heap starts at the (0x1000-aligned) BSS end and must end where the original's did (issue #1)
+    assert insert.BSS_END + insert._word(boot, insert.HEAP_KB) * 1024 == insert.HEAP_END
 
 
 def test_msys_groups():

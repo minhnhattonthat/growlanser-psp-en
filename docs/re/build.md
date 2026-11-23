@@ -24,7 +24,10 @@ to the end of the image, directory record repointed). Every archive goes through
   GPLv3, built under WSL once: command in sign.py) into EBOOT.BIN; build.py ships both. The original ~PSP tag
   0xC0CB167C is an old key sign_np can't make; tag 0 (0xD91609F0) is used. Proof: a BOOT.BIN with the font inverted,
   signed into EBOOT.BIN only (original BOOT.BIN left), showed inverted glyphs at the first dialogue (work/qa/signspike).
-  Not yet tried on real PSP / Vita hardware.
+  Issue #1: v1.0 black-screens on a Vita (status.md "Open bugs").
+- Memory: the module's grown BSS (`insert.move_buffers`) is paid back from the newlib heap (sce_newlib_heap_kb_size
+  0x08958D44, allocated right after the module), so the heap still ends at 0x09D4B000 and the user RAM above it is
+  as the original left it. PPSSPP HLEs the codec modules and has slack there that real hardware may not.
 - PRX relocations (`tools/prxrel.py`, 65,523 entries): the loader adds the base 0x08804000 at each. A patched word at
   an R_MIPS_26 site (every original j/jal) must stay a j/jal with a module-relative target (asm macros CALL_REL /
   JUMP_REL), any other word there is corrupted at load; `insert.armips` enforces it. New code in the free font cells

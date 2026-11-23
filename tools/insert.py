@@ -350,6 +350,10 @@ SCEN_WORD0 = {0x088080E8: "2600023c", 0x088080EC: "0100033c", 0x088080F0: "78db4
               0x088080F8: "0060488c"}
 MSYS_TABLES = (0x0891716C, 0x08917204)  # u16 start sector / sector count of each MSYS.DAT group (BOOT .rodata)
 MSYS_GROUPS = (6, 7)  # items descriptions; magic + skills (loaded one at a time into the MSYS buffer)
+# newlib heap (sce_newlib_heap_kb_size, read by the sbrk at 0x088EFE38): 16000 KB, allocated low-aligned 0x1000 right
+# after the module, so it ended at 0x09D4B000. Shrunk by the BSS growth to keep that end: real PSP / Vita need the
+# user RAM above it (issue #1: black screen; PPSSPP HLEs the codecs and never noticed). Peak use leaves >3 MB free.
+HEAP_KB, HEAP_KB_OLD, HEAP_END = 0x08958D44, 16000, 0x09D4B000
 
 
 def _word(boot, ram):
@@ -376,6 +380,9 @@ def move_buffers(boot):
     vaddr, memsz = struct.unpack_from("<I", boot, ph + 8)[0], struct.unpack_from("<I", boot, ph + 20)[0]
     assert prxrel.BASE + vaddr == DATA_SEG and DATA_SEG + memsz <= SCEN_BUF
     struct.pack_into("<I", boot, ph + 20, BSS_END - DATA_SEG)
+    if _word(boot, HEAP_KB) != HEAP_KB_OLD:
+        raise ValueError("newlib heap size word moved")
+    struct.pack_into("<I", boot, ram_to_file(HEAP_KB), (HEAP_END - BSS_END) // 1024)
     for pairs, old, new in ((SCEN_PAIRS, SCEN_OLD, SCEN_BUF), (MSYS_PAIRS, MSYS_OLD, MSYS_BUF)):
         for lui, lo in pairs:
             cur = _pair_ram(boot, lui, lo)
@@ -397,7 +404,7 @@ def move_spans():
     """BOOT.BIN file ranges move_buffers and msys_groups write."""
     ph = 0x34 + 32 + 20  # phdr[1] p_memsz (e_phoff = 0x34, asserted in move_buffers' read)
     out = [(ph, ph + 4), (ram_to_file(0x088080E8), ram_to_file(0x088080FC)),
-           (ram_to_file(SCEN_BOUND), ram_to_file(SCEN_BOUND) + 4)]
+           (ram_to_file(SCEN_BOUND), ram_to_file(SCEN_BOUND) + 4), (ram_to_file(HEAP_KB), ram_to_file(HEAP_KB) + 4)]
     out += [(ram_to_file(a), ram_to_file(a) + 4) for p in SCEN_PAIRS + MSYS_PAIRS for a in p]
     out += [(ram_to_file(t) + 2 * g, ram_to_file(t) + 2 * g + 2) for t in MSYS_TABLES for g in MSYS_GROUPS]
     return out

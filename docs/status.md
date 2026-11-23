@@ -205,6 +205,10 @@ Updated at the end of every session. Keep it to what the next session needs; his
   4. Gaps left (non-blocking, never reached in game): shops (handler not found: boot.sys.0169 "Buy & Equip" etc.
      unmeasured), GL CARDS / binder, other units' max stats, singular qty, UPD.UPD on screen, captions scen010.0114
      / scen014.0003 (mid-scene), place popup, battle messages.
-- **Open bugs:** Signed EBOOT untested on real hardware (tag 0 instead of the original key).
+- **Open bugs:** #1 (2026-11-23) Vita: black screen at boot, back to XMB; PPSSPP fine. Fix candidate (2026-11-24,
+  `insert.move_buffers`): the 156 KB BSS growth pushed the fixed 16000 KB newlib heap 156 KB higher into the user
+  RAM real hardware needs (PPSSPP HLEs codecs); heap now 15844 KB, ends at 0x09D4B000 as the original (RAM dump
+  work/qa/ram_heap; 4.3 MB of heap still free at the first dialogue). Not hardware-verified; second suspect: the
+  sign_np tag-0 EBOOT. Needs a v1.0.1 release + reporter test.
 - **Waiting on the user:** (non-blocking) face-plate art spelled ELIOTTE/RUISE/RICHART: redrawn to the glossary
   spellings (Elliot, Luise, Richard) per D9 (session 15); say if the original art spellings should stay.
