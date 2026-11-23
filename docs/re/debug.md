@@ -19,12 +19,23 @@ BOOT.BIN), its lookup's callers, and RAM dumps (`tools/pspdbg.py dump`) at the t
   (0x08806320, 0x08806328 = jal delay slot), map lookup (2, 5). A second (2, 5) site is 0x08809050 (not used).
 - Title: no save -> the cursor starts on LOAD; down, up, up = START (`tools/routes/boot.txt`). Title drawn by f600,
   but presses before ~f700 can be dropped. APPENDIX loads clear data through the system dialog ("no save data" without
-  one); a clear-save fixture is still to make (phase 8, `credits` ends on the clear-data save prompt).
+  one); clear-save fixture work/saves/clear (see "Appendix" below).
 
-## Game over (open)
-- `kill F` holds hero HP 1 and AT 0 (HUD shows HP 1), but the tutorial battle (dbg 6 -> 0) was still won (Circle
-  every 66 frames) or stalled on Tippi's dialogue (Circle stopped); dbg 6 -> 2 / 5 start in the field away from the
-  enemy. Next: a battle that starts in contact, or the enemy's record (battle RAM dump work/qa/ram_bt).
+## Game over (warp `gameover`, session 18)
+- `kill F` lowers the hero's HP to 1 (only while it is > 1) and holds AT 0. Re-writing HP 1 every 10 frames (the old
+  hold) also undid the killing hit (HUD "3" damage at HP 1, hero lived). The tutorial battle needs the PS1 walk left
+  (240 + 900 frames) to meet the Gel; GAMEOVER ("STAND AGAIN... PRESS START button.", English original art GLB
+  B99_01_A) from ~f8400 (work/qa/go_final/final.png).
+
+## Appendix (session 18)
+- Clear save: `save.py make work/saves/clear --clear work/states/credits.ppst` (post-credits SAVE list -> slot 1 ->
+  OK). `warp.py --scene title_appendix --sav work/saves/clear` loads it (system load dialog, slot 1) into the room.
+- Room: 4 Gels, d-pad moves, Circle enters. Bottom-left VISUAL ROOM (OMAKE/2 label = P4, English), bottom-right
+  CV MESSAGE; the top two stay closed ("Now Closing") with a clear save alone: GL CARDS (OMAKE/1, P4) and the card
+  binder (P6) need the GL chip cards collected. The unlock flags were not found (a RAM search for the Visual Room's
+  unlocked-entry pattern 1, 22, 23, 31-38 as bits or bytes found nothing; work/qa/apx_ram).
+- Event VM: in scene 0 the message op looks like `20 ff 00 00 <u16 string>` (0x2356 prints string 39); a scan of
+  scene 1 for that form with the shop greeting (string 45) found nothing, so the shop handler is still unlocated.
 
 ## Event VM (verified: breakpoint + jump lands on the tutorial status lesson)
 - Script pointer **u32 0x08C8EE6C** [gp+0x428]; the dispatcher at **0x08833B2C** `lbu t0, (s1)` reads the op

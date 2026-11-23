@@ -60,5 +60,8 @@ Verified in PPSSPP: work/qa/pmf_full (idle attract: op1 at f3300-9750, op2 at f1
 
 ## Re-check on screen in phase 8 (static sweep cannot see these)
 - UPD.UPD content (compressed); GLB map images without a textfind hit; which credits art the PSP draws (P5 vs P13).
+- Session 18: P4 OMAKE/2 "VISUAL ROOM" seen in game (work/qa/apx_hover f003000, zoomed). P4 OMAKE/1 "GL CARDS
+  (PROMO)" and P6 binder GLUE: locked behind the GL chip card collection (docs/re/debug.md "Appendix"); checked in the
+  `gfx.py preview` only. Game over = GLB B99_01_A, English original (work/qa/go_final).
 
 Also clean: `PIC1.PNG` (marble background), `USRDIR/logo.bmp` (ATLUS logo).

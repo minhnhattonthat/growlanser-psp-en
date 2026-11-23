@@ -24,6 +24,7 @@ print-wrapper call; without it a 6 px gap) and the same start rule holds, with p
 | Name tag | scene speaker names (term null), boot.names | 144 px (12 cells) visible; frame = 12 px x code count, longer text wraps inside the 12-cell canvas and shows garbled | 1 | measured | work/qa/s2r (scen000.0003 24-char ruler whole, 0004 36-char garbled), work/qa/s4/ev_battle001 final (boot.names.0084) |
 | Help box (bottom of menus) | boot.help | 24 cells (288 px) | 3 | measured | work/qa/s3/title_config (boot.help.0021 5-line ruler: wraps after 48, 3 lines shown) |
 | Descriptions | msys.items / magic / skills | 24 cells, same help box (Square in the item list) | 3 | measured | work/qa/s3/help_square (msys.items.0030 4-line ruler: wraps after 48, 3 shown) |
+| Visual Room list (APPENDIX) | msys.skills.0057-0094 | 16 cells (codes start at x <= 180) | 2 under the entry number | measured | work/qa/apx_vis (PS1-style one-line titles wrapped mid-word at 16 cells), fixed titles work/qa/apx_vis3 |
 | Item names (item list, equip / status slots) | boot.items | 8 cells (96 px) | 1 | measured | work/qa/s3/gear_items (boot.items.0030 / 0196 wrap after "A234567890B23456" = 16 chars) |
 | Spell names | boot.magic | 8 cells | 1 | lower bound | JP max 8 cells; spell list empty in the warps (Luise not in the party: gear_spell) |
 | Skill names | boot.skills | 8 cells | 1 | lower bound | JP max 8 cells |

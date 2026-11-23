@@ -153,13 +153,16 @@ def main():
                     "screen (the `credits` warp's state.ppst)")
     ap.add_argument("--expect", action="append", help="check: FIELD=VALUE")
     ap.add_argument("--qa", default="work/qa/save", help="emulator output folder")
+    ap.add_argument("--iso", help="image to run (default: the original ISO), e.g. the English build")
     a = ap.parse_args()
+    if a.iso:
+        W.ISO = Path(a.iso)
     qa = Path(a.qa) / Path(a.dir).name
     if a.cmd == "make":
         sets = (stress_sets() if a.stress else []) + parse_sets(a.set)
         if a.warp:
             spec = W.load_scenes()[a.warp]
-            got = W.warp(spec, qa, after=lambda run, w: save_and_copy(run, w, sets, a.dir))
+            got = W.warp(spec, qa, W.ISO, after=lambda run, w: save_and_copy(run, w, sets, a.dir))
             sys.exit(0 if got is not None else 1)
         if a.clear:
             sys.exit(clear_save(a.clear, a.dir, qa))
