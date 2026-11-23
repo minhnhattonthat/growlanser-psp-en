@@ -163,3 +163,4 @@ moved the voice items filed here to polish batch work/tl/p001 and fixed them; re
 - [ ] b059 scen329.0006 - 『』 -> single quotes: 'peace.'
 - [ ] b059 scen328.0056 - "close father and son" clumsy
 - [ ] b059 scen328.0081 - まで lost: "if you get hurt too..."
+- [ ] ALL item-list header art reads ACCESORIES (original Atlus art, same in JP): optional redraw as ACCESSORIES (header width permitting)

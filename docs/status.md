@@ -2,8 +2,8 @@
 
 Updated at the end of every session. Keep it to what the next session needs; history is in git.
 
-- **Phase:** 8. QA in the emulator in progress (session 16: P9 movies shipped, status plates fixed, inkqa + stress
-  tooling built; tour gate re-run, ink verdicts, stress verdicts left; see "Session 16" below).
+- **Phase:** 8. QA in the emulator in progress (session 17: stress + ink gates pass, tour verdicts written; tour4 on
+  the final build to swap in and re-check; see "Session 17" below).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
@@ -156,15 +156,28 @@ Updated at the end of every session. Keep it to what the next session needs; his
     work/qa/tour3.log, b273cde9) and `warp.py --all --iso work/qa/inkbuild.iso --out work/qa/ink20 --shot-every 20
     --no-sheet` (log work/qa/ink20.log, d414384e: centring is unchanged by the plate edit). Check for stray
     warp.py / PPSSPPHeadless before starting new tours; rerun if a log ends early.
+  - **Session 17** (build **6769d381** = build/ = work/qa/tourbuild.iso = work/qa/stressbuild.iso, commit 1756838).
+    Fixes: boot.items.0282 "Portable Pillar[0107]" drew a stray 柱 -> "Portable Pillar II" (the improved model, per its
+    description; [0107] in batches.GLYPH_VARS); time-skip/objective captions ending ‥‥ ("One month later...") were
+    3/13 px off-centre in the title popup (frame = ceil(W/12)*12 + 5, text at left) -> `insert.POPUP_IDS` gets
+    title_lead (now 7/9, work/qa/ink21). Tours are deterministic (same build -> byte-identical sheets).
+    - Stress gate: work/qa/stress/manifest.tsv, verdicts work/qa/stress/verdicts/s17.tsv (27 ok, full-res review
+      sheets work/qa/stress_rv; JP compares work/qa/stress_jp: save list, status scroll, ACCESORIES header are the
+      original's). Was green on 22107175; a re-run on 6769d381 was started (work/qa/stress/run.log).
+    - Ink gate: `tools/inkqa.py work/qa/ink20/*` exit 0 (credits/ending frames <= f3400 replaced by 6769d381 shots;
+      two per-shot SKIPs with reasons in inkqa.SKIP).
+    - Tour gate: tour3 (b273cde9) in work/qa/tour, manifest inited on it, all 63 changed sheets got verdicts
+      (work/qa/verdicts/s17_tour.tsv; changes were the title tile + plates). **tour4 on 6769d381 running** at
+      hand-back (`warp.py --all --iso work/qa/tourbuild.iso --out work/qa/tour4`, log work/qa/tour4.log).
 - **Next (phase 8, QA in the emulator):**
-  1. When tour3 ends: `qa_gate.py init work/qa/manifest.tsv work/qa/tour --build work/qa/tourbuild.iso`, `todo`,
-     verdicts for changed sheets only (menu/gear/status plates, title, credits, tut_status...) in
-     work/qa/verdicts/s16_*.tsv; `check` exit 0. tourbuild.iso must still equal build/ (b273cde9).
-  2. `python -X utf8 tools/inkqa.py work/qa/ink20/*` -> exit 0 (fix or SKIP false positives with a reason).
-  3. Stress gate: `qa_gate.py init work/qa/stress/manifest.tsv work/qa/stress --build work/qa/tourbuild.iso`,
-     verdicts for items/status/spell/equip/save sheets. Still missing cases: long hero name (name_entry warp,
-     8 cells), other units' max stats (unit stride unmapped), shops, 1-of qty (singular), UPD.UPD on screen,
-     appendix room/binder cold-boot shots (warp title_appendix).
+  1. When tour4.log ends (81 rows in work/qa/tour4/summary.tsv): `cp -r work/qa/tour4/* work/qa/tour/`, then
+     `qa_gate.py init work/qa/manifest.tsv work/qa/tour --build work/qa/tourbuild.iso`, `todo` (expect only sheets
+     holding the pillar or the caption: credits/ending), verdicts in work/qa/verdicts/s18_*.tsv, `check` exit 0.
+  2. Stress: when work/qa/stress/run.log shows all 5 cases, `qa_gate.py init work/qa/stress/manifest.tsv
+     work/qa/stress --build work/qa/stressbuild.iso` must report 0 changed (deterministic), then `check` exit 0.
+  3. Still missing stress cases: other units' max stats (unit stride unmapped), shops, 1-of qty (singular),
+     UPD.UPD on screen, appendix room/binder cold-boot shots (warp title_appendix). Long hero name: keyboard stays
+     JP (D10), save list draws the name like the original.
   4. Measure: captions (scen010.0114, scen014.0003), place popup, shops, battle messages, {s:FFED} in scen188.0058,
      a JP save loaded on the English build (scene-buffer pointer copy at 0x08808004). Game over warp, APPENDIX
      clear-save fixture. Raw `warp.py --scene "scene 186"` lands on a black map (original too).
