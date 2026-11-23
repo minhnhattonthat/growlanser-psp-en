@@ -4,7 +4,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
 
 - **Phase:** 9. Release done (session 20): release/Growlanser_PSP_EN_v1.0.zip built and verified by
   `tools/release.py` (every gate green, build 77cc9485); published 2026-11-23 on the user's request
-  as GitHub release v1.0 (private repo, visibility unchanged; D18).
+  as GitHub release v1.0 (repo public since 2026-11-23; D18).
 - **Done (session 1):** Step 0 setup: hooks (`core.hooksPath tools/hooks`, check = `tools/check.py`, failing test
   blocks a commit: tested), guard hook blocks the sed canary, rom.sha1, AGENTS.md, decisions D1-D9 (PS1 project is
   the reference: its glossary copied to glossary.md, style-reference.md copied), PPSSPPHeadless boots the original ISO
