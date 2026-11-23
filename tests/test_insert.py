@@ -69,6 +69,8 @@ def test_fitting():
     assert sum(map(enc.advance, s)) == sum(insert.SLOTS["boot.sys.0069"])
     e = next(e for d in insert.docs() for e in d["entries"] if e["id"] == "boot.sys.0069")
     assert enc.words(e) == s
+    cap = {"id": "scen011.0027", "jp": "一ヶ月後‥‥", "en": "One month later...", "term": "end"}
+    assert insert.is_title(cap) and not insert.is_title({**cap, "id": "scen034.0035"})
 
 
 def test_move_buffers():

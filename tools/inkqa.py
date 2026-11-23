@@ -23,7 +23,10 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 CREAM, BORDER, INK = (0xEE, 0xDE, 0xC5), (131, 98, 82), (197, 164, 115)
 TOL = 3
 # folders whose one-line boxes are not centred text (warp scene name: why)
-SKIP = {"tut_status": "P11 tutorial picture of a status screen: left-aligned equipment rows"}
+# (or "folder/fNNNNNN": one shot, at --shot-every 20)
+SKIP = {"tut_status": "P11 tutorial picture of a status screen: left-aligned equipment rows",
+        "newgame_home/f003760": "cream pixels in Tippi's portrait art at the top edge, not a bubble",
+        "st_after_gevel/f002820": "place popup caught mid-open; the open box (f002860) measures 4/6"}
 
 
 def near(a, c):
@@ -88,6 +91,8 @@ def main(dirs):
         if os.path.basename(os.path.normpath(d)) in SKIP:
             continue
         for kind, f, geo in todo(d):
+            if "%s/%s" % (os.path.basename(os.path.normpath(d)), os.path.basename(f)[:-4]) in SKIP:
+                continue
             if kind == "bubble":
                 cmd = [sys.executable, "-X", "utf8", os.path.join(HERE, "inkcheck.py"), f, "%d,%d" % geo]
             else:

@@ -70,9 +70,16 @@ def is_caption(e):
     return len(j) > 2 and j[0] == j[-1] == "　" and "{" not in j and "{" not in e.get("en", "")
 
 
+# Time-skip / objective captions ending in ‥‥ that use the title popup (scen011.0027 seen 3/13 px off-centre,
+# work/qa/ink20/credits f003260); the punctuation rule below can't tell them from one-line dialogue ("Ugh...").
+POPUP_IDS = {"scen011.0027", "scen014.0002", "scen016.0126", "scen028.0239", "scen068.0095", "scen107.0020"}
+
+
 def is_title(e):
     """A scene string shown alone in a popup: place or event name (one line, no codes, no sentence punctuation,
     not a choice); its box is sized to the text in whole columns (Encoder.title_lead)."""
+    if e["id"] in POPUP_IDS:
+        return True
     return bool(e["jp"]) and "{" not in e["jp"] + e.get("en", "") and not e["jp"].startswith("　") \
         and not re.search("[。！？‥、「」…・]", e["jp"]) and not is_caption(e)
 
