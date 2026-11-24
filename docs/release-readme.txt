@@ -35,4 +35,5 @@ Credits
 -------
 Translation, tools and hacking: minhnhattonthat, made with extensive AI assistance (Claude by Anthropic). Script
 shared with the PS1 translation (growlanser-en).
+Thanks to sgtf0xx for reporting and testing the real-hardware black screen (issue #1).
 Growlanser is (c) Atlus. This project is not affiliated with them.
