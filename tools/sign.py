@@ -12,13 +12,15 @@ import hashlib, os, struct, subprocess, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BIN = "tools/sign_np/sign_np"
 TAG, TAG_WORD = 0, 0xD91609F0
+# the original's ~PSP devkit_version (+0x78); sign_np's default is 0x06020010 (issue #1: keep the header as the original)
+DEVKIT = 0x03090510
 
 
 def sign(elf):
     assert elf[:4] == b"\x7fELF", "not an ELF"
     tmp = os.path.join(ROOT, "work", "sign")
     # a text-only build leaves the ELF as it was: reuse its signed EBOOT (and build without WSL)
-    cached = os.path.join(tmp, "cache", hashlib.sha1(elf).hexdigest() + ".bin")
+    cached = os.path.join(tmp, "cache", hashlib.sha1(elf + struct.pack("<I", DEVKIT)).hexdigest() + ".bin")
     if os.path.exists(cached):
         return check(open(cached, "rb").read(), elf)
     os.makedirs(os.path.dirname(cached), exist_ok=True)
@@ -28,7 +30,7 @@ def sign(elf):
     if os.path.exists(out):
         os.remove(out)
     assert os.path.exists(os.path.join(ROOT, BIN)), f"{BIN} missing: build it (see tools/sign.py docstring)"
-    r = subprocess.run(["wsl", "-e", BIN, "-elf", "work/sign/in.elf", "work/sign/out.bin", str(TAG)],
+    r = subprocess.run(["wsl", "-e", BIN, "-elf", "work/sign/in.elf", "work/sign/out.bin", str(TAG), f"{DEVKIT:x}"],
                        cwd=ROOT, capture_output=True)
     assert r.returncode == 0 and os.path.exists(out), r.stdout.decode(errors="replace")[-500:]
     d = check(open(out, "rb").read(), elf)
@@ -40,6 +42,7 @@ def sign(elf):
 def check(d, elf):
     assert d[:4] == b"~PSP" and struct.unpack_from("<I", d, 0xD0)[0] == TAG_WORD, "sign_np output not ~PSP"
     assert struct.unpack_from("<I", d, 0x28)[0] == len(elf), "~PSP elf_size differs from the input"
+    assert struct.unpack_from("<I", d, 0x78)[0] == DEVKIT, "sign_np too old: rebuild it (devkit argument)"
     return d
 
 

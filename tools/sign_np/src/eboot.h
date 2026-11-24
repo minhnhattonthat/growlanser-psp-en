@@ -42,3 +42,4 @@ static TAG_KEY key_list[] = {
 };
 
 int sign_eboot(u8 *eboot, int eboot_size, int tag, u8 *seboot);
+extern u32 devkit_version;

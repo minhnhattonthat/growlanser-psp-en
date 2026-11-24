@@ -484,7 +484,7 @@ void print_usage()
 	printf("***********************************************************\n\n");
 	printf("Usage: sign_np -pbp [-c] <input> <output> <cid> <key>\n");
 	printf("                    <startdat> <opnssmp>\n");
-	printf("       sign_np -elf <input> <output> <tag>\n");
+	printf("       sign_np -elf <input> <output> <tag> [devkit hex]\n");
 	printf("\n");
 	printf("- Modes:\n");
 	printf("[-pbp]: Encrypt and sign a PSP ISO into a PSN EBOOT.PBP\n");
@@ -537,6 +537,8 @@ int main(int argc, char *argv[])
 		char *elf_name = argv[arg_offset + 1];
 		char *bin_name = argv[arg_offset + 2];
 		int tag = atoi(argv[arg_offset + 3]);
+		if (argc > arg_offset + 4)  // growlanser-psp-en: optional ~PSP devkit version (hex)
+			devkit_version = strtoul(argv[arg_offset + 4], NULL, 16);
 		FILE* elf = fopen(elf_name, "rb");
 		FILE* bin = fopen(bin_name, "wb");
 		

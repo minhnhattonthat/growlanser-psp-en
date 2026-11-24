@@ -210,5 +210,14 @@ Updated at the end of every session. Keep it to what the next session needs; his
   RAM real hardware needs (PPSSPP HLEs codecs); heap now 15844 KB, ends at 0x09D4B000 as the original (RAM dump
   work/qa/ram_heap; 4.3 MB of heap still free at the first dialogue). Not hardware-verified; second suspect: the
   sign_np tag-0 EBOOT. v1.0.1 published (D19); waiting on the reporter's Vita test.
+  2026-11-24: reporter: v1.0.1 still black screen (Adrenaline 6.61 Adrenaline-7, no plugins). Ruled out in PPSSPP:
+  allocation map (memory.info.list) now identical to JP above the module (work/qa/mem_{jp,en}); strict
+  IgnoreBadMemAccess=False boot logs same as JP (work/qa/strict_*); no translation hook runs before the title, and
+  the Atlus logo shows at f30, so a black screen from launch = the EBOOT fails to load/init (only the EBOOT and
+  unchanged codec PRXs are touched before the logo); no R_MIPS_GPREL16 relocs (sign_np zeroes them); PARAM.SFO and
+  PNGs well-formed. Change: sign_np takes a devkit arg, `sign.DEVKIT` = the original's 0x03090510 (was 0x06020010,
+  the only header field besides tag/keys that differed; PPSSPP warned). Bisect patches in work/issue1: A = new build
+  (clean JP), B = A with the plain ELF as EBOOT.BIN (on top of A), C = clean JP with only EBOOT re-signed. Read:
+  A boots -> devkit; B only -> sign_np/tag; C fails -> signing on that Vita; all fail -> ask if clean JP boots.
 - **Waiting on the user:** (non-blocking) face-plate art spelled ELIOTTE/RUISE/RICHART: redrawn to the glossary
   spellings (Elliot, Luise, Richard) per D9 (session 15); say if the original art spellings should stay.

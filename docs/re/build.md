@@ -24,7 +24,8 @@ to the end of the image, directory record repointed). Every archive goes through
   GPLv3, built under WSL once: command in sign.py) into EBOOT.BIN; build.py ships both. The original ~PSP tag
   0xC0CB167C is an old key sign_np can't make; tag 0 (0xD91609F0) is used. Proof: a BOOT.BIN with the font inverted,
   signed into EBOOT.BIN only (original BOOT.BIN left), showed inverted glyphs at the first dialogue (work/qa/signspike).
-  Issue #1: v1.0 black-screens on a Vita (status.md "Open bugs").
+  Issue #1: v1.0 black-screens on a Vita (status.md "Open bugs"). sign_np (patched: optional devkit hex arg) is given
+  the original's devkit_version 0x03090510 (`sign.DEVKIT`) so the ~PSP header differs only in tag and keys.
 - Memory: the module's grown BSS (`insert.move_buffers`) is paid back from the newlib heap (sce_newlib_heap_kb_size
   0x08958D44, allocated right after the module), so the heap still ends at 0x09D4B000 and the user RAM above it is
   as the original left it. PPSSPP HLEs the codec modules and has slack there that real hardware may not.

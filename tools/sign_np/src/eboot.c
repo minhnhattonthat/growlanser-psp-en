@@ -7,6 +7,7 @@
 
 TAG_KEY *tkey;
 u8 tag_key[0x100];
+u32 devkit_version = 0x06020010;  // growlanser-psp-en: overridable from the command line (keep the original's)
 char *strtable;
 int e_shnum;
 Elf32_Shdr *section;
@@ -77,7 +78,7 @@ void build_psp_header(PSP_Header2 *psph, u8 *ebuf, int esize)
 	psph->module_ver_lo = 1;
 	psph->module_ver_hi = 1;
 	psph->mod_version = 1;
-	psph->devkit_version = 0x06020010;
+	psph->devkit_version = devkit_version;
 	psph->decrypt_mode = 9;
 	psph->overlap_size = 0;
 
