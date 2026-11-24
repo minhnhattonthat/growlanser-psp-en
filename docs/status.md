@@ -219,5 +219,6 @@ Updated at the end of every session. Keep it to what the next session needs; his
   the only header field besides tag/keys that differed; PPSSPP warned). Bisect patches in work/issue1: A = new build
   (clean JP), B = A with the plain ELF as EBOOT.BIN (on top of A), C = clean JP with only EBOOT re-signed. Read:
   A boots -> devkit; B only -> sign_np/tag; C fails -> signing on that Vita; all fail -> ask if clean JP boots.
+  Posted (D20): pre-release issue1-test + issue comment; waiting on the reporter.
 - **Waiting on the user:** (non-blocking) face-plate art spelled ELIOTTE/RUISE/RICHART: redrawn to the glossary
   spellings (Elliot, Luise, Richard) per D9 (session 15); say if the original art spellings should stay.
