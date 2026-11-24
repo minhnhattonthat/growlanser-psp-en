@@ -19,7 +19,7 @@ helps most.
 | Name entry | Keyboard keeps the game's kana and full-width Latin grids (each key is one character code); use the Latin grid for English names |
 | Voice acting, songs | Japanese audio (not subtitled beyond the text boxes the game already shows) |
 
-Known issues: tested in PPSSPP only; the re-signed EBOOT is untested on real hardware. See [Issues](../../issues).
+Known issues: none open; v1.0.2 boots on PS Vita (Adrenaline) and PPSSPP. See [Issues](../../issues).
 
 ## What's here
 

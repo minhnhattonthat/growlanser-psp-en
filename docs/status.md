@@ -220,7 +220,7 @@ Updated at the end of every session. Keep it to what the next session needs; his
   (clean JP), B = A with the plain ELF as EBOOT.BIN (on top of A), C = clean JP with only EBOOT re-signed. Read:
   A boots -> devkit; B only -> sign_np/tag; C fails -> signing on that Vita; all fail -> ask if clean JP boots.
   Posted (D20): pre-release issue1-test + issue comment. Reporter: A and C black screen, B boots and plays, clean JP
-  boots. Fix (D21): EBOOT.BIN = plain patched ELF (build = test B byte for byte, e2d7ca8c). Next: v1.0.2 release
-  (needs the user), then close #1 once the reporter confirms.
+  boots. Fix (D21): EBOOT.BIN = plain patched ELF (build = test B byte for byte, e2d7ca8c). v1.0.2 published
+  (D22) + issue comment; close #1 once the reporter confirms. Pre-release issue1-test can be deleted then.
 - **Waiting on the user:** (non-blocking) face-plate art spelled ELIOTTE/RUISE/RICHART: redrawn to the glossary
   spellings (Elliot, Luise, Richard) per D9 (session 15); say if the original art spellings should stay.

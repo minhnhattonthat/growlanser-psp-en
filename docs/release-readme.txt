@@ -25,8 +25,10 @@ Notes
 -----
 - Tested in PPSSPP. Start from a cold boot: a savestate made on the Japanese game keeps the old code and font.
   Saves carry over.
-- v1.0.1: v1.0 left real hardware less free memory than the original game (black screen on a PS Vita, issue #1);
-  the memory layout now matches the original. Still unconfirmed on real PSP / Vita hardware: reports welcome.
+- v1.0.2: fixes the black screen on PS Vita (Adrenaline) and real hardware (issue #1). EBOOT.BIN is now the
+  decrypted, patched game code, which custom firmware (Adrenaline, PRO, ARK) loads; the re-signed EBOOT of v1.0 and
+  v1.0.1 did not load there. Confirmed booting on a Vita with Adrenaline 6.61.
+- v1.0.1: the memory layout now matches the original game.
 - Bugs: https://github.com/minhnhattonthat/growlanser-psp-en/issues (a save or savestate helps).
 
 Credits
