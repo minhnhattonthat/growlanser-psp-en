@@ -589,8 +589,8 @@ def patched(mode="en", overrides=None, tree=extract.TREE):
     sysdir = "/PSP_GAME/SYSDIR/"
     out = {"/PSP_GAME/USRDIR/gr_data1/MSYS.DAT": bytes(msys), sysdir + "BOOT.BIN": bytes(boot)}
     if mode != "jp":
-        import sign
-        out[sysdir + "EBOOT.BIN"] = sign.sign(bytes(boot))
+        # plain ELF: a sign_np-signed EBOOT black-screens on Vita/Adrenaline, the plain one boots (issue #1, D21)
+        out[sysdir + "EBOOT.BIN"] = bytes(boot)
     return out, {"/PSP_GAME/USRDIR/gr_data1/SCEN.DAT": entries}
 
 

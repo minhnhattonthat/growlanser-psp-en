@@ -4,7 +4,7 @@ Skill: translate-retro-game (Claude Code: plugin, enabled in .claude/settings.js
 Reference: the finished PS1 translation of the same game at `../growlanser-en` (same SCEN/MSYS/MAP.DAT family, glossary, script/*.json with jp+en). Reuse its names, terms and lines where the Japanese matches.
 
 ## Commands (run from repo root)
-- Build:    `python -X utf8 build.py` -> build/growlanser_en.iso (checks the dump against `rom.sha1` first); `--identity` = repack with no edits, exit 1 unless SHA-1 = rom.sha1 (notes `docs/re/build.md`); `--mode marker|jp`, `--qa ID=TEXT`, `--qa-file F --out X` (width-gate rulers: `tools/stress.py`, budgets `docs/windows.md`, lint `tools/fit.py`); code = `asm/vwf.asm` via `tools/insert.py`, EBOOT re-signed by `tools/sign.py` (sign_np under WSL)
+- Build:    `python -X utf8 build.py` -> build/growlanser_en.iso (checks the dump against `rom.sha1` first); `--identity` = repack with no edits, exit 1 unless SHA-1 = rom.sha1 (notes `docs/re/build.md`); `--mode marker|jp`, `--qa ID=TEXT`, `--qa-file F --out X` (width-gate rulers: `tools/stress.py`, budgets `docs/windows.md`, lint `tools/fit.py`); code = `asm/vwf.asm` via `tools/insert.py`, EBOOT.BIN shipped as the plain patched ELF (D21; `tools/sign.py` kept, unused)
 - Check:    `python -X utf8 tools/check.py` (tests + lint; the pre-commit hook runs this)
 - Smoke:    `python -X utf8 $SKILL/scripts/emu.py build/growlanser_en.iso --out work/qa/smoke --route tools/routes/boot.txt --smoke --sheet` (original: `"rom/Growlanser (Japan).iso"`; boot.txt reaches the first dialogue box, ~2000 frames, 17 s)
 - Warp:     `python -X utf8 tools/debug/warp.py --scene <name> --out work/qa/warp` (scenes: `tools/debug/scenes.txt`; `--all` regenerates every entry + `work/states/<name>.ppst`; PPSSPP has no Lua: RAM pokes over the WebSocket via `$SKILL/scripts/psp.py`; never ask the user to play to a scene; notes `docs/re/debug.md`)
@@ -24,7 +24,7 @@ Reference: the finished PS1 translation of the same game at `../growlanser-en` (
 - The user's decisions, with the options and reasons: `docs/decisions.md`. Read it before asking the user anything; add each new ruling there the same session.
 - Player bug reports: GitHub issues (`gh issue list --label bug`). Copy the attached save into `work/states/`, reproduce in the emulator, fix, commit with `Fixes #N`, and update `docs/status.md`.
 - Hooks: `git config core.hooksPath tools/hooks` once per clone.
-- PSP buttons: circle = OK, cross = cancel. EBOOT.BIN is encrypted: patch the PPSSPP-dumped ELF, then re-sign (never ship the plain ELF).
+- PSP buttons: circle = OK, cross = cancel. EBOOT.BIN is encrypted: patch the PPSSPP-dumped ELF and ship it plain (D21: Vita/Adrenaline boots the plain ELF; our sign_np-signed EBOOT black-screened there, issue #1).
 
 ## Status
 `docs/status.md`: done, next, open bugs. Update it at the end of every session.

@@ -1,6 +1,6 @@
 """build.py: rebuild the UMD image with patched files swapped in.
 
-  python -X utf8 build.py             -> build/growlanser_en.iso (tools/insert.py: text, asm/vwf.asm, signed EBOOT)
+  python -X utf8 build.py             -> build/growlanser_en.iso (tools/insert.py: text, asm/vwf.asm, plain EBOOT)
   python -X utf8 build.py --mode marker [--qa ID=TEXT].. -> build/growlanser_marker.iso ("[id] The quick..." lines)
   python -X utf8 build.py --identity  -> work/ident/identity.iso: every archive repacked with no edits; exit 1 unless
                                          its SHA-1 equals rom.sha1
@@ -8,8 +8,9 @@
 Steps: check the dump (rom.sha1), unpack the ISO into work/iso/ if missing (read only, never written to), repack the
 archives through their pack() (dat.py sector archives, datadat.py named archives, glb.py), copy the original ISO and
 swap the files in with iso9660.patch (a file that grows moves to the end of the image).
-EBOOT.BIN: code patches go into BOOT.BIN (the decrypted module) and are re-signed into EBOOT.BIN (tools/sign.py,
-sign_np under WSL), never shipped as the plain ELF; --mode jp keeps the shipped EBOOT."""
+EBOOT.BIN: code patches go into BOOT.BIN (the decrypted module), shipped as both BOOT.BIN and a plain-ELF EBOOT.BIN:
+the sign_np-signed one (tools/sign.py, kept) black-screens on Vita/Adrenaline (issue #1, D21); --mode jp keeps the
+shipped EBOOT."""
 import argparse
 import hashlib
 import shutil
